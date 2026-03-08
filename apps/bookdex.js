@@ -813,7 +813,7 @@ export class BookDex extends plugin {
         },
         {
           reg: '^#统一更新$',
-          fnc: 'updateAllTexts',
+          fnc: 'updateAllTextsCommand',
           permission: 'master'
         },
         {
@@ -912,18 +912,27 @@ export class BookDex extends plugin {
     return cycleDay >= 1 && cycleDay <= 5
   }
 
-  async updateAllTexts(silent = false) {
-    if (!silent) await this.reply('开始统一更新：书籍 + 角色故事 + 圣遗物 + 武器')
+  async updateAllTextsCommand() {
+    return this.updateAllTexts(false)
+  }
 
-    const [b, r, s, w] = await Promise.all([
-      fetchBooksFromWiki(),
-      fetchRoleStoryAll(),
-      fetchRelicAll(),
-      fetchWeaponAll()
-    ])
+  async updateAllTexts(silent = false) {
+    if (typeof silent !== 'boolean') silent = false
+
+    if (!silent) await this.reply('开始统一更新（1/5）：准备任务')
+
+    if (!silent) await this.reply('统一更新（2/5）：正在更新书籍数据…')
+    const b = await fetchBooksFromWiki()
+
+    if (!silent) await this.reply('统一更新（3/5）：正在更新角色故事数据…')
+    const r = await fetchRoleStoryAll()
+
+    if (!silent) await this.reply('统一更新（4/5）：正在更新圣遗物与武器数据…')
+    const s = await fetchRelicAll()
+    const w = await fetchWeaponAll()
 
     const msg = [
-      '统一更新完成 ✅',
+      '统一更新完成 ✅（5/5）',
       `书籍：${b.total} 本`,
       `角色故事：${r.total} 个`,
       `圣遗物：${s.total} 套`,
