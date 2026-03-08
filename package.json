@@ -4,6 +4,7 @@
   "type": "module",
   "description": "书籍角色文本图鉴（bookdex-plugin）", 
   "dependencies": {
-    "mammoth": "^1.8.0"
+    "mammoth": "^1.8.0",
+    "puppeteer": "*"
   }
 }
