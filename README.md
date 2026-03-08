@@ -10,9 +10,10 @@
 git clone https://github.com/KexinyingLife/bookdex-plugin.git ./plugins/bookdex-plugin
 ```
 
-依赖安装（同样在 Yunzai 主目录执行）：
+依赖安装（推荐，进入插件目录执行，适配所有用户环境）：
 
 ```bash
+cd plugins/bookdex-plugin
 pnpm i
 ```
 
