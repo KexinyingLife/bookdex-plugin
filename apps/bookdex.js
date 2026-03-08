@@ -794,8 +794,8 @@ export class BookDex extends plugin {
       priority: 5000,
       rule: [
         {
-          reg: '^#(书角图鉴帮助|bookdex帮助)$',
-          fnc: 'bookHelp'
+          reg: '^#(书角图鉴帮助|书籍图鉴帮助|bookdex帮助)$',
+          fnc: 'totalHelp'
         },
         {
           reg: '^#书籍帮助\\d*$',
@@ -943,6 +943,16 @@ export class BookDex extends plugin {
       logger.error('[bookdex.autoUpdateWindowTick]', err)
     }
     return true
+  }
+
+  async totalHelp() {
+    await ensureDirs()
+    const helpImg = path.join(pluginDir, 'resources', 'help-main.jpg')
+    if (fss.existsSync(helpImg)) {
+      await this.reply(segment.image(`file://${helpImg}`))
+      return true
+    }
+    return this.reply('总帮助图缺失，请先更新插件资源后重试。')
   }
 
   async bookHelp() {
