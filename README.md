@@ -4,16 +4,15 @@
 
 ## 安装方式
 
+在 Yunzai 主目录执行：
+
 ```bash
-cd Yunzai-Bot
-cd plugins
-git clone https://github.com/KexinyingLife/bookdex-plugin.git
+git clone https://github.com/KexinyingLife/bookdex-plugin.git ./plugins/bookdex-plugin
 ```
 
-依赖安装（在 Yunzai 主目录执行）：
+依赖安装（同样在 Yunzai 主目录执行）：
 
 ```bash
-cd Yunzai-Bot
 pnpm i
 ```
 
@@ -54,7 +53,7 @@ pnpm i
 
 ### 帮助/列表
 
-- `#图鉴帮助`（总帮助入口）
+- `#书角图鉴帮助`（总帮助入口）
 - `#书籍帮助`
 - `#角色故事帮助`
 - `#圣遗物帮助`
