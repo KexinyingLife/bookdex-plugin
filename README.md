@@ -1,23 +1,19 @@
 # 书籍角色文本图鉴（bookdex-plugin）
 
-> 运行于 **Yunzai 主目录任意位置**（并不限定 `/opt`）。
-
 ![help](./resources/help-main.jpg)
 
 ## 安装方式
 
-请在你自己的 **Yunzai 主目录**执行（重点：在主目录里执行，只是克隆到 `plugins`）：
-
 ```bash
-cd <你的Yunzai主目录>
+cd /opt/Yunzai
 cd plugins
 git clone https://github.com/KexinyingLife/bookdex-plugin.git
 ```
 
-如果依赖未自动安装：
+依赖安装（在 Yunzai 主目录执行）：
 
 ```bash
-cd <你的Yunzai主目录>/plugins/bookdex-plugin
+cd /opt/Yunzai
 pnpm i
 ```
 
