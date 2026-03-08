@@ -1,0 +1,9 @@
+{
+  "name": "bookdex-plugin",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "书籍角色文本图鉴（bookdex-plugin）", 
+  "dependencies": {
+    "mammoth": "^1.8.0"
+  }
+}
