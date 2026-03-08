@@ -794,6 +794,10 @@ export class BookDex extends plugin {
       priority: 5000,
       rule: [
         {
+          reg: '^#(图鉴帮助|bookdex帮助)$',
+          fnc: 'bookHelp'
+        },
+        {
           reg: '^#书籍帮助\\d*$',
           fnc: 'bookHelp'
         },
