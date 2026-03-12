@@ -589,30 +589,65 @@ function cleanPlotText(text = '') {
     .trim()
 }
 
+function parsePlotCategory(extRaw = '') {
+  try {
+    const ext = typeof extRaw === 'string' ? JSON.parse(extRaw || '{}') : (extRaw || {})
+    const text = ext?.c_43?.filter?.text || ''
+    const arr = typeof text === 'string' ? JSON.parse(text) : []
+    const hit = arr.find(x => String(x).startsWith('任务类型/'))
+    return hit ? String(hit).replace(/^任务类型\//, '').trim() : '其他任务'
+  } catch {
+    return '其他任务'
+  }
+}
+
 function parsePlotPage(page = {}) {
   const modules = page.modules || []
   const sections = []
+  const add = (title, txt) => {
+    const t = cleanPlotText(txt || '')
+    if (!t || t.length < 10) return
+    sections.push({ title, text: t })
+  }
+
   for (const m of modules) {
     if ((m.name || '').trim() !== '剧情对话') continue
-    const t = cleanPlotText(pickSectionText(m) || '')
-    if (!t || t.length < 10) continue
-    sections.push(t)
+    add(m.name, pickSectionText(m) || '')
   }
-  return sections
+
+  if (!sections.length) {
+    for (const m of modules) {
+      const name = (m.name || '').trim()
+      if (!['任务过程', '任务概述'].includes(name)) continue
+      add(name, pickSectionText(m) || '')
+    }
+  }
+
+  const dedup = []
+  const seen = new Set()
+  for (const sec of sections) {
+    const key = `${sec.title}@@${sec.text}`
+    if (seen.has(key)) continue
+    seen.add(key)
+    dedup.push(sec)
+  }
+  return dedup
 }
 
 function renderPlotText(item, mode = 'full') {
   const lines = []
   if (mode === 'detail') {
     lines.push(`📜 ${item.name}剧情详情`)
+    lines.push(`任务类型：${item.category || '其他任务'}`)
     lines.push(`剧情段数：${(item.sections || []).length}`)
-    ;(item.sections || []).forEach((_, i) => lines.push(`${i + 1}. 剧情对话 ${i + 1}`))
+    ;(item.sections || []).forEach((sec, i) => lines.push(`${i + 1}. ${sec.title || `剧情段落 ${i + 1}`}`))
     return lines.join('\n')
   }
 
   lines.push(`📜 ${item.name}剧情文本`)
+  if (item.category) lines.push(`任务类型：${item.category}`)
   ;(item.sections || []).forEach((sec, i) => {
-    lines.push(`\n【剧情对话 ${i + 1}】\n${sec}`)
+    lines.push(`\n【${sec.title || `剧情段落 ${i + 1}`}】\n${sec.text || ''}`)
   })
   return lines.join('\n')
 }
@@ -853,9 +888,10 @@ async function fetchPlotAll() {
     const sections = parsePlotPage(page)
     if (!sections.length) continue
 
-    const item = { id, name, alias: [normalizeRoleName(name)], sections }
+    const category = parsePlotCategory(it.ext)
+    const item = { id, name, alias: [normalizeRoleName(name)], category, sections }
     await fs.writeFile(path.join(plotRoot, `${slugify(name)}.json`), JSON.stringify(item, null, 2), 'utf8')
-    items.push({ id, name, alias: item.alias, sectionCount: sections.length })
+    items.push({ id, name, alias: item.alias, category, sectionCount: sections.length })
   }
 
   items.sort((a, b) => a.name.localeCompare(b.name, 'zh-Hans-CN'))
@@ -1389,8 +1425,25 @@ export class BookDex extends plugin {
       plots: items
     })
 
-    const lines = items.map((r, i) => `${i + 1}. ${r.name}`)
-    return this.reply([`📜 剧情文本列表（共 ${items.length}）`, '命令：#任务名剧情 / #任务名剧情文本 / #剧情搜索 关键词', ...lines].join('\n'))
+    const order = ['魔神任务', '传说任务', '世界任务', '限时任务', '其他任务']
+    const grouped = new Map(order.map(k => [k, []]))
+    for (const item of items) {
+      const key = order.includes(item.category) ? item.category : '其他任务'
+      grouped.get(key).push(item)
+    }
+
+    const lines = [`📜 剧情文本列表（共 ${items.length}）`, '命令：#任务名剧情 / #任务名剧情文本 / #剧情搜索 关键词']
+    let no = 1
+    for (const key of order) {
+      const arr = grouped.get(key) || []
+      if (!arr.length) continue
+      lines.push(`\n【${key}｜${arr.length}】`)
+      for (const item of arr) {
+        lines.push(`${no}. ${item.name}`)
+        no++
+      }
+    }
+    return this.reply(lines.join('\n'))
   }
 
   async plotRead() {
@@ -1608,8 +1661,8 @@ ${item.text || ''}`
         const full = path.join(plotRoot, `${slugify(it.name)}.json`)
         if (!fss.existsSync(full)) continue
         const data = JSON.parse(await fs.readFile(full, 'utf8'))
-        const merged = (data.sections || []).join('\n')
-        const titleHit = it.name.includes(keyword)
+        const merged = (data.sections || []).map(s => `${s.title || ''}\n${s.text || ''}`).join('\n')
+        const titleHit = it.name.includes(keyword) || (data.category || '').includes(keyword)
         const textHit = merged.includes(keyword)
         if (titleHit || textHit) rows.push({ type: 'plot', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
       }
