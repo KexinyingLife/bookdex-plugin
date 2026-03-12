@@ -634,6 +634,20 @@ function parsePlotPage(page = {}) {
   return dedup
 }
 
+function parsePlotSearchText(page = {}) {
+  const modules = page.modules || []
+  const pieces = []
+  for (const m of modules) {
+    const name = (m.name || '').trim()
+    if (!name) continue
+    if (['任务奖励', '攻略方法'].includes(name)) continue
+    const t = cleanPlotText(pickSectionText(m) || '')
+    if (!t || t.length < 4) continue
+    pieces.push(`【${name}】\n${t}`)
+  }
+  return pieces.join('\n\n').trim()
+}
+
 function renderPlotText(item, mode = 'full') {
   const lines = []
   if (mode === 'detail') {
@@ -886,10 +900,11 @@ async function fetchPlotAll() {
     if (!page) continue
 
     const sections = parsePlotPage(page)
-    if (!sections.length) continue
+    const searchText = parsePlotSearchText(page)
+    if (!sections.length && !searchText) continue
 
     const category = parsePlotCategory(it.ext)
-    const item = { id, name, alias: [normalizeRoleName(name)], category, sections }
+    const item = { id, name, alias: [normalizeRoleName(name)], category, sections, searchText }
     await fs.writeFile(path.join(plotRoot, `${slugify(name)}.json`), JSON.stringify(item, null, 2), 'utf8')
     items.push({ id, name, alias: item.alias, category, sectionCount: sections.length })
   }
@@ -1432,18 +1447,21 @@ export class BookDex extends plugin {
       grouped.get(key).push(item)
     }
 
-    const lines = [`📜 剧情文本列表（共 ${items.length}）`, '命令：#任务名剧情 / #任务名剧情文本 / #剧情搜索 关键词']
+    await this.reply(`📜 剧情文本列表（共 ${items.length}）\n命令：#任务名剧情 / #任务名剧情文本 / #剧情搜索 关键词`)
     let no = 1
     for (const key of order) {
       const arr = grouped.get(key) || []
       if (!arr.length) continue
-      lines.push(`\n【${key}｜${arr.length}】`)
+      const block = [`【${key}｜${arr.length}】`]
       for (const item of arr) {
-        lines.push(`${no}. ${item.name}`)
+        block.push(`${no}. ${item.name}`)
         no++
       }
+      for (const part of chunkLines(block, 40)) {
+        await this.reply(part.join('\n'))
+      }
     }
-    return this.reply(lines.join('\n'))
+    return true
   }
 
   async plotRead() {
@@ -1661,7 +1679,10 @@ ${item.text || ''}`
         const full = path.join(plotRoot, `${slugify(it.name)}.json`)
         if (!fss.existsSync(full)) continue
         const data = JSON.parse(await fs.readFile(full, 'utf8'))
-        const merged = (data.sections || []).map(s => `${s.title || ''}\n${s.text || ''}`).join('\n')
+        const merged = [
+          (data.sections || []).map(s => `${s.title || ''}\n${s.text || ''}`).join('\n'),
+          data.searchText || ''
+        ].join('\n')
         const titleHit = it.name.includes(keyword) || (data.category || '').includes(keyword)
         const textHit = merged.includes(keyword)
         if (titleHit || textHit) rows.push({ type: 'plot', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
