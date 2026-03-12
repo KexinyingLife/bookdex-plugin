@@ -25,6 +25,8 @@ const relicRoot = path.join(dataRoot, 'relics')
 const relicIndexFile = path.join(relicRoot, 'index.json')
 const weaponRoot = path.join(dataRoot, 'weapons')
 const weaponIndexFile = path.join(weaponRoot, 'index.json')
+const voiceRoot = path.join(dataRoot, 'voices')
+const voiceIndexFile = path.join(voiceRoot, 'index.json')
 
 const helpSessionCache = new Map()
 
@@ -36,6 +38,7 @@ async function ensureDirs() {
   await fs.mkdir(storyRoot, { recursive: true })
   await fs.mkdir(relicRoot, { recursive: true })
   await fs.mkdir(weaponRoot, { recursive: true })
+  await fs.mkdir(voiceRoot, { recursive: true })
 }
 
 function slugify(name) {
@@ -410,6 +413,14 @@ async function loadWeaponIndex() {
   }
 }
 
+async function loadVoiceIndex() {
+  try {
+    return JSON.parse(await fs.readFile(voiceIndexFile, 'utf8'))
+  } catch {
+    return { roles: [] }
+  }
+}
+
 function normalizeRoleName(name = '') {
   return name.replace(/\s+/g, '').replace(/[·・]/g, '·')
 }
@@ -556,6 +567,67 @@ function renderRoleStoryText(role, mode = 'story') {
   return lines.join('\n')
 }
 
+
+function parseRoleVoices(page = {}) {
+  const modules = page.modules || []
+  const mod = modules.find(m => m.name === '配音展示')
+  const comp = mod?.components?.find(x => x.component_id === 'role_voice')
+  if (!comp?.data) return []
+
+  let data = {}
+  try { data = JSON.parse(comp.data || '{}') } catch { return [] }
+
+  const tabs = []
+  for (const tab of data.list || []) {
+    const lang = (tab.tab_name || '').trim() || '未知'
+    const items = []
+    for (const row of tab.table || []) {
+      const name = htmlToText(row.name || '').trim()
+      const text = htmlToText(row.content || '').trim()
+      const audioUrl = String(row.audio_url || '').trim()
+      if (!name || (!text && !audioUrl)) continue
+      items.push({ name, text, audioUrl, audioName: row.audio_name || '' })
+    }
+    if (items.length) tabs.push({ lang, items })
+  }
+  return tabs
+}
+
+function pickDefaultVoiceTab(voice = {}) {
+  const tabs = voice.tabs || []
+  return tabs.find(t => t.lang === '汉语') || tabs[0] || { lang: '汉语', items: [] }
+}
+
+function renderVoiceListText(voice, detail = false) {
+  const tab = pickDefaultVoiceTab(voice)
+  const lines = [`🎙️ ${voice.name}语音列表（${tab.lang}）`, '发送序号查看图，发送“序号文本”查看文本，发送“序号语音”播放语音']
+  for (const [i, item] of (tab.items || []).entries()) {
+    if (detail) {
+      lines.push(`\n${i + 1}. ${item.name}`)
+      lines.push(item.text || '暂无文本')
+    } else {
+      const preview = (item.text || '暂无文本').replace(/\s+/g, ' ').slice(0, 36)
+      lines.push(`${i + 1}. ${item.name}${preview ? `\n  ↳ ${preview}${(item.text || '').length > 36 ? '…' : ''}` : ''}`)
+    }
+  }
+  return lines.join('\n')
+}
+
+function renderVoiceEntryText(entry) {
+  return [
+    `🎧 ${entry.role}｜${entry.lang}`,
+    `【标题】${entry.name}`,
+    `【文本】\n${entry.text || '暂无文本'}`,
+    `【语音】${entry.audioUrl ? '可播放' : '缺失'}`
+  ].join('\n')
+}
+
+async function sendVoiceRecord(e, url) {
+  if (!url) return e.reply('该条语音没有音频地址')
+  await e.reply(segment.record(url))
+  return true
+}
+
 function parseRelicPiece(module = {}) {
   const c = (module.components || []).find(x => x.component_id === 'artifact_list_v2')
   if (!c) return null
@@ -699,6 +771,59 @@ async function fetchWeaponAll() {
   return { total: weapons.length }
 }
 
+
+async function fetchVoiceAll() {
+  const roleMap = new Map()
+  for (let page = 1; page <= 20; page++) {
+    const u = new URL('https://act-api-takumi.mihoyo.com/common/blackboard/ys_obc/v1/content/selector')
+    u.searchParams.set('app_sn', 'ys_obc')
+    u.searchParams.set('channel_id', '25')
+    u.searchParams.set('page', String(page))
+    u.searchParams.set('page_size', '100')
+    const j = await (await fetch(u, { headers: { 'user-agent': 'Mozilla/5.0' } })).json()
+    const list = j?.data?.list || []
+    if (!list.length) break
+    for (const it of list) {
+      const name = (it.title || it.name || '').trim()
+      if (!name) continue
+      if (name.includes('旅行者')) {
+        if (!roleMap.has('旅行者')) roleMap.set('旅行者', it)
+        continue
+      }
+      roleMap.set(name, it)
+    }
+  }
+
+  const roles = []
+  for (const it of roleMap.values()) {
+    const roleName = (it.title || it.name || '').trim()
+    const id = String(it.id)
+    const u = new URL('https://act-api-takumi-static.mihoyo.com/hoyowiki/genshin/wapi/entry_page')
+    u.searchParams.set('app_sn', 'ys_obc')
+    u.searchParams.set('entry_page_id', id)
+    const j = await (await fetch(u, { headers: { 'user-agent': 'Mozilla/5.0' } })).json()
+    const page = j?.data?.page
+    if (!page) continue
+
+    const tabs = parseRoleVoices(page)
+    if (!tabs.length) continue
+
+    const item = { id, name: roleName, alias: [normalizeRoleName(roleName)], tabs }
+    await fs.writeFile(path.join(voiceRoot, `${slugify(roleName)}.json`), JSON.stringify(item, null, 2), 'utf8')
+    roles.push({
+      id,
+      name: roleName,
+      alias: item.alias,
+      langCount: tabs.length,
+      itemCount: tabs.reduce((sum, t) => sum + (t.items || []).length, 0)
+    })
+  }
+
+  roles.sort((a, b) => a.name.localeCompare(b.name, 'zh-Hans-CN'))
+  await fs.writeFile(voiceIndexFile, JSON.stringify({ roles, updatedAt: Date.now() }, null, 2), 'utf8')
+  return { total: roles.length }
+}
+
 function renderWeaponText(w) {
   return `📘 武器：${w.name}\n\n【武器故事】\n${w.story || '暂无'}`
 }
@@ -822,8 +947,21 @@ export class BookDex extends plugin {
           permission: 'master'
         },
         {
+          reg: '^#语音更新$',
+          fnc: 'updateVoices',
+          permission: 'master'
+        },
+        {
           reg: '^#角色故事帮助$',
           fnc: 'roleStoryHelp'
+        },
+        {
+          reg: '^#语音帮助$',
+          fnc: 'voiceHelp'
+        },
+        {
+          reg: '^#.+语音(文本)?$',
+          fnc: 'voiceRead'
         },
         {
           reg: '^#.+故事(详情)?(文本)?$',
@@ -872,11 +1010,15 @@ export class BookDex extends plugin {
           fnc: 'searchWeapons'
         },
         {
+          reg: '^#语音搜索\s*.+$',
+          fnc: 'searchVoices'
+        },
+        {
           reg: '^#搜索\s*.+$',
           fnc: 'searchAll'
         },
         {
-          reg: '^\\d{1,3}(文本)?$',
+          reg: '^\\d{1,3}(文本|语音)?$',
           fnc: 'pickByIndex'
         },
         {
@@ -927,16 +1069,20 @@ export class BookDex extends plugin {
     if (!silent) await this.reply('统一更新（3/5）：正在更新角色故事数据…')
     const r = await fetchRoleStoryAll()
 
-    if (!silent) await this.reply('统一更新（4/5）：正在更新圣遗物与武器数据…')
+    if (!silent) await this.reply('统一更新（4/6）：正在更新圣遗物与武器数据…')
     const s = await fetchRelicAll()
     const w = await fetchWeaponAll()
 
+    if (!silent) await this.reply('统一更新（5/6）：正在更新角色语音数据…')
+    const v = await fetchVoiceAll()
+
     const msg = [
-      '统一更新完成 ✅（5/5）',
+      '统一更新完成 ✅（6/6）',
       `书籍：${b.total} 本`,
       `角色故事：${r.total} 个`,
       `圣遗物：${s.total} 套`,
-      `武器故事：${w.total} 把`
+      `武器故事：${w.total} 把`,
+      `角色语音：${v.total} 个角色`
     ].join('\n')
 
     if (!silent) return this.reply(msg)
@@ -1050,6 +1196,66 @@ export class BookDex extends plugin {
     for (const img of imgs) {
       await this.reply(segment.image(`file://${img}`))
     }
+    return true
+  }
+
+
+  async updateVoices() {
+    await this.reply('开始抓取角色语音，请稍等（约1-3分钟）')
+    const ret = await fetchVoiceAll()
+    return this.reply(`角色语音更新完成：共 ${ret.total} 个角色。\n命令：#语音帮助`)
+  }
+
+  async voiceHelp() {
+    const idx = await loadVoiceIndex()
+    const roles = idx.roles || []
+    if (!roles.length) return this.reply('暂无角色语音数据，请先发送 #语音更新')
+
+    helpSessionCache.set(this.userKey(), {
+      at: Date.now(),
+      type: 'voice-role',
+      roles
+    })
+
+    const lines = roles.map((r, i) => `${i + 1}. ${r.name}`)
+    return this.reply([`🎙️ 角色语音列表（共 ${roles.length}）`, '命令：#角色名语音 / #角色名语音文本 / #语音搜索 关键词', ...lines].join('\n'))
+  }
+
+  async voiceRead() {
+    const msg = this.e.msg.trim()
+    const m = msg.match(/^#(.+?)语音(文本)?$/)
+    if (!m) return false
+    const raw = (m[1] || '').trim()
+    const forceText = Boolean(m[2])
+    if (!raw) return false
+
+    const idx = await loadVoiceIndex()
+    const roles = idx.roles || []
+    if (!roles.length) return this.reply('暂无角色语音数据，请先发送 #语音更新')
+
+    const key = normalizeRoleName(raw)
+    const meta = roles.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
+      || roles.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
+    if (!meta) return false
+
+    const file = path.join(voiceRoot, `${slugify(meta.name)}.json`)
+    if (!fss.existsSync(file)) return this.reply(`未找到角色语音：${meta.name}`)
+    const voice = JSON.parse(await fs.readFile(file, 'utf8'))
+    const tab = pickDefaultVoiceTab(voice)
+
+    helpSessionCache.set(this.userKey(), {
+      at: Date.now(),
+      type: 'voice-entry',
+      role: voice.name,
+      lang: tab.lang,
+      entries: (tab.items || []).map(item => ({ role: voice.name, lang: tab.lang, ...item }))
+    })
+
+    const text = renderVoiceListText(voice, forceText)
+    if (forceText) return replyLong(this.e, text)
+
+    const imgs = await renderTextAsImages(`${voice.name}语音列表`, text)
+    for (const img of imgs) await this.reply(segment.image(`file://${img}`))
     return true
   }
 
@@ -1212,6 +1418,28 @@ export class BookDex extends plugin {
       }
     }
 
+    if (types.includes('voice')) {
+      const vi = await loadVoiceIndex()
+
+      for (const r of vi.roles || []) {
+        const full = path.join(voiceRoot, `${slugify(r.name)}.json`)
+        if (!fss.existsSync(full)) continue
+        const data = JSON.parse(await fs.readFile(full, 'utf8'))
+        for (const tab of data.tabs || []) {
+          if (!['汉语', '中文'].includes(tab.lang)) continue
+          for (const item of tab.items || []) {
+            const merged = `${item.name || ''}
+${item.text || ''}`
+            const titleHit = r.name.includes(keyword) || (item.name || '').includes(keyword)
+            const textHit = merged.includes(keyword)
+            if (titleHit || textHit) {
+              rows.push({ type: 'voice', name: `${r.name}｜${item.name}`, role: r.name, lang: tab.lang, voiceName: item.name, text: item.text || '', audioUrl: item.audioUrl || '', snippet: textHit ? makeSnippet(merged, keyword) : '' })
+            }
+          }
+        }
+      }
+    }
+
     return rows
   }
 
@@ -1226,10 +1454,10 @@ export class BookDex extends plugin {
       results: rows
     })
 
-    const mapLabel = { book: '书籍', role: '角色', relic: '圣遗物', weapon: '武器' }
+    const mapLabel = { book: '书籍', role: '角色', relic: '圣遗物', weapon: '武器', voice: '语音' }
     const lines = rows.map((r, i) => `${i + 1}. [${mapLabel[r.type]}] ${r.name}${r.snippet ? `\n  ↳ ${r.snippet}` : ''}`)
 
-    await this.reply(`🔎 关键词：${keyword}\n共找到 ${rows.length} 条\n可引用本搜索结果发序号查看详情（可加“文本”）`)
+    await this.reply(`🔎 关键词：${keyword}\n共找到 ${rows.length} 条\n可引用本搜索结果发序号查看详情（可加“文本”或“语音”）`)
     for (const part of chunkLines(lines, 20)) {
       await this.reply(part.join('\n'))
     }
@@ -1254,10 +1482,17 @@ export class BookDex extends plugin {
     return this.replySearch(keyword, ['weapon'])
   }
 
+
+  async searchVoices() {
+    const keyword = this.e.msg.replace(/^#语音搜索\s*/, '').trim()
+    if (!keyword) return this.reply('请输入关键词')
+    return this.replySearch(keyword, ['voice'])
+  }
+
   async searchAll() {
     const keyword = this.e.msg.replace(/^#搜索\s*/, '').trim()
     if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['book', 'role', 'relic', 'weapon'])
+    return this.replySearch(keyword, ['book', 'role', 'relic', 'weapon', 'voice'])
   }
 
   async searchBooks() {
@@ -1346,10 +1581,11 @@ export class BookDex extends plugin {
 
   async pickByIndex() {
     const raw = this.e.msg.trim()
-    const idx = Number(raw.replace(/文本$/, ''))
+    const idx = Number(raw.replace(/(文本|语音)$/, ''))
     if (!idx || idx < 1) return false
 
     const forceText = /文本$/.test(raw)
+    const wantVoice = /语音$/.test(raw)
     let session = helpSessionCache.get(this.userKey())
 
     // 1) 优先按最近帮助类型分发
@@ -1362,6 +1598,33 @@ export class BookDex extends plugin {
       const text = renderRelicText(set)
       if (forceText) return replyLong(this.e, text)
       const imgs = await renderTextAsImages(`${set.name}圣遗物`, text)
+      for (const img of imgs) await this.reply(segment.image(`file://${img}`))
+      return true
+    }
+
+    if (session?.type === 'voice-role' && Array.isArray(session.roles)) {
+      const meta = session.roles[idx - 1]
+      if (!meta) return this.reply('序号超出范围，请先发送 #语音帮助')
+      const file = path.join(voiceRoot, `${slugify(meta.name)}.json`)
+      if (!fss.existsSync(file)) return this.reply(`未找到角色语音：${meta.name}`)
+      const voice = JSON.parse(await fs.readFile(file, 'utf8'))
+      const tab = pickDefaultVoiceTab(voice)
+      const entries = (tab.items || []).map(item => ({ role: voice.name, lang: tab.lang, ...item }))
+      helpSessionCache.set(this.userKey(), { at: Date.now(), type: 'voice-entry', role: voice.name, lang: tab.lang, entries })
+      const text = renderVoiceListText(voice, forceText)
+      if (forceText) return replyLong(this.e, text)
+      const imgs = await renderTextAsImages(`${voice.name}语音列表`, text)
+      for (const img of imgs) await this.reply(segment.image(`file://${img}`))
+      return true
+    }
+
+    if (session?.type === 'voice-entry' && Array.isArray(session.entries)) {
+      const entry = session.entries[idx - 1]
+      if (!entry) return this.reply('序号超出范围，请先重新打开语音列表')
+      if (wantVoice) return sendVoiceRecord(this.e, entry.audioUrl)
+      const text = renderVoiceEntryText(entry)
+      if (forceText) return replyLong(this.e, text)
+      const imgs = await renderTextAsImages(`${entry.role}语音`, text)
       for (const img of imgs) await this.reply(segment.image(`file://${img}`))
       return true
     }
@@ -1420,6 +1683,15 @@ export class BookDex extends plugin {
         const text = renderWeaponText(w)
         if (forceText) return replyLong(this.e, text)
         const imgs = await renderTextAsImages(`${w.name}武器故事`, text)
+        for (const img of imgs) await this.reply(segment.image(`file://${img}`))
+        return true
+      }
+      if (row.type === 'voice') {
+        const entry = { role: row.role, lang: row.lang, name: row.voiceName, text: row.text, audioUrl: row.audioUrl }
+        if (wantVoice) return sendVoiceRecord(this.e, entry.audioUrl)
+        const text = renderVoiceEntryText(entry)
+        if (forceText) return replyLong(this.e, text)
+        const imgs = await renderTextAsImages(`${entry.role}语音`, text)
         for (const img of imgs) await this.reply(segment.image(`file://${img}`))
         return true
       }
