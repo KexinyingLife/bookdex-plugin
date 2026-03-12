@@ -612,7 +612,18 @@ function parsePlotPage(page = {}) {
 
   for (const m of modules) {
     if ((m.name || '').trim() !== '剧情对话') continue
-    add(m.name, pickSectionText(m) || '')
+    const comps = m.components || []
+    let added = false
+    for (const comp of comps) {
+      if ((comp.component_id || '') === 'interactive_dialogue') {
+        const txt = parseInteractiveDialogue(comp)
+        if (txt) {
+          add(m.name, txt)
+          added = true
+        }
+      }
+    }
+    if (!added) add(m.name, pickSectionText(m) || '')
   }
 
   if (!sections.length) {
@@ -638,10 +649,18 @@ function parsePlotSearchText(page = {}) {
   const modules = page.modules || []
   const pieces = []
   for (const m of modules) {
-    const name = (m.name || '').trim()
-    if (!name) continue
-    if (['任务奖励', '攻略方法'].includes(name)) continue
-    const t = cleanPlotText(pickSectionText(m) || '')
+    const name = (m.name || '').trim() || '正文片段'
+    if (['任务奖励', '攻略方法', '地图说明'].includes(name)) continue
+
+    let rich = ''
+    for (const comp of m.components || []) {
+      if ((comp.component_id || '') === 'interactive_dialogue') {
+        rich += `\n${parseInteractiveDialogue(comp)}`
+      }
+    }
+    rich += `\n${pickSectionText(m) || ''}`
+
+    const t = cleanPlotText(rich)
     if (!t || t.length < 4) continue
     pieces.push(`【${name}】\n${t}`)
   }
@@ -664,6 +683,50 @@ function renderPlotText(item, mode = 'full') {
     lines.push(`\n【${sec.title || `剧情段落 ${i + 1}`}】\n${sec.text || ''}`)
   })
   return lines.join('\n')
+}
+
+function parseInteractiveDialogue(component = {}) {
+  if ((component.component_id || '') !== 'interactive_dialogue') return ''
+  let data = {}
+  try { data = JSON.parse(component.data || '{}') } catch { return '' }
+
+  const blocks = []
+  const list = data.list || []
+  for (const group of list) {
+    const contents = group?.contents || data.contents || {}
+    const orderedIds = []
+    const pushed = new Set()
+
+    const rootId = group?.root_id || data.root_id || ''
+    const childIds = group?.child_ids || data.child_ids || {}
+
+    const walk = (id) => {
+      if (!id || pushed.has(id)) return
+      pushed.add(id)
+      orderedIds.push(id)
+      const next = childIds?.[id] || []
+      for (const nid of next) walk(nid)
+    }
+
+    if (rootId) walk(rootId)
+    for (const id of Object.keys(contents || {})) {
+      if (!pushed.has(id)) orderedIds.push(id)
+    }
+
+    const lines = []
+    for (const id of orderedIds) {
+      const node = contents?.[id]
+      if (!node) continue
+      const dialogue = cleanPlotText(htmlToText(node.dialogue || ''))
+      const option = cleanPlotText(htmlToText(node.option || ''))
+      if (option) lines.push(`【选项】${option}`)
+      if (dialogue) lines.push(dialogue)
+    }
+    const txt = lines.join('\n').trim()
+    if (txt) blocks.push(txt)
+  }
+
+  return blocks.join('\n\n').trim()
 }
 
 function parseRoleVoices(page = {}) {
