@@ -27,6 +27,8 @@ const weaponRoot = path.join(dataRoot, 'weapons')
 const weaponIndexFile = path.join(weaponRoot, 'index.json')
 const voiceRoot = path.join(dataRoot, 'voices')
 const voiceIndexFile = path.join(voiceRoot, 'index.json')
+const plotRoot = path.join(dataRoot, 'plots')
+const plotIndexFile = path.join(plotRoot, 'index.json')
 
 const helpSessionCache = new Map()
 
@@ -39,6 +41,7 @@ async function ensureDirs() {
   await fs.mkdir(relicRoot, { recursive: true })
   await fs.mkdir(weaponRoot, { recursive: true })
   await fs.mkdir(voiceRoot, { recursive: true })
+  await fs.mkdir(plotRoot, { recursive: true })
 }
 
 function slugify(name) {
@@ -421,6 +424,14 @@ async function loadVoiceIndex() {
   }
 }
 
+async function loadPlotIndex() {
+  try {
+    return JSON.parse(await fs.readFile(plotIndexFile, 'utf8'))
+  } catch {
+    return { items: [] }
+  }
+}
+
 function normalizeRoleName(name = '') {
   return name.replace(/\s+/g, '').replace(/[·・]/g, '·')
 }
@@ -567,6 +578,44 @@ function renderRoleStoryText(role, mode = 'story') {
   return lines.join('\n')
 }
 
+
+
+function cleanPlotText(text = '') {
+  return String(text)
+    .replace(/\r/g, '')
+    .replace(/\u00a0/g, ' ')
+    .replace(/[ \t]+\n/g, '\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim()
+}
+
+function parsePlotPage(page = {}) {
+  const modules = page.modules || []
+  const sections = []
+  for (const m of modules) {
+    if ((m.name || '').trim() !== '剧情对话') continue
+    const t = cleanPlotText(pickSectionText(m) || '')
+    if (!t || t.length < 10) continue
+    sections.push(t)
+  }
+  return sections
+}
+
+function renderPlotText(item, mode = 'full') {
+  const lines = []
+  if (mode === 'detail') {
+    lines.push(`📜 ${item.name}剧情详情`)
+    lines.push(`剧情段数：${(item.sections || []).length}`)
+    ;(item.sections || []).forEach((_, i) => lines.push(`${i + 1}. 剧情对话 ${i + 1}`))
+    return lines.join('\n')
+  }
+
+  lines.push(`📜 ${item.name}剧情文本`)
+  ;(item.sections || []).forEach((sec, i) => {
+    lines.push(`\n【剧情对话 ${i + 1}】\n${sec}`)
+  })
+  return lines.join('\n')
+}
 
 function parseRoleVoices(page = {}) {
   const modules = page.modules || []
@@ -772,6 +821,48 @@ async function fetchWeaponAll() {
 }
 
 
+
+async function fetchPlotAll() {
+  const map = new Map()
+  for (let page = 1; page <= 50; page++) {
+    const u = new URL('https://act-api-takumi.mihoyo.com/common/blackboard/ys_obc/v1/content/selector')
+    u.searchParams.set('app_sn', 'ys_obc')
+    u.searchParams.set('channel_id', '43')
+    u.searchParams.set('page', String(page))
+    u.searchParams.set('page_size', '100')
+    const j = await (await fetch(u, { headers: { 'user-agent': 'Mozilla/5.0' } })).json()
+    const list = j?.data?.list || []
+    if (!list.length) break
+    for (const it of list) {
+      const name = (it.title || it.name || '').trim()
+      if (name) map.set(name, it)
+    }
+  }
+
+  const items = []
+  for (const it of map.values()) {
+    const name = (it.title || it.name || '').trim()
+    const id = String(it.id)
+    const u = new URL('https://act-api-takumi-static.mihoyo.com/hoyowiki/genshin/wapi/entry_page')
+    u.searchParams.set('app_sn', 'ys_obc')
+    u.searchParams.set('entry_page_id', id)
+    const j = await (await fetch(u, { headers: { 'user-agent': 'Mozilla/5.0' } })).json()
+    const page = j?.data?.page
+    if (!page) continue
+
+    const sections = parsePlotPage(page)
+    if (!sections.length) continue
+
+    const item = { id, name, alias: [normalizeRoleName(name)], sections }
+    await fs.writeFile(path.join(plotRoot, `${slugify(name)}.json`), JSON.stringify(item, null, 2), 'utf8')
+    items.push({ id, name, alias: item.alias, sectionCount: sections.length })
+  }
+
+  items.sort((a, b) => a.name.localeCompare(b.name, 'zh-Hans-CN'))
+  await fs.writeFile(plotIndexFile, JSON.stringify({ items, updatedAt: Date.now() }, null, 2), 'utf8')
+  return { total: items.length }
+}
+
 async function fetchVoiceAll() {
   const roleMap = new Map()
   for (let page = 1; page <= 20; page++) {
@@ -952,6 +1043,11 @@ export class BookDex extends plugin {
           permission: 'master'
         },
         {
+          reg: '^#剧情更新$',
+          fnc: 'updatePlots',
+          permission: 'master'
+        },
+        {
           reg: '^#角色故事帮助$',
           fnc: 'roleStoryHelp'
         },
@@ -960,8 +1056,16 @@ export class BookDex extends plugin {
           fnc: 'voiceHelp'
         },
         {
+          reg: '^#剧情帮助$',
+          fnc: 'plotHelp'
+        },
+        {
           reg: '^#.+语音(文本)?$',
           fnc: 'voiceRead'
+        },
+        {
+          reg: '^#.+剧情(文本)?$',
+          fnc: 'plotRead'
         },
         {
           reg: '^#.+故事(详情)?(文本)?$',
@@ -1012,6 +1116,10 @@ export class BookDex extends plugin {
         {
           reg: '^#语音搜索\s*.+$',
           fnc: 'searchVoices'
+        },
+        {
+          reg: '^#剧情搜索\s*.+$',
+          fnc: 'searchPlots'
         },
         {
           reg: '^#搜索\s*.+$',
@@ -1073,16 +1181,20 @@ export class BookDex extends plugin {
     const s = await fetchRelicAll()
     const w = await fetchWeaponAll()
 
-    if (!silent) await this.reply('统一更新（5/6）：正在更新角色语音数据…')
+    if (!silent) await this.reply('统一更新（5/7）：正在更新角色语音数据…')
     const v = await fetchVoiceAll()
 
+    if (!silent) await this.reply('统一更新（6/7）：正在更新剧情文本数据…')
+    const p = await fetchPlotAll()
+
     const msg = [
-      '统一更新完成 ✅（6/6）',
+      '统一更新完成 ✅（7/7）',
       `书籍：${b.total} 本`,
       `角色故事：${r.total} 个`,
       `圣遗物：${s.total} 套`,
       `武器故事：${w.total} 把`,
-      `角色语音：${v.total} 个角色`
+      `角色语音：${v.total} 个角色`,
+      `剧情文本：${p.total} 条`
     ].join('\n')
 
     if (!silent) return this.reply(msg)
@@ -1255,6 +1367,56 @@ export class BookDex extends plugin {
     if (forceText) return replyLong(this.e, text)
 
     const imgs = await renderTextAsImages(`${voice.name}语音列表`, text)
+    for (const img of imgs) await this.reply(segment.image(`file://${img}`))
+    return true
+  }
+
+
+  async updatePlots() {
+    await this.reply('开始抓取剧情文本，请稍等（首次可能需要几分钟）')
+    const ret = await fetchPlotAll()
+    return this.reply(`剧情文本更新完成：共 ${ret.total} 条剧情。\n命令：#剧情帮助`)
+  }
+
+  async plotHelp() {
+    const idx = await loadPlotIndex()
+    const items = idx.items || []
+    if (!items.length) return this.reply('暂无剧情文本数据，请先发送 #剧情更新')
+
+    helpSessionCache.set(this.userKey(), {
+      at: Date.now(),
+      type: 'plot',
+      plots: items
+    })
+
+    const lines = items.map((r, i) => `${i + 1}. ${r.name}`)
+    return this.reply([`📜 剧情文本列表（共 ${items.length}）`, '命令：#任务名剧情 / #任务名剧情文本 / #剧情搜索 关键词', ...lines].join('\n'))
+  }
+
+  async plotRead() {
+    const msg = this.e.msg.trim()
+    const m = msg.match(/^#(.+?)剧情(文本)?$/)
+    if (!m) return false
+    const raw = (m[1] || '').trim()
+    const forceText = Boolean(m[2])
+    if (!raw) return false
+
+    const idx = await loadPlotIndex()
+    const items = idx.items || []
+    if (!items.length) return this.reply('暂无剧情文本数据，请先发送 #剧情更新')
+
+    const key = normalizeRoleName(raw)
+    const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
+      || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
+    if (!meta) return false
+
+    const file = path.join(plotRoot, `${slugify(meta.name)}.json`)
+    if (!fss.existsSync(file)) return this.reply(`未找到剧情文本：${meta.name}`)
+    const item = JSON.parse(await fs.readFile(file, 'utf8'))
+    const text = renderPlotText(item, 'full')
+    if (forceText) return replyLong(this.e, text)
+
+    const imgs = await renderTextAsImages(`${item.name}剧情`, text)
     for (const img of imgs) await this.reply(segment.image(`file://${img}`))
     return true
   }
@@ -1440,6 +1602,19 @@ ${item.text || ''}`
       }
     }
 
+    if (types.includes('plot')) {
+      const pi = await loadPlotIndex()
+      for (const it of pi.items || []) {
+        const full = path.join(plotRoot, `${slugify(it.name)}.json`)
+        if (!fss.existsSync(full)) continue
+        const data = JSON.parse(await fs.readFile(full, 'utf8'))
+        const merged = (data.sections || []).join('\n')
+        const titleHit = it.name.includes(keyword)
+        const textHit = merged.includes(keyword)
+        if (titleHit || textHit) rows.push({ type: 'plot', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
+      }
+    }
+
     return rows
   }
 
@@ -1454,7 +1629,7 @@ ${item.text || ''}`
       results: rows
     })
 
-    const mapLabel = { book: '书籍', role: '角色', relic: '圣遗物', weapon: '武器', voice: '语音' }
+    const mapLabel = { book: '书籍', role: '角色', relic: '圣遗物', weapon: '武器', voice: '语音', plot: '剧情' }
     const lines = rows.map((r, i) => `${i + 1}. [${mapLabel[r.type]}] ${r.name}${r.snippet ? `\n  ↳ ${r.snippet}` : ''}`)
 
     await this.reply(`🔎 关键词：${keyword}\n共找到 ${rows.length} 条\n可引用本搜索结果发序号查看详情（可加“文本”或“语音”）`)
@@ -1489,10 +1664,16 @@ ${item.text || ''}`
     return this.replySearch(keyword, ['voice'])
   }
 
+  async searchPlots() {
+    const keyword = this.e.msg.replace(/^#剧情搜索\s*/, '').trim()
+    if (!keyword) return this.reply('请输入关键词')
+    return this.replySearch(keyword, ['plot'])
+  }
+
   async searchAll() {
     const keyword = this.e.msg.replace(/^#搜索\s*/, '').trim()
     if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['book', 'role', 'relic', 'weapon', 'voice'])
+    return this.replySearch(keyword, ['book', 'role', 'relic', 'weapon', 'voice', 'plot'])
   }
 
   async searchBooks() {
@@ -1692,6 +1873,16 @@ ${item.text || ''}`
         const text = renderVoiceEntryText(entry)
         if (forceText) return replyLong(this.e, text)
         const imgs = await renderTextAsImages(`${entry.role}语音`, text)
+        for (const img of imgs) await this.reply(segment.image(`file://${img}`))
+        return true
+      }
+      if (row.type === 'plot') {
+        const f = path.join(plotRoot, `${slugify(row.name)}.json`)
+        if (!fss.existsSync(f)) return this.reply(`未找到剧情文本：${row.name}`)
+        const item = JSON.parse(await fs.readFile(f, 'utf8'))
+        const text = renderPlotText(item, 'full')
+        if (forceText) return replyLong(this.e, text)
+        const imgs = await renderTextAsImages(`${item.name}剧情`, text)
         for (const img of imgs) await this.reply(segment.image(`file://${img}`))
         return true
       }
