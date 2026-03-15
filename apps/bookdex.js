@@ -432,6 +432,25 @@ async function loadPlotIndex() {
   }
 }
 
+
+function buildPlotFileName(name = '', id = '') {
+  const safeName = slugify(name || `plot-${id || Date.now()}`) || `plot-${id || Date.now()}`
+  const safeId = String(id || '').replace(/[^\w-]/g, '')
+  return safeId ? `${safeName}__${safeId}.json` : `${safeName}.json`
+}
+
+function resolvePlotFile(meta = {}) {
+  const candidates = []
+  if (meta.file) candidates.push(path.join(plotRoot, meta.file))
+  if (meta.name && meta.id) candidates.push(path.join(plotRoot, buildPlotFileName(meta.name, meta.id)))
+  if (meta.name) candidates.push(path.join(plotRoot, `${slugify(meta.name)}.json`))
+
+  for (const full of candidates) {
+    if (full && fss.existsSync(full)) return full
+  }
+  return candidates[0] || ''
+}
+
 function normalizeRoleName(name = '') {
   return name.replace(/\s+/g, '').replace(/[·・]/g, '·')
 }
@@ -601,70 +620,109 @@ function parsePlotCategory(extRaw = '') {
   }
 }
 
+function collectPlotStrings(value, out = []) {
+  if (value == null) return out
+  if (Array.isArray(value)) {
+    for (const v of value) collectPlotStrings(v, out)
+    return out
+  }
+  if (typeof value === 'object') {
+    for (const v of Object.values(value)) collectPlotStrings(v, out)
+    return out
+  }
+  if (typeof value !== 'string') return out
+
+  const raw = value.trim()
+  if (!raw || /^https?:\/\//i.test(raw)) return out
+
+  const txt = cleanPlotText(htmlToText(raw))
+  if (!txt || txt.length < 2) return out
+  if (/^[\d\s.,:;_\-\/]+$/.test(txt)) return out
+
+  out.push(txt)
+  return out
+}
+
+function parseGenericPlotComponent(comp = {}) {
+  let data = {}
+  try { data = JSON.parse(comp.data || '{}') } catch { return '' }
+  const lines = collectPlotStrings(data, [])
+  return cleanPlotText(lines.join('\n'))
+}
+
 function parsePlotPage(page = {}) {
   const modules = page.modules || []
   const sections = []
   const add = (title, txt) => {
     const t = cleanPlotText(txt || '')
-    if (!t || t.length < 10) return
+    if (!t || t.length < 2) return
     sections.push({ title, text: t })
   }
 
-  for (const m of modules) {
-    if ((m.name || '').trim() !== '剧情对话') continue
+  const parseModuleDialogue = (m = {}) => {
     const comps = m.components || []
-    let added = false
+    const collected = []
     for (const comp of comps) {
-      if ((comp.component_id || '') === 'interactive_dialogue') {
+      const cid = comp.component_id || ''
+      if (cid === 'interactive_dialogue') {
         const txt = parseInteractiveDialogue(comp)
-        if (txt) {
-          add(m.name, txt)
-          added = true
-        }
+        if (txt) collected.push(txt)
+        continue
       }
+      const txt = parseGenericPlotComponent(comp)
+      if (txt) collected.push(txt)
     }
-    if (!added) add(m.name, pickSectionText(m) || '')
+    return cleanPlotText(collected.filter(Boolean).join('\n\n'))
   }
 
+  let dialogueIndex = 0
+  for (const m of modules) {
+    const name = (m.name || '').trim()
+    const cids = (m.components || []).map(c => c.component_id || '')
+    const hasInteractive = cids.includes('interactive_dialogue')
+    const isPlotNamed = name === '剧情对话' || /^剧情对话/.test(name)
+
+    if (!isPlotNamed && !hasInteractive) continue
+
+    const merged = parseModuleDialogue(m)
+    if (!merged) continue
+
+    dialogueIndex += 1
+    const title = name && name !== '剧情对话' && !/^剧情对话\s*\d+$/.test(name)
+      ? `剧情对话 ${dialogueIndex}（${name}）`
+      : `剧情对话 ${dialogueIndex}`
+    add(title, merged)
+  }
+
+  // 兜底：部分词条“剧情对话”模块是空壳，改抓“任务过程/任务概述”避免整条为空。
   if (!sections.length) {
+    let processIndex = 0
     for (const m of modules) {
       const name = (m.name || '').trim()
       if (!['任务过程', '任务概述'].includes(name)) continue
-      add(name, pickSectionText(m) || '')
+      const txt = parseModuleDialogue(m)
+      if (!txt || txt.length < 6) continue
+      processIndex += 1
+      const title = name === '任务过程' ? `任务过程 ${processIndex}` : name
+      add(title, txt)
     }
   }
 
   const dedup = []
   const seen = new Set()
   for (const sec of sections) {
-    const key = `${sec.title}@@${sec.text}`
-    if (seen.has(key)) continue
+    const key = sec.text
+    if (!key || seen.has(key)) continue
     seen.add(key)
     dedup.push(sec)
   }
   return dedup
 }
 
+
 function parsePlotSearchText(page = {}) {
-  const modules = page.modules || []
-  const pieces = []
-  for (const m of modules) {
-    const name = (m.name || '').trim() || '正文片段'
-    if (['任务奖励', '攻略方法', '地图说明'].includes(name)) continue
-
-    let rich = ''
-    for (const comp of m.components || []) {
-      if ((comp.component_id || '') === 'interactive_dialogue') {
-        rich += `\n${parseInteractiveDialogue(comp)}`
-      }
-    }
-    rich += `\n${pickSectionText(m) || ''}`
-
-    const t = cleanPlotText(rich)
-    if (!t || t.length < 4) continue
-    pieces.push(`【${name}】\n${t}`)
-  }
-  return pieces.join('\n\n').trim()
+  const sections = parsePlotPage(page)
+  return sections.map(sec => `【${sec.title}】\n${sec.text}`).join('\n\n').trim()
 }
 
 function renderPlotText(item, mode = 'full') {
@@ -691,42 +749,50 @@ function parseInteractiveDialogue(component = {}) {
   try { data = JSON.parse(component.data || '{}') } catch { return '' }
 
   const blocks = []
-  const list = data.list || []
-  for (const group of list) {
-    const contents = group?.contents || data.contents || {}
-    const orderedIds = []
-    const pushed = new Set()
+  const groups = Array.isArray(data.list) && data.list.length ? data.list : [data]
 
-    const rootId = group?.root_id || data.root_id || ''
+  for (const group of groups) {
+    const contents = group?.contents || data.contents || {}
     const childIds = group?.child_ids || data.child_ids || {}
+    const orderedIds = []
+    const seen = new Set()
+
+    const pushId = (id) => {
+      if (!id || seen.has(id)) return
+      seen.add(id)
+      orderedIds.push(id)
+    }
 
     const walk = (id) => {
-      if (!id || pushed.has(id)) return
-      pushed.add(id)
-      orderedIds.push(id)
-      const next = childIds?.[id] || []
-      for (const nid of next) walk(nid)
+      if (!id || seen.has(id)) return
+      pushId(id)
+      for (const nid of (childIds?.[id] || [])) walk(nid)
     }
 
-    if (rootId) walk(rootId)
-    for (const id of Object.keys(contents || {})) {
-      if (!pushed.has(id)) orderedIds.push(id)
+    walk(group?.root_id || data.root_id || '')
+
+    for (const [id, nexts] of Object.entries(childIds || {})) {
+      pushId(id)
+      for (const nid of nexts || []) pushId(nid)
     }
+
+    for (const id of Object.keys(contents || {})) pushId(id)
 
     const lines = []
     for (const id of orderedIds) {
       const node = contents?.[id]
       if (!node) continue
-      const dialogue = cleanPlotText(htmlToText(node.dialogue || ''))
       const option = cleanPlotText(htmlToText(node.option || ''))
+      const dialogue = cleanPlotText(htmlToText(node.dialogue || ''))
       if (option) lines.push(`【选项】${option}`)
       if (dialogue) lines.push(dialogue)
     }
-    const txt = lines.join('\n').trim()
+
+    const txt = cleanPlotText(lines.join('\n'))
     if (txt) blocks.push(txt)
   }
 
-  return blocks.join('\n\n').trim()
+  return cleanPlotText(blocks.join('\n\n'))
 }
 
 function parseRoleVoices(page = {}) {
@@ -946,15 +1012,18 @@ async function fetchPlotAll() {
     const list = j?.data?.list || []
     if (!list.length) break
     for (const it of list) {
-      const name = (it.title || it.name || '').trim()
-      if (name) map.set(name, it)
+      const id = String(it.id || '').trim()
+      if (id) map.set(id, it)
     }
   }
 
   const items = []
+  const misses = []
   for (const it of map.values()) {
-    const name = (it.title || it.name || '').trim()
+    const name = (it.title || it.name || '').trim() || `未命名任务-${it.id}`
     const id = String(it.id)
+    const fileName = buildPlotFileName(name, id)
+    const file = path.join(plotRoot, fileName)
     const u = new URL('https://act-api-takumi-static.mihoyo.com/hoyowiki/genshin/wapi/entry_page')
     u.searchParams.set('app_sn', 'ys_obc')
     u.searchParams.set('entry_page_id', id)
@@ -964,17 +1033,30 @@ async function fetchPlotAll() {
 
     const sections = parsePlotPage(page)
     const searchText = parsePlotSearchText(page)
-    if (!sections.length && !searchText) continue
-
     const category = parsePlotCategory(it.ext)
-    const item = { id, name, alias: [normalizeRoleName(name)], category, sections, searchText }
-    await fs.writeFile(path.join(plotRoot, `${slugify(name)}.json`), JSON.stringify(item, null, 2), 'utf8')
-    items.push({ id, name, alias: item.alias, category, sectionCount: sections.length })
+    const item = { id, name, file: fileName, alias: [normalizeRoleName(name)], category, sections, searchText }
+
+    if (!sections.length && !searchText) {
+      const modules = page.modules || []
+      const plotModules = modules
+        .map((m, idx) => ({
+          idx,
+          name: (m.name || '').trim(),
+          cids: (m.components || []).map(c => c.component_id || '')
+        }))
+        .filter(x => x.name === '剧情对话' || x.cids.includes('interactive_dialogue'))
+
+      misses.push({ id, name, category, plotModules })
+    }
+
+    await fs.writeFile(file, JSON.stringify(item, null, 2), 'utf8')
+    items.push({ id, name, file: fileName, alias: item.alias, category, sectionCount: (item.sections || []).length })
   }
 
-  items.sort((a, b) => a.name.localeCompare(b.name, 'zh-Hans-CN'))
+  items.sort((a, b) => a.name.localeCompare(b.name, 'zh-Hans-CN') || String(a.id).localeCompare(String(b.id)))
   await fs.writeFile(plotIndexFile, JSON.stringify({ items, updatedAt: Date.now() }, null, 2), 'utf8')
-  return { total: items.length }
+  await fs.writeFile(path.join(plotRoot, '_misses.json'), JSON.stringify({ total: misses.length, misses, updatedAt: Date.now() }, null, 2), 'utf8')
+  return { total: items.length, misses: misses.length }
 }
 
 async function fetchVoiceAll() {
@@ -1544,8 +1626,8 @@ export class BookDex extends plugin {
       || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
     if (!meta) return false
 
-    const file = path.join(plotRoot, `${slugify(meta.name)}.json`)
-    if (!fss.existsSync(file)) return this.reply(`未找到剧情文本：${meta.name}`)
+    const file = resolvePlotFile(meta)
+    if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${meta.name}`)
     const item = JSON.parse(await fs.readFile(file, 'utf8'))
     const text = renderPlotText(item, 'full')
     if (forceText) return replyLong(this.e, text)
@@ -1739,8 +1821,8 @@ ${item.text || ''}`
     if (types.includes('plot')) {
       const pi = await loadPlotIndex()
       for (const it of pi.items || []) {
-        const full = path.join(plotRoot, `${slugify(it.name)}.json`)
-        if (!fss.existsSync(full)) continue
+        const full = resolvePlotFile(it)
+        if (!full || !fss.existsSync(full)) continue
         const data = JSON.parse(await fs.readFile(full, 'utf8'))
         const merged = [
           (data.sections || []).map(s => `${s.title || ''}\n${s.text || ''}`).join('\n'),
@@ -1748,7 +1830,7 @@ ${item.text || ''}`
         ].join('\n')
         const titleHit = it.name.includes(keyword) || (data.category || '').includes(keyword)
         const textHit = merged.includes(keyword)
-        if (titleHit || textHit) rows.push({ type: 'plot', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
+        if (titleHit || textHit) rows.push({ type: 'plot', id: it.id, file: it.file || '', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
       }
     }
 
@@ -1905,6 +1987,10 @@ ${item.text || ''}`
     const forceText = /文本$/.test(raw)
     const wantVoice = /语音$/.test(raw)
     let session = helpSessionCache.get(this.userKey())
+    const hasQuote = !!(this.e.source || this.e.reply_id || this.e.quote)
+
+    // 仅在“引用消息”或“存在最近帮助/搜索会话”时才响应纯数字，避免任意数字误触发
+    if (!hasQuote && !session) return false
 
     // 1) 优先按最近帮助类型分发
     if (session?.type === 'relic' && Array.isArray(session.relics)) {
@@ -2014,8 +2100,8 @@ ${item.text || ''}`
         return true
       }
       if (row.type === 'plot') {
-        const f = path.join(plotRoot, `${slugify(row.name)}.json`)
-        if (!fss.existsSync(f)) return this.reply(`未找到剧情文本：${row.name}`)
+        const f = resolvePlotFile(row)
+        if (!f || !fss.existsSync(f)) return this.reply(`未找到剧情文本：${row.name}`)
         const item = JSON.parse(await fs.readFile(f, 'utf8'))
         const text = renderPlotText(item, 'full')
         if (forceText) return replyLong(this.e, text)
@@ -2025,8 +2111,9 @@ ${item.text || ''}`
       }
     }
 
-    // 2) 默认按书籍序号
+    // 2) 默认按书籍序号（仅限引用帮助/搜索结果时兜底）
     if (!session || !session.books?.length) {
+      if (!hasQuote) return false
       const index = await loadIndex()
       session = { type: 'book', books: index.books || [] }
     }
