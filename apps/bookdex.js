@@ -252,6 +252,22 @@ export class BookDex extends plugin {
     return cycleDay >= 1 && cycleDay <= 5
   }
 
+  makeUpdateReporter(label, silent = false) {
+    return {
+      onProgress: async ({ done, total }) => {
+        if (silent || !done || !total) return
+        if (done % 100 !== 0 && done !== total) return
+        await this.reply(`${label}进度：${done}/${total}`)
+      },
+      onError: async ({ done, total, name, error }) => {
+        if (silent) return
+        const at = done && total ? `（${done}/${total}）` : ''
+        const who = name ? `：${name}` : ''
+        await this.reply(`${label}报错${at}${who}\n${error?.message || error}`)
+      }
+    }
+  }
+
   async updateAllTextsCommand() {
     return this.updateAllTexts(false)
   }
@@ -262,20 +278,20 @@ export class BookDex extends plugin {
       if (!silent) await this.reply('开始统一更新（1/7）：准备任务')
 
       if (!silent) await this.reply('统一更新（2/7）：正在更新书籍数据…')
-      const b = await fetchBooksFromWiki()
+      const b = await fetchBooksFromWiki(this.makeUpdateReporter('书籍更新', silent))
 
       if (!silent) await this.reply('统一更新（3/7）：正在更新角色故事数据…')
-      const r = await fetchRoleStoryAll()
+      const r = await fetchRoleStoryAll(this.makeUpdateReporter('角色故事更新', silent))
 
       if (!silent) await this.reply('统一更新（4/7）：正在更新圣遗物与武器数据…')
-      const s = await fetchRelicAll()
-      const w = await fetchWeaponAll()
+      const s = await fetchRelicAll(this.makeUpdateReporter('圣遗物更新', silent))
+      const w = await fetchWeaponAll(this.makeUpdateReporter('武器故事更新', silent))
 
       if (!silent) await this.reply('统一更新（5/7）：正在更新角色语音数据…')
-      const v = await fetchVoiceAll()
+      const v = await fetchVoiceAll(this.makeUpdateReporter('角色语音更新', silent))
 
       if (!silent) await this.reply('统一更新（6/7）：正在更新剧情文本数据…')
-      const p = await fetchPlotAll()
+      const p = await fetchPlotAll(this.makeUpdateReporter('剧情文本更新', silent))
 
       const msg = [
         '统一更新完成 ✅（7/7）',
@@ -355,7 +371,7 @@ export class BookDex extends plugin {
 
   async updateRoleStories() {
     await this.reply('开始抓取角色故事，请稍等（首次可能1-3分钟）')
-    const ret = await fetchRoleStoryAll()
+    const ret = await fetchRoleStoryAll(this.makeUpdateReporter('角色故事更新'))
     return this.reply(`角色故事更新完成：共 ${ret.total} 个角色。\n命令：#角色故事帮助`)
   }
 
@@ -411,7 +427,7 @@ export class BookDex extends plugin {
 
   async updateVoices() {
     await this.reply('开始抓取角色语音，请稍等（约1-3分钟）')
-    const ret = await fetchVoiceAll()
+    const ret = await fetchVoiceAll(this.makeUpdateReporter('角色语音更新'))
     return this.reply(`角色语音更新完成：共 ${ret.total} 个角色。\n命令：#语音帮助`)
   }
 
@@ -467,7 +483,7 @@ export class BookDex extends plugin {
 
   async updatePlots() {
     await this.reply('开始抓取剧情文本，请稍等（首次可能需要几分钟）')
-    const ret = await fetchPlotAll()
+    const ret = await fetchPlotAll(this.makeUpdateReporter('剧情文本更新'))
     return this.reply(`剧情文本更新完成：共 ${ret.total} 条剧情。\n命令：#剧情帮助`)
   }
 
@@ -538,7 +554,7 @@ export class BookDex extends plugin {
 
   async updateRelics() {
     await this.reply('开始抓取圣遗物文本，请稍等（约1-2分钟）')
-    const ret = await fetchRelicAll()
+    const ret = await fetchRelicAll(this.makeUpdateReporter('圣遗物更新'))
     return this.reply(`圣遗物更新完成：共 ${ret.total} 套。\n命令：#圣遗物帮助`)
   }
 
@@ -582,7 +598,7 @@ export class BookDex extends plugin {
 
   async updateWeapons() {
     await this.reply('开始抓取武器故事，请稍等（约1-2分钟）')
-    const ret = await fetchWeaponAll()
+    const ret = await fetchWeaponAll(this.makeUpdateReporter('武器故事更新'))
     return this.reply(`武器故事更新完成：共 ${ret.total} 把武器。\n命令：#武器帮助`)
   }
 
@@ -627,7 +643,7 @@ export class BookDex extends plugin {
 
   async updateBooksFromWiki() {
     await this.reply('开始从原神图鉴抓取书籍，请稍等（约1-3分钟）')
-    const ret = await fetchBooksFromWiki()
+    const ret = await fetchBooksFromWiki(this.makeUpdateReporter('书籍更新'))
     return this.reply(`书籍更新完成：共 ${ret.total} 本。\n命令：#书籍帮助`)
   }
 
