@@ -81,6 +81,11 @@ function isReplyError(res) {
   return Boolean(res && typeof res === 'object' && Array.isArray(res.error) && res.error.length)
 }
 
+function makeReplyError(res, label = 'reply failed') {
+  const msg = res?.error?.[0]?.message || res?.error?.[0]?.wording || label
+  return new Error(msg)
+}
+
 export class BookDex extends plugin {
   constructor() {
     super({
@@ -206,7 +211,7 @@ export class BookDex extends plugin {
           fnc: 'searchAll'
         },
         {
-          reg: '^\\d{1,3}(文本|图片|语音)?$',
+          reg: '^[#＃]?[0-9０-９]{1,4}\\s*(文本|图片|语音)?$',
           fnc: 'pickByIndex'
         },
         {
@@ -523,7 +528,7 @@ export class BookDex extends plugin {
     if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${meta.name}`)
     const item = JSON.parse(await fs.readFile(file, 'utf8'))
     const text = renderPlotText(item, 'full')
-    return this.replyContent(`${item.name}剧情`, text, wantImage)
+    return this.replyContent(item.name, text, wantImage)
   }
 
   async updateRelics() {
@@ -898,6 +903,7 @@ ${item.text || ''}`
 
   async replyWithSession(msg, session, quote = false, data = {}) {
     const res = await this.reply(msg, quote, data)
+    if (isReplyError(res)) throw makeReplyError(res)
     if (!isValidTrackedSession(session)) return res
     return this.appendSessionMessageIds(session, res)
   }
@@ -985,26 +991,38 @@ ${item.text || ''}`
   async replyContent(title, text, wantImage = false, session = null) {
     const tracked = isValidTrackedSession(session)
     if (wantImage) {
-      const imgs = await renderTextAsImages(title, text)
-      if (imgs.length <= 1) {
-        for (const img of imgs) {
-          if (tracked) session = await this.replyWithSession(segment.image(`file://${img}`), session)
-          else await this.reply(segment.image(`file://${img}`))
+      try {
+        const imgs = await renderTextAsImages(title, text)
+        if (imgs.length <= 1) {
+          for (const img of imgs) {
+            if (tracked) {
+              session = await this.replyWithSession(segment.image(`file://${img}`), session)
+            } else {
+              const res = await this.reply(segment.image(`file://${img}`))
+              if (isReplyError(res)) throw makeReplyError(res, 'image reply failed')
+            }
+          }
+          return tracked ? (session || true) : true
         }
-        return tracked ? (session || true) : true
-      }
 
-      const imageMsgs = imgs.map(img => segment.image(`file://${img}`))
-      if (title) {
-        if (tracked) session = await this.replyWithSession(title, session)
-        else await this.reply(title)
+        const imageMsgs = imgs.map(img => segment.image(`file://${img}`))
+        if (title) {
+          if (tracked) session = await this.replyWithSession(title, session)
+          else {
+            const res = await this.reply(title)
+            if (isReplyError(res)) throw makeReplyError(res, 'title reply failed')
+          }
+        }
+        if (tracked) {
+          session = await this.replyForwardBatchesWithSession(imageMsgs, session, 4)
+          return session || true
+        }
+        await this.replyForwardBatchesWithSession(imageMsgs, null, 4)
+        return true
+      } catch {
+        await this.reply('图片消息发送失败，已改为 txt 文件发送')
+        return this.sendTxtFallback(text, title, tracked ? session : null)
       }
-      if (tracked) {
-        session = await this.replyForwardBatchesWithSession(imageMsgs, session, 4)
-        return session || true
-      }
-      await this.replyForwardBatchesWithSession(imageMsgs, null, 4)
-      return true
     }
     return this.replyStructuredText(text, title, tracked ? session : null)
   }
@@ -1046,7 +1064,9 @@ ${item.text || ''}`
     if (!sessions.length) return null
 
     const quotedId = await this.getQuotedMessageId()
-    if (!quotedId && this.hasReplyContext()) return null
+    if (!quotedId && this.hasReplyContext()) {
+      return sessions[sessions.length - 1] || null
+    }
     if (!quotedId) return sessions[sessions.length - 1] || null
 
     for (let i = sessions.length - 1; i >= 0; i--) {
@@ -1054,15 +1074,19 @@ ${item.text || ''}`
       const ids = (session.messageIds || []).map(String)
       if (ids.includes(quotedId)) return session
     }
-    return null
+    return sessions[sessions.length - 1] || null
   }
 
   async pickByIndex() {
-    const raw = this.e.msg.trim()
-    const idx = Number(raw.replace(/(文本|图片|语音)$/, ''))
+    const raw = String(this.e.msg || '').trim()
+    const normalized = raw
+      .replace(/[＃#]/g, '')
+      .replace(/[０-９]/g, ch => String(ch.charCodeAt(0) - 65248))
+      .replace(/\s+/g, '')
+    const idx = Number(normalized.replace(/(文本|图片|语音)$/, ''))
     if (!idx || idx < 1) return false
 
-    const { wantImage, wantVoice } = this.outputMode(raw)
+    const { wantImage, wantVoice } = this.outputMode(normalized)
     const session = await this.getMatchedSessionForIndex()
 
     // 仅在“存在最近帮助/搜索会话”或“引用了 bookdex 自己发出的帮助/搜索消息”时响应纯数字
@@ -1114,7 +1138,7 @@ ${item.text || ''}`
       if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${meta.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderPlotText(item, 'full')
-      return this.replyContent(`${item.name}剧情`, text, wantImage)
+      return this.replyContent(item.name, text, wantImage)
     }
 
     if (session?.type === 'voice-entry' && Array.isArray(session.entries)) {
@@ -1178,7 +1202,7 @@ ${item.text || ''}`
         if (!f || !fss.existsSync(f)) return this.reply(`未找到剧情文本：${row.name}`)
         const item = JSON.parse(await fs.readFile(f, 'utf8'))
         const text = renderPlotText(item, 'full')
-        return this.replyContent(`${item.name}剧情`, text, wantImage)
+        return this.replyContent(item.name, text, wantImage)
       }
     }
 
@@ -1201,18 +1225,160 @@ ${item.text || ''}`
 
     const { wantImage } = this.outputMode(raw)
     const title = this.trimOutputSuffix(raw)
+    const norm = normalizeRoleName(title)
 
     const index = await loadIndex()
     const books = index.books || []
     const exact = books.find(b => b.title === title)
-    const fuzzy = exact || books.find(b => b.title.includes(title) || title.includes(b.title))
+    const plotsIndex = await loadPlotIndex()
+    const plots = plotsIndex.items || []
+    const exactPlot = plots.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+    const storyIndex = await loadStoryIndex()
+    const roles = storyIndex.roles || []
+    const exactRole = roles.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+    const voiceIndex = await loadVoiceIndex()
+    const voiceRoles = voiceIndex.roles || []
+    const exactVoice = voiceRoles.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+    const relicIndex = await loadRelicIndex()
+    const relics = relicIndex.sets || []
+    const exactRelic = relics.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+    const weaponIndex = await loadWeaponIndex()
+    const weapons = weaponIndex.weapons || []
+    const exactWeapon = weapons.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
 
-    if (!fuzzy) return false
+    if (exact) {
+      const full = path.join(booksRoot, exact.file)
+      if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${exact.title}`)
+      const content = await fs.readFile(full, 'utf8')
+      return this.replyContent(exact.title, content, wantImage)
+    }
 
-    const full = path.join(booksRoot, fuzzy.file)
-    if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${fuzzy.title}`)
-    const content = await fs.readFile(full, 'utf8')
-    return this.replyContent(fuzzy.title, content, wantImage)
+    if (exactPlot) {
+      const file = resolvePlotFile(exactPlot)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${exactPlot.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderPlotText(item, 'full')
+      return this.replyContent(item.name, text, wantImage)
+    }
+
+    if (exactRole) {
+      const file = path.join(storyRoot, `${slugify(exactRole.name)}.json`)
+      if (!fss.existsSync(file)) return this.reply(`未找到角色故事：${exactRole.name}`)
+      const role = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderRoleStoryText(role, 'story')
+      return this.replyContent(`${role.name}故事`, text, wantImage)
+    }
+
+    if (exactVoice) {
+      const file = path.join(voiceRoot, `${slugify(exactVoice.name)}.json`)
+      if (!fss.existsSync(file)) return this.reply(`未找到角色语音：${exactVoice.name}`)
+      const voice = JSON.parse(await fs.readFile(file, 'utf8'))
+      const tab = pickDefaultVoiceTab(voice)
+      const session = this.saveSession({
+        at: Date.now(),
+        type: 'voice-entry',
+        role: voice.name,
+        lang: tab.lang,
+        entries: (tab.items || []).map(item => ({ role: voice.name, lang: tab.lang, ...item }))
+      })
+      const text = renderVoiceListText(voice, false)
+      return this.replyContent(`${voice.name}语音列表`, text, wantImage, session)
+    }
+
+    if (exactRelic) {
+      const file = path.join(relicRoot, `${slugify(exactRelic.name)}.json`)
+      if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${exactRelic.name}`)
+      const set = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderRelicText(set)
+      return this.replyContent(`${set.name}圣遗物`, text, wantImage)
+    }
+
+    if (exactWeapon) {
+      const file = path.join(weaponRoot, `${slugify(exactWeapon.name)}.json`)
+      if (!fss.existsSync(file)) return this.reply(`未找到武器：${exactWeapon.name}`)
+      const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderWeaponText(weapon)
+      return this.replyContent(`${weapon.name}武器故事`, text, wantImage)
+    }
+
+    const fuzzy = books.find(b => b.title.includes(title) || title.includes(b.title))
+    const fuzzyPlot = plots.find(item => {
+      const name = normalizeRoleName(item.name)
+      return name.includes(norm) || norm.includes(name)
+    })
+    const fuzzyRole = roles.find(item => {
+      const name = normalizeRoleName(item.name)
+      return name.includes(norm) || norm.includes(name)
+    })
+    const fuzzyVoice = voiceRoles.find(item => {
+      const name = normalizeRoleName(item.name)
+      return name.includes(norm) || norm.includes(name)
+    })
+    const fuzzyRelic = relics.find(item => {
+      const name = normalizeRoleName(item.name)
+      return name.includes(norm) || norm.includes(name)
+    })
+    const fuzzyWeapon = weapons.find(item => {
+      const name = normalizeRoleName(item.name)
+      return name.includes(norm) || norm.includes(name)
+    })
+
+    if (fuzzy) {
+      const full = path.join(booksRoot, fuzzy.file)
+      if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${fuzzy.title}`)
+      const content = await fs.readFile(full, 'utf8')
+      return this.replyContent(fuzzy.title, content, wantImage)
+    }
+
+    if (fuzzyPlot) {
+      const file = resolvePlotFile(fuzzyPlot)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${fuzzyPlot.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderPlotText(item, 'full')
+      return this.replyContent(item.name, text, wantImage)
+    }
+
+    if (fuzzyRole) {
+      const file = path.join(storyRoot, `${slugify(fuzzyRole.name)}.json`)
+      if (!fss.existsSync(file)) return this.reply(`未找到角色故事：${fuzzyRole.name}`)
+      const role = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderRoleStoryText(role, 'story')
+      return this.replyContent(`${role.name}故事`, text, wantImage)
+    }
+
+    if (fuzzyVoice) {
+      const file = path.join(voiceRoot, `${slugify(fuzzyVoice.name)}.json`)
+      if (!fss.existsSync(file)) return this.reply(`未找到角色语音：${fuzzyVoice.name}`)
+      const voice = JSON.parse(await fs.readFile(file, 'utf8'))
+      const tab = pickDefaultVoiceTab(voice)
+      const session = this.saveSession({
+        at: Date.now(),
+        type: 'voice-entry',
+        role: voice.name,
+        lang: tab.lang,
+        entries: (tab.items || []).map(item => ({ role: voice.name, lang: tab.lang, ...item }))
+      })
+      const text = renderVoiceListText(voice, false)
+      return this.replyContent(`${voice.name}语音列表`, text, wantImage, session)
+    }
+
+    if (fuzzyRelic) {
+      const file = path.join(relicRoot, `${slugify(fuzzyRelic.name)}.json`)
+      if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${fuzzyRelic.name}`)
+      const set = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderRelicText(set)
+      return this.replyContent(`${set.name}圣遗物`, text, wantImage)
+    }
+
+    if (fuzzyWeapon) {
+      const file = path.join(weaponRoot, `${slugify(fuzzyWeapon.name)}.json`)
+      if (!fss.existsSync(file)) return this.reply(`未找到武器：${fuzzyWeapon.name}`)
+      const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderWeaponText(weapon)
+      return this.replyContent(`${weapon.name}武器故事`, text, wantImage)
+    }
+
+    return false
   }
 }
 
