@@ -113,7 +113,7 @@ export class BookDex extends plugin {
           permission: 'master'
         },
         {
-          reg: '^#统一更新$',
+          reg: '^#(统一更新|书籍图鉴更新)$',
           fnc: 'updateAllTextsCommand',
           permission: 'master'
         },
@@ -252,11 +252,12 @@ export class BookDex extends plugin {
     return cycleDay >= 1 && cycleDay <= 5
   }
 
-  makeUpdateReporter(label, silent = false) {
+  makeUpdateReporter(label, silent = false, progressEvery = 0) {
     return {
       onProgress: async ({ done, total }) => {
         if (silent || !done || !total) return
-        if (done % 100 !== 0 && done !== total) return
+        if (!progressEvery) return
+        if (done % progressEvery !== 0 && done !== total) return
         await this.reply(`${label}进度：${done}/${total}`)
       },
       onError: async ({ done, total, name, error }) => {
@@ -275,33 +276,51 @@ export class BookDex extends plugin {
   async updateAllTexts(silent = false) {
     if (typeof silent !== 'boolean') silent = false
     try {
-      if (!silent) await this.reply('开始统一更新（1/7）：准备任务')
+      const preview = [
+        { key: 'book', label: '书籍数据', runner: () => fetchBooksFromWiki({ dryRun: true }), exec: () => fetchBooksFromWiki(this.makeUpdateReporter('书籍更新', silent)) },
+        { key: 'role', label: '角色故事数据', runner: () => fetchRoleStoryAll({ dryRun: true }), exec: () => fetchRoleStoryAll(this.makeUpdateReporter('角色故事更新', silent)) },
+        { key: 'relic', label: '圣遗物数据', runner: () => fetchRelicAll({ dryRun: true }), exec: () => fetchRelicAll(this.makeUpdateReporter('圣遗物更新', silent)) },
+        { key: 'weapon', label: '武器故事数据', runner: () => fetchWeaponAll({ dryRun: true }), exec: () => fetchWeaponAll(this.makeUpdateReporter('武器故事更新', silent, 100)) },
+        { key: 'voice', label: '角色语音数据', runner: () => fetchVoiceAll({ dryRun: true }), exec: () => fetchVoiceAll(this.makeUpdateReporter('角色语音更新', silent)) },
+        { key: 'plot', label: '剧情文本数据', runner: () => fetchPlotAll({ dryRun: true }), exec: () => fetchPlotAll(this.makeUpdateReporter('剧情文本更新', silent, 100)) }
+      ]
 
-      if (!silent) await this.reply('统一更新（2/7）：正在更新书籍数据…')
-      const b = await fetchBooksFromWiki(this.makeUpdateReporter('书籍更新', silent))
+      const plan = []
+      for (const item of preview) {
+        const ret = await item.runner()
+        plan.push({ ...item, preview: ret })
+      }
 
-      if (!silent) await this.reply('统一更新（3/7）：正在更新角色故事数据…')
-      const r = await fetchRoleStoryAll(this.makeUpdateReporter('角色故事更新', silent))
+      const active = plan.filter(item => Number(item.preview?.updated || 0) > 0)
+      if (!active.length) {
+        if (!silent) return this.reply('统一更新完成：当前没有检测到增量内容')
+        logger.mark('[bookdex.autoUpdate] no incremental updates')
+        return true
+      }
 
-      if (!silent) await this.reply('统一更新（4/7）：正在更新圣遗物与武器数据…')
-      const s = await fetchRelicAll(this.makeUpdateReporter('圣遗物更新', silent))
-      const w = await fetchWeaponAll(this.makeUpdateReporter('武器故事更新', silent))
+      if (!silent) await this.reply(`开始统一更新：检测到 ${active.length} 个有增量的分类`)
 
-      if (!silent) await this.reply('统一更新（5/7）：正在更新角色语音数据…')
-      const v = await fetchVoiceAll(this.makeUpdateReporter('角色语音更新', silent))
+      const results = {}
+      for (const [idx, item] of active.entries()) {
+        if (!silent) await this.reply(`统一更新（${idx + 1}/${active.length}）：正在更新${item.label}…`)
+        results[item.key] = await item.exec()
+      }
 
-      if (!silent) await this.reply('统一更新（6/7）：正在更新剧情文本数据…')
-      const p = await fetchPlotAll(this.makeUpdateReporter('剧情文本更新', silent))
+      const labelMap = {
+        book: '书籍',
+        role: '角色故事',
+        relic: '圣遗物',
+        weapon: '武器故事',
+        voice: '角色语音',
+        plot: '剧情文本'
+      }
 
-      const msg = [
-        '统一更新完成 ✅（7/7）',
-        `书籍：${b.total} 本`,
-        `角色故事：${r.total} 个`,
-        `圣遗物：${s.total} 套`,
-        `武器故事：${w.total} 把`,
-        `角色语音：${v.total} 个角色`,
-        `剧情文本：${p.total} 条`
-      ].join('\n')
+      const lines = [`统一更新完成 ✅（${active.length}/${active.length}）`]
+      for (const item of active) {
+        const ret = results[item.key]
+        lines.push(`${labelMap[item.key]}：${ret.total} 条目（本次变更 ${item.preview.updated}）`)
+      }
+      const msg = lines.join('\n')
 
       if (!silent) return this.reply(msg)
       logger.mark('[bookdex.autoUpdate] ' + msg.replace(/\n/g, ' | '))
@@ -372,6 +391,7 @@ export class BookDex extends plugin {
   async updateRoleStories() {
     await this.reply('开始抓取角色故事，请稍等（首次可能1-3分钟）')
     const ret = await fetchRoleStoryAll(this.makeUpdateReporter('角色故事更新'))
+    if (!ret.updated) return this.reply('角色故事更新完成：当前没有检测到增量内容')
     return this.reply(`角色故事更新完成：共 ${ret.total} 个角色。\n命令：#角色故事帮助`)
   }
 
@@ -428,6 +448,7 @@ export class BookDex extends plugin {
   async updateVoices() {
     await this.reply('开始抓取角色语音，请稍等（约1-3分钟）')
     const ret = await fetchVoiceAll(this.makeUpdateReporter('角色语音更新'))
+    if (!ret.updated) return this.reply('角色语音更新完成：当前没有检测到增量内容')
     return this.reply(`角色语音更新完成：共 ${ret.total} 个角色。\n命令：#语音帮助`)
   }
 
@@ -483,7 +504,8 @@ export class BookDex extends plugin {
 
   async updatePlots() {
     await this.reply('开始抓取剧情文本，请稍等（首次可能需要几分钟）')
-    const ret = await fetchPlotAll(this.makeUpdateReporter('剧情文本更新'))
+    const ret = await fetchPlotAll(this.makeUpdateReporter('剧情文本更新', false, 100))
+    if (!ret.updated) return this.reply('剧情文本更新完成：当前没有检测到增量内容')
     return this.reply(`剧情文本更新完成：共 ${ret.total} 条剧情。\n命令：#剧情帮助`)
   }
 
@@ -555,6 +577,7 @@ export class BookDex extends plugin {
   async updateRelics() {
     await this.reply('开始抓取圣遗物文本，请稍等（约1-2分钟）')
     const ret = await fetchRelicAll(this.makeUpdateReporter('圣遗物更新'))
+    if (!ret.updated) return this.reply('圣遗物更新完成：当前没有检测到增量内容')
     return this.reply(`圣遗物更新完成：共 ${ret.total} 套。\n命令：#圣遗物帮助`)
   }
 
@@ -598,7 +621,8 @@ export class BookDex extends plugin {
 
   async updateWeapons() {
     await this.reply('开始抓取武器故事，请稍等（约1-2分钟）')
-    const ret = await fetchWeaponAll(this.makeUpdateReporter('武器故事更新'))
+    const ret = await fetchWeaponAll(this.makeUpdateReporter('武器故事更新', false, 100))
+    if (!ret.updated) return this.reply('武器故事更新完成：当前没有检测到增量内容')
     return this.reply(`武器故事更新完成：共 ${ret.total} 把武器。\n命令：#武器帮助`)
   }
 
@@ -644,6 +668,7 @@ export class BookDex extends plugin {
   async updateBooksFromWiki() {
     await this.reply('开始从原神图鉴抓取书籍，请稍等（约1-3分钟）')
     const ret = await fetchBooksFromWiki(this.makeUpdateReporter('书籍更新'))
+    if (!ret.updated) return this.reply('书籍更新完成：当前没有检测到增量内容')
     return this.reply(`书籍更新完成：共 ${ret.total} 本。\n命令：#书籍帮助`)
   }
 
