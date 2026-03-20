@@ -258,38 +258,43 @@ export class BookDex extends plugin {
 
   async updateAllTexts(silent = false) {
     if (typeof silent !== 'boolean') silent = false
+    try {
+      if (!silent) await this.reply('开始统一更新（1/7）：准备任务')
 
-    if (!silent) await this.reply('开始统一更新（1/7）：准备任务')
+      if (!silent) await this.reply('统一更新（2/7）：正在更新书籍数据…')
+      const b = await fetchBooksFromWiki()
 
-    if (!silent) await this.reply('统一更新（2/7）：正在更新书籍数据…')
-    const b = await fetchBooksFromWiki()
+      if (!silent) await this.reply('统一更新（3/7）：正在更新角色故事数据…')
+      const r = await fetchRoleStoryAll()
 
-    if (!silent) await this.reply('统一更新（3/7）：正在更新角色故事数据…')
-    const r = await fetchRoleStoryAll()
+      if (!silent) await this.reply('统一更新（4/7）：正在更新圣遗物与武器数据…')
+      const s = await fetchRelicAll()
+      const w = await fetchWeaponAll()
 
-    if (!silent) await this.reply('统一更新（4/7）：正在更新圣遗物与武器数据…')
-    const s = await fetchRelicAll()
-    const w = await fetchWeaponAll()
+      if (!silent) await this.reply('统一更新（5/7）：正在更新角色语音数据…')
+      const v = await fetchVoiceAll()
 
-    if (!silent) await this.reply('统一更新（5/7）：正在更新角色语音数据…')
-    const v = await fetchVoiceAll()
+      if (!silent) await this.reply('统一更新（6/7）：正在更新剧情文本数据…')
+      const p = await fetchPlotAll()
 
-    if (!silent) await this.reply('统一更新（6/7）：正在更新剧情文本数据…')
-    const p = await fetchPlotAll()
+      const msg = [
+        '统一更新完成 ✅（7/7）',
+        `书籍：${b.total} 本`,
+        `角色故事：${r.total} 个`,
+        `圣遗物：${s.total} 套`,
+        `武器故事：${w.total} 把`,
+        `角色语音：${v.total} 个角色`,
+        `剧情文本：${p.total} 条`
+      ].join('\n')
 
-    const msg = [
-      '统一更新完成 ✅（7/7）',
-      `书籍：${b.total} 本`,
-      `角色故事：${r.total} 个`,
-      `圣遗物：${s.total} 套`,
-      `武器故事：${w.total} 把`,
-      `角色语音：${v.total} 个角色`,
-      `剧情文本：${p.total} 条`
-    ].join('\n')
-
-    if (!silent) return this.reply(msg)
-    logger.mark('[bookdex.autoUpdate] ' + msg.replace(/\n/g, ' | '))
-    return true
+      if (!silent) return this.reply(msg)
+      logger.mark('[bookdex.autoUpdate] ' + msg.replace(/\n/g, ' | '))
+      return true
+    } catch (err) {
+      logger.error('[bookdex.updateAllTexts] ', err)
+      if (!silent) return this.reply(`统一更新失败：${err?.message || err}`)
+      throw err
+    }
   }
 
   async resetAndUpdate() {
