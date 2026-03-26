@@ -918,7 +918,7 @@ ${item.text || ''}`
       messageIds: [...new Set((session.messageIds || []).map(id => String(id)).filter(Boolean))]
     }
 
-    const maxAge = 7 * 24 * 60 * 60 * 1000
+    const maxAge = 1 * 60 * 60 * 1000
     const now = Date.now()
     const sessions = this.getUserSessions().filter(item => item && now - Number(item.at || 0) < maxAge)
     const idx = sessions.findIndex(item => item.sid === normalized.sid)
@@ -1110,17 +1110,16 @@ ${item.text || ''}`
     if (!sessions.length) return null
 
     const quotedId = await this.getQuotedMessageId()
-    if (!quotedId && this.hasReplyContext()) {
-      return sessions[sessions.length - 1] || null
-    }
-    if (!quotedId) return sessions[sessions.length - 1] || null
+    if (!quotedId) return null // 强制要求必须引用机器人发送的消息
 
+    // 匹配被引用的消息 ID
     for (let i = sessions.length - 1; i >= 0; i--) {
       const session = sessions[i]
       const ids = (session.messageIds || []).map(String)
       if (ids.includes(quotedId)) return session
     }
-    return sessions[sessions.length - 1] || null
+
+    return null
   }
 
   async pickByIndex() {
@@ -1135,15 +1134,11 @@ ${item.text || ''}`
     const { wantImage, wantVoice } = this.outputMode(normalized)
     const session = await this.getMatchedSessionForIndex()
 
-    // 仅在“存在最近帮助/搜索会话”或“引用了 bookdex 自己发出的帮助/搜索消息”时响应纯数字
-    if (!session) {
-      if (this.hasReplyContext()) {
-        return this.reply('引用会话已失效，请重新发送对应帮助或搜索结果后再选序号')
-      }
-      return false
-    }
+    // 仅在“引用了 bookdex 自己发出的消息”时响应纯数字，否则静默
+    if (!session) return false
 
     // 1) 优先按最近帮助类型分发
+
     if (session?.type === 'role' && Array.isArray(session.roles)) {
       const meta = session.roles[idx - 1]
       if (!meta) return this.reply('序号超出范围，请先发送 #角色故事帮助')
