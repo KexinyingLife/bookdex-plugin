@@ -1,0 +1,1661 @@
+{
+  "id": "6490",
+  "name": "卡维",
+  "alias": [
+    "卡维"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "能像这样见面是件好事，眼光相近的人才能共同开启一段愉快的对话。初次见面，你好，我是建筑设计师卡维，有什么事需要我帮忙的话，请先详细说明你的需求。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/e1eadbfdf3e736082874ad0e11868c70_5215464530657986613.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·美学",
+          "text": "懂得欣赏美是一种好的品德。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6e74cd64f0ef5b6ee2049a08084f25b6_4487603828864841582.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·解闷",
+          "text": "人不能老是闷在家里，多出去走走吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/bcc7faca8734029b730a0e911cee8548_2395866444365520506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·完善",
+          "text": "上次的方案还能优化一下，趁没到截止日再改改好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/decfee8f84f1112993e979b49bc51b33_1968386909508222259.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "欸？怎么下雨了？糟糕，没带伞…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/dfccb564bec99e1a162de33c733c030d_6442861154207290689.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "你看到了吗？刚才那道闪电的形状好特别！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b3db4561c34d0a944bd064e660770a62_1394934125022097132.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嘶…背后有点漏风的感觉…胸口也有…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6df1f933fe52e6c6674e776c34df5e34_6921436015508763214.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "太阳晒久了就想睡觉，跟熬夜工作的感觉差不多，都是头晕。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/079e10185cfccbd026357e37dbb4c47c_4951077063093848463.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "不是第一次来了，可每次都这么热…唉，有没有阴凉的地方…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/81e56489a9a3991dee5bc40cce8213ee_3637046880338982576.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "睡得好吗？希望你今天顺利，别遇到那种一大早就能惹你生气的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/2e1d1e9a18b3b167892c657394bf6055_5257674390178534754.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "正午阳光好烈，我晒在外面的材料怎么样了…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b9c89cd5b3c0bce35952e3c0d83da8a1_7499171092082806447.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "今晚能看到许多星星呢，不觉得是个好兆头吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/922a620fc2b4a95f40e881edb864f1f1_680122832711256711.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "放空大脑忘掉所有烦心事，晚安。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/0aee2d5b01e5f82191f44d99ff045902_4136826227736162801.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维自己·专业",
+          "text": "谈到专业领域，我算是个骄傲的人。学者面对自己的专长大多如此，不如说，这是我们的根基。假如连这份骄傲都失去了，我就不可能再对自己和别人提出什么要求。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/205501adb5d7bbc68840a33c57dfe4b3_5339668307997070917.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维自己·艺术",
+          "text": "艺术性不是也不该是我工作的第一追求，质量和安全性才是。但我从未放弃它，它是将我区别于他人的根本。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/a1630bfd0f5e8a2a324b22bde10a73de_2984149659834847584.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·欣赏",
+          "text": "你应该见过卡萨扎莱宫吧？那是我最得意的作品。我为它付出了很多，多到别人难以理解…哈哈，你们不是我，又不从事这个行业，无法理解也正常。唔…不过偶尔还是希望别人能理解一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/4179ac7cb22d1e914f1134b7d155e000_8299129916585393688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·理想",
+          "text": "看透一个人的理想才能真正触摸到他，我一直这么想。但理想、美梦这种东西…接触自己的或他人的都是在冒险，会开启某些可能。不是每个人都有能力面对那些。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b59731e1ec156cff3a104bfc2eb5d5cb_2206851151106643520.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "可以的话，我不想把这句话说出口…拥有愿望有时是一件令人痛苦的事。幸好，我不讨厌我的「神之眼」。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/375cf6f64a8accd5c2119a0970682055_2606137336904234126.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "明白自己为什么而进行创造的人值得尊重。你应该也这么觉得吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6afb8be69fc6a7f186895079a71e8fef_2265712975393921861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "外行经常认为妙论派建筑设计师的专业领域就是土块、木材什么的，这种观点肤浅到没必要与之辩论。假如把各种材料拼在一起就叫造房子，那就是在否定这门学科的意义。建筑设计是人文的一环，也是艺术，艺术无法脱离人单独存在。使用者的感受，观看者的心境…我会考虑这些。啊对，怎么更好地融合艺术表达与人文需求也很重要。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/a84571673ff2f475e6940a6de1f0ab9f_7195731950713964980.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "小吉祥草王是一位非常贤明的神，充满智慧，更拥有常人无法匹敌的美德。她能理解包容他人，在须弥这样的学术之国里，她的沉稳叫我钦佩。偶尔我会想，神明难道就毫无烦恼吗？智慧时常伴随困惑而生，那什么才算得上真正的幸福？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/80f10efcd12d9b0619c4d63e2bd0d736_8827560273090761144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森·脾气",
+          "text": "谁都不可能从人群中找出第二个像他一样令人无语的家伙！这话就算他本人来了我也敢说。你也知道他很聪明，都说聪明人容易脾气差，这话算是对了一半吧，可他不一样…他完全清楚怎么表现得更符合大众定义的友好，只是不想。假如你觉得他脾气很好，或者觉得他死板教条像台机器，那说明你们还不够熟。他就是太有性格，普通人理解不了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/7d47dbb0d82e53e3b9e2618f125d7d0a_6583838987178794994.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森·复杂",
+          "text": "艾尔海森帮了我一些忙，如果我们的关系还像学生时代那么好，我肯定会三天两头感谢他。现在嘛…说不出口，也不想就这么承认。该说是有好有坏吗？很多事就像命运的恶作剧…不是重来几次就能看清的。当然，能认识这样一个人也算难得，他要是能收起性格中比较恶劣的部分就更好了。好吧不可能。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6dab284029dc003ca4b3d33a8f5cab31_4771760706955123740.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "提纳里啊，你见到他就会明白的，他是非常好的人，善良又渊博，而且从不将知识当成炫耀的资本。他是真心喜欢他的工作。建造卡萨扎莱宫那段时间我向他请教过挑选园艺花卉的办法，他回信给我，后来还帮我处理了一些别的问题。噢对，赛诺也是我通过他认识的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/686ed859fb274719beb58aa951e8d080_3111846624955083755.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "多莉是卡萨扎莱宫的主人…你说什么？废话，卡萨扎莱宫当然不是我的…别说了别说了！她很精明，懂得如何控制别人为自己办事。我…呃…我因为一些原因欠她钱，那件事很复杂…反、反正，还是希望她手下留情，别总是为钱的问题折腾我。她明明可以成为更善良的好人的啊，怎么会这样呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/8ca0ac67833c1c1032b0db9063c4ebf0_7821371951035197646.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "赛诺看似冷酷无情，其实很热心肠。记得当初提纳里说要给我介绍他最好的朋友，我一回头就看见一个气势惊人的风纪官走进门…真没想到，本来以为那种类型的风纪官不会跟学者走得太近。不过赛诺的冷笑话我受不了，冬天听到那些会汗毛倒竖。他约你一起去提纳里家吃饭的话，你最好多穿件外套。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/ac55842b4020956ea7f62b2f6fa22a6c_3040048854067095668.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱…",
+          "text": "我和柯莱见过不少次了，她一直跟在提纳里身边，既是助手也是学生。柯莱做事很认真，又有耐心，比同龄人可靠不少。嗯…不过能看出来，她的心事不少。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/184f0a07326d23ffdbaff03e4a7da8c5_4546154074811176067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "妮露作为舞蹈家的实力毋容置疑，祖拜尔剧场能招到这样一位演员未免太走运了点。听说她性格也很好，跳舞时一直在笑，对每个观众都说鼓励的话。等有时间，我也会去看她的演出。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/c2dcb41fdaa80a30a6c41c0cf462b8b3_4861443758065635342.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "珐露珊前辈心直口快，听说教令院有些学生怕她，能理解，不过她从来没有什么坏心思，就是一心扑在自己感兴趣的学问上。有人觉得知论派都难相处，这个嘛…哈哈。她应该也请你当她的学生了吧？的确，珐露珊前辈有时像个疯狂的推销员…学问倒都是真的，这点不会错。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/0237394fcbb5052f4f7e3e1753190bb7_5358293018725263099.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其一",
+          "text": "听说我在须弥小有名气？哈哈哈，都是大家随口说的，我自己觉得还好。在这里生活久了谁都有可能出名，保持低调才难。但愿你不是通过破产丑闻认识我的，哼。如果你想听，我也可以给你讲讲我的优点。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/490a62529a59ac54b914c297109a777a_6080287158223492216.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其二",
+          "text": "你应该不会去教令院当学生吧？从务实的角度出发，我建议你就算要去也别选设计，设计很有意思，累也是真的累。刚毕业那会儿我在前辈手底下打工，每天做牛做马，被人使唤来使唤去，坚持了好久，差点把自己累死。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/ddfb063ca53f2e8ba691367c3a210c02_8451930797867393494.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其三",
+          "text": "人的审美很难统一，但美是一种相对具体的概念，我认为美学之中存在基础标准。审美本身也不是不能提升，就是费时，需要大量积累。你需要这方面参考的话，可以来找我。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f924ec8e4773a7f53981f2bb6a6f08f0_6966119946836182618.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其四",
+          "text": "有人说我经常惹麻烦，这算什么话？只要一个人还在前进，难免会跟其他人事物发生摩擦，不能因为怕麻烦就对很多事视而不见。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/e574ffea84044594fe7bb449335d5267_7527561553949534306.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其五",
+          "text": "休息时我会去喝酒，酒能冲淡烦恼。嗯？噢，是啊，只是为了打发时间。呃…咳！别这么看着我…好吧好吧我承认我就是有很多烦恼！没做完的工作，解决不了的困难，人和人的隔阂…难道你不会考虑这些吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/2499677db370dae58d48a7ced352881d_1705585402422410391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "卡维的爱好…",
+          "text": "音乐，建筑，雕塑，绘画艺术，都是值得花时间欣赏的东西。不敢说我都会，但有了兴趣，以后说不定能全部精通的吧。你看，至少我会弹琴。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/5cb368769cc30ae6df44e0f268c9d84c_6983156169440730843.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "卡维的烦恼…",
+          "text": "烦恼啊…唔，最直观的烦恼还是经济问题。我不是赚不到钱，而是留不住钱。生活中有太多可能用到钱的场合了，一不小心就…不过别担心，我比以前好多了，会提高警惕避免陷入困境。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/629ed73515263771e58f76d315f59183_8904044734789063446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "酒、热汤、有奶油和奶酪的菜肴，这些我都喜欢。还有新鲜水果也不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/85e0d0f07aa9f98263b70bd649ed6c96_5994434496079712787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "太辣太烫的东西很难入口，我不行，至少也要等放凉了才能吃。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/7c7336f104f190c69fff41d2900a7a5e_2483181807732001401.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "真不错！能教教我怎么做吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/58469a6af6962ce9769df26a15aeb266_2616710460385436315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "拿来下酒不错哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/c54a9d58ebefb436a48363ae41a0453b_907372377277376816.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…嗯？唔…呃…呃…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6f2dbead2be55e7cdd360e5e18ed5ba4_11732343363298390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你生日吗？恭喜你，生日是很重要的日子，也是一年之中最容易想起家人的日子。希望你能在这天有好心情。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/4bee33e68be9dcfbab8febd3b56717cd_7658721162493043198.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "感觉不错，谢谢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/8b12664f0f63972dac3a8f74ea17b9fc_4281933420865895074.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "嗯？还能再来一次吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/e36654d531c77a73502b001dbb8d9db2_1501872594835218102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "视野变得更开阔了…我想把这份感觉延续下去。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/2379393c12711eabdb73cae4b63f9333_3774856743941018446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "拥有的力量越多，能做到的事就更多。哪怕完成这些事需要代价，哪怕理想从来都建立在痛苦之上，我也…不想后退。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/5e966fbd60b857f0722322e2a312ff54_6730019655320295891.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "扫描！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/a6e14e161ed4b15cb4eed9322de506bf_7439229845452484904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "来吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/d322f48c4d1a7a6da2b79096c0a7a231_6794579156202913549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "障碍清除！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/5992dfb6a7424a55d35a143f855871b1_3194544817326075871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "看好了！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/8f4a59e2ad97379f703e9d732e8437f8_5701357357415287985.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "工程开始。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/074163dddb4b271472c74017fb4930ed_834422808479600823.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "万众瞩目！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/40eea16a90fc798f1ca2bdc18ace4425_1652909580795420715.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "新发现！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/84df01f484d4a161a82b4ecceb3414e2_911835073002581806.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "捡到好东西了，很开心吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f3d3228dad893f08d1c64ffb25733bc2_8481038684877768785.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "该说是意外之喜还是超乎想象…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/44d7423f3ff2b77dfe21dd5ecf264ee2_8173670171437414110.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "真是麻烦！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/092c26e91a4e6b11fbfa40aaaa91cd39_5224577471081896908.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "没有下一次了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/c68f84da49aa0cd4995e5f8922fcfca3_6728422728545451128.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "唔…走开！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b0425900002a5731d7da1943305918d8_7233948881660500862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "这里交给我！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/a91aabdef4f0096444d4b967fdde8ffd_8987906583615579962.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "到后面去。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/281c6f2d80a2b4cdac6092d94d37fadc_7314282766507665882.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还有…没完成的事…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/55f471363972f037624b93f450a10a84_1492309877991188605.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "为什么…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/31efcf3c254e8b0e5e7bae400e9222ef_8144132269645930228.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "不许…践踏我的理想…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/e5e34c6caa4c0f271846a53b45cf4c81_2179319826081877318.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "呜！别这样…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/a3a1b6e9c16eb9abbb987084866db25e_7570051861915291416.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "咳！没什么的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f8453c01f19a5d676a163c462589e5cb_6203463243527957424.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "需要帮忙？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/bc5b251727f7862a9f4b6a8881309bb9_4816317507272627555.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "放着我来好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/40d3da326971d0b8b6e25eb2aad7f3cd_4935852308705608110.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "是甲方吗？还是…哦！不是啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/df59045fc412886e81e434fde57ea251_6204609383342400885.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "能像这样见面是件好事，眼光相近的人才能共同开启一段愉快的对话。初次见面，你好，我是建筑设计师卡维，有什么事需要我帮忙的话，请先详细说明你的需求。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b347330e39a5cd4b16d357c267f969ab_3042637021632989230.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·美学",
+          "text": "懂得欣赏美是一种好的品德。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/722a5d92e34279e7a09a3a9549390e64_2077822061876396020.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·解闷",
+          "text": "人不能老是闷在家里，多出去走走吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/adcf4662e83372d9d9109c842a353075_8819523888731863752.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·完善",
+          "text": "上次的方案还能优化一下，趁没到截止日再改改好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/2bc8093cbaf20e06a556cc82d2dd30bc_6690602033462794699.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "欸？怎么下雨了？糟糕，没带伞…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/89497d5f88818f53d10cf365e1da8cf6_7608118643294541788.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "你看到了吗？刚才那道闪电的形状好特别！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/364e6aa0b58fd94281a352fe54e4dde1_730807589984269219.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嘶…背后有点漏风的感觉…胸口也有…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/077b27b56096337816e0cbac768687c5_1418445648983337569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "太阳晒久了就想睡觉，跟熬夜工作的感觉差不多，都是头晕。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/dcb5f8b8cee5c2fe4023311ae99d4557_2945840944869699549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "不是第一次来了，可每次都这么热…唉，有没有阴凉的地方…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/10cb6abf32bd586f372c3fc393364a56_1355569583376124046.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "睡得好吗？希望你今天顺利，别遇到那种一大早就能惹你生气的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/433191fb58ac2005f06fafa8f596098b_2503419534810764510.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "正午阳光好烈，我晒在外面的材料怎么样了…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/c99758f92ad23ad37af60db61b604c29_239140046283357782.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "今晚能看到许多星星呢，不觉得是个好兆头吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/9b57efe939e2110a8bb5487cf835aa2e_8872968422445796774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "放空大脑忘掉所有烦心事，晚安。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/9efc2c142d40c4a60b55dea253ea5ef0_265583363675954256.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维自己·专业",
+          "text": "谈到专业领域，我算是个骄傲的人。学者面对自己的专长大多如此，不如说，这是我们的根基。假如连这份骄傲都失去了，我就不可能再对自己和别人提出什么要求。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/3909e1795ea1a3b2066be9adf77901bb_2570851519669508044.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维自己·艺术",
+          "text": "艺术性不是也不该是我工作的第一追求，质量和安全性才是。但我从未放弃它，它是将我区别于他人的根本。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/9c234ce60bfcb4bfa6c7631a941f8ee7_3177902990580262379.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·欣赏",
+          "text": "你应该见过卡萨扎莱宫吧？那是我最得意的作品。我为它付出了很多，多到别人难以理解…哈哈，你们不是我，又不从事这个行业，无法理解也正常。唔…不过偶尔还是希望别人能理解一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/42dc83f5505173a9751d4ae71977d2e4_7001610230621524541.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·理想",
+          "text": "看透一个人的理想才能真正触摸到他，我一直这么想。但理想、美梦这种东西…接触自己的或他人的都是在冒险，会开启某些可能。不是每个人都有能力面对那些。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/cd0462ec89a12af30a95da909694267a_7958353047989681966.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "可以的话，我不想把这句话说出口…拥有愿望有时是一件令人痛苦的事。幸好，我不讨厌我的「神之眼」。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/46040870c125007951d5e65d08ddba17_6735230190855266234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "明白自己为什么而进行创造的人值得尊重。你应该也这么觉得吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/882c45d38e09746bf01872fa051258ea_6054759717846036820.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "外行经常认为妙论派建筑设计师的专业领域就是土块、木材什么的，这种观点肤浅到没必要与之辩论。假如把各种材料拼在一起就叫造房子，那就是在否定这门学科的意义。建筑设计是人文的一环，也是艺术，艺术无法脱离人单独存在。使用者的感受，观看者的心境…我会考虑这些。啊对，怎么更好地融合艺术表达与人文需求也很重要。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/aa278ca68fc479d66a127d829da776eb_7490187656690456660.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "小吉祥草王是一位非常贤明的神，充满智慧，更拥有常人无法匹敌的美德。她能理解包容他人，在须弥这样的学术之国里，她的沉稳叫我钦佩。偶尔我会想，神明难道就毫无烦恼吗？智慧时常伴随困惑而生，那什么才算得上真正的幸福？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/36bfb017aac5da97abf69f5d8a90ee25_175922960104549586.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森·脾气",
+          "text": "谁都不可能从人群中找出第二个像他一样令人无语的家伙！这话就算他本人来了我也敢说。你也知道他很聪明，都说聪明人容易脾气差，这话算是对了一半吧，可他不一样…他完全清楚怎么表现得更符合大众定义的友好，只是不想。假如你觉得他脾气很好，或者觉得他死板教条像台机器，那说明你们还不够熟。他就是太有性格，普通人理解不了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/419202ff1ff832c836eccfe50479c6a9_5839088967290342609.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森·复杂",
+          "text": "艾尔海森帮了我一些忙，如果我们的关系还像学生时代那么好，我肯定会三天两头感谢他。现在嘛…说不出口，也不想就这么承认。该说是有好有坏吗？很多事就像命运的恶作剧…不是重来几次就能看清的。当然，能认识这样一个人也算难得，他要是能收起性格中比较恶劣的部分就更好了。好吧不可能。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/1155404d6b48195fa9f9db61918c8861_4862649067759737423.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "提纳里啊，你见到他就会明白的，他是非常好的人，善良又渊博，而且从不将知识当成炫耀的资本。他是真心喜欢他的工作。建造卡萨扎莱宫那段时间我向他请教过挑选园艺花卉的办法，他回信给我，后来还帮我处理了一些别的问题。噢对，赛诺也是我通过他认识的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f43a498c335fbfbe030d3fa2c209177b_3406875737950926027.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "多莉是卡萨扎莱宫的主人…你说什么？废话，卡萨扎莱宫当然不是我的…别说了别说了！她很精明，懂得如何控制别人为自己办事。我…呃…我因为一些原因欠她钱，那件事很复杂…反、反正，还是希望她手下留情，别总是为钱的问题折腾我。她明明可以成为更善良的好人的啊，怎么会这样呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/5c258ffe1fd7b50277440dfd8908b70e_4127859361390424450.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "赛诺看似冷酷无情，其实很热心肠。记得当初提纳里说要给我介绍他最好的朋友，我一回头就看见一个气势惊人的风纪官走进门…真没想到，本来以为那种类型的风纪官不会跟学者走得太近。不过赛诺的冷笑话我受不了，冬天听到那些会汗毛倒竖。他约你一起去提纳里家吃饭的话，你最好多穿件外套。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/cf6234710498c42112dc04439e6c73e5_6453703020834213409.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱…",
+          "text": "我和柯莱见过不少次了，她一直跟在提纳里身边，既是助手也是学生。柯莱做事很认真，又有耐心，比同龄人可靠不少。嗯…不过能看出来，她的心事不少。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f53d035afa5fcf4eb8679f13c58fb747_2782201149894061297.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "妮露作为舞蹈家的实力毋容置疑，祖拜尔剧场能招到这样一位演员未免太走运了点。听说她性格也很好，跳舞时一直在笑，对每个观众都说鼓励的话。等有时间，我也会去看她的演出。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f6d902afc917a2fb32551fc2c6dd59b2_9012564190533731115.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "珐露珊前辈心直口快，听说教令院有些学生怕她，能理解，不过她从来没有什么坏心思，就是一心扑在自己感兴趣的学问上。有人觉得知论派都难相处，这个嘛…哈哈。她应该也请你当她的学生了吧？的确，珐露珊前辈有时像个疯狂的推销员…学问倒都是真的，这点不会错。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/20349c6fc81c6eb56db59b1554240f92_2506047017020802916.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其一",
+          "text": "听说我在须弥小有名气？哈哈哈，都是大家随口说的，我自己觉得还好。在这里生活久了谁都有可能出名，保持低调才难。但愿你不是通过破产丑闻认识我的，哼。如果你想听，我也可以给你讲讲我的优点。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/e1481506a00783aa2af7bd491a6a4276_7527392641518018667.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其二",
+          "text": "你应该不会去教令院当学生吧？从务实的角度出发，我建议你就算要去也别选设计，设计很有意思，累也是真的累。刚毕业那会儿我在前辈手底下打工，每天做牛做马，被人使唤来使唤去，坚持了好久，差点把自己累死。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/7e703abaa4a9ccb326690b1de34f8d9e_5977623347581758391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其三",
+          "text": "人的审美很难统一，但美是一种相对具体的概念，我认为美学之中存在基础标准。审美本身也不是不能提升，就是费时，需要大量积累。你需要这方面参考的话，可以来找我。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/9492d079b080493769bf9b0365219270_2265121663148203073.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其四",
+          "text": "有人说我经常惹麻烦，这算什么话？只要一个人还在前进，难免会跟其他人事物发生摩擦，不能因为怕麻烦就对很多事视而不见。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/d706a1b856258fbf45c943553e603f71_6816998928968875091.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其五",
+          "text": "休息时我会去喝酒，酒能冲淡烦恼。嗯？噢，是啊，只是为了打发时间。呃…咳！别这么看着我…好吧好吧我承认我就是有很多烦恼！没做完的工作，解决不了的困难，人和人的隔阂…难道你不会考虑这些吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/7c746d255f9c7b491971d4753fe171de_6814899808004434211.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "卡维的爱好…",
+          "text": "音乐，建筑，雕塑，绘画艺术，都是值得花时间欣赏的东西。不敢说我都会，但有了兴趣，以后说不定能全部精通的吧。你看，至少我会弹琴。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b663e54b90344d1863ab85a4a364fb41_2099335552710206188.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "卡维的烦恼…",
+          "text": "烦恼啊…唔，最直观的烦恼还是经济问题。我不是赚不到钱，而是留不住钱。生活中有太多可能用到钱的场合了，一不小心就…不过别担心，我比以前好多了，会提高警惕避免陷入困境。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/47b7df293649df3396bb32e0e87a42ce_2397721966812696235.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "酒、热汤、有奶油和奶酪的菜肴，这些我都喜欢。还有新鲜水果也不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/8b47be45abc5230c50072ba2b66a2a01_2536336261370313072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "太辣太烫的东西很难入口，我不行，至少也要等放凉了才能吃。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/19d59d1b2fd22c1d594002d52a96860d_61307456213719437.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "真不错！能教教我怎么做吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/d596130e0ea59a87ceb6f5ab5a0fada9_5875800249198434624.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "拿来下酒不错哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/81610908194918cf6ef2f2683c423952_2074933865872109915.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…嗯？唔…呃…呃…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6ded19a06e4d7dd236e633fcc5ee808d_9036607146708554755.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你生日吗？恭喜你，生日是很重要的日子，也是一年之中最容易想起家人的日子。希望你能在这天有好心情。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/1c043a864c0b05a54039afdbe86b1ddb_6599445759565527737.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "感觉不错，谢谢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/ffebe5574a6e705f5e3485d0be883f5b_5531494437153940256.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "嗯？还能再来一次吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b575caf205ab0e8da8ccb6dcbf810bb3_1121584713928024848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "视野变得更开阔了…我想把这份感觉延续下去。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f79c433e12c090b024c3ab4af7ae2788_8841090091891201067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "拥有的力量越多，能做到的事就更多。哪怕完成这些事需要代价，哪怕理想从来都建立在痛苦之上，我也…不想后退。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/98e719efd526b2c594342cdd1f6a0300_126956996568357369.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "扫描！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6f480ceb6f5b4a1d1738e249ac800b7a_6996907598894754474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "来吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/87a9d633122e107c0bc365969616b93d_5461942891780880642.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "障碍清除！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/1a5fdd32ecad049edb4e6132b7a7d46f_8176393237577187615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "看好了！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/eff9c93133c577e51ee3d07a7100a5a4_5016340348814627204.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "工程开始。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/a57e9b0804629fc5d12b6454742f6f89_6383685501917464333.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "万众瞩目！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6e9ee4a50faca9024b72ee6dc3b8bc1c_4251214957016796833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "新发现！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b85c2b1705dcb00fa7a191ee665b9447_7981489564017082893.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "捡到好东西了，很开心吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/5bbce02fff97e0d9d89c7a8765481c7e_2608533740652210293.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "该说是意外之喜还是超乎想象…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/1bba91159b2b182692e2c2c4dd19360e_8351898956378291684.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "真是麻烦！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/58b2ee350e433f20039ae9d899d24bc4_6714339063965804319.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "没有下一次了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/86b36b6ebea6a244b6df1596b5a16d01_256468851840077923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "唔…走开！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/76ea1cb6b4b447bedf0f960f4f3117b2_8731937208640084233.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "这里交给我！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/da13dc1495145b6c282d4a06990627dc_377022402556073279.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "到后面去。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/86b36b6ebea6a244b6df1596b5a16d01_8663461407356675720.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还有…没完成的事…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/e87c2fb0f18e21b0edb4f677b242883a_7728569121016719515.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "为什么…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/1e351754bb237416a24bc9dc6e8bbf9c_1398717061759657269.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "不许…践踏我的理想…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/949b05d9b05a870e0b51f22986ff6f1b_4559587221965056176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "呜！别这样…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/9d11ae1ac76bac63843e08c998050494_3826482090566752048.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "咳！没什么的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/67543eef739a8703c5f8afd7a2a0aab8_8276531340484656321.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "需要帮忙？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b6120c550ce1af98b7c44c86f9b49055_3888982155451905536.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "放着我来好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/9346d6f4a5942f0c9082052f709e6283_3673596431290039597.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "是甲方吗？还是…哦！不是啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/4b206525cd70db33c8b990336382501e_5481503835457730686.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "能像这样见面是件好事，眼光相近的人才能共同开启一段愉快的对话。初次见面，你好，我是建筑设计师卡维，有什么事需要我帮忙的话，请先详细说明你的需求。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/2c62061e93c33bd7b5825e5891c313d7_8164659891560561257.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·美学",
+          "text": "懂得欣赏美是一种好的品德。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b9458722d0f04e18ceff84d303035d18_4539183230189222244.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·解闷",
+          "text": "人不能老是闷在家里，多出去走走吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/bac54f8cac401551e2b0b0d93cd65fc7_7896169978677878097.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·完善",
+          "text": "上次的方案还能优化一下，趁没到截止日再改改好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/acb00365978fcf378be95b6b44b20303_2119977474835457872.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "欸？怎么下雨了？糟糕，没带伞…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/efb63b4f117a9f92e080cc51458dd6ab_6734677566101185484.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "你看到了吗？刚才那道闪电的形状好特别！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b2ef1047d956a7496d80ef417e4f4aca_2182407469050272615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嘶…背后有点漏风的感觉…胸口也有…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/fdb98289411e32aef0c8517c62bb3b03_3912385864629965842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "太阳晒久了就想睡觉，跟熬夜工作的感觉差不多，都是头晕。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/3603b8b92f3f96dda1b9213630136c93_8855048887339462533.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "不是第一次来了，可每次都这么热…唉，有没有阴凉的地方…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/825237fb2756b4c037af07ebf6158fb7_2798403370200408476.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "睡得好吗？希望你今天顺利，别遇到那种一大早就能惹你生气的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/86bc9d4796253036b74f509473299420_8932799787321878668.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "正午阳光好烈，我晒在外面的材料怎么样了…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/96ce835bf623ca842c1b45ee3a3a58ae_2803093842892805986.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "今晚能看到许多星星呢，不觉得是个好兆头吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/759c534d564d4f438a70a04a3144abb0_5346839129201682852.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "放空大脑忘掉所有烦心事，晚安。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/4632e0747c95df74c08fc5882d3921a1_3647074017445286345.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维自己·专业",
+          "text": "谈到专业领域，我算是个骄傲的人。学者面对自己的专长大多如此，不如说，这是我们的根基。假如连这份骄傲都失去了，我就不可能再对自己和别人提出什么要求。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/2e23f7851e5abe3f0a5d0853dc0b43a2_588856046862806091.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维自己·艺术",
+          "text": "艺术性不是也不该是我工作的第一追求，质量和安全性才是。但我从未放弃它，它是将我区别于他人的根本。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/e0a4428e24006541366d8d3c124a1a2b_4585661238812867405.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·欣赏",
+          "text": "你应该见过卡萨扎莱宫吧？那是我最得意的作品。我为它付出了很多，多到别人难以理解…哈哈，你们不是我，又不从事这个行业，无法理解也正常。唔…不过偶尔还是希望别人能理解一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b94cfa5be2553ad2dc0c9c159f80c5f3_8020954683753015121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·理想",
+          "text": "看透一个人的理想才能真正触摸到他，我一直这么想。但理想、美梦这种东西…接触自己的或他人的都是在冒险，会开启某些可能。不是每个人都有能力面对那些。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/4b254e3fbb1d42e24d8d6e8a109986ea_4732855784342540135.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "可以的话，我不想把这句话说出口…拥有愿望有时是一件令人痛苦的事。幸好，我不讨厌我的「神之眼」。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/9ab18b4813399c79129cee8814d98b84_1394874440612418864.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "明白自己为什么而进行创造的人值得尊重。你应该也这么觉得吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/1825036991e736a857db1060f50e8706_2649688920855105922.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "外行经常认为妙论派建筑设计师的专业领域就是土块、木材什么的，这种观点肤浅到没必要与之辩论。假如把各种材料拼在一起就叫造房子，那就是在否定这门学科的意义。建筑设计是人文的一环，也是艺术，艺术无法脱离人单独存在。使用者的感受，观看者的心境…我会考虑这些。啊对，怎么更好地融合艺术表达与人文需求也很重要。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/72cb9d2ece7753bef9473d101a4fdb2c_8619625498100045815.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "小吉祥草王是一位非常贤明的神，充满智慧，更拥有常人无法匹敌的美德。她能理解包容他人，在须弥这样的学术之国里，她的沉稳叫我钦佩。偶尔我会想，神明难道就毫无烦恼吗？智慧时常伴随困惑而生，那什么才算得上真正的幸福？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/feff8baf134d1668d90c02edc8f1b3c0_6242665702445805085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森·脾气",
+          "text": "谁都不可能从人群中找出第二个像他一样令人无语的家伙！这话就算他本人来了我也敢说。你也知道他很聪明，都说聪明人容易脾气差，这话算是对了一半吧，可他不一样…他完全清楚怎么表现得更符合大众定义的友好，只是不想。假如你觉得他脾气很好，或者觉得他死板教条像台机器，那说明你们还不够熟。他就是太有性格，普通人理解不了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f04cb0cfdbc7f4595cdcf343ca039fe7_4168578461985940808.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森·复杂",
+          "text": "艾尔海森帮了我一些忙，如果我们的关系还像学生时代那么好，我肯定会三天两头感谢他。现在嘛…说不出口，也不想就这么承认。该说是有好有坏吗？很多事就像命运的恶作剧…不是重来几次就能看清的。当然，能认识这样一个人也算难得，他要是能收起性格中比较恶劣的部分就更好了。好吧不可能。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/99e7f75097ab19d3a26c461bbfec9c9d_4731551038698143811.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "提纳里啊，你见到他就会明白的，他是非常好的人，善良又渊博，而且从不将知识当成炫耀的资本。他是真心喜欢他的工作。建造卡萨扎莱宫那段时间我向他请教过挑选园艺花卉的办法，他回信给我，后来还帮我处理了一些别的问题。噢对，赛诺也是我通过他认识的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/2b1b1d4acff7ea8cafa99e384e83ef09_4771515586912570480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "多莉是卡萨扎莱宫的主人…你说什么？废话，卡萨扎莱宫当然不是我的…别说了别说了！她很精明，懂得如何控制别人为自己办事。我…呃…我因为一些原因欠她钱，那件事很复杂…反、反正，还是希望她手下留情，别总是为钱的问题折腾我。她明明可以成为更善良的好人的啊，怎么会这样呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/5a98cd82a37158e711b8ebf74cb2b5b2_5006647874848984998.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "赛诺看似冷酷无情，其实很热心肠。记得当初提纳里说要给我介绍他最好的朋友，我一回头就看见一个气势惊人的风纪官走进门…真没想到，本来以为那种类型的风纪官不会跟学者走得太近。不过赛诺的冷笑话我受不了，冬天听到那些会汗毛倒竖。他约你一起去提纳里家吃饭的话，你最好多穿件外套。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/c1366bdacf1213c05d6446452c0bf75b_7108596183778828463.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱…",
+          "text": "我和柯莱见过不少次了，她一直跟在提纳里身边，既是助手也是学生。柯莱做事很认真，又有耐心，比同龄人可靠不少。嗯…不过能看出来，她的心事不少。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/219e65cc52ce13251c7abc593bd9e017_6490917498869663992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "妮露作为舞蹈家的实力毋容置疑，祖拜尔剧场能招到这样一位演员未免太走运了点。听说她性格也很好，跳舞时一直在笑，对每个观众都说鼓励的话。等有时间，我也会去看她的演出。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/10f82b9476857a7e43cd2aa31d29c93b_1181562040268274923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "珐露珊前辈心直口快，听说教令院有些学生怕她，能理解，不过她从来没有什么坏心思，就是一心扑在自己感兴趣的学问上。有人觉得知论派都难相处，这个嘛…哈哈。她应该也请你当她的学生了吧？的确，珐露珊前辈有时像个疯狂的推销员…学问倒都是真的，这点不会错。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/d7dc58d112f3c7f1632a63d2a9131cd0_6025540107935063950.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其一",
+          "text": "听说我在须弥小有名气？哈哈哈，都是大家随口说的，我自己觉得还好。在这里生活久了谁都有可能出名，保持低调才难。但愿你不是通过破产丑闻认识我的，哼。如果你想听，我也可以给你讲讲我的优点。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/4a00722df9922a1fcfea3638dc53aa14_6480891774134939753.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其二",
+          "text": "你应该不会去教令院当学生吧？从务实的角度出发，我建议你就算要去也别选设计，设计很有意思，累也是真的累。刚毕业那会儿我在前辈手底下打工，每天做牛做马，被人使唤来使唤去，坚持了好久，差点把自己累死。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/47427042001451892bec2ae3dc7ecb1c_8964175356337977202.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其三",
+          "text": "人的审美很难统一，但美是一种相对具体的概念，我认为美学之中存在基础标准。审美本身也不是不能提升，就是费时，需要大量积累。你需要这方面参考的话，可以来找我。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/963fed0c26c1daa589b2e5a1a4446f08_8923879932796161100.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其四",
+          "text": "有人说我经常惹麻烦，这算什么话？只要一个人还在前进，难免会跟其他人事物发生摩擦，不能因为怕麻烦就对很多事视而不见。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/149525b7d752efdadccf36ff3098cd24_2408838495084653056.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其五",
+          "text": "休息时我会去喝酒，酒能冲淡烦恼。嗯？噢，是啊，只是为了打发时间。呃…咳！别这么看着我…好吧好吧我承认我就是有很多烦恼！没做完的工作，解决不了的困难，人和人的隔阂…难道你不会考虑这些吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/90f35e95c57763f511b51095fe2b03c6_70742062291035524.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "卡维的爱好…",
+          "text": "音乐，建筑，雕塑，绘画艺术，都是值得花时间欣赏的东西。不敢说我都会，但有了兴趣，以后说不定能全部精通的吧。你看，至少我会弹琴。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/32a0803624408b9c22e4477f60763771_4788554504549857229.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "卡维的烦恼…",
+          "text": "烦恼啊…唔，最直观的烦恼还是经济问题。我不是赚不到钱，而是留不住钱。生活中有太多可能用到钱的场合了，一不小心就…不过别担心，我比以前好多了，会提高警惕避免陷入困境。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/758e3db2d8f220b152e9bf4aac3b9f84_6022614304770018269.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "酒、热汤、有奶油和奶酪的菜肴，这些我都喜欢。还有新鲜水果也不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/2bb31d32cbbb3a7e1dde5ceae5079013_2505960939585563902.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "太辣太烫的东西很难入口，我不行，至少也要等放凉了才能吃。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/90a431e9c39b6287aa5565072f651550_8383745677125020923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "真不错！能教教我怎么做吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/1e2cdf53c2fab9efd6f732da7dadbadc_6059343758477073905.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "拿来下酒不错哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/9845a11e662d8d0705fded645d2f582f_6774591695995439091.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…嗯？唔…呃…呃…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/98e8c63977bd65a4ea50a4e5bf780fc7_641480183534479784.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你生日吗？恭喜你，生日是很重要的日子，也是一年之中最容易想起家人的日子。希望你能在这天有好心情。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/0c893384259bb1d27491ab6075474ff1_3744346373121016429.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "感觉不错，谢谢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/c45b96ca3540963efdccef16b861def9_6963799259107808330.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "嗯？还能再来一次吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/cde34843a2119146825af4797a762e2b_1518905214564160702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "视野变得更开阔了…我想把这份感觉延续下去。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f44ade5892640f9fcb1faed6a9edcc72_7132969153711613801.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "拥有的力量越多，能做到的事就更多。哪怕完成这些事需要代价，哪怕理想从来都建立在痛苦之上，我也…不想后退。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/92f28d119b770e82035834d5a19ac81b_6546858378669103454.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "扫描！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/424b23c6f3d39bb5c984be58fae94d80_5529063847245286410.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "来吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/d73ede982efca56840eaa6424f917311_923748411581396303.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "障碍清除！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b75538059a65fe2d2c1bc66f0a9d3fbf_5259304080495568026.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "看好了！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b87eaa5efbb5174859854e9953eda497_9201328239437141832.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "工程开始。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/965872dfc24035ad3f35fb93f9b2aa8c_3338849159400236343.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "万众瞩目！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b43b78271fa998a4f04076b9c821a382_4584363165957906401.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "新发现！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f8c10fa62928be3075a9ea7851de89e1_1074739434904774732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "捡到好东西了，很开心吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/5f974aa0af9e83607ae69c84a61506be_4204172737881096173.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "该说是意外之喜还是超乎想象…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/472b5f36f8ee4ecb8afdb8f578831f37_4130238143500142291.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "真是麻烦！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/737c171168770863d932df924b32702e_8854941427972594724.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "没有下一次了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/be43bb4f9ac822ad86ee8e9e313990e4_5574452425521050832.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "唔…走开！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/4c758a4f02756b99c53233c2d3550e01_2468922126767877473.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "这里交给我！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6d8c9b0c4d5ebcaf5f64cb868b2a45a9_2793596568534395697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "到后面去。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/e7ab8ae17db8f3969673f6538f48df61_881876622025213909.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还有…没完成的事…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/8334d89cee959444ad3db21cfb1847a2_1843214011910377585.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "为什么…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/dcb1a9517b2c8ebe9ccdbf28dd5aa673_2099891946816222135.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "不许…践踏我的理想…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/ba38ba95f506c716f1609059c6dd9c22_8509349012293476632.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "呜！别这样…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/42bc06bf1f4d92e85af593ace8bb5bf4_6013335602803830617.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "咳！没什么的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f1c0c13a9ba14816a0c11fee4065fabd_8114090317502161026.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "需要帮忙？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/55fbe6fab0b7eaea33f6ed6afc0c7155_6679782760107800497.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "放着我来好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/7082e6f64c5c381ecc389772ffcd534c_6368853110519781324.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "是甲方吗？还是…哦！不是啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/9d175dbbd268dbfa6bf850434a2a235f_1186382882463949514.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "能像这样见面是件好事，眼光相近的人才能共同开启一段愉快的对话。初次见面，你好，我是建筑设计师卡维，有什么事需要我帮忙的话，请先详细说明你的需求。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/d9b1b64d377926868a7916567fbdde24_1298793456909945430.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·美学",
+          "text": "懂得欣赏美是一种好的品德。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/de8692ea02b78f3247d4d98df78c7f8c_7929029700083735259.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·解闷",
+          "text": "人不能老是闷在家里，多出去走走吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6290e633e40e6c7e20f0497214d29ca5_4895594003120632628.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·完善",
+          "text": "上次的方案还能优化一下，趁没到截止日再改改好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/db61c04fe732715cd453abc071486f45_4400365359416345326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "欸？怎么下雨了？糟糕，没带伞…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/57fececd88e0523690778a7724e31438_7244147132901233716.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "你看到了吗？刚才那道闪电的形状好特别！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/c4e6cd77d30f79c293934b8798c500b2_3141279998896383736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嘶…背后有点漏风的感觉…胸口也有…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/5c77d79080371bbf09e138ab3cc03357_693395116140876913.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "太阳晒久了就想睡觉，跟熬夜工作的感觉差不多，都是头晕。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/227c15fa497fbdd588899d434227f158_8333543567419431576.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "不是第一次来了，可每次都这么热…唉，有没有阴凉的地方…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6eeb70a025691478464b42cc3e0fbe64_1650696068578542498.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "睡得好吗？希望你今天顺利，别遇到那种一大早就能惹你生气的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/cf34b45c734f0df9ead26fc8123ef3fe_9201683420400276789.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "正午阳光好烈，我晒在外面的材料怎么样了…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/98eafe4c697fc6f6eb56af467109379b_7924312683172750748.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "今晚能看到许多星星呢，不觉得是个好兆头吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/4b9e192303d188af461be128fb3519e9_2977960451019042688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "放空大脑忘掉所有烦心事，晚安。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/33933efb43f5a58e1defcbebf5bb1428_3234680777405774132.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维自己·专业",
+          "text": "谈到专业领域，我算是个骄傲的人。学者面对自己的专长大多如此，不如说，这是我们的根基。假如连这份骄傲都失去了，我就不可能再对自己和别人提出什么要求。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b6f0a4bf7981b89b2b1c9109e7dce846_4981895332676276904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维自己·艺术",
+          "text": "艺术性不是也不该是我工作的第一追求，质量和安全性才是。但我从未放弃它，它是将我区别于他人的根本。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/71dd0088de4657ad1aba65f96823cebe_5157490552897545361.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·欣赏",
+          "text": "你应该见过卡萨扎莱宫吧？那是我最得意的作品。我为它付出了很多，多到别人难以理解…哈哈，你们不是我，又不从事这个行业，无法理解也正常。唔…不过偶尔还是希望别人能理解一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/c7a54f43adce4e734d33ba0dd052653c_3694030573773477615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·理想",
+          "text": "看透一个人的理想才能真正触摸到他，我一直这么想。但理想、美梦这种东西…接触自己的或他人的都是在冒险，会开启某些可能。不是每个人都有能力面对那些。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/c4237d03da743bdbb0c6ccdf2dec92cc_4526784379895966691.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "可以的话，我不想把这句话说出口…拥有愿望有时是一件令人痛苦的事。幸好，我不讨厌我的「神之眼」。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/c4759aa0cf02bf1a5d541a9ab629c88d_2831876127698256938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "明白自己为什么而进行创造的人值得尊重。你应该也这么觉得吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/2d25c776e9b14f961b42b9c90f56484a_9070406003881879644.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "外行经常认为妙论派建筑设计师的专业领域就是土块、木材什么的，这种观点肤浅到没必要与之辩论。假如把各种材料拼在一起就叫造房子，那就是在否定这门学科的意义。建筑设计是人文的一环，也是艺术，艺术无法脱离人单独存在。使用者的感受，观看者的心境…我会考虑这些。啊对，怎么更好地融合艺术表达与人文需求也很重要。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/a217a90be46ae011f8a9a0d15ceb41f9_5264706741049348553.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "小吉祥草王是一位非常贤明的神，充满智慧，更拥有常人无法匹敌的美德。她能理解包容他人，在须弥这样的学术之国里，她的沉稳叫我钦佩。偶尔我会想，神明难道就毫无烦恼吗？智慧时常伴随困惑而生，那什么才算得上真正的幸福？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/90d45bc878323b14bc9942bc4133996d_6833294792019370647.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森·脾气",
+          "text": "谁都不可能从人群中找出第二个像他一样令人无语的家伙！这话就算他本人来了我也敢说。你也知道他很聪明，都说聪明人容易脾气差，这话算是对了一半吧，可他不一样…他完全清楚怎么表现得更符合大众定义的友好，只是不想。假如你觉得他脾气很好，或者觉得他死板教条像台机器，那说明你们还不够熟。他就是太有性格，普通人理解不了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/9f53d953e5843a4b5347382444a84821_3326665343097558176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森·复杂",
+          "text": "艾尔海森帮了我一些忙，如果我们的关系还像学生时代那么好，我肯定会三天两头感谢他。现在嘛…说不出口，也不想就这么承认。该说是有好有坏吗？很多事就像命运的恶作剧…不是重来几次就能看清的。当然，能认识这样一个人也算难得，他要是能收起性格中比较恶劣的部分就更好了。好吧不可能。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b6b9f2f4d1e41b6d6407c9307a2d36d6_615415705725168781.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "提纳里啊，你见到他就会明白的，他是非常好的人，善良又渊博，而且从不将知识当成炫耀的资本。他是真心喜欢他的工作。建造卡萨扎莱宫那段时间我向他请教过挑选园艺花卉的办法，他回信给我，后来还帮我处理了一些别的问题。噢对，赛诺也是我通过他认识的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/2b74fd8c1a8fc46d9121d3d557c9eff2_1309722297746298442.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "多莉是卡萨扎莱宫的主人…你说什么？废话，卡萨扎莱宫当然不是我的…别说了别说了！她很精明，懂得如何控制别人为自己办事。我…呃…我因为一些原因欠她钱，那件事很复杂…反、反正，还是希望她手下留情，别总是为钱的问题折腾我。她明明可以成为更善良的好人的啊，怎么会这样呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/77f6b34660af232434df9887083fb293_334337172165875169.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "赛诺看似冷酷无情，其实很热心肠。记得当初提纳里说要给我介绍他最好的朋友，我一回头就看见一个气势惊人的风纪官走进门…真没想到，本来以为那种类型的风纪官不会跟学者走得太近。不过赛诺的冷笑话我受不了，冬天听到那些会汗毛倒竖。他约你一起去提纳里家吃饭的话，你最好多穿件外套。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/5085d5637ca0dba30f557b33caa4c028_1454519325525567168.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱…",
+          "text": "我和柯莱见过不少次了，她一直跟在提纳里身边，既是助手也是学生。柯莱做事很认真，又有耐心，比同龄人可靠不少。嗯…不过能看出来，她的心事不少。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/e4fc41f9f8d64dd7a23293858597bb94_3508445259794298809.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "妮露作为舞蹈家的实力毋容置疑，祖拜尔剧场能招到这样一位演员未免太走运了点。听说她性格也很好，跳舞时一直在笑，对每个观众都说鼓励的话。等有时间，我也会去看她的演出。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/112ce0f9e40963ccc2a4cb478b61c293_8608494224318729077.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "珐露珊前辈心直口快，听说教令院有些学生怕她，能理解，不过她从来没有什么坏心思，就是一心扑在自己感兴趣的学问上。有人觉得知论派都难相处，这个嘛…哈哈。她应该也请你当她的学生了吧？的确，珐露珊前辈有时像个疯狂的推销员…学问倒都是真的，这点不会错。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/ecdc61022447ca5527f411d894f0bdac_8705184594255868502.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其一",
+          "text": "听说我在须弥小有名气？哈哈哈，都是大家随口说的，我自己觉得还好。在这里生活久了谁都有可能出名，保持低调才难。但愿你不是通过破产丑闻认识我的，哼。如果你想听，我也可以给你讲讲我的优点。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/648439a621beb511057567243d7d1330_2703673187888690983.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其二",
+          "text": "你应该不会去教令院当学生吧？从务实的角度出发，我建议你就算要去也别选设计，设计很有意思，累也是真的累。刚毕业那会儿我在前辈手底下打工，每天做牛做马，被人使唤来使唤去，坚持了好久，差点把自己累死。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/edac7e62f3eb388b42e4712158b98159_3086349169097700903.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其三",
+          "text": "人的审美很难统一，但美是一种相对具体的概念，我认为美学之中存在基础标准。审美本身也不是不能提升，就是费时，需要大量积累。你需要这方面参考的话，可以来找我。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/af42d0fbfccb140a1434d598d4a8c2e6_4633623443245633168.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其四",
+          "text": "有人说我经常惹麻烦，这算什么话？只要一个人还在前进，难免会跟其他人事物发生摩擦，不能因为怕麻烦就对很多事视而不见。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/e11969d12f24bd76e2c4f54fa57ec250_7504112642386841904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解卡维·其五",
+          "text": "休息时我会去喝酒，酒能冲淡烦恼。嗯？噢，是啊，只是为了打发时间。呃…咳！别这么看着我…好吧好吧我承认我就是有很多烦恼！没做完的工作，解决不了的困难，人和人的隔阂…难道你不会考虑这些吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/156c15b61cea244ad7d4cde30d6c6dfe_2584460275906029179.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "卡维的爱好…",
+          "text": "音乐，建筑，雕塑，绘画艺术，都是值得花时间欣赏的东西。不敢说我都会，但有了兴趣，以后说不定能全部精通的吧。你看，至少我会弹琴。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f1803d82729a8e7c7a2d1b875b6f648f_8146096838707250858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "卡维的烦恼…",
+          "text": "烦恼啊…唔，最直观的烦恼还是经济问题。我不是赚不到钱，而是留不住钱。生活中有太多可能用到钱的场合了，一不小心就…不过别担心，我比以前好多了，会提高警惕避免陷入困境。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/3f68740ed07cbdb4fdcedb939748c3dc_6165485003445411722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "酒、热汤、有奶油和奶酪的菜肴，这些我都喜欢。还有新鲜水果也不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/46e380feefad5089538cd388f8962a29_1255739844807149522.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "太辣太烫的东西很难入口，我不行，至少也要等放凉了才能吃。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/d1ceceba0711f48472280b900ad4df8e_5199128022886259138.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "真不错！能教教我怎么做吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/764256dfb6052efb1b3301f6aee959f9_4491968900334035194.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "拿来下酒不错哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/e3354b7da1e64f4eb5fc8bad01419e88_8942356346239879008.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…嗯？唔…呃…呃…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/9fee375d63df9ee51e8993cffd815342_3210540523193581802.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你生日吗？恭喜你，生日是很重要的日子，也是一年之中最容易想起家人的日子。希望你能在这天有好心情。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/bf5b1d68e82aa9a38029b9e08da9ccdd_1624328719614071592.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "感觉不错，谢谢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/443d8d8ce11cf6cf1c66c06eae4afe0f_5016040115214854766.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "嗯？还能再来一次吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/ee4e6eea1326dde4d81afbc9d88feace_9151460912366299118.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "视野变得更开阔了…我想把这份感觉延续下去。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f958216a4d14cbe373797a7777900551_7324358771258207389.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "拥有的力量越多，能做到的事就更多。哪怕完成这些事需要代价，哪怕理想从来都建立在痛苦之上，我也…不想后退。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6d5af5afb7b17db839bff9a7839661ae_5777707844157826351.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "扫描！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/f08472f6ef21d818e9265c18361fae60_8913992304212617165.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "来吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/0275457d0fa476243756f6e1f586cb6d_8656213969671736891.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "障碍清除！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b6c620115cb4302d6c0264f65bfd6809_1398594460338283755.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "看好了！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b0389f5a355602e0a32cae9d8becca70_6158932985540487608.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "工程开始。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/e01567293200d681b07962d8df761d57_8602042638750093997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "万众瞩目！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/934fca8aeab5fe4bf5269e9651d3fb1e_2028916103845576261.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "新发现！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/1748d16480c5034244d225b93b991fad_4919745238580140129.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "捡到好东西了，很开心吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/61e781fd01067b40ee6a4b616efd880a_7242416722269114239.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "该说是意外之喜还是超乎想象…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/8b1c63426e4cc6d13f2c2537df086e64_6511933379817127961.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "真是麻烦！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6b7c9d33c3503af8f503d23f09f3ae05_2646902232196065380.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "没有下一次了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/a0e1f43dd0222388a4e12f0a675ccb2a_3658442230280863748.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "唔…走开！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/b11e9d75fbf9cfada9011e6e80546719_4548390347527257869.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "这里交给我！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/4bc921787ce7560cc7f5303245e44355_8380044921297027939.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "到后面去。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/a0e1f43dd0222388a4e12f0a675ccb2a_2774896879395428654.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还有…没完成的事…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/ac727f1edd10202f3f9cf3c8294f900c_978052825012714326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "为什么…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/6d069b0578ec271ce05089f12df67474_521986186880869009.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "不许…践踏我的理想…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/4c308fd4614b40e4bb0e72591dc99b47_6412370338112823794.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "呜！别这样…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/1f580b85b00baa98fd83238f6fe80d85_9068028772472242108.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "咳！没什么的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/0465a5b7c7a83df85a396dfb3bea1ca5_8598708152932134762.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "需要帮忙？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/8f1384b5f85826d30076da5ca1100f54_5237709929831937532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "放着我来好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/83cdb7f51a45e7340ee920cf32450e02_6633522844598273123.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "是甲方吗？还是…哦！不是啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/09/16576950/1a4563cbe468e87219f8638bd5f023c6_5749674482712840364.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

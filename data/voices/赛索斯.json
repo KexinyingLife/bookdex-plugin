@@ -1,0 +1,1685 @@
+{
+  "id": "501212",
+  "name": "赛索斯",
+  "alias": [
+    "赛索斯"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "这位先生(小姐)，是在叫我吗？你好你好，我叫赛索斯。你呢，找我有什么事吗？哎呀，也别干站着了，我知道一个适合坐下来聊天的好地方，跟我来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/81698d61696a02720d6fffe41e309721_513819826429868583.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·思考",
+          "text": "过度思考「为什么」很容易钻牛角尖，不如放过自己。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/143b10ca59d78057695ca4c6c2a3a5c6_1120469864864246262.mp3",
+          "audioName": "02闲聊·思考_cn.mp3"
+        },
+        {
+          "name": "闲聊·动静",
+          "text": "你听到了吗？那边有动静。先下手为强，我想去凑凑热闹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d206fe64b2ef6d7123b587be009b51e7_4860282871684361208.mp3",
+          "audioName": "03闲聊·动静_cn.mp3"
+        },
+        {
+          "name": "闲聊·上学",
+          "text": "教令院里面怪人真多，搞得我都想考进去上个学了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2eda7dc06399ffe97d3848bc27695284_7215132926994579862.mp3",
+          "audioName": "04闲聊·上学_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "沙漠里极少下雨，所以就让我享受一会儿这样的天气吧，不用帮我打伞啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/29ddac9402ea7dd45817ab7e2cee4243_40043297373397994.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "糟了糟了糟了，快去地势低的地方…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0cf54c9bc6cc8994192f91fc72ee87de_7423797491837783234.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嘶…快快快，跑起来，跑起来就不冷了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/bf90c9849a76381168d0eb0daa538845_8224848355699254704.mp3",
+          "audioName": "07下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气真好，不找个地方露营可就太浪费了。走吗，一起去绿洲钓鱼？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/10ea1e936fc2f1e8b5260513c8b6a25a_8857029811402441728.mp3",
+          "audioName": "08阳光很好…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "你试过在沙地上画画吗？从高处看会很壮观哦！就是要找个风小的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2566b99f2281889f633d47070732b822_2710974358971361195.mp3",
+          "audioName": "09在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早早早，要跟我去吃点东西吗？我从昨晚就惦记着做几个烤肉卷了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5cb1726c7dd506b1fce25e2be26e4ad2_6215740426022413782.mp3",
+          "audioName": "10早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "现在喝咖啡的话，就没法享受午觉了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a6daebf34e5d3575f8445b57ca9176dc_4234219668579860528.mp3",
+          "audioName": "11中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "虽然沙漠白天没什么生机，但晚上总有很好看的星星。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1ebeadcb0246bf1d496b8b5ddfe8de7b_4245089404706538067.mp3",
+          "audioName": "12晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "睡了睡了，准备迎接明天的太阳！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/fa8373b898c4f795fe84bb10e48b933e_6284134371336776746.mp3",
+          "audioName": "13晚安…_cn.mp3"
+        },
+        {
+          "name": "关于赛索斯自己·印象",
+          "text": "有些长辈说我像野生动物一样难以控制。倒不是说他们的印象有错，但首先，想要控制别人的想法有点不太对，你说是吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/65bbd325581693e79928af457ded319e_3989403102381777200.mp3",
+          "audioName": "14关于赛索斯自己·印象_cn.mp3"
+        },
+        {
+          "name": "关于赛索斯自己·首领",
+          "text": "老实说，做首领还是有些压力的，更别提是在缄默之殿。不过和爷爷耳濡目染了这么多年，我清楚那些最不能让步的底线。而且经历了之前的决斗之仪，又认识了那么多新朋友，我也明白了缄默之殿之后要走的路在哪。放心吧，不会搞砸的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9e5e5aae2a6a64d47b2bd27ff7bdd1aa_1922229945842084698.mp3",
+          "audioName": "15关于赛索斯自己·首领_cn.mp3"
+        },
+        {
+          "name": "关于我们·闲聊",
+          "text": "抱着想要和对方打好关系的目的刻意谈话，很容易陷入僵局。就像这样一起走走，随便聊聊，反而更容易熟悉起来呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/03fa550c7696a8389b2fb685dce4107c_8606504642572811898.mp3",
+          "audioName": "16关于我们·闲聊_cn.mp3"
+        },
+        {
+          "name": "关于我们·篝火",
+          "text": "夜晚的篝火，既能为人提供温度，又能防范野兽。你给我的感觉就像篝火一样。说得太抽象了？哎呀，就是拿你当朋友的意思啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9797f3729591bb03314d3a53e8068d8e_6229402609099216348.mp3",
+          "audioName": "17关于我们·篝火_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "沙漠人获得神之眼时，大伙儿都会说这是谁谁的恩赐，具体人选视各自信仰而定。看一群人为了别人的神之眼争论赫曼努比斯大人和索贝克大人究竟谁更强，怪好玩的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2a4c13a64064087d5e5ae0b65c5b7ebe_7900138430661441798.mp3",
+          "audioName": "18关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "如果去沙漠旅行，夜间赶路是个不错的选择。气温确实寒冷，但可以避免在炎热的光照下流失过多水分。多带件衣服总比四处寻找水源方便多了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7fa2d12306d79edeac4a90170b1f63a7_3797805479305436116.mp3",
+          "audioName": "19有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「悼灵花」这名字不知道是谁起的，还挺浪漫。换我来看，也许只会以为它是被太阳晒蔫了才垂头丧气的呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5aeb89f2faa83b4576c8e3f19400a00a_7933833645955293088.mp3",
+          "audioName": "20感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "赛诺很优秀，无愧于赫曼努比斯力量的传承。作为「大风纪官」，他对知识与智慧有着至高的敬畏之心。如果教令院能与缄默之殿再次合作，有他在我会放心很多。哦对了，他还有个难得的优点，就是讲话很好笑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/13ce61baad866b1f1da0adc370f1c71d_6154632953660576458.mp3",
+          "audioName": "21关于赛诺…_cn.mp3"
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "提纳里挺厉害的。我后来才听说他不太适应沙漠的气候，决斗之仪那时可完全没看出来啊。我也没想到他会写信邀请我去化城郭做客，说是让我有机会见见赛诺的朋友们。你说，他们平常吃饭都会讲那种笑话吗？真期待！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5ef34188ee51709c84172c5d6d106635_5313267732299125054.mp3",
+          "audioName": "22关于提纳里…_cn.mp3"
+        },
+        {
+          "name": "关于艾尔海森和卡维…",
+          "text": "我在酒馆见过他俩。也在咖啡馆见过。…好像在大巴扎也有一次。那位建筑师总是嘀嘀咕咕一些不想被别人知道的事情，但实际上嘛…哎，可不是我故意偷听，这样两位先生凑在一起，很难不引人注意吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f6ec3572310608e44c6ceada737b17fb_5911061252483790039.mp3",
+          "audioName": "23关于艾尔海森和卡维…_cn.mp3"
+        },
+        {
+          "name": "关于流浪者…",
+          "text": "这位小哥，是不是外国来的留学生啊？帽子挺别致的。有次我想凑近了仔细看看，但眨眼的功夫他就咻地一下消失了。可惜，下次不会再让他跑了。而且听人说那哥们很有想法，我要和他多聊聊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/18c4c987754d9d7e756a113ea1a3fb2b_5604659725909438826.mp3",
+          "audioName": "24关于流浪者…_cn.mp3"
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "「炽鬃之狮」，沙漠里人人都听说过这个名号。你也知道，镀金旅团里可不都是好人，像迪希雅这样正直可靠的就更少了。如果你要来大赤沙海探险，迪希雅是做向导第二好的人选。第一嘛，当然是我咯？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a0ce5e845a6525c370e9102ae54083f8_759744406820548397.mp3",
+          "audioName": "25关于迪希雅…_cn.mp3"
+        },
+        {
+          "name": "关于坎蒂丝…",
+          "text": "你被坎蒂丝招待过吗？她做饭超大份的，连我都差点没吃完。不过吃饭就好了，千万别吃她的拳头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ff40ae32ce4e4e1baf5fb22e02ec8f49_1590459393409879564.mp3",
+          "audioName": "26关于坎蒂丝…_cn.mp3"
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "很少见到比我还自来熟的人！在教令院附近闲逛时被她当成了新生，非要带我进去参观，还说什么现在加入知论派就能享受二十种语言教材大礼包，包教包会，吓我一大跳。问了别的学生才知道这是他们院的内部笑话，根本没有这种毕业要求。所以到底哪里好笑？只会让人更不想加入吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b935492c2aacddab88e8d427a2cf563a_7461543190915975772.mp3",
+          "audioName": "27关于珐露珊…_cn.mp3"
+        },
+        {
+          "name": "关于妮露…",
+          "text": "我是个闲不住的人，但不介意在祖拜尔剧场多站一会儿，看看这位小姐的舞蹈。能让人内心宁静也是一种很难得的能力。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1f9b64c0a8cfb87c1fbccd7a090972eb_2420220889459975537.mp3",
+          "audioName": "28关于妮露…_cn.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其一",
+          "text": "想打听事情？你找对人了。万一有我不知道的东西，也可以帮你四处问问。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a0ee5e68f5760ce064e7805a85b6ac59_6250501724690098566.mp3",
+          "audioName": "29想要了解赛索斯·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其二",
+          "text": "你要是有什么装备或者工具坏掉了，可以叫我来修。你问我是做什么工作的？哎呀，当然是无业游民了，不然哪有这么多闲工夫做手工呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6bf08262cecd2b599d7a9ebfe11319f0_7682952927887523391.mp3",
+          "audioName": "30想要了解赛索斯·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其三",
+          "text": "我喜欢徒步旅行。提前规划好路线，整理行囊，挑选好的日子踏上旅途，这种有条不紊的感觉很不错。当然，我不会把行程排得很满，也要享受突如其来的邂逅嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/bea7db5eb0e87716bec2b0ab155f6d8a_6705293481489337343.mp3",
+          "audioName": "31想要了解赛索斯·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其四",
+          "text": "在大巴扎闲逛可有意思了。我会挑选各种香料混在一起，搭配现烤的肉类食用。我不会特意去记录配方，所以很多时候都是「一次性食谱」。怎么样，有没有兴趣尝尝这种限时限量、独一无二的美味？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9f5f7e254c5a611080471f0c9b0be381_6276769590325997217.mp3",
+          "audioName": "32想要了解赛索斯·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其五",
+          "text": "自记事起，我就在缄默之殿生活，老实说没有太多的选择。能承受赫曼努比斯的力量对个人而言不知是福多还是祸多，但确实为我的生活赋予了更崇高的意义。人生中的遗憾有千千万，能圆满解决一件事，我就很满足了。现在我成了缄默之殿的新首领，赫曼努比斯之力也有了合适的归属，爷爷应该也很欣慰吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a984b334fc125e0087912913e65787bf_4485800815781999146.mp3",
+          "audioName": "33想要了解赛索斯·其五_cn.mp3"
+        },
+        {
+          "name": "赛索斯的爱好…",
+          "text": "老是待在屋子里挺没意思的，无论天气好坏，我都喜欢出门跑跑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/4bd688ac82c966cf3774393914b4cad2_1903682867016923600.mp3",
+          "audioName": "34赛索斯的爱好…_cn.mp3"
+        },
+        {
+          "name": "赛索斯的烦恼…",
+          "text": "出远门前一定要做好准备，尤其是前往没去过的地方。当初第一次在树林里过夜不知道要带防潮垫，给我害惨了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ba32a3564956bc755074bbc0a4f125e9_6957788032857354600.mp3",
+          "audioName": "35赛索斯的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢调配香料，是为了能让肉变得更好吃，可不要本末倒置了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2948904533f3d380cef6329c9680b3ca_7405814474515069998.mp3",
+          "audioName": "36喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "绿色植物是很养眼啦，但吃起来就…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9bfd8fff7dcaf9b98ce3cc75a2924f15_2398079091044935610.mp3",
+          "audioName": "37讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好香好香好香。我食量有点大，你不介意吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/948f522fe0820df1b58ac572b1759ef9_772707132106834566.mp3",
+          "audioName": "38收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "真不错，怎么做的？下次徒步旅行我也弄点带上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/767ddecc4cdbd07580eda6ad1424d631_7416198252494727221.mp3",
+          "audioName": "39收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "唔…嗯…好像没什么味道，我再尝尝…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c94cc3a97125458376d2f910eedad50c_8516396549758770610.mp3",
+          "audioName": "40收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "你的头发…按照沙漠人的风格编一下应该会非常好看。马上就要步入人生新一年了，想不想试试新发型？怎么样，交给我，保证给你扎个魅力四射的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7be2ae9fb59bcdc9145657e32481179d_2803969681242484783.mp3",
+          "audioName": "41生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "原来你们都是这样锻炼的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c72260b99c570594aa27cc50e2d87553_6133405058969849889.mp3",
+          "audioName": "42突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "噢…原来连看三天书是这种感觉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0573bf65773738a0185c73646fc58b00_7602981285834908086.mp3",
+          "audioName": "43突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "厉害啊，感觉可以一口气从阿如村跑到赤王陵。不是开玩笑哦，要试试吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/47b361443a5b169a962308bb68694fe5_6871321333602593152.mp3",
+          "audioName": "44突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "没想到你会帮我到这种地步。有时太依赖古老的智慧，会让人忘记自己和同伴本身的力量。谢谢你，让我回想起了这些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0720830d96023cb855c09300654ba530_2541756457387770127.mp3",
+          "audioName": "45突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "普通攻击·其一",
+          "text": "小心背后！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/48ec2abf5c5a9548a29e4f4b318e74e6_5240574801159264201.mp3",
+          "audioName": "46普通攻击·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "先手为赢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7df7f363020184986a7d5a0e34a093a4_569021679642413900.mp3",
+          "audioName": "47元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "打扰了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b065ecd6076464a91ec79fb3dd8074ce_8319020046342551130.mp3",
+          "audioName": "48元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "各退一步如何？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0ce2606120fa9e582825851139fdaa1a_8807069008425501378.mp3",
+          "audioName": "49元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "众贤的智慧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/fbaf97f54eafc8913d1e12c95497f0a4_7799979543434968205.mp3",
+          "audioName": "50元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "阿赫玛尔的遗荣！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ecc8b8be170af8af69eaa7ada78350f0_2626950966363317529.mp3",
+          "audioName": "51元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "抱歉，你挡路了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/70168b8b7b3a6fe407c83ee61815bd7b_8924104829394726421.mp3",
+          "audioName": "52元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "快看看，有合你心意的东西吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/cb82658f91369cd634780765ca5a5d27_4012500713144645261.mp3",
+          "audioName": "53打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "是旅途中的惊喜呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/676381270a307e8e4d7c84c28e8bd948_8394861044070168074.mp3",
+          "audioName": "54打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "啊！里面有怪物！…欸，不上当吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/605589eee25ab0217f6c9b81ac83bda4_3222058767346957481.mp3",
+          "audioName": "55打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不会认输的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/8a65d920097e9745b3a804623500235a_4029374268406902481.mp3",
+          "audioName": "56生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还行，再撑一会儿…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/093673c95a083c2e2dbfb7cf5c3a3898_1084865211001261946.mp3",
+          "audioName": "57生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哎呀哎呀…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1b0be903c400473ec08acf979f5f3430_3039812211905847612.mp3",
+          "audioName": "58生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "换我了哦？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/140acf912c66392578537bea406e8698_2864963274290517216.mp3",
+          "audioName": "59同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "逞什么强呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/8ce6a17fca6dbdc9d0029a7e11e1f4d0_836313532409207940.mp3",
+          "audioName": "60同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "可惜，前功尽弃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/562b63636ad9e7d8d41ecd806e737858_3265172070200691766.mp3",
+          "audioName": "61倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "太阳…也会落下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/151c86fb88717bb287befc40b53de255_703129230079774172.mp3",
+          "audioName": "62倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "对不起了，爷爷…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/cc92f6d522b1c0bd226c82842fa7a33c_1095316812882367161.mp3",
+          "audioName": "63倒下·其三_cn.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "好吧好吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/42057f02f79aebccb6084e5dc65c93d6_4985676447841370134.mp3",
+          "audioName": "64普通受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "别别别。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/fe117b6abc43fc6dd8dc77adb2d16e4d_4612905779370871249.mp3",
+          "audioName": "65重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "哎哟，是我慢了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/09163e1f82ba2bd4e80c6b013078303d_5054168169057242636.mp3",
+          "audioName": "66重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "来了来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/29cc83939db5f2cc6689515894bb9f12_1227781234281976080.mp3",
+          "audioName": "67加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "好好好，听你的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/26264019e26b4eb7a2d2ce06572d56ad_158046631546201109.mp3",
+          "audioName": "68加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "嗯，带好行囊了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/23bc9cebd189b94dcab559be07b06d2a_6670962928148106791.mp3",
+          "audioName": "69加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "这位先生(小姐)，是在叫我吗？你好你好，我叫赛索斯。你呢，找我有什么事吗？哎呀，也别干站着了，我知道一个适合坐下来聊天的好地方，跟我来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/501fe0457b757329f694176d0af7f47b_4307595605538709250.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·思考",
+          "text": "过度思考「为什么」很容易钻牛角尖，不如放过自己。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/43da28104860004648859f9be9af51bf_5686195335990277838.mp3",
+          "audioName": "02闲聊·思考_jp.mp3"
+        },
+        {
+          "name": "闲聊·动静",
+          "text": "你听到了吗？那边有动静。先下手为强，我想去凑凑热闹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b2d524abc166c6d845313e59cd960200_7138741729690583819.mp3",
+          "audioName": "03闲聊·动静_jp.mp3"
+        },
+        {
+          "name": "闲聊·上学",
+          "text": "教令院里面怪人真多，搞得我都想考进去上个学了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1becb26827b1e535c82e0e7174a366ff_164296762559607350.mp3",
+          "audioName": "04闲聊·上学_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "沙漠里极少下雨，所以就让我享受一会儿这样的天气吧，不用帮我打伞啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0fa05d1e4ef384de45c7632fd9d79598_5377590373285788906.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "糟了糟了糟了，快去地势低的地方…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d18583985348687e35e90426d53ed3f0_4989582012951425595.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嘶…快快快，跑起来，跑起来就不冷了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7748027063929df4a49b746536a4a613_1125558645391176359.mp3",
+          "audioName": "07下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气真好，不找个地方露营可就太浪费了。走吗，一起去绿洲钓鱼？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/bbe164cecaf87be5855743f164f69d04_7266395277318701669.mp3",
+          "audioName": "08阳光很好…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "你试过在沙地上画画吗？从高处看会很壮观哦！就是要找个风小的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e0e7b94bcfed901ff6f95f932a48df72_7102673267422764208.mp3",
+          "audioName": "09在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早早早，要跟我去吃点东西吗？我从昨晚就惦记着做几个烤肉卷了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b32cc4212806fa904ae093d2a762334b_2036060286214715370.mp3",
+          "audioName": "10早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "现在喝咖啡的话，就没法享受午觉了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/51e77ab4ab734be7c49db082266906aa_1695422537281790428.mp3",
+          "audioName": "11中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "虽然沙漠白天没什么生机，但晚上总有很好看的星星。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b521af986f03e296433076ed48da3c62_7435032629224774477.mp3",
+          "audioName": "12晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "睡了睡了，准备迎接明天的太阳！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ada0f36aa7f5b687c9baf6296d6f2d77_114592197114811089.mp3",
+          "audioName": "13晚安…_jp.mp3"
+        },
+        {
+          "name": "关于赛索斯自己·印象",
+          "text": "有些长辈说我像野生动物一样难以控制。倒不是说他们的印象有错，但首先，想要控制别人的想法有点不太对，你说是吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2c6b8ab9470072feb5545163f006e23f_7632662346985182240.mp3",
+          "audioName": "14关于赛索斯自己·印象_jp.mp3"
+        },
+        {
+          "name": "关于赛索斯自己·首领",
+          "text": "老实说，做首领还是有些压力的，更别提是在缄默之殿。不过和爷爷耳濡目染了这么多年，我清楚那些最不能让步的底线。而且经历了之前的决斗之仪，又认识了那么多新朋友，我也明白了缄默之殿之后要走的路在哪。放心吧，不会搞砸的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/71196cd1a6c7a1b5723a85916c974732_1351265774099060471.mp3",
+          "audioName": "15关于赛索斯自己·首领_jp.mp3"
+        },
+        {
+          "name": "关于我们·闲聊",
+          "text": "抱着想要和对方打好关系的目的刻意谈话，很容易陷入僵局。就像这样一起走走，随便聊聊，反而更容易熟悉起来呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a6e8be2a6395f338b995fa4abab10136_4373639966797288430.mp3",
+          "audioName": "16关于我们·闲聊_jp.mp3"
+        },
+        {
+          "name": "关于我们·篝火",
+          "text": "夜晚的篝火，既能为人提供温度，又能防范野兽。你给我的感觉就像篝火一样。说得太抽象了？哎呀，就是拿你当朋友的意思啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/96ab59ece86d8e6d717753ac410a6335_8110996477221285669.mp3",
+          "audioName": "17关于我们·篝火_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "沙漠人获得神之眼时，大伙儿都会说这是谁谁的恩赐，具体人选视各自信仰而定。看一群人为了别人的神之眼争论赫曼努比斯大人和索贝克大人究竟谁更强，怪好玩的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5a6f7dfffe2aa699f6b616cbb21b1c6a_527384693252959188.mp3",
+          "audioName": "18关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "如果去沙漠旅行，夜间赶路是个不错的选择。气温确实寒冷，但可以避免在炎热的光照下流失过多水分。多带件衣服总比四处寻找水源方便多了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/21963f63acf39be64f793c5307664550_2851238313858542482.mp3",
+          "audioName": "19有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「悼灵花」这名字不知道是谁起的，还挺浪漫。换我来看，也许只会以为它是被太阳晒蔫了才垂头丧气的呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/4ca14ad9dab2b7a39b46517aabb6bbec_3528598191859819104.mp3",
+          "audioName": "20感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "赛诺很优秀，无愧于赫曼努比斯力量的传承。作为「大风纪官」，他对知识与智慧有着至高的敬畏之心。如果教令院能与缄默之殿再次合作，有他在我会放心很多。哦对了，他还有个难得的优点，就是讲话很好笑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/edc370dd09d409664acd28b4232e666c_1478309912747598768.mp3",
+          "audioName": "21关于赛诺…_jp.mp3"
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "提纳里挺厉害的。我后来才听说他不太适应沙漠的气候，决斗之仪那时可完全没看出来啊。我也没想到他会写信邀请我去化城郭做客，说是让我有机会见见赛诺的朋友们。你说，他们平常吃饭都会讲那种笑话吗？真期待！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f06b1fc634aab3eeb96c8f6a171865e0_2604694295312502806.mp3",
+          "audioName": "22关于提纳里…_jp.mp3"
+        },
+        {
+          "name": "关于艾尔海森和卡维…",
+          "text": "我在酒馆见过他俩。也在咖啡馆见过。…好像在大巴扎也有一次。那位建筑师总是嘀嘀咕咕一些不想被别人知道的事情，但实际上嘛…哎，可不是我故意偷听，这样两位先生凑在一起，很难不引人注意吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/832cf27bda5ec5785eb3f0152c732987_8545540032629225459.mp3",
+          "audioName": "23关于艾尔海森和卡维…_jp.mp3"
+        },
+        {
+          "name": "关于流浪者…",
+          "text": "这位小哥，是不是外国来的留学生啊？帽子挺别致的。有次我想凑近了仔细看看，但眨眼的功夫他就咻地一下消失了。可惜，下次不会再让他跑了。而且听人说那哥们很有想法，我要和他多聊聊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d4b47fb8f2a10cbf49d3dc23b9fa7b88_6233097970737137301.mp3",
+          "audioName": "24关于流浪者…_jp.mp3"
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "「炽鬃之狮」，沙漠里人人都听说过这个名号。你也知道，镀金旅团里可不都是好人，像迪希雅这样正直可靠的就更少了。如果你要来大赤沙海探险，迪希雅是做向导第二好的人选。第一嘛，当然是我咯？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/58224b0f8f65aa45821ed91445220331_4505341885941385114.mp3",
+          "audioName": "25关于迪希雅…_jp.mp3"
+        },
+        {
+          "name": "关于坎蒂丝…",
+          "text": "你被坎蒂丝招待过吗？她做饭超大份的，连我都差点没吃完。不过吃饭就好了，千万别吃她的拳头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/359810bc9314bdd0600a9d3f128a6921_7935625377563764743.mp3",
+          "audioName": "26关于坎蒂丝…_jp.mp3"
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "很少见到比我还自来熟的人！在教令院附近闲逛时被她当成了新生，非要带我进去参观，还说什么现在加入知论派就能享受二十种语言教材大礼包，包教包会，吓我一大跳。问了别的学生才知道这是他们院的内部笑话，根本没有这种毕业要求。所以到底哪里好笑？只会让人更不想加入吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/36293d2f8c0a0ad0a58b051ef5446b50_8040075645801651025.mp3",
+          "audioName": "27关于珐露珊…_jp.mp3"
+        },
+        {
+          "name": "关于妮露…",
+          "text": "我是个闲不住的人，但不介意在祖拜尔剧场多站一会儿，看看这位小姐的舞蹈。能让人内心宁静也是一种很难得的能力。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2ffadf35b308ce590382e813b80ac202_3775553305626469608.mp3",
+          "audioName": "28关于妮露…_jp.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其一",
+          "text": "想打听事情？你找对人了。万一有我不知道的东西，也可以帮你四处问问。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d47c3bcd98be050fcc4e4bdd918329ef_1443415114062208676.mp3",
+          "audioName": "29想要了解赛索斯·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其二",
+          "text": "你要是有什么装备或者工具坏掉了，可以叫我来修。你问我是做什么工作的？哎呀，当然是无业游民了，不然哪有这么多闲工夫做手工呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/225767caeacc0fabcaf70b7b1f80e71b_7487878873353044740.mp3",
+          "audioName": "30想要了解赛索斯·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其三",
+          "text": "我喜欢徒步旅行。提前规划好路线，整理行囊，挑选好的日子踏上旅途，这种有条不紊的感觉很不错。当然，我不会把行程排得很满，也要享受突如其来的邂逅嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3b84d7f44c8cda08e6742454b4c12f75_1264007078123785984.mp3",
+          "audioName": "31想要了解赛索斯·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其四",
+          "text": "在大巴扎闲逛可有意思了。我会挑选各种香料混在一起，搭配现烤的肉类食用。我不会特意去记录配方，所以很多时候都是「一次性食谱」。怎么样，有没有兴趣尝尝这种限时限量、独一无二的美味？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/12caaf0883455e8a84ec323d9971bb2c_3820902509018468075.mp3",
+          "audioName": "32想要了解赛索斯·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其五",
+          "text": "自记事起，我就在缄默之殿生活，老实说没有太多的选择。能承受赫曼努比斯的力量对个人而言不知是福多还是祸多，但确实为我的生活赋予了更崇高的意义。人生中的遗憾有千千万，能圆满解决一件事，我就很满足了。现在我成了缄默之殿的新首领，赫曼努比斯之力也有了合适的归属，爷爷应该也很欣慰吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ad4abfad96a281efd35e53e910c3a14b_7597885393084297086.mp3",
+          "audioName": "33想要了解赛索斯·其五_jp.mp3"
+        },
+        {
+          "name": "赛索斯的爱好…",
+          "text": "老是待在屋子里挺没意思的，无论天气好坏，我都喜欢出门跑跑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/afd1770f30a2af730261f45e718b7268_255887764782943460.mp3",
+          "audioName": "34赛索斯的爱好…_jp.mp3"
+        },
+        {
+          "name": "赛索斯的烦恼…",
+          "text": "出远门前一定要做好准备，尤其是前往没去过的地方。当初第一次在树林里过夜不知道要带防潮垫，给我害惨了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/67bb9c0d4375ed2012bf449024c11e29_4170158218554537025.mp3",
+          "audioName": "35赛索斯的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢调配香料，是为了能让肉变得更好吃，可不要本末倒置了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/371ccbfd41ae5953f7049c467fb997ea_5109632643672803674.mp3",
+          "audioName": "36喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "绿色植物是很养眼啦，但吃起来就…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/25123960d5fe810a3cb169e43dc2b158_5450524716353984773.mp3",
+          "audioName": "37讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好香好香好香。我食量有点大，你不介意吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/fdd016dc88741046769ee7bc98c16bdb_8856256482927380864.mp3",
+          "audioName": "38收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "真不错，怎么做的？下次徒步旅行我也弄点带上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/be1ea6418494eee76b3364c321cca268_8103808320148550536.mp3",
+          "audioName": "39收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "唔…嗯…好像没什么味道，我再尝尝…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3780d437e3205266220f56db102f3978_200757455960336432.mp3",
+          "audioName": "40收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "你的头发…按照沙漠人的风格编一下应该会非常好看。马上就要步入人生新一年了，想不想试试新发型？怎么样，交给我，保证给你扎个魅力四射的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/01b9e3e5dd9997aa2abf8ea213ba77e4_5072580638956685256.mp3",
+          "audioName": "41生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "原来你们都是这样锻炼的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/87cebb778691b76d289004ff5b0bf6a6_2835325592849495498.mp3",
+          "audioName": "42突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "噢…原来连看三天书是这种感觉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f9bd1f0c371596a8560b63d15c38cf15_481168639216738860.mp3",
+          "audioName": "43突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "厉害啊，感觉可以一口气从阿如村跑到赤王陵。不是开玩笑哦，要试试吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d1a7644e8d8bcc0c0cace2c60162680b_3046669333992788407.mp3",
+          "audioName": "44突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "没想到你会帮我到这种地步。有时太依赖古老的智慧，会让人忘记自己和同伴本身的力量。谢谢你，让我回想起了这些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/932cd025d9ce44640b54121b0d9f80c4_3402721924784668214.mp3",
+          "audioName": "45突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "普通攻击·其一",
+          "text": "小心背后！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/becb28164443d1d05ad142d6c439a37b_709440045502637591.mp3",
+          "audioName": "46普通攻击·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "先手为赢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/fb5e0e3745b8758ba0a1e064321ff13f_8909851430678893699.mp3",
+          "audioName": "47元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "打扰了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0f03e77333cca438197db561b1b2a7fe_2428320695599853699.mp3",
+          "audioName": "48元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "各退一步如何？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2415c52dd384fb3acb67c8506e15a05b_4742493220847032396.mp3",
+          "audioName": "49元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "众贤的智慧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/12f0760a61a0a663f2fb7c020f6c1043_1343283728163929983.mp3",
+          "audioName": "50元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "阿赫玛尔的遗荣！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/23228d5fe217d1dce7e0989efac0d804_5249075883641838230.mp3",
+          "audioName": "51元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "抱歉，你挡路了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/44321d50e3a0748e47bc98b341702814_3935096090294787733.mp3",
+          "audioName": "52元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "快看看，有合你心意的东西吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/bd96f4f66d68297249f7ab88eca6218c_7540692031916567680.mp3",
+          "audioName": "53打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "是旅途中的惊喜呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6f0735c1bcb4f71b275d6e7961230cbc_8479056212000970398.mp3",
+          "audioName": "54打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "啊！里面有怪物！…欸，不上当吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/bcf46dffd570c247a71854d66d92dc4e_4499644767956135996.mp3",
+          "audioName": "55打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不会认输的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ff038b7b4406d8e56de5ec203a25f8a2_1904186923303879225.mp3",
+          "audioName": "56生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还行，再撑一会儿…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/eff95b501c2e8ad4b8b0c5114699c119_5819927056191715294.mp3",
+          "audioName": "57生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哎呀哎呀…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c4757922c9be03e4bf3fe6f87268c65f_5157573565775911252.mp3",
+          "audioName": "58生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "换我了哦？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d9b25f23276fe3a208cfeff15b6f4682_5359795926632969554.mp3",
+          "audioName": "59同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "逞什么强呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/04f7d53496bb305234df44d52f72175b_4208381569183799086.mp3",
+          "audioName": "60同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "可惜，前功尽弃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/8ceb478cd3ac7e9eecd225954e8db444_4655943616223875959.mp3",
+          "audioName": "61倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "太阳…也会落下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3b5603029ca1045eea5a6fc9602b6f29_7239252567541010917.mp3",
+          "audioName": "62倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "对不起了，爷爷…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5e22e1e379d39498b68448dccd123754_1322981904348554967.mp3",
+          "audioName": "63倒下·其三_jp.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "好吧好吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/797c809ff88502af1768c115c9f9f671_9052466277405863990.mp3",
+          "audioName": "64普通受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "别别别。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5363508402c8c57ed2a8b0178ab8653b_4772230155150504896.mp3",
+          "audioName": "65重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "哎哟，是我慢了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/551079514fbc22c50b901d24da3d280c_3971326912029286619.mp3",
+          "audioName": "66重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "来了来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2284e8d1c409da5c763a8445f4ce33b7_3236301404560897334.mp3",
+          "audioName": "67加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "好好好，听你的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/77bb4867f4a6b6f997428a04cd9fb658_5024764869368821207.mp3",
+          "audioName": "68加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "嗯，带好行囊了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6770c5814adaa589c0c4c9b8096c2bc9_8401102728598101632.mp3",
+          "audioName": "69加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "这位先生(小姐)，是在叫我吗？你好你好，我叫赛索斯。你呢，找我有什么事吗？哎呀，也别干站着了，我知道一个适合坐下来聊天的好地方，跟我来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/181a08fc0fbf4764ab71be12f7c4aad3_6955598989295946134.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·思考",
+          "text": "过度思考「为什么」很容易钻牛角尖，不如放过自己。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/33804f2294fe64beca72b1378047f32a_2102444519158682314.mp3",
+          "audioName": "02闲聊·思考_en.mp3"
+        },
+        {
+          "name": "闲聊·动静",
+          "text": "你听到了吗？那边有动静。先下手为强，我想去凑凑热闹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/52c2c287bd1fc627094b8eb75f2093ad_3533228179546771263.mp3",
+          "audioName": "03闲聊·动静_en.mp3"
+        },
+        {
+          "name": "闲聊·上学",
+          "text": "教令院里面怪人真多，搞得我都想考进去上个学了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c740262baa946158514168cd0b45bd8b_4106501737628912662.mp3",
+          "audioName": "04闲聊·上学_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "沙漠里极少下雨，所以就让我享受一会儿这样的天气吧，不用帮我打伞啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9e3071990cc7371fdf5f04fc016cc6c8_2462747026957141862.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "糟了糟了糟了，快去地势低的地方…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0d3d59723855ebeef07247124a1d28f5_1545081357455237193.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嘶…快快快，跑起来，跑起来就不冷了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c2abf38c65b123fc84c93f195d10dd22_7875257032313331704.mp3",
+          "audioName": "07下雪的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气真好，不找个地方露营可就太浪费了。走吗，一起去绿洲钓鱼？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e7793f6b9c136b12bbbd1775acb57227_2424664431772939941.mp3",
+          "audioName": "08阳光很好…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "你试过在沙地上画画吗？从高处看会很壮观哦！就是要找个风小的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/83ce57bb1e86a907ff37c8c374caa5c3_7439853598557390108.mp3",
+          "audioName": "09在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早早早，要跟我去吃点东西吗？我从昨晚就惦记着做几个烤肉卷了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9d9ebd1909a37897e952b3777fdd7ca9_7985075443300085242.mp3",
+          "audioName": "10早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "现在喝咖啡的话，就没法享受午觉了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7e0f20f9853e0cdce585fddff7539a94_3788617994297468212.mp3",
+          "audioName": "11中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "虽然沙漠白天没什么生机，但晚上总有很好看的星星。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ffb93de721fb08c60b5e826d813ad8bf_8857316856957041365.mp3",
+          "audioName": "12晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "睡了睡了，准备迎接明天的太阳！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/cf6460a70b64a4ef3769cb4c43145639_3816285918300212301.mp3",
+          "audioName": "13晚安…_en.mp3"
+        },
+        {
+          "name": "关于赛索斯自己·印象",
+          "text": "有些长辈说我像野生动物一样难以控制。倒不是说他们的印象有错，但首先，想要控制别人的想法有点不太对，你说是吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1fcb9eee460dabde2a19efa808d4d768_5124829300555262979.mp3",
+          "audioName": "14关于赛索斯自己·印象_en.mp3"
+        },
+        {
+          "name": "关于赛索斯自己·首领",
+          "text": "老实说，做首领还是有些压力的，更别提是在缄默之殿。不过和爷爷耳濡目染了这么多年，我清楚那些最不能让步的底线。而且经历了之前的决斗之仪，又认识了那么多新朋友，我也明白了缄默之殿之后要走的路在哪。放心吧，不会搞砸的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ff0d7678b56b326a5cc7f435afa649fb_4844982914096083050.mp3",
+          "audioName": "15关于赛索斯自己·首领_en.mp3"
+        },
+        {
+          "name": "关于我们·闲聊",
+          "text": "抱着想要和对方打好关系的目的刻意谈话，很容易陷入僵局。就像这样一起走走，随便聊聊，反而更容易熟悉起来呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0e649f77274f418fd0c6426c842ffbda_3633874358392894671.mp3",
+          "audioName": "16关于我们·闲聊_en.mp3"
+        },
+        {
+          "name": "关于我们·篝火",
+          "text": "夜晚的篝火，既能为人提供温度，又能防范野兽。你给我的感觉就像篝火一样。说得太抽象了？哎呀，就是拿你当朋友的意思啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3d35febf389a0a4378ecd046681fde80_5287293544051003551.mp3",
+          "audioName": "17关于我们·篝火_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "沙漠人获得神之眼时，大伙儿都会说这是谁谁的恩赐，具体人选视各自信仰而定。看一群人为了别人的神之眼争论赫曼努比斯大人和索贝克大人究竟谁更强，怪好玩的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/736882f5e0f33b5d668ace2eac12d439_6111370116977798183.mp3",
+          "audioName": "18关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "如果去沙漠旅行，夜间赶路是个不错的选择。气温确实寒冷，但可以避免在炎热的光照下流失过多水分。多带件衣服总比四处寻找水源方便多了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a8bb52d41c015add523002f5b13835a5_2739623282113560455.mp3",
+          "audioName": "19有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「悼灵花」这名字不知道是谁起的，还挺浪漫。换我来看，也许只会以为它是被太阳晒蔫了才垂头丧气的呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/8eccfb7516c3241ee55138ac3ad690e0_8942460078323876924.mp3",
+          "audioName": "20感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "赛诺很优秀，无愧于赫曼努比斯力量的传承。作为「大风纪官」，他对知识与智慧有着至高的敬畏之心。如果教令院能与缄默之殿再次合作，有他在我会放心很多。哦对了，他还有个难得的优点，就是讲话很好笑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5b3d8e96e702a606617edcabb4bbad14_2606290564771039821.mp3",
+          "audioName": "21关于赛诺…_en.mp3"
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "提纳里挺厉害的。我后来才听说他不太适应沙漠的气候，决斗之仪那时可完全没看出来啊。我也没想到他会写信邀请我去化城郭做客，说是让我有机会见见赛诺的朋友们。你说，他们平常吃饭都会讲那种笑话吗？真期待！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5ee40f244144fd6e6dbf2971f75fb62f_263198069880960639.mp3",
+          "audioName": "22关于提纳里…_en.mp3"
+        },
+        {
+          "name": "关于艾尔海森和卡维…",
+          "text": "我在酒馆见过他俩。也在咖啡馆见过。…好像在大巴扎也有一次。那位建筑师总是嘀嘀咕咕一些不想被别人知道的事情，但实际上嘛…哎，可不是我故意偷听，这样两位先生凑在一起，很难不引人注意吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/89dd4bd360848874668ee8e8273f6155_2209549406467230977.mp3",
+          "audioName": "23关于艾尔海森和卡维…_en.mp3"
+        },
+        {
+          "name": "关于流浪者…",
+          "text": "这位小哥，是不是外国来的留学生啊？帽子挺别致的。有次我想凑近了仔细看看，但眨眼的功夫他就咻地一下消失了。可惜，下次不会再让他跑了。而且听人说那哥们很有想法，我要和他多聊聊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d40aad23212c569896af73963cb6ba5c_7587908414341173695.mp3",
+          "audioName": "24关于流浪者…_en.mp3"
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "「炽鬃之狮」，沙漠里人人都听说过这个名号。你也知道，镀金旅团里可不都是好人，像迪希雅这样正直可靠的就更少了。如果你要来大赤沙海探险，迪希雅是做向导第二好的人选。第一嘛，当然是我咯？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f96d395f50fb6361bfb378d620f3ce62_2031603765271971065.mp3",
+          "audioName": "25关于迪希雅…_en.mp3"
+        },
+        {
+          "name": "关于坎蒂丝…",
+          "text": "你被坎蒂丝招待过吗？她做饭超大份的，连我都差点没吃完。不过吃饭就好了，千万别吃她的拳头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5b732728c736c2695284a57c4073ecfc_2161278693564812379.mp3",
+          "audioName": "26关于坎蒂丝…_en.mp3"
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "很少见到比我还自来熟的人！在教令院附近闲逛时被她当成了新生，非要带我进去参观，还说什么现在加入知论派就能享受二十种语言教材大礼包，包教包会，吓我一大跳。问了别的学生才知道这是他们院的内部笑话，根本没有这种毕业要求。所以到底哪里好笑？只会让人更不想加入吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/aff58c87475694d43d5bfee62f35937d_5482692493276392166.mp3",
+          "audioName": "27关于珐露珊…_en.mp3"
+        },
+        {
+          "name": "关于妮露…",
+          "text": "我是个闲不住的人，但不介意在祖拜尔剧场多站一会儿，看看这位小姐的舞蹈。能让人内心宁静也是一种很难得的能力。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9593348c11b19df527f2f5cff66fe4ac_5309494814290121743.mp3",
+          "audioName": "28关于妮露…_en.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其一",
+          "text": "想打听事情？你找对人了。万一有我不知道的东西，也可以帮你四处问问。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9e6589e199bedd2263047114e06286a7_2058770372614854761.mp3",
+          "audioName": "29想要了解赛索斯·其一_en.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其二",
+          "text": "你要是有什么装备或者工具坏掉了，可以叫我来修。你问我是做什么工作的？哎呀，当然是无业游民了，不然哪有这么多闲工夫做手工呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/341a704b098f1273d97079212ea44a55_3855925700024007395.mp3",
+          "audioName": "30想要了解赛索斯·其二_en.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其三",
+          "text": "我喜欢徒步旅行。提前规划好路线，整理行囊，挑选好的日子踏上旅途，这种有条不紊的感觉很不错。当然，我不会把行程排得很满，也要享受突如其来的邂逅嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b6c9afe5bd732dfcdedb115ae0cf57e8_3166096880694189838.mp3",
+          "audioName": "31想要了解赛索斯·其三_en.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其四",
+          "text": "在大巴扎闲逛可有意思了。我会挑选各种香料混在一起，搭配现烤的肉类食用。我不会特意去记录配方，所以很多时候都是「一次性食谱」。怎么样，有没有兴趣尝尝这种限时限量、独一无二的美味？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c1300cf01e0b169864194fcfcb5560d5_8687717942500879134.mp3",
+          "audioName": "32想要了解赛索斯·其四_en.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其五",
+          "text": "自记事起，我就在缄默之殿生活，老实说没有太多的选择。能承受赫曼努比斯的力量对个人而言不知是福多还是祸多，但确实为我的生活赋予了更崇高的意义。人生中的遗憾有千千万，能圆满解决一件事，我就很满足了。现在我成了缄默之殿的新首领，赫曼努比斯之力也有了合适的归属，爷爷应该也很欣慰吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a304a2f62b36a220ac0a166253033eb3_2255117119966932178.mp3",
+          "audioName": "33想要了解赛索斯·其五_en.mp3"
+        },
+        {
+          "name": "赛索斯的爱好…",
+          "text": "老是待在屋子里挺没意思的，无论天气好坏，我都喜欢出门跑跑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/72887c124946ce8501f61d4bc3be7918_5119381704567461819.mp3",
+          "audioName": "34赛索斯的爱好…_en.mp3"
+        },
+        {
+          "name": "赛索斯的烦恼…",
+          "text": "出远门前一定要做好准备，尤其是前往没去过的地方。当初第一次在树林里过夜不知道要带防潮垫，给我害惨了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/96fc23f8f05434dd429602cfadbfa149_8208566501120175139.mp3",
+          "audioName": "35赛索斯的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢调配香料，是为了能让肉变得更好吃，可不要本末倒置了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5da2c2b8c1625e844dbbc24ec1b1bbf9_6992314163628325635.mp3",
+          "audioName": "36喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "绿色植物是很养眼啦，但吃起来就…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/903172c481525d5e6e966407e45f0693_7212706850449152193.mp3",
+          "audioName": "37讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好香好香好香。我食量有点大，你不介意吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a86ad2e05bdf89695bbc531b1855798e_6527689415548127864.mp3",
+          "audioName": "38收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "真不错，怎么做的？下次徒步旅行我也弄点带上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/87098c0673f939eef2ee8d1606ac2049_3036554141453445820.mp3",
+          "audioName": "39收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "唔…嗯…好像没什么味道，我再尝尝…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e4759cfab6b327e88bf48eb890e35e2b_3786314412323451494.mp3",
+          "audioName": "40收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "你的头发…按照沙漠人的风格编一下应该会非常好看。马上就要步入人生新一年了，想不想试试新发型？怎么样，交给我，保证给你扎个魅力四射的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/61bc025135b57f90699ecd499491dc9a_4397977791242356845.mp3",
+          "audioName": "41生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "原来你们都是这样锻炼的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f5ef9ed244a23f077fc2685eea073e79_2584292724739307781.mp3",
+          "audioName": "42突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "噢…原来连看三天书是这种感觉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0d2dc2303c67d74d832ff780ec22ece8_6215348338039116362.mp3",
+          "audioName": "43突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "厉害啊，感觉可以一口气从阿如村跑到赤王陵。不是开玩笑哦，要试试吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/55ffa79d305d949eb811b0603aeec878_5916472335427666931.mp3",
+          "audioName": "44突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "没想到你会帮我到这种地步。有时太依赖古老的智慧，会让人忘记自己和同伴本身的力量。谢谢你，让我回想起了这些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/8bd93fa4f5cc6fdedd2ff99c5a088e19_4063250010602185932.mp3",
+          "audioName": "45突破的感受·合_en.mp3"
+        },
+        {
+          "name": "普通攻击·其一",
+          "text": "小心背后！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/71f072822bffc2dd5d9ece8b0e3a13fb_766610019722651527.mp3",
+          "audioName": "46普通攻击·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "先手为赢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f0de363ae2fc20d078b6830f71de7c99_6937672439337444506.mp3",
+          "audioName": "47元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "打扰了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6aa9c99ee16b9bbbddd3be21a33a3844_4743155081186832175.mp3",
+          "audioName": "48元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "各退一步如何？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/cdf55371c9e62efedebd7837f32ce10a_2454100804226650609.mp3",
+          "audioName": "49元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "众贤的智慧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/fb30ebb4583216522e7cae47f24d5b22_746870231364467779.mp3",
+          "audioName": "50元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "阿赫玛尔的遗荣！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6ccb5ad712bca39fcd457bc2bdf7c698_4392940512898061235.mp3",
+          "audioName": "51元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "抱歉，你挡路了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/dac3a2bac553faf49c5848fd7879c436_2369076585527315663.mp3",
+          "audioName": "52元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "快看看，有合你心意的东西吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/8660feb4b7dad5b3d8b480de5382b2e4_3901999924309389675.mp3",
+          "audioName": "53打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "是旅途中的惊喜呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/42624a22e30881cd4aa36d5fbbf85ac2_9158744786697380681.mp3",
+          "audioName": "54打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "啊！里面有怪物！…欸，不上当吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/12e35f2dbbe7fcfa196c954b80f97109_8979514408617241551.mp3",
+          "audioName": "55打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不会认输的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2945d8f8a42779fd7246250c7d0e6bc5_5649866530947645524.mp3",
+          "audioName": "56生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还行，再撑一会儿…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/25c581d642048317568c0e6568e54fde_3478366485391031922.mp3",
+          "audioName": "57生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哎呀哎呀…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/04167c94a290877cc4535048a6fa3c85_7773895751726028884.mp3",
+          "audioName": "58生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "换我了哦？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c777cd2af9d8ac4c21ca677720467260_5423843953134847747.mp3",
+          "audioName": "59同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "逞什么强呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/4ac274c42ae530edec455032f22015f8_371126613845099808.mp3",
+          "audioName": "60同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "可惜，前功尽弃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/683a95e0893d9b4ad0782eea4f5dde5a_7173795664802656022.mp3",
+          "audioName": "61倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "太阳…也会落下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/8295976a6e68f7ae7f597567104d479a_1656752302507630198.mp3",
+          "audioName": "62倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "对不起了，爷爷…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b5e29f972451aa00eabc57d5f026e41e_4554214199736629812.mp3",
+          "audioName": "63倒下·其三_en.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "好吧好吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/cf0040681e477e0710e633bfce630b75_7027910693702499234.mp3",
+          "audioName": "64普通受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "别别别。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3ccee46c9b3af5b7d7085730c7564c18_8715272028182869228.mp3",
+          "audioName": "65重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "哎哟，是我慢了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9ce1f8992b635bb3485de8a3aa21fc9d_2518800814060284739.mp3",
+          "audioName": "66重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "来了来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e224df0a4b29b8f897ebe5810de71deb_2161735341658636816.mp3",
+          "audioName": "67加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "好好好，听你的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a2eb67609c01b3e27d8c07f17be5d2c1_5212040256190177708.mp3",
+          "audioName": "68加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "嗯，带好行囊了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2d7a026a8b9f35880e3658e63e984dd5_5904705694677050037.mp3",
+          "audioName": "69加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "这位先生(小姐)，是在叫我吗？你好你好，我叫赛索斯。你呢，找我有什么事吗？哎呀，也别干站着了，我知道一个适合坐下来聊天的好地方，跟我来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f45e19fa804e754a968aa47c8f89cbf1_14975191827179971.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·思考",
+          "text": "过度思考「为什么」很容易钻牛角尖，不如放过自己。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/dce4701759e6721cbc57d4b757f2dafa_8044540563904046242.mp3",
+          "audioName": "02闲聊·思考_kr.mp3"
+        },
+        {
+          "name": "闲聊·动静",
+          "text": "你听到了吗？那边有动静。先下手为强，我想去凑凑热闹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/341a609dbe8869b8e5b36bed731e3992_4301502667644435755.mp3",
+          "audioName": "03闲聊·动静_kr.mp3"
+        },
+        {
+          "name": "闲聊·上学",
+          "text": "教令院里面怪人真多，搞得我都想考进去上个学了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/cb40f9c216dffa4e19a148b3d2cd54a9_3409485564545409706.mp3",
+          "audioName": "04闲聊·上学_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "沙漠里极少下雨，所以就让我享受一会儿这样的天气吧，不用帮我打伞啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b68fdeaf56e8028153d1b29ab7e594d0_8885893535499837194.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "糟了糟了糟了，快去地势低的地方…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1eed9c4cd2ac9aa48cec944b59e9bb46_977497971020714489.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嘶…快快快，跑起来，跑起来就不冷了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b1de4dca15a0d0450fa4876fc26b04da_1938295077447521154.mp3",
+          "audioName": "07下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气真好，不找个地方露营可就太浪费了。走吗，一起去绿洲钓鱼？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5a4fc6f47038eed7ce1edb12ed5ae0f1_8286415229057110928.mp3",
+          "audioName": "08阳光很好…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "你试过在沙地上画画吗？从高处看会很壮观哦！就是要找个风小的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3522bb4b760ee87ae259fbaaa9e3a4a0_6352703985132987819.mp3",
+          "audioName": "09在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早早早，要跟我去吃点东西吗？我从昨晚就惦记着做几个烤肉卷了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0501088676eb5e5810da08e57500917f_3455389922278865298.mp3",
+          "audioName": "10早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "现在喝咖啡的话，就没法享受午觉了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5e8e08b1c44cf74f5f441cad81be1842_7160919050579341048.mp3",
+          "audioName": "11中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "虽然沙漠白天没什么生机，但晚上总有很好看的星星。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c5eb99db383b3cbe2c32b2f11ff462d1_1714115169315625468.mp3",
+          "audioName": "12晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "睡了睡了，准备迎接明天的太阳！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c5ab8f9f95732cf8eac98a52900e2cfc_2189283748969826385.mp3",
+          "audioName": "13晚安…_kr.mp3"
+        },
+        {
+          "name": "关于赛索斯自己·印象",
+          "text": "有些长辈说我像野生动物一样难以控制。倒不是说他们的印象有错，但首先，想要控制别人的想法有点不太对，你说是吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/01da6789c1077614c751b3a5dc23253f_7869128685781084468.mp3",
+          "audioName": "14关于赛索斯自己·印象_kr.mp3"
+        },
+        {
+          "name": "关于赛索斯自己·首领",
+          "text": "老实说，做首领还是有些压力的，更别提是在缄默之殿。不过和爷爷耳濡目染了这么多年，我清楚那些最不能让步的底线。而且经历了之前的决斗之仪，又认识了那么多新朋友，我也明白了缄默之殿之后要走的路在哪。放心吧，不会搞砸的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9c856a628596d22f1d72096e3d3fedfc_6524906701613583988.mp3",
+          "audioName": "15关于赛索斯自己·首领_kr.mp3"
+        },
+        {
+          "name": "关于我们·闲聊",
+          "text": "抱着想要和对方打好关系的目的刻意谈话，很容易陷入僵局。就像这样一起走走，随便聊聊，反而更容易熟悉起来呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6627c1c88cb1a0e544dcbf43f0bc151d_2253227559787260559.mp3",
+          "audioName": "16关于我们·闲聊_kr.mp3"
+        },
+        {
+          "name": "关于我们·篝火",
+          "text": "夜晚的篝火，既能为人提供温度，又能防范野兽。你给我的感觉就像篝火一样。说得太抽象了？哎呀，就是拿你当朋友的意思啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9b86b4fa8e47a5c5237923ed91ce720e_330442698298689142.mp3",
+          "audioName": "17关于我们·篝火_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "沙漠人获得神之眼时，大伙儿都会说这是谁谁的恩赐，具体人选视各自信仰而定。看一群人为了别人的神之眼争论赫曼努比斯大人和索贝克大人究竟谁更强，怪好玩的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/bb2d680111067fc5d2157221a29b3b0a_7427481610372092508.mp3",
+          "audioName": "18关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "如果去沙漠旅行，夜间赶路是个不错的选择。气温确实寒冷，但可以避免在炎热的光照下流失过多水分。多带件衣服总比四处寻找水源方便多了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6db087d90d18e4016b9dce94c542c115_4094440913351289013.mp3",
+          "audioName": "19有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「悼灵花」这名字不知道是谁起的，还挺浪漫。换我来看，也许只会以为它是被太阳晒蔫了才垂头丧气的呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ae71f50d3134a6fde26b2fa2af45f6f2_7836799277475176275.mp3",
+          "audioName": "20感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "赛诺很优秀，无愧于赫曼努比斯力量的传承。作为「大风纪官」，他对知识与智慧有着至高的敬畏之心。如果教令院能与缄默之殿再次合作，有他在我会放心很多。哦对了，他还有个难得的优点，就是讲话很好笑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a75966de9ef785540833449f73525285_6921178347522595166.mp3",
+          "audioName": "21关于赛诺…_kr.mp3"
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "提纳里挺厉害的。我后来才听说他不太适应沙漠的气候，决斗之仪那时可完全没看出来啊。我也没想到他会写信邀请我去化城郭做客，说是让我有机会见见赛诺的朋友们。你说，他们平常吃饭都会讲那种笑话吗？真期待！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5d0b2b1bb2e1d9f2205053991737db12_1912432041023745402.mp3",
+          "audioName": "22关于提纳里…_kr.mp3"
+        },
+        {
+          "name": "关于艾尔海森和卡维…",
+          "text": "我在酒馆见过他俩。也在咖啡馆见过。…好像在大巴扎也有一次。那位建筑师总是嘀嘀咕咕一些不想被别人知道的事情，但实际上嘛…哎，可不是我故意偷听，这样两位先生凑在一起，很难不引人注意吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a25d6708481541075eb3012a9b93ebe1_3616563089327711898.mp3",
+          "audioName": "23关于艾尔海森和卡维…_kr.mp3"
+        },
+        {
+          "name": "关于流浪者…",
+          "text": "这位小哥，是不是外国来的留学生啊？帽子挺别致的。有次我想凑近了仔细看看，但眨眼的功夫他就咻地一下消失了。可惜，下次不会再让他跑了。而且听人说那哥们很有想法，我要和他多聊聊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f654bb8950a8e7193f4c17d8f98ac89b_127034207733478672.mp3",
+          "audioName": "24关于流浪者…_kr.mp3"
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "「炽鬃之狮」，沙漠里人人都听说过这个名号。你也知道，镀金旅团里可不都是好人，像迪希雅这样正直可靠的就更少了。如果你要来大赤沙海探险，迪希雅是做向导第二好的人选。第一嘛，当然是我咯？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/8ed3b66e00b7082563d1e58aeeec92e8_8788101878136893007.mp3",
+          "audioName": "25关于迪希雅…_kr.mp3"
+        },
+        {
+          "name": "关于坎蒂丝…",
+          "text": "你被坎蒂丝招待过吗？她做饭超大份的，连我都差点没吃完。不过吃饭就好了，千万别吃她的拳头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2dee54f208ccdb65c227cc54cd845ccb_6921154771088867863.mp3",
+          "audioName": "26关于坎蒂丝…_kr.mp3"
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "很少见到比我还自来熟的人！在教令院附近闲逛时被她当成了新生，非要带我进去参观，还说什么现在加入知论派就能享受二十种语言教材大礼包，包教包会，吓我一大跳。问了别的学生才知道这是他们院的内部笑话，根本没有这种毕业要求。所以到底哪里好笑？只会让人更不想加入吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b390947ab47c181af9555dfc0d61258a_6239956761970716489.mp3",
+          "audioName": "27关于珐露珊…_kr.mp3"
+        },
+        {
+          "name": "关于妮露…",
+          "text": "我是个闲不住的人，但不介意在祖拜尔剧场多站一会儿，看看这位小姐的舞蹈。能让人内心宁静也是一种很难得的能力。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e1c9a43155df069f3021a67cc125aa32_5062962629728220533.mp3",
+          "audioName": "28关于妮露…_kr.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其一",
+          "text": "想打听事情？你找对人了。万一有我不知道的东西，也可以帮你四处问问。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2ef9320c8cc8d102458ee112c995c969_6038621509496674807.mp3",
+          "audioName": "29想要了解赛索斯·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其二",
+          "text": "你要是有什么装备或者工具坏掉了，可以叫我来修。你问我是做什么工作的？哎呀，当然是无业游民了，不然哪有这么多闲工夫做手工呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e0666782153e3d41162f0430937c2c4a_1802518517791349625.mp3",
+          "audioName": "30想要了解赛索斯·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其三",
+          "text": "我喜欢徒步旅行。提前规划好路线，整理行囊，挑选好的日子踏上旅途，这种有条不紊的感觉很不错。当然，我不会把行程排得很满，也要享受突如其来的邂逅嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1d36a5b784f19837f960eb4bb1606ab4_1067061592811556534.mp3",
+          "audioName": "31想要了解赛索斯·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其四",
+          "text": "在大巴扎闲逛可有意思了。我会挑选各种香料混在一起，搭配现烤的肉类食用。我不会特意去记录配方，所以很多时候都是「一次性食谱」。怎么样，有没有兴趣尝尝这种限时限量、独一无二的美味？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2299a98204cb4e25f6e9b33178b43898_5796973506270018452.mp3",
+          "audioName": "32想要了解赛索斯·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解赛索斯·其五",
+          "text": "自记事起，我就在缄默之殿生活，老实说没有太多的选择。能承受赫曼努比斯的力量对个人而言不知是福多还是祸多，但确实为我的生活赋予了更崇高的意义。人生中的遗憾有千千万，能圆满解决一件事，我就很满足了。现在我成了缄默之殿的新首领，赫曼努比斯之力也有了合适的归属，爷爷应该也很欣慰吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e8f6ecec0086ae914c90218a4ce409c5_2032180372142437993.mp3",
+          "audioName": "33想要了解赛索斯·其五_kr.mp3"
+        },
+        {
+          "name": "赛索斯的爱好…",
+          "text": "老是待在屋子里挺没意思的，无论天气好坏，我都喜欢出门跑跑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ac4e3af9c9d3010819b3bcbb9ea05bc1_7811761534985396528.mp3",
+          "audioName": "34赛索斯的爱好…_kr.mp3"
+        },
+        {
+          "name": "赛索斯的烦恼…",
+          "text": "出远门前一定要做好准备，尤其是前往没去过的地方。当初第一次在树林里过夜不知道要带防潮垫，给我害惨了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e2fefb6530c575c539b80a1f1ee991e8_1598297748669626626.mp3",
+          "audioName": "35赛索斯的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢调配香料，是为了能让肉变得更好吃，可不要本末倒置了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1f3d0e43641a2aa8fddb3a184cbba832_6973586045760872006.mp3",
+          "audioName": "36喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "绿色植物是很养眼啦，但吃起来就…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5f5d1bedeb129468d1733a22abc9a797_6906681047396665869.mp3",
+          "audioName": "37讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好香好香好香。我食量有点大，你不介意吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5e96b8302986ecef85f7be886902aa1b_1034078604610142533.mp3",
+          "audioName": "38收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "真不错，怎么做的？下次徒步旅行我也弄点带上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/34f3f286baf16a6ccf7401d6b93cfb61_9028358377428542422.mp3",
+          "audioName": "39收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "唔…嗯…好像没什么味道，我再尝尝…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/22826459835702ba0832b5d6c4b4f7fa_7533404546768924429.mp3",
+          "audioName": "40收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "你的头发…按照沙漠人的风格编一下应该会非常好看。马上就要步入人生新一年了，想不想试试新发型？怎么样，交给我，保证给你扎个魅力四射的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/df4c72cba4906e822a782e395e448297_2016660533936897129.mp3",
+          "audioName": "41生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "原来你们都是这样锻炼的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9da9377ad317da0e352c1f872c44864e_3455805667542890822.mp3",
+          "audioName": "42突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "噢…原来连看三天书是这种感觉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3821a893ef573fc2a8f63bb80059916d_3784067677301732819.mp3",
+          "audioName": "43突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "厉害啊，感觉可以一口气从阿如村跑到赤王陵。不是开玩笑哦，要试试吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b9ff22932d866ae49b3f34537b83e8e9_321247638156482129.mp3",
+          "audioName": "44突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "没想到你会帮我到这种地步。有时太依赖古老的智慧，会让人忘记自己和同伴本身的力量。谢谢你，让我回想起了这些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/07e662dd36f66f01b9e1697e9407b600_5371885750915806017.mp3",
+          "audioName": "45突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "普通攻击·其一",
+          "text": "小心背后！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/11c2e176fdcec1742049682df38ec640_3589643326308088434.mp3",
+          "audioName": "46普通攻击·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "先手为赢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ccda0251b4f205122f95bc9c0888a216_3657672902560531988.mp3",
+          "audioName": "47元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "打扰了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/27d11c7375f9555314476072ea20d801_8665069118047291644.mp3",
+          "audioName": "48元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "各退一步如何？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/84920845771b6d726ecae519f42dc3b0_997077269559297059.mp3",
+          "audioName": "49元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "众贤的智慧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5dfc685ff45b4b9b4c22b932865124d3_6104056410353641300.mp3",
+          "audioName": "50元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "阿赫玛尔的遗荣！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/dc74551d53f78fc1ea70c381d319f5e0_4461943549359515545.mp3",
+          "audioName": "51元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "抱歉，你挡路了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/dce523e04eb4c44770bc9b0d9c2a23a3_4763361046762865295.mp3",
+          "audioName": "52元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "快看看，有合你心意的东西吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ea4347a7afa71cd1d15fce2901d8d921_7375113810007447800.mp3",
+          "audioName": "53打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "是旅途中的惊喜呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ebfba365159a17c6b11d898215c3bf5f_1914614371628719036.mp3",
+          "audioName": "54打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "啊！里面有怪物！…欸，不上当吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/dc691a369277f86ec17a4005cee6f094_8054399039832151460.mp3",
+          "audioName": "55打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不会认输的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2dcfa341022f2f8de26364c0f55c29e3_3062908452810417643.mp3",
+          "audioName": "56生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还行，再撑一会儿…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/54ca220af195af86440def17d3b2886a_5885623101638872791.mp3",
+          "audioName": "57生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哎呀哎呀…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2f11c8fd23a9ff82c810e0f8df1452b8_5966853663655864653.mp3",
+          "audioName": "58生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "换我了哦？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/4b11f6c749933241d4cd2ddf40b67069_2814108924862364281.mp3",
+          "audioName": "59同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "逞什么强呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9804119b16a0dd2da497a0e0d0720b96_2232402313344553010.mp3",
+          "audioName": "60同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "可惜，前功尽弃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1e66c08fd4276364d7df558c6c083383_8059204706081118636.mp3",
+          "audioName": "61倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "太阳…也会落下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d470f633b4bb92dede172cad6a0dedc5_9175776049795182723.mp3",
+          "audioName": "62倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "对不起了，爷爷…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/43c5063f7487530bd8055de404e87098_8020269298011972182.mp3",
+          "audioName": "63倒下·其三_kr.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "好吧好吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/42491c16c9f98df5ccad567863534186_4083219787363611805.mp3",
+          "audioName": "64普通受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "别别别。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6112f46523a7f75eb73ad5389b458805_2736086483192682948.mp3",
+          "audioName": "65重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "哎哟，是我慢了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/bd7dbf181946b6ab9d878a8d94b3f83a_7968322111936239175.mp3",
+          "audioName": "66重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "来了来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c8e5bafd3b0fa26e2c55f11b095539b9_620346798781060284.mp3",
+          "audioName": "67加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "好好好，听你的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/549aaeb10f462f1b87f6420ad601a97b_4368698867306959677.mp3",
+          "audioName": "68加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "嗯，带好行囊了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d611d17feb5e97ae2f4b22737e82937e_2395159681118476384.mp3",
+          "audioName": "69加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

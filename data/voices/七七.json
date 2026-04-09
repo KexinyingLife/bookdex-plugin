@@ -1,0 +1,1685 @@
+{
+  "id": "1056",
+  "name": "七七",
+  "alias": [
+    "七七"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是七七，是个僵尸…啊，还要说什么来着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9facb8a5cf7074ce9c4473047da0a0f7_8609196709052429954.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·自言自语",
+          "text": "咦，刚刚…我想说什么来着…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1f775e60dce8845afad094d798e7943f_3376971723969579734.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·怕热",
+          "text": "想去凉快点的地方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/509bfe186804944cdbfa910280658b8f_622382262261555238.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·锻炼",
+          "text": "七二三四，七二三四…五六七七，五六七七…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8bc17a4886965e2713b614d377317bcd_561629703152148291.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "又忘记带伞了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3de4199bff1ff2cd567fc0df9c8159ef_167664554820203968.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "想堆雪人…可以陪我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1110c0a8929a7c9e311ae3a08cd3287e_6330484191699706818.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "今天不该出门的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a74043e644a1a8065cfa769d0a809ad_4216531094017324586.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "凉凉的，很舒服。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3a3c6815bfcb0dd203e3499dadecb0ba_475048432221522495.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "拉手…拉手！要、要被吹跑了！…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9c0fd568ab2d597f6766a88ad31e1671_4542958628027502835.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上了吗？今天要做的是…我看看笔记。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7f04548d279ddacb85aa8aedd2405ee8_3120286917091907438.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "…忘记帮白先生分拣药材了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f94e7849a4ce4d2b7cc736794e0930e1_6411006797885934543.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。今天…我做了什么来着…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/64a867349c78f76be8d86e52b733f3d0_7162867921648308525.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你先休息吧，我该去做柔软体操了…不要偷看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6ab265b9a6bfa7c18ff9bc01b748864f_8784275968340928940.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七自己…",
+          "text": "你问我吗…？对不起，我不记得了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77f8fe4ecf9bdcee43d07d6c93250be2_7988238239105145321.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·记忆力",
+          "text": "很多事情我都记不起来了，但是…也没什么不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/adf7b8836418a88d2e07ddbe00140789_9026716311686843244.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·记忆力锻炼",
+          "text": "最近我努力做了很多记忆力锻炼，所以不用担心我会忘记你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1256ff01ab1df743571d9f2a6f7a73c5_849179713253293102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」，虽然无法停住时间，但是给了我守护重要之人的力量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/81efe8cd41c9f49b1602c2b0718c6719_4838635112116266644.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "其实我的身体状况比白先生好很多…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c62011770e21cf179d02469f33abe77f_1895393863016146762.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "药庐附近有时候会有小团雀出没，小小的一团。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/15273b0df3dac357c142468caddb67b7_5952630374132684870.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术…",
+          "text": "我记不起来白先生的脸了，但是也没什么关系…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3dce4e5f2f315178f4afd6bd1128a2e4_3854598982678467713.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "高温、假笑和死亡…讨厌。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/360ebb5dcd613d14573312658f715b7d_1992485668050114120.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈·名字",
+          "text": "唔，听起来像老古董…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/283a3289544af22f9d3ae497078be26c_5655125594433583933.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈·记忆",
+          "text": "我见过他吗…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4c96c48fc9b195d5f5099bfd66c0710e_8917306014887596891.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "…是谁？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/57ab0982f5a27f069b6bedcfd7ebb73b_7404383928716148834.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶…",
+          "text": "可爱…像小团雀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/81e1f39b5fbafee97e8c6254df588bde_4446234221036719278.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小冥…",
+          "text": "晚上…偶尔会感觉到有人和我一起做体操…是错觉吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f23e44e3b8bb2219a38b105b9eb2f1d9_288985587323548346.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其一",
+          "text": "有什么事吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8263530d5a5737433a6a787407af0eca_7316059401485958901.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其二",
+          "text": "柔软体操，让我能够保持和人类一样的身体状态。但是如果放松下来的话，就会变回去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/480193a08c527aa4f73b7637ed2a75c0_4730555455637777813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其三",
+          "text": "有的人想要利用我，有的人很害怕我。但是你…和他们都不一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb9fd397febdeb8d50ad01b258f469bd_4991146632594059728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其四",
+          "text": "从第一次见面开始，你就给我一种很温暖的感觉。和让人不舒服的热不一样，是我的心，感觉到了温暖。谢谢你…我很高兴。可惜我只认识现在的你，如果以后我忘记了…我们就…不，我会「命令」自己记住你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7bd973b946143ae2841b7903c8d7f5d5_6551179518441744868.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其五",
+          "text": "以前我只想要活下去，虽然不知道为了什么活下去…但现在我好像知道了，以后想要和你一起活下去。我、我们可以…永远一直在一起吗？啊…真的可以吗？嗯！我会保护好你的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/32a2956971b1afbd32d008ee3cbaad49_6539244381980153946.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "七七的爱好…",
+          "text": "想要一只小宠物…小团雀那样子的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2f16284a26d1f62f2e704230bad895f7_9057173905576644907.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "七七的烦恼…",
+          "text": "我不明白，但是，温度高会让身体很难受…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a2e3a8672fd00ac93e821bae5eb853e2_7276276332676180282.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "喜欢椰奶。但是…尝不出味道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a6657c32489dca10b74ae3ca4aeb5035_3091168405472159037.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "对不起，我不知道…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a010daa8bbde4f0ac513b0a242bb7ad5_6696259307654857290.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "凉凉的，很喜欢。虽然没有味道…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/3185227d9fdd1d794f12d8001823fba8_1693699918134774501.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2a817eba41de0af2d2daf1fdbbe01858_2551842066708518569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "有点烫…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a273112536751566482efcd496f01a2b_3113567711426980116.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生辰快乐。给，草药香囊。很惊讶吗？上次你告诉我的时候，我就记在纸上了。每天都看一遍的话，今后也不会忘记的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f723e2703e2234028eea2066e6a9520f_2618187930590752938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "啊，变强了吗…变强，是什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2c3ef4fbe9282e6ec167c427b1b0145a_1406339948657604323.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "啊，理解了。变强之后，控制力量需要更多的精力了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/04a4b96f305fb5498590185ec68d18ae_8156224956299556440.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "以前我对更加强大并没有概念，但是现在…我希望能够再强一点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/986a5ea2d9e73ec32c076c0036fba530_3195386846494182757.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "这一切都是因为你在，谢谢你…可以答应我一个愿望吗？今后…就让我来保护你吧，好不好？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b9366e2e11c40948772d3b933a4a1c2_1840563196736711050.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "流转不息。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/121419375e69df9c766d19343dea59ad_1020511864493010055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "生生不绝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6f8ce274b3a7e9421e34f0f83150928b_3307852465263634032.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/75ea653858541d15b750cf030e58e162_7461924655117531524.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "起。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ee15d39e7bc501f91c46206162148830_7931654765884686822.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "听诏，宣此诰命。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8c0397f41b1d9104bbb75aa84b2d2171_2804082223227012104.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "真名，度厄真君。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/05df0fa70e5fea70e7fe94c62ce886f3_2530529737218778581.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "玉签，仙法开匣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/db7cdd4b922d29cf40a73d0fc7f45ef6_8573767247758016184.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "要更快一点吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/04832e97ed1bb5531a7cf105a4386960_2274820703150238158.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "欸？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/37eb0f207e7e2a479c3d7dff8129767b_7732836011806478524.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "好看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0d69aff441a42559047c7018f4b45ba4_8533996809466209504.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "宝箱…有用吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f97c289d988b4167437c2835633f6cce_9104801541940783725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "里面，是什么？不记得…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0df4a90c8cc964a504b8b1e070b1deca_7893349492828994013.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "痛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/252250b5be34fef69d3b2593c2a0f9a0_3665511129839218509.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "啊——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1925cfa83337e77752ddb4207d70e6b6_6816017886762318324.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "要活下去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/585e049c3f043e7db74072c342605db4_7451506872738698720.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "危险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/dc7cbb03a96eb2f9b7a10b4d7528392e_3937507985441057979.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a13b090b7f43b94747482fc41dc53872_1048157757935380686.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还会…被封印吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7765f26623da01b47bc775c1959a09cf_8245849654829672709.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "好冷…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af8ad737f0cb8a36fc1aee0147a5e4dd_4394887883681008393.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "不要…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/04fd3cd3878f6633ec88c305f346b38b_5288313212665578070.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "没感觉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d1dc5d56f4fa71f8dd6431228c5534c1_4902251406384408383.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "居然…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2028c9aed771fc92f872bf2c8f6cad47_7937920322793239511.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "糟了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6b8e33bb47e4f86f2ea879d026320d76_167361580621665622.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "…我来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/afcf0e202fe54764bcc3b5595a72ba31_4665588858952130791.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么事吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7054a69d476e854a46bcb3c71205d0e5_1639792804183208291.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我带着…笔记。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4aeb0e4c93ef0b68f23eaedaec7f0594_5743073069250119229.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是七七，是个僵尸…啊，还要说什么来着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d64003599ebf32738908a721534af8eb_5710609803194070894.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·自言自语",
+          "text": "咦，刚刚…我想说什么来着…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7ecadb44e7bc1d9f83cd857a4ec5d897_2299057231503087142.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·怕热",
+          "text": "想去凉快点的地方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0882787694057d70d3d06446f2281f34_5679864562862967350.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·锻炼",
+          "text": "七二三四，七二三四…五六七七，五六七七…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3780d8f68d90b9e4868fce21304d25bf_3676399040971495291.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "又忘记带伞了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2e37cd1bc3de36532c35916ce79d9d90_7803982257973712824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "想堆雪人…可以陪我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a634c0b03e309249301b603e5831c828_7320341609721498603.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "今天不该出门的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fb7e77a9ace780b12f7e6ddd10a6e7e9_5896495383848118228.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "凉凉的，很舒服。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a9f9641f013d21e69b9070d687fa5922_8315753785536627339.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "拉手…拉手！要、要被吹跑了！…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f51496a8cba1915695caec622a386e05_8220865517156492292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上了吗？今天要做的是…我看看笔记。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/adbff4ebc98b7221e04863bcf513164a_7821755054398917906.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "…忘记帮白先生分拣药材了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b2b2c92f7c6e931bf509f09c93d71a02_3194243817317337759.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。今天…我做了什么来着…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c30eddff040644df4b68b16bd5ba6839_3801733163670190526.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你先休息吧，我该去做柔软体操了…不要偷看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/56e256cdd7761c89b68bccf82b7666d8_2735814194848198029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七自己…",
+          "text": "你问我吗…？对不起，我不记得了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0fbee1efba79e6e4249cc76fa5509ebc_7586777891997973374.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·记忆力",
+          "text": "很多事情我都记不起来了，但是…也没什么不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7e30ecc20ec67a364cbe26400c934a0a_6892864254069256322.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·记忆力锻炼",
+          "text": "最近我努力做了很多记忆力锻炼，所以不用担心我会忘记你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6fa3ae2ff83115d6b53145d556f003c0_1504954787665119173.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」，虽然无法停住时间，但是给了我守护重要之人的力量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b6b590bd7e9d5165291a754368d6537a_907741488711019347.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "其实我的身体状况比白先生好很多…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/16d894667240a2eb1f5b7bf00842e925_866256584439317813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "药庐附近有时候会有小团雀出没，小小的一团。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/48b09f98e9b1dfd444e4d402c255e50b_1580132983425613367.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术…",
+          "text": "我记不起来白先生的脸了，但是也没什么关系…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aeb945584b73e057030ce33371445589_2872787924921033069.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "高温、假笑和死亡…讨厌。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4e336d5b902e23a7220fc15f1a71a9ce_230749006839385037.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈·名字",
+          "text": "唔，听起来像老古董…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/13c7eb447fcb1166c9be87be08662d84_5073879219435461145.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈·记忆",
+          "text": "我见过他吗…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5bc35adcff28f969a729c4139dba18c3_717242422390026789.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "…是谁？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/74ed007682f4a71ba16b37adf5e2b172_4789372852111573112.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶…",
+          "text": "可爱…像小团雀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e6243293758585d779ee66add8fde7fa_1975186485970456611.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小冥…",
+          "text": "晚上…偶尔会感觉到有人和我一起做体操…是错觉吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/df26cae7f21bdf7269bb0ade8c3df2fc_1416178139444937724.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其一",
+          "text": "有什么事吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/92c3e9ec139259f0a8928af7f6a56f0e_8073535094706668749.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其二",
+          "text": "柔软体操，让我能够保持和人类一样的身体状态。但是如果放松下来的话，就会变回去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/090b7ebb7bdca8730a4d7d5935d53113_4888180027386539637.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其三",
+          "text": "有的人想要利用我，有的人很害怕我。但是你…和他们都不一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77b0ba46a1ac3e4d56468a1d9c45b913_1063705586645636191.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其四",
+          "text": "从第一次见面开始，你就给我一种很温暖的感觉。和让人不舒服的热不一样，是我的心，感觉到了温暖。谢谢你…我很高兴。可惜我只认识现在的你，如果以后我忘记了…我们就…不，我会「命令」自己记住你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de227024f1327d86c303440d6b7a2ef1_4259714383783846464.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其五",
+          "text": "以前我只想要活下去，虽然不知道为了什么活下去…但现在我好像知道了，以后想要和你一起活下去。我、我们可以…永远一直在一起吗？啊…真的可以吗？嗯！我会保护好你的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2b1666eea4024a9a40abc984bff5df2c_7347757434061932749.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "七七的爱好…",
+          "text": "想要一只小宠物…小团雀那样子的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/02424ad89e1a5e36173543cb93bc19cb_2121148298072771886.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "七七的烦恼…",
+          "text": "我不明白，但是，温度高会让身体很难受…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/86657d07efbf186bf84c51db9d8c998d_9143282403914944922.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "喜欢椰奶。但是…尝不出味道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/62b703e32b1a3add71f669a151601762_4998000803877426808.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "对不起，我不知道…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a90e3adf385db6cdda12dde640d274ef_5991257501095788532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "凉凉的，很喜欢。虽然没有味道…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/becf96bc6557520a50074156eab627b6_963265988031055261.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ff1b09b41ff77b23700054d3de5add8f_923910182861509046.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "有点烫…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/4a4db20ac357c78c039ee877e87e0716_8301329434092553505.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生辰快乐。给，草药香囊。很惊讶吗？上次你告诉我的时候，我就记在纸上了。每天都看一遍的话，今后也不会忘记的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4a485673d75892c57ca515b2e3b8c594_7573228659776793000.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "啊，变强了吗…变强，是什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ad54f53e5b294ad7c95dc174dc3e3b47_4898491406283127960.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "啊，理解了。变强之后，控制力量需要更多的精力了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/94e369817c9f177898ca1f313da1c78e_537256829034662449.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "以前我对更加强大并没有概念，但是现在…我希望能够再强一点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a06a12e4794165949cf2b79a8dcab585_1478018027269206116.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "这一切都是因为你在，谢谢你…可以答应我一个愿望吗？今后…就让我来保护你吧，好不好？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/43986e74691dd0892ef2d957821ce283_3901534470179806449.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "流转不息。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/10bfd98837e233a9fc6e23f0f5f2cba7_2240586001784861262.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "生生不绝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8a69ec43e8c46fb0a7a7a6089949f0b4_3286485527394071328.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/05b519bca652a86f47367637c2005d7e_132834396470865973.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "起。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/baea6e28dea80712d688a9ef3aa05bd7_2930131416811117358.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "听诏，宣此诰命。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab707fca80f2ce6f9615068aa7d9e6c2_8258780669510502601.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "真名，度厄真君。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de6dbb90a6d5abf180127d2d803a9ed4_8718375556184194615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "玉签，仙法开匣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d344aa4818a6d52cd993400d13250922_3490858639629768691.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "要更快一点吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b96cf07a1b7965b1cd5c7318b1feb66b_3582521794233543448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "欸？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6a3976502af1eb1a4a9ab39129823871_447516630395024100.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "好看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bb76929113b929ec00203839cc89f948_7832061824644302900.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "宝箱…有用吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b59787ec0cc95cbae52b03edd53b9af2_7894733693472949275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "里面，是什么？不记得…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7ba08fc13896d66f1f22110808d4b635_511584875339773959.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "痛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/793c54c5abd323aabf8e2c3a12b1ff1b_2009686154484479211.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "啊——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/28d184283d2a856f3a2363fa5bd6bf88_6301262664064939987.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "要活下去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/575ee6d8a016d502de9db499b7405fab_8777362029244546491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "危险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1bc42c93126e414adf56c8ef6e0acb07_180940238515879760.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/7abf0bfe68dbe1f7d56319199c95976e_3110169785551844561.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还会...被封印吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/92c26baf18656ba773a1f4b6c43f0e61_2220274152061312487.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "好冷…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/95886ef9150953f851f82a1c5dcd29ae_1898851709559279819.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "不要…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6f0161769a41b91aa01a96cd939c43c3_4465497648862291088.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "没感觉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9eced550e724e3997df5c4bd34d3971d_458056438290239780.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "居然…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5b2b9b1ff01fbdf8367dfd277e55b958_8004653410022247354.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "糟了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/442d0488f1e6c27aec38db74d75d4b19_7218203867387290408.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "…我来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/562d6b86c2ba57ecdf9c8c73a84eb6ab_3584818412158621318.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么事吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cc380e19101c1a9c80ca7de8df024c4d_7811116043592479500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我带着…笔记。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e223fd8aa9aa1899e76c13f1a02fda6b_6203702657389684771.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是七七，是个僵尸…啊，还要说什么来着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea2ce76619584c8e4d0b1c7b4f91930c_35667861812079817.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·自言自语",
+          "text": "咦，刚刚…我想说什么来着…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5de7a1ceae9fd7ca8e7bb2a84c1ac135_1337761408844589641.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·怕热",
+          "text": "想去凉快点的地方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c0e287594cd4c69b56b1c1687eb9e06e_7033274261409579460.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·锻炼",
+          "text": "七二三四，七二三四…五六七七，五六七七…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ac25186273c1f8de3b83a44b78e7f694_1681071203401508013.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "又忘记带伞了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/67038e79463c1cd051c32edc56a9f713_4949639116266136520.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "想堆雪人…可以陪我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0211d4ad6ba62a358ec7fdc0a1644b46_1371228329441553339.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "今天不该出门的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6bac995df67572b6d874be40c58e4c53_6412724101878858004.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "凉凉的，很舒服。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0cc708557d2db541dc0abe3f74a0a642_4429014070388106222.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "拉手…拉手！要、要被吹跑了！…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fbb63f27ad21594935b759393def6d82_7638959308061819434.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上了吗？今天要做的是…我看看笔记。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3e126c0a08746c40b44cecae95ddda35_8674866588857742207.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "…忘记帮白先生分拣药材了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f7dd637d422c5302c9d0c4ff9cfcb70d_3711990227871969848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。今天…我做了什么来着…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cc37b222d64e20a544c98e7237a8cf95_6470582676963421036.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你先休息吧，我该去做柔软体操了…不要偷看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dddada55d2aae1dff38d89f37ea308e5_2055113747996057926.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七自己…",
+          "text": "你问我吗…？对不起，我不记得了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6d27c939cdb695dd6f87b38c75fef6f0_7545077651111622640.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·记忆力",
+          "text": "很多事情我都记不起来了，但是…也没什么不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2acf814a78daaf1e400daadef3a78730_814071244011220603.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·记忆力锻炼",
+          "text": "最近我努力做了很多记忆力锻炼，所以不用担心我会忘记你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e9d73d1881a5f4acf4df1de78e167d65_5788149961647959747.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」，虽然无法停住时间，但是给了我守护重要之人的力量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/76180f4ee147581b07b2c4f8c88e02ef_6245841156191139319.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "其实我的身体状况比白先生好很多…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a3b547066bc92f4b8813ff31fd59e826_4375513431684011971.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "药庐附近有时候会有小团雀出没，小小的一团。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e324ac9b39c8b8a46d252d4af46fdc51_6268742754638936919.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术…",
+          "text": "我记不起来白先生的脸了，但是也没什么关系…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6b36ec555dbf6fcdeae0a25bdd55e045_2031023359609462964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "高温、假笑和死亡…讨厌。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cb8f88c4e2a97b14c00689c9b94ff1af_647072496519306989.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈·名字",
+          "text": "唔，听起来像老古董…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bf0a192a1945c283cb89d4b836376be2_5999418182548721271.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈·记忆",
+          "text": "我见过他吗…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e1de7efdd77873b1559f819b529deb9a_7499467768172278884.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "…是谁？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4fbe372c63e46f1a3ed8c81fde121106_1928707616016185256.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶…",
+          "text": "可爱…像小团雀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8b178248abb4c51a6d921b2393323d4_7779782259741400382.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小冥…",
+          "text": "晚上…偶尔会感觉到有人和我一起做体操…是错觉吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6394c45e640baeec3d4442a50ef760ad_5796699943115624314.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其一",
+          "text": "有什么事吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c33cefc220704c3ce6f822af5b260ccb_2882076004285406065.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其二",
+          "text": "柔软体操，让我能够保持和人类一样的身体状态。但是如果放松下来的话，就会变回去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8a3b2202d7a0adc11af3db1a112f416b_2165021345818391966.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其三",
+          "text": "有的人想要利用我，有的人很害怕我。但是你…和他们都不一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b14a6e4b41cd12abe8fdbc8e92d4248d_3408052813538778084.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其四",
+          "text": "从第一次见面开始，你就给我一种很温暖的感觉。和让人不舒服的热不一样，是我的心，感觉到了温暖。谢谢你…我很高兴。可惜我只认识现在的你，如果以后我忘记了…我们就…不，我会「命令」自己记住你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/75b34352e9ab1d0f0bad29e1e4baef9c_6821684187608325532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其五",
+          "text": "以前我只想要活下去，虽然不知道为了什么活下去…但现在我好像知道了，以后想要和你一起活下去。我、我们可以…永远一直在一起吗？啊…真的可以吗？嗯！我会保护好你的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7114bb6c451fb4be30d8cfbbc4b92b2c_4801845818743109654.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "七七的爱好…",
+          "text": "想要一只小宠物…小团雀那样子的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f7d4ead42ed41dccee6b8a5c1a56f5b3_4768797730339955963.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "七七的烦恼…",
+          "text": "我不明白，但是，温度高会让身体很难受…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d31192aefa03d76617704ff23665d527_7660290897264032552.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "喜欢椰奶。但是…尝不出味道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6b6d9dc7c00536857f52e06202bf432e_5512206772183874161.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "对不起，我不知道…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/655d15ac1c8bc6336b6507bfd060bfe8_6348541833438319952.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "凉凉的，很喜欢。虽然没有味道…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f97e4deeac6fcd8a44b965b1ccff1ffa_7005008078242682527.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/db6fb689714fa1f64d0f89b1f903ab59_5458256635533585636.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "有点烫…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/b612fd5660dfa490a200a24397c081d2_8183565712746839625.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生辰快乐。给，草药香囊。很惊讶吗？上次你告诉我的时候，我就记在纸上了。每天都看一遍的话，今后也不会忘记的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5ae9be82f34e0901a1d263d30f1c7ebd_7431321724040587342.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "啊，变强了吗…变强，是什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bce3e0b074ba4a4b9844c891c4614650_727350122052735929.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "啊，理解了。变强之后，控制力量需要更多的精力了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de0bb013d346f4ab507fe94a4bddf73e_5099295225875361839.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "以前我对更加强大并没有概念，但是现在…我希望能够再强一点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/953dd2373aced4ea9d2a1a09114b71ef_6736702471538774662.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "这一切都是因为你在，谢谢你…可以答应我一个愿望吗？今后…就让我来保护你吧，好不好？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de30b4d57cbc4cab86f295e99b58cd52_2570205713388548685.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "流转不息。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9e2778ef41977a15dc3f5b94ac457fb9_625318994154568901.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "生生不绝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d11bdc119e69f0302e0b5429a7fcdcf6_8364032934192395057.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f67642f835d381022b6d3f9c38db382f_5719040884358067388.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "起。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0e502fb39604d2ef2b17b25c25da9759_7531143265863316340.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "听诏，宣此诰命。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b17408d199bd6db642f14d42bdffb030_3691215874159091918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "真名，度厄真君。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f569310bed4e51dc0ae1b931652c5bbc_2306655750335174957.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "玉签，仙法开匣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7ba8310a04a7d4dc2bf630b25fceeafd_6213554301361925776.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "要更快一点吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/27f3527aadde17073720bb033e03bfd3_7262815236750681749.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "欸？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a451bdb27511f419cfcc754e6021030e_3852797401356645577.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "好看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/17702c8b925a4de0547617b6f8ba0456_2026118173931688986.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "宝箱…有用吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5d53f0b90011a31014c64a3bbf00ffe4_8102916673927656106.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "里面，是什么？不记得…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/582d2d9b5e61359757a48ff52e8bdc53_6205516710404127787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "痛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c86004939c2642489b4373f20de392df_8489366061906274893.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "啊——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2b50b723d042e6deb661b16247d88452_3675290776072563734.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "要活下去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d0b9b411d197b240f13a12c00be0cb8_947390717262142542.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "危险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/517a26e5424f7a473aee4d72628dec2a_524275229884652295.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/17c47fe8a018f4767981f90a22618558_8016200685684759617.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还会...被封印吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f7ceee9bc0d675792046b0182e279d96_7290992874683494926.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "好冷…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/11cb61e0783ed3ba26f2be0f98d38b9f_655145760346158958.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "不要…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/09d982a98ed97cebff0753a13e514c37_917223469522402723.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "没感觉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ba737038a9f160b9c8c7cebe417c6ab1_1573516353097308897.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "居然…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cc2773c050c6818614d11b1165ff8fcd_5150470920639767424.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "糟了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/31c32c5be8c9629d5095d7a668a03479_8669855847421191967.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "…我来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5d0eadbba7215e316a9fa739650c2df3_4850720981021164122.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么事吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/01745b6c71dddfe3628222f41e3da1b0_8090069493336473996.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我带着…笔记。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dc1a31428e2ebd3b38b4f37e7d8d4a17_6408962373882221372.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是七七，是个僵尸…啊，还要说什么来着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd6bd40cf34956ca9dbc71aa4b4a6a49_7352677044766375352.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·自言自语",
+          "text": "咦，刚刚…我想说什么来着…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe24367cc33a8af52f807b40c1d17b42_7753559187095354918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·怕热",
+          "text": "想去凉快点的地方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b8bfc44cac39c99787771c4f2db8fd7_3297567364372547863.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·锻炼",
+          "text": "七二三四，七二三四…五六七七，五六七七…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/463c666bd345aaacfd382023037c90cd_8329666485193456859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "又忘记带伞了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9694a41fe03dd6a9fd6c3a3430fb5be3_2419211099657120773.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "想堆雪人…可以陪我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8043a4cce3bcb68a6b5486e09a680818_7030674521604890833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "今天不该出门的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab65ded8937220fda9d67e955bc3d009_2560010769297221676.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "凉凉的，很舒服。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/325969cf1df04221b7e2431b7cf2f3ae_2938601917132803057.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "拉手…拉手！要、要被吹跑了！…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/38f0ca3f905f5951a5d4ecfc49b7daa7_8795371664751664831.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上了吗？今天要做的是…我看看笔记。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4af0f8461b4bf3bcaa6be074c3583764_1225569320171891337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "…忘记帮白先生分拣药材了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe3ac29a4b952c09cc868befdf6941c3_8091950890989186178.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。今天…我做了什么来着…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b25dbddac7f5144536d3ce291f8fd967_584879410843384854.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你先休息吧，我该去做柔软体操了…不要偷看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b8276dd413c3a957b94bc82e9686a4f2_7154606551114492962.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七自己…",
+          "text": "你问我吗…？对不起，我不记得了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6dd7c03f8b55a410c020c5ccbf213c92_826222245215014542.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·记忆力",
+          "text": "很多事情我都记不起来了，但是…也没什么不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/544526a98fab8471405522a3b6d38486_4546022847657537100.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·记忆力锻炼",
+          "text": "最近我努力做了很多记忆力锻炼，所以不用担心我会忘记你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/88f175b0169899e48992d02f5524d98a_936005992856261108.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」，虽然无法停住时间，但是给了我守护重要之人的力量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f0b84243ad6a2a9afceb233a97fc24bc_8065927680094496208.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "其实我的身体状况比白先生好很多…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e26553e485f68109e2074579ff18eed5_1646718281425509852.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "药庐附近有时候会有小团雀出没，小小的一团。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/db83e71a3aea3fc7b8f7b362dedc60f2_7335628912800096161.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术…",
+          "text": "我记不起来白先生的脸了，但是也没什么关系…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d7d3a2ac87ff12fc324ebe0ce9a3ae2_5077002963206236026.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "高温、假笑和死亡…讨厌。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f0167715d2a0892ea4930b2ca8f15dcc_1768379598364692088.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈·名字",
+          "text": "唔，听起来像老古董…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fbd4d66c346c828a4c9379f45f8815c1_7861899045300053383.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈·记忆",
+          "text": "我见过他吗…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d1f0643ba3c421034ddeb39a568913b_8270464565875684963.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "…是谁？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/20e1c27767e7f0a011f71900b6b32cb4_1736006994371007615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶…",
+          "text": "可爱…像小团雀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/99b2a5c66775ac5006b3da38b1e1055b_7479543148055680107.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小冥…",
+          "text": "晚上…偶尔会感觉到有人和我一起做体操…是错觉吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bcfe836e03759e34c2af076626537f77_3060856599136690605.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其一",
+          "text": "有什么事吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b62cc3c8acc25bbabb0fabc7cc74760f_1645263067924365166.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其二",
+          "text": "柔软体操，让我能够保持和人类一样的身体状态。但是如果放松下来的话，就会变回去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/18696085b5e92e6d9db056c89260c66a_4757853950540288431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其三",
+          "text": "有的人想要利用我，有的人很害怕我。但是你…和他们都不一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fb482a4d5b63384f4aa44f4c154ce715_5198719230136822793.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其四",
+          "text": "从第一次见面开始，你就给我一种很温暖的感觉。和让人不舒服的热不一样，是我的心，感觉到了温暖。谢谢你…我很高兴。可惜我只认识现在的你，如果以后我忘记了…我们就…不，我会「命令」自己记住你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7075b7d6a4847f13e5c28a4e27fe9eb8_4870257742038183313.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解七七·其五",
+          "text": "以前我只想要活下去，虽然不知道为了什么活下去…但现在我好像知道了，以后想要和你一起活下去。我、我们可以…永远一直在一起吗？啊…真的可以吗？嗯！我会保护好你的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3b2346a39e5d1b480065eb509693b41c_4709549483635686792.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "七七的爱好…",
+          "text": "想要一只小宠物…小团雀那样子的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8bbda75d7fd349bc4785a530168b4ffc_7874625695509704336.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "七七的烦恼…",
+          "text": "我不明白，但是，温度高会让身体很难受…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/136181d8fd496d229163e3c273b5988d_2704392706199643748.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "喜欢椰奶。但是…尝不出味道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/019ee671aa030ac548ace6cf4a853869_6869330994017523093.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "对不起，我不知道…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6f488a4424c48ef3c75c02b48d7ed7c1_3289455643752438182.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "凉凉的，很喜欢。虽然没有味道…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d7957ded825eba543c78fb7f8f8af047_4926035889606724730.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/7f8f45bcc465c1f803fad97dfce373b4_7818440537651997201.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "有点烫…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/a8330f250c9967ac7472db792d2579ed_4328569214452407737.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生辰快乐。给，草药香囊。很惊讶吗？上次你告诉我的时候，我就记在纸上了。每天都看一遍的话，今后也不会忘记的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1f433f21e954529f41e56fc0794a6e2b_2187442292515821725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "啊，变强了吗…变强，是什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a0595705c0b7321b343af95e99f89275_2085705705579576302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "啊，理解了。变强之后，控制力量需要更多的精力了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aa0989b17213d7b7af071fd2ba726216_1083019081290681241.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "以前我对更加强大并没有概念，但是现在…我希望能够再强一点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1de284e691f4aba55afb97a8ef7bdb1c_2103435450032747365.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "这一切都是因为你在，谢谢你…可以答应我一个愿望吗？今后…就让我来保护你吧，好不好？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/df9f375d47603df7568f9596d82453bf_8059642008811596595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "流转不息。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8225e40fc13a8f0de47e908a8eba53ac_3311365170453710215.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "生生不绝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/838cefbad9eb98814287d0581a6ead96_205170189188637104.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a7a45fbfd6eb238df96bdb38d69e2d40_5642249242332760006.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "起。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5db4a9c63808ee98aa69187274e9745f_4631960648445658788.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "听诏，宣此诰命。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a738dba10f9588ecc20bdeb6ee5b2916_2126141511503227524.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "真名，度厄真君。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4903822b908eb0b94b26aa0e8fc9a172_330308451375025945.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "玉签，仙法开匣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/90492f96bbdbbb725a8a0ab0e7e5214d_1155087208667704266.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "要更快一点吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c91ce6ea9a91022809283fd3bf085e9f_6167995610772864199.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "欸？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c2b5c394a7dd2214e411902c5531d7cc_4718966088188380477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "好看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8d9861025b6267722497ce71a2de5a6_1883537297735084970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "宝箱…有用吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/32bad4f9c7fdfaa2911307ebae326bbe_3488818259639527491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "里面，是什么？不记得…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a276b9641c18bc774ec4bbb00e00d8ae_6142808123829169282.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "痛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8ab7641e349e34dbec82a4956f957bf_5286004242917475748.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "啊——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/50c6f57c24da04bb1238b8132cb439ca_9046817035652150318.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "要活下去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de2c857dbac2240497e49f509fc155f0_9054500787915800246.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "危险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2537b5c4e071ba828afa4935872fd559_677182805816282299.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/66e2b2b445f4de164e96967d30ba5ec6_6885531570193480926.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还会...被封印吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1aaf9b7fa74bff769d550043786c68bf_7572407906946808455.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "好冷…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0b71fcbc21163baf370a6c6077ca554a_7453211027388592119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "不要…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d0ecfb54be45df9b9305a04824ade3cc_5986266947566224264.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "没感觉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/13908a4ce88f74b8e22dc62d3b1c5633_2916413770759943694.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "居然…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bf6d1d8cb1fa662616c579c33d245526_2666877999499035586.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "糟了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a69e299d48c85af649a7769e994b669_7447686657980200676.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "…我来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/239f0dd19f9f3e61f135d7922e10b616_7444428907454694728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么事吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aff7fe1b15551405ac71a6980b18b142_8689134059948015402.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我带着…笔记。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1fbe30e93f372ee71a282c51b86e7ee3_6127082221151778909.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

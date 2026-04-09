@@ -1,0 +1,1709 @@
+{
+  "id": "501626",
+  "name": "卡齐娜",
+  "alias": [
+    "卡齐娜"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好呀，我是「回声之子」的卡齐娜。喜欢吃颗粒果，想要变强，不擅长打架。啊…不是说这些的时候？那、那…请问你接下来想去哪里走走？我挺熟悉这一带的，就让我来带路吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/bac6eff95e053470cc978e635206d16b_5365257463370659149.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·整理癖",
+          "text": "啊…我刚刚发现有块砖没有堆整齐。怎么办？现在感觉心里有只小龙在不停地挠啊挠。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/26df668a97a3dd60d958083cbf960282_5908460878921754173.mp3",
+          "audioName": "02闲聊·整理癖_cn.mp3"
+        },
+        {
+          "name": "闲聊·行不行",
+          "text": "我可以、我不行、我可以、我…唔唔，没事的，我可以的，一定没问题的…对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/35623cef6375a79f45a623c66dfa6c8f_27724998322397284.mp3",
+          "audioName": "03闲聊·行不行_cn.mp3"
+        },
+        {
+          "name": "闲聊·收藏品",
+          "text": "无聊的话，要不要一起来看看我包里的收藏？看上什么拿走也没关系哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/aef004e9f5010e268e58ff5f7f2ffc62_6856181477466018096.mp3",
+          "audioName": "04闲聊·收藏品_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨水会让泥土变得松软，所以雨天挖矿一定要比平时更加更加小心哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/88acc6b75a5ccdba7843eb755e636d63_6406496617607488660.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "呀——啊…我、我不是害怕，只是被吓了一跳而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/3965c48ac0958a163cb19b05c116d73b_2102328038331317453.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "我们一起去雪地上打滚吧，嘿嘿。你放心，我不会像阿尤一样，钻到雪里又突然冒出来吓你的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c448f609dd6cc5e392ae3d28fda61ff9_3013510357304502477.mp3",
+          "audioName": "07下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "快看这块宝石！在太阳的照射下，它里面好像藏着彩虹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/6196563a4d06cdf73517e9b6b199cac2_1897590508262556367.mp3",
+          "audioName": "08阳光很好…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "这下面会不会藏着金闪闪的矿石？要不要挖挖看？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/8b1abb712581464e44cdf439ca173011_8224092996159093825.mp3",
+          "audioName": "09在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早呀，我已经整理好背包啦，我们随时可以出发。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/6a0ebfdc49b7fb29939f34ef7911ed78_4248638001589118378.mp3",
+          "audioName": "10早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "我不困，但如果你想午睡一会儿的话，我可以帮你望风。虽然我有许多不擅长的事情，但…我的耳朵还算灵敏。远处的风吹草动，我都能感觉到。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/dd433110874841750444c629ca6cddde_8629117843127280342.mp3",
+          "audioName": "11中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "玛拉妮邀请我晚上去山洞试胆，我我我，好紧张，怎么办？我不想拒绝朋友，就…就闭上眼睛答应了…不、不管发生什么事情，我都应该和她一起面对。欸？你也一起来吗？太、太好了！呜…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/ddd8a76519d408fa05015575f5584714_6395013835960248333.mp3",
+          "audioName": "12晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "今天怎么又把事情给搞砸了，呜呜呜…怎么办，明明不想哭的，但眼泪完全停不下来了，呜呜…噫——，刚、刚刚我们不是互相说了晚安，要去睡觉了吗？但谢谢你安慰我…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c7cf26591f4d720d71b2627a9c1ddf1d_7713267317699604891.mp3",
+          "audioName": "13晚安…_cn.mp3"
+        },
+        {
+          "name": "关于卡齐娜自己·冲天转转",
+          "text": "这个名字是我和阿尤一起取的。我先想好了前半部分，又根据阿尤的动作定下了后半。我常常会乘着它和阿尤比赛跑步，我们各有输赢呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/ff50c256bae6907d12802aca3143fe65_732742628921644452.mp3",
+          "audioName": "14关于卡齐娜自己·冲天转转_cn.mp3"
+        },
+        {
+          "name": "关于卡齐娜自己·死亡",
+          "text": "能在「巡夜者战争」中死去，对纳塔战士们来说是一种荣光，身为其中一员的我也不该例外…但当时我一边这样告诉自己，一边在心里害怕得要命…你们冒着巨大的危险从夜神之国把我带回来，我真的非常感激！呜呜，谢谢你们每个人…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/67fb850c1122582b30ca9135a1e6a17b_1497330084731279740.mp3",
+          "audioName": "15关于卡齐娜自己·死亡_cn.mp3"
+        },
+        {
+          "name": "关于我们·传说",
+          "text": "纳塔流传着很多英雄传说，其中我最喜欢的就是陶奥鲁大人的事迹，居然能以血肉之躯把深渊给封入地下，实在太厉害了！对了对了，你走过了那么多国家，一定也知道很多传说故事吧？我真的很好奇…有空的时候可以和我讲讲吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/7b2f2ed71431538f8500baf182b881bd_7425064377995713570.mp3",
+          "audioName": "16关于我们·传说_cn.mp3"
+        },
+        {
+          "name": "关于我们·小礼物",
+          "text": "来挑一个你喜欢的吧！作为我们是好朋友的证明。我能收集到的最好看、最闪亮的矿石全都在这里啦。如果你愿意选一颗收下的话，我会很开心的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a153ae2fec12f6195c5f3b1d8a84baa2_6882184506090727054.mp3",
+          "audioName": "17关于我们·小礼物_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "在我第一次看到这枚亮晶晶神之眼的时候，我还以为自己眼花了呢，它比我见过的任何一块石头都要闪亮。虽然我现在与那些传说中的英雄相比，还差得很远，但如果有一天，我的故事也能激励别人，哪怕只有一个人也好，那也会成为我最大的幸福…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/9369acd0d333daf6bf462d5caa754c15_7190682378949502775.mp3",
+          "audioName": "18关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "阿尤是我很重要的伙伴，别看它现在模样乖巧，它再小些的时候，表达喜欢的方式是冲过来用头撞人。它力气可大了，有时候我都会被它撞得摔倒。不过这也没办法嘛，毕竟嵴锋龙是一种很亲人的龙。哎呀，别撞我呀，阿尤，好好好，我不揭你短啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/415deb30d6e67cae641e19bd1e2df5ca_7668678534456869909.mp3",
+          "audioName": "19有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "澄晶实的果实形状就像宝石一样，如果它也能像宝石一样长时间存放就好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/18890788c1b0186277ff8a4b211f8838_7956610392847707012.mp3",
+          "audioName": "20感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于玛拉妮…",
+          "text": "玛拉妮是我的第一个好朋友。遇到她之前，我都不知道这个世界上有这么好的人，还有这么多好玩的事情。看，这是我们合影的画片。她说是要在合影时一起往上跳…你说我动作看着有点僵硬？嘿嘿…被你发现了…当时镜头外有很多人在看着我们，让我有点紧张…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a9f06a04b9c452345128ca82a8a1d030_2005233712732988765.mp3",
+          "audioName": "21关于玛拉妮…_cn.mp3"
+        },
+        {
+          "name": "关于基尼奇…",
+          "text": "基尼奇哥哥还是玛拉妮介绍给我认识的呢。不瞒你说，一开始我有点害怕他，因为他的眼神看起来…稍微有一点凶。我后来才知道，他私底下教训过欺负我的坏蛋。但在我送他回礼的时候，他又不肯收下，说是已经得到了足额的报酬…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/74a2664fa24704456e5f27d5ab618338_4372894773137126588.mp3",
+          "audioName": "22关于基尼奇…_cn.mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "她是纳塔有名的「调停人」，据说任何争斗都能被她轻松摆平。她会这么做，恐怕是像我一样，很讨厌人与人之间起什么冲突吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a97922241f8c7124a2d8757d40f93ea7_5270642570976279699.mp3",
+          "audioName": "23关于恰斯卡…_cn.mp3"
+        },
+        {
+          "name": "关于伊安珊…",
+          "text": "之前为了变强，我拜托伊安珊带我训练。她安排了各种各样高强度的锻炼方式，我常常需要咬紧牙关才能坚持下去。好在她给我安排的训练量非常精准，每次结束后都留出了供我走回家的体力…我还是很感谢她的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/3837ace11917318b8563a6944f927e5d_3987282207794796097.mp3",
+          "audioName": "24关于伊安珊…_cn.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "玛拉妮和我说了，你们能救出我，还多亏了她的发明。「灵觉髓石」坏掉了，我也有不可推脱的责任…后来我鼓起勇气去找她道歉了，并且让她在我收藏的石头里挑几块，她挠着头说：「这，我不挑一个是不是很麻烦啊。拿个差不多的我们就两清，是吧？」最后只拿走了最不起眼的一块黑曜石，就摆了摆手让我走了。你说，我要不要再帮她找点什么？她喜欢什么，你知道吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/08/02/50494840/a5316306448f8591c0cc35e18176a968_376336251765946431.mp3",
+          "audioName": "关于茜特菈莉…ch.mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "在我获得古名后，帕加尔叔叔带我去找了希诺宁姐姐，请她帮我打造了冲天转转，她的手艺简直出神入化。后来，我们交流过宝石收藏与存储的经验，还欣赏了彼此的珍品。她的收藏品状态非常好，肯定照顾得十分细致。但她自己的生活…似乎要更加随性？有一次我找了她很久都没找到，最后发现她在一棵大树上晒着太阳睡着了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/7d777641fbbc5495d3ad2d1eff810309_7800050834355310644.mp3",
+          "audioName": "26关于希诺宁…_cn.mp3"
+        },
+        {
+          "name": "关于火神大人…",
+          "text": "我做梦都想不到，居然有一天能被火神大人亲口认可为「纳塔的英雄」，火神大人是每一位纳塔战士的偶像，我…我得到了偶像的…呜…我一想起来就太感动了，呜呜呜…对不起，对不起对不起。不该在这时候哭的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e62e8bed93936b99c204964c0530bcc3_9191873133367996219.mp3",
+          "audioName": "27关于火神大人…_cn.mp3"
+        },
+        {
+          "name": "关于伊法…",
+          "text": "伊法哥哥是个很厉害的龙医生！凡是给他看过病的小龙，回来后都作息规律、不乱吃乱跑，几乎再没生过病啦。所以每当大家发现有龙身体不舒服，第一反应都是请他飞过来看一看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e26b6b0b02c411993cace5495af97e1b_4471145918754556126.mp3",
+          "audioName": "28关于伊法…_cn.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其一",
+          "text": "「乌沙博蒂」是我的古名，它的意思是坚强，唉，可很多时候我都想不明白为什么这个古名会给我。我那么弱小，不管是在家里，还是在部族里，存在感都不算高…有那么多优秀的人在身边，我真的有拥有它的资格吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/155020d84045c39ece23fa29fc4074bd_6700708820930351051.mp3",
+          "audioName": "29想要了解卡齐娜·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其二",
+          "text": "要说我家人的话…我在家中排行第二。我知道爸爸把期许主要寄托在了姐姐身上，而妈妈现在又要照顾年幼的妹妹。我们的生活有些辛苦，所以我需要管好自己，早点长大…至少让爸爸妈妈少操点心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/2f0116d55b3df560deb710e119366dfd_4339840078956679055.mp3",
+          "audioName": "30想要了解卡齐娜·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其三",
+          "text": "帕加尔叔叔待我很好。部族里其他人议论我的时候，他总会帮我说话。其实…他那样做，我心里反而过意不去。我只有靠自己的实力赢得大家认可才行啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/bae791bbecf24122f947fa4e836214fe_7929274410026917964.mp3",
+          "audioName": "31想要了解卡齐娜·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其四",
+          "text": "我一直知道，流泪并不能解决任何问题。传说故事里，我从来没听过有英雄会在大家面前哭啊。我很想忍住眼泪，但我总是失败…欸？你说没关系？流泪是一种很重要的发泄方式？你…你真的这么想吗？呜呜呜，谢谢你，呜…我怎么又哭了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/fca92336d8016f0e751272d09562949d_3754787265109034093.mp3",
+          "audioName": "32想要了解卡齐娜·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其五",
+          "text": "我之前一直觉得自己很弱小，被人忽视也是理所当然…但，听到大灵女士那番话之后，我不再那么想了。「乌沙博蒂」是我的古名，我…已经决定要变成更好的「自己」。这个世界上一定有我才能做到的事。我会…继续努力。希望这块黑曜石有朝一日也能容纳我的事迹，成为一颗…更加璀璨的宝石。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/81a15a332d998f76c90e532510d179ca_6739629659523844800.mp3",
+          "audioName": "33想要了解卡齐娜·其五_cn.mp3"
+        },
+        {
+          "name": "卡齐娜的爱好…",
+          "text": "这块是我第一次挖出来的宝石，翠绿翠绿的，很好看吧？最初它们是一对，另外一块我送给了玛拉妮，你看，它的花纹像流水一样。对了，还有这块，别看它是黑色的，但放在太阳下面就会有五彩斑斓的感觉…嘿嘿，这些全都是我一块一块收集起来的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a31459a6c239101c94e94a357aee4261_1841830414082865272.mp3",
+          "audioName": "34卡齐娜的爱好…_cn.mp3"
+        },
+        {
+          "name": "卡齐娜的烦恼…",
+          "text": "之前玛拉妮送了我一顶很大的帽子，太酷了，还能完美地遮住太阳，我真的好喜欢，但戴着戴着，它就成了一顶毡帽…后来我只能换成现在这顶不会粘毛的帽子了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/1b0a960f31508ff2ef6421ff56113da0_3082427636732587730.mp3",
+          "audioName": "35卡齐娜的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "粒果片片是我的最爱，要是能堆得整齐一点，那就更加完美了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/41e3dcc344e065f3c52de9e1b904be1b_6653936693231545339.mp3",
+          "audioName": "36喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "欸？分量这么大吗？但、但我吃不完的话，不就浪费了厨师的劳动成果吗？唔唔，没关系…我一定可以吃完的！小口小口慢慢吃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/b4907bbc0495ee8454798320485a6a10_4966245604518654960.mp3",
+          "audioName": "37讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇——真的是送给我的吗？太好吃了！我要慢慢吃，让美味停留得更久一点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/04ed79f8e2fbd05487654cdc31eace3d_7602755546685559284.mp3",
+          "audioName": "38收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "又香又好吃，摆盘也很精致。如果有「厨艺战争」的话，你一定会赢吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/411ab06b21b9a1d222341c7fcc029f7b_2797599923969769571.mp3",
+          "audioName": "39收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "谢谢你愿意为我花时间！我、我一定会吃完的，请再多给我一点时间。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/343a244f6cee3e0c32437ab0a1097113_142230311957165688.mp3",
+          "audioName": "40收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！这个送给你，是虹闪石雕成的鼠兔。虹闪石的触感温润，但在地下很不起眼，一不留神就会错过…不过带在身边久了，它的光泽就会越来越漂亮的。这是我最喜欢的宝石之一，希望你也喜欢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/6c0f2f16da32fd4da03b667b00719aa4_57796463472851330.mp3",
+          "audioName": "41生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我的耳朵在抖吗？不是紧张…而是开心。对不起，它们现在激动得不得了，我控制不住。我…我捂住它们吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/9e9b456dc0ff4e7b9da70760fc10492e_473956678869631181.mp3",
+          "audioName": "42突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "你真的非常重视我…呜…呃、我没有想哭的，就是太感动了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a04331821e89a945f24da6a1d1ac4199_945391758286096309.mp3",
+          "audioName": "43突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "「王庭焚弃，火却未曾殄熄。明晨它要再度燃起，比昨日更为辉熠。」这是陶奥鲁大人说过的话中，我最喜欢的一句。我，我必须要努力才行…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a9ead6b5e318d62df031bf79d8e2aac1_6184123891073920589.mp3",
+          "audioName": "44突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "你带我一起见识了种种新奇的事物，让我成长了很多，我不知道该怎么回报你才好…但这次我想自己找到答案。接下来就让我来当英雄吧，保护你的英雄！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/833417c96ddabd3ad9056b96d04f57a1_695770758435159267.mp3",
+          "audioName": "45突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "旋转！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/dde4bb6ec82def5ce49d46c1631d9604_7935649103791477284.mp3",
+          "audioName": "46元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "嘿——哟！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/8ce671ed365c2ddf13dd36aa80920800_2904094707729950107.mp3",
+          "audioName": "47元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "来咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/3eac1dcf7f6f5f64ff56030052e45073_729527513940161311.mp3",
+          "audioName": "48元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "开转咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/24d446b73248fc2e8c78e119a855e5c1_8232023539914249533.mp3",
+          "audioName": "49元素战技·其四_cn.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "冲地波！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c5194b7ed566bfd0343f844c65ea4eca_3314747763238852902.mp3",
+          "audioName": "50元素战技·其五_cn.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "冲天转转，出发！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/d1a36176040ca3b1f8395a99e599bdd2_2640616989851850524.mp3",
+          "audioName": "51元素战技·其六_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "清退！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/5e758d21f24a4898b64a051644063f02_8195110383168720164.mp3",
+          "audioName": "52元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "矿石采集。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/4d5b4c1c3e647540457ca56fca5e320d_9189186346175138290.mp3",
+          "audioName": "53元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "切勿靠近。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e2a27ffd90a7915e77d74aeffb9e41ff_5313542063202547033.mp3",
+          "audioName": "54元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "哇哇，有亮晶晶的石头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/ea6f33faa65bd77aee644863f7c677c7_7516671739425790185.mp3",
+          "audioName": "55打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "你也喜欢收集石头吗？我懂我懂，这些石头太好看了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/f5920ee94f4659eddcd4d44efe693d69_7695611680638592561.mp3",
+          "audioName": "56打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "需要帮忙整理吗？我很拿手！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/97b0cfc7f5690da2dbb8c441e7f5a611_4397064179203887902.mp3",
+          "audioName": "57打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "没事，小伤罢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/cb66d2b422cfcecc13ffd44ceb512f22_3643121617761028276.mp3",
+          "audioName": "58生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我要…振作起来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/3589a52416cac42e37713e353833dee2_5623172086809657604.mp3",
+          "audioName": "59生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我、我一定可以的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/b8c47f8cd7f824d665573a2451a51792_4056617631153594214.mp3",
+          "audioName": "60生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "不要忘了还有我呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/d5548b3b0f0def1bbeb979438b2c745f_2989918533026499750.mp3",
+          "audioName": "61同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我在！交给我吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/62c6ce27bb1d30abb4b3ce5bfd857582_6615039614254229659.mp3",
+          "audioName": "62同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "对不起，是我逞强了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/87c044284c519f65169ee1fd3f9f26fb_5409249215406273695.mp3",
+          "audioName": "63倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "不能愧对…「乌沙博蒂」…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/6bc9682f08195db4742af206d75aa762_7524057368204873769.mp3",
+          "audioName": "64倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "呜…又搞砸了吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/0d920b0256f98a78f9755dffe10a0452_289895348861719770.mp3",
+          "audioName": "65倒下·其三_cn.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "擦伤而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/6250a046b9310aa545ad410da2b69323_7604713975825977057.mp3",
+          "audioName": "66普通受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "唔，不要紧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a669e3b23aa61af8ab1c3fd89ba1c112_346017125262869119.mp3",
+          "audioName": "67重受击·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "呜哇？我可以参加吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/4e00e8384021a0470502bd9dc31045de_5217779978934003718.mp3",
+          "audioName": "68加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "太好了！一起动身吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a12a96c7682841f58ce95fa7d813728d_7769052175339172800.mp3",
+          "audioName": "69加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "又能向你学习战斗技巧了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a2254a90f8e9c48343fd97dda086faf9_4993885611965038488.mp3",
+          "audioName": "70加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好呀，我是「回声之子」的卡齐娜。喜欢吃颗粒果，想要变强，不擅长打架。啊…不是说这些的时候？那、那…请问你接下来想去哪里走走？我挺熟悉这一带的，就让我来带路吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/f3d722a341e8125de639297b64015a9c_2247798677490321518.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·整理癖",
+          "text": "啊…我刚刚发现有块砖没有堆整齐。怎么办？现在感觉心里有只小龙在不停地挠啊挠。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c0490a05f6f8b44cd53645a22b59743a_362110214175475025.mp3",
+          "audioName": "02闲聊·整理癖_jp.mp3"
+        },
+        {
+          "name": "闲聊·行不行",
+          "text": "我可以、我不行、我可以、我…唔唔，没事的，我可以的，一定没问题的…对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c634a1d9916a6256d515041079aab87e_4183264631758477623.mp3",
+          "audioName": "03闲聊·行不行_jp.mp3"
+        },
+        {
+          "name": "闲聊·收藏品",
+          "text": "无聊的话，要不要一起来看看我包里的收藏？看上什么拿走也没关系哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/41bffa90397eb3a116c511ecd4d4c2b0_8725996400750231270.mp3",
+          "audioName": "04闲聊·收藏品_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨水会让泥土变得松软，所以雨天挖矿一定要比平时更加更加小心哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c74e4e4757c3bcaeeb57d5fc6196e8ee_2045947295921758782.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "呀——啊…我、我不是害怕，只是被吓了一跳而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/f1b555a804c59262559f9c52330648e4_1776648784167003707.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "我们一起去雪地上打滚吧，嘿嘿。你放心，我不会像阿尤一样，钻到雪里又突然冒出来吓你的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/aeb532c9426ceefa6fe2d8d8db13b706_9146605132153880042.mp3",
+          "audioName": "07下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "快看这块宝石！在太阳的照射下，它里面好像藏着彩虹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/d810cd0a4f87e0414ef75a38964c47b0_4827894264649642539.mp3",
+          "audioName": "08阳光很好…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "这下面会不会藏着金闪闪的矿石？要不要挖挖看？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a611e5f3ac94e24e71f9c3b87ee2a8f9_1137281050015410633.mp3",
+          "audioName": "09在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早呀，我已经整理好背包啦，我们随时可以出发。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/617a92a3ec42481974e9985007b0d460_8497571775025489086.mp3",
+          "audioName": "10早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "我不困，但如果你想午睡一会儿的话，我可以帮你望风。虽然我有许多不擅长的事情，但…我的耳朵还算灵敏。远处的风吹草动，我都能感觉到。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/77cd3c4e95dbad5f22a2adc994b97993_4949699817563139569.mp3",
+          "audioName": "11中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "玛拉妮邀请我晚上去山洞试胆，我我我，好紧张，怎么办？我不想拒绝朋友，就…就闭上眼睛答应了…不、不管发生什么事情，我都应该和她一起面对。欸？你也一起来吗？太、太好了！呜…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/1519fe5a2d9e5f48fa1f071b047a6ef0_3995291442190810863.mp3",
+          "audioName": "12晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "今天怎么又把事情给搞砸了，呜呜呜…怎么办，明明不想哭的，但眼泪完全停不下来了，呜呜…噫——，刚、刚刚我们不是互相说了晚安，要去睡觉了吗？但谢谢你安慰我…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/06425facd533276508ef033ff58fa5e3_758090724570218760.mp3",
+          "audioName": "13晚安…_jp.mp3"
+        },
+        {
+          "name": "关于卡齐娜自己·冲天转转",
+          "text": "这个名字是我和阿尤一起取的。我先想好了前半部分，又根据阿尤的动作定下了后半。我常常会乘着它和阿尤比赛跑步，我们各有输赢呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/ac5dec992d996273a502a6ae83c69778_6894288857200990353.mp3",
+          "audioName": "14关于卡齐娜自己·冲天转转_jp.mp3"
+        },
+        {
+          "name": "关于卡齐娜自己·死亡",
+          "text": "能在「巡夜者战争」中死去，对纳塔战士们来说是一种荣光，身为其中一员的我也不该例外…但当时我一边这样告诉自己，一边在心里害怕得要命…你们冒着巨大的危险从夜神之国把我带回来，我真的非常感激！呜呜，谢谢你们每个人…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/0cc2fdd2541dc451e8008c6a0776ce7d_5652446604348123143.mp3",
+          "audioName": "15关于卡齐娜自己·死亡_jp.mp3"
+        },
+        {
+          "name": "关于我们·传说",
+          "text": "纳塔流传着很多英雄传说，其中我最喜欢的就是陶奥鲁大人的事迹，居然能以血肉之躯把深渊给封入地下，实在太厉害了！对了对了，你走过了那么多国家，一定也知道很多传说故事吧？我真的很好奇…有空的时候可以和我讲讲吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/18350ccdfca431e0deff2b9f30768a0b_1541572857951981472.mp3",
+          "audioName": "16关于我们·传说_jp.mp3"
+        },
+        {
+          "name": "关于我们·小礼物",
+          "text": "来挑一个你喜欢的吧！作为我们是好朋友的证明。我能收集到的最好看、最闪亮的矿石全都在这里啦。如果你愿意选一颗收下的话，我会很开心的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/ae60663c1a9088e3e8f56683f4df98bd_898804668989929888.mp3",
+          "audioName": "17关于我们·小礼物_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "在我第一次看到这枚亮晶晶神之眼的时候，我还以为自己眼花了呢，它比我见过的任何一块石头都要闪亮。虽然我现在与那些传说中的英雄相比，还差得很远，但如果有一天，我的故事也能激励别人，哪怕只有一个人也好，那也会成为我最大的幸福…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/36f59feaa15d9b2474fecba2f1ba20c5_229354511957250967.mp3",
+          "audioName": "18关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "阿尤是我很重要的伙伴，别看它现在模样乖巧，它再小些的时候，表达喜欢的方式是冲过来用头撞人。它力气可大了，有时候我都会被它撞得摔倒。不过这也没办法嘛，毕竟嵴锋龙是一种很亲人的龙。哎呀，别撞我呀，阿尤，好好好，我不揭你短啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c995f97bf188cab8d587e4332c51d65f_3579076204334961380.mp3",
+          "audioName": "19有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "澄晶实的果实形状就像宝石一样，如果它也能像宝石一样长时间存放就好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e126424ba9eb85754b4f1cb858eb8908_2216925605176346510.mp3",
+          "audioName": "20感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于玛拉妮…",
+          "text": "玛拉妮是我的第一个好朋友。遇到她之前，我都不知道这个世界上有这么好的人，还有这么多好玩的事情。看，这是我们合影的画片。她说是要在合影时一起往上跳…你说我动作看着有点僵硬？嘿嘿…被你发现了…当时镜头外有很多人在看着我们，让我有点紧张…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/618034ffac053bbe5c89d407edf17025_9054453866613577565.mp3",
+          "audioName": "21关于玛拉妮…_jp.mp3"
+        },
+        {
+          "name": "关于基尼奇…",
+          "text": "基尼奇哥哥还是玛拉妮介绍给我认识的呢。不瞒你说，一开始我有点害怕他，因为他的眼神看起来…稍微有一点凶。我后来才知道，他私底下教训过欺负我的坏蛋。但在我送他回礼的时候，他又不肯收下，说是已经得到了足额的报酬…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/7a4d1196feb0cbaee30e643b2a6bdb88_666529172289335088.mp3",
+          "audioName": "22关于基尼奇…_jp.mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "她是纳塔有名的「调停人」，据说任何争斗都能被她轻松摆平。她会这么做，恐怕是像我一样，很讨厌人与人之间起什么冲突吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/56aa35b99fa439e578d0c0ce42e770fc_820935724459643132.mp3",
+          "audioName": "23关于恰斯卡…_jp.mp3"
+        },
+        {
+          "name": "关于伊安珊…",
+          "text": "之前为了变强，我拜托伊安珊带我训练。她安排了各种各样高强度的锻炼方式，我常常需要咬紧牙关才能坚持下去。好在她给我安排的训练量非常精准，每次结束后都留出了供我走回家的体力…我还是很感谢她的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/2788f7c8ea3360f95425420b25570eb3_653785839999437692.mp3",
+          "audioName": "24关于伊安珊…_jp.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "玛拉妮和我说了，你们能救出我，还多亏了她的发明。「灵觉髓石」坏掉了，我也有不可推脱的责任…后来我鼓起勇气去找她道歉了，并且让她在我收藏的石头里挑几块，她挠着头说：「这，我不挑一个是不是很麻烦啊。拿个差不多的我们就两清，是吧？」最后只拿走了最不起眼的一块黑曜石，就摆了摆手让我走了。你说，我要不要再帮她找点什么？她喜欢什么，你知道吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/08/02/50494840/6f7f6ccb37570d5f212f3a3c24f9894d_2495825931042606191.mp3",
+          "audioName": "关于茜特菈莉…jp.mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "在我获得古名后，帕加尔叔叔带我去找了希诺宁姐姐，请她帮我打造了冲天转转，她的手艺简直出神入化。后来，我们交流过宝石收藏与存储的经验，还欣赏了彼此的珍品。她的收藏品状态非常好，肯定照顾得十分细致。但她自己的生活…似乎要更加随性？有一次我找了她很久都没找到，最后发现她在一棵大树上晒着太阳睡着了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/bda2895081972429576ece599c86f941_605322706460525298.mp3",
+          "audioName": "26关于希诺宁…_jp.mp3"
+        },
+        {
+          "name": "关于火神大人…",
+          "text": "我做梦都想不到，居然有一天能被火神大人亲口认可为「纳塔的英雄」，火神大人是每一位纳塔战士的偶像，我…我得到了偶像的…呜…我一想起来就太感动了，呜呜呜…对不起，对不起对不起。不该在这时候哭的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/29df53f1733eb63b9ea86a78801d2e1e_1710914695312918218.mp3",
+          "audioName": "27关于火神大人…_jp.mp3"
+        },
+        {
+          "name": "关于伊法…",
+          "text": "伊法哥哥是个很厉害的龙医生！凡是给他看过病的小龙，回来后都作息规律、不乱吃乱跑，几乎再没生过病啦。所以每当大家发现有龙身体不舒服，第一反应都是请他飞过来看一看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e52747b6084765b963d9ff48a7e740ec_1209503754495740799.mp3",
+          "audioName": "28关于伊法…_jp.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其一",
+          "text": "「乌沙博蒂」是我的古名，它的意思是坚强，唉，可很多时候我都想不明白为什么这个古名会给我。我那么弱小，不管是在家里，还是在部族里，存在感都不算高…有那么多优秀的人在身边，我真的有拥有它的资格吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/9a054cbb99b2ad82aa4702c61e1a47c3_8807043264388722095.mp3",
+          "audioName": "29想要了解卡齐娜·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其二",
+          "text": "要说我家人的话…我在家中排行第二。我知道爸爸把期许主要寄托在了姐姐身上，而妈妈现在又要照顾年幼的妹妹。我们的生活有些辛苦，所以我需要管好自己，早点长大…至少让爸爸妈妈少操点心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/aedf626bc0533482efb3550965860f7d_8152488062337210632.mp3",
+          "audioName": "30想要了解卡齐娜·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其三",
+          "text": "帕加尔叔叔待我很好。部族里其他人议论我的时候，他总会帮我说话。其实…他那样做，我心里反而过意不去。我只有靠自己的实力赢得大家认可才行啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/1298e5a677fda93fac01f3982847efb0_2191547927460269617.mp3",
+          "audioName": "31想要了解卡齐娜·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其四",
+          "text": "我一直知道，流泪并不能解决任何问题。传说故事里，我从来没听过有英雄会在大家面前哭啊。我很想忍住眼泪，但我总是失败…欸？你说没关系？流泪是一种很重要的发泄方式？你…你真的这么想吗？呜呜呜，谢谢你，呜…我怎么又哭了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/f967badfb5b687fcf7a7a57dd5cf4406_8777060674266852117.mp3",
+          "audioName": "32想要了解卡齐娜·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其五",
+          "text": "我之前一直觉得自己很弱小，被人忽视也是理所当然…但，听到大灵女士那番话之后，我不再那么想了。「乌沙博蒂」是我的古名，我…已经决定要变成更好的「自己」。这个世界上一定有我才能做到的事。我会…继续努力。希望这块黑曜石有朝一日也能容纳我的事迹，成为一颗…更加璀璨的宝石。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/ca75272ecbfae7fa481d7a73fbca8e2c_2913715808196338165.mp3",
+          "audioName": "33想要了解卡齐娜·其五_jp.mp3"
+        },
+        {
+          "name": "卡齐娜的爱好…",
+          "text": "这块是我第一次挖出来的宝石，翠绿翠绿的，很好看吧？最初它们是一对，另外一块我送给了玛拉妮，你看，它的花纹像流水一样。对了，还有这块，别看它是黑色的，但放在太阳下面就会有五彩斑斓的感觉…嘿嘿，这些全都是我一块一块收集起来的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/b8c1099af31c7c87d1884468bf99154e_9107087857712955673.mp3",
+          "audioName": "34卡齐娜的爱好…_jp.mp3"
+        },
+        {
+          "name": "卡齐娜的烦恼…",
+          "text": "之前玛拉妮送了我一顶很大的帽子，太酷了，还能完美地遮住太阳，我真的好喜欢，但戴着戴着，它就成了一顶毡帽…后来我只能换成现在这顶不会粘毛的帽子了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/26118439d85dc28c2f059bf1962dddf0_6934951060030240573.mp3",
+          "audioName": "35卡齐娜的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "粒果片片是我的最爱，要是能堆得整齐一点，那就更加完美了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/b5b5fafb578739163236b964eaab7b82_1005709308312736951.mp3",
+          "audioName": "36喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "欸？分量这么大吗？但、但我吃不完的话，不就浪费了厨师的劳动成果吗？唔唔，没关系…我一定可以吃完的！小口小口慢慢吃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/92b63327ae8a6e46b4066b1326b807a3_6880983582933072085.mp3",
+          "audioName": "37讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇——真的是送给我的吗？太好吃了！我要慢慢吃，让美味停留得更久一点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/499b25d91357fc1d67ea432f484415b8_4184173184845758995.mp3",
+          "audioName": "38收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "又香又好吃，摆盘也很精致。如果有「厨艺战争」的话，你一定会赢吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/1ea7d306be178854fb61fdab49b35722_6722376231944134803.mp3",
+          "audioName": "39收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "谢谢你愿意为我花时间！我、我一定会吃完的，请再多给我一点时间。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/998738b8f4d39b3f9ca7c45e71c33db1_5815607855676035298.mp3",
+          "audioName": "40收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！这个送给你，是虹闪石雕成的鼠兔。虹闪石的触感温润，但在地下很不起眼，一不留神就会错过…不过带在身边久了，它的光泽就会越来越漂亮的。这是我最喜欢的宝石之一，希望你也喜欢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/292f03e2b01e262716ff2c932c01e2a8_8129914585768351527.mp3",
+          "audioName": "41生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我的耳朵在抖吗？不是紧张…而是开心。对不起，它们现在激动得不得了，我控制不住。我…我捂住它们吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e68543fc207048c042efd8aecbf8ca2f_4216445147651046704.mp3",
+          "audioName": "42突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "你真的非常重视我…呜…呃、我没有想哭的，就是太感动了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/7f2883350d901dae7a0479fbda326413_337545786976866166.mp3",
+          "audioName": "43突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "「王庭焚弃，火却未曾殄熄。明晨它要再度燃起，比昨日更为辉熠。」这是陶奥鲁大人说过的话中，我最喜欢的一句。我，我必须要努力才行…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/554b4810751eda4816d44b5509bf8cf1_8302503105558014551.mp3",
+          "audioName": "44突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "你带我一起见识了种种新奇的事物，让我成长了很多，我不知道该怎么回报你才好…但这次我想自己找到答案。接下来就让我来当英雄吧，保护你的英雄！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/98426daa12aee545fa1639e215d21034_2700908206782933296.mp3",
+          "audioName": "45突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "旋转！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/bcebadc56de22821e8c501886a8b88f4_8769033615323654792.mp3",
+          "audioName": "46元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "嘿——哟！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/190f2b1543d3f359000db4bbdfcef370_5130110691053357155.mp3",
+          "audioName": "47元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "来咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/9efef00746ff3c8c6f5b4b0441405b61_8751305472413353366.mp3",
+          "audioName": "48元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "开转咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c97a5dd97f84d3af15d81f2fb9410548_8900650553658271390.mp3",
+          "audioName": "49元素战技·其四_jp.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "冲地波！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a522812f78be39851653944abac093d3_347712070181250227.mp3",
+          "audioName": "50元素战技·其五_jp.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "冲天转转，出发！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/1c34fd814881baef3f3e0d8ac3e3cd6f_5532606581478010986.mp3",
+          "audioName": "51元素战技·其六_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "清退！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/548f4e364bc14dda66abc53765d86757_1005964269539685827.mp3",
+          "audioName": "52元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "矿石采集。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/6d984cacf62fef22e6299e5778854c41_846731569647063975.mp3",
+          "audioName": "53元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "切勿靠近。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/d82cb0d3ca6d333975c69611b91ba097_3538173381918515893.mp3",
+          "audioName": "54元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "哇哇，有亮晶晶的石头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/06392970caa49da34f1cdba1b3559a87_7698587552732392240.mp3",
+          "audioName": "55打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "你也喜欢收集石头吗？我懂我懂，这些石头太好看了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a2b6a2c845f6d762251174b2906740fe_7240503305854958371.mp3",
+          "audioName": "56打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "需要帮忙整理吗？我很拿手！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/59ec1bea4e02a0e9de2e22f6d522379a_3120471222701459039.mp3",
+          "audioName": "57打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "没事，小伤罢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/da74f1ad0450011bda969d3df5c834a0_7286685029572801867.mp3",
+          "audioName": "58生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我要…振作起来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/17a107f5781d5d568be1869b099d7216_1251079075758517866.mp3",
+          "audioName": "59生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我、我一定可以的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/12cc5e7b028b086e38f47b837b6e4fe9_6810862254723662603.mp3",
+          "audioName": "60生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "不要忘了还有我呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/b11ea485bf37298242e9b3c1e61896df_4490827954068112680.mp3",
+          "audioName": "61同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我在！交给我吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a44565b75b8360c7f80b131daccaa327_5989030104315683624.mp3",
+          "audioName": "62同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "对不起，是我逞强了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/74c84c7d34b1f07d06370dc0ff6e5e29_7544889460239813704.mp3",
+          "audioName": "63倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "不能愧对…「乌沙博蒂」…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/398395280eb98f20821e3841060b1c0e_7128127815229009105.mp3",
+          "audioName": "64倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "呜…又搞砸了吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/1b19e95ab115d18cbe0cf0f9453388a4_7511057326859721009.mp3",
+          "audioName": "65倒下·其三_jp.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "擦伤而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/19c7af9ab94953907ea79b7276925909_4717341234269575141.mp3",
+          "audioName": "66普通受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "唔，不要紧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/55921e8d7eb6a600c4dc6b9affa19f82_8315743400951298628.mp3",
+          "audioName": "67重受击·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "呜哇？我可以参加吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/40f42b322bafa76285c0381e5fcd66ae_4013120683561428040.mp3",
+          "audioName": "68加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "太好了！一起动身吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/bfc274899c02197fc8a42bd713414734_8468261525465589188.mp3",
+          "audioName": "69加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "又能向你学习战斗技巧了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/acd823e99a684b91e5a77fcce68f2c68_6358337704793253641.mp3",
+          "audioName": "70加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好呀，我是「回声之子」的卡齐娜。喜欢吃颗粒果，想要变强，不擅长打架。啊…不是说这些的时候？那、那…请问你接下来想去哪里走走？我挺熟悉这一带的，就让我来带路吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c426085b849ea459fd4de1bd6b114da9_3000821436525944866.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·整理癖",
+          "text": "啊…我刚刚发现有块砖没有堆整齐。怎么办？现在感觉心里有只小龙在不停地挠啊挠。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/23893498a5027f51831ffbe8b41d0577_5410721383761306894.mp3",
+          "audioName": "02闲聊·整理癖_en.mp3"
+        },
+        {
+          "name": "闲聊·行不行",
+          "text": "我可以、我不行、我可以、我…唔唔，没事的，我可以的，一定没问题的…对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/35378a3c579e6d9c20abd2a2718b9336_1887737149226924928.mp3",
+          "audioName": "03闲聊·行不行_en.mp3"
+        },
+        {
+          "name": "闲聊·收藏品",
+          "text": "无聊的话，要不要一起来看看我包里的收藏？看上什么拿走也没关系哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/f8d09556984b00e4f3b6dfc2c1fdfa64_4568570431736295845.mp3",
+          "audioName": "04闲聊·收藏品_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨水会让泥土变得松软，所以雨天挖矿一定要比平时更加更加小心哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/25f9abc697f1073049da34a71756ded5_1043211025867085423.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "呀——啊…我、我不是害怕，只是被吓了一跳而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/cf5a3d09d79556c01113a6a1c346eab0_2055247532725691530.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "我们一起去雪地上打滚吧，嘿嘿。你放心，我不会像阿尤一样，钻到雪里又突然冒出来吓你的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/4dfd8801e113ae45d3811a6a588e4b58_8300903440736755358.mp3",
+          "audioName": "07下雪的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "快看这块宝石！在太阳的照射下，它里面好像藏着彩虹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/cc3de5c1f88c9c277d4eb096827fe263_6602168352415418208.mp3",
+          "audioName": "08阳光很好…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "这下面会不会藏着金闪闪的矿石？要不要挖挖看？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/5802b97be3e13c03500da09bf575cb9f_22184123115511965.mp3",
+          "audioName": "09在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早呀，我已经整理好背包啦，我们随时可以出发。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/5e0a1732ba91575019c336297cf90dcb_4942804968389302715.mp3",
+          "audioName": "10早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "我不困，但如果你想午睡一会儿的话，我可以帮你望风。虽然我有许多不擅长的事情，但…我的耳朵还算灵敏。远处的风吹草动，我都能感觉到。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/78bb3ed1342655069678c9521f24319e_4138369876963913048.mp3",
+          "audioName": "11中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "玛拉妮邀请我晚上去山洞试胆，我我我，好紧张，怎么办？我不想拒绝朋友，就…就闭上眼睛答应了…不、不管发生什么事情，我都应该和她一起面对。欸？你也一起来吗？太、太好了！呜…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/595ccc44362f86abe6344305c4368394_1101574832926310535.mp3",
+          "audioName": "12晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "今天怎么又把事情给搞砸了，呜呜呜…怎么办，明明不想哭的，但眼泪完全停不下来了，呜呜…噫——，刚、刚刚我们不是互相说了晚安，要去睡觉了吗？但谢谢你安慰我…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/43c503ad1b1657c5def6acd8e7367ac7_7098345804068485254.mp3",
+          "audioName": "13晚安…_en.mp3"
+        },
+        {
+          "name": "关于卡齐娜自己·冲天转转",
+          "text": "这个名字是我和阿尤一起取的。我先想好了前半部分，又根据阿尤的动作定下了后半。我常常会乘着它和阿尤比赛跑步，我们各有输赢呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/6ea1bdea537607153a0370cc998456e4_2686293473158335134.mp3",
+          "audioName": "14关于卡齐娜自己·冲天转转_en.mp3"
+        },
+        {
+          "name": "关于卡齐娜自己·死亡",
+          "text": "能在「巡夜者战争」中死去，对纳塔战士们来说是一种荣光，身为其中一员的我也不该例外…但当时我一边这样告诉自己，一边在心里害怕得要命…你们冒着巨大的危险从夜神之国把我带回来，我真的非常感激！呜呜，谢谢你们每个人…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/fe50d0d154c249a08a6f9e71bb70a9c4_5233122880995719156.mp3",
+          "audioName": "15关于卡齐娜自己·死亡_en.mp3"
+        },
+        {
+          "name": "关于我们·传说",
+          "text": "纳塔流传着很多英雄传说，其中我最喜欢的就是陶奥鲁大人的事迹，居然能以血肉之躯把深渊给封入地下，实在太厉害了！对了对了，你走过了那么多国家，一定也知道很多传说故事吧？我真的很好奇…有空的时候可以和我讲讲吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a328564a29fc41833d6ac2ac0f746788_953247379708067435.mp3",
+          "audioName": "16关于我们·传说_en.mp3"
+        },
+        {
+          "name": "关于我们·小礼物",
+          "text": "来挑一个你喜欢的吧！作为我们是好朋友的证明。我能收集到的最好看、最闪亮的矿石全都在这里啦。如果你愿意选一颗收下的话，我会很开心的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e998f2a07b523dbc9fd550b884dcfb4f_4603716404919196666.mp3",
+          "audioName": "17关于我们·小礼物_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "在我第一次看到这枚亮晶晶神之眼的时候，我还以为自己眼花了呢，它比我见过的任何一块石头都要闪亮。虽然我现在与那些传说中的英雄相比，还差得很远，但如果有一天，我的故事也能激励别人，哪怕只有一个人也好，那也会成为我最大的幸福…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/77556dff6d4b9a74514181fea43921f0_2536254742943223465.mp3",
+          "audioName": "18关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "阿尤是我很重要的伙伴，别看它现在模样乖巧，它再小些的时候，表达喜欢的方式是冲过来用头撞人。它力气可大了，有时候我都会被它撞得摔倒。不过这也没办法嘛，毕竟嵴锋龙是一种很亲人的龙。哎呀，别撞我呀，阿尤，好好好，我不揭你短啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/3baf66d5658970ea6c1242e0f29a4b9d_6385846467795633816.mp3",
+          "audioName": "19有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "澄晶实的果实形状就像宝石一样，如果它也能像宝石一样长时间存放就好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/767fdf7bd1bc27f3a12eaeb161b993e6_1233874150736152715.mp3",
+          "audioName": "20感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于玛拉妮…",
+          "text": "玛拉妮是我的第一个好朋友。遇到她之前，我都不知道这个世界上有这么好的人，还有这么多好玩的事情。看，这是我们合影的画片。她说是要在合影时一起往上跳…你说我动作看着有点僵硬？嘿嘿…被你发现了…当时镜头外有很多人在看着我们，让我有点紧张…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/4f7bedc424ff28f79bac483067fbcbf1_5521633491293059958.mp3",
+          "audioName": "21关于玛拉妮…_en.mp3"
+        },
+        {
+          "name": "关于基尼奇…",
+          "text": "基尼奇哥哥还是玛拉妮介绍给我认识的呢。不瞒你说，一开始我有点害怕他，因为他的眼神看起来…稍微有一点凶。我后来才知道，他私底下教训过欺负我的坏蛋。但在我送他回礼的时候，他又不肯收下，说是已经得到了足额的报酬…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/ca8945026471734c4c99e7efd50ad5ad_5099773818383332510.mp3",
+          "audioName": "22关于基尼奇…_en.mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "她是纳塔有名的「调停人」，据说任何争斗都能被她轻松摆平。她会这么做，恐怕是像我一样，很讨厌人与人之间起什么冲突吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/fc0c21e02eae33f3c0ac63481df89a68_3520616209579389425.mp3",
+          "audioName": "23关于恰斯卡…_en.mp3"
+        },
+        {
+          "name": "关于伊安珊…",
+          "text": "之前为了变强，我拜托伊安珊带我训练。她安排了各种各样高强度的锻炼方式，我常常需要咬紧牙关才能坚持下去。好在她给我安排的训练量非常精准，每次结束后都留出了供我走回家的体力…我还是很感谢她的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/cefe49efcadd330a0ec0acf63a5921ca_1854623142566418839.mp3",
+          "audioName": "24关于伊安珊…_en.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "玛拉妮和我说了，你们能救出我，还多亏了她的发明。「灵觉髓石」坏掉了，我也有不可推脱的责任…后来我鼓起勇气去找她道歉了，并且让她在我收藏的石头里挑几块，她挠着头说：「这，我不挑一个是不是很麻烦啊。拿个差不多的我们就两清，是吧？」最后只拿走了最不起眼的一块黑曜石，就摆了摆手让我走了。你说，我要不要再帮她找点什么？她喜欢什么，你知道吗？",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "在我获得古名后，帕加尔叔叔带我去找了希诺宁姐姐，请她帮我打造了冲天转转，她的手艺简直出神入化。后来，我们交流过宝石收藏与存储的经验，还欣赏了彼此的珍品。她的收藏品状态非常好，肯定照顾得十分细致。但她自己的生活…似乎要更加随性？有一次我找了她很久都没找到，最后发现她在一棵大树上晒着太阳睡着了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/87540a1b2459b61d8b4bd8514bf46b31_2268329046649612858.mp3",
+          "audioName": "26关于希诺宁…_en.mp3"
+        },
+        {
+          "name": "关于火神大人…",
+          "text": "我做梦都想不到，居然有一天能被火神大人亲口认可为「纳塔的英雄」，火神大人是每一位纳塔战士的偶像，我…我得到了偶像的…呜…我一想起来就太感动了，呜呜呜…对不起，对不起对不起。不该在这时候哭的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c1a1ba51da59c1178824de3eb27d5df2_4825406555512575782.mp3",
+          "audioName": "27关于火神大人…_en.mp3"
+        },
+        {
+          "name": "关于伊法…",
+          "text": "伊法哥哥是个很厉害的龙医生！凡是给他看过病的小龙，回来后都作息规律、不乱吃乱跑，几乎再没生过病啦。所以每当大家发现有龙身体不舒服，第一反应都是请他飞过来看一看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c9df345aa3317005cf292daadd4e8b24_5470763432040537917.mp3",
+          "audioName": "28关于伊法…_en.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其一",
+          "text": "「乌沙博蒂」是我的古名，它的意思是坚强，唉，可很多时候我都想不明白为什么这个古名会给我。我那么弱小，不管是在家里，还是在部族里，存在感都不算高…有那么多优秀的人在身边，我真的有拥有它的资格吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c460bd1b56abddaa445cc63e53530565_5588465945564731434.mp3",
+          "audioName": "29想要了解卡齐娜·其一_en.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其二",
+          "text": "要说我家人的话…我在家中排行第二。我知道爸爸把期许主要寄托在了姐姐身上，而妈妈现在又要照顾年幼的妹妹。我们的生活有些辛苦，所以我需要管好自己，早点长大…至少让爸爸妈妈少操点心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/2d41d9b39ad8aeeb0cff007fef32c3e7_6097971666678842009.mp3",
+          "audioName": "30想要了解卡齐娜·其二_en.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其三",
+          "text": "帕加尔叔叔待我很好。部族里其他人议论我的时候，他总会帮我说话。其实…他那样做，我心里反而过意不去。我只有靠自己的实力赢得大家认可才行啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/4539156c4fd3977de4065b680e9b2a84_4452955404772448104.mp3",
+          "audioName": "31想要了解卡齐娜·其三_en.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其四",
+          "text": "我一直知道，流泪并不能解决任何问题。传说故事里，我从来没听过有英雄会在大家面前哭啊。我很想忍住眼泪，但我总是失败…欸？你说没关系？流泪是一种很重要的发泄方式？你…你真的这么想吗？呜呜呜，谢谢你，呜…我怎么又哭了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/03b3f8540b63f656b3b503f34cbaa903_394455663265091921.mp3",
+          "audioName": "32想要了解卡齐娜·其四_en.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其五",
+          "text": "我之前一直觉得自己很弱小，被人忽视也是理所当然…但，听到大灵女士那番话之后，我不再那么想了。「乌沙博蒂」是我的古名，我…已经决定要变成更好的「自己」。这个世界上一定有我才能做到的事。我会…继续努力。希望这块黑曜石有朝一日也能容纳我的事迹，成为一颗…更加璀璨的宝石。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a3c3c2edbd5ffe6e2998b18b3ea4832e_2543145297275008043.mp3",
+          "audioName": "33想要了解卡齐娜·其五_en.mp3"
+        },
+        {
+          "name": "卡齐娜的爱好…",
+          "text": "这块是我第一次挖出来的宝石，翠绿翠绿的，很好看吧？最初它们是一对，另外一块我送给了玛拉妮，你看，它的花纹像流水一样。对了，还有这块，别看它是黑色的，但放在太阳下面就会有五彩斑斓的感觉…嘿嘿，这些全都是我一块一块收集起来的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/5bdf7ed4dd74034fc0100eb2610aaa06_8955783330858165588.mp3",
+          "audioName": "34卡齐娜的爱好…_en.mp3"
+        },
+        {
+          "name": "卡齐娜的烦恼…",
+          "text": "之前玛拉妮送了我一顶很大的帽子，太酷了，还能完美地遮住太阳，我真的好喜欢，但戴着戴着，它就成了一顶毡帽…后来我只能换成现在这顶不会粘毛的帽子了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/630bf6831f8506817cd99c1ba689d30f_1521128212422401477.mp3",
+          "audioName": "35卡齐娜的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "粒果片片是我的最爱，要是能堆得整齐一点，那就更加完美了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/432accd78879b7a8546f5bddb4d9e957_7954444260063865082.mp3",
+          "audioName": "36喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "欸？分量这么大吗？但、但我吃不完的话，不就浪费了厨师的劳动成果吗？唔唔，没关系…我一定可以吃完的！小口小口慢慢吃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/48141469207fb465366cc68344f0be24_1748318318349848182.mp3",
+          "audioName": "37讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇——真的是送给我的吗？太好吃了！我要慢慢吃，让美味停留得更久一点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/0ee943136f85b6e2c78cd43b3d13fcc6_6352996334682800477.mp3",
+          "audioName": "38收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "又香又好吃，摆盘也很精致。如果有「厨艺战争」的话，你一定会赢吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/f96ec11ea390e0dbbaa3922386286ab2_5414173972729795657.mp3",
+          "audioName": "39收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "谢谢你愿意为我花时间！我、我一定会吃完的，请再多给我一点时间。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/2634782945fd92ac5dc96b3ea4fbdcc7_530710025877982669.mp3",
+          "audioName": "40收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！这个送给你，是虹闪石雕成的鼠兔。虹闪石的触感温润，但在地下很不起眼，一不留神就会错过…不过带在身边久了，它的光泽就会越来越漂亮的。这是我最喜欢的宝石之一，希望你也喜欢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/29bec06e2a68a47354b77a798d282787_5332900399364881449.mp3",
+          "audioName": "41生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我的耳朵在抖吗？不是紧张…而是开心。对不起，它们现在激动得不得了，我控制不住。我…我捂住它们吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/9d2370a053f77a7377e462fd8ee7df20_8334398258855559506.mp3",
+          "audioName": "42突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "你真的非常重视我…呜…呃、我没有想哭的，就是太感动了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e6a616d223b6272e88855bc8896172e8_8137112437778188626.mp3",
+          "audioName": "43突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "「王庭焚弃，火却未曾殄熄。明晨它要再度燃起，比昨日更为辉熠。」这是陶奥鲁大人说过的话中，我最喜欢的一句。我，我必须要努力才行…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/9ff1a90c914bac92f037a88d007cb04a_723723228654559829.mp3",
+          "audioName": "44突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "你带我一起见识了种种新奇的事物，让我成长了很多，我不知道该怎么回报你才好…但这次我想自己找到答案。接下来就让我来当英雄吧，保护你的英雄！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e7ce3de8c71849618fb54b3cb0f2b74f_2665579145180063168.mp3",
+          "audioName": "45突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "旋转！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a30e17cd41b8154efa62bda0a87bd808_3489581435187322827.mp3",
+          "audioName": "46元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "嘿——哟！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e7e735766ecab0b043910e4019b7cce1_4138263715969065744.mp3",
+          "audioName": "47元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "来咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/ab937d0da3c574c258566dee01c05970_6330408727573916298.mp3",
+          "audioName": "48元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "开转咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/8d48f943fec4521f274673ab4c36700f_58132798473705434.mp3",
+          "audioName": "49元素战技·其四_en.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "冲地波！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a9d12eb0bb91e67c594f2c4b75ffe59a_3897240589986010597.mp3",
+          "audioName": "50元素战技·其五_en.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "冲天转转，出发！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/0896eeb360031679c6c74a248c2fea91_3897824755672803716.mp3",
+          "audioName": "51元素战技·其六_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "清退！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/fdd82b68f57cd9ddb5a11914fbe9a436_6864434948712737499.mp3",
+          "audioName": "52元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "矿石采集。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/38dfa5574eb1d5069ab2578a59d77ccc_2611677603650259533.mp3",
+          "audioName": "53元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "切勿靠近。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/91ab8378e7913189262856e08d8b85e3_7783316226699450646.mp3",
+          "audioName": "54元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "哇哇，有亮晶晶的石头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/4d1e2abf935bf52fa17beda037884cbf_83216685805604012.mp3",
+          "audioName": "55打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "你也喜欢收集石头吗？我懂我懂，这些石头太好看了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c574e22ca87a7e65ee16096576e62a25_8899335428037911666.mp3",
+          "audioName": "56打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "需要帮忙整理吗？我很拿手！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/8b2cc6d1a03811567b72c60415997eb7_6873636344355960531.mp3",
+          "audioName": "57打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "没事，小伤罢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/a67cf2b01b9a0cdd7299a36b732e7b7f_2888496979062080598.mp3",
+          "audioName": "58生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我要…振作起来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/7a5a84fa8ffd7d35cc6a53afd91ac484_7305305696220854114.mp3",
+          "audioName": "59生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我、我一定可以的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/ff71c85465d943444773c26f11040f0b_8616074167491439735.mp3",
+          "audioName": "60生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "不要忘了还有我呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/716bcfc52024fe570ae2c7a280fdbf0b_904950411899770008.mp3",
+          "audioName": "61同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我在！交给我吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/6d3187a230b6c1d524ab0dd3d9db9e72_1678945267792056663.mp3",
+          "audioName": "62同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "对不起，是我逞强了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e5ca6c9f5b17071269018eb63dbac88e_3942301835088472608.mp3",
+          "audioName": "63倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "不能愧对…「乌沙博蒂」…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/d60791b7b8ce19bd9ab243dde7e383c3_1988431951705820181.mp3",
+          "audioName": "64倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "呜…又搞砸了吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/9351fcfba19c829762a524debd2940f0_1760218525452733130.mp3",
+          "audioName": "65倒下·其三_en.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "擦伤而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/37cca458f78fd9824a3c9f0c0a078200_3225682821196080338.mp3",
+          "audioName": "66普通受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "唔，不要紧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c2d7476abe6ceaf6eacf40ebd4b255dc_970248760148366119.mp3",
+          "audioName": "67重受击·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "呜哇？我可以参加吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/3df13b14c7d23f25297eac284b1fd4e9_6966565256827465024.mp3",
+          "audioName": "68加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "太好了！一起动身吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/dd1e7b0763d6a40e8eb18214d62be973_3249977383962858052.mp3",
+          "audioName": "69加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "又能向你学习战斗技巧了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c467ae146c0e69fecd64f4c2e31492e6_8472475026908045919.mp3",
+          "audioName": "70加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好呀，我是「回声之子」的卡齐娜。喜欢吃颗粒果，想要变强，不擅长打架。啊…不是说这些的时候？那、那…请问你接下来想去哪里走走？我挺熟悉这一带的，就让我来带路吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/7138268c2383f41bc0a2578554736245_2989366707094706831.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·整理癖",
+          "text": "啊…我刚刚发现有块砖没有堆整齐。怎么办？现在感觉心里有只小龙在不停地挠啊挠。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/92cf3102a8455d169c43f388b64696bf_6859514073495676951.mp3",
+          "audioName": "02闲聊·整理癖_kr.mp3"
+        },
+        {
+          "name": "闲聊·行不行",
+          "text": "我可以、我不行、我可以、我…唔唔，没事的，我可以的，一定没问题的…对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/1b03e645ceaff3c57462a7ee1fe3d35c_3675215114732605536.mp3",
+          "audioName": "03闲聊·行不行_kr.mp3"
+        },
+        {
+          "name": "闲聊·收藏品",
+          "text": "无聊的话，要不要一起来看看我包里的收藏？看上什么拿走也没关系哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/429ef00770ddb29fc0aa8d2997656da8_2516987765241510712.mp3",
+          "audioName": "04闲聊·收藏品_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨水会让泥土变得松软，所以雨天挖矿一定要比平时更加更加小心哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/af24a3cef01bae057d64f5a923eaaebd_6732415765885777723.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "呀——啊…我、我不是害怕，只是被吓了一跳而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/5a55b0742548d6c41af8135f3b791798_223662607786243437.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "我们一起去雪地上打滚吧，嘿嘿。你放心，我不会像阿尤一样，钻到雪里又突然冒出来吓你的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/4ad3b63ebd0e8c666313ea749d13f636_926296384689612954.mp3",
+          "audioName": "07下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "快看这块宝石！在太阳的照射下，它里面好像藏着彩虹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/76f9d4c0d5f7c5b4b0077e9ea1031911_2189809955394434325.mp3",
+          "audioName": "08阳光很好…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "这下面会不会藏着金闪闪的矿石？要不要挖挖看？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/1516a8765feba6053d9babec5bc48303_7839855962026395710.mp3",
+          "audioName": "09在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早呀，我已经整理好背包啦，我们随时可以出发。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/693cf4ce2eb293188934ca6ce387b762_9007998118097491205.mp3",
+          "audioName": "10早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "我不困，但如果你想午睡一会儿的话，我可以帮你望风。虽然我有许多不擅长的事情，但…我的耳朵还算灵敏。远处的风吹草动，我都能感觉到。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/3648f7d48a61b376c51c41c005b88f63_978561735487442421.mp3",
+          "audioName": "11中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "玛拉妮邀请我晚上去山洞试胆，我我我，好紧张，怎么办？我不想拒绝朋友，就…就闭上眼睛答应了…不、不管发生什么事情，我都应该和她一起面对。欸？你也一起来吗？太、太好了！呜…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/f4a655a98ce2c57b1042a82c965a55b4_1130930452080105066.mp3",
+          "audioName": "12晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "今天怎么又把事情给搞砸了，呜呜呜…怎么办，明明不想哭的，但眼泪完全停不下来了，呜呜…噫——，刚、刚刚我们不是互相说了晚安，要去睡觉了吗？但谢谢你安慰我…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/f4f3f2da7566550f14fcf119a4eb8d52_1450940266505531082.mp3",
+          "audioName": "13晚安…_kr.mp3"
+        },
+        {
+          "name": "关于卡齐娜自己·冲天转转",
+          "text": "这个名字是我和阿尤一起取的。我先想好了前半部分，又根据阿尤的动作定下了后半。我常常会乘着它和阿尤比赛跑步，我们各有输赢呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/ae22f40abc1e588bd568ff304324b281_7276320857434244162.mp3",
+          "audioName": "14关于卡齐娜自己·冲天转转_kr.mp3"
+        },
+        {
+          "name": "关于卡齐娜自己·死亡",
+          "text": "能在「巡夜者战争」中死去，对纳塔战士们来说是一种荣光，身为其中一员的我也不该例外…但当时我一边这样告诉自己，一边在心里害怕得要命…你们冒着巨大的危险从夜神之国把我带回来，我真的非常感激！呜呜，谢谢你们每个人…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/f591b5427f88808aa188d012b6822e5c_2660843926988992133.mp3",
+          "audioName": "15关于卡齐娜自己·死亡_kr.mp3"
+        },
+        {
+          "name": "关于我们·传说",
+          "text": "纳塔流传着很多英雄传说，其中我最喜欢的就是陶奥鲁大人的事迹，居然能以血肉之躯把深渊给封入地下，实在太厉害了！对了对了，你走过了那么多国家，一定也知道很多传说故事吧？我真的很好奇…有空的时候可以和我讲讲吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/57e2ef369cf712982b0dbc5de16260cc_5818848159568447548.mp3",
+          "audioName": "16关于我们·传说_kr.mp3"
+        },
+        {
+          "name": "关于我们·小礼物",
+          "text": "来挑一个你喜欢的吧！作为我们是好朋友的证明。我能收集到的最好看、最闪亮的矿石全都在这里啦。如果你愿意选一颗收下的话，我会很开心的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/5e720b9dce578401b529c5f2c0380faf_4615081887217337487.mp3",
+          "audioName": "17关于我们·小礼物_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "在我第一次看到这枚亮晶晶神之眼的时候，我还以为自己眼花了呢，它比我见过的任何一块石头都要闪亮。虽然我现在与那些传说中的英雄相比，还差得很远，但如果有一天，我的故事也能激励别人，哪怕只有一个人也好，那也会成为我最大的幸福…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/0cf10a37c82702e3b06149b66263643e_930379078171158862.mp3",
+          "audioName": "18关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "阿尤是我很重要的伙伴，别看它现在模样乖巧，它再小些的时候，表达喜欢的方式是冲过来用头撞人。它力气可大了，有时候我都会被它撞得摔倒。不过这也没办法嘛，毕竟嵴锋龙是一种很亲人的龙。哎呀，别撞我呀，阿尤，好好好，我不揭你短啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/1db4b9a15e27a4524eb7c8e3c6360949_8387578595296439792.mp3",
+          "audioName": "19有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "澄晶实的果实形状就像宝石一样，如果它也能像宝石一样长时间存放就好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/be093e794b7245147fcc24eb0348e6ad_3175921718771490326.mp3",
+          "audioName": "20感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于玛拉妮…",
+          "text": "玛拉妮是我的第一个好朋友。遇到她之前，我都不知道这个世界上有这么好的人，还有这么多好玩的事情。看，这是我们合影的画片。她说是要在合影时一起往上跳…你说我动作看着有点僵硬？嘿嘿…被你发现了…当时镜头外有很多人在看着我们，让我有点紧张…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/b96f8b1741c805ba18ae4049fc88baf5_3348096163538543949.mp3",
+          "audioName": "21关于玛拉妮…_kr.mp3"
+        },
+        {
+          "name": "关于基尼奇…",
+          "text": "基尼奇哥哥还是玛拉妮介绍给我认识的呢。不瞒你说，一开始我有点害怕他，因为他的眼神看起来…稍微有一点凶。我后来才知道，他私底下教训过欺负我的坏蛋。但在我送他回礼的时候，他又不肯收下，说是已经得到了足额的报酬…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/9e08e34004900ee4fc4abeebffd7c094_4992401065313165136.mp3",
+          "audioName": "22关于基尼奇…_kr.mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "她是纳塔有名的「调停人」，据说任何争斗都能被她轻松摆平。她会这么做，恐怕是像我一样，很讨厌人与人之间起什么冲突吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/9b89eb92db2cc1e9b27d79947d226d1a_3252992011908998556.mp3",
+          "audioName": "23关于恰斯卡…_kr.mp3"
+        },
+        {
+          "name": "关于伊安珊…",
+          "text": "之前为了变强，我拜托伊安珊带我训练。她安排了各种各样高强度的锻炼方式，我常常需要咬紧牙关才能坚持下去。好在她给我安排的训练量非常精准，每次结束后都留出了供我走回家的体力…我还是很感谢她的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/81eb1eaaf95fce995db52ca2d655cd7e_5409040209964301980.mp3",
+          "audioName": "24关于伊安珊…_kr.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "玛拉妮和我说了，你们能救出我，还多亏了她的发明。「灵觉髓石」坏掉了，我也有不可推脱的责任…后来我鼓起勇气去找她道歉了，并且让她在我收藏的石头里挑几块，她挠着头说：「这，我不挑一个是不是很麻烦啊。拿个差不多的我们就两清，是吧？」最后只拿走了最不起眼的一块黑曜石，就摆了摆手让我走了。你说，我要不要再帮她找点什么？她喜欢什么，你知道吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/08/02/50494840/928b9980ccdc713b12e6b5cf115929cc_6551182715772229466.mp3",
+          "audioName": "关于茜特菈莉…kr.mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "在我获得古名后，帕加尔叔叔带我去找了希诺宁姐姐，请她帮我打造了冲天转转，她的手艺简直出神入化。后来，我们交流过宝石收藏与存储的经验，还欣赏了彼此的珍品。她的收藏品状态非常好，肯定照顾得十分细致。但她自己的生活…似乎要更加随性？有一次我找了她很久都没找到，最后发现她在一棵大树上晒着太阳睡着了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/2196183f89892759dce27c753f14cd72_6798056417444788074.mp3",
+          "audioName": "26关于希诺宁…_kr.mp3"
+        },
+        {
+          "name": "关于火神大人…",
+          "text": "我做梦都想不到，居然有一天能被火神大人亲口认可为「纳塔的英雄」，火神大人是每一位纳塔战士的偶像，我…我得到了偶像的…呜…我一想起来就太感动了，呜呜呜…对不起，对不起对不起。不该在这时候哭的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/2b50e7e94b92f75f2e32fa9db1d33b52_6310646700393267952.mp3",
+          "audioName": "27关于火神大人…_kr.mp3"
+        },
+        {
+          "name": "关于伊法…",
+          "text": "伊法哥哥是个很厉害的龙医生！凡是给他看过病的小龙，回来后都作息规律、不乱吃乱跑，几乎再没生过病啦。所以每当大家发现有龙身体不舒服，第一反应都是请他飞过来看一看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/74b4be065f9eaafeac73104911b5d5aa_3354591339598497516.mp3",
+          "audioName": "28关于伊法…_kr.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其一",
+          "text": "「乌沙博蒂」是我的古名，它的意思是坚强，唉，可很多时候我都想不明白为什么这个古名会给我。我那么弱小，不管是在家里，还是在部族里，存在感都不算高…有那么多优秀的人在身边，我真的有拥有它的资格吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/1bd69fa78f67b3bdbfe606272cc66383_4633884749118933107.mp3",
+          "audioName": "29想要了解卡齐娜·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其二",
+          "text": "要说我家人的话…我在家中排行第二。我知道爸爸把期许主要寄托在了姐姐身上，而妈妈现在又要照顾年幼的妹妹。我们的生活有些辛苦，所以我需要管好自己，早点长大…至少让爸爸妈妈少操点心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/124297afec7756cbc62af65ebda0586f_240362520803301200.mp3",
+          "audioName": "30想要了解卡齐娜·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其三",
+          "text": "帕加尔叔叔待我很好。部族里其他人议论我的时候，他总会帮我说话。其实…他那样做，我心里反而过意不去。我只有靠自己的实力赢得大家认可才行啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/fbd6d7e2b1fcf0d78186993c9924d73e_8161828205833931346.mp3",
+          "audioName": "31想要了解卡齐娜·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其四",
+          "text": "我一直知道，流泪并不能解决任何问题。传说故事里，我从来没听过有英雄会在大家面前哭啊。我很想忍住眼泪，但我总是失败…欸？你说没关系？流泪是一种很重要的发泄方式？你…你真的这么想吗？呜呜呜，谢谢你，呜…我怎么又哭了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/cbf054beb5542f3fed798aba589a6944_3754714727275282999.mp3",
+          "audioName": "32想要了解卡齐娜·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解卡齐娜·其五",
+          "text": "我之前一直觉得自己很弱小，被人忽视也是理所当然…但，听到大灵女士那番话之后，我不再那么想了。「乌沙博蒂」是我的古名，我…已经决定要变成更好的「自己」。这个世界上一定有我才能做到的事。我会…继续努力。希望这块黑曜石有朝一日也能容纳我的事迹，成为一颗…更加璀璨的宝石。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/af0bbb391dfd1cd6d24e9ab71047f1cd_5886384077174963079.mp3",
+          "audioName": "33想要了解卡齐娜·其五_kr.mp3"
+        },
+        {
+          "name": "卡齐娜的爱好…",
+          "text": "这块是我第一次挖出来的宝石，翠绿翠绿的，很好看吧？最初它们是一对，另外一块我送给了玛拉妮，你看，它的花纹像流水一样。对了，还有这块，别看它是黑色的，但放在太阳下面就会有五彩斑斓的感觉…嘿嘿，这些全都是我一块一块收集起来的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/bef5ce6b480f2f20403d096e75210ba1_4951239326952273792.mp3",
+          "audioName": "34卡齐娜的爱好…_kr.mp3"
+        },
+        {
+          "name": "卡齐娜的烦恼…",
+          "text": "之前玛拉妮送了我一顶很大的帽子，太酷了，还能完美地遮住太阳，我真的好喜欢，但戴着戴着，它就成了一顶毡帽…后来我只能换成现在这顶不会粘毛的帽子了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c1d43ca6beac784ce8e31bb46ac5999a_6244369780146129678.mp3",
+          "audioName": "35卡齐娜的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "粒果片片是我的最爱，要是能堆得整齐一点，那就更加完美了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/cfec75f8445b036c0f36e333b72abfdc_8271280415734633801.mp3",
+          "audioName": "36喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "欸？分量这么大吗？但、但我吃不完的话，不就浪费了厨师的劳动成果吗？唔唔，没关系…我一定可以吃完的！小口小口慢慢吃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/cf81ef9e2a112db600e47ba337bb91db_6438828909874497287.mp3",
+          "audioName": "37讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇——真的是送给我的吗？太好吃了！我要慢慢吃，让美味停留得更久一点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/93d9079b0c969b2d88c7b8bb5262e057_5851582687241024217.mp3",
+          "audioName": "38收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "又香又好吃，摆盘也很精致。如果有「厨艺战争」的话，你一定会赢吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/8df3ade136cdfdae616cf04c9381c516_6592727275579848019.mp3",
+          "audioName": "39收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "谢谢你愿意为我花时间！我、我一定会吃完的，请再多给我一点时间。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/38788b360f3f59bd6ad5d21e46658e90_8792337283786018105.mp3",
+          "audioName": "40收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！这个送给你，是虹闪石雕成的鼠兔。虹闪石的触感温润，但在地下很不起眼，一不留神就会错过…不过带在身边久了，它的光泽就会越来越漂亮的。这是我最喜欢的宝石之一，希望你也喜欢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/9089119e553a7db0bbc2a50d8b442ab6_3668451534244285762.mp3",
+          "audioName": "41生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我的耳朵在抖吗？不是紧张…而是开心。对不起，它们现在激动得不得了，我控制不住。我…我捂住它们吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/1e022a2bde24530a3f5d78a1641293d3_3686447749572916894.mp3",
+          "audioName": "42突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "你真的非常重视我…呜…呃、我没有想哭的，就是太感动了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/09e8e90944e5f0edc36062fe867f4e16_5149657416856963022.mp3",
+          "audioName": "43突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "「王庭焚弃，火却未曾殄熄。明晨它要再度燃起，比昨日更为辉熠。」这是陶奥鲁大人说过的话中，我最喜欢的一句。我，我必须要努力才行…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/8855da4608d698cf7e81427fdf0daa16_5799179730119301750.mp3",
+          "audioName": "44突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "你带我一起见识了种种新奇的事物，让我成长了很多，我不知道该怎么回报你才好…但这次我想自己找到答案。接下来就让我来当英雄吧，保护你的英雄！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/d23de3a7119118b285a1f56ad44532c4_2909710055901693181.mp3",
+          "audioName": "45突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "旋转！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/700fbf13a5cc1878af7475b5b45e1e06_6676001772169506914.mp3",
+          "audioName": "46元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "嘿——哟！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/27e69b1243c08dd21b45433eef0fb84b_1934553645256162548.mp3",
+          "audioName": "47元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "来咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/c1465e70be08723e729c9a943b0930c6_4971587419177383621.mp3",
+          "audioName": "48元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "开转咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e7f8c63bb9bbfdf6af8ec5f338ed0e57_1601320483295606837.mp3",
+          "audioName": "49元素战技·其四_kr.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "冲地波！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/52800ff78ef4aaed8ac69d7ef80f337f_5686410181531382822.mp3",
+          "audioName": "50元素战技·其五_kr.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "冲天转转，出发！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/853495c6bd890abe11f8b30a7c53c9c1_5080949927828154042.mp3",
+          "audioName": "51元素战技·其六_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "清退！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/4c985b7399e3782f1cb3112dc21fe618_8155988777855071562.mp3",
+          "audioName": "52元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "矿石采集。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/1eadbc7afb74eefaa4f9f3fcf10bae0d_8854768563763248189.mp3",
+          "audioName": "53元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "切勿靠近。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/fa41b4e4b5af830a19752fc98e59b5bd_3664084572777475298.mp3",
+          "audioName": "54元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "哇哇，有亮晶晶的石头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/0190ae370c15f1dd624aeafab8cf87c6_478149756673862040.mp3",
+          "audioName": "55打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "你也喜欢收集石头吗？我懂我懂，这些石头太好看了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e7dcef72c54950382a11012f199b0088_6990188871650699728.mp3",
+          "audioName": "56打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "需要帮忙整理吗？我很拿手！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/bcdf7dc335778ace7430a883f776f2ee_7125478846284536739.mp3",
+          "audioName": "57打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "没事，小伤罢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/833d0096b39c43fa40d2ca2699b7ede2_4858777522311569408.mp3",
+          "audioName": "58生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我要…振作起来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/da4e83633fab715782af75d829ebca1c_924325171116840985.mp3",
+          "audioName": "59生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我、我一定可以的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/663cad2254107b0a3649139b3541a3d0_6801827097125562097.mp3",
+          "audioName": "60生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "不要忘了还有我呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/359432923c2603d6d732b81ce5ba3701_7743913272605063823.mp3",
+          "audioName": "61同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我在！交给我吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/d240eb61fc52a272ad3bd7c57fffc294_4202201562655123618.mp3",
+          "audioName": "62同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "对不起，是我逞强了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/755817361c40939855f3440afbe622cd_3510076519181385731.mp3",
+          "audioName": "63倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "不能愧对…「乌沙博蒂」…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e65f623fb4dc6a7ea726d5ec6ef75d93_7350951773039156006.mp3",
+          "audioName": "64倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "呜…又搞砸了吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/245c6dc22d7ae0d4e85a0df05415c333_3793104316762882421.mp3",
+          "audioName": "65倒下·其三_kr.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "擦伤而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/2aad11fe1f4a6580504d9fd85d1fbb71_2478077878116960269.mp3",
+          "audioName": "66普通受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "唔，不要紧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/e732de2be88f6c938f100578c697a262_2336380103479720590.mp3",
+          "audioName": "67重受击·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "呜哇？我可以参加吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/7d6b8d5ea7626a8985c15158ad272e7a_754022817845936504.mp3",
+          "audioName": "68加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "太好了！一起动身吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/dd48f1b63e36e6aa6784713060a2f1bb_3881619473738062006.mp3",
+          "audioName": "69加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "又能向你学习战斗技巧了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/08/28/16576950/fffb6ab1f4d685430796d540b83a20d2_2099374734783821697.mp3",
+          "audioName": "70加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

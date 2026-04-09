@@ -1,0 +1,1565 @@
+{
+  "id": "507287",
+  "name": "雅珂达",
+  "alias": [
+    "雅珂达"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "哟，初次见面，有什么要委托的事尽管说吧。无论是什么事，只要钱付够，我都能帮你…呃，大部分的事…肯定能帮你搞定。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/d8e20b18c111511cbf9294084c4f9c94_7713943149440093799.mp3",
+          "audioName": "01_1006_初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·奈芙尔",
+          "text": "唔…老板什么时候给我涨点工资呢，还有好多想买的东西…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/fa786f3c1d25453e8d697c0ea67de866_4274914447223055378.mp3",
+          "audioName": "02_1101_闲聊·奈芙尔_cn.mp3"
+        },
+        {
+          "name": "闲聊·逛街",
+          "text": "走，逛街去啊，带你见识点好玩的东西…别声张啊，我们悄悄去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/af8e4b7d3136e9f517224ce458428bab_4932677698147417052.mp3",
+          "audioName": "03_1102_闲聊·逛街_cn.mp3"
+        },
+        {
+          "name": "闲聊·阿舍鲁",
+          "text": "上次我摸阿舍鲁的时候，它居然哧溜一下跑掉了，哼，今天不给它买鱼干吃了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/f0aa59f98187370ccbce4a833caada71_1667172423110622882.mp3",
+          "audioName": "04_1103_闲聊·阿舍鲁_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨了？走走走，躲躲雨去，别被淋湿了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/81ecc06b2b96ce17ad60bcf033aa7e69_5050119524617014776.mp3",
+          "audioName": "05_1201_下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "呜哇！雪飞进脖子了，冷死了冷死了——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1f944e261b02e950a073963d1ed9a5fd_4620283486535943194.mp3",
+          "audioName": "06_1202_下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "呸呸呸，沙子飞嘴里了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/43315e4cd7df1fb6555637ecfcbeede5_5995895267794826406.mp3",
+          "audioName": "07_1203_在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早啊，吃早饭了没，我带你去吃点好吃的？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1b72fe3d3b6ea64984d7757362422067_1360700345280982939.mp3",
+          "audioName": "08_1001_早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "唔，不然还是回店里睡个午觉吧，总觉得好困…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/fd8fde65294c835f13700f0d6b50ecd3_1364721082334055124.mp3",
+          "audioName": "09_1002_中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "都这个时间了，收工收工，回去摸阿舍鲁去喽~",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1326cb11400c5fb31c830e55c243e49c_7675206836674768151.mp3",
+          "audioName": "10_1003_晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "呼啊——该睡觉了…喂，你还在忙啊？差不多也该休息去啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/23c96cae69bd6d67b9cc4ea2ffb7d075_3716006620241865900.mp3",
+          "audioName": "11_1004_晚安…_cn.mp3"
+        },
+        {
+          "name": "关于雅珂达自己·经历",
+          "text": "来「秘闻馆」之前，我的「工作经历」可杂了，摸爬滚打了那么长时间，才遇见了奈姐这么一个好老板，也算是我苦尽甘来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/d14b7d0e3acb815d441fb3f91d16b178_3398472102726785358.mp3",
+          "audioName": "12_2001_关于雅珂达自己·经历_cn.mp3"
+        },
+        {
+          "name": "关于雅珂达自己·秘闻馆",
+          "text": "老板对我挺好的，阿舍鲁对我也还算不错。嗯…但我有时候会不由自主地把老板叫做奈姐，怎么也改不过来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1f553a249cda1a84ecfb0c83ee630dd3_4887989240481931683.mp3",
+          "audioName": "13_2005_关于雅珂达自己·秘闻馆_cn.mp3"
+        },
+        {
+          "name": "关于我们·故乡",
+          "text": "我的故乡？我都不记得了…我也不在意这种东西，只要能吃饱饭，能安稳睡觉的地方，就算是我的「故乡」喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/e1d05e274600ccdedae1fb0f6b8ac30c_6653107142291620645.mp3",
+          "audioName": "14_2003_关于我们·故乡_cn.mp3"
+        },
+        {
+          "name": "关于我们·朋友",
+          "text": "我们都一起出生入死过了，当然已经是朋友了。下次遇见麻烦的时候，我的背后就交给你喽，尽量别出卖我，好么？就算要卖，也请卖一个好价钱，不然我的身价可要跌了…哎呀，开玩笑的，我知道你不会出卖我，你是一个好人，不会做这种自私的事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/a3b1c39632c79c1cfe40a296dba8c229_5739506480517820637.mp3",
+          "audioName": "15_2002_关于我们·朋友_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "嘿嘿，它可是我的宝贝，有了它之后，干活都轻松不少。没想到啊没想到，我雅珂达也有运气这么好的时候…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/74038c15e1c0600943fed0dd6920991c_3263667385195241897.mp3",
+          "audioName": "16_3006_关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享·宝藏猎人",
+          "text": "你在街上是不是遇见过自称「宝藏猎人」的家伙？别被这个名号唬住了，你就把他们理解成挪德卡莱的「雇佣兵」就好了，只要给够钱，他们就会愿意给你办事。如果你真想找这群人帮忙的话，我认识几个好手，到时候介绍给你啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/692642204d2d33c68d43a6a9c078d0d5_2792809291610453689.mp3",
+          "audioName": "17_3002_有什么想要分享·宝藏猎人_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享·大炮",
+          "text": "「轰隆隆月矩力能量炮」开炮的时候，真的很帅气啊。唔…要是能买一台那门大炮的等比例缩小机械模型就好了，爱诺能不能帮我做一台呢，反正这门大炮也是她造的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/3f9cc08ab0757f0ce5272bdfb4af758e_3568543076574061910.mp3",
+          "audioName": "18_3005_有什么想要分享·大炮_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我昨天突然胡思乱想，你说…到底多少粒沙子聚在一起，才能被称为「一堆沙」呢？一百粒？一千粒？好像都不太对喔，过几天我去找爱诺问问好了，她肯定知道。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/501c1990bec508ddf57db5f9ed031af6_1741166795659894233.mp3",
+          "audioName": "19_3003_感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于菈乌玛…",
+          "text": "菈乌玛小姐？嗯…虽然我不怎么了解她，但我也知道她的身份可高了，实力也很强，而且她还能和动物说话呢，这么一来，希汐岛上的那些动物，不都等于是菈乌玛小姐的耳目了？怪不得没有宝藏猎人敢去希汐岛「寻宝」呢，这一上岛不就等于自投罗网吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/5f936e5a237ce91b692502fdfbd80288_8115237979117192032.mp3",
+          "audioName": "20_4001_关于菈乌玛…_cn.mp3"
+        },
+        {
+          "name": "关于伊涅芙…",
+          "text": "啊，那个笨蛋机器人啊，做蛋卷挺好吃的啊，就是总记不住人说话，而且也没什么幽默感，随便说个玩笑都要认真地问我哪里好笑，但她的蛋卷真的很好吃喔，有机会你一定要尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/2d65f620429025f193c3f91b8733b234_7512644723689087782.mp3",
+          "audioName": "21_4002_关于伊涅芙…_cn.mp3"
+        },
+        {
+          "name": "关于奈芙尔…",
+          "text": "奈姐当然是我最最亲爱的老板啦！嘿嘿嘿，她不仅给我开工资，还管吃管住。不过，她手底下好像也就只有我一个正式员工…啊，还有阿舍鲁，差点忘了。不过，阿舍鲁说是员工，却一次委托都没出过…哼，居然吃闲饭，下次我就抱着它出外勤去！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/eff950f98301b6f4fc1d196551bf5379_2463445656153484449.mp3",
+          "audioName": "22_4003_关于奈芙尔…_cn.mp3"
+        },
+        {
+          "name": "关于爱诺…",
+          "text": "爱诺的手艺可好了，无论我把胳膊折腾成什么样，她都能修好。但是每次修理手臂的时候，爱诺都会在上面画画，说什么这样比较可爱，虽然确实挺可爱的，但她怎么不在伊涅芙身上画呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/98ec2bd53b0028709b1c9bd48fdcd91b_5297749622605936163.mp3",
+          "audioName": "23_4004_关于爱诺…_cn.mp3"
+        },
+        {
+          "name": "关于菲林斯…",
+          "text": "我听奈姐说过，执灯人是一个历史很悠久的组织，里面的人又厉害又聪明，还知道很多古老的秘辛。你说…菲林斯会不会也知道某些宝藏的线索？或者是知道哪里有没被挖过的遗迹？呃，我就是想想，不会去问的，不然奈姐又要训我了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/0b455586ab697ecd9431c4a4028b46be_2487739139810828442.mp3",
+          "audioName": "24_4005_关于菲林斯…_cn.mp3"
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "你说法尔伽大叔啊，他倒是和我说过自己是西风骑士团大团长…但是根本看不出来嘛，骑士团团长不应该是那种很认真，看着就很可靠的人么？啊！我可没有说法尔伽大叔不可靠的意思啊。不过，西风骑士团的大团长在这里，那留在蒙德的骑士们又归谁管呢…欸？一个很认真，看着就很可靠的人，哈哈…西风骑士团，真是复杂啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/28074a0fe76d51a09edd05a72230d93e_1517416337050912587.mp3",
+          "audioName": "25_4006_关于法尔伽…_cn.mp3"
+        },
+        {
+          "name": "关于「库塔尔」…",
+          "text": "那位大人物啊…唉，要是放在之前，遇见背景这么复杂的人，我一定会离她远远的，跑得越远越好！不过…她之前救过我，我也要还她的人情才行，不然也太不讲义气了。虽然话是这么说，但我总共就只有一条命，再这么折腾下去，我看多少条命都不够往里面赔的，老板保佑老板保佑…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/7f5c25283e773ba1b5cd163ab4c58b3c_5758281324326576409.mp3",
+          "audioName": "26_4007_关于「库塔尔」…_cn.mp3"
+        },
+        {
+          "name": "关于「木偶」…",
+          "text": "下次，我绝对不会去那种地方了！就、就算要去，也要老板和我一起去才行，这又是狂猎又是愚人众的，我有命赚钱，没命花钱啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/65a5391d0a44e787b17af1b7207d1649_2487093669288930501.mp3",
+          "audioName": "27_4008_关于「木偶」…_cn.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其一",
+          "text": "在「秘闻馆」里，大事归奈姐，小事归我，开门接待的事归阿舍鲁。什么算大，什么算小？那就得看奈姐了，她是老板嘛，说什么就是什么…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/d835deef44b1cb6c18c64a6a0e8aa29f_4630903138905005223.mp3",
+          "audioName": "28_5001_想要了解雅珂达·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其二",
+          "text": "好好赚钱，好好吃饭，这就是我现在的人生信条，反正只要跟紧奈姐的脚步，我肯定天天能吃饱，嘿嘿嘿…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/827166ee6fa236b05628419009b9d02a_1520925751825589912.mp3",
+          "audioName": "29_5002_想要了解雅珂达·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其三",
+          "text": "我的右胳膊？啊…没什么大不了的，它只不过是被我作为「代价」交换出去了，放心啦，那一笔买卖做得很划算，至少在我看来，不算是亏本买卖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/a6e29b712404bfdaba70dbe5452aaa5f_8952093888243493565.mp3",
+          "audioName": "30_5003_想要了解雅珂达·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其四",
+          "text": "就像买东西需要付出摩拉一样，如果你想要获得某种东西，就一定会付出某种「代价」。那些有形的「代价」能够被计算规划，但某些无形的「代价」，却总是难以估量，它们会蛰伏在你的影子里静候时机，待到你孤立无援时，它们就会现出身形，向你索要一份你根本无法付清的赎金。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/8f0a51226507f16efe36625c1fbde688_6555312751825423352.mp3",
+          "audioName": "31_5004_想要了解雅珂达·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其五",
+          "text": "喂，如果你也要为什么事情支付「赎金」的话，可以来找我帮忙喔，就算我的钱不够，我也可以厚着脸皮找奈姐的，大不了…我就再给她白打工一段时间。但你可千万别直接找奈姐，如果你一定要欠一个人的钱，那你还是欠我的好，记在奈姐手上的债，可能是世界上最难还的了…我怎么知道？呃，啊…你、你别问这么多，听我的就是了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/10d487edd3476e4c6e12d67cd72e24ad_3285150122128250141.mp3",
+          "audioName": "32_5005_想要了解雅珂达·其五_cn.mp3"
+        },
+        {
+          "name": "雅珂达的爱好…",
+          "text": "我闲下来的时候，偶尔会缝一缝布娃娃，虽然没真正找哪位大师学过，但我之前…认识的人都说，我缝的像模像样，下次也做一个送给你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/193d8942d49a01d1a4260ca901c0997a_1174129417303219744.mp3",
+          "audioName": "33_6001_雅珂达的爱好…_cn.mp3"
+        },
+        {
+          "name": "雅珂达的烦恼…",
+          "text": "不知道为什么，只要我睡的床太软，我就会失眠，但我睡在硬邦邦的地板上时，却能迅速睡着，而且睡得特别香，到底是为什么呢？真奇怪…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/5545e2b6123b7fe61de52d351c5b01f0_7546039868254098519.mp3",
+          "audioName": "34_6012_雅珂达的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "特别喜欢的食物？一时半会我还真想不到，肉和鱼我喜欢，糖雕和饼干我也喜欢…嘿嘿，只要是好吃的，我都喜欢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/8a5b31e3dceb27f3e2d9182708d2653b_3307040123811606968.mp3",
+          "audioName": "35_6003_喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我不喜欢那种混合着很多食材，煮了很久…煮到食材都完全融化的大浓汤…呃，但如果非要喝的话，我也不是不能喝啦，就是尽量不喝嘛…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/091272467672980c00a9da7da8bfc332_7895343194916660300.mp3",
+          "audioName": "36_6004_讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃！你手艺居然这么好，再给我盛一点，嘿嘿嘿，比奈姐的手艺还…咳！那个…你吃了没？不然…一起吃？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/7652f8d5f00be12fe3adf0c899e0351d_2170452681110180653.mp3",
+          "audioName": "37_6007_收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错啊，嘿嘿，快快吃饱，好去干活。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/a46c292a877dc75ee846c5adc02b60f5_9089498585776903042.mp3",
+          "audioName": "38_6008_收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "呃…我能…能吃完，不会浪费食物的，哈哈哈…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/4fcaf4fedf6105781d8e032bbf1ba3d5_4006284005616607019.mp3",
+          "audioName": "39_6009_收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！喏，这个布娃娃给你，我刚缝好的，我第一次用这种方法缝娃娃，花了不少时间呢，娃娃里面还放了助眠安神的草药呢，你就把它放在枕头旁边吧，保证你睡得安安稳稳，绝对不会做噩梦。手怎么包着创可贴…啊…和阿舍鲁玩的时候，被它的爪子挠了一下，没事啦，哈哈哈…没事…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/a003b5d435b912d4d02a2f8078b6bb2d_1536846920684217443.mp3",
+          "audioName": "40_7001_生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "喔？不错啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/dca81783c02fc93b9725edf9fa6467a3_4506123583962471543.mp3",
+          "audioName": "41_8001_突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "身手更灵巧了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/2d28aad27441e23456d15c962ed6af36_4737455202136313850.mp3",
+          "audioName": "42_8002_突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "嗯…该活动活动筋骨了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/abe512f51c7cdcdf3745635c2252066a_4285216286321808635.mp3",
+          "audioName": "43_8003_突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "嘿嘿，足够我干一票大的了…怎么样？要一起吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/da6964f6344c62e977d6c9757248257d_2686069039345369860.mp3",
+          "audioName": "44_8004_突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "目标就是你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/693584fef40b89840f9789d3edff9e97_953805381672896664.mp3",
+          "audioName": "45_100001_元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "该明抢了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1c1fa7a775cd207df6d4ecb286ea4070_946624418418313910.mp3",
+          "audioName": "46_100002_元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "哪里跑！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/26f4367cd0e29fc5b9a3d25d5a06e57e_4189420238926422890.mp3",
+          "audioName": "47_100003_元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "都是我的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/10/16576950/48c518275465ef9f4f866c87a1563e6e_1390441168657710241.mp3",
+          "audioName": "48_200001_元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "拿来吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/2b4780548cc3c7d192194cc4599912a9_5998948319175645506.mp3",
+          "audioName": "49_200002_元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "我从不走空。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/5332ed2e05cdf695cfadf5336edcde7a_3338052478857736540.mp3",
+          "audioName": "50_200003_元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "喔！都是我们的了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/f2a9208a76534b82fe3b861d0e4d19bd_2793363210356584542.mp3",
+          "audioName": "51_300001_打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "收获不错，总算没白跑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/21d779f1868088a13ba61d555479f853_8954058351214487500.mp3",
+          "audioName": "52_300002_打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "又赚了一笔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/5ae688270a4896f1462d135e53e69ddf_5787701524937431696.mp3",
+          "audioName": "53_300003_打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "好…好…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/d6320586826c2f816e00cabd923e18d2_1866966166695446112.mp3",
+          "audioName": "54_410001_生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "你等着…！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/c322fc37654073bbebf602bea52580a5_4679558552254989371.mp3",
+          "audioName": "55_410002_生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "看我不把你…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/7bfceff631b476ddb5376084e1c2f7ee_4879838615793141118.mp3",
+          "audioName": "56_410003_生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "你傻了吗？！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1bd13822311929c01cb226a85518390f_5493857169350094674.mp3",
+          "audioName": "57_400001_同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "回来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/7660f5515755962e2f038d8f3a535a02_7614600338738929446.mp3",
+          "audioName": "58_400002_同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还是…难逃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/edc5346cb12576123d48d4d4b8e75099_3213895864734024308.mp3",
+          "audioName": "59_500001_倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我的债…还清了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/4deb59ac6858e2cba45dce4aaa91b2b0_1776463704539672809.mp3",
+          "audioName": "60_500002_倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "这样…就好…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/0a66ab81f78acd1c17ccb8402c20711b_6182457631806946876.mp3",
+          "audioName": "61_500003_倒下·其三_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "有活干了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/2497f523979dc0b1d1ccff534d1ab0e1_7517982588977990102.mp3",
+          "audioName": "62_600001_加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "包在我身上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/438d1f582f69afd4c9a414859c8f448a_6390759467965500152.mp3",
+          "audioName": "63_600002_加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "瞧我的吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/53c9623a92141aaee6b6c9a382540e43_8411645539392418826.mp3",
+          "audioName": "64_600003_加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "哟，初次见面，有什么要委托的事尽管说吧。无论是什么事，只要钱付够，我都能帮你…呃，大部分的事…肯定能帮你搞定。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/eb39ab174188a386bf74b0169ddaa2d3_6089828652176382443.mp3",
+          "audioName": "01_1006_初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·奈芙尔",
+          "text": "唔…老板什么时候给我涨点工资呢，还有好多想买的东西…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/56213c1afb98e93f7e5eb752821803a1_7714393482059174502.mp3",
+          "audioName": "02_1101_闲聊·奈芙尔_jp.mp3"
+        },
+        {
+          "name": "闲聊·逛街",
+          "text": "走，逛街去啊，带你见识点好玩的东西…别声张啊，我们悄悄去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/726c3c1d413963b06c9ff7d5e82d0079_5152173194399924438.mp3",
+          "audioName": "03_1102_闲聊·逛街_jp.mp3"
+        },
+        {
+          "name": "闲聊·阿舍鲁",
+          "text": "上次我摸阿舍鲁的时候，它居然哧溜一下跑掉了，哼，今天不给它买鱼干吃了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/9f07c585eb65caaa55c16bb84b4a6c33_6052804900539749121.mp3",
+          "audioName": "04_1103_闲聊·阿舍鲁_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨了？走走走，躲躲雨去，别被淋湿了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/73ea19e0ff6e5edade447e5f5e09c650_2736376850053024438.mp3",
+          "audioName": "05_1201_下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "呜哇！雪飞进脖子了，冷死了冷死了——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/207a6a5a1ed1b33737168b5378c3d88c_395479009658410351.mp3",
+          "audioName": "06_1202_下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "呸呸呸，沙子飞嘴里了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/85c6e43ddbc06098ab38889d1cacd155_7220819021209655867.mp3",
+          "audioName": "07_1203_在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早啊，吃早饭了没，我带你去吃点好吃的？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/ef962129a3869f1777b9439f8d1fed9a_4114657254756563527.mp3",
+          "audioName": "08_1001_早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "唔，不然还是回店里睡个午觉吧，总觉得好困…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/10/16576950/0897438786f16dd69d9bedf5ec1aaf46_3794864643869609291.mp3",
+          "audioName": "09_1002_中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "都这个时间了，收工收工，回去摸阿舍鲁去喽~",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/18922a5ed343cd9e5c8a3b59d40bce7d_8200946594207173888.mp3",
+          "audioName": "10_1003_晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "呼啊——该睡觉了…喂，你还在忙啊？差不多也该休息去啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1c3460f4cb6d03367139c580f833b939_6285864174370314110.mp3",
+          "audioName": "11_1004_晚安…_jp.mp3"
+        },
+        {
+          "name": "关于雅珂达自己·经历",
+          "text": "来「秘闻馆」之前，我的「工作经历」可杂了，摸爬滚打了那么长时间，才遇见了奈姐这么一个好老板，也算是我苦尽甘来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/c4a958eb64c8821ee616e41483a6bc82_5056351898679357944.mp3",
+          "audioName": "12_2001_关于雅珂达自己·经历_jp.mp3"
+        },
+        {
+          "name": "关于雅珂达自己·秘闻馆",
+          "text": "老板对我挺好的，阿舍鲁对我也还算不错。嗯…但我有时候会不由自主地把老板叫做奈姐，怎么也改不过来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/a0b41a24e880c4e15eacfddbfd5c206d_3021785189381718674.mp3",
+          "audioName": "13_2005_关于雅珂达自己·秘闻馆_jp.mp3"
+        },
+        {
+          "name": "关于我们·故乡",
+          "text": "我的故乡？我都不记得了…我也不在意这种东西，只要能吃饱饭，能安稳睡觉的地方，就算是我的「故乡」喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/c898975ca6e198a348997cdb568838b8_226518317903908637.mp3",
+          "audioName": "14_2003_关于我们·故乡_jp.mp3"
+        },
+        {
+          "name": "关于我们·朋友",
+          "text": "我们都一起出生入死过了，当然已经是朋友了。下次遇见麻烦的时候，我的背后就交给你喽，尽量别出卖我，好么？就算要卖，也请卖一个好价钱，不然我的身价可要跌了…哎呀，开玩笑的，我知道你不会出卖我，你是一个好人，不会做这种自私的事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/abbf3416573d2504c4cd008c647c5cdf_4395459530717272432.mp3",
+          "audioName": "15_2002_关于我们·朋友_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "嘿嘿，它可是我的宝贝，有了它之后，干活都轻松不少。没想到啊没想到，我雅珂达也有运气这么好的时候…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/4b437d35d085cc9ec94b874b470fae66_8435709017180963142.mp3",
+          "audioName": "16_3006_关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享·宝藏猎人",
+          "text": "你在街上是不是遇见过自称「宝藏猎人」的家伙？别被这个名号唬住了，你就把他们理解成挪德卡莱的「雇佣兵」就好了，只要给够钱，他们就会愿意给你办事。如果你真想找这群人帮忙的话，我认识几个好手，到时候介绍给你啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1e6a2a1b21b6cb0c8bd3e4960b6b55b7_1631633200842481864.mp3",
+          "audioName": "17_3002_有什么想要分享·宝藏猎人_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享·大炮",
+          "text": "「轰隆隆月矩力能量炮」开炮的时候，真的很帅气啊。唔…要是能买一台那门大炮的等比例缩小机械模型就好了，爱诺能不能帮我做一台呢，反正这门大炮也是她造的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1c3f63214bd43e6bf67e8182ef0e9828_2745095181298254092.mp3",
+          "audioName": "18_3005_有什么想要分享·大炮_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我昨天突然胡思乱想，你说…到底多少粒沙子聚在一起，才能被称为「一堆沙」呢？一百粒？一千粒？好像都不太对喔，过几天我去找爱诺问问好了，她肯定知道。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/29452f66e84f3a4338b278b7e1f80b30_6580985615276359663.mp3",
+          "audioName": "19_3003_感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于菈乌玛…",
+          "text": "菈乌玛小姐？嗯…虽然我不怎么了解她，但我也知道她的身份可高了，实力也很强，而且她还能和动物说话呢，这么一来，希汐岛上的那些动物，不都等于是菈乌玛小姐的耳目了？怪不得没有宝藏猎人敢去希汐岛「寻宝」呢，这一上岛不就等于自投罗网吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/8da56255f3325f96c147002b836760c5_5831891361386900379.mp3",
+          "audioName": "20_4001_关于菈乌玛…_jp.mp3"
+        },
+        {
+          "name": "关于伊涅芙…",
+          "text": "啊，那个笨蛋机器人啊，做蛋卷挺好吃的啊，就是总记不住人说话，而且也没什么幽默感，随便说个玩笑都要认真地问我哪里好笑，但她的蛋卷真的很好吃喔，有机会你一定要尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/16b8f1d2b4eda9ce683a70541b92bb91_3500553918407443373.mp3",
+          "audioName": "21_4002_关于伊涅芙…_jp.mp3"
+        },
+        {
+          "name": "关于奈芙尔…",
+          "text": "奈姐当然是我最最亲爱的老板啦！嘿嘿嘿，她不仅给我开工资，还管吃管住。不过，她手底下好像也就只有我一个正式员工…啊，还有阿舍鲁，差点忘了。不过，阿舍鲁说是员工，却一次委托都没出过…哼，居然吃闲饭，下次我就抱着它出外勤去！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/85a1c5c5c0d581397eabaa23f6fe6623_192346033259491503.mp3",
+          "audioName": "22_4003_关于奈芙尔…_jp.mp3"
+        },
+        {
+          "name": "关于爱诺…",
+          "text": "爱诺的手艺可好了，无论我把胳膊折腾成什么样，她都能修好。但是每次修理手臂的时候，爱诺都会在上面画画，说什么这样比较可爱，虽然确实挺可爱的，但她怎么不在伊涅芙身上画呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/d35e52fb33f35313d9b81838ef1a44a4_7993970683440001730.mp3",
+          "audioName": "23_4004_关于爱诺…_jp.mp3"
+        },
+        {
+          "name": "关于菲林斯…",
+          "text": "我听奈姐说过，执灯人是一个历史很悠久的组织，里面的人又厉害又聪明，还知道很多古老的秘辛。你说…菲林斯会不会也知道某些宝藏的线索？或者是知道哪里有没被挖过的遗迹？呃，我就是想想，不会去问的，不然奈姐又要训我了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/b05385d6f5e9c51c3f90213ba169cd26_1004510790545253555.mp3",
+          "audioName": "24_4005_关于菲林斯…_jp.mp3"
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "你说法尔伽大叔啊，他倒是和我说过自己是西风骑士团大团长…但是根本看不出来嘛，骑士团团长不应该是那种很认真，看着就很可靠的人么？啊！我可没有说法尔伽大叔不可靠的意思啊。不过，西风骑士团的大团长在这里，那留在蒙德的骑士们又归谁管呢…欸？一个很认真，看着就很可靠的人，哈哈…西风骑士团，真是复杂啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/111b39ca1cc59d0e0f594b49932a7b08_2250361523685921436.mp3",
+          "audioName": "25_4006_关于法尔伽…_jp.mp3"
+        },
+        {
+          "name": "关于「库塔尔」…",
+          "text": "那位大人物啊…唉，要是放在之前，遇见背景这么复杂的人，我一定会离她远远的，跑得越远越好！不过…她之前救过我，我也要还她的人情才行，不然也太不讲义气了。虽然话是这么说，但我总共就只有一条命，再这么折腾下去，我看多少条命都不够往里面赔的，老板保佑老板保佑…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1a6e795965303b58c1690794612171de_4487599207165214411.mp3",
+          "audioName": "26_4007_关于「库塔尔」…_jp.mp3"
+        },
+        {
+          "name": "关于「木偶」…",
+          "text": "下次，我绝对不会去那种地方了！就、就算要去，也要老板和我一起去才行，这又是狂猎又是愚人众的，我有命赚钱，没命花钱啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/7c6bd4b05313fc2870d8f94f17dafebc_6851552947286937363.mp3",
+          "audioName": "27_4008_关于「木偶」…_jp.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其一",
+          "text": "在「秘闻馆」里，大事归奈姐，小事归我，开门接待的事归阿舍鲁。什么算大，什么算小？那就得看奈姐了，她是老板嘛，说什么就是什么…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/f308b27169a8366afec045e8fed7c5b9_8160948244525072931.mp3",
+          "audioName": "28_5001_想要了解雅珂达·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其二",
+          "text": "好好赚钱，好好吃饭，这就是我现在的人生信条，反正只要跟紧奈姐的脚步，我肯定天天能吃饱，嘿嘿嘿…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/adb1810f1e14f0f493a372ab15e152e8_1159681371875993090.mp3",
+          "audioName": "29_5002_想要了解雅珂达·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其三",
+          "text": "我的右胳膊？啊…没什么大不了的，它只不过是被我作为「代价」交换出去了，放心啦，那一笔买卖做得很划算，至少在我看来，不算是亏本买卖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/5031ce8550bbdca99696583a59e0c2f9_1644223704777249521.mp3",
+          "audioName": "30_5003_想要了解雅珂达·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其四",
+          "text": "就像买东西需要付出摩拉一样，如果你想要获得某种东西，就一定会付出某种「代价」。那些有形的「代价」能够被计算规划，但某些无形的「代价」，却总是难以估量，它们会蛰伏在你的影子里静候时机，待到你孤立无援时，它们就会现出身形，向你索要一份你根本无法付清的赎金。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/56a45a50690ab30df07995aeee27316e_3652968020665765965.mp3",
+          "audioName": "31_5004_想要了解雅珂达·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其五",
+          "text": "喂，如果你也要为什么事情支付「赎金」的话，可以来找我帮忙喔，就算我的钱不够，我也可以厚着脸皮找奈姐的，大不了…我就再给她白打工一段时间。但你可千万别直接找奈姐，如果你一定要欠一个人的钱，那你还是欠我的好，记在奈姐手上的债，可能是世界上最难还的了…我怎么知道？呃，啊…你、你别问这么多，听我的就是了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/162fdff386b3099b65ae699a9ab8a654_2617271866306235497.mp3",
+          "audioName": "32_5005_想要了解雅珂达·其五_jp.mp3"
+        },
+        {
+          "name": "雅珂达的爱好…",
+          "text": "我闲下来的时候，偶尔会缝一缝布娃娃，虽然没真正找哪位大师学过，但我之前…认识的人都说，我缝的像模像样，下次也做一个送给你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/e87882f7c6040aefdf04c08686dcac7c_4536379015266083225.mp3",
+          "audioName": "33_6001_雅珂达的爱好…_jp.mp3"
+        },
+        {
+          "name": "雅珂达的烦恼…",
+          "text": "不知道为什么，只要我睡的床太软，我就会失眠，但我睡在硬邦邦的地板上时，却能迅速睡着，而且睡得特别香，到底是为什么呢？真奇怪…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/db426a0d27ba48e2d4b920e7e9df46ba_4843648545813961538.mp3",
+          "audioName": "34_6012_雅珂达的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "特别喜欢的食物？一时半会我还真想不到，肉和鱼我喜欢，糖雕和饼干我也喜欢…嘿嘿，只要是好吃的，我都喜欢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/5796a0be8c8c07f987190c433b66b8c4_4533662276755854455.mp3",
+          "audioName": "35_6003_喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我不喜欢那种混合着很多食材，煮了很久…煮到食材都完全融化的大浓汤…呃，但如果非要喝的话，我也不是不能喝啦，就是尽量不喝嘛…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/477a858b3aa0c08644605582424f709c_69471667478446727.mp3",
+          "audioName": "36_6004_讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃！你手艺居然这么好，再给我盛一点，嘿嘿嘿，比奈姐的手艺还…咳！那个…你吃了没？不然…一起吃？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/38ea14adf123cb3db5a18451ca9714b0_4669992341919663262.mp3",
+          "audioName": "37_6007_收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错啊，嘿嘿，快快吃饱，好去干活。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/8a1d1a20acec4abf9a93911e07d865a8_6220562646529547548.mp3",
+          "audioName": "38_6008_收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "呃…我能…能吃完，不会浪费食物的，哈哈哈…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/0429c65fb6bfc6ebc3ca5bc94f235947_7947945081207504514.mp3",
+          "audioName": "39_6009_收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！喏，这个布娃娃给你，我刚缝好的，我第一次用这种方法缝娃娃，花了不少时间呢，娃娃里面还放了助眠安神的草药呢，你就把它放在枕头旁边吧，保证你睡得安安稳稳，绝对不会做噩梦。手怎么包着创可贴…啊…和阿舍鲁玩的时候，被它的爪子挠了一下，没事啦，哈哈哈…没事…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/f73c6b80b738f4edf23963b659f7ee51_7941735392259649996.mp3",
+          "audioName": "40_7001_生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "喔？不错啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/8cca61570c8a1e70c640ba056601ebba_4107412269636855226.mp3",
+          "audioName": "41_8001_突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "身手更灵巧了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/726c9dc8d7d375e9989c32faa0dffabf_8606175108671242278.mp3",
+          "audioName": "42_8002_突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "嗯…该活动活动筋骨了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/284301c100054a239eed17ff14e11c0d_9059345176823162879.mp3",
+          "audioName": "43_8003_突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "嘿嘿，足够我干一票大的了…怎么样？要一起吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/10/16576950/29a691dce342e32a3054228a270ac73d_3575321651811786805.mp3",
+          "audioName": "44_8004_突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "目标就是你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/10/16576950/816b2ed35d7949a0286ace83c4cf3833_7151122365245416255.mp3",
+          "audioName": "45_100001_元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "该明抢了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/712cd58a3a4f297c5de69f7ea7b8da08_9155051026983949123.mp3",
+          "audioName": "46_100002_元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "哪里跑！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/60dc3ee8a5717747d07e9a54d256229f_8658945156162177865.mp3",
+          "audioName": "47_100003_元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "都是我的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/e07ed5f8d358e6b1e58645956b5c8f9c_2216584919893109229.mp3",
+          "audioName": "48_200001_元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "拿来吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/eb00615a7ee0013cd34dc87cefb8028b_499319136780190873.mp3",
+          "audioName": "49_200002_元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "我从不走空。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/14360fe8bf21535d5235fcce0ece62e2_6970022029331493199.mp3",
+          "audioName": "50_200003_元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "喔！都是我们的了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/58a2447dd5a00617e6fad463dd0e01bb_4781271422559338552.mp3",
+          "audioName": "51_300001_打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "收获不错，总算没白跑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/c92802e89bef2c4179ad1a9b757e1c49_7074568067208998458.mp3",
+          "audioName": "52_300002_打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "又赚了一笔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/6ced38136d049885840f29313eb03973_175704387697337098.mp3",
+          "audioName": "53_300003_打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "好…好…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/05bc9391b0a90b9122040f7595318ac4_1606380486485746038.mp3",
+          "audioName": "54_410001_生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "你等着…！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/68413819e6dede672bc7a12beb005ec6_7033924032936817457.mp3",
+          "audioName": "55_410002_生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "看我不把你…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/a2d2518bffb7dc7fc622d257976a8e61_8942853052125297100.mp3",
+          "audioName": "56_410003_生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "你傻了吗？！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/542851b52f021b40f45aac1d0e63b5ef_6481516287052697032.mp3",
+          "audioName": "57_400001_同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "回来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/4ad2b29cd2222eb1707e25617d04c788_8215252646142730885.mp3",
+          "audioName": "58_400002_同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还是…难逃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/a0b05dec165fa966b0ca0d45c639e7b4_913749417219666908.mp3",
+          "audioName": "59_500001_倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我的债…还清了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/481f7c24384da619f4595cdad251c501_1042216723416708471.mp3",
+          "audioName": "60_500002_倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "这样…就好…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/bdb339aff607256148df42578a0ffb28_4772882954923516728.mp3",
+          "audioName": "61_500003_倒下·其三_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "有活干了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/6c86dbcd475c4b8eafe2adc8ad0ac9c3_3189963215963834518.mp3",
+          "audioName": "62_600001_加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "包在我身上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/c4fd6a5c041f1dbe9529def3a14b881f_7561084823132831842.mp3",
+          "audioName": "63_600002_加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "瞧我的吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/47c871f5e4393cedf0d9e655fc8ae209_6702932703312329264.mp3",
+          "audioName": "64_600003_加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "哟，初次见面，有什么要委托的事尽管说吧。无论是什么事，只要钱付够，我都能帮你…呃，大部分的事…肯定能帮你搞定。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/9c11b8bdfe180df5a840ccc83235d515_4767304689024319422.mp3",
+          "audioName": "01_1006_初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·奈芙尔",
+          "text": "唔…老板什么时候给我涨点工资呢，还有好多想买的东西…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/f28feb01b7b330f7db97b624305756bc_7644078670352996126.mp3",
+          "audioName": "02_1101_闲聊·奈芙尔_en.mp3"
+        },
+        {
+          "name": "闲聊·逛街",
+          "text": "走，逛街去啊，带你见识点好玩的东西…别声张啊，我们悄悄去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/45108d7705fb8f26a2de991aea17d9a9_4650966693852019283.mp3",
+          "audioName": "03_1102_闲聊·逛街_en.mp3"
+        },
+        {
+          "name": "闲聊·阿舍鲁",
+          "text": "上次我摸阿舍鲁的时候，它居然哧溜一下跑掉了，哼，今天不给它买鱼干吃了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/f614f30d85d1bf7731561314403dcd53_5739253570653688043.mp3",
+          "audioName": "04_1103_闲聊·阿舍鲁_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨了？走走走，躲躲雨去，别被淋湿了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/6b2435ba54470bd546125f394873ecad_5618354075389507466.mp3",
+          "audioName": "05_1201_下雨的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "呜哇！雪飞进脖子了，冷死了冷死了——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/509ca975fb2082f3ef2272669f064f90_2330255220509834795.mp3",
+          "audioName": "06_1202_下雪的时候…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "呸呸呸，沙子飞嘴里了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/af522426f4dcb9a635db2d98ce5f0242_6926186973817722518.mp3",
+          "audioName": "07_1203_在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早啊，吃早饭了没，我带你去吃点好吃的？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/241cdf936c0c947532ee88f094edd296_7323958154883537181.mp3",
+          "audioName": "08_1001_早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "唔，不然还是回店里睡个午觉吧，总觉得好困…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/50ce8fdb9fe0b4c0e00e0a37406e8318_7917575713112416364.mp3",
+          "audioName": "09_1002_中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "都这个时间了，收工收工，回去摸阿舍鲁去喽~",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/970435256d35a3af165b5a8d774fd91a_5155319064065614919.mp3",
+          "audioName": "10_1003_晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "呼啊——该睡觉了…喂，你还在忙啊？差不多也该休息去啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/03f71f83cc2e35f4da096941a561ce5f_4766340175307929720.mp3",
+          "audioName": "11_1004_晚安…_en.mp3"
+        },
+        {
+          "name": "关于雅珂达自己·经历",
+          "text": "来「秘闻馆」之前，我的「工作经历」可杂了，摸爬滚打了那么长时间，才遇见了奈姐这么一个好老板，也算是我苦尽甘来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/bed4bfa6a45abfc4ec63dd17e5aeaa0a_2523356420608042146.mp3",
+          "audioName": "12_2001_关于雅珂达自己·经历_en.mp3"
+        },
+        {
+          "name": "关于雅珂达自己·秘闻馆",
+          "text": "老板对我挺好的，阿舍鲁对我也还算不错。嗯…但我有时候会不由自主地把老板叫做奈姐，怎么也改不过来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/a0908a47cb631189c8b4e942773eab02_1451732063842496973.mp3",
+          "audioName": "13_2005_关于雅珂达自己·秘闻馆_en.mp3"
+        },
+        {
+          "name": "关于我们·故乡",
+          "text": "我的故乡？我都不记得了…我也不在意这种东西，只要能吃饱饭，能安稳睡觉的地方，就算是我的「故乡」喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/9f1f3128a9ea5d32c898eba0d4484054_6042446670108409066.mp3",
+          "audioName": "14_2003_关于我们·故乡_en.mp3"
+        },
+        {
+          "name": "关于我们·朋友",
+          "text": "我们都一起出生入死过了，当然已经是朋友了。下次遇见麻烦的时候，我的背后就交给你喽，尽量别出卖我，好么？就算要卖，也请卖一个好价钱，不然我的身价可要跌了…哎呀，开玩笑的，我知道你不会出卖我，你是一个好人，不会做这种自私的事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/9af5249baa57717bd050a5b35ea149dc_3398310509330106758.mp3",
+          "audioName": "15_2002_关于我们·朋友_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "嘿嘿，它可是我的宝贝，有了它之后，干活都轻松不少。没想到啊没想到，我雅珂达也有运气这么好的时候…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/66c39a26263cc9a85f0f8f058883a51f_8978204670399742991.mp3",
+          "audioName": "16_3006_关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享·宝藏猎人",
+          "text": "你在街上是不是遇见过自称「宝藏猎人」的家伙？别被这个名号唬住了，你就把他们理解成挪德卡莱的「雇佣兵」就好了，只要给够钱，他们就会愿意给你办事。如果你真想找这群人帮忙的话，我认识几个好手，到时候介绍给你啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/bd420cde6deadb7092901a6e2db15b30_2522670352339076278.mp3",
+          "audioName": "17_3002_有什么想要分享·宝藏猎人_en.mp3"
+        },
+        {
+          "name": "有什么想要分享·大炮",
+          "text": "「轰隆隆月矩力能量炮」开炮的时候，真的很帅气啊。唔…要是能买一台那门大炮的等比例缩小机械模型就好了，爱诺能不能帮我做一台呢，反正这门大炮也是她造的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/cce05c14d1b5d2c1818bb70cd30158d9_6782428300199077797.mp3",
+          "audioName": "18_3005_有什么想要分享·大炮_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我昨天突然胡思乱想，你说…到底多少粒沙子聚在一起，才能被称为「一堆沙」呢？一百粒？一千粒？好像都不太对喔，过几天我去找爱诺问问好了，她肯定知道。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/7794f5a4c3d0b70020ae0c2895990203_4182635088510314641.mp3",
+          "audioName": "19_3003_感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于菈乌玛…",
+          "text": "菈乌玛小姐？嗯…虽然我不怎么了解她，但我也知道她的身份可高了，实力也很强，而且她还能和动物说话呢，这么一来，希汐岛上的那些动物，不都等于是菈乌玛小姐的耳目了？怪不得没有宝藏猎人敢去希汐岛「寻宝」呢，这一上岛不就等于自投罗网吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/7b69f37769ba38272781491371ec87a2_9100800943694192743.mp3",
+          "audioName": "20_4001_关于菈乌玛…_en.mp3"
+        },
+        {
+          "name": "关于伊涅芙…",
+          "text": "啊，那个笨蛋机器人啊，做蛋卷挺好吃的啊，就是总记不住人说话，而且也没什么幽默感，随便说个玩笑都要认真地问我哪里好笑，但她的蛋卷真的很好吃喔，有机会你一定要尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/fc5e7e2795eb32ef5417893fbcdacf0a_8501898110559619488.mp3",
+          "audioName": "21_4002_关于伊涅芙…_en.mp3"
+        },
+        {
+          "name": "关于奈芙尔…",
+          "text": "奈姐当然是我最最亲爱的老板啦！嘿嘿嘿，她不仅给我开工资，还管吃管住。不过，她手底下好像也就只有我一个正式员工…啊，还有阿舍鲁，差点忘了。不过，阿舍鲁说是员工，却一次委托都没出过…哼，居然吃闲饭，下次我就抱着它出外勤去！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/c3b528f1143e7040141fa047c0bc794c_33749992392631172.mp3",
+          "audioName": "22_4003_关于奈芙尔…_en.mp3"
+        },
+        {
+          "name": "关于爱诺…",
+          "text": "爱诺的手艺可好了，无论我把胳膊折腾成什么样，她都能修好。但是每次修理手臂的时候，爱诺都会在上面画画，说什么这样比较可爱，虽然确实挺可爱的，但她怎么不在伊涅芙身上画呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/2e65f46f3cdb4a2b4999ea5a997b0d17_4760343431644597928.mp3",
+          "audioName": "23_4004_关于爱诺…_en.mp3"
+        },
+        {
+          "name": "关于菲林斯…",
+          "text": "我听奈姐说过，执灯人是一个历史很悠久的组织，里面的人又厉害又聪明，还知道很多古老的秘辛。你说…菲林斯会不会也知道某些宝藏的线索？或者是知道哪里有没被挖过的遗迹？呃，我就是想想，不会去问的，不然奈姐又要训我了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/abe0f748ffa1adfcc91eee71387d04b9_472986137523817038.mp3",
+          "audioName": "24_4005_关于菲林斯…_en.mp3"
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "你说法尔伽大叔啊，他倒是和我说过自己是西风骑士团大团长…但是根本看不出来嘛，骑士团团长不应该是那种很认真，看着就很可靠的人么？啊！我可没有说法尔伽大叔不可靠的意思啊。不过，西风骑士团的大团长在这里，那留在蒙德的骑士们又归谁管呢…欸？一个很认真，看着就很可靠的人，哈哈…西风骑士团，真是复杂啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/2bf9e2695982e24a5b77cb2b6f737c24_8980426275688550141.mp3",
+          "audioName": "25_4006_关于法尔伽…_en.mp3"
+        },
+        {
+          "name": "关于「库塔尔」…",
+          "text": "那位大人物啊…唉，要是放在之前，遇见背景这么复杂的人，我一定会离她远远的，跑得越远越好！不过…她之前救过我，我也要还她的人情才行，不然也太不讲义气了。虽然话是这么说，但我总共就只有一条命，再这么折腾下去，我看多少条命都不够往里面赔的，老板保佑老板保佑…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/56b56db22ad3b59ce86b83882247db61_2798048656697114839.mp3",
+          "audioName": "26_4007_关于「库塔尔」…_en.mp3"
+        },
+        {
+          "name": "关于「木偶」…",
+          "text": "下次，我绝对不会去那种地方了！就、就算要去，也要老板和我一起去才行，这又是狂猎又是愚人众的，我有命赚钱，没命花钱啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/50cb31ba21d87eef9ff0f1052d468339_8182781343672992195.mp3",
+          "audioName": "27_4008_关于「木偶」…_en.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其一",
+          "text": "在「秘闻馆」里，大事归奈姐，小事归我，开门接待的事归阿舍鲁。什么算大，什么算小？那就得看奈姐了，她是老板嘛，说什么就是什么…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/9b080ecfff82d3687eb6f8bd83d99c5a_8102085509558763720.mp3",
+          "audioName": "28_5001_想要了解雅珂达·其一_en.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其二",
+          "text": "好好赚钱，好好吃饭，这就是我现在的人生信条，反正只要跟紧奈姐的脚步，我肯定天天能吃饱，嘿嘿嘿…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/50db593fa4a1e9b13e51017508dbd7c1_4815942095808064907.mp3",
+          "audioName": "29_5002_想要了解雅珂达·其二_en.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其三",
+          "text": "我的右胳膊？啊…没什么大不了的，它只不过是被我作为「代价」交换出去了，放心啦，那一笔买卖做得很划算，至少在我看来，不算是亏本买卖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/87b1028f1fb9c6cf48768043d4a4c224_1936455422804739069.mp3",
+          "audioName": "30_5003_想要了解雅珂达·其三_en.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其四",
+          "text": "就像买东西需要付出摩拉一样，如果你想要获得某种东西，就一定会付出某种「代价」。那些有形的「代价」能够被计算规划，但某些无形的「代价」，却总是难以估量，它们会蛰伏在你的影子里静候时机，待到你孤立无援时，它们就会现出身形，向你索要一份你根本无法付清的赎金。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/10/16576950/1ce0201495a70263de794025f85e4dff_2813758688734203493.mp3",
+          "audioName": "31_5004_想要了解雅珂达·其四_en.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其五",
+          "text": "喂，如果你也要为什么事情支付「赎金」的话，可以来找我帮忙喔，就算我的钱不够，我也可以厚着脸皮找奈姐的，大不了…我就再给她白打工一段时间。但你可千万别直接找奈姐，如果你一定要欠一个人的钱，那你还是欠我的好，记在奈姐手上的债，可能是世界上最难还的了…我怎么知道？呃，啊…你、你别问这么多，听我的就是了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/b61373cf12efd69f1cce590c75654d78_6796444787090074434.mp3",
+          "audioName": "32_5005_想要了解雅珂达·其五_en.mp3"
+        },
+        {
+          "name": "雅珂达的爱好…",
+          "text": "我闲下来的时候，偶尔会缝一缝布娃娃，虽然没真正找哪位大师学过，但我之前…认识的人都说，我缝的像模像样，下次也做一个送给你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/bf5859a90016dc77a5f7bca3c2f5aff4_2230980269102089511.mp3",
+          "audioName": "33_6001_雅珂达的爱好…_en.mp3"
+        },
+        {
+          "name": "雅珂达的烦恼…",
+          "text": "不知道为什么，只要我睡的床太软，我就会失眠，但我睡在硬邦邦的地板上时，却能迅速睡着，而且睡得特别香，到底是为什么呢？真奇怪…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/9faf9d826dcb8d32ec08c6f2887d9c1b_931340931861345534.mp3",
+          "audioName": "34_6012_雅珂达的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "特别喜欢的食物？一时半会我还真想不到，肉和鱼我喜欢，糖雕和饼干我也喜欢…嘿嘿，只要是好吃的，我都喜欢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/62f67a3ea07ed6bd5834e13374b1c2a4_3830770282041391074.mp3",
+          "audioName": "35_6003_喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我不喜欢那种混合着很多食材，煮了很久…煮到食材都完全融化的大浓汤…呃，但如果非要喝的话，我也不是不能喝啦，就是尽量不喝嘛…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1bb92a207fc2dd8fd88c840ddb88f268_4056400085554754892.mp3",
+          "audioName": "36_6004_讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃！你手艺居然这么好，再给我盛一点，嘿嘿嘿，比奈姐的手艺还…咳！那个…你吃了没？不然…一起吃？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/a6abbb18eab02a0c6be65ae52c2becd8_5556984434218035074.mp3",
+          "audioName": "37_6007_收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错啊，嘿嘿，快快吃饱，好去干活。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/10/16576950/616aa855bd8bec24ac4b287051d12668_7223948602170957224.mp3",
+          "audioName": "38_6008_收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "呃…我能…能吃完，不会浪费食物的，哈哈哈…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/10/16576950/e3c2425099994a88a651c1149f8ae817_4479396545609234885.mp3",
+          "audioName": "39_6009_收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！喏，这个布娃娃给你，我刚缝好的，我第一次用这种方法缝娃娃，花了不少时间呢，娃娃里面还放了助眠安神的草药呢，你就把它放在枕头旁边吧，保证你睡得安安稳稳，绝对不会做噩梦。手怎么包着创可贴…啊…和阿舍鲁玩的时候，被它的爪子挠了一下，没事啦，哈哈哈…没事…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/7f18bb386b992ca1174d167597c0cc22_8525429163960857173.mp3",
+          "audioName": "40_7001_生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "喔？不错啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/3b1f1ebe0c87793d66c9795612319f70_6870385395545575663.mp3",
+          "audioName": "41_8001_突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "身手更灵巧了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/ede1735cd4cf170f06a67fd1e12b8156_5475070448097600359.mp3",
+          "audioName": "42_8002_突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "嗯…该活动活动筋骨了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/386664f358251c0356003332e568dfeb_1039433185258541792.mp3",
+          "audioName": "43_8003_突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "嘿嘿，足够我干一票大的了…怎么样？要一起吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/108ec10185ad96bce434d59e61a75a85_5867287860936616271.mp3",
+          "audioName": "44_8004_突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "目标就是你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/902c4ddca81977e8a5a0abb2b1c435d4_532006520673998922.mp3",
+          "audioName": "45_100001_元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "该明抢了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/2726d49fa49ed8fb4a920b6df581e971_2587818233101868819.mp3",
+          "audioName": "46_100002_元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "哪里跑！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1baf94afe840f6e80378408d8e875d9c_1820407048761154054.mp3",
+          "audioName": "47_100003_元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "都是我的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/210bdb9066222dcd0c06ae3d148effa5_8303485727191683290.mp3",
+          "audioName": "48_200001_元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "拿来吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/0c3787e2d6f1f301ee762ce828b043fc_8496926906848909849.mp3",
+          "audioName": "49_200002_元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "我从不走空。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/66a50c954681e3765a33afd092824b45_1293519279042019973.mp3",
+          "audioName": "50_200003_元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "喔！都是我们的了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/ff4bf3236fe4896d97fa9adff81d8b0a_5176702824592147090.mp3",
+          "audioName": "51_300001_打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "收获不错，总算没白跑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/cecb059c568105b836a611a3fc4eacef_7467879602911273110.mp3",
+          "audioName": "52_300002_打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "又赚了一笔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1ac1616b55f441d8eb46406c2e81b8a7_6180861855368986753.mp3",
+          "audioName": "53_300003_打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "好…好…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/c970deecbcfe05173039817438ff2e13_4459440148971396450.mp3",
+          "audioName": "54_410001_生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "你等着…！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/dfef7780ae2d1ef43b9b9c9cf0882832_4678541426191183032.mp3",
+          "audioName": "55_410002_生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "看我不把你…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/9f5e90c99eefa1d3b9695e8105ef3024_5069792360390544439.mp3",
+          "audioName": "56_410003_生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "你傻了吗？！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/abf2aa4c6e2024e4ca817d79f1e67217_1646417807712215058.mp3",
+          "audioName": "57_400001_同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "回来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/863ddbe5a3914c2743e30270fdf3ca17_4205829169849013236.mp3",
+          "audioName": "58_400002_同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还是…难逃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/97d296fb665a0b7a30f2999ac36e265f_356032661847079618.mp3",
+          "audioName": "59_500001_倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我的债…还清了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/dc1db7d043b6ff64cbc11062836211bf_2055317600131500224.mp3",
+          "audioName": "60_500002_倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "这样…就好…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/f61a70cfb1db2e3ffd80dd4e822f5164_5533236770650173732.mp3",
+          "audioName": "61_500003_倒下·其三_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "有活干了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1f4abbf8fbb89112e9f671c3fdb538c5_1674290666796156747.mp3",
+          "audioName": "62_600001_加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "包在我身上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/8836c53e6ac078a68408c29437a4f6ae_3049239910697342239.mp3",
+          "audioName": "63_600002_加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "瞧我的吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1ae29e2d4ea72e03154727af3d86de10_1324898918819417315.mp3",
+          "audioName": "64_600003_加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "哟，初次见面，有什么要委托的事尽管说吧。无论是什么事，只要钱付够，我都能帮你…呃，大部分的事…肯定能帮你搞定。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/87a33c0e26b6ed56cb8f19a08f1a72ea_8224166507973236945.mp3",
+          "audioName": "01_1006_初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·奈芙尔",
+          "text": "唔…老板什么时候给我涨点工资呢，还有好多想买的东西…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/f8b783f0651faec5082cc5a61a68eb75_902502560191993419.mp3",
+          "audioName": "02_1101_闲聊·奈芙尔_kr.mp3"
+        },
+        {
+          "name": "闲聊·逛街",
+          "text": "走，逛街去啊，带你见识点好玩的东西…别声张啊，我们悄悄去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/5f1be05c7c55ac01fc46b7e8e69f9648_4785447912961561905.mp3",
+          "audioName": "03_1102_闲聊·逛街_kr.mp3"
+        },
+        {
+          "name": "闲聊·阿舍鲁",
+          "text": "上次我摸阿舍鲁的时候，它居然哧溜一下跑掉了，哼，今天不给它买鱼干吃了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/08d9a6c8aa766f25f53624c1407598d1_5373525137286806226.mp3",
+          "audioName": "04_1103_闲聊·阿舍鲁_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨了？走走走，躲躲雨去，别被淋湿了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/3297924f6d0f4af51458f25f712cc3a1_9071102076092128567.mp3",
+          "audioName": "05_1201_下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "呜哇！雪飞进脖子了，冷死了冷死了——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/20b3232aaf1c47d117590e6df2734339_2781719674704455496.mp3",
+          "audioName": "06_1202_下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "呸呸呸，沙子飞嘴里了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/6db469a02122e44692fd9035d69ee288_7101810616177202388.mp3",
+          "audioName": "07_1203_在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早啊，吃早饭了没，我带你去吃点好吃的？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/05c39315996df1fc88a2eab2587e5d67_646441537844560390.mp3",
+          "audioName": "08_1001_早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "唔，不然还是回店里睡个午觉吧，总觉得好困…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/51473c128ad504c7e53010c4c5b3488b_1515145124740157493.mp3",
+          "audioName": "09_1002_中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "都这个时间了，收工收工，回去摸阿舍鲁去喽~",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/290514a1328dba8a996d212a1f66bcf9_1889709685982547247.mp3",
+          "audioName": "10_1003_晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "呼啊——该睡觉了…喂，你还在忙啊？差不多也该休息去啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/208d05c190f05e94a3a9d75b71ecdbb6_5324358535030813106.mp3",
+          "audioName": "11_1004_晚安…_kr.mp3"
+        },
+        {
+          "name": "关于雅珂达自己·经历",
+          "text": "来「秘闻馆」之前，我的「工作经历」可杂了，摸爬滚打了那么长时间，才遇见了奈姐这么一个好老板，也算是我苦尽甘来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/c81c43f8c1d26c75b0721245b9e45725_5362576610330773664.mp3",
+          "audioName": "12_2001_关于雅珂达自己·经历_kr.mp3"
+        },
+        {
+          "name": "关于雅珂达自己·秘闻馆",
+          "text": "老板对我挺好的，阿舍鲁对我也还算不错。嗯…但我有时候会不由自主地把老板叫做奈姐，怎么也改不过来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/a733262db4c5d6a2fa096ee2470ad229_6310235621531603240.mp3",
+          "audioName": "13_2005_关于雅珂达自己·秘闻馆_kr.mp3"
+        },
+        {
+          "name": "关于我们·故乡",
+          "text": "我的故乡？我都不记得了…我也不在意这种东西，只要能吃饱饭，能安稳睡觉的地方，就算是我的「故乡」喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/53200fd5e044d750f90491cb3c6f2113_1351263932187341859.mp3",
+          "audioName": "14_2003_关于我们·故乡_kr.mp3"
+        },
+        {
+          "name": "关于我们·朋友",
+          "text": "我们都一起出生入死过了，当然已经是朋友了。下次遇见麻烦的时候，我的背后就交给你喽，尽量别出卖我，好么？就算要卖，也请卖一个好价钱，不然我的身价可要跌了…哎呀，开玩笑的，我知道你不会出卖我，你是一个好人，不会做这种自私的事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/0fdd72189a29c7f077592119ea5ea49b_2023477380116615197.mp3",
+          "audioName": "15_2002_关于我们·朋友_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "嘿嘿，它可是我的宝贝，有了它之后，干活都轻松不少。没想到啊没想到，我雅珂达也有运气这么好的时候…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/e025e640a93b2a6b312a96af95eca8fe_4031197487939072656.mp3",
+          "audioName": "16_3006_关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享·宝藏猎人",
+          "text": "你在街上是不是遇见过自称「宝藏猎人」的家伙？别被这个名号唬住了，你就把他们理解成挪德卡莱的「雇佣兵」就好了，只要给够钱，他们就会愿意给你办事。如果你真想找这群人帮忙的话，我认识几个好手，到时候介绍给你啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/0cd9bca400be1f899f69a472dbb92b95_7745584587814371169.mp3",
+          "audioName": "17_3002_有什么想要分享·宝藏猎人_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享·大炮",
+          "text": "「轰隆隆月矩力能量炮」开炮的时候，真的很帅气啊。唔…要是能买一台那门大炮的等比例缩小机械模型就好了，爱诺能不能帮我做一台呢，反正这门大炮也是她造的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/34aaee2dfd9e949c666fc5ddc75c4810_6917187002096110087.mp3",
+          "audioName": "18_3005_有什么想要分享·大炮_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我昨天突然胡思乱想，你说…到底多少粒沙子聚在一起，才能被称为「一堆沙」呢？一百粒？一千粒？好像都不太对喔，过几天我去找爱诺问问好了，她肯定知道。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/888fd045eff60e090da3140b129fea8a_1548099994863703294.mp3",
+          "audioName": "19_3003_感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于菈乌玛…",
+          "text": "菈乌玛小姐？嗯…虽然我不怎么了解她，但我也知道她的身份可高了，实力也很强，而且她还能和动物说话呢，这么一来，希汐岛上的那些动物，不都等于是菈乌玛小姐的耳目了？怪不得没有宝藏猎人敢去希汐岛「寻宝」呢，这一上岛不就等于自投罗网吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/545f86a20da4bbf59da95cc2194df24f_1897538736409062027.mp3",
+          "audioName": "20_4001_关于菈乌玛…_kr.mp3"
+        },
+        {
+          "name": "关于伊涅芙…",
+          "text": "啊，那个笨蛋机器人啊，做蛋卷挺好吃的啊，就是总记不住人说话，而且也没什么幽默感，随便说个玩笑都要认真地问我哪里好笑，但她的蛋卷真的很好吃喔，有机会你一定要尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/f3011f9ff590b4b56fd64beb9e06da18_4021073508977219750.mp3",
+          "audioName": "21_4002_关于伊涅芙…_kr.mp3"
+        },
+        {
+          "name": "关于奈芙尔…",
+          "text": "奈姐当然是我最最亲爱的老板啦！嘿嘿嘿，她不仅给我开工资，还管吃管住。不过，她手底下好像也就只有我一个正式员工…啊，还有阿舍鲁，差点忘了。不过，阿舍鲁说是员工，却一次委托都没出过…哼，居然吃闲饭，下次我就抱着它出外勤去！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/590d4ecbfa8776c03f73a2aa051f0780_1873635809095966296.mp3",
+          "audioName": "22_4003_关于奈芙尔…_kr.mp3"
+        },
+        {
+          "name": "关于爱诺…",
+          "text": "爱诺的手艺可好了，无论我把胳膊折腾成什么样，她都能修好。但是每次修理手臂的时候，爱诺都会在上面画画，说什么这样比较可爱，虽然确实挺可爱的，但她怎么不在伊涅芙身上画呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/e7bd64fa108f6a204a344095dbebdd74_4528989422047643138.mp3",
+          "audioName": "23_4004_关于爱诺…_kr.mp3"
+        },
+        {
+          "name": "关于菲林斯…",
+          "text": "我听奈姐说过，执灯人是一个历史很悠久的组织，里面的人又厉害又聪明，还知道很多古老的秘辛。你说…菲林斯会不会也知道某些宝藏的线索？或者是知道哪里有没被挖过的遗迹？呃，我就是想想，不会去问的，不然奈姐又要训我了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/d5a4e740da042327748dd7bb03051dab_8324026150957381835.mp3",
+          "audioName": "24_4005_关于菲林斯…_kr.mp3"
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "你说法尔伽大叔啊，他倒是和我说过自己是西风骑士团大团长…但是根本看不出来嘛，骑士团团长不应该是那种很认真，看着就很可靠的人么？啊！我可没有说法尔伽大叔不可靠的意思啊。不过，西风骑士团的大团长在这里，那留在蒙德的骑士们又归谁管呢…欸？一个很认真，看着就很可靠的人，哈哈…西风骑士团，真是复杂啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/c32f5a0f8121268ae974479fa5027a8b_7365435585881997948.mp3",
+          "audioName": "25_4006_关于法尔伽…_kr.mp3"
+        },
+        {
+          "name": "关于「库塔尔」…",
+          "text": "那位大人物啊…唉，要是放在之前，遇见背景这么复杂的人，我一定会离她远远的，跑得越远越好！不过…她之前救过我，我也要还她的人情才行，不然也太不讲义气了。虽然话是这么说，但我总共就只有一条命，再这么折腾下去，我看多少条命都不够往里面赔的，老板保佑老板保佑…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/5b2efd8b6bd12260de164f326d11df51_8754909132908169272.mp3",
+          "audioName": "26_4007_关于「库塔尔」…_kr.mp3"
+        },
+        {
+          "name": "关于「木偶」…",
+          "text": "下次，我绝对不会去那种地方了！就、就算要去，也要老板和我一起去才行，这又是狂猎又是愚人众的，我有命赚钱，没命花钱啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/27e480234867c63db835be4ff8e73f17_2813237298093082032.mp3",
+          "audioName": "27_4008_关于「木偶」…_kr.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其一",
+          "text": "在「秘闻馆」里，大事归奈姐，小事归我，开门接待的事归阿舍鲁。什么算大，什么算小？那就得看奈姐了，她是老板嘛，说什么就是什么…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/f736ac1984fb2b47bdde209300d15fa2_6204038580600235642.mp3",
+          "audioName": "28_5001_想要了解雅珂达·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其二",
+          "text": "好好赚钱，好好吃饭，这就是我现在的人生信条，反正只要跟紧奈姐的脚步，我肯定天天能吃饱，嘿嘿嘿…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/174a9b6e6d1a89c7625331dad3a2f516_6824715315934388975.mp3",
+          "audioName": "29_5002_想要了解雅珂达·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其三",
+          "text": "我的右胳膊？啊…没什么大不了的，它只不过是被我作为「代价」交换出去了，放心啦，那一笔买卖做得很划算，至少在我看来，不算是亏本买卖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/e3e36639cc73963fa09d0631c1e7d8b5_8733332638060941907.mp3",
+          "audioName": "30_5003_想要了解雅珂达·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其四",
+          "text": "就像买东西需要付出摩拉一样，如果你想要获得某种东西，就一定会付出某种「代价」。那些有形的「代价」能够被计算规划，但某些无形的「代价」，却总是难以估量，它们会蛰伏在你的影子里静候时机，待到你孤立无援时，它们就会现出身形，向你索要一份你根本无法付清的赎金。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/ca2b37b4b629b1281bd486357604f0cc_692833590599067534.mp3",
+          "audioName": "31_5004_想要了解雅珂达·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解雅珂达·其五",
+          "text": "喂，如果你也要为什么事情支付「赎金」的话，可以来找我帮忙喔，就算我的钱不够，我也可以厚着脸皮找奈姐的，大不了…我就再给她白打工一段时间。但你可千万别直接找奈姐，如果你一定要欠一个人的钱，那你还是欠我的好，记在奈姐手上的债，可能是世界上最难还的了…我怎么知道？呃，啊…你、你别问这么多，听我的就是了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/cf43c83d01f48aba66fcf4d4a825f73f_7702373670604831213.mp3",
+          "audioName": "32_5005_想要了解雅珂达·其五_kr.mp3"
+        },
+        {
+          "name": "雅珂达的爱好…",
+          "text": "我闲下来的时候，偶尔会缝一缝布娃娃，虽然没真正找哪位大师学过，但我之前…认识的人都说，我缝的像模像样，下次也做一个送给你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/0b5c6b113d3ec91f63bbc3872e282131_4625858353725214355.mp3",
+          "audioName": "33_6001_雅珂达的爱好…_kr.mp3"
+        },
+        {
+          "name": "雅珂达的烦恼…",
+          "text": "不知道为什么，只要我睡的床太软，我就会失眠，但我睡在硬邦邦的地板上时，却能迅速睡着，而且睡得特别香，到底是为什么呢？真奇怪…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/b5609fb4a3faa3e449e0f87b231674fa_3389902310885671538.mp3",
+          "audioName": "34_6012_雅珂达的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "特别喜欢的食物？一时半会我还真想不到，肉和鱼我喜欢，糖雕和饼干我也喜欢…嘿嘿，只要是好吃的，我都喜欢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/785a339839d21e537f915e7df85ad1ad_495699555266487183.mp3",
+          "audioName": "35_6003_喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我不喜欢那种混合着很多食材，煮了很久…煮到食材都完全融化的大浓汤…呃，但如果非要喝的话，我也不是不能喝啦，就是尽量不喝嘛…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/5b2eb0436643e9e2db962526d7d3d63d_439650239830004004.mp3",
+          "audioName": "36_6004_讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃！你手艺居然这么好，再给我盛一点，嘿嘿嘿，比奈姐的手艺还…咳！那个…你吃了没？不然…一起吃？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/17a7b5184ce31a242e776aeca38c8263_3197322291596490825.mp3",
+          "audioName": "37_6007_收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错啊，嘿嘿，快快吃饱，好去干活。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/1d0a5b8ccbf4c4087d5c78beab9fdcab_954743211028411426.mp3",
+          "audioName": "38_6008_收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "呃…我能…能吃完，不会浪费食物的，哈哈哈…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/c91ee3c5ba4a55cbf2526c33bbc0fc2b_7927195329955488917.mp3",
+          "audioName": "39_6009_收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！喏，这个布娃娃给你，我刚缝好的，我第一次用这种方法缝娃娃，花了不少时间呢，娃娃里面还放了助眠安神的草药呢，你就把它放在枕头旁边吧，保证你睡得安安稳稳，绝对不会做噩梦。手怎么包着创可贴…啊…和阿舍鲁玩的时候，被它的爪子挠了一下，没事啦，哈哈哈…没事…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/6dade0eff37bfb550c2a16b4fb175174_6306665548805204927.mp3",
+          "audioName": "40_7001_生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "喔？不错啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/b5e5800f413958ed71649ca8a693871a_8201794132988161427.mp3",
+          "audioName": "41_8001_突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "身手更灵巧了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/8d3ca87f481f1ffd35141a273909a19c_7271890158380093634.mp3",
+          "audioName": "42_8002_突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "嗯…该活动活动筋骨了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/7e77755e674a679c6f961f765d32995d_2263146692443314962.mp3",
+          "audioName": "43_8003_突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "嘿嘿，足够我干一票大的了…怎么样？要一起吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/947a174c39aed74eb2326affe2094bb6_6275369703097590221.mp3",
+          "audioName": "44_8004_突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "目标就是你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/ea3963eff6c19925a4d1714eb2cfed2c_4475815111777535763.mp3",
+          "audioName": "45_100001_元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "该明抢了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/b8642e5774448fc31ac234a27e55d5b4_5083041506052859727.mp3",
+          "audioName": "46_100002_元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "哪里跑！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/3a0d1c36bee9a435a1357cb73efb04bf_1662201033234619684.mp3",
+          "audioName": "47_100003_元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "都是我的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/c4886cc86257d0491d8e97649dc8d9d3_9075886908240707145.mp3",
+          "audioName": "48_200001_元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "拿来吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/7835ed21fcbb434c675fa4d3d7d78236_1844912008369878361.mp3",
+          "audioName": "49_200002_元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "我从不走空。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/5e6d82bfbbf3c37a3ba4b75dafad4ae2_2219448805970964389.mp3",
+          "audioName": "50_200003_元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "喔！都是我们的了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/cbae0c24250ce06025226ac240748b95_725267775859700564.mp3",
+          "audioName": "51_300001_打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "收获不错，总算没白跑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/41cf8a81608eb58fb0fc56557cbcf332_7363362006667680083.mp3",
+          "audioName": "52_300002_打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "又赚了一笔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/d0e95a001b8f0620cd854941b1f5ff4c_5753396833537317698.mp3",
+          "audioName": "53_300003_打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "好…好…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/10/16576950/335d1ca4ac0229098c799d196e367be3_1635490544627495135.mp3",
+          "audioName": "54_410001_生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "你等着…！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/100998effd0bd8ec8e1c5dd49a5e9065_1990554971644976121.mp3",
+          "audioName": "55_410002_生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "看我不把你…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/55818ab76d84074576d5fe7bc5c694b4_1436377495051328383.mp3",
+          "audioName": "56_410003_生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "你傻了吗？！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/7b6dff25ff4f9420efa5e7bd0ef12e14_2353772292333777839.mp3",
+          "audioName": "57_400001_同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "回来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/92ea9dd6e0c9b2f9d6b55fbb57baba31_1580336246825768323.mp3",
+          "audioName": "58_400002_同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还是…难逃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/7d1981e97e8d9bf918d2bc70129e149f_6504109859039304353.mp3",
+          "audioName": "59_500001_倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我的债…还清了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/0b5131c88131fc519968939d404d3f86_2375486503850561449.mp3",
+          "audioName": "60_500002_倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "这样…就好…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/e15c6ce06cf0c9562c0d93b4cdc3fb07_8172637765778916689.mp3",
+          "audioName": "61_500003_倒下·其三_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "有活干了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/530a8afcf44b78955b58ce8d71faa438_2330575569149099047.mp3",
+          "audioName": "62_600001_加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "包在我身上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/e60a2bcc839ef8f8b21c0622ac2fe986_7329627577172309928.mp3",
+          "audioName": "63_600002_加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "瞧我的吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/12/06/16576950/8790c2e5dcca2e74f4d313f576e7cf55_4110368457437285407.mp3",
+          "audioName": "64_600003_加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

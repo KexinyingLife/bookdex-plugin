@@ -1,0 +1,1637 @@
+{
+  "id": "644",
+  "name": "重云",
+  "alias": [
+    "重云"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我名重云，家族久居璃月，世代以驱邪除魔为业。今日萍水相逢，看来我与阁下有些缘分。唔…不收钱的，不收钱！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f627acce6fb7022453f29eaa431de52e_804024992164447343.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·驱邪之法",
+          "text": "方士驱邪一靠咒术，二赖武艺。另辟蹊径亦可，但终非正道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8bc59c5bc5727b47c9821fcb08d2cc16_2374330755777304309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·饮食",
+          "text": "寒食饮冰利于平神静气…清心泡水辅以冰块饮下，对身体最好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bb67fa4db9991465ab7a75f50743cc16_6777820293351008858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·口诀",
+          "text": "驱邪缚魅，内外澄清，啊，呃…糟了，后半句口诀忘了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/031b2304573bfa44eca74defa47eb490_3116186378063717539.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨是无根水，是最澄净的水，对驱邪除魔大有帮助。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f28f8ac78258c854bdef90d0b5f17625_7740022616250079408.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这落雷好大阵仗，妖邪也会惧怕的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eeac92c59b172315e64416581b29d806_4733782485027762251.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "啊…好天气，真是舒服。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/88442073ab1d6e7f1acae09f08529ce5_7518920159684896675.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早晨的好时光可不能辜负，抓紧练功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ef655f1547486055ef7ee31c9ba7d6ee_6555016746921328617.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "正午灵气极盛，可得抓紧练功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a247d91033c21fe8f104ae75c707dd6d_4350463249399709085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚间最适静息凝神，更要抓紧练功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8a670c462d3ec7e033feeee64ee4c111_1458103958960533732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "呼，累了一整天，你也休息去吧。明天再去传闻中鬼怪出没的老宅看看，说好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6066b9da897a157d2b67ea01d649466f_241449809279028214.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云自己·方士",
+          "text": "我们方士一派自古守护璃月，传承久远，剿杀邪魔自然是手到擒来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9d65e07e90bf07e35b781d507d958d6b_1961147467179509724.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云自己·委托",
+          "text": "明明什么都没做，只是进了凶宅的门就解决了问题。这个委托的报酬，你觉得是拿还是不拿呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/290c235308c8dd03555f37be4cf6a788_8581798265173256376.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·旅伴",
+          "text": "你的本事不错，对丘丘…咳…邪魔从不手软，我们结伴而行如何。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/affa85f3dc26d48bd883eee9b9b594b0_8417053599165625633.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·怪谈",
+          "text": "璃月的奇闻异事你已经见了不少吧，你说的那些方外的鬼怪，我…我也想看看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d9b03a2db54a967d93f0947e7dc1d26c_2420138997661552057.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」虽然厉害，却不可盲目依赖。我还是更加信任方术和武技。本事要精进，还是得勤学苦练。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e314f984b64ac6c869678fd137787a99_7202176674555826673.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "璃月的土地上妖邪传闻虽然众多，但真假掺杂，有些奇奇怪怪的委托…其实跟鬼怪一点关系也没有。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8cdd8097ba68c4dcc91d4cc64f56c7a7_6538081817705298463.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "听说琥牢山的琥珀中封存了不少稀奇古怪的东西，会不会也有一些历史传说中的妖邪呢？真想见识见识。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fc6a85c157259383ffb96c3a085bc43a_2731208277042061091.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "「往生堂」的钟离先生啊，隐约觉得是个厉害角色，凡夫恶党杀人，我们方士除妖，他居然能葬仙人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9bab04050aa859278c652273fc707b23_2457370489004994688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于行秋…",
+          "text": "我虽然敬佩行秋的武艺和侠心。但是我一定要事先提醒你，他坏心思也不少。如果真的发生了什么事情，记得回来和我结成受害者同盟啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3e2b2453d1b20b3931193a3565e203fe_7058698710601709871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈…",
+          "text": "降魔大圣和我们方士一派，一暗一明，共守璃月，历史已久，我非常尊敬魈上仙。但是，那位大人居然说…居然说什么驱邪方士量小力微不值一提，我，我绝对不能苟同！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6a43d7c3a25fd2a5c9b62d763741c61f_1683126319424222007.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "「往生堂」的手段还是信得过的。但是那副「不用你们方士操心」的嘻嘻笑脸却看着让人火大…呼，冷静冷静。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e0aa0f69ada5c4e0f23e703e0341b0e9_3043612130284419119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七…",
+          "text": "看起来是个僵尸小姑娘，但作为方士我能察觉到…她可不一般。嗯…名字也不见宝诰之中，究竟是哪尊呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/33b49d987da9015a6b2c2ba5ab6022ea_8600029835944980664.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "我会尽可能避开辛焱演出的区域。那般热烈的气氛，即使无意融入，也难免受其影响…我是说，会让人不自在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2af9044a435fab15d102a097f11ededb_8314445962263666195.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "香菱做菜的手艺有口皆碑，但是她那些辛辣烫口的菜品我是绝对不会碰的…没有，没有什么…你看，史莱姆滑蘑菇？这能吃吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/13ae3257849ed18d22a560d3acefd814_8236844554379059855.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于申鹤…",
+          "text": "我曾听家中长辈聊起过她。她家的遭遇…很让人同情。原以为这次能够让分家的远亲重回家中，长辈们听说她还活着也都高兴坏了，说是要备上礼物，择个吉日好好聚聚。却没想到，平日根本见不到她的人影…等等，按辈分来算的话，我、我该不会…要叫她「小姨」吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/48921d2e7242cba981f6c1d2f9df5604_6977748978898821599.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夜兰…",
+          "text": "我初任方士那会儿，受邀到委托人家中驱邪，离开时，曾撞见过这位女性。她把我的名字记在某个小册子里，或许是想确认我有没有做值得怀疑的事吧。不过就那一次，后来再没遇见过她。\n\n现在想想，大概是因为我平日打坐总是一动不动，谁看着都会觉得无趣吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/69ac59572b5851d704190aebe4e4c124_4038219655286567915.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其一",
+          "text": "本事很重要，不然空有热血，只会坏事。对于这点，我深有体会。啊，倒不是我自己的体会，呃…是近年行走璃月，观看人间百态的感悟。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/648d98ff57bca7804802af311c7ff102_1448083119051694985.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其二",
+          "text": "我天生是「纯阳之体」，据说千年难遇，所有鬼怪对我退避三舍。唉…这其实一点都不好，哪有见不着鬼怪的驱邪方士。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/faaf6410de475262bf8bc3f6d80d51fb_6401100662660351386.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其三",
+          "text": "「纯阳之体」常常导致热血太盛，没少害我出糗。我不食辛辣高温、出门撑伞、回避激荡的音律，就是为了克制它。唉…什么时候这体质才能不妨碍我呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f5ea679904bdef6fb2a89c4ea53054c5_223061551757900824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其四",
+          "text": "坐等妖邪现身是没用的，得主动寻访。我为璃月人镇邪，于人能免去烦愁，于我也能广开视野。如果你遇到邪祟搅扰，我一定也会立刻来帮你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0773aed3c00d1e715160fa60f02d583e_3927391022922750022.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其五",
+          "text": "剿灭天下妖邪是我身为方士的最终目标，将来这个宏愿实现之后，不管是温泉、绝云椒椒还是别的什么…热血刺激的东西，我其实…都可以考虑。唔…不行。这样想想就会有些激动…不好不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1e12b6448671cbf4dc508178ed47dd5d_1893449255088129769.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重云的爱好…",
+          "text": "我？嗯…我最喜欢的还是听说书。茶博士总是能把各种奇闻怪谈讲得惊心动魄。有空不妨一道去听听。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e0e411c9637d134fbc7c1c68bda00e92_5217554207438529351.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重云的烦恼…",
+          "text": "经我多方打听，费了好大功夫，才找到一处破庙有妖邪出没！于是，我守了四天，却完全不见妖邪的影子。唉…这种事经常发生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/95acb2201ab493da97038aa86a268dae_4794163486753336217.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "每日修行完毕后，要是能吃上稻妻运来的生鲜还有冷餐就好了，那种冰凉清爽的口感能缓解所有疲劳。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/beb186ad98e6b7a1262894f626c7d115_6192550590903923191.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "所有又烫又辣的食物我都不能入口。如果是有绝云椒椒的菜，啊，想想就吓人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/49d5f729db9cd2409e35f7ef3da84157_3095006097024181182.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "口感凉爽，正合我意！我要多留一些，等到修行完毕后再来享用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2c2feac6d80042b9b7968ffc3061f7ed_5543726931046246868.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不好意思啊。明明是你的一片心意，我却只能放凉再吃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/829eaca31f39a9dffcbc3ff2d5fcf2a5_6998798853280298461.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "糟糕！这味道是…绝云椒椒？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a38b00214c63a7035e33b2c7c1a54eec_8777390535454384891.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你的生辰，这朵冰晶结成的小花送你，是我自己雕的。如果遇到妖邪，掷出冰花，我封入的咒术自会生效，助你脱险。啊…还有，生日快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/12db8773028efbdf4eadf61e64e5a8dc_8377810504805219943.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "驱邪的术法也常常用到这些材料，没想到还能用于提升自己的灵气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/66e0cab75980ef5d52622d9afb7ed111_3648577771910958872.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "习武与术法一样，都有境界。受你指导，我又有进益了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e83ab4391e0973b47ca9ba96ba1022d1_5393176647598248568.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "原来习武之道还有这样一种境界，手眼相通，人与剑合…嗯，我悟到了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/11/183046623/637d7685e3be7b2acfda99cbe6e4c971_3288742957162870513.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "领悟了这些武技，「剿灭天下妖邪」的愿望或许就能达成了。你一路相助，我当然铭感在心，今后赴汤蹈火在所不辞。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7ef4eaf7c9a8e3ad7ee81c993762c8c4_5820654380021870402.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "剑印染冰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a072ece39e3862337fe88018f37c9c8d_4962529030393175584.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "剑，出！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ce342f5eaaef27be89dff9cbcee48832_6509995927071943874.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "急如敕令。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c8f82803f85262598dea2da9f673c43a_8773904086080255294.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "听我法旨。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f7c9a872418e7d25af506f7614124ac_2584977775061951257.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "邪魔退去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5df85214933894611d97205b8a6fcadb_157524913419637960.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "宝印幻剑！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fd4715ea85a96d4524b08cf886af8059_4294123945929642240.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "束手伏诛吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6ebadef980bab7df729f5a84646f3b36_4535498674086655168.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "且看踏风纵云的本领。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9cf370441caaf9062088d0accec6e621_7677386669540659918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这等器物，有助于驱邪除魔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6a54cc76fb47b2f3b57370938314b489_6101773482459501616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "不枉你我一番劳苦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cc4a9cfac3954dc26d2ce3f28ef81163_854912545255710382.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "意外之喜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fd73189dc968b7efe53a71a695d9a4c2_3527750031580901850.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "小伤不足挂齿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d539123cea91f5de27afc2a1c5d7fd20_6723732064854013720.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不能再轻敌了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0557571b4f6ce19785299c47be5c8405_2780461589779570041.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "你莫猖狂！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c1784914729f4dcfd2a836d8c303679c_5684444943146929383.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "我来助你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/44a4f24bf68c32fb974dd74f206e47e3_2552206057170432124.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "务必撑住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/6c12545f9bcb41938ce25a2f82261303_8981138588575107108.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还是技不如人吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/007445f6189c5e090228f56524eb8df0_6283307779007208144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "妖邪…未除…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9ad460f1086de061834d5ca772316999_8352054431463540671.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "辱没了…方士一门…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/17745b87614a10776fd664c487e0730c_3629946507415051853.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "居然！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3abea572f7c4e30cd57ae33cfef546c3_6566810686782809651.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "得令。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea3febd307b8076f43ac281cdde189c4_2895765698545349268.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我有咒毒杀鬼方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1a9ee67bea04c12c8490ea7cb37d3003_7940899433629088540.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "是去练功么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/afe5c5502245df21297f2f41570e318d_811969433145921572.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我名重云，家族久居璃月，世代以驱邪除魔为业。今日萍水相逢，看来我与阁下有些缘分。唔…不收钱的，不收钱！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/775a91167dd6dce6a2b842d5075e90c0_2603695765256372187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·驱邪之法",
+          "text": "方士驱邪一靠咒术，二赖武艺。另辟蹊径亦可，但终非正道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/19585b6b1b0fea369ec0c7089dba227a_6367505756822369480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·饮食",
+          "text": "寒食饮冰利于平神静气…清心泡水辅以冰块饮下，对身体最好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7002f471e0ad622541d78073c1e9daf7_3949226141242165522.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·口诀",
+          "text": "驱邪缚魅，内外澄清，啊，呃…糟了，后半句口诀忘了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4c1979a278f46107889880c6dbcd6d96_3781247462180549970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨是无根水，是最澄净的水，对驱邪除魔大有帮助。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b9ad4ae1610bbbfd88120ee98578ba6c_467436603047620365.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这落雷好大阵仗，妖邪也会惧怕的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9071104b194bc8bea470995dd04879d7_2325350783083387490.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "啊…好天气，真是舒服。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/443a0911e3b0687c8550630a30d44b46_7307073970018074033.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早晨的好时光可不能辜负，抓紧练功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/36f25d2407c8a7695121e8a2f31efa11_2278788702752488436.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "正午灵气极盛，可得抓紧练功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9aab808f2cd713affbad24e807ac0870_143626609396673243.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚间最适静息凝神，更要抓紧练功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/64afc62d1cda2c04788ffd989b2d3554_6849173515833555068.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "呼，累了一整天，你也休息去吧。明天再去传闻中鬼怪出没的老宅看看，说好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7bd4fc2dc8710e0d1c154613c41999c8_7791871629336620857.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云自己·方士",
+          "text": "我们方士一派自古守护璃月，传承久远，剿杀邪魔自然是手到擒来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6d4320517d2052da9456ddaf663a692f_8575661262947659742.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云自己·委托",
+          "text": "明明什么都没做，只是进了凶宅的门就解决了问题。这个委托的报酬，你觉得是拿还是不拿呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/55462d333c476ac73b02dc7954b74014_2623751991689491377.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·旅伴",
+          "text": "你的本事不错，对丘丘…咳…邪魔从不手软，我们结伴而行如何。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/795c7b6a3787043c16673fe6cc9d6740_8936331363364899649.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·怪谈",
+          "text": "璃月的奇闻异事你已经见了不少吧，你说的那些方外的鬼怪，我…我也想看看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fc935ac6f05b68bf99fce9ec54212d69_3136588928875718954.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」虽然厉害，却不可盲目依赖。我还是更加信任方术和武技。本事要精进，还是得勤学苦练。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d97b5b96d1ba347aab48a0537f8248a0_3923957839882456551.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "璃月的土地上妖邪传闻虽然众多，但真假掺杂，有些奇奇怪怪的委托…其实跟鬼怪一点关系也没有。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9e4da3e62fed12fe0d3e12e649eb816e_7929989441987126888.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "听说琥牢山的琥珀中封存了不少稀奇古怪的东西，会不会也有一些历史传说中的妖邪呢？真想见识见识。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/631426e767da555c6f0509a30e771bf5_1466866486705272392.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "「往生堂」的钟离先生啊，隐约觉得是个厉害角色，凡夫恶党杀人，我们方士除妖，他居然能葬仙人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1ff37e30b4ab75e54cc4df053a9034d5_502882502493083741.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于行秋…",
+          "text": "我虽然敬佩行秋的武艺和侠心。但是我一定要事先提醒你，他坏心思也不少。如果真的发生了什么事情，记得回来和我结成受害者同盟啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/193870351aa1dc3c829e4e0867ecf9ce_6609830975942832604.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈…",
+          "text": "降魔大圣和我们方士一派，一暗一明，共守璃月，历史已久，我非常尊敬魈上仙。但是，那位大人居然说…居然说什么驱邪方士量小力微不值一提，我，我绝对不能苟同！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e37291e99d4911ba26342e2a4a061046_5017675861792676130.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "「往生堂」的手段还是信得过的。但是那副「不用你们方士操心」的嘻嘻笑脸却看着让人火大…呼，冷静冷静。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a90029c11b7a0b6f8028d5688f7128be_6130667194388106296.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七…",
+          "text": "看起来是个僵尸小姑娘，但作为方士我能察觉到…她可不一般。嗯…名字也不见宝诰之中，究竟是哪尊呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/50fa5c475ca68dc6cb33dc812549d8c3_5326971480344943202.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "我会尽可能避开辛焱演出的区域。那般热烈的气氛，即使无意融入，也难免受其影响…我是说，会让人不自在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/182e89240dc6205f7f56331f6706b118_6172447087855173013.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "香菱做菜的手艺有口皆碑，但是她那些辛辣烫口的菜品我是绝对不会碰的…没有，没有什么…你看，史莱姆滑蘑菇？这能吃吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4847e7f81c12f42c5e10d5ec8dfa42c5_8018301653365642087.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于申鹤…",
+          "text": "我曾听家中长辈聊起过她。她家的遭遇…很让人同情。原以为这次能够让分家的远亲重回家中，长辈们听说她还活着也都高兴坏了，说是要备上礼物，择个吉日好好聚聚。却没想到，平日根本见不到她的人影…等等，按辈分来算的话，我、我该不会…要叫她「小姨」吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/265ee4735f611081a4a5db1c6cd23450_5989400200485601299.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夜兰…",
+          "text": "我初任方士那会儿，受邀到委托人家中驱邪，离开时，曾撞见过这位女性。她把我的名字记在某个小册子里，或许是想确认我有没有做值得怀疑的事吧。不过就那一次，后来再没遇见过她。\n\n现在想想，大概是因为我平日打坐总是一动不动，谁看着都会觉得无趣吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae49231dbbe8029d2589c02fbcc1aa55_3752701409525328282.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其一",
+          "text": "本事很重要，不然空有热血，只会坏事。对于这点，我深有体会。啊，倒不是我自己的体会，呃…是近年行走璃月，观看人间百态的感悟。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9812851e15b1a86e1fd306ef4dd4bc81_4754216062303324033.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其二",
+          "text": "我天生是「纯阳之体」，据说千年难遇，所有鬼怪对我退避三舍。唉…这其实一点都不好，哪有见不着鬼怪的驱邪方士。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/90923308817aee8ab1a7c8eef9bb2883_3602724091015368239.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其三",
+          "text": "「纯阳之体」常常导致热血太盛，没少害我出糗。我不食辛辣高温、出门撑伞、回避激荡的音律，就是为了克制它。唉…什么时候这体质才能不妨碍我呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/840ea489b758014a4ab1c504d77b1d28_6141005446539775293.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其四",
+          "text": "坐等妖邪现身是没用的，得主动寻访。我为璃月人镇邪，于人能免去烦愁，于我也能广开视野。如果你遇到邪祟搅扰，我一定也会立刻来帮你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8670a8aa99cf997cd4d2a74f4451a707_4860609359425581384.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其五",
+          "text": "剿灭天下妖邪是我身为方士的最终目标，将来这个宏愿实现之后，不管是温泉、绝云椒椒还是别的什么…热血刺激的东西，我其实…都可以考虑。唔…不行。这样想想就会有些激动…不好不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2f5db51b8e37c2d94cabdcc11691d38b_7583778447126025076.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重云的爱好…",
+          "text": "我？嗯…我最喜欢的还是听说书。茶博士总是能把各种奇闻怪谈讲得惊心动魄。有空不妨一道去听听。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d28f3c4d5500692f103dcb85ed27633_2948281004783917774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重云的烦恼…",
+          "text": "经我多方打听，费了好大功夫，才找到一处破庙有妖邪出没！于是，我守了四天，却完全不见妖邪的影子。唉…这种事经常发生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7c91b73fab3e7b0ff7b167316a0dd1d0_7999807533474743810.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "每日修行完毕后，要是能吃上稻妻运来的生鲜还有冷餐就好了，那种冰凉清爽的口感能缓解所有疲劳。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/33713094ea0267fef5b07ca0b0980cc4_6059417149994381505.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "所有又烫又辣的食物我都不能入口。如果是有绝云椒椒的菜，啊，想想就吓人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0d99a96695369df09ec7d71438031653_7759254619747898371.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "口感凉爽，正合我意！我要多留一些，等到修行完毕后再来享用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c3433dfab13d00d06dd6400843bbbd4b_3201397681362446746.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不好意思啊。明明是你的一片心意，我却只能放凉再吃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/4ae6954610a5539092d1aa9cb8925933_6996663960011664514.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "糟糕！这味道是…绝云椒椒？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8af96d4679225a2870fd4ca56fd6a7b1_2213347947405716960.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你的生辰，这朵冰晶结成的小花送你，是我自己雕的。如果遇到妖邪，掷出冰花，我封入的咒术自会生效，助你脱险。啊…还有，生日快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/01f2311c03ab032c7f18664aaaad55b3_5115816836694261718.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "驱邪的术法也常常用到这些材料，没想到还能用于提升自己的灵气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cfc7cb38fbb60bd6855f0ea574e49e42_6940323020991586340.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "习武与术法一样，都有境界。受你指导，我又有进益了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6e2c17460120730de0ac8d8059ef7ef4_7504643002031229427.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "原来习武之道还有这样一种境界，手眼相通，人与剑合…嗯，我悟到了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/11/183046623/d0802e41748125e1735bea9eab7249e9_8039063694525489384.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "领悟了这些武技，「剿灭天下妖邪」的愿望或许就能达成了。你一路相助，我当然铭感在心，今后赴汤蹈火在所不辞。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/df82388728089f5c18b6f252bfffc3c6_7627441338973025992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "剑印染冰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/105affd87a805a8bb2d4a0196885c5c5_1531084788512677036.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "剑，出！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7fe3c0efa903f4e001bfc1e37953ed17_2871884022359974483.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "急如敕令。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3750d4205bfd148a89c26d06eeb68877_5498808300841565188.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "听我法旨。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c01811ec9347fbbc42fa2e20749a07b6_6762953655847281359.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "邪魔退去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1499d3721b7f68347082a970df69865c_4541812423695932230.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "宝印幻剑！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8fe52aae771d352d21b717e2d3619141_1469717457616293264.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "束手伏诛吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b47391ca1202e6de753555aaf1ee5177_1358344813822788949.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "且看踏风纵云的本领。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bf2d6b1e101b34257aa8e8e0dd13ac9e_7733342719533499096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这等器物，有助于驱邪除魔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2402db5e370dd0b700066219cf27a4c2_6837386235807964260.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "不枉你我一番劳苦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/13525f0604b4b5f9527f689b259d4e74_4122359263503640118.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "意外之喜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ac55af832e424fb57e2bc1b1decc2894_5285273165049616558.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "小伤不足挂齿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/61dbe2c7aa0d7df5ee24b35eefef4fa6_5374071365255475149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不能再轻敌了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/994af0da3af6d5a03f9fd75a79729604_8093146977373422714.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "你莫猖狂！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ff1e319bbca1140cafb6bd9755675590_5229397409200458025.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "我来助你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/95ddb47af06a48b96147f7665d6529a4_2036930709212131904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "务必撑住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/6eb84ba655aae75a12d3a2d0a31789ad_678284332967718262.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还是技不如人吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ca551b7a07d646e3708361fcea6fc33c_5125531595599452963.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "妖邪…未除…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e4b1ad985ad12cbbde050eb359513128_8636489658737231164.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "辱没了…方士一门…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d99df938079bfe2fddd090e78ebd0c76_7378919476113321856.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "居然！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0392b4ed316acc63729140ffbe114586_7357847883856814448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "得令。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ff2ac06de8ae0d082d9cb857889c78ef_7455026072683972787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我有咒毒杀鬼方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/96b7c38a35086e6941b4714ec3a0b365_5387543030886858939.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "是去练功么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/46daf7bc67e9611f8fd9c1185ef5ceff_8940309655634077172.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我名重云，家族久居璃月，世代以驱邪除魔为业。今日萍水相逢，看来我与阁下有些缘分。唔…不收钱的，不收钱！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/495b1269d5c9010ef911c73569c15801_8258097757537979003.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·驱邪之法",
+          "text": "方士驱邪一靠咒术，二赖武艺。另辟蹊径亦可，但终非正道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae34748bfdf11cc22fe7bfae9d3a7332_5292026103180005536.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·饮食",
+          "text": "寒食饮冰利于平神静气…清心泡水辅以冰块饮下，对身体最好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/04fd44c1fc04cc462c758b0ea01d7979_1197232161503067956.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·口诀",
+          "text": "驱邪缚魅，内外澄清，啊，呃…糟了，后半句口诀忘了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b7c8d3e00692a54f9653f3b2fdadcf75_5780288565980831791.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨是无根水，是最澄净的水，对驱邪除魔大有帮助。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6afc0aa302c60ce3040673525ea7df0a_9145970685658321369.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这落雷好大阵仗，妖邪也会惧怕的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6b7b30d9add5317c29becf4deda5f29f_5289429604860546054.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "啊…好天气，真是舒服。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2a629d939cc6ef426b86e46cdaa20d20_1298317215356200249.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早晨的好时光可不能辜负，抓紧练功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/39855cebc16622e1a33045693d703f98_8537656021782178968.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "正午灵气极盛，可得抓紧练功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9d9d6f2ade8821de565452cba0aaa1ee_799321293075676402.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚间最适静息凝神，更要抓紧练功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2a5f5b5543f0447efa69404fafbd21e7_2206267600001500592.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "呼，累了一整天，你也休息去吧。明天再去传闻中鬼怪出没的老宅看看，说好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/51b6695e049007b43ceb041140aba740_2491546134376487178.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云自己·方士",
+          "text": "我们方士一派自古守护璃月，传承久远，剿杀邪魔自然是手到擒来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/50035691d0f8d694cfcf266446e4647f_3302332030643227864.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云自己·委托",
+          "text": "明明什么都没做，只是进了凶宅的门就解决了问题。这个委托的报酬，你觉得是拿还是不拿呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9ab24165e738ff50a4a7ff887fd54950_5490953331035678722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·旅伴",
+          "text": "你的本事不错，对丘丘…咳…邪魔从不手软，我们结伴而行如何。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fef13640cfdb692650ad10b6a9d66bc2_3137866779953801357.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·怪谈",
+          "text": "璃月的奇闻异事你已经见了不少吧，你说的那些方外的鬼怪，我…我也想看看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6bd05e808585f5337415f52fbaf08f07_2400447220740914111.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」虽然厉害，却不可盲目依赖。我还是更加信任方术和武技。本事要精进，还是得勤学苦练。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bf16182e6867ecbaa7276a7b7ea6d041_4403078680747607732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "璃月的土地上妖邪传闻虽然众多，但真假掺杂，有些奇奇怪怪的委托…其实跟鬼怪一点关系也没有。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dc12c8e562846a89d856c86d844657fb_4177604196280369047.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "听说琥牢山的琥珀中封存了不少稀奇古怪的东西，会不会也有一些历史传说中的妖邪呢？真想见识见识。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/03e76deac15924f95ee6334e66ed9fdc_5152989734183169378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "「往生堂」的钟离先生啊，隐约觉得是个厉害角色，凡夫恶党杀人，我们方士除妖，他居然能葬仙人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b67ac8dd7b94e3c130df90d58252a536_2056868515660439079.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于行秋…",
+          "text": "我虽然敬佩行秋的武艺和侠心。但是我一定要事先提醒你，他坏心思也不少。如果真的发生了什么事情，记得回来和我结成受害者同盟啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8c17a9282defec5b71b0cc41f585c055_6380339959034020857.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈…",
+          "text": "降魔大圣和我们方士一派，一暗一明，共守璃月，历史已久，我非常尊敬魈上仙。但是，那位大人居然说…居然说什么驱邪方士量小力微不值一提，我，我绝对不能苟同！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/309a8334d0dbb61960fc1006a7ee8023_471806887571995593.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "「往生堂」的手段还是信得过的。但是那副「不用你们方士操心」的嘻嘻笑脸却看着让人火大…呼，冷静冷静。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7739a352f57dfa8b1ceb93da021ddcba_4252749944342827178.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七…",
+          "text": "看起来是个僵尸小姑娘，但作为方士我能察觉到…她可不一般。嗯…名字也不见宝诰之中，究竟是哪尊呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b28b071b0e88ee54d0b51b098fc3abe1_8728726959882647261.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "我会尽可能避开辛焱演出的区域。那般热烈的气氛，即使无意融入，也难免受其影响…我是说，会让人不自在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/61f6e8390991191fc1a600f89232082c_9062627727764142474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "香菱做菜的手艺有口皆碑，但是她那些辛辣烫口的菜品我是绝对不会碰的…没有，没有什么…你看，史莱姆滑蘑菇？这能吃吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ddb6b786a35237f733312980c6b60537_2556190596228315423.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于申鹤…",
+          "text": "我曾听家中长辈聊起过她。她家的遭遇…很让人同情。原以为这次能够让分家的远亲重回家中，长辈们听说她还活着也都高兴坏了，说是要备上礼物，择个吉日好好聚聚。却没想到，平日根本见不到她的人影…等等，按辈分来算的话，我、我该不会…要叫她「小姨」吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c09a2181ecc78b6527a9761f6a7383e5_3436948148925244483.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夜兰…",
+          "text": "我初任方士那会儿，受邀到委托人家中驱邪，离开时，曾撞见过这位女性。她把我的名字记在某个小册子里，或许是想确认我有没有做值得怀疑的事吧。不过就那一次，后来再没遇见过她。\n\n现在想想，大概是因为我平日打坐总是一动不动，谁看着都会觉得无趣吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a6b2955cd099412909b2dc501733034_3515712506689621059.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其一",
+          "text": "本事很重要，不然空有热血，只会坏事。对于这点，我深有体会。啊，倒不是我自己的体会，呃…是近年行走璃月，观看人间百态的感悟。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/81cf927ffb96edfdd95e905e7aa63f9a_4310059370617793008.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其二",
+          "text": "我天生是「纯阳之体」，据说千年难遇，所有鬼怪对我退避三舍。唉…这其实一点都不好，哪有见不着鬼怪的驱邪方士。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/779f882149655644df050fe73d683bc1_1299509868222237616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其三",
+          "text": "「纯阳之体」常常导致热血太盛，没少害我出糗。我不食辛辣高温、出门撑伞、回避激荡的音律，就是为了克制它。唉…什么时候这体质才能不妨碍我呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3413ffcba295cdbcf8d44d496fad91e3_7381430318518267997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其四",
+          "text": "坐等妖邪现身是没用的，得主动寻访。我为璃月人镇邪，于人能免去烦愁，于我也能广开视野。如果你遇到邪祟搅扰，我一定也会立刻来帮你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/490ec28d388dd92bae4bef621ba63885_6040174732228216130.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其五",
+          "text": "剿灭天下妖邪是我身为方士的最终目标，将来这个宏愿实现之后，不管是温泉、绝云椒椒还是别的什么…热血刺激的东西，我其实…都可以考虑。唔…不行。这样想想就会有些激动…不好不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/78ab4d892023206d5866c6fddc6e2df6_1788578526227022999.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重云的爱好…",
+          "text": "我？嗯…我最喜欢的还是听说书。茶博士总是能把各种奇闻怪谈讲得惊心动魄。有空不妨一道去听听。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f64bc19ed366f9145d0f188c3cf12573_5400912889360435109.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重云的烦恼…",
+          "text": "经我多方打听，费了好大功夫，才找到一处破庙有妖邪出没！于是，我守了四天，却完全不见妖邪的影子。唉…这种事经常发生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/645a77637293a0d432a21bb049fb1c44_5405037549158197416.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "每日修行完毕后，要是能吃上稻妻运来的生鲜还有冷餐就好了，那种冰凉清爽的口感能缓解所有疲劳。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5a211ed44cffab4dd23be8586c1f4015_2824310720179001972.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "所有又烫又辣的食物我都不能入口。如果是有绝云椒椒的菜，啊，想想就吓人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e43a77f7568af694fcf781d45d2e92e0_4575484217539350029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "口感凉爽，正合我意！我要多留一些，等到修行完毕后再来享用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a39350803f60a28b2ea59a88f3397179_8069948086793869603.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不好意思啊。明明是你的一片心意，我却只能放凉再吃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/18acae7f6cc6fb87963c9df04288df52_7938148368618228201.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "糟糕！这味道是…绝云椒椒？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/cb288c069e7a10d22eb76dc11f31f9e9_4706658327042565552.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你的生辰，这朵冰晶结成的小花送你，是我自己雕的。如果遇到妖邪，掷出冰花，我封入的咒术自会生效，助你脱险。啊…还有，生日快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a6386d74b808767c801c9e5ac41b8d9c_894926213917437450.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "驱邪的术法也常常用到这些材料，没想到还能用于提升自己的灵气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b5add2a839c1e48fbbb6a7c938a0030_6356748679038804997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "习武与术法一样，都有境界。受你指导，我又有进益了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c788347e3660dcced8d169366f81d139_8376438282839784987.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "原来习武之道还有这样一种境界，手眼相通，人与剑合…嗯，我悟到了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/11/183046623/9abb240a913d0054e5b873929f233a57_2910787253039534859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "领悟了这些武技，「剿灭天下妖邪」的愿望或许就能达成了。你一路相助，我当然铭感在心，今后赴汤蹈火在所不辞。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e51c77ec58aa972186ff84097b52f071_6100442101316850195.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "剑印染冰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/722b0b1d707f2bd471f4e76d92b43e21_3687161385796863631.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "剑，出！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b40d49291d8d23a5e0f0b182204676a2_1282217786674045196.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "急如敕令。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/21a84d52f95e4527d5bed8951c2c0e71_4110220346680889514.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "听我法旨。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/11cad70ea03f6ef24c654f6c7e5fb2b4_8290078838181963294.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "邪魔退去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/75fc615087ec1c5cd132512658b2d51f_4637146126197942531.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "宝印幻剑！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b509ca40906d3525c5bfdd4abf883b1f_5403774657263198830.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "束手伏诛吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77eb2490f9a73dfd89a38d0a6aa24d43_5543382578932238500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "且看踏风纵云的本领。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/90819cb336d5be011325b52314c54421_2767351179913792501.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这等器物，有助于驱邪除魔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b664e8a652c4dbe1bb6553e2bec95822_1006450165518382366.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "不枉你我一番劳苦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb093670c6dc3e84a608f20b381b3ff4_7748773466423757654.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "意外之喜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/58ad82c67bd398ff6ecd60919c6b604a_4328298293142223805.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "小伤不足挂齿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7239f53aa5209fb832f443531f9ea552_8935756552993143084.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不能再轻敌了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ee3d60fa32b9756b85a854981e70a96d_5179643193442732905.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "你莫猖狂！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6c2fdf6a0e746bf56ff438b022d73cdb_5392433693929689354.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "我来助你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/fb9d86966396d227e6b44d907d8cdd03_2285335873486479767.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "务必撑住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/b587c93a647eeb21d761f93c6d861cb3_6170991783160396509.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还是技不如人吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/23b4cd554d883dc22f09316546181002_921090469307840639.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "妖邪…未除…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4c3b4cd6cd93d4e84cf06d47fd63a93c_8124978218393397018.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "辱没了…方士一门…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d7036720740d7d981a82b6f60222a6a_4925033154725594102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "居然！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bebaa336a1101bcbe3803d15a1ca240f_7245094318704039488.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "得令。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bb87a473f9995a9835598edb96e7f04b_1500045816276228553.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我有咒毒杀鬼方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/df9eb147ca9da3d2cc4f1c3f16acc52e_5810672128511167172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "是去练功么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/faf17f93f838125e17ceb64c9da508db_2163048512315273246.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我名重云，家族久居璃月，世代以驱邪除魔为业。今日萍水相逢，看来我与阁下有些缘分。唔…不收钱的，不收钱！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f508828ea34ef9c1c164e8d22ee5abd8_5830033642388918220.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·驱邪之法",
+          "text": "方士驱邪一靠咒术，二赖武艺。另辟蹊径亦可，但终非正道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4ccd39863deea69c56a972e7c2f60aa6_6089001017259719158.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·饮食",
+          "text": "寒食饮冰利于平神静气…清心泡水辅以冰块饮下，对身体最好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6d400daf89723735b4fb0fe96dfd1d7a_7357807481295345103.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·口诀",
+          "text": "驱邪缚魅，内外澄清，啊，呃…糟了，后半句口诀忘了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/86b14200fb2da211b77778a7a5c98727_3418033389066578068.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨是无根水，是最澄净的水，对驱邪除魔大有帮助。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6bca25f59ea6629938e07c54de5a2c19_4819269167772026234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这落雷好大阵仗，妖邪也会惧怕的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ebfdf3234820d60a90dd8235d8630e82_1152277774779022852.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "啊…好天气，真是舒服。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/97b1ebead53178f473a4f7a0387cfc0c_3947169152274686341.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早晨的好时光可不能辜负，抓紧练功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a3b330efc47d3c398b36b0ed5aba62df_1176063753255622716.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "正午灵气极盛，可得抓紧练功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/690c3d71fe134cfc76c34055b4c99a1f_9027989624278325610.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚间最适静息凝神，更要抓紧练功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3452d9d44e9c5109fbf17c239d9b9327_3663440877911693533.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "呼，累了一整天，你也休息去吧。明天再去传闻中鬼怪出没的老宅看看，说好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0d807d5c6034fd200ca1b0bc25d78d15_3054421642618985225.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云自己·方士",
+          "text": "我们方士一派自古守护璃月，传承久远，剿杀邪魔自然是手到擒来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a60d98b76ff5daaa232495c9db4a21fa_6592190303557441912.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云自己·委托",
+          "text": "明明什么都没做，只是进了凶宅的门就解决了问题。这个委托的报酬，你觉得是拿还是不拿呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/991f970be12f1a24ee43e07eb13fc8e9_3195477237056975262.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·旅伴",
+          "text": "你的本事不错，对丘丘…咳…邪魔从不手软，我们结伴而行如何。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2277abe966c071cd24d84acc9d78caf8_6398704131711695585.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·怪谈",
+          "text": "璃月的奇闻异事你已经见了不少吧，你说的那些方外的鬼怪，我…我也想看看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae4ed6255d0d23b0eebbc5874eb4e44c_7001383679649733847.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」虽然厉害，却不可盲目依赖。我还是更加信任方术和武技。本事要精进，还是得勤学苦练。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0cddd0137c83fc25364bf2c777d52c8a_5935215979098430987.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "璃月的土地上妖邪传闻虽然众多，但真假掺杂，有些奇奇怪怪的委托…其实跟鬼怪一点关系也没有。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1e0cfb396dd8af9b828aa1f575980c8f_8870577467848909461.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "听说琥牢山的琥珀中封存了不少稀奇古怪的东西，会不会也有一些历史传说中的妖邪呢？真想见识见识。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6c429b6b81dc4e9266816a98cdb3174f_3802140831826656670.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "「往生堂」的钟离先生啊，隐约觉得是个厉害角色，凡夫恶党杀人，我们方士除妖，他居然能葬仙人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3acef5cb45170a63ea051bc0c45ab553_7137975897789699243.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于行秋…",
+          "text": "我虽然敬佩行秋的武艺和侠心。但是我一定要事先提醒你，他坏心思也不少。如果真的发生了什么事情，记得回来和我结成受害者同盟啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/22b63d2125bcbd603143728411289e50_7227497933499358180.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈…",
+          "text": "降魔大圣和我们方士一派，一暗一明，共守璃月，历史已久，我非常尊敬魈上仙。但是，那位大人居然说…居然说什么驱邪方士量小力微不值一提，我，我绝对不能苟同！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d986c10e04357281d5cb9c71fd01895e_8159754561076474866.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "「往生堂」的手段还是信得过的。但是那副「不用你们方士操心」的嘻嘻笑脸却看着让人火大…呼，冷静冷静。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/54e84d7cdf557726e8a09065e8411b01_2932832259245526737.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七…",
+          "text": "看起来是个僵尸小姑娘，但作为方士我能察觉到…她可不一般。嗯…名字也不见宝诰之中，究竟是哪尊呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/749b18c0f2ac405732eeb88e7fc2adf4_3161998690358200791.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "我会尽可能避开辛焱演出的区域。那般热烈的气氛，即使无意融入，也难免受其影响…我是说，会让人不自在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/836bdfd5c32a986d26519d3750aec7c9_2892707830489093274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "香菱做菜的手艺有口皆碑，但是她那些辛辣烫口的菜品我是绝对不会碰的…没有，没有什么…你看，史莱姆滑蘑菇？这能吃吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2eef1c94a69398eeac8940daebf3a1f5_708998589928151795.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于申鹤…",
+          "text": "我曾听家中长辈聊起过她。她家的遭遇…很让人同情。原以为这次能够让分家的远亲重回家中，长辈们听说她还活着也都高兴坏了，说是要备上礼物，择个吉日好好聚聚。却没想到，平日根本见不到她的人影…等等，按辈分来算的话，我、我该不会…要叫她「小姨」吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e3d377fa32b6c432a0f0b591da1c6c8b_1775909718491953391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夜兰…",
+          "text": "我初任方士那会儿，受邀到委托人家中驱邪，离开时，曾撞见过这位女性。她把我的名字记在某个小册子里，或许是想确认我有没有做值得怀疑的事吧。不过就那一次，后来再没遇见过她。\n\n现在想想，大概是因为我平日打坐总是一动不动，谁看着都会觉得无趣吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b59e93ee0ff0c9fee2058badf5540fa7_2069979387362209250.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其一",
+          "text": "本事很重要，不然空有热血，只会坏事。对于这点，我深有体会。啊，倒不是我自己的体会，呃…是近年行走璃月，观看人间百态的感悟。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/365aed6ae5e94003d12976b85716961c_7562942015236198770.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其二",
+          "text": "我天生是「纯阳之体」，据说千年难遇，所有鬼怪对我退避三舍。唉…这其实一点都不好，哪有见不着鬼怪的驱邪方士。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2c8673aeaba3a839dfcecccf7022488e_8660302267187139685.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其三",
+          "text": "「纯阳之体」常常导致热血太盛，没少害我出糗。我不食辛辣高温、出门撑伞、回避激荡的音律，就是为了克制它。唉…什么时候这体质才能不妨碍我呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f0bca5299bcde55226776ac111a63216_3934770869852463924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其四",
+          "text": "坐等妖邪现身是没用的，得主动寻访。我为璃月人镇邪，于人能免去烦愁，于我也能广开视野。如果你遇到邪祟搅扰，我一定也会立刻来帮你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7981a629e3c5a5c488a4cc382b2dd7a8_911181233445082931.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解重云·其五",
+          "text": "剿灭天下妖邪是我身为方士的最终目标，将来这个宏愿实现之后，不管是温泉、绝云椒椒还是别的什么…热血刺激的东西，我其实…都可以考虑。唔…不行。这样想想就会有些激动…不好不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7e8839b1d863f9fc23eca061db63a0d5_3799518486275512116.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重云的爱好…",
+          "text": "我？嗯…我最喜欢的还是听说书。茶博士总是能把各种奇闻怪谈讲得惊心动魄。有空不妨一道去听听。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9aeeb53771a7a9827934679ce65c2c29_8406837148823966468.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重云的烦恼…",
+          "text": "经我多方打听，费了好大功夫，才找到一处破庙有妖邪出没！于是，我守了四天，却完全不见妖邪的影子。唉…这种事经常发生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/faaf839b966dfc8e7872b05c931abcb0_7982044469348442413.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "每日修行完毕后，要是能吃上稻妻运来的生鲜还有冷餐就好了，那种冰凉清爽的口感能缓解所有疲劳。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/96bc827ccc391cf897b8288a38998afb_5014231692705082600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "所有又烫又辣的食物我都不能入口。如果是有绝云椒椒的菜，啊，想想就吓人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a9123d7533006d4625e6ea3b5aa99cae_7997897816126823569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "口感凉爽，正合我意！我要多留一些，等到修行完毕后再来享用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/4f808b55c1cee3edf4975f5d59c19b14_8933080016890124383.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不好意思啊。明明是你的一片心意，我却只能放凉再吃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f28cf0ce89ee4b4c5cf9ff6798c0088c_6073538985186865363.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "糟糕！这味道是…绝云椒椒？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/9343c976248bce2a4c36684b7d41052b_1632414912200549313.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你的生辰，这朵冰晶结成的小花送你，是我自己雕的。如果遇到妖邪，掷出冰花，我封入的咒术自会生效，助你脱险。啊…还有，生日快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3030b7fe78f8a12d3f35082c81a0f882_7364617537672558170.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "驱邪的术法也常常用到这些材料，没想到还能用于提升自己的灵气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dbcace19dc958f0fe306709031ad5018_7721173077913653937.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "习武与术法一样，都有境界。受你指导，我又有进益了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f21d58f13e0f68155d1a60d82baf926f_7219009634938579136.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "原来习武之道还有这样一种境界，手眼相通，人与剑合…嗯，我悟到了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/11/183046623/2347f8cbf6e784a8b8ab712e012c4d02_5467935500941628455.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "领悟了这些武技，「剿灭天下妖邪」的愿望或许就能达成了。你一路相助，我当然铭感在心，今后赴汤蹈火在所不辞。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5aa83c941f2ef760755c942722ccb48_5608394113710570156.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "剑印染冰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/04cd69945482fd6b32f281e833dfe991_7714951828225638200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "剑，出！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2b401fb87fcb68feba3e46764f909153_3890553400143705646.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "急如敕令。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a0e4b115ab1000f4b7763f5c5ac09b1_316423452937091752.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "听我法旨。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1e324d4d8277a73614fe6f8a22aa5a9f_8378416543428506441.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "邪魔退去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c69044f885e06b68b6d233b20a322100_6132096716089006532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "宝印幻剑！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ec6521f35499b8b4c9c96b88d416efe4_528463459729167593.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "束手伏诛吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f847fde556eecb5398140241925f55c8_2561668399966266616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "且看踏风纵云的本领。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4057044017bc19ae51cf0e1ca95531d1_6214993539577543785.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这等器物，有助于驱邪除魔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/61172de9f097c30a01e696faeca4f55a_4271075476633953267.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "不枉你我一番劳苦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6a4bdb054765fcae5b8bf83ceb4717f4_4557569137722687705.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "意外之喜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7a19fc90992c76eb1bcc26ba712a8709_3432040024209735458.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "小伤不足挂齿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d149e76031ab7134f0fa30da4d7a85e_1316635967760053032.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不能再轻敌了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f0cabd98bee04cdd692b5512f9331494_5746836550255169490.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "你莫猖狂！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/94180bc3ada506d0290905c4dd5c7008_8733400637968953069.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "我来助你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/5b605480b533a27f36d3b1a46fd034e9_7131882125362295681.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "务必撑住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/7032d68a8c0783cff9f4890a8bf72e70_9198359682032220122.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还是技不如人吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2eace5b6d716901a5cc381518f3cf169_654973968514360697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "妖邪…未除…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cd29f38a1802189a71023f8cf1b2fa13_355090975234323407.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "辱没了…方士一门…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5aa608f87f8d0b61532e23bfaee1eb5e_1305252219865776079.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "居然！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f4529da3ee932fd79208cab95bab24ab_828713077870963551.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "得令。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/93c71ed0ba8fd9d18beeffbc26a8a1c7_1336335461011188947.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我有咒毒杀鬼方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2ef1937ccc92e240425ec7170aa664ac_2524887646032959038.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "是去练功么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/da73ce34866fbb8afb0244284e53a743_4790142304553973854.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

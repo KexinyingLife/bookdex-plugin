@@ -1,0 +1,1733 @@
+{
+  "id": "505417",
+  "name": "丝柯克",
+  "alias": [
+    "丝柯克"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是丝柯克，「极恶骑」苏尔特洛奇的弟子。过往的旅程中，你已证明自己是一位合格的强者，拥有和我平等对话的资格。就让我来见证你的命运吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ec65671caa24dffa3d2d1dd321a413a8_182806431000888695.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·深渊",
+          "text": "深渊就像世界的影子。它一直在那里，永远不凋亡。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/bfc8c5e0fcb71f3e1690c70904d1135b_2103524232163329470.mp3",
+          "audioName": "02闲聊·深渊_cn.mp3"
+        },
+        {
+          "name": "闲聊·冥想",
+          "text": "来自何方，去往何方…？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b21953db35657098a30486a791d24788_2320583329888615618.mp3",
+          "audioName": "03闲聊·冥想_cn.mp3"
+        },
+        {
+          "name": "闲聊·终点",
+          "text": "万物都有终点，时间也不例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ecbf54559723df83130f94dc3cffb517_3327683787844564506.mp3",
+          "audioName": "04闲聊·终点_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "不错的雨。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c3cf5e3b3ed949952df56b6542587a43_1599149855405426288.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "雷光凶赫，却只在层云之下。高空之上仍旧晴朗。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/01ec78da636ea6d1d6b3bedad20f8320_8237865988247638716.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "据说在极致的严寒下，一切都会静止…这里显然还差得很远。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/fdf944279ac7d0a98ae78128caf69a39_8919817959487017380.mp3",
+          "audioName": "07下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风会吹散视野中的雾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/06b6246568ddc37a32ad973d5c5d1f01_414735020734637522.mp3",
+          "audioName": "刮大风了…cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "睡得如何？看上去你的身体已经调整到了最佳状态，准备出发。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/db7840cd250b7620282055c8416a72ad_3959929808062263534.mp3",
+          "audioName": "09早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "正午不适合练剑，我通常会用这段时间进行冥想。苦修必不可少，但也需要回顾与反思，免入歧途。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/a2109b59f570376a093d0beec91b456c_986638397799263165.mp3",
+          "audioName": "10中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "哦…已经晚上了。外界的时间过得格外快，所以更要珍惜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d628965aa74a792565043570604d4202_4114201355560791355.mp3",
+          "audioName": "11晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "睡吧，我再去练会儿剑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/808e51ad08c42603e559516af134f4e4_1566253434988881338.mp3",
+          "audioName": "12晚安…_cn.mp3"
+        },
+        {
+          "name": "关于丝柯克自己·读书",
+          "text": "最近从璃月买了些古书，其中有一篇让我很感兴趣：「至人之用心若镜，不将不迎，应而不藏，故能胜物而不伤。」我本以为有此心境的作者应是世所罕见的武学宗师，翻阅记载才知道他不过是位普通的旅人。人类有时候能做出我意料之外的事情，这或许就是他们所谓的底蕴。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b1165330fbc290fc9e4803d94ea9f55e_7525913774208754973.mp3",
+          "audioName": "13关于丝柯克自己·读书_cn.mp3"
+        },
+        {
+          "name": "关于丝柯克自己·挥剑",
+          "text": "心情好的时候我会去挥剑，遭遇挫败时同样如此。唯有自身强大，才能让命运低头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4097cafaef6a6120e3aa5055c657cab1_3197142340118386954.mp3",
+          "audioName": "14关于丝柯克自己·挥剑_cn.mp3"
+        },
+        {
+          "name": "关于我们·训练",
+          "text": "如果你想锻炼，我可以带你去深渊。那里不会被人打扰，时间流速也和提瓦特不同，可以事半功倍。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2c2b583e06c4063c8cfb36c303a799fd_2273606520336404677.mp3",
+          "audioName": "15关于我们·训练_cn.mp3"
+        },
+        {
+          "name": "关于我们·目标",
+          "text": "也许像你说的一样，缔造一个有秩序的宇宙需要很多人的努力。但我不能将希望寄托在别人身上，我要做得更多一些，向他们证明这条路是可行的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4fd8611fe4260df53cb2fcbd308e9a31_2550475103883881437.mp3",
+          "audioName": "16关于我们·目标_cn.mp3"
+        },
+        {
+          "name": "关于「深渊力量」…",
+          "text": "师父教会了我驾驭深渊力量的方法，我也在坎瑞亚遗存的研究中，找到了将其拟态成普通元素力的手段。单就结果而言，你和我都能脱离神之眼使用元素力，这也意味着我们的愿望无需神明评判。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d13af5a0dd177603885ae9679eb13c64_2099706486595001396.mp3",
+          "audioName": "17关于「深渊力量」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "师父说他当初学的是坎瑞亚正统黑蛇剑术，但等到他教我的时候，他的剑法已经多了许多黑蛇剑术没有的东西。武艺就是这样，不断融会贯通，不断自我改进，才能获得长久的提升。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5c12be070e81b8853aabf7b3ca864eb1_169182259997029011.mp3",
+          "audioName": "18有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "游历星海时，我曾见过一种感知与常态相反的动物。它们会用坚冰取暖，用烈火纳凉。会在阴暗的山洞里挥汗如雨，在毒辣的日光下瑟瑟发抖。它们与周围的其他生灵格格不入，依然活得很好，生命从来复杂又简单。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7e0094a4d30d927672a81c2292bcf04f_341508103308278580.mp3",
+          "audioName": "19感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于苏尔特洛奇…",
+          "text": "有资格被冠以「极恶」之名的人屈指可数，赠他这个称号的人，想必对他非常厌恶。师父的确做过许多不义之事，他是骑士出身，却背离骑士精神。但仍有许多人愿意追随他，因为他强大、从容、自信，对任何人都坦诚相待。他做事不是为了满足某一种简单的情绪，而是为了让自身更加圆满…这是他强大的原因，也是他危险的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/69d886ec7181b091aea0f48260dee0a8_907928141697955579.mp3",
+          "audioName": "20关于苏尔特洛奇…_cn.mp3"
+        },
+        {
+          "name": "关于艾莉丝·约定",
+          "text": "作为「维系世界边界之人」，她默许了我的存在，但要我保证不会过度干预这个世界。我不会，但我有理由知晓原因。她说，许多生态学家会为动物们的捕猎与逃亡感到心潮澎湃，却绝不会干预其中，而是任由自然法则碾过自身的悲喜——「有人说这是观测者的冷血，我却认为这同样是一种仁慈。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1e3049d525f081b6880fb6f689fd2a16_8743070485911265057.mp3",
+          "audioName": "21关于艾莉丝·约定_cn.mp3"
+        },
+        {
+          "name": "关于艾莉丝·感谢",
+          "text": "在某次见面时，她曾告诫我要倾听自己内心的声音，也曾对我说「要学会过好现在的生活」。她是真心为我考虑，我应当对她表示感谢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/fe4192389eefa91108d53bcd5501a02e_958288865198192639.mp3",
+          "audioName": "22关于艾莉丝·感谢_cn.mp3"
+        },
+        {
+          "name": "关于戴因斯雷布…",
+          "text": "他是师父曾经的对手，似乎也曾是他最好的朋友。我本想向他打听有关师父的事情，但他在认出我的剑术后显得很激动，不断地追问师父的下落。这个人很麻烦，我暂时不想和他见面。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e22cabd9f47a8fbc0aa11f79afb62493_1172347104637463838.mp3",
+          "audioName": "23关于戴因斯雷布…_cn.mp3"
+        },
+        {
+          "name": "关于多莉…",
+          "text": "艾莉丝的朋友，聪明的商人。有时候我会将值钱的魔物残骸卖给她，交换摩拉来维持在提瓦特的日常开销。我对她印象不错，因为她从来不打听我的身份。至于交易的价格是否公道，我并不在意。钱财够用即可，多收无益。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b47e90dc8b2bc0f78df8b87d3af42074_3664431503709897613.mp3",
+          "audioName": "24关于多莉…_cn.mp3"
+        },
+        {
+          "name": "关于达达利亚…",
+          "text": "有长进，现在的他值得我用上双手来应战。阿贾克斯的天赋不错，也有一颗不畏惧争斗的心，这是成为强者的必要前提。然而，我也曾见过许多如他一般闪耀的天才还未崭露锋芒便如流星般陨落。若是想成为自己梦想中的模样，他还有很长的路要走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/268be06573f39dd31573b37df8514d9f_128199783181433475.mp3",
+          "audioName": "25关于达达利亚…_cn.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "凡是失去的力量，终究会以另一种方式收回。然而这份力量指向的终点会在哪里？是审判、是复仇，或是开辟新的未来？或许他的心中已有答案，这与他一直寻找的「存在意义」同根同源。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2caeeceff6a577195f068d4ccc18f450_1796386668308250604.mp3",
+          "audioName": "26关于那维莱特…_cn.mp3"
+        },
+        {
+          "name": "关于「月之意志」…",
+          "text": "我在穿越虚假之天的时候，曾见过三枚围绕提瓦特的月亮。其中两枚已经碎裂，冰冷的残骸漫无目的地漂流。完整的那枚也了无生气，但它的意志并未完全消散。或许有一天，在虚假的天幕上，能够诞生独属于这世界的「真实」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3ea86c48a18d9eff8b66535b33080de0_2854342868611573209.mp3",
+          "audioName": "27关于「月之意志」…_cn.mp3"
+        },
+        {
+          "name": "关于尼可…",
+          "text": "变成人类是进化还是退化？目睹族群自我毁灭的时候，她又作何感想？认识她之后，我也曾想追问清楚…但想想她的性格，还是算了。让她安安静静地搞雕塑比较好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/29f7c23d7728b66579fd0bc7b8827b48_5146863453499868557.mp3",
+          "audioName": "28关于尼可…_cn.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其一",
+          "text": "值得我关注的事情不多，大部分时间我都在深渊中训练。不必在意我，我没打算对这个世界做什么。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e8efefe047f285202bee0dca37762a78_6165723964881399591.mp3",
+          "audioName": "29想要了解丝柯克·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其二",
+          "text": "长时间训练过后，最头疼的就是如何缓解身体的酸痛与疲惫。虽然可以靠控制深渊力量来舒缓肌肉，但使用深渊力量本身也很累。为此我自学过拉伸运动，效果不错。如果你有同样困扰，我可以教你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/8d92e8d392bd05a838f62f88896a43b8_7555291757544217252.mp3",
+          "audioName": "30想要了解丝柯克·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其三",
+          "text": "在蒙德旅行时，我曾遇到一位吟游诗人，他教我弹奏乐器的技巧，还硬拉着我去喝酒。我的身体很快就适应了晕眩的感觉，而后日夜轮转，喝更多也不会感到不适，那位诗人却不知何时醉倒在椅子上…我只好付了账。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b6ffbe6c098fbb2518e0c8bc00f0c030_132160255748039123.mp3",
+          "audioName": "31想要了解丝柯克·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其四",
+          "text": "在这里，我曾不止一次凝望头顶的星空。虽然是虚假的天幕，却能感受到创造者对宇宙的浪漫幻想。星汉迢迢，光阴漫漫，人类寄希望于用文字与书籍将历史的一角永远保存，而天幕的主人或许也怀着同样的情感，希望宇宙的一瞬定格在此处，化作永恒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1529ded6d521f6bf155c4b95af8304a7_61304276104905508.mp3",
+          "audioName": "32想要了解丝柯克·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其五",
+          "text": "爸妈还在的时候，我从没跟他们学过弹奏乐器。只记得爸爸曾说，弹奏的精髓在于「沉浸其中」。来到提瓦特之后，我买过许多乐器来练习，可一旦沉浸其中就控制不好力道，结果弹坏了很多件。于是我干脆自己收集材料，按照记忆中的样子做了些更耐用的款式。送你一把，关键时候还可以当武器使用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/35801126ec808e4843cf399fa3fa8849_3116656948249951932.mp3",
+          "audioName": "33想要了解丝柯克·其五_cn.mp3"
+        },
+        {
+          "name": "丝柯克的爱好…",
+          "text": "闲暇的时候，我会用这个世界的乐器奏响故乡的旋律。我原以为随着岁月流逝，那些曲子会在我的脑海中逐渐淡去…但是并没有，它们仿佛铭刻在我的灵魂之上。每当木吉他响起，我就会清晰地意识到，这是一个文明留在宇宙间最后的蛛丝马迹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/09a4b03863b6df08f970a82a00f18c47_2201791001643218258.mp3",
+          "audioName": "34丝柯克的爱好…_cn.mp3"
+        },
+        {
+          "name": "丝柯克的烦恼…",
+          "text": "我曾学着像母亲一样写一些诗歌，不过怎么努力都写不好。也许每个人都有不擅长的事，既然对战斗无益，倒也不必强求。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/51231a79af27e4b2a5b9710b1fb9229c_3587624768802598845.mp3",
+          "audioName": "35丝柯克的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我在跟随师父训练时，经常遍体鳞伤。师父会抓一种叫不上名来的虫子，烤了让我吃，据说可以让身体更快恢复。圆滚滚的虫子烤完后是漂亮的金色，外壳酥脆、肉质鲜香。时间过去太久，我已记不清它具体是什么味道，只记得小时候的我对此赞不绝口。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/fef19e76450f7c1a0f84db416b9f0173_4664731454541442772.mp3",
+          "audioName": "36喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "美味的食物容易入口，粗劣的食物也能下咽。不浪费就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/dbebf58049cc9e867c7da4e74e58a850_540629113051888300.mp3",
+          "audioName": "37讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9140b7c2df2c244ef93ea28d911563f1_4028475236368579761.mp3",
+          "audioName": "38收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "一般。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d06a32e73be61560abd2e331465374e4_2323531634736654381.mp3",
+          "audioName": "39收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "浪费食材，以后做饭的事交给我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5e578827a826eca530ef30290a1d84f8_2329927000933144891.mp3",
+          "audioName": "40收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。我听说有人愿意大张旗鼓地庆祝生日，有人则更希望平淡地度过这一天，不知道你是哪一类。我会用生日来回顾过去一年的成长，所以有时我能够安然地为自己庆贺，有时又会陷入一种特别的内疚中。…还是不要为它赋予那么隆重的意义吧。不同的地方有不同的节日，关于天地，关于祖先，关于朋友…但只有今天，是关于我们自己。感慨的话就说到这里，再次祝你生日快乐，希望你能成为自己想要成为的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5babc5163bbd381e05fb80257747e211_3590835223448728542.mp3",
+          "audioName": "41生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "仅此而已…吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/53799522ed153adcc0b037637d1e9303_4155249755694590969.mp3",
+          "audioName": "42突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这种提升对我来说还不够。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5d8c6b8182363a396c4277d0e452810a_6712522435402842437.mp3",
+          "audioName": "43突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "力量啊…曾几何时，我既不拥有它，也不追求它。而现在我们相互奔赴，无法回头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7c5d0517573a7b95cf695022f92748fa_4841197237352581451.mp3",
+          "audioName": "44突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "苍茫星海，无边无际。若以此为征程，那么追求力量永无止境。所以不断前行的同时，我也会在中途给自己设立一些「目标」。与你一同旅行的这段时间，我的力量有所成长，最近的目标已经达成了。接下来换我帮你特训…准备好了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/153707dc932a2a6cffad6adc5de97dd2_84090916182830380.mp3",
+          "audioName": "45突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "尽没。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4964682153a6188b2323a409c2ce93dd_7360982458444183048.mp3",
+          "audioName": "46元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "湮散。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4cc5dcbf397c42a4f11a30be3056651b_3384636288776621193.mp3",
+          "audioName": "47元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "溢流。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/96e0d0fb81349fcec07062be6590616b_5814423066831395932.mp3",
+          "audioName": "48元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "破空。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/09103df3858cb82e2ab44e64d9bc9f03_412524952840898945.mp3",
+          "audioName": "49元素战技·其四_cn.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "踏刃。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/58fb7e3d4d9fa60dc244b4af793cb19d_6665502255252829329.mp3",
+          "audioName": "50元素战技·其五_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "沉于渊海。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/723571563e97c0e9d8e73709fa92dc08_7526042063686393178.mp3",
+          "audioName": "51元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "群星寂灭。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/42f3630d9bcd0eb37e509d6a5860c2f7_1827857560796058310.mp3",
+          "audioName": "52元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "更迭万象。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3da324fdacc7f91a9a05d5a2954ba9cc_5003041866399776859.mp3",
+          "audioName": "53元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "力量啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/af3c6dab951dfb1ffc0bedf6f6ec888e_7596806605828533480.mp3",
+          "audioName": "54元素爆发·其四_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "归于我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7d71a2ff354edd1f94b1bb6c80b4d38d_9207033087544631050.mp3",
+          "audioName": "55元素爆发·其五_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是你应得的嘉奖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/995190fca83803451dc5e86c2108b690_702921046875471555.mp3",
+          "audioName": "56打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "努力就该有回报。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e760f17fcdfd8c15d48e5552ea09f18f_5923806976251657212.mp3",
+          "audioName": "57打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "时间埋藏的宝物。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f78f928b40ff0519d3628865ae3d892f_1285966092246012977.mp3",
+          "audioName": "58打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "有意思。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/54b727e9cc5f76532847c84bcd3ac5d5_4248787815016460536.mp3",
+          "audioName": "59生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "继续。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/0985b1fd5527a634b0c037721d15bf8f_1385068515742426000.mp3",
+          "audioName": "60生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "出乎意料。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1e73650024bb227d358e2a6682518e1e_5054453570492926247.mp3",
+          "audioName": "61生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "当心点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/8f892ef3e9abea387d95757c6abde2e5_7093601067146770515.mp3",
+          "audioName": "同伴生命值低·其一cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换我来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/8602514a083db28ab3d76c5b25ead811_2159018340468224679.mp3",
+          "audioName": "同伴生命值低·其二cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "星海默然，覆灭无声…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b86d7ea757af06115a0b1c0f4e2b84a4_2955832903064419707.mp3",
+          "audioName": "64倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "必须有人…来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/aad3d85bf78a12abb63219ee2601d886_3738720985156930483.mp3",
+          "audioName": "65倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "还不够强…吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/587b0349c19d6303da0d462a7df2c882_2473767705929974860.mp3",
+          "audioName": "66倒下·其三_cn.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不自量力。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/03d23086c78cd2ac3fe100b262c6eb4d_817526036568737916.mp3",
+          "audioName": "普通受击·其一cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这下还行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/7d929d7c14751e3acf79f18df95c9391_4825879572565226069.mp3",
+          "audioName": "重受击·其一cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "需要我来解决？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b9a2cf1c9e8b43b7f508e2b2e79f1d3c_4626363136558962501.mp3",
+          "audioName": "69加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我只教一次。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9a2d33d598ab717ddef791cc5b57b2b4_7881834341524477856.mp3",
+          "audioName": "70加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "那就出去走走吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5f36bea7883936a7da6e44494552eb88_4355680218954684242.mp3",
+          "audioName": "71加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是丝柯克，「极恶骑」苏尔特洛奇的弟子。过往的旅程中，你已证明自己是一位合格的强者，拥有和我平等对话的资格。就让我来见证你的命运吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1325344085198090516742b54e157dde_5842762514483227028.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·深渊",
+          "text": "深渊就像世界的影子。它一直在那里，永远不凋亡。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5e48203b5d4c6335496ab88b588516a9_3575297680064193397.mp3",
+          "audioName": "02闲聊·深渊_jp.mp3"
+        },
+        {
+          "name": "闲聊·冥想",
+          "text": "来自何方，去往何方…？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/940e8cc18366a650d991245b1f8f9056_8855581277957919252.mp3",
+          "audioName": "03闲聊·冥想_jp.mp3"
+        },
+        {
+          "name": "闲聊·终点",
+          "text": "万物都有终点，时间也不例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e16d9c0880fa1c95a7177ebe8cb29bc6_7865158378903394649.mp3",
+          "audioName": "04闲聊·终点_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "不错的雨。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/288e98229c276c29bc069453383b2a0b_6558324183143059936.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "雷光凶赫，却只在层云之下。高空之上仍旧晴朗。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4a4cd3eb85f34849bba185f33594c32a_8657609876867625706.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "据说在极致的严寒下，一切都会静止…这里显然还差得很远。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e2a53370db514b0f7818d5790c212ff2_3852477948567710204.mp3",
+          "audioName": "07下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风会吹散视野中的雾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4d9e23e1aa5aaddb0e832c2620a98ea2_8084898476178926732.mp3",
+          "audioName": "08刮大风了…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "睡得如何？看上去你的身体已经调整到了最佳状态，准备出发。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/fd655b1c625941b58b041d3f43a92574_4519393996932461721.mp3",
+          "audioName": "09早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "正午不适合练剑，我通常会用这段时间进行冥想。苦修必不可少，但也需要回顾与反思，免入歧途。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/09da606dc86240ff8e57ccc08ca9933b_3504709136390158994.mp3",
+          "audioName": "10中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "哦…已经晚上了。外界的时间过得格外快，所以更要珍惜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ccff1766cc6a932ff6c7bf3e328e9d0e_8490300419160631823.mp3",
+          "audioName": "11晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "睡吧，我再去练会儿剑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e8dfc4364f76c1146016929913a3789a_5741868626664905573.mp3",
+          "audioName": "12晚安…_jp.mp3"
+        },
+        {
+          "name": "关于丝柯克自己·读书",
+          "text": "最近从璃月买了些古书，其中有一篇让我很感兴趣：「至人之用心若镜，不将不迎，应而不藏，故能胜物而不伤。」我本以为有此心境的作者应是世所罕见的武学宗师，翻阅记载才知道他不过是位普通的旅人。人类有时候能做出我意料之外的事情，这或许就是他们所谓的底蕴。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5f7348c4ebb19ce0c9bff2296b771afe_3599671084721097218.mp3",
+          "audioName": "13关于丝柯克自己·读书_jp.mp3"
+        },
+        {
+          "name": "关于丝柯克自己·挥剑",
+          "text": "心情好的时候我会去挥剑，遭遇挫败时同样如此。唯有自身强大，才能让命运低头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4a4a1bcfb1ff9e1c3ca4ba512f8a5d1b_5982377127764553646.mp3",
+          "audioName": "14关于丝柯克自己·挥剑_jp.mp3"
+        },
+        {
+          "name": "关于我们·训练",
+          "text": "如果你想锻炼，我可以带你去深渊。那里不会被人打扰，时间流速也和提瓦特不同，可以事半功倍。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/183060bc157a38f3a9060b36be14f89b_3487835451349040978.mp3",
+          "audioName": "15关于我们·训练_jp.mp3"
+        },
+        {
+          "name": "关于我们·目标",
+          "text": "也许像你说的一样，缔造一个有秩序的宇宙需要很多人的努力。但我不能将希望寄托在别人身上，我要做得更多一些，向他们证明这条路是可行的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/86ad1c42a46057d7ffc76b2378213ede_3182229551160445826.mp3",
+          "audioName": "16关于我们·目标_jp.mp3"
+        },
+        {
+          "name": "关于「深渊力量」…",
+          "text": "师父教会了我驾驭深渊力量的方法，我也在坎瑞亚遗存的研究中，找到了将其拟态成普通元素力的手段。单就结果而言，你和我都能脱离神之眼使用元素力，这也意味着我们的愿望无需神明评判。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4f3ab24baf4804d3757dfe0e91dc93f3_6602134573302906501.mp3",
+          "audioName": "17关于「深渊力量」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "师父说他当初学的是坎瑞亚正统黑蛇剑术，但等到他教我的时候，他的剑法已经多了许多黑蛇剑术没有的东西。武艺就是这样，不断融会贯通，不断自我改进，才能获得长久的提升。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/11c8283c396615a09c64630dc46c72ae_6849632221391881169.mp3",
+          "audioName": "18有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "游历星海时，我曾见过一种感知与常态相反的动物。它们会用坚冰取暖，用烈火纳凉。会在阴暗的山洞里挥汗如雨，在毒辣的日光下瑟瑟发抖。它们与周围的其他生灵格格不入，依然活得很好，生命从来复杂又简单。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/66c095155aaaae627b04d7b272b63247_9137346515999992418.mp3",
+          "audioName": "19感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于苏尔特洛奇…",
+          "text": "有资格被冠以「极恶」之名的人屈指可数，赠他这个称号的人，想必对他非常厌恶。师父的确做过许多不义之事，他是骑士出身，却背离骑士精神。但仍有许多人愿意追随他，因为他强大、从容、自信，对任何人都坦诚相待。他做事不是为了满足某一种简单的情绪，而是为了让自身更加圆满…这是他强大的原因，也是他危险的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/dbe89f5b22ff704dea72592b15bda980_537226673456423864.mp3",
+          "audioName": "20关于苏尔特洛奇…_jp.mp3"
+        },
+        {
+          "name": "关于艾莉丝·约定",
+          "text": "作为「维系世界边界之人」，她默许了我的存在，但要我保证不会过度干预这个世界。我不会，但我有理由知晓原因。她说，许多生态学家会为动物们的捕猎与逃亡感到心潮澎湃，却绝不会干预其中，而是任由自然法则碾过自身的悲喜——「有人说这是观测者的冷血，我却认为这同样是一种仁慈。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b30d32d8853395a3f5a8fc429346ff1e_4052950808291848275.mp3",
+          "audioName": "21关于艾莉丝·约定_jp.mp3"
+        },
+        {
+          "name": "关于艾莉丝·感谢",
+          "text": "在某次见面时，她曾告诫我要倾听自己内心的声音，也曾对我说「要学会过好现在的生活」。她是真心为我考虑，我应当对她表示感谢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/0122546ae42dd9027b200a831b6f8618_2944937494764533978.mp3",
+          "audioName": "22关于艾莉丝·感谢_jp.mp3"
+        },
+        {
+          "name": "关于戴因斯雷布…",
+          "text": "他是师父曾经的对手，似乎也曾是他最好的朋友。我本想向他打听有关师父的事情，但他在认出我的剑术后显得很激动，不断地追问师父的下落。这个人很麻烦，我暂时不想和他见面。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2138027033c35ce80b5a7fabb52b2e0f_4343206936159413105.mp3",
+          "audioName": "23关于戴因斯雷布…_jp.mp3"
+        },
+        {
+          "name": "关于多莉…",
+          "text": "艾莉丝的朋友，聪明的商人。有时候我会将值钱的魔物残骸卖给她，交换摩拉来维持在提瓦特的日常开销。我对她印象不错，因为她从来不打听我的身份。至于交易的价格是否公道，我并不在意。钱财够用即可，多收无益。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/bc5a2d10baf55008d246ab085f283184_3687927587306405648.mp3",
+          "audioName": "24关于多莉…_jp.mp3"
+        },
+        {
+          "name": "关于达达利亚…",
+          "text": "有长进，现在的他值得我用上双手来应战。阿贾克斯的天赋不错，也有一颗不畏惧争斗的心，这是成为强者的必要前提。然而，我也曾见过许多如他一般闪耀的天才还未崭露锋芒便如流星般陨落。若是想成为自己梦想中的模样，他还有很长的路要走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c4ca00e422075b58659a5e14c91fa32c_6440862755060372691.mp3",
+          "audioName": "25关于达达利亚…_jp.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "凡是失去的力量，终究会以另一种方式收回。然而这份力量指向的终点会在哪里？是审判、是复仇，或是开辟新的未来？或许他的心中已有答案，这与他一直寻找的「存在意义」同根同源。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1b115584ea3b26462a7feb74e11e3322_2571939902910808531.mp3",
+          "audioName": "26关于那维莱特…_jp.mp3"
+        },
+        {
+          "name": "关于「月之意志」…",
+          "text": "我在穿越虚假之天的时候，曾见过三枚围绕提瓦特的月亮。其中两枚已经碎裂，冰冷的残骸漫无目的地漂流。完整的那枚也了无生气，但它的意志并未完全消散。或许有一天，在虚假的天幕上，能够诞生独属于这世界的「真实」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f68eafba6a1826b86ea0d1620aee54ec_6867119415433461902.mp3",
+          "audioName": "27关于「月之意志」…_jp.mp3"
+        },
+        {
+          "name": "关于尼可…",
+          "text": "变成人类是进化还是退化？目睹族群自我毁灭的时候，她又作何感想？认识她之后，我也曾想追问清楚…但想想她的性格，还是算了。让她安安静静地搞雕塑比较好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/03e7c0d7a385dda47f0c14f9aeaae876_5577413363015181273.mp3",
+          "audioName": "28关于尼可…_jp.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其一",
+          "text": "值得我关注的事情不多，大部分时间我都在深渊中训练。不必在意我，我没打算对这个世界做什么。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/68aefff958acca4d2b710c6e75d8576b_3063110567634872535.mp3",
+          "audioName": "29想要了解丝柯克·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其二",
+          "text": "长时间训练过后，最头疼的就是如何缓解身体的酸痛与疲惫。虽然可以靠控制深渊力量来舒缓肌肉，但使用深渊力量本身也很累。为此我自学过拉伸运动，效果不错。如果你有同样困扰，我可以教你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/148ddb20a76cd5cace5a49e4f76a3f11_4639188018723216426.mp3",
+          "audioName": "30想要了解丝柯克·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其三",
+          "text": "在蒙德旅行时，我曾遇到一位吟游诗人，他教我弹奏乐器的技巧，还硬拉着我去喝酒。我的身体很快就适应了晕眩的感觉，而后日夜轮转，喝更多也不会感到不适，那位诗人却不知何时醉倒在椅子上…我只好付了账。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/afd5daecce7cec28b4746fe09def43b1_865558497239279828.mp3",
+          "audioName": "31想要了解丝柯克·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其四",
+          "text": "在这里，我曾不止一次凝望头顶的星空。虽然是虚假的天幕，却能感受到创造者对宇宙的浪漫幻想。星汉迢迢，光阴漫漫，人类寄希望于用文字与书籍将历史的一角永远保存，而天幕的主人或许也怀着同样的情感，希望宇宙的一瞬定格在此处，化作永恒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e3f95843f3f121b3b57465ba6f582d35_5027713077278851899.mp3",
+          "audioName": "32想要了解丝柯克·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其五",
+          "text": "爸妈还在的时候，我从没跟他们学过弹奏乐器。只记得爸爸曾说，弹奏的精髓在于「沉浸其中」。来到提瓦特之后，我买过许多乐器来练习，可一旦沉浸其中就控制不好力道，结果弹坏了很多件。于是我干脆自己收集材料，按照记忆中的样子做了些更耐用的款式。送你一把，关键时候还可以当武器使用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6a07c63a782dd01de06f2085d1243174_6975317456151819757.mp3",
+          "audioName": "33想要了解丝柯克·其五_jp.mp3"
+        },
+        {
+          "name": "丝柯克的爱好…",
+          "text": "闲暇的时候，我会用这个世界的乐器奏响故乡的旋律。我原以为随着岁月流逝，那些曲子会在我的脑海中逐渐淡去…但是并没有，它们仿佛铭刻在我的灵魂之上。每当木吉他响起，我就会清晰地意识到，这是一个文明留在宇宙间最后的蛛丝马迹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e2290b970b3fd64b8fa19d6044c6d185_4440549387081869815.mp3",
+          "audioName": "34丝柯克的爱好…_jp.mp3"
+        },
+        {
+          "name": "丝柯克的烦恼…",
+          "text": "我曾学着像母亲一样写一些诗歌，不过怎么努力都写不好。也许每个人都有不擅长的事，既然对战斗无益，倒也不必强求。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f6c18b42aca9c90cac8713ff18398cf0_749197612004990655.mp3",
+          "audioName": "35丝柯克的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我在跟随师父训练时，经常遍体鳞伤。师父会抓一种叫不上名来的虫子，烤了让我吃，据说可以让身体更快恢复。圆滚滚的虫子烤完后是漂亮的金色，外壳酥脆、肉质鲜香。时间过去太久，我已记不清它具体是什么味道，只记得小时候的我对此赞不绝口。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6088c7726839e5690be8da22bed7b679_8953690875858387033.mp3",
+          "audioName": "36喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "美味的食物容易入口，粗劣的食物也能下咽。不浪费就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/964b94d97b6f662b407b1fc35087eee6_3064057712749535692.mp3",
+          "audioName": "37讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f46eb968a89f5acf54a3231513695758_8440153585264202861.mp3",
+          "audioName": "38收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "一般。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/821863bc2da54f577315e89546da7440_1770247790791943349.mp3",
+          "audioName": "39收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "浪费食材，以后做饭的事交给我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b50edb4356f920940e13f5de7aa306f3_7317427643867372603.mp3",
+          "audioName": "40收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。我听说有人愿意大张旗鼓地庆祝生日，有人则更希望平淡地度过这一天，不知道你是哪一类。我会用生日来回顾过去一年的成长，所以有时我能够安然地为自己庆贺，有时又会陷入一种特别的内疚中。…还是不要为它赋予那么隆重的意义吧。不同的地方有不同的节日，关于天地，关于祖先，关于朋友…但只有今天，是关于我们自己。感慨的话就说到这里，再次祝你生日快乐，希望你能成为自己想要成为的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/8086b34ada7904732ca600ebfeea5d71_2045623248828465158.mp3",
+          "audioName": "41生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "仅此而已…吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/cf4696c86cd41d7f98d31f5b07997bf4_3880237972156860146.mp3",
+          "audioName": "42突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这种提升对我来说还不够。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b3c73c4f0c594b13bd3bea8df1af9899_4792564315731542975.mp3",
+          "audioName": "43突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "力量啊…曾几何时，我既不拥有它，也不追求它。而现在我们相互奔赴，无法回头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1a4c922e4c0efff8857103a601604aa9_5864233368922416135.mp3",
+          "audioName": "44突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "苍茫星海，无边无际。若以此为征程，那么追求力量永无止境。所以不断前行的同时，我也会在中途给自己设立一些「目标」。与你一同旅行的这段时间，我的力量有所成长，最近的目标已经达成了。接下来换我帮你特训…准备好了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/50c131debfd7a89a3e87b7aec4f8c913_219726171305441607.mp3",
+          "audioName": "45突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "尽没。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2173e1c07831680c1b444102d25f50e4_1186844382893367176.mp3",
+          "audioName": "46元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "湮散。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/aba68fc7465fb07c3ac266cd9060f2e5_8559976499668096092.mp3",
+          "audioName": "47元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "溢流。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b0fd419f96e1dbfafe567abca1de8700_5504528351529665785.mp3",
+          "audioName": "48元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "破空。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/219cd3dda9ccc27b19a83f0670bceefc_6494165049918001532.mp3",
+          "audioName": "49元素战技·其四_jp.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "踏刃。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/cf7a660410485017b6b4649fa1d7346d_6345853688634376446.mp3",
+          "audioName": "50元素战技·其五_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "沉于渊海。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/77432f3aaabfe611409ea2faeb46c498_5849856513862990273.mp3",
+          "audioName": "51元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "群星寂灭。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1fc4020de1c3c49f4703aab48b889b0a_4431057986041282701.mp3",
+          "audioName": "52元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "更迭万象。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/cf87ea624970ce6cf6c2880ddd8d11d3_1527463141989934056.mp3",
+          "audioName": "53元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "力量啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/a5e989a3f32dd5a87ae010ef18f772ba_3435031896123237596.mp3",
+          "audioName": "54元素爆发·其四_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "归于我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/deb71faa6d583b4e5c0cb8888bc4adbd_4560855339294149303.mp3",
+          "audioName": "55元素爆发·其五_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是你应得的嘉奖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1c67c806d7c40c637aaa6a66ae78f6a5_8106983850745926849.mp3",
+          "audioName": "56打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "努力就该有回报。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5aa3e625c9d5a91c4cbb1d112c816835_7206820037611865003.mp3",
+          "audioName": "57打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "时间埋藏的宝物。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/30821e1c9b12732cd59c6f4948bde84f_3880065673268453137.mp3",
+          "audioName": "58打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "有意思。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/58f51f7af6a95a8834c38ebf2672e643_7128479406086836567.mp3",
+          "audioName": "59生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "继续。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ba6110ae77cbf2580d91d243ca71f6b5_2457898992268063962.mp3",
+          "audioName": "60生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "出乎意料。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e4e5eca7be4ea859ee9840317bb9fd46_1898008798405193960.mp3",
+          "audioName": "61生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "当心点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b4a5794bceca8f53bf82e1f55385ec36_6435830114866506076.mp3",
+          "audioName": "62同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换我来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/850d7f4bda3b8937f2e9c34efb0a7cc2_4749972659943642046.mp3",
+          "audioName": "63同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "星海默然，覆灭无声…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1ef9ae3c4c1077a408ae763d61b58111_4530656172203133447.mp3",
+          "audioName": "64倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "必须有人…来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/0a94cb36ae7b563ab8590288827d986c_2074335687589140844.mp3",
+          "audioName": "65倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "还不够强…吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/13d3e8e8c614d3f22276db39faa8a6a1_9176016895661950652.mp3",
+          "audioName": "66倒下·其三_jp.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不自量力。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/a59381a9482857193544f9342baeee61_6633089094766534969.mp3",
+          "audioName": "普通受击·其一jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这下还行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/f4f4ab9fedf6825127d2d8a8bf243b13_2169412189359520300.mp3",
+          "audioName": "重受击·其一jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "需要我来解决？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/48a219f460bd29ec6c7ecc39c4484aee_5426519164104401725.mp3",
+          "audioName": "69加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我只教一次。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e2108b7ad62f265d373f62d6d6708f7f_5326968224166290528.mp3",
+          "audioName": "70加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "那就出去走走吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/acfac912d374e4d84268a3840dcf1869_1276301749871149290.mp3",
+          "audioName": "71加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是丝柯克，「极恶骑」苏尔特洛奇的弟子。过往的旅程中，你已证明自己是一位合格的强者，拥有和我平等对话的资格。就让我来见证你的命运吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5cf74c2008b5d0c8dc276aa4dfb0c440_6329275264361391887.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·深渊",
+          "text": "深渊就像世界的影子。它一直在那里，永远不凋亡。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ce1a67d8a872729a704131c5de292cbf_5724129891869369501.mp3",
+          "audioName": "02闲聊·深渊_en.mp3"
+        },
+        {
+          "name": "闲聊·冥想",
+          "text": "来自何方，去往何方…？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f305555cfebfaf60e6c142631c6cb26e_7381804030998209942.mp3",
+          "audioName": "03闲聊·冥想_en.mp3"
+        },
+        {
+          "name": "闲聊·终点",
+          "text": "万物都有终点，时间也不例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/69248061238d424cdc56b1d8715e3ecc_5707485854584119570.mp3",
+          "audioName": "04闲聊·终点_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "不错的雨。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/01be6b3a8829a7f61c5e116a124587f4_4955324657749694510.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "雷光凶赫，却只在层云之下。高空之上仍旧晴朗。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/0da77ff039cc728c7800b2d1ef79aa2a_2682321015450058869.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "据说在极致的严寒下，一切都会静止…这里显然还差得很远。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/982581527af870aa46c1699bd3e896eb_6686447890282306605.mp3",
+          "audioName": "07下雪的时候…_en.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风会吹散视野中的雾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1170620e0586291d57e542147eb71bf9_4359460549490232879.mp3",
+          "audioName": "08刮大风了…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "睡得如何？看上去你的身体已经调整到了最佳状态，准备出发。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b4b52d5a0aa5ff123b5ac70a3f3e617f_2261055358648778124.mp3",
+          "audioName": "09早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "正午不适合练剑，我通常会用这段时间进行冥想。苦修必不可少，但也需要回顾与反思，免入歧途。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/95c795b611c7c259b30c4e834ad0ccdb_2917924751314071082.mp3",
+          "audioName": "10中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "哦…已经晚上了。外界的时间过得格外快，所以更要珍惜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6e2941a4d8b35ec67906dc25b79816af_1225783387552719635.mp3",
+          "audioName": "11晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "睡吧，我再去练会儿剑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3814894abf3245ab4285784e0a3e4cda_9095946714727700370.mp3",
+          "audioName": "12晚安…_en.mp3"
+        },
+        {
+          "name": "关于丝柯克自己·读书",
+          "text": "最近从璃月买了些古书，其中有一篇让我很感兴趣：「至人之用心若镜，不将不迎，应而不藏，故能胜物而不伤。」我本以为有此心境的作者应是世所罕见的武学宗师，翻阅记载才知道他不过是位普通的旅人。人类有时候能做出我意料之外的事情，这或许就是他们所谓的底蕴。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b9ac873875031b43254cf1c4ca7e736f_3386390527245644070.mp3",
+          "audioName": "13关于丝柯克自己·读书_en.mp3"
+        },
+        {
+          "name": "关于丝柯克自己·挥剑",
+          "text": "心情好的时候我会去挥剑，遭遇挫败时同样如此。唯有自身强大，才能让命运低头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/0ea1ee32ff00337b73e1ef827f7a5135_8480496660787240432.mp3",
+          "audioName": "14关于丝柯克自己·挥剑_en.mp3"
+        },
+        {
+          "name": "关于我们·训练",
+          "text": "如果你想锻炼，我可以带你去深渊。那里不会被人打扰，时间流速也和提瓦特不同，可以事半功倍。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/22e23d7061f8739edc778d2b8d0969ff_1647353872325764646.mp3",
+          "audioName": "15关于我们·训练_en.mp3"
+        },
+        {
+          "name": "关于我们·目标",
+          "text": "也许像你说的一样，缔造一个有秩序的宇宙需要很多人的努力。但我不能将希望寄托在别人身上，我要做得更多一些，向他们证明这条路是可行的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e7b2df24ef7d8ac6dc657329b7f76ae7_7665510033671492151.mp3",
+          "audioName": "16关于我们·目标_en.mp3"
+        },
+        {
+          "name": "关于「深渊力量」…",
+          "text": "师父教会了我驾驭深渊力量的方法，我也在坎瑞亚遗存的研究中，找到了将其拟态成普通元素力的手段。单就结果而言，你和我都能脱离神之眼使用元素力，这也意味着我们的愿望无需神明评判。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/8d4ba36b59be26127ed58b40920f412a_1350010049293236171.mp3",
+          "audioName": "17关于「深渊力量」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "师父说他当初学的是坎瑞亚正统黑蛇剑术，但等到他教我的时候，他的剑法已经多了许多黑蛇剑术没有的东西。武艺就是这样，不断融会贯通，不断自我改进，才能获得长久的提升。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/67b9620c55bd197d65318c7683eb0658_7164841923641803281.mp3",
+          "audioName": "18有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "游历星海时，我曾见过一种感知与常态相反的动物。它们会用坚冰取暖，用烈火纳凉。会在阴暗的山洞里挥汗如雨，在毒辣的日光下瑟瑟发抖。它们与周围的其他生灵格格不入，依然活得很好，生命从来复杂又简单。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7745de39255356635bb2e4413a87a64c_6188181790056466649.mp3",
+          "audioName": "19感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于苏尔特洛奇…",
+          "text": "有资格被冠以「极恶」之名的人屈指可数，赠他这个称号的人，想必对他非常厌恶。师父的确做过许多不义之事，他是骑士出身，却背离骑士精神。但仍有许多人愿意追随他，因为他强大、从容、自信，对任何人都坦诚相待。他做事不是为了满足某一种简单的情绪，而是为了让自身更加圆满…这是他强大的原因，也是他危险的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7ad9ba3299a8a3f59d917f67915f19b4_7053208507282682488.mp3",
+          "audioName": "20关于苏尔特洛奇…_en.mp3"
+        },
+        {
+          "name": "关于艾莉丝·约定",
+          "text": "作为「维系世界边界之人」，她默许了我的存在，但要我保证不会过度干预这个世界。我不会，但我有理由知晓原因。她说，许多生态学家会为动物们的捕猎与逃亡感到心潮澎湃，却绝不会干预其中，而是任由自然法则碾过自身的悲喜——「有人说这是观测者的冷血，我却认为这同样是一种仁慈。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4c775b813f35908523aa33e75dd14d05_456006714303836392.mp3",
+          "audioName": "21关于艾莉丝·约定_en.mp3"
+        },
+        {
+          "name": "关于艾莉丝·感谢",
+          "text": "在某次见面时，她曾告诫我要倾听自己内心的声音，也曾对我说「要学会过好现在的生活」。她是真心为我考虑，我应当对她表示感谢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c5465bd0e528bf50dd426dc4b78cddd2_4770654477568661014.mp3",
+          "audioName": "22关于艾莉丝·感谢_en.mp3"
+        },
+        {
+          "name": "关于戴因斯雷布…",
+          "text": "他是师父曾经的对手，似乎也曾是他最好的朋友。我本想向他打听有关师父的事情，但他在认出我的剑术后显得很激动，不断地追问师父的下落。这个人很麻烦，我暂时不想和他见面。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/714ec06819c28a1e87c9e8a205b9952a_2522317458423163557.mp3",
+          "audioName": "23关于戴因斯雷布…_en.mp3"
+        },
+        {
+          "name": "关于多莉…",
+          "text": "艾莉丝的朋友，聪明的商人。有时候我会将值钱的魔物残骸卖给她，交换摩拉来维持在提瓦特的日常开销。我对她印象不错，因为她从来不打听我的身份。至于交易的价格是否公道，我并不在意。钱财够用即可，多收无益。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ce32c81f8cf6cf83514a521114857594_7155888622933364146.mp3",
+          "audioName": "24关于多莉…_en.mp3"
+        },
+        {
+          "name": "关于达达利亚…",
+          "text": "有长进，现在的他值得我用上双手来应战。阿贾克斯的天赋不错，也有一颗不畏惧争斗的心，这是成为强者的必要前提。然而，我也曾见过许多如他一般闪耀的天才还未崭露锋芒便如流星般陨落。若是想成为自己梦想中的模样，他还有很长的路要走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/39dfa541c6d01e2d1bea4a1b020d10b9_6367344818000219503.mp3",
+          "audioName": "25关于达达利亚…_en.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "凡是失去的力量，终究会以另一种方式收回。然而这份力量指向的终点会在哪里？是审判、是复仇，或是开辟新的未来？或许他的心中已有答案，这与他一直寻找的「存在意义」同根同源。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7a471a82696540b3d83873d55cb0641d_3499831406208359122.mp3",
+          "audioName": "26关于那维莱特…_en.mp3"
+        },
+        {
+          "name": "关于「月之意志」…",
+          "text": "我在穿越虚假之天的时候，曾见过三枚围绕提瓦特的月亮。其中两枚已经碎裂，冰冷的残骸漫无目的地漂流。完整的那枚也了无生气，但它的意志并未完全消散。或许有一天，在虚假的天幕上，能够诞生独属于这世界的「真实」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/19087fae3fa97ae3202533386b600d53_8352811016148024153.mp3",
+          "audioName": "27关于「月之意志」…_en.mp3"
+        },
+        {
+          "name": "关于尼可…",
+          "text": "变成人类是进化还是退化？目睹族群自我毁灭的时候，她又作何感想？认识她之后，我也曾想追问清楚…但想想她的性格，还是算了。让她安安静静地搞雕塑比较好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/25dff0d1e7fb44eef9cace3475f5294c_1818640495248375528.mp3",
+          "audioName": "28关于尼可…_en.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其一",
+          "text": "值得我关注的事情不多，大部分时间我都在深渊中训练。不必在意我，我没打算对这个世界做什么。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/a655525e4a75ffb92d3a3fca0ad27256_1370034674646968610.mp3",
+          "audioName": "29想要了解丝柯克·其一_en.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其二",
+          "text": "长时间训练过后，最头疼的就是如何缓解身体的酸痛与疲惫。虽然可以靠控制深渊力量来舒缓肌肉，但使用深渊力量本身也很累。为此我自学过拉伸运动，效果不错。如果你有同样困扰，我可以教你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/13a3703a67e9f7fd9df977b6b01126e6_6615676671773489403.mp3",
+          "audioName": "30想要了解丝柯克·其二_en.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其三",
+          "text": "在蒙德旅行时，我曾遇到一位吟游诗人，他教我弹奏乐器的技巧，还硬拉着我去喝酒。我的身体很快就适应了晕眩的感觉，而后日夜轮转，喝更多也不会感到不适，那位诗人却不知何时醉倒在椅子上…我只好付了账。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/86db5bf28521b8852d4da4214172002e_1215973655086486941.mp3",
+          "audioName": "31想要了解丝柯克·其三_en.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其四",
+          "text": "在这里，我曾不止一次凝望头顶的星空。虽然是虚假的天幕，却能感受到创造者对宇宙的浪漫幻想。星汉迢迢，光阴漫漫，人类寄希望于用文字与书籍将历史的一角永远保存，而天幕的主人或许也怀着同样的情感，希望宇宙的一瞬定格在此处，化作永恒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/babda51b13c8541e407e9e6344165328_9104960959388176872.mp3",
+          "audioName": "32想要了解丝柯克·其四_en.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其五",
+          "text": "爸妈还在的时候，我从没跟他们学过弹奏乐器。只记得爸爸曾说，弹奏的精髓在于「沉浸其中」。来到提瓦特之后，我买过许多乐器来练习，可一旦沉浸其中就控制不好力道，结果弹坏了很多件。于是我干脆自己收集材料，按照记忆中的样子做了些更耐用的款式。送你一把，关键时候还可以当武器使用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b21e8db2442d5eb5354f9ad4b6c35043_6076036075697538346.mp3",
+          "audioName": "33想要了解丝柯克·其五_en.mp3"
+        },
+        {
+          "name": "丝柯克的爱好…",
+          "text": "闲暇的时候，我会用这个世界的乐器奏响故乡的旋律。我原以为随着岁月流逝，那些曲子会在我的脑海中逐渐淡去…但是并没有，它们仿佛铭刻在我的灵魂之上。每当木吉他响起，我就会清晰地意识到，这是一个文明留在宇宙间最后的蛛丝马迹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/12edc1d14565322585d732e0a301dc1f_7489314683404135607.mp3",
+          "audioName": "34丝柯克的爱好…_en.mp3"
+        },
+        {
+          "name": "丝柯克的烦恼…",
+          "text": "我曾学着像母亲一样写一些诗歌，不过怎么努力都写不好。也许每个人都有不擅长的事，既然对战斗无益，倒也不必强求。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e7b7e82f535c2be3f5c7ddd10d0accb0_1459800163522793197.mp3",
+          "audioName": "35丝柯克的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我在跟随师父训练时，经常遍体鳞伤。师父会抓一种叫不上名来的虫子，烤了让我吃，据说可以让身体更快恢复。圆滚滚的虫子烤完后是漂亮的金色，外壳酥脆、肉质鲜香。时间过去太久，我已记不清它具体是什么味道，只记得小时候的我对此赞不绝口。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/925764980dc1e57f45b849b4df476625_5303328471899024901.mp3",
+          "audioName": "36喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "美味的食物容易入口，粗劣的食物也能下咽。不浪费就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/aed8ad08f1e8c7e2321074b242acc222_2155960236810959952.mp3",
+          "audioName": "37讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d4f83b75bf58f3d7310c80b5f84928dd_4210130800140098623.mp3",
+          "audioName": "38收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "一般。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b332f23ed86d758c126c8a1c05764294_1671858865143199140.mp3",
+          "audioName": "39收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "浪费食材，以后做饭的事交给我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5a3fc1a2a1f93e4291fe07303bc1edcb_731805968147040543.mp3",
+          "audioName": "40收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。我听说有人愿意大张旗鼓地庆祝生日，有人则更希望平淡地度过这一天，不知道你是哪一类。我会用生日来回顾过去一年的成长，所以有时我能够安然地为自己庆贺，有时又会陷入一种特别的内疚中。…还是不要为它赋予那么隆重的意义吧。不同的地方有不同的节日，关于天地，关于祖先，关于朋友…但只有今天，是关于我们自己。感慨的话就说到这里，再次祝你生日快乐，希望你能成为自己想要成为的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ecee4fe23b262f05a1959fb446e51002_5860142062088419562.mp3",
+          "audioName": "41生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "仅此而已…吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d2ddc485ca7adada8172be1c814df0f5_2848986505633677462.mp3",
+          "audioName": "42突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这种提升对我来说还不够。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7f6d446fb84578b3b0ca26a79ace63f5_3461658463479182091.mp3",
+          "audioName": "43突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "力量啊…曾几何时，我既不拥有它，也不追求它。而现在我们相互奔赴，无法回头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b2f54c5683f0536f0e4b7990557a4654_4954168982010482565.mp3",
+          "audioName": "44突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "苍茫星海，无边无际。若以此为征程，那么追求力量永无止境。所以不断前行的同时，我也会在中途给自己设立一些「目标」。与你一同旅行的这段时间，我的力量有所成长，最近的目标已经达成了。接下来换我帮你特训…准备好了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/cc2085543d29cec2dd3a00d4a579761b_4980345502723124678.mp3",
+          "audioName": "45突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "尽没。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b65825c78ddd6a724ca50b1eb3efd8a1_7628185463519694194.mp3",
+          "audioName": "46元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "湮散。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/716bf4d220d02ee8c606359c1a4ad5b6_7998765222717019940.mp3",
+          "audioName": "47元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "溢流。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f9e406d0b8b3ff305af2aef30afe4e81_9196137698844708901.mp3",
+          "audioName": "48元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "破空。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1e6283b67fc1e9d0e90334b2dcd4764f_4889977935160725037.mp3",
+          "audioName": "49元素战技·其四_en.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "踏刃。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6d6fd6061f81c5338b3ff4ee2c7e8f96_292124200525194208.mp3",
+          "audioName": "50元素战技·其五_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "沉于渊海。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b44a16b32cd947055677deaf1e793df8_6845787998148443492.mp3",
+          "audioName": "51元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "群星寂灭。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/20c59ebdec6c9086dc85934d2f7083dd_6756159213236615798.mp3",
+          "audioName": "52元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "更迭万象。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/72bdbcef8056cdf8f17aa60a7c2a455e_8731945944649458913.mp3",
+          "audioName": "53元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "力量啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/23678e33054249b1799ac34ec7e3fe52_412712243938992754.mp3",
+          "audioName": "54元素爆发·其四_en.mp3"
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "归于我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/18983db3bb163d836e104c3324291164_7932527571861351981.mp3",
+          "audioName": "55元素爆发·其五_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是你应得的嘉奖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9490c90ed90f75558fd47b888c4d3437_8675264814889099100.mp3",
+          "audioName": "56打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "努力就该有回报。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2072fdabfd0d94cfd3307abdb74079dc_287472486017415078.mp3",
+          "audioName": "57打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "时间埋藏的宝物。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/55f2b5306e0115e3c64fc6cdf7279441_3496420628508868956.mp3",
+          "audioName": "58打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "有意思。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3a2c1f8f71909d8e8e6a5944186f5cb5_790795410392005841.mp3",
+          "audioName": "59生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "继续。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f1c9016af9f1f07f60f9f5d5ae8afeb2_1481393017462463473.mp3",
+          "audioName": "60生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "出乎意料。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1b9bad01bb0ca72adfa5ae7d8629c188_2223311203076544363.mp3",
+          "audioName": "61生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "当心点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/db8fd6bb0eb821eccc974969116e2b21_2511186234784407597.mp3",
+          "audioName": "62同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换我来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b92f8bf39e12a1cb58003144eef2f349_4836017275316085099.mp3",
+          "audioName": "63同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "星海默然，覆灭无声…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/39217304228b5e731da3ec62f339964d_3383377403261686086.mp3",
+          "audioName": "64倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "必须有人…来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5bc558289deb96c076c99f2f22e3002d_3598294540962704686.mp3",
+          "audioName": "65倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "还不够强…吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/73065aa62b243960d2288ffb02cf5706_2846398212463847459.mp3",
+          "audioName": "66倒下·其三_en.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不自量力。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/fdeb7553521ad04c8809ce62696777c7_2478787894859242187.mp3",
+          "audioName": "普通受击·其一en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这下还行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/8d8c01cfdf090f2d5b67dda69649f388_3143385264324703010.mp3",
+          "audioName": "重受击·其一en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "需要我来解决？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1c896868352598db78b8d435f7c35139_7723037175576816390.mp3",
+          "audioName": "69加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我只教一次。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/8d1c7acecd3da48dd482a6d36720da25_8788044558854395198.mp3",
+          "audioName": "70加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "那就出去走走吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/fd1c3ea1650e25d4614fcabb67961545_9027775931088699064.mp3",
+          "audioName": "71加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是丝柯克，「极恶骑」苏尔特洛奇的弟子。过往的旅程中，你已证明自己是一位合格的强者，拥有和我平等对话的资格。就让我来见证你的命运吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/552c829e8e512e87adf7389a14b04bfe_2998868296965489183.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·深渊",
+          "text": "深渊就像世界的影子。它一直在那里，永远不凋亡。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2be5196c43f526632fed708d2b3f36a8_8030812521845097561.mp3",
+          "audioName": "02闲聊·深渊_kr.mp3"
+        },
+        {
+          "name": "闲聊·冥想",
+          "text": "来自何方，去往何方…？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e60d9d13b1e2bad7a2f8ce0ba0e7f654_9030541799417530732.mp3",
+          "audioName": "03闲聊·冥想_kr.mp3"
+        },
+        {
+          "name": "闲聊·终点",
+          "text": "万物都有终点，时间也不例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5a3917a75d7948bcffafc814eacb1551_3561035893923025675.mp3",
+          "audioName": "04闲聊·终点_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "不错的雨。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/81f1ff6d17418591ab697e487d845b2b_7033844348071854099.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "雷光凶赫，却只在层云之下。高空之上仍旧晴朗。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/0b048b2bcc1e1f5f963f130e4677fc29_7584190433331411461.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "据说在极致的严寒下，一切都会静止…这里显然还差得很远。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/0fb52194b36bd7f4d2a6348615991fb6_8602879437554103008.mp3",
+          "audioName": "07下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风会吹散视野中的雾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ac4c511b81fc97f20106656ca1c6148d_752687514627166150.mp3",
+          "audioName": "08刮大风了…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "睡得如何？看上去你的身体已经调整到了最佳状态，准备出发。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b33819b544771071b5f58dbc59e7f063_1603442561226797156.mp3",
+          "audioName": "09早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "正午不适合练剑，我通常会用这段时间进行冥想。苦修必不可少，但也需要回顾与反思，免入歧途。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1e1a50f563af3ac7b645b4ff57112cd3_8820962817576870860.mp3",
+          "audioName": "10中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "哦…已经晚上了。外界的时间过得格外快，所以更要珍惜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/491ebb153615407c8ff984d731f49db0_7459123469747945949.mp3",
+          "audioName": "11晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "睡吧，我再去练会儿剑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3f700d03f96ad66b6f542cdf7e0477b6_8054054565243325682.mp3",
+          "audioName": "12晚安…_kr.mp3"
+        },
+        {
+          "name": "关于丝柯克自己·读书",
+          "text": "最近从璃月买了些古书，其中有一篇让我很感兴趣：「至人之用心若镜，不将不迎，应而不藏，故能胜物而不伤。」我本以为有此心境的作者应是世所罕见的武学宗师，翻阅记载才知道他不过是位普通的旅人。人类有时候能做出我意料之外的事情，这或许就是他们所谓的底蕴。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f7eb011407a02d5c85eaf7e399dcddfa_5453464963851584158.mp3",
+          "audioName": "13关于丝柯克自己·读书_kr.mp3"
+        },
+        {
+          "name": "关于丝柯克自己·挥剑",
+          "text": "心情好的时候我会去挥剑，遭遇挫败时同样如此。唯有自身强大，才能让命运低头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9346832ebafa25ac90d755feeb410ce1_5092456160785808772.mp3",
+          "audioName": "14关于丝柯克自己·挥剑_kr.mp3"
+        },
+        {
+          "name": "关于我们·训练",
+          "text": "如果你想锻炼，我可以带你去深渊。那里不会被人打扰，时间流速也和提瓦特不同，可以事半功倍。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ad9ccc68cbcad82e872463e4277f8a49_3452842497667988370.mp3",
+          "audioName": "15关于我们·训练_kr.mp3"
+        },
+        {
+          "name": "关于我们·目标",
+          "text": "也许像你说的一样，缔造一个有秩序的宇宙需要很多人的努力。但我不能将希望寄托在别人身上，我要做得更多一些，向他们证明这条路是可行的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d68d2f66b86950184eabaa3bbfc588d9_7288832411609533097.mp3",
+          "audioName": "16关于我们·目标_kr.mp3"
+        },
+        {
+          "name": "关于「深渊力量」…",
+          "text": "师父教会了我驾驭深渊力量的方法，我也在坎瑞亚遗存的研究中，找到了将其拟态成普通元素力的手段。单就结果而言，你和我都能脱离神之眼使用元素力，这也意味着我们的愿望无需神明评判。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/72d832addc5fa169355cdf2a1b55f211_107004809081313824.mp3",
+          "audioName": "17关于「深渊力量」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "师父说他当初学的是坎瑞亚正统黑蛇剑术，但等到他教我的时候，他的剑法已经多了许多黑蛇剑术没有的东西。武艺就是这样，不断融会贯通，不断自我改进，才能获得长久的提升。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d453d5f9addca874ba5c70610327109b_529389165602353945.mp3",
+          "audioName": "18有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "游历星海时，我曾见过一种感知与常态相反的动物。它们会用坚冰取暖，用烈火纳凉。会在阴暗的山洞里挥汗如雨，在毒辣的日光下瑟瑟发抖。它们与周围的其他生灵格格不入，依然活得很好，生命从来复杂又简单。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c5c53866f87e0e8c36f0c6d0bef0c629_2223040370313804607.mp3",
+          "audioName": "19感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于苏尔特洛奇…",
+          "text": "有资格被冠以「极恶」之名的人屈指可数，赠他这个称号的人，想必对他非常厌恶。师父的确做过许多不义之事，他是骑士出身，却背离骑士精神。但仍有许多人愿意追随他，因为他强大、从容、自信，对任何人都坦诚相待。他做事不是为了满足某一种简单的情绪，而是为了让自身更加圆满…这是他强大的原因，也是他危险的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4f01ff137e2b59648c7c8e86767c8dd1_979186927719812610.mp3",
+          "audioName": "20关于苏尔特洛奇…_kr.mp3"
+        },
+        {
+          "name": "关于艾莉丝·约定",
+          "text": "作为「维系世界边界之人」，她默许了我的存在，但要我保证不会过度干预这个世界。我不会，但我有理由知晓原因。她说，许多生态学家会为动物们的捕猎与逃亡感到心潮澎湃，却绝不会干预其中，而是任由自然法则碾过自身的悲喜——「有人说这是观测者的冷血，我却认为这同样是一种仁慈。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c8082a5296e1ab527626852b604464cf_3654638828021277268.mp3",
+          "audioName": "21关于艾莉丝·约定_kr.mp3"
+        },
+        {
+          "name": "关于艾莉丝·感谢",
+          "text": "在某次见面时，她曾告诫我要倾听自己内心的声音，也曾对我说「要学会过好现在的生活」。她是真心为我考虑，我应当对她表示感谢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/8c4e0bafef6052f2f795bb9bad303ce6_7860241179156647580.mp3",
+          "audioName": "22关于艾莉丝·感谢_kr.mp3"
+        },
+        {
+          "name": "关于戴因斯雷布…",
+          "text": "他是师父曾经的对手，似乎也曾是他最好的朋友。我本想向他打听有关师父的事情，但他在认出我的剑术后显得很激动，不断地追问师父的下落。这个人很麻烦，我暂时不想和他见面。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c4a510d15e64e5fa8efc6b98f325aab3_1506760986195925733.mp3",
+          "audioName": "23关于戴因斯雷布…_kr.mp3"
+        },
+        {
+          "name": "关于多莉…",
+          "text": "艾莉丝的朋友，聪明的商人。有时候我会将值钱的魔物残骸卖给她，交换摩拉来维持在提瓦特的日常开销。我对她印象不错，因为她从来不打听我的身份。至于交易的价格是否公道，我并不在意。钱财够用即可，多收无益。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/57d5e4da9ee54d1015a427393f5c80ff_1826789248433369327.mp3",
+          "audioName": "24关于多莉…_kr.mp3"
+        },
+        {
+          "name": "关于达达利亚…",
+          "text": "有长进，现在的他值得我用上双手来应战。阿贾克斯的天赋不错，也有一颗不畏惧争斗的心，这是成为强者的必要前提。然而，我也曾见过许多如他一般闪耀的天才还未崭露锋芒便如流星般陨落。若是想成为自己梦想中的模样，他还有很长的路要走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/49b051ba28b64cf5849df85f43f2da34_574195072834469922.mp3",
+          "audioName": "25关于达达利亚…_kr.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "凡是失去的力量，终究会以另一种方式收回。然而这份力量指向的终点会在哪里？是审判、是复仇，或是开辟新的未来？或许他的心中已有答案，这与他一直寻找的「存在意义」同根同源。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/376dbfb64dd13ec7f39c38988466b9ec_2324701407185651163.mp3",
+          "audioName": "26关于那维莱特…_kr.mp3"
+        },
+        {
+          "name": "关于「月之意志」…",
+          "text": "我在穿越虚假之天的时候，曾见过三枚围绕提瓦特的月亮。其中两枚已经碎裂，冰冷的残骸漫无目的地漂流。完整的那枚也了无生气，但它的意志并未完全消散。或许有一天，在虚假的天幕上，能够诞生独属于这世界的「真实」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/443dd7afa33457c268b7db76e7745991_643502642063342061.mp3",
+          "audioName": "27关于「月之意志」…_kr.mp3"
+        },
+        {
+          "name": "关于尼可…",
+          "text": "变成人类是进化还是退化？目睹族群自我毁灭的时候，她又作何感想？认识她之后，我也曾想追问清楚…但想想她的性格，还是算了。让她安安静静地搞雕塑比较好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/48885a9afd14b4cc904607d69927fb1c_4187186039229814756.mp3",
+          "audioName": "28关于尼可…_kr.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其一",
+          "text": "值得我关注的事情不多，大部分时间我都在深渊中训练。不必在意我，我没打算对这个世界做什么。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/bd87f0d6090701a38b28d42846e2c1ef_3479917704426656956.mp3",
+          "audioName": "29想要了解丝柯克·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其二",
+          "text": "长时间训练过后，最头疼的就是如何缓解身体的酸痛与疲惫。虽然可以靠控制深渊力量来舒缓肌肉，但使用深渊力量本身也很累。为此我自学过拉伸运动，效果不错。如果你有同样困扰，我可以教你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/fde6fb9076f580ea38c3d0b059adfd80_5916397335844230919.mp3",
+          "audioName": "30想要了解丝柯克·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其三",
+          "text": "在蒙德旅行时，我曾遇到一位吟游诗人，他教我弹奏乐器的技巧，还硬拉着我去喝酒。我的身体很快就适应了晕眩的感觉，而后日夜轮转，喝更多也不会感到不适，那位诗人却不知何时醉倒在椅子上…我只好付了账。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/13ac8fd32635d3c19217ac3aa296e0ff_7563887517326804820.mp3",
+          "audioName": "31想要了解丝柯克·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其四",
+          "text": "在这里，我曾不止一次凝望头顶的星空。虽然是虚假的天幕，却能感受到创造者对宇宙的浪漫幻想。星汉迢迢，光阴漫漫，人类寄希望于用文字与书籍将历史的一角永远保存，而天幕的主人或许也怀着同样的情感，希望宇宙的一瞬定格在此处，化作永恒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/001e8c4ab507cdaf4e86c9a983a09451_4636914435488697620.mp3",
+          "audioName": "32想要了解丝柯克·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解丝柯克·其五",
+          "text": "爸妈还在的时候，我从没跟他们学过弹奏乐器。只记得爸爸曾说，弹奏的精髓在于「沉浸其中」。来到提瓦特之后，我买过许多乐器来练习，可一旦沉浸其中就控制不好力道，结果弹坏了很多件。于是我干脆自己收集材料，按照记忆中的样子做了些更耐用的款式。送你一把，关键时候还可以当武器使用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/8a1988566545a9524c4f2558cd8a412b_7549488384200104949.mp3",
+          "audioName": "33想要了解丝柯克·其五_kr.mp3"
+        },
+        {
+          "name": "丝柯克的爱好…",
+          "text": "闲暇的时候，我会用这个世界的乐器奏响故乡的旋律。我原以为随着岁月流逝，那些曲子会在我的脑海中逐渐淡去…但是并没有，它们仿佛铭刻在我的灵魂之上。每当木吉他响起，我就会清晰地意识到，这是一个文明留在宇宙间最后的蛛丝马迹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4814b1d4ba9ab15a2ef97da28beaf8ee_1895357399267171239.mp3",
+          "audioName": "34丝柯克的爱好…_kr.mp3"
+        },
+        {
+          "name": "丝柯克的烦恼…",
+          "text": "我曾学着像母亲一样写一些诗歌，不过怎么努力都写不好。也许每个人都有不擅长的事，既然对战斗无益，倒也不必强求。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7be547643e1b170aa129f9bc4e69d443_931302719345899719.mp3",
+          "audioName": "35丝柯克的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我在跟随师父训练时，经常遍体鳞伤。师父会抓一种叫不上名来的虫子，烤了让我吃，据说可以让身体更快恢复。圆滚滚的虫子烤完后是漂亮的金色，外壳酥脆、肉质鲜香。时间过去太久，我已记不清它具体是什么味道，只记得小时候的我对此赞不绝口。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ccfe8dcfe6b8ea2dc63fe9072ea6ebf1_1928944930826853819.mp3",
+          "audioName": "36喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "美味的食物容易入口，粗劣的食物也能下咽。不浪费就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/44f7392c1384b2fdf2ce947fa05debd8_1759752977326075345.mp3",
+          "audioName": "37讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/976659d2d5952a817f53806894877835_4989660088798515069.mp3",
+          "audioName": "38收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "一般。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2e31b8c76be9b4286d061ad6b82452e9_9130171502513229245.mp3",
+          "audioName": "39收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "浪费食材，以后做饭的事交给我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/146546a52a0349aa92cd85ee6ae0f692_562450682263615196.mp3",
+          "audioName": "40收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。我听说有人愿意大张旗鼓地庆祝生日，有人则更希望平淡地度过这一天，不知道你是哪一类。我会用生日来回顾过去一年的成长，所以有时我能够安然地为自己庆贺，有时又会陷入一种特别的内疚中。…还是不要为它赋予那么隆重的意义吧。不同的地方有不同的节日，关于天地，关于祖先，关于朋友…但只有今天，是关于我们自己。感慨的话就说到这里，再次祝你生日快乐，希望你能成为自己想要成为的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/dac9ee2ccf0b881405f009937c7d9dac_5010286081335367162.mp3",
+          "audioName": "41生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "仅此而已…吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/17832f0305e21ee15b0ec416c9c91424_1861630167906841105.mp3",
+          "audioName": "42突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这种提升对我来说还不够。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/dccad506e730190b36beb4738f192175_7659728873297819541.mp3",
+          "audioName": "43突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "力量啊…曾几何时，我既不拥有它，也不追求它。而现在我们相互奔赴，无法回头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/75e8c202f9adf3dc28a3b5cd9e430546_5050723293052837429.mp3",
+          "audioName": "44突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "苍茫星海，无边无际。若以此为征程，那么追求力量永无止境。所以不断前行的同时，我也会在中途给自己设立一些「目标」。与你一同旅行的这段时间，我的力量有所成长，最近的目标已经达成了。接下来换我帮你特训…准备好了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e20d6a9f5459ddfe789512a31c80fec9_4962465276839605020.mp3",
+          "audioName": "45突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "尽没。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c1a61cbedaeb7df198cb74ba5f414a02_5066884667333429188.mp3",
+          "audioName": "46元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "湮散。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d6974861cf303fad87f0e657c6f5f5d5_1747986262364045296.mp3",
+          "audioName": "47元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "溢流。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6dd79b26572086df499560734ef9b349_8095273454009247889.mp3",
+          "audioName": "48元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "破空。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/fe86715dc216ff8d9d881e978370d336_5544242445000783273.mp3",
+          "audioName": "49元素战技·其四_kr.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "踏刃。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/8f0b090266dde6f2008e46e2899ac38c_5926408412710151150.mp3",
+          "audioName": "50元素战技·其五_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "沉于渊海。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/34c14439739cd972b2644c6731a5dd59_1032173816124272995.mp3",
+          "audioName": "51元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "群星寂灭。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/28f16258023cf73c07425f48ef35e898_2756715345433061228.mp3",
+          "audioName": "52元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "更迭万象。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/efc6f55a768e9df78e5297d027c93ff8_1722066275002193105.mp3",
+          "audioName": "53元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "力量啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/84f88ac3645578055d2d6937b8e582ff_2499387206442455238.mp3",
+          "audioName": "54元素爆发·其四_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "归于我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ed633cd450b780806bd67694e07574e8_5609793240929647677.mp3",
+          "audioName": "55元素爆发·其五_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是你应得的嘉奖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9bd06dd28e2ab73d0854e7cd7b450d32_4905634156127537150.mp3",
+          "audioName": "56打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "努力就该有回报。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b1f33ee6da180a5e94de3841e300e793_5748222246012582861.mp3",
+          "audioName": "57打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "时间埋藏的宝物。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/741edb23ccf3b7ed82da89dd8dadaf69_128488914091727999.mp3",
+          "audioName": "58打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "有意思。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/af32b33c55213a99d14c7df5d1eeb698_9123064924950349379.mp3",
+          "audioName": "59生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "继续。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5b616569d7ec806811182a984e6552ed_2435017244823533648.mp3",
+          "audioName": "60生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "出乎意料。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/bbcafc7c7f1e1bd249cceba27d562e7e_938844688221094901.mp3",
+          "audioName": "61生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "当心点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/52c2732fae7c997fceb6ed1d3def47d4_1790943577676527465.mp3",
+          "audioName": "62同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换我来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/fa63bc0483941522a09e75fc635ff009_5306290759372742293.mp3",
+          "audioName": "63同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "星海默然，覆灭无声…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/01da5504031cbf28247476e7885806d9_5559604127094055583.mp3",
+          "audioName": "64倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "必须有人…来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4864f072f46bf0862992236f8aae1dc6_2548271427574434725.mp3",
+          "audioName": "65倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "还不够强…吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ad38a640e02c688989a3b16db8dae5a3_94710609139236572.mp3",
+          "audioName": "66倒下·其三_kr.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不自量力。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/bb6d0705d4eaafc41269bb676096d520_7043514100827409077.mp3",
+          "audioName": "普通受击·其一kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这下还行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/372365e5b684be1f768f86f3df41d55d_6274179525150407375.mp3",
+          "audioName": "重受击·其一kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "需要我来解决？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6cfd1783270c26995326407fc7628c99_2737799789342579386.mp3",
+          "audioName": "69加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我只教一次。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ecc798d0088d662b471ffe59ea72ece1_8904025496726689128.mp3",
+          "audioName": "70加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "那就出去走走吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9f85d284abd059fca05cb56d567ae39c_6933954744329975934.mp3",
+          "audioName": "71加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

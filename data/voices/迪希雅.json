@@ -1,0 +1,1685 @@
+{
+  "id": "6180",
+  "name": "迪希雅",
+  "alias": [
+    "迪希雅"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我叫迪希雅，就是你想要雇佣的那位佣兵。你有什么委托？打架？护送？无论是什么事，只要开口就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/6f1eaefd46ccd290796aedb954359661_3304882752063682697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·佣兵",
+          "text": "你问佣兵的工作原则？嗯…很简单，谁出的钱多，就给谁办事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ef209444e72d601d5ef5b53a426c423f_662299029462929866.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·沙漠",
+          "text": "沙漠是个难相处的对手，但至少它足够光明磊落，把所有艰险挑战都放在台面上给你看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/bc235d8e2def4304e084c4e83dd678df_5704582441266014830.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·我们的人",
+          "text": "我们的人已经习惯了沙漠…但我还是希望他们在某天能够告别风沙，在某处绿洲更愉快地生活。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/4ef2aefe1560b70a78c12d4d63a73b34_6908612220557288254.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "听佣兵团里的老人说，沙漠里偶尔也会下雨，而且雨势比这猛烈得多。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/f7435392c1cf2c60638e4ffd3abd6d09_1624926935912864679.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这雷鸣声可够大的…可以掩盖住很多声音。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/8dd79812904fb8d9ce1be6f6003d2123_7985134339403060577.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "呼…这里简直比夜晚的沙漠还冷。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/de98294cb8a7065c5b2123cc1832b302_5271025452644719349.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气很好，要是我手里的活也能轻松点就好喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/0bd16a2cb687e58ed27c14492296df69_3875507281161309936.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "起风了，我们去下风口扎营比较安全。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/70969b68f43ae9224c10d696744c7ef2_8552993920092424697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "跟紧我，不要乱走，沙漠可不会对任何人留情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/58611e712f2c357f352b2d014dbd1bef_3287161110772967636.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "你看起来精神不错，那我们等会就拔营出发吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/1582d86b9b7cec5d09b4fabb499ea1b6_2100539418555964869.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "已经中午了…等我找到合适的位置，就可以搭灶做饭了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/3b45d2c21fcf06d31fc4d49e3a6ff38d_8766722701425779349.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "这么晚了你还在工作？真是比我们佣兵都辛苦啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/f39de21e9e8f5c873e720f2b6c71984f_4021020773549565470.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "时间不早了，今夜的值守就交给我，你快去休息吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/d987dc17fc2312a48910ee1b744fb47f_2464826095838421614.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅自己·镀金旅团",
+          "text": "镀金旅团只是一个「头衔」，任何须弥的佣兵都可以自称为「镀金旅团」的一员。有些佣兵就用这头衔来唬骗外地人。哼，拜这帮人所赐，现在「镀金旅团」的名号已经越来越招人厌了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/e61a5f152cb45c5c95e73c16eec1bd91_5212983926414225024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅自己·老爹",
+          "text": "库塞拉…他是个吊儿郎当，喜欢装模作样的佣兵。是他从沙漠里救了我，又用尽全力，将他一切能够给予我的东西，都给了我。但正是因为他，我才能成长为现在的我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/43dbf08441dfe40152ffc7c178a75511_49189539128148081.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·伟大事迹",
+          "text": "你最近可是大显身手啊，我所在的佣兵团里都有不少人一直在讲你的事迹，甚至还有几个人来问我，能不能向你引见一下他们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/4c9ac5e761b7e5235e465f356a342ed3_8609760370972898304.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·战友",
+          "text": "朋友？嗯…我们一起经历了那么多事，共同闯过了那么多场战斗，用「朋友」来形容我们之间的关系，总感觉有点轻飘飘的。我想想…不如，用「战友」吧，这种感情只能从并肩的战斗中锤炼而出，是最不可动摇的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/b985bbe318c954b8beb8e6bd310f26e8_6983553299460570390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」给我带来了什么？嗯…老实说，比起战斗时的便利，这枚「神之眼」更大的作用，是让更多的佣兵慕名而来加入「炽光猎兽」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/7682f77886cfc7ce4579cab4fc4633ae_6603387445298250631.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "你知道枣椰吗？我小时候最喜欢吃这种果子。但老爹完全不知道拆枣椰的方法，就拿着刀胡乱地戳来戳去，把里面的果肉都弄得乱七八糟，完全没办法下口吃。最后只能把果肉都刮下来，混在牛奶里，勉强给我当做粥来吃。我有时候也会怀念这种粥的味道，还有那个拆枣椰都能拆得手忙脚乱的老爹。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/476648e8560a0a36d19f3e38ef5560f5_1622535685400843449.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "在一些人眼里，啃食残骸的赤鹫是带来死亡与灾厄的生物。但在我看来，这些翱翔在沙海之上的鹫鸟，有着最热烈的生命力。不知道当它们从天空往下俯瞰时，大赤沙海会是一个什么模样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/72f5ab621bd38b1890085a3be9321cc2_1310150018799001116.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "哈哈哈，你别说，我还真的差点和这位巡林官做成过一笔生意。之前我经人介绍，要做他进沙漠考察时的向导。不过后来不知道为什么这单生意取消了，我记得…好像是这位巡林官实在耐不住热，还是其他什么原因来着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/30aed8a67b5df29973e6a4e3ac6c5e0b_7753427827267049852.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "哼，我之前还以为，教令院里顶多是有一群自私自利的鬣狗在蝇营狗苟，结果…居然还有这么几匹喂不熟的白眼狼在作乱。依我看，那位小吉祥草王真是慈悲得有些过头了，对付这种劣兽，最好是连骨头都锤碎掉！就这么放他们去林子里歇着，真是太便宜他们了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/8cc6e8c95a93a13e0c388204d4e68406_8820349305617051359.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于坎蒂丝…",
+          "text": "你说坎蒂丝啊，她什么都好，就是性子犟得和驮兽一样。我和她说了好多次，别老是绷着弦，偶尔也要给自己放个假，比如去须弥城里逛逛，买点漂亮衣服首饰…但她总是说不放心村子，拒绝了我好多次。唉，实在不行，下次我帮她守村子，然后再拜托团里的妹子们带她进城玩玩好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/24c03b997e8e0f23a0c3863d9c4e6256_6004633128857051906.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "他曾经邀请我过去教令院任职，但我过不惯那种死水一潭般的生活，就拒绝了。不过这位书记官说话时那种七拐八绕，又夹枪带棒的腔调，倒是很符合我对教令院学者的印象…哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/b6ebfc1ffd2c9e302d711c7105b068dc_446028850826259081.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "那位「大风纪官」？是个雷厉风行的狠角色，处理某些事情的方法，也挺对我胃口的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/19a60a6f06571408dfe815bd84fe900c_4061353478969659723.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "解决了那件事之后，妮露也能更加自由地跳舞了吧。哦她上次还说，要把自己用的香粉捎一份给我，但我经常在外面奔波，就只能让她先送去坎蒂丝那里。唔…我也该找个时间过去看看了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/c30857a8664105e62e4cc496ecf9595b_3705679874393070588.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "那个商人啊。据说她那里什么都有得卖，只是价钱贵了点？哈哈，那我还挺希望和她见几面的，毕竟…有些佣兵需要的东西，在市场上真是拿钱都买不到啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/9971eb89650ffbe31b00d37722ba686d_3595316696020087725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉…",
+          "text": "那个成天迷迷糊糊的小丫头啊，我有印象。之前我在沙漠边缘的一个绿洲碰见过她，她好像是跟着教令院的什么队伍来观察星象，不过我也没有太留意。啥？坎蒂丝…星空的使者…这都什么乱七八糟的？这丫头不会还没睡醒吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/2a8cde38b49e3cb51473552d1b0a838c_5690021272269373579.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛索斯…",
+          "text": "我也是最近才知道他来自缄默之殿。哎呀，不好意思，我对缄默之殿这类神秘组织了解很少嘛。以前倒是在沙漠里见过他几回，他很好沟通，我的佣兵兄弟在沙漠遇到麻烦，他还把饮用水分给他们过。是个不错的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/82503813/8aadb40e44f30a27052f81421374c2b9_8409377869541561198.mp3",
+          "audioName": "关于赛索斯…_cn.mp3"
+        },
+        {
+          "name": "想要了解迪希雅·其一",
+          "text": "我自小就在佣兵团里生活，玩具是木刀木剑，认识的人要么是佣兵，要么准备做佣兵，就连吃饭的木碗都是团里的人拿刀削出来的木碗。在这种环境下长大，要是我不做佣兵反而有点奇怪，对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/4534aeae934d970fc62ff7043c0f14c9_5794444473393765039.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其二",
+          "text": "我是哪里人？这我可不知道，我从来都没想过这方面的问题。但硬要说的话，我一直生活在沙漠里，应该算是「沙漠这边」的人吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/3e357e71fd18d5543d36ef73700f35fa_3732774824343342125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其三",
+          "text": "佣兵的工作可不容易，先不说接受的委托难度如何，更让人头疼的是完成委托后如何让客户迅速地结清钱款。教令院结钱最爽快，冒险家协会其次，结钱最不爽快的是那些做货物贸易的商人，他们总是说自己的资金正在周转，暂时拿不出多少现钱，让我再等等。嘁，拿不出钱，那他们车上那么多货是怎么来的？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/09a6c95c74be946ed8d6dac351b11fed_8796108486080585894.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其四",
+          "text": "在之前那件事过后，教令院对于我们的态度也有了改变，据说还推出了一大堆帮助沙漠子民的条款。呃，那一大堆文件我是看不懂了，我只希望「防沙壁」从今往后只隔绝风沙，不要再阻断希望。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/e34fd6f4d3ee6a19c4f2f39778f7718c_7141209936672008734.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其五",
+          "text": "大部分佣兵的抱负就是扬名立万，他们不断地接受高难度的委托，赚取财富和名声。有的人幸运地活下来，成为了传奇，有些人就在沙漠里默默无闻的消失。但我可没有那么「远大」的抱负，我只想要保护周围的人，让他们能安心地生活，这就足够了。要是能再赚点钱，那就更好了，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/5f4e16f0c728f2172b7791abaa3a2c22_7885079964420757299.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪希雅的爱好…",
+          "text": "我有空的时候，最喜欢打理我的「妆匣」。里面的香粉和粉刷可都是我花大价钱收来的，你瞧瞧这粉质，多细腻啊！不管是流了汗，还是淋了雨，妆都不会花。哼哼，真是一分钱一分货。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/19aa16b45a375e271843b48694f0901a_8202854454362805475.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪希雅的烦恼…",
+          "text": "又有几笔委托的钱款没结清，还有几个兄弟执行委托的时候闯了祸…唉，我明明不是团里的一把手，为什么还要操心这种事？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ae67d1ab2bf226d58315dd78f40f1aae_7224482545893588451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "那当然是「枣椰蜜糖」了，既容易携带，味道又好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/5be2521bfcb19a9c757226e6c89f8fa6_4585698528505106838.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "可别让我吃那种味道很苦的东西，我可受不了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/4c14fbed0fe6d3619c766be7a5e281e5_5817068775524933503.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这道菜味道真不错！再多吃几口的话，我说不定以后就吃不下那些干粮啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/0e0824578b8711093a07bb813e39c137_4337922562793538827.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "唔，如果当做干粮来看的话，味道还是不错的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/7edc2aabe1aad5bf5dab3d6bcaa6484f_8761180527472495708.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "至少…至少能填饱肚子，能安全填饱肚子的食物就是好食物！哈哈…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/9041b98bef3e6d11761f4790dda36669_406484886161869413.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！摸摸你的兜，礼物已经放在里面了。怎么做到的？一点佣兵的小把戏而已。先别管这些了，我在兰巴德酒馆已经订了一桌上好的酒席，咱们赶紧过去吧。嗯？放心，我没有让团里的其他人过来，这帮人吵吵嚷嚷的只会起哄，好不容易过个生日，我来陪你就够了，走吧走吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/016e06255298a3efa0fe01f7fc356840_9008826275090233404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "哦？力量真的在成长。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/c8d672dfc116a520f8a8cd3a543d7ed4_2714085577898145513.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "感觉不错啊，这样挥起剑来也更有力了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/798e6dc907a3396f8318233a16143be8_3326526470986766260.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "这种力量…真想立刻去试试手，不然我们俩直接来过几招吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/bf7a00d31271106433a5f0a857a3b863_2345659042425007549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "没想到我居然还能有这样的成长，这都多亏了你。接下来有什么委托吗？无论是什么委托，只要你开口，我就会和你同行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/80e107c1d55e854f10d30851b3181e04_4005719365053615744.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "开打吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/6228667da19df81b18420ff525feb102_2334007446478206645.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "不用留情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/88f19d3255f6bb52281e137de1208c4a_6649832249686588249.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "一起上！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/3fceb9ddb971e9c7e895fb87bae5cdd3_3177463444269918571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "你撑得住吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/9cb548937f13534341e2fd0b1e3e2c2a_5010250004491029667.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "在这，打垮你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/a1e22d36ea8720312f42bc52c20b59ae_1971934299889768096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "把牙咬紧点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/1bb750d53b089b81b8cc54267de9c639_7889549395623461413.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "居然还有意外收获…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/6f39cda4436a9af109874c1b753753df_8919335705412819233.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "哈哈哈，这个不错啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/66a3388dbd009b220d6ce027e975ec95_2794806919797405698.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "也许能卖个好价钱。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ae3b7978bc023502e05a03faeb22f54e_8667455416482163451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "哼…有点本事！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/a405afe8b9e11276d326d17f0cadff03_2951384675846147897.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "该动真格的了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/f1eda45adbbee26d1a91412db22234ac_6833023817513870055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "这不是正好？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/f778921022d6c19c91852fbbf671345d_374244105044566800.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "稳住！别慌张！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/d6eec95679513e1359a40e1fa01f02eb_7962795030843910041.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "退后，让我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/357e25a24b31e6dd630a734aa0638af4_3114766528196899141.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这下…糟了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/23fa658430fd4da7d1b3a209caeb6f6c_5666470176222721516.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "真是…大意了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/c6ab0b7338cc1998082bd06b966a6f94_4090392418048001334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "佣兵的…宿命…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/2cd6c588817e977d9d3dfaeac00a6696_5598978726422689927.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "小花招！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/675bff65f3cc60e04966fd3fb4d8b3c6_4109192221813518351.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "有两下子…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/602e4fb7d4543746399581aead3364c6_8310979084414897743.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "你说了算。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ff36e3d6a107c83a6f37e83ead6e62e7_7289390353123128947.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么委托吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/a32e205df41391b8a1d3ec5540df3eb2_1856535199223379478.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "该开始干活了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/13a144161863247fbfcfd9c89ebf127a_2690707717488592904.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我叫迪希雅，就是你想要雇佣的那位佣兵。你有什么委托？打架？护送？无论是什么事，只要开口就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/b5b303c6e0c90961bf85dd3c62e6842e_5251043915841816107.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·佣兵",
+          "text": "你问佣兵的工作原则？嗯…很简单，谁出的钱多，就给谁办事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/d1083fdffd3471659aac9841079763d5_1518838634792774126.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·沙漠",
+          "text": "沙漠是个难相处的对手，但至少它足够光明磊落，把所有艰险挑战都放在台面上给你看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/00c376226cf317cfb2cabcb77a771bf0_6282995417530859275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·我们的人",
+          "text": "我们的人已经习惯了沙漠…但我还是希望他们在某天能够告别风沙，在某处绿洲更愉快地生活。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/bea72fc0ce4c5488aa3e8ad9359615fb_1380815935208109422.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "听佣兵团里的老人说，沙漠里偶尔也会下雨，而且雨势比这猛烈得多。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/616c79b5c3f7fda620ddf6fcd0b7892a_7246693448571358653.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这雷鸣声可够大的…可以掩盖住很多声音。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/597f82198956534046748b169d1148e1_8828086741972131768.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "呼…这里简直比夜晚的沙漠还冷。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/023cfd0d94e87212b6c0b4e78f619aae_8604280033940399477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气很好，要是我手里的活也能轻松点就好喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/6d71a186c1eae4aaef8b563ecdd80728_8043893218683012711.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "起风了，我们去下风口扎营比较安全。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/730f277cc9039e717608560090acfa3c_2132977513503151200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "跟紧我，不要乱走，沙漠可不会对任何人留情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/923be9d2b61d86094bdc12a47edf11b7_2091367862937837845.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "你看起来精神不错，那我们等会就拔营出发吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/60ce3eb60ce0d9fa8943e9d2fcf0856e_6747007522805399231.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "已经中午了…等我找到合适的位置，就可以搭灶做饭了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/51d57f91d654f18c1c3f95a885a8bbcf_6296522960838126617.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "这么晚了你还在工作？真是比我们佣兵都辛苦啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/89d34c5c6cf2d3bd9aad315a81e0304c_6956543251253782912.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "时间不早了，今夜的值守就交给我，你快去休息吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ab170624506bb755b67e46e1f394a037_4451010197837896381.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅自己·镀金旅团",
+          "text": "镀金旅团只是一个「头衔」，任何须弥的佣兵都可以自称为「镀金旅团」的一员。有些佣兵就用这头衔来唬骗外地人。哼，拜这帮人所赐，现在「镀金旅团」的名号已经越来越招人厌了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/c66c62a788678f2c474df84a3a74cc68_3603459016664282926.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅自己·老爹",
+          "text": "库塞拉…他是个吊儿郎当，喜欢装模作样的佣兵。是他从沙漠里救了我，又用尽全力，将他一切能够给予我的东西，都给了我。但正是因为他，我才能成长为现在的我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ef873377d4111cb3ea16136f5cc2f84d_3166557885353382364.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·伟大事迹",
+          "text": "你最近可是大显身手啊，我所在的佣兵团里都有不少人一直在讲你的事迹，甚至还有几个人来问我，能不能向你引见一下他们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/8b1089fae437efc82f1a3baa58894832_7858372289047226690.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·战友",
+          "text": "朋友？嗯…我们一起经历了那么多事，共同闯过了那么多场战斗，用「朋友」来形容我们之间的关系，总感觉有点轻飘飘的。我想想…不如，用「战友」吧，这种感情只能从并肩的战斗中锤炼而出，是最不可动摇的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/61926ecc491952bdbe9685b31bec789e_1835067970595170234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」给我带来了什么？嗯…老实说，比起战斗时的便利，这枚「神之眼」更大的作用，是让更多的佣兵慕名而来加入「炽光猎兽」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/d6b7d749a31d4a7706ffb1592b91686d_625566438520320735.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "你知道枣椰吗？我小时候最喜欢吃这种果子。但老爹完全不知道拆枣椰的方法，就拿着刀胡乱地戳来戳去，把里面的果肉都弄得乱七八糟，完全没办法下口吃。最后只能把果肉都刮下来，混在牛奶里，勉强给我当做粥来吃。我有时候也会怀念这种粥的味道，还有那个拆枣椰都能拆得手忙脚乱的老爹。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/32665d4c766565c762b3ff27830b63d5_5388950406933858320.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "在一些人眼里，啃食残骸的赤鹫是带来死亡与灾厄的生物。但在我看来，这些翱翔在沙海之上的鹫鸟，有着最热烈的生命力。不知道当它们从天空往下俯瞰时，大赤沙海会是一个什么模样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/e6079c7ed49b92900961940fd886452b_2560359754205891395.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "哈哈哈，你别说，我还真的差点和这位巡林官做成过一笔生意。之前我经人介绍，要做他进沙漠考察时的向导。不过后来不知道为什么这单生意取消了，我记得…好像是这位巡林官实在耐不住热，还是其他什么原因来着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/e3368b75219e5d26207a8a3f6e240b86_112699466524776168.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "哼，我之前还以为，教令院里顶多是有一群自私自利的鬣狗在蝇营狗苟，结果…居然还有这么几匹喂不熟的白眼狼在作乱。依我看，那位小吉祥草王真是慈悲得有些过头了，对付这种劣兽，最好是连骨头都锤碎掉！就这么放他们去林子里歇着，真是太便宜他们了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/457ca6838f5a87d6cdb7c54fa2814297_5171133873531914862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于坎蒂丝…",
+          "text": "你说坎蒂丝啊，她什么都好，就是性子犟得和驮兽一样。我和她说了好多次，别老是绷着弦，偶尔也要给自己放个假，比如去须弥城里逛逛，买点漂亮衣服首饰…但她总是说不放心村子，拒绝了我好多次。唉，实在不行，下次我帮她守村子，然后再拜托团里的妹子们带她进城玩玩好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/9edf6f1fe19b8a0018875c9e482841c2_6968298026085096465.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "他曾经邀请我过去教令院任职，但我过不惯那种死水一潭般的生活，就拒绝了。不过这位书记官说话时那种七拐八绕，又夹枪带棒的腔调，倒是很符合我对教令院学者的印象…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/548f3dcce1fdeccc45ddaa00597e4c4a_5472921031227333766.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "那位「大风纪官」？是个雷厉风行的狠角色，处理某些事情的方法，也挺对我胃口的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/14df4a05cb6d1561bb656dcaeab7a2ae_7755861546009298666.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "解决了那件事之后，妮露也能更加自由地跳舞了吧。哦她上次还说，要把自己用的香粉捎一份给我，但我经常在外面奔波，就只能让她先送去坎蒂丝那里。唔…我也该找个时间过去看看了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/f25979f465d3907a389a964519e4e2f4_4060017745364035534.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "那个商人啊。据说她那里什么都有得卖，只是价钱贵了点？哈哈，那我还挺希望和她见几面的，毕竟…有些佣兵需要的东西，在市场上真是拿钱都买不到啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/1e5d087c445e7fc4ff2891d5bd8e24ce_593216522519468334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉…",
+          "text": "那个成天迷迷糊糊的小丫头啊，我有印象。之前我在沙漠边缘的一个绿洲碰见过她，她好像是跟着教令院的什么队伍来观察星象，不过我也没有太留意。啥？坎蒂丝…星空的使者…这都什么乱七八糟的？这丫头不会还没睡醒吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/e0f8c808dc97696a1e752154819a45fb_6924050381073262729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛索斯…",
+          "text": "我也是最近才知道他来自缄默之殿。哎呀，不好意思，我对缄默之殿这类神秘组织了解很少嘛。以前倒是在沙漠里见过他几回，他很好沟通，我的佣兵兄弟在沙漠遇到麻烦，他还把饮用水分给他们过。是个不错的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/82503813/87dcced8abf5e8ba2f833fbfdc32e641_4560352063281126474.mp3",
+          "audioName": "关于赛索斯…_en.mp3"
+        },
+        {
+          "name": "想要了解迪希雅·其一",
+          "text": "我自小就在佣兵团里生活，玩具是木刀木剑，认识的人要么是佣兵，要么准备做佣兵，就连吃饭的木碗都是团里的人拿刀削出来的木碗。在这种环境下长大，要是我不做佣兵反而有点奇怪，对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/05d5aa949770420100556d7c87525c6c_4592110025129102631.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其二",
+          "text": "我是哪里人？这我可不知道，我从来都没想过这方面的问题。但硬要说的话，我一直生活在沙漠里，应该算是「沙漠这边」的人吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/d80932850e3a234078b29cb96bb0d3e2_2633165638222489926.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其三",
+          "text": "佣兵的工作可不容易，先不说接受的委托难度如何，更让人头疼的是完成委托后如何让客户迅速地结清钱款。教令院结钱最爽快，冒险家协会其次，结钱最不爽快的是那些做货物贸易的商人，他们总是说自己的资金正在周转，暂时拿不出多少现钱，让我再等等。嘁，拿不出钱，那他们车上那么多货是怎么来的？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/0bc38673d351fc13acaa72c80ec89d6e_73318130411557350.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其四",
+          "text": "在之前那件事过后，教令院对于我们的态度也有了改变，据说还推出了一大堆帮助沙漠子民的条款。呃，那一大堆文件我是看不懂了，我只希望「防沙壁」从今往后只隔绝风沙，不要再阻断希望。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/5fd85ff38dc521b8288efed27131adfe_2647409309475939582.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其五",
+          "text": "大部分佣兵的抱负就是扬名立万，他们不断地接受高难度的委托，赚取财富和名声。有的人幸运地活下来，成为了传奇，有些人就在沙漠里默默无闻的消失。但我可没有那么「远大」的抱负，我只想要保护周围的人，让他们能安心地生活，这就足够了。要是能再赚点钱，那就更好了，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/4fe542adf85b2c35aab250b2674bfe06_4769344929684808580.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪希雅的爱好…",
+          "text": "我有空的时候，最喜欢打理我的「妆匣」。里面的香粉和粉刷可都是我花大价钱收来的，你瞧瞧这粉质，多细腻啊！不管是流了汗，还是淋了雨，妆都不会花。哼哼，真是一分钱一分货。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/2dca302fce9a075b558af3f5acec0c23_4730802605822010491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪希雅的烦恼…",
+          "text": "又有几笔委托的钱款没结清，还有几个兄弟执行委托的时候闯了祸…唉，我明明不是团里的一把手，为什么还要操心这种事？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/35459b8ce5a975815361c7b9c8736f56_6900781763524489250.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "那当然是「枣椰蜜糖」了，既容易携带，味道又好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/058da778a7353bd1d61e6e00d3b039cc_2357292663844113146.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "可别让我吃那种味道很苦的东西，我可受不了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/dbc3ad93bb169f0aea9d53f942aa5cb5_6523076462932102869.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这道菜味道真不错！再多吃几口的话，我说不定以后就吃不下那些干粮啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/bde6b39e723ee1cf6861f89189611156_5369797978232520790.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "唔，如果当做干粮来看的话，味道还是不错的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/971c85663d1e519f4f26a5cea48c88a3_8497900255110167123.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "至少…至少能填饱肚子，能安全填饱肚子的食物就是好食物！哈哈…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/a53e20f154a3d1103c30e533d6e8f69b_7985213754245949469.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！摸摸你的兜，礼物已经放在里面了。怎么做到的？一点佣兵的小把戏而已。先别管这些了，我在兰巴德酒馆已经订了一桌上好的酒席，咱们赶紧过去吧。嗯？放心，我没有让团里的其他人过来，这帮人吵吵嚷嚷的只会起哄，好不容易过个生日，我来陪你就够了，走吧走吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/50b3bcec0f11a43e8bc5abe3bfab2624_2688736689263059962.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "哦？力量真的在成长。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/2c664e0f9b0cafcb3df10841dea1fb52_3502455241164670664.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "感觉不错啊，这样挥起剑也来更有力了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/5b64c339cdb2cc85dcf7fb9a924ea748_2442025743230000857.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "这种力量…真想立刻去试试手，不然我们俩直接来过几招吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/a7c6aa44576be6f03bf13e1a3b20e19b_1464407854939885148.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "没想到我居然还能有这样的成长，这都多亏了你。接下来有什么委托吗？无论是什么委托，只要你开口，我就会和你同行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ca3201d63b8b840258cff3d0ef8de5dd_2197394570586342046.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "开打吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/4f72a4fa2753fd86fd2c1b8df600f157_9037619767409077496.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "不用留情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/65dc2823328930fcfa2713280e712557_8678975247874919102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "一起上！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/3701b75290cc4fc0c5257cf5be518bfa_2699966905639692104.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "你撑得住吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/36a0ee87a3c38dba971a9645247a4261_3669762600083339672.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "在这，打垮你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/68bf0d224f2da59f1c6916b9d68f31a2_3918472299261736582.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "把牙咬紧点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/67232e5e763069b2b10cd47829e81ec2_3792965665813129332.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "居然还有意外收获…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ae5af5dd201fd5ed26466ec382d83011_4190547936371315296.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "哈哈哈，这个不错啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/7991b1ed56784679075298b4eb54db12_3819199842324869735.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "也许能卖个好价钱。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/400641073c34a82a218cd8c4509e2911_3678692079242861914.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "哼…有点本事！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/07226e47be3c1b36b43a69901d3fa862_1467583715521303827.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "该动真格的了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/9999bb94f944404964b2089da59dd5b0_6561218713470707832.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "这不是正好？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/fd6abbb1f1a608e1fa23f600ea9ffe0a_551511479689178242.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "稳住！别慌张！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/466722833657f216bb3c32e0d4b912d7_6008099524673898466.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "退后，让我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ff6754b0370cb46b626011daddce1bbe_7878529843874388238.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这下…糟了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/c237fb447252843bfd6122ccab29e2e9_1446744551740624690.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "真是…大意了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/39dcdc41fedd733c0ed0c2d00d020205_191829464478029508.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "佣兵的…宿命…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/0e18c13b057f141a70d2374ce4b5963b_919781513158801591.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "小花招！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/605aa3a36e44343484758f01f9879d06_4452220665920112444.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "有两下子…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/079b5e794090f22e21372ec77e90d745_4613275206515470215.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "你说了算。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/b8a3517685fdd2ae49280765972b2c70_1445272253595524990.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么委托吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/86864aca05944715417144e3fcb4e81f_7293133123778759397.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "该开始干活了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/647ab64fe8d129592dcbc6540ea6fa3a_1523385220217624355.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我叫迪希雅，就是你想要雇佣的那位佣兵。你有什么委托？打架？护送？无论是什么事，只要开口就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/6ce77e44fcb932b3275805aca84e947f_3622851324417662314.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·佣兵",
+          "text": "你问佣兵的工作原则？嗯…很简单，谁出的钱多，就给谁办事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/44509fd0127ddccb75cd89c598d88c5d_3211929446518893024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·沙漠",
+          "text": "沙漠是个难相处的对手，但至少它足够光明磊落，把所有艰险挑战都放在台面上给你看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/fa9b98051d02444874cd13bf3a988279_1318000779399678924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·我们的人",
+          "text": "我们的人已经习惯了沙漠…但我还是希望他们在某天能够告别风沙，在某处绿洲更愉快地生活。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/3f4890641f4eceb30e1974f0eb8cc1ed_5304274286094437612.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "听佣兵团里的老人说，沙漠里偶尔也会下雨，而且雨势比这猛烈得多。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ff872a7f90d3228b23927c1ac29c0f54_246468738134185706.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这雷鸣声可够大的…可以掩盖住很多声音。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/be71948fab0741829e04852386d7ec51_7654439475805853348.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "呼…这里简直比夜晚的沙漠还冷。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/969b89f607247b87737a65f146ead935_842991819157927303.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气很好，要是我手里的活也能轻松点就好喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/713f92a3f486d8a611d66865162148a7_2666937752834878440.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "起风了，我们去下风口扎营比较安全。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/58ccb78b4b22c6e4aa5cc0453b7da5a2_2471904907309432493.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "跟紧我，不要乱走，沙漠可不会对任何人留情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/de4382385b2d3319dfe389e657a968a7_6999860839782200950.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "你看起来精神不错，那我们等会就拔营出发吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/434e9c449e91acba75ed0fb2fd24d929_9037881717541823588.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "已经中午了…等我找到合适的位置，就可以搭灶做饭了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/bc1fd7461d6841303a2a9f56bb0beeed_3844599430638880219.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "这么晚了你还在工作？真是比我们佣兵都辛苦啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/4ae4227d5e2a307e70b248ac057a15cf_3122954526007042445.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "时间不早了，今夜的值守就交给我，你快去休息吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/73e201f8e11181e97c7b1e1e38aab719_5394057728928845096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅自己·镀金旅团",
+          "text": "镀金旅团只是一个「头衔」，任何须弥的佣兵都可以自称为「镀金旅团」的一员。有些佣兵就用这头衔来唬骗外地人。哼，拜这帮人所赐，现在「镀金旅团」的名号已经越来越招人厌了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/f0bb187d27fb605c37d2f337e985c53a_640174581855073501.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅自己·老爹",
+          "text": "库塞拉…他是个吊儿郎当，喜欢装模作样的佣兵。是他从沙漠里救了我，又用尽全力，将他一切能够给予我的东西，都给了我。但正是因为他，我才能成长为现在的我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/4f686a4d6b6a3f2cc2db69d3fe2ebe3a_2761466010633332169.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·伟大事迹",
+          "text": "你最近可是大显身手啊，我所在的佣兵团里都有不少人一直在讲你的事迹，甚至还有几个人来问我，能不能向你引见一下他们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/620f4cc877c43561b5f390301ecfd230_5478600155487247336.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·战友",
+          "text": "朋友？嗯…我们一起经历了那么多事，共同闯过了那么多场战斗，用「朋友」来形容我们之间的关系，总感觉有点轻飘飘的。我想想…不如，用「战友」吧，这种感情只能从并肩的战斗中锤炼而出，是最不可动摇的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/3efb2b40e7e23be3fa7490b026448d64_7774204342664215605.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」给我带来了什么？嗯…老实说，比起战斗时的便利，这枚「神之眼」更大的作用，是让更多的佣兵慕名而来加入「炽光猎兽」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/89b2f4d1a246f022bb9846ecd61ae476_5936330841718485835.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "你知道枣椰吗？我小时候最喜欢吃这种果子。但老爹完全不知道拆枣椰的方法，就拿着刀胡乱地戳来戳去，把里面的果肉都弄得乱七八糟，完全没办法下口吃。最后只能把果肉都刮下来，混在牛奶里，勉强给我当做粥来吃。我有时候也会怀念这种粥的味道，还有那个拆枣椰都能拆得手忙脚乱的老爹。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/81b3740dde0a00b86581fc4b3134e9a1_9038408341763055292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "在一些人眼里，啃食残骸的赤鹫是带来死亡与灾厄的生物。但在我看来，这些翱翔在沙海之上的鹫鸟，有着最热烈的生命力。不知道当它们从天空往下俯瞰时，大赤沙海会是一个什么模样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/04f4e7d97a60d453584260910cc386fe_1908119991333248659.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "哈哈哈，你别说，我还真的差点和这位巡林官做成过一笔生意。之前我经人介绍，要做他进沙漠考察时的向导。不过后来不知道为什么这单生意取消了，我记得…好像是这位巡林官实在耐不住热，还是其他什么原因来着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/2b980649ca1cba6c8ec293d39b114bdd_1588535043116770883.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "哼，我之前还以为，教令院里顶多是有一群自私自利的鬣狗在蝇营狗苟，结果…居然还有这么几匹喂不熟的白眼狼在作乱。依我看，那位小吉祥草王真是慈悲得有些过头了，对付这种劣兽，最好是连骨头都锤碎掉！就这么放他们去林子里歇着，真是太便宜他们了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/2a52578e2433caba038e118306120275_542025536466496906.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于坎蒂丝…",
+          "text": "你说坎蒂丝啊，她什么都好，就是性子犟得和驮兽一样。我和她说了好多次，别老是绷着弦，偶尔也要给自己放个假，比如去须弥城里逛逛，买点漂亮衣服首饰…但她总是说不放心村子，拒绝了我好多次。唉，实在不行，下次我帮她守村子，然后再拜托团里的妹子们带她进城玩玩好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/a76283592d1aaebb5b3f3b9465b149ae_5436802628956507618.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "他曾经邀请我过去教令院任职，但我过不惯那种死水一潭般的生活，就拒绝了。不过这位书记官说话时那种七拐八绕，又夹枪带棒的腔调，倒是很符合我对教令院学者的印象…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/6116da046c7f63a423127be76a55917b_6381195318017760408.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "那位「大风纪官」？是个雷厉风行的狠角色，处理某些事情的方法，也挺对我胃口的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/5334aee63696c24277d76fa60d6c20b6_6289461027499480650.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "解决了那件事之后，妮露也能更加自由地跳舞了吧。哦她上次还说，要把自己用的香粉捎一份给我，但我经常在外面奔波，就只能让她先送去坎蒂丝那里。唔…我也该找个时间过去看看了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/4f84f5eb6b83efcb45f95dd74c4fcadc_1499593713466097347.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "那个商人啊。据说她那里什么都有得卖，只是价钱贵了点？哈哈，那我还挺希望和她见几面的，毕竟…有些佣兵需要的东西，在市场上真是拿钱都买不到啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/876e9a8d0838d9f3da0d09eacff9d0db_7505773524468200199.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉…",
+          "text": "那个成天迷迷糊糊的小丫头啊，我有印象。之前我在沙漠边缘的一个绿洲碰见过她，她好像是跟着教令院的什么队伍来观察星象，不过我也没有太留意。啥？坎蒂丝…星空的使者…这都什么乱七八糟的？这丫头不会还没睡醒吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/e36c96936d7689fd52a48fb7b6973f9f_5149042152898302604.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛索斯…",
+          "text": "我也是最近才知道他来自缄默之殿。哎呀，不好意思，我对缄默之殿这类神秘组织了解很少嘛。以前倒是在沙漠里见过他几回，他很好沟通，我的佣兵兄弟在沙漠遇到麻烦，他还把饮用水分给他们过。是个不错的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/82503813/5ad0484699e2a262eb5cd9788a2c45fc_2424278819011378382.mp3",
+          "audioName": "关于赛索斯…_jp.mp3"
+        },
+        {
+          "name": "想要了解迪希雅·其一",
+          "text": "我自小就在佣兵团里生活，玩具是木刀木剑，认识的人要么是佣兵，要么准备做佣兵，就连吃饭的木碗都是团里的人拿刀削出来的木碗。在这种环境下长大，要是我不做佣兵反而有点奇怪，对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/f135eb0c3297f339d7a9280776ecb4a6_4036188820946219997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其二",
+          "text": "我是哪里人？这我可不知道，我从来都没想过这方面的问题。但硬要说的话，我一直生活在沙漠里，应该算是「沙漠这边」的人吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/2aa61557e8c4884cf381d62e8bb1b75e_3355447924410275553.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其三",
+          "text": "佣兵的工作可不容易，先不说接受的委托难度如何，更让人头疼的是完成委托后如何让客户迅速地结清钱款。教令院结钱最爽快，冒险家协会其次，结钱最不爽快的是那些做货物贸易的商人，他们总是说自己的资金正在周转，暂时拿不出多少现钱，让我再等等。嘁，拿不出钱，那他们车上那么多货是怎么来的？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/b16f9c8dd0760df01d8719ec5127a561_2562405064576795037.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其四",
+          "text": "在之前那件事过后，教令院对于我们的态度也有了改变，据说还推出了一大堆帮助沙漠子民的条款。呃，那一大堆文件我是看不懂了，我只希望「防沙壁」从今往后只隔绝风沙，不要再阻断希望。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/6984ff3ce2d0e72f50c8f49229e87f78_893398746756780616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其五",
+          "text": "大部分佣兵的抱负就是扬名立万，他们不断地接受高难度的委托，赚取财富和名声。有的人幸运地活下来，成为了传奇，有些人就在沙漠里默默无闻的消失。但我可没有那么「远大」的抱负，我只想要保护周围的人，让他们能安心地生活，这就足够了。要是能再赚点钱，那就更好了，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/a4d4eb263bfa63736d9313530ef2c41b_8803029453170889785.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪希雅的爱好…",
+          "text": "我有空的时候，最喜欢打理我的「妆匣」。里面的香粉和粉刷可都是我花大价钱收来的，你瞧瞧这粉质，多细腻啊！不管是流了汗，还是淋了雨，妆都不会花。哼哼，真是一分钱一分货。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/69b7f82825e487c398d60c2d22ba2d69_5497975169739776024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪希雅的烦恼…",
+          "text": "又有几笔委托的钱款没结清，还有几个兄弟执行委托的时候闯了祸…唉，我明明不是团里的一把手，为什么还要操心这种事？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/09505647f25d32c6b64d461fa6ae3cb5_5213776334802701070.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "那当然是「枣椰蜜糖」了，既容易携带，味道又好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/3ccf7ef90ed84bb4e98e921b1baac95f_698607206813851366.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "可别让我吃那种味道很苦的东西，我可受不了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/f7ff1e53a6aa6deaea120c9b39158357_3233892528052373744.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这道菜味道真不错！再多吃几口的话，我说不定以后就吃不下那些干粮啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/9b637412cbb3d91fbf0cace2366c3c23_2719842295337139290.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "唔，如果当做干粮来看的话，味道还是不错的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/a07602144cb840d381226c742fd74f1e_6875008378611617006.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "至少…至少能填饱肚子，能安全填饱肚子的食物就是好食物！哈哈…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/c7a1bfa272ccce998fec423b1287218e_8511481582042014109.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！摸摸你的兜，礼物已经放在里面了。怎么做到的？一点佣兵的小把戏而已。先别管这些了，我在兰巴德酒馆已经订了一桌上好的酒席，咱们赶紧过去吧。嗯？放心，我没有让团里的其他人过来，这帮人吵吵嚷嚷的只会起哄，好不容易过个生日，我来陪你就够了，走吧走吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/cd04c2f8daa7f3402352aab7163e84b7_2620444990327613787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "哦？力量真的在成长。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/53e3892a84f8c38fac2f1804bc27f507_344613799172534579.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "感觉不错啊，这样挥起剑也来更有力了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/db1ba542615521cf06ad90e928e99528_8996427496356265390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "这种力量…真想立刻去试试手，不然我们俩直接来过几招吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/a4271aa9a5e5423cd073c84546086aef_1825911049200452295.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "没想到我居然还能有这样的成长，这都多亏了你。接下来有什么委托吗？无论是什么委托，只要你开口，我就会和你同行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/161964e1aac97175580442fb7b15415a_2497412915400961747.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "开打吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/69e50b4e343cd95ceb799249eaceb53d_8533006736659212027.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "不用留情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/eccfa429c2b11505992aedf62e067fb8_5797373646427579472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "一起上！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/df98d71843ae0b36f1861529ef527bc3_2161974159729268681.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "你撑得住吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/94afcf5a171dd99d3e5357907156f145_1382155824941667826.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "在这，打垮你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ec30e11e8426ed830d98d9520e60f25f_1441523117137370418.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "把牙咬紧点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/b9377f346980012aadfa9d2353b6bb7d_8518838094324353024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "居然还有意外收获…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ee946aef57396faa192503f28dbc21e6_7662005498120821550.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "哈哈哈，这个不错啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/26617eb142081ed094527753d54e1c7a_6007102908505631968.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "也许能卖个好价钱。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/4569174c47e41a2af4631cb202dedad9_209401855684783118.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "哼…有点本事！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/075aceccbfd2ff00d32bacad55aed0ce_6420049547252487157.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "该动真格的了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/b45826fad24ae37a2bd02f31131ccb1f_2036792197226156521.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "这不是正好？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ecf9a2c87342a5249ee37334b0ee7538_4258037716885397483.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "稳住！别慌张！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/d2610dcf3c55ff4817ded76336d709cb_9012900788805198064.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "退后，让我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/23108a1165c55b6300c4bce36db4064a_5636062542253343511.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这下…糟了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/77a9afbecfea31bf3d9c86a37b5b4e6a_754371176681882104.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "真是…大意了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/88c39296fd2c9d3b48ca99947095f949_3696508512080823404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "佣兵的…宿命…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/09e5a05e2a3b1a17dde4e4eab3e4fb54_8267302673971588804.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "小花招！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/9d931066fc3a0280a5a0b3a4e429cc45_8753131191005898842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "有两下子…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/04ae9cdd93ab5ef5c51f89410e11c1da_4262826942250834489.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "你说了算。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/391a904bc7ac4fc5a6ed280290f1cf31_9061890402137504730.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么委托吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/9b5f284a0091c035ca0c18474685ec9b_4724431108385826209.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "该开始干活了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/7e73a511015e62f711af321a5ef002e6_939235298279955248.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我叫迪希雅，就是你想要雇佣的那位佣兵。你有什么委托？打架？护送？无论是什么事，只要开口就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/26f5a07b634615fd32522c8a92b75066_4927020142300100238.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·佣兵",
+          "text": "你问佣兵的工作原则？嗯…很简单，谁出的钱多，就给谁办事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/fa09c422b96df7af4a410354498dd5ae_2707815075609351409.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·沙漠",
+          "text": "沙漠是个难相处的对手，但至少它足够光明磊落，把所有艰险挑战都放在台面上给你看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/f297de8fe71eb765a16a9483879f0496_2726205850672657756.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·我们的人",
+          "text": "我们的人已经习惯了沙漠…但我还是希望他们在某天能够告别风沙，在某处绿洲更愉快地生活。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/208c2ee98027ba6e4b98b36dfbfaf4b4_6617502696515674927.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "听佣兵团里的老人说，沙漠里偶尔也会下雨，而且雨势比这猛烈得多。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/cd141b8afb831c7c021f3d86f337ba12_2644917532393361221.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这雷鸣声可够大的…可以掩盖住很多声音。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/04b229fc223be0153e46632e558fa716_8580115391015108827.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "呼…这里简直比夜晚的沙漠还冷。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/dca31880f138f28e44be0d642d0f04e4_8552780482011150045.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气很好，要是我手里的活也能轻松点就好喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/7835b49dde7c0475a757663ddd56fb17_6645123984732862527.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "起风了，我们去下风口扎营比较安全。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/27fe99200e5f645f378729a18a21ae63_8431747997003674221.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "跟紧我，不要乱走，沙漠可不会对任何人留情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/0809dbde5ed635f8d069b58588d80b16_1204665798968468023.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "你看起来精神不错，那我们等会就拔营出发吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ee7f9f97f73660844796051b33835923_1614422261278601712.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "已经中午了…等我找到合适的位置，就可以搭灶做饭了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/e9211be362d460eebd6bb4c7f2e345e8_958441109876558711.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "这么晚了你还在工作？真是比我们佣兵都辛苦啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/8104479eaa6c06f211d6951f462c1aca_1877779821163044811.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "时间不早了，今夜的值守就交给我，你快去休息吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/f1f08d08f366c837188132c332fa92c8_6353110940026377998.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅自己·镀金旅团",
+          "text": "镀金旅团只是一个「头衔」，任何须弥的佣兵都可以自称为「镀金旅团」的一员。有些佣兵就用这头衔来唬骗外地人。哼，拜这帮人所赐，现在「镀金旅团」的名号已经越来越招人厌了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/455a75baa9a0e954a6f0d0ffff68e6e5_984065963793733785.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅自己·老爹",
+          "text": "库塞拉…他是个吊儿郎当，喜欢装模作样的佣兵。是他从沙漠里救了我，又用尽全力，将他一切能够给予我的东西，都给了我。但正是因为他，我才能成长为现在的我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/1270d2d9077d9168774ff93690150195_5164395296619852287.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·伟大事迹",
+          "text": "你最近可是大显身手啊，我所在的佣兵团里都有不少人一直在讲你的事迹，甚至还有几个人来问我，能不能向你引见一下他们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/411864637f632c3db69cf013701020a2_7845105167838030779.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·战友",
+          "text": "朋友？嗯…我们一起经历了那么多事，共同闯过了那么多场战斗，用「朋友」来形容我们之间的关系，总感觉有点轻飘飘的。我想想…不如，用「战友」吧，这种感情只能从并肩的战斗中锤炼而出，是最不可动摇的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/52f5a93076d10f405822fe471acd36f1_2872196859098457254.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」给我带来了什么？嗯…老实说，比起战斗时的便利，这枚「神之眼」更大的作用，是让更多的佣兵慕名而来加入「炽光猎兽」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/1cedaeced0da9982a04affa17b6e9fa2_6777186520646035592.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "你知道枣椰吗？我小时候最喜欢吃这种果子。但老爹完全不知道拆枣椰的方法，就拿着刀胡乱地戳来戳去，把里面的果肉都弄得乱七八糟，完全没办法下口吃。最后只能把果肉都刮下来，混在牛奶里，勉强给我当做粥来吃。我有时候也会怀念这种粥的味道，还有那个拆枣椰都能拆得手忙脚乱的老爹。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/7109ae791d3b8c41261aa0ea26d1f0f4_1939583171380488229.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "在一些人眼里，啃食残骸的赤鹫是带来死亡与灾厄的生物。但在我看来，这些翱翔在沙海之上的鹫鸟，有着最热烈的生命力。不知道当它们从天空往下俯瞰时，大赤沙海会是一个什么模样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/d8de1333082458c3bfd2cdc1511575e9_9197991018194266306.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "哈哈哈，你别说，我还真的差点和这位巡林官做成过一笔生意。之前我经人介绍，要做他进沙漠考察时的向导。不过后来不知道为什么这单生意取消了，我记得…好像是这位巡林官实在耐不住热，还是其他什么原因来着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/bf1d0a541f2071cd0bd3783dc2e0b62c_7040543064907511452.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "哼，我之前还以为，教令院里顶多是有一群自私自利的鬣狗在蝇营狗苟，结果…居然还有这么几匹喂不熟的白眼狼在作乱。依我看，那位小吉祥草王真是慈悲得有些过头了，对付这种劣兽，最好是连骨头都锤碎掉！就这么放他们去林子里歇着，真是太便宜他们了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/35d86111ae098b37625bff48cef419a2_5340672237699487406.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于坎蒂丝…",
+          "text": "你说坎蒂丝啊，她什么都好，就是性子犟得和驮兽一样。我和她说了好多次，别老是绷着弦，偶尔也要给自己放个假，比如去须弥城里逛逛，买点漂亮衣服首饰…但她总是说不放心村子，拒绝了我好多次。唉，实在不行，下次我帮她守村子，然后再拜托团里的妹子们带她进城玩玩好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/f4bd97cd5e520f8957b043b36156d906_7780743898687895123.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "他曾经邀请我过去教令院任职，但我过不惯那种死水一潭般的生活，就拒绝了。不过这位书记官说话时那种七拐八绕，又夹枪带棒的腔调，倒是很符合我对教令院学者的印象…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/6d7388b62c672b60b31826b39769d7cd_2305230714118360578.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "那位「大风纪官」？是个雷厉风行的狠角色，处理某些事情的方法，也挺对我胃口的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/78b7ae51b0943da7add65ccee0735b1e_4811358210202059703.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "解决了那件事之后，妮露也能更加自由地跳舞了吧。哦她上次还说，要把自己用的香粉捎一份给我，但我经常在外面奔波，就只能让她先送去坎蒂丝那里。唔…我也该找个时间过去看看了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/aec42e7042f017ae6f3ed3a2eaa8f418_4107676131865403071.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "那个商人啊。据说她那里什么都有得卖，只是价钱贵了点？哈哈，那我还挺希望和她见几面的，毕竟…有些佣兵需要的东西，在市场上真是拿钱都买不到啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ce3c532b2bd558585201cbbb7e5a80f5_8439028858400896967.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉…",
+          "text": "那个成天迷迷糊糊的小丫头啊，我有印象。之前我在沙漠边缘的一个绿洲碰见过她，她好像是跟着教令院的什么队伍来观察星象，不过我也没有太留意。啥？坎蒂丝…星空的使者…这都什么乱七八糟的？这丫头不会还没睡醒吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/f11a9bece9d787d117c2696013451b27_2167675329210184606.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛索斯…",
+          "text": "我也是最近才知道他来自缄默之殿。哎呀，不好意思，我对缄默之殿这类神秘组织了解很少嘛。以前倒是在沙漠里见过他几回，他很好沟通，我的佣兵兄弟在沙漠遇到麻烦，他还把饮用水分给他们过。是个不错的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/82503813/223fafccbe5dfe5f6fa40903574afbbd_2365324415091490622.mp3",
+          "audioName": "关于赛索斯…_kr.mp3"
+        },
+        {
+          "name": "想要了解迪希雅·其一",
+          "text": "我自小就在佣兵团里生活，玩具是木刀木剑，认识的人要么是佣兵，要么准备做佣兵，就连吃饭的木碗都是团里的人拿刀削出来的木碗。在这种环境下长大，要是我不做佣兵反而有点奇怪，对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/935945accfd62220513ee156aae88209_6922858588430898865.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其二",
+          "text": "我是哪里人？这我可不知道，我从来都没想过这方面的问题。但硬要说的话，我一直生活在沙漠里，应该算是「沙漠这边」的人吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/9015eef6e8fb82875e5a8d42f18c8140_6552910772844376580.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其三",
+          "text": "佣兵的工作可不容易，先不说接受的委托难度如何，更让人头疼的是完成委托后如何让客户迅速地结清钱款。教令院结钱最爽快，冒险家协会其次，结钱最不爽快的是那些做货物贸易的商人，他们总是说自己的资金正在周转，暂时拿不出多少现钱，让我再等等。嘁，拿不出钱，那他们车上那么多货是怎么来的？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/1a9b05e9457c157f35d0bd39cb32dc84_5464996764645895060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其四",
+          "text": "在之前那件事过后，教令院对于我们的态度也有了改变，据说还推出了一大堆帮助沙漠子民的条款。呃，那一大堆文件我是看不懂了，我只希望「防沙壁」从今往后只隔绝风沙，不要再阻断希望。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/242a8a01d411108a310565738f95e3ff_4328630158948359967.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪希雅·其五",
+          "text": "大部分佣兵的抱负就是扬名立万，他们不断地接受高难度的委托，赚取财富和名声。有的人幸运地活下来，成为了传奇，有些人就在沙漠里默默无闻的消失。但我可没有那么「远大」的抱负，我只想要保护周围的人，让他们能安心地生活，这就足够了。要是能再赚点钱，那就更好了，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/4292a6a9694246f0942f3a72da5204c0_6437814253326601930.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪希雅的爱好…",
+          "text": "我有空的时候，最喜欢打理我的「妆匣」。里面的香粉和粉刷可都是我花大价钱收来的，你瞧瞧这粉质，多细腻啊！不管是流了汗，还是淋了雨，妆都不会花。哼哼，真是一分钱一分货。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/df95ca364aa1b036ee8345729e622121_3723114165669657426.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪希雅的烦恼…",
+          "text": "又有几笔委托的钱款没结清，还有几个兄弟执行委托的时候闯了祸…唉，我明明不是团里的一把手，为什么还要操心这种事？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/01cb5183ff1448cb3d3af06c5fe4168f_4606008244618047879.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "那当然是「枣椰蜜糖」了，既容易携带，味道又好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/809b0357df2465a036ba744dd1ba2d81_1804938483053149628.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "可别让我吃那种味道很苦的东西，我可受不了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/732977f6b7f452a8e704b684c0214088_8992027553240628836.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这道菜味道真不错！再多吃几口的话，我说不定以后就吃不下那些干粮啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/a24084160ca05c55a7a236b86145cb8b_8849090687250283889.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "唔，如果当做干粮来看的话，味道还是不错的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/3f2c890b31be62e3d088ae880b20c349_2742221941286073149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "至少…至少能填饱肚子，能安全填饱肚子的食物就是好食物！哈哈…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/4070288d661613fa49052bf3c89ebfee_2873628072488280759.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！摸摸你的兜，礼物已经放在里面了。怎么做到的？一点佣兵的小把戏而已。先别管这些了，我在兰巴德酒馆已经订了一桌上好的酒席，咱们赶紧过去吧。嗯？放心，我没有让团里的其他人过来，这帮人吵吵嚷嚷的只会起哄，好不容易过个生日，我来陪你就够了，走吧走吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/d39e226302b8a2f41e9fa17be603ace5_6826609688327007156.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "哦？力量真的在成长。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/4a49d9cef31ca18bb76c4e555a58a12b_2562263873212861903.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "感觉不错啊，这样挥起剑也来更有力了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/0a0561be25a5140bfd985e56586aff8d_7393289375099695332.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "这种力量…真想立刻去试试手，不然我们俩直接来过几招吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/af1cb37a734e1c955324ce3abf33e8f2_2373879732406334966.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "没想到我居然还能有这样的成长，这都多亏了你。接下来有什么委托吗？无论是什么委托，只要你开口，我就会和你同行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/86eeb321821cee789b64797fe5af2b05_2940500030040243143.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "开打吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/64a0fddc0a138a5174add578adede245_384181781422577549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "不用留情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/c1d3acb010e377a432e80820b4d63296_7638539253392271828.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "一起上！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/57fa51a22da29ec0495ef6bc092d677f_5961029274818698144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "你撑得住吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/96db649881480ff4a6fb05beefb43e5e_853029850023834878.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "在这，打垮你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/c2285554e8b1d35fd0c68471e6fe5d28_1198231419713225242.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "把牙咬紧点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/5c3dbc49e69efb1a3ef8065f544e5b29_6312017850405687680.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "居然还有意外收获…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/38e3543e855e723f54a71ed745e9a7e9_8659663284142014852.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "哈哈哈，这个不错啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/c95b1b413b96497d4018a4dbca9b33b7_4385471933771234843.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "也许能卖个好价钱。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/5731805bd1561fc8911424d4ef7e9df0_8945705305707062265.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "哼…有点本事！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/2b3c710241cc951209b4ef79c9def520_2568284731052592498.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "该动真格的了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/a3b3278e463620adeca5dc75f069726e_1426860834035782398.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "这不是正好？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/ddf421f6f90b95ae58e670fe427ad640_6858932698153032384.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "稳住！别慌张！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/818bd0faed2daff7ecb00cc6181192fb_7455861086416071994.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "退后，让我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/97e4bdc56ac60d77aa1873c5fd4ff701_8571841561728939557.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这下…糟了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/602f3f9ca647dd61c08453252f5deb20_8386125182640959431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "真是…大意了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/2d453d23ae0765e5fc49bb8c9cb1b24f_4862963815671900658.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "佣兵的…宿命…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/e8096f1a6f79df99830925ae409f94cb_8216926484038113501.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "小花招！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/7fa77ca6c5c889415381d5525d00f2cd_177065791626989327.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "有两下子…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/6478940631ae846019c42cc7527bbd42_7542115307536386728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "你说了算。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/67741b59a2b94522d99836c070bed159_6433841047360888387.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么委托吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/85445b0573f2b82f830b7d71aa869734_1347366405486482017.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "该开始干活了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/07/16576950/bbf895b87f89fb5a1d246fc51492f41f_2708270628077902199.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

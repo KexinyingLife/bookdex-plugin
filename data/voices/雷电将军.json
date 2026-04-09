@@ -1,0 +1,1901 @@
+{
+  "id": "2404",
+  "name": "雷电将军",
+  "alias": [
+    "雷电将军"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "无须行礼，此身虽然尊贵殊胜，不过此般前来，是想要做些微服游历民间的事。我看上了你的身手，现在你就是我的御侧保镖了。不用担心，遇到危险，我会出手的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/f5fa8523826c813bfcbddb5dfbd6835a_202456861228187024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·徒然",
+          "text": "徒然无事，对砚枯坐。哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/d9fb496f7bcaaf39146835976337d9e2_4819957302313230827.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·浮世",
+          "text": "浮世景色百千年依旧，人之在世却如白露与泡影。虚无。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/0ec3c81d1952409e089ec5c9cb550c11_2310327582490129302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·花鸟余情",
+          "text": "无人相陪，此般花鸟余情，也不过衬托我身不移不变的背景罢了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/534a7786ce6f8217a86d63647489dc5a_5755430001658720570.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "只是雨滴有什么麻烦的。这还没有打雷呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/2a061c97c56f6170a1b210bb592ebc77_4102010104491476400.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎呀，你不会怕了吧。明明此世最为殊胜最为恐怖的雷霆化身就站在你身边。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/afd15a87b8dec9f85324023ea9494cc0_1714625431130677471.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "冬将军也来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/1d8e1087b33412479c21ce94d1cdd9ff_5641864484591784739.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晴天的时候…",
+          "text": "天晴也并不能掩盖雷霆的威光。不下雨也可以降下神雷，看到那棵树了吗？你说你懂了，叫我停手。好吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/6a76b22c5f2507725f4c646780e381b3_8342350564793152777.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "道完早安就打呵欠，太懈怠了。我这次就赦免你的无礼了。早安。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/fa17b4d2a5866a603e1db9b5aa0f3bd8_8753033995695231074.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "啊，想吃甜点心。嗯，为什么不行？什么叫「哪有这个时间吃甜品的」。之前是因为他们看我是将军所以惯着我的？这样啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/13650a162faf90a61bbca57a1dbcc3ed_1330677885440972275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "你想知道夜晚流星的真相吗？哈哈，真相就是缥缈须臾的一瞬天光罢了。嗯，你说其实是你？你也是天狗吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/cfbb57f65e268850c4c8ec350ef78923_7894079561078599208.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "我命十方世界雷鸣平息，愿你今晚得享安睡。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/a2cfa181266ff9e6fcacc1e3ff8ed940_5832406953315009016.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军自己·须臾",
+          "text": "雷鸣闪电，一瞬即逝。正因如此，才会想要撷取「永恒」。不，才必须掌握「永恒」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/10de5c497e240b9dd7e127d5ad599af6_619690584908144011.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军自己·永恒",
+          "text": "「磨损」是一件很可怕的事情。此身诞生的意义，就是承受磨损。这样，或许「内在」就可以触及永恒了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/aeac5889baabe499d75b2570f1666372_8420573631726062917.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·奥诘众",
+          "text": "现在你是我的侧用人，换言之，依我判断，你是对幕府有用，对我忠诚的人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/1c541e2db9edcd0e252d3fdef98b9f0a_7684825747150571472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·用心棒",
+          "text": "虽然是微服出访的保镖，但是我遇到危险不用替我挡刀了。将军她构造还挺结实的，坏了还能替换呢。所以遇到危险把将军她推到前面就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/ee8950033ce78a1e1204cef725d51226_145647756923704119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·直传",
+          "text": "稻妻的薙刀术和剑术以及锻刀技法，基本都是由我直接传下的，随后因人资质不同而分枝开花、各自结果。\n\n如何，再接我一刀？还能无事的话，许可你在稻妻开宗立派哦。啊，武艺的精进真是叫人欲罢不能。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/b26438ab56ed2ac98fb91f730b625bf4_1736844115277836711.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "外面的世界居然已经这么久没有出现过雷元素的神之眼了吗？虽然我因为一些制约无法说明…赐予神之眼这件事，和我的意志无关。重要的，还是人的「渴望」，以及…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/84efb8a6c8fe110829be27adb4667db3_5423773289530798097.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "有什么想要分享的？没有。倒是你，为什么没有神之眼却能使用元素之力。和我说说。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/900eab14eebf57c86fac4ec71aab1b16_7065310559582196628.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "虽然身消梦陨，但是她化作了神樱。这，也是「永恒」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/7ccc8195b0ba578e336fd4cad49882b4_1717284883690523567.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "那家伙啊，最初她就是个会被油豆腐引诱的家伙。现在居然这么工于谋略了，让人欣慰。不过被她算计了，还是有些不愉快。虽说是为了我好，下次见到她恐怕会被她嘲笑的…那就先发制人，斩她一刀好了。反正她也能躲掉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/d35be576b227cc3f677f36b56e859014_6090865066946955577.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫人…",
+          "text": "神里一门，无愧于稻妻名门笔头之格。绫人虽然此前在三奉行事务中，耍了不少手段，但是本身忠心可鉴。既往不咎了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/6bda17a9fb05115a5df1c837b082db78_1568649390135390985.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "神里一门，无愧于稻妻名门笔头之格。欸，你说我和将军的评价一模一样。那，绫华她，她剑术也很好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/e98e009ab76a338259976f90e8a0240c_4911111437781205839.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "忠义之士，武艺精湛，可担「豪杰」二字。有此麟儿，九条家应该还能兴盛下去吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/f61c796c5ed5f9505c45d896b2cc90d6_6894059470496343768.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于宵宫…",
+          "text": "是谁来着？啊，做烟火的。制造须臾幻象的人，沉醉于夏日幻觉的人，虽说如此，亦为我之臣民。\n\n嗯，在天领奉行属地里炸烟花？谁啊，她吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/9b72c8af02454ca831ce453b13a0baf9_5005208405398631073.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于托马…",
+          "text": "虽然差点夺走他神之眼这件事，我也不能说是完全没有责任。但要说道歉的话，还是应该让将军她去比较好吧…好吧，我也会好好反省的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/b70a3175d6c18560510d4d9ba3f48444_138622004347357963.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海…",
+          "text": "奥罗巴斯确为此身所斩。但是我也许可了珊瑚宫之民，以海祇大御神之名继续祭祀，让它得享牲醴。现在珊瑚宫捣毁鸣神分社，反叛幕府。她作为海祇大御神的现人神巫女，必须要承担责任。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/962418de9b8dcf1d4c5f59db21200e1d_5389587645626359189.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于国崩…",
+          "text": "那小子是制造将军的副产物。对他不加以管束，应该是因为我内心还是觉得对他有所亏欠吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/8257cce3003d812adbc999624456a394_2023589682425575215.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "谁？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/f1d064f25b7f97c64fd982ef259fd595_2873415818566383765.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于摩拉克斯…",
+          "text": "曾经与他共饮之时，我还只是一介影武者，敬陪众神末席。他做出了这样的选择是吗？不过，我想他在下一个时代，仍然会继续和更多的人相遇吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/50f57cfa2e6528e942730ed6508f2226_209216402477896083.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "风神的化身现在还叫这个名字吗？说实话，第一次见他就感觉他浑身透着和我一定相处不来的气质。然后就是，他的确很能喝酒。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/066d5ac7b85b97f237c44885bc1cc149_9212955745777313490.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于布耶尔…",
+          "text": "我很欣赏她的谦逊，谦逊也的确是智者的美德。她的权能理应可以做到许多超乎想象的事，但布耶尔只是将它用在「纠正与守护」之上…真是个温柔的神明。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/0d849242548ac84edb7300a229f48132_4045425962155831999.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "「雷电将军」曾与我在意识世界中进行数百年的决斗，以确定我的意志不曾动摇。而你所说的这位芙宁娜，虽是人类之躯，但五百年间的表演也无异于每时每刻都在进行精神上的「实战」。我认可她，此等意志，可谓已臻神境。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/17/16576950/1f9f5c84feffba4da5bd4ccc5ceb6658_3211120416998434876.mp3",
+          "audioName": "33关于芙宁娜…_cn.mp3"
+        },
+        {
+          "name": "关于赫布里穆…",
+          "text": "五百年前我抵达坎瑞亚之时，曾在战场上见过不亚于无想刃狭间的大片焦土，我听闻那就是火神的愤怒。时至今日，我竟然还有和这样一位人类见面的机会…可否为我引荐一番呢？作为「武人」，我想前往合适的空旷之地，与她交流一些心得。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/8bf83a84b392be763790be2b519e7569_2839019443865663050.mp3",
+          "audioName": "34关于赫布里穆…_cn.mp3"
+        },
+        {
+          "name": "关于梦见月瑞希…",
+          "text": "梦见月瑞希是神子的旧识，不过，我有些看不明白她们两位的关系…既是彼此无可替代的友人，又不愿将感情置于台面。总是为某些计划相持不下，想要决出高低…鉴于这些计划的核心都是帮助民众享受生活，我便不多说什么了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/12/50494840/0dad962519cf20ee11ed963a9f207eb6_6594394845733099580.mp3",
+          "audioName": "汉语.mp3"
+        },
+        {
+          "name": "想要了解雷电将军·其一",
+          "text": "有什么事情，说来便是。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/ec4936202f5262411e0d955a7a9761bb_7578417456448686283.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解雷电将军·其二",
+          "text": "民间都相信，雷雨天口念「桑原桑原」，便可以无恙。如是因我一念而起的雷暴，必不会加害于你。但是自然天气形成的雷雨就难说了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/5e5997905c2cc9246416470b790a0bb1_7843590275214298861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解影·其三",
+          "text": "《珍说》一书所言大致都是真的。那时她正忙于周旋岛内之事，于是我作为影武者，假托她名出现在了平定海祇的军阵中。但是后面的剧情，就只是人们的一厢情愿罢了。我原本只是醉心剑技的武人，没有那种感化万民的德行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/2d7bd38a54d37104fa0d139c2d43fd35_7736277805113971673.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解影·其四",
+          "text": "追求「永恒」可能也只是一种逃避罢了。最后我采取的方法也和缩壳乌龟一样。不过乌龟本来就是长寿的象征，说不定追求永恒就是会变成这样的形态。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/c96683cf80b0fc24fadeaf80c78258f9_1340027266041774498.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解影·其五",
+          "text": "恐惧是因为我在五百年前目睹了她的消亡和「那个事物」。但，如果…如果是你的话，一定可以拯救所有人的。如果是你的话，一定会拯救世界的。就像是我记得稻妻的一切一样，只要你记得我，我就能永远地活着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/753e4c79ccb735173a4733bd010656b3_8489859262608903968.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雷电将军的爱好…",
+          "text": "愚问。只有必须要做的事情，和一定不能做的事情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/357210ed7066d04e8c398c6e2d5b42cc_3870438144556599781.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "影的烦恼…",
+          "text": "你不要让我做饭啦。我什么都能办到，但是真的不会做饭。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/42f41f4f9b244a8e4b5e7bae3aa7676e_5183085915090775014.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "你别听将军她的。甜点心！蛀牙什么的，换一套就好了。这怎么会影响对永恒的追求呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/1664c8b7b2074e718242711b5a50bdbb_1201998632723510206.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "愚问。只有维持身体营养必须吃的，和会损害身体的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/392491c33242d43f6b1d89470b2c3d2f_1730619006262116888.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "熟悉的味道。不坏。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/7d94ac6bea2e60cc89ada9ba313ba671_3900256426146874085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "放在这里吧，我会尝的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ed742d6fa5d6a5b76942ee9674b39647_4964239503087423582.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "会损害身体机能，拿走。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/b7984522719bd62a1df43600245bef50_6138124618024433535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其四",
+          "text": "好吃。心情也放松了不少，谢谢你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/60bbc3c59a475f69286ddc072856e1d1_697052547767526576.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其五",
+          "text": "看起来不错，是怎么做出来的？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/eec92d308e8f78f77702c4209faef7f1_8691843454236410571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其六",
+          "text": "恕我谢绝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/5209baaa955a24284d53a2a7abc37205_8002863947252718215.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生辰…",
+          "text": "今日是你的生辰之日吗？随我回城，我来对全体旗本众宣读祝词吧。嗯？「太丢人别这样。」…好吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/a0acda31e4c9a067f146c63385d6864c_1601823285148307550.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！那今日就一起庆祝吧，使之成为可以铭记一年的美好瞬间。然后等到来年今日，便继续庆祝。如是便可得「永恒」的快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/a732c5619c8c3d8bf360e2863c8f6d4c_4678944144871297092.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我之流派里，「初传」之位，可以学习太刀的九向剑路之势，以及薙刀术的基本。与其他流派并无大差异。应该说，其他流派与我之流派并无差异。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/8e85535b39ecc99bbf39f8f45543fe2d_1523469136933960655.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "我之流派里，「中传」之位，太刀术需要研习各种「构」位与变化，薙刀术则需熟练诸「切」与「返」之理。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/6dc696e2b23f40a034c5bb760699999b_7074804261835620346.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "我之流派里，「皆传」之位，需要研习诸般奥义。无奈大部分都需要配合元素之力，对凡人来说可能有些太难了。世间其余流派大多都无法触及此境。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/d2842d0424debb4e7bce3748e1f7bf5a_1523230047584961419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "奥义中的奥义，也就是「无想」又无双的一刀。有你作为陪练之宾，我好像能挥出更强更快的一剑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/0ba71fca9313e197ec1022cbe6134ccf_2787406290756717474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "威光无赦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/00e26548d9ddfdcb02d181df928adb4e_8214270111620405699.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "无处遁逃！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/03e90e7ea4621d686756ec4db7472740_5109592882395993871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "泡影看破！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/bfa7c256a309598ced3c88894127b366_7922745408123171496.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "无念，断绝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/5a9c3669f58503b5fce1c9beb5cb97ed_908871747589186274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "此刻，寂灭之时！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/8053105d0485aa2838922ab59ab9497c_7612693246304768936.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "稻光，亦是永恒！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/791c0c9860b81af4621115c44226555e_4117654390397496002.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "收下吧，于我无用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/b442ffeafe7896191772e087acf4af33_7164626852314216040.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "…不过须臾之梦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/4bc8aabd7785b92f626f5facb85073d3_1994202377824578204.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "嗯？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/b16e2569eb80b4fced419b97dfdc841b_5806591988399071327.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "…枷锁当断。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/58560d65d46c0a9bc831a06cc559a3d4_8198928932582163191.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "…诸恶当斩。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/7adb66e66ef5723abec527a04c90e9c6_6218080614997144135.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "…肃清阻碍。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/1f26d20b677b1ca46d5248e161ea5c4a_2765873914024085204.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "至我后方待命。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/dad11655cc81978c5bd8c6d13b80a01f_4449881323977261261.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "退下。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f29a1301638b4f02f99f9b78d063216b_4812903657408759655.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "浮世一梦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/e9e18ce748dc60a11e29645617bda274_2634002761335720576.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "无念，无执…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/547df56520c1942d274d2cba4a16726c_170440949828691397.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "雷鸣，将歇…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/2da5c754fc2aa622c6ab16f26f0cebc2_4958315612559544341.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "无礼…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/08/16576950/a42e600864f8b762c70f8e9a46f7da06_1514565659044443959.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "荒谬…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/08/16576950/50f9db24a3abc60e953f4dd662726ba9_2012223784404002475.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "有什么事？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/a701d55d3f9907cef150db98769e57a0_1795491120331288138.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "随我左右即可。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/56e1b265de46235c7a53c71e531325c5_6674794001889311722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "出征之时已至。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/11/6276411/3eeff6d5c983310736a1923820d0aeba_7014078472634974354.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "无须行礼，此身虽然尊贵殊胜，不过此般前来，是想要做些微服游历民间的事。我看上了你的身手，现在你就是我的御侧保镖了。不用担心，遇到危险，我会出手的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0e6f206854fd20c779d72275ab13d127_3418114852210885195.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·徒然",
+          "text": "徒然无事，对砚枯坐。哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1283a5e2aeff61a5909fc3305f585f80_4822825822241664563.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·浮世",
+          "text": "浮世景色百千年依旧，人之在世却如白露与泡影。虚无。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fc36e234f8e4f98ac0c1deec84109631_3606015425624588358.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·花鸟余情",
+          "text": "无人相陪，此般花鸟余情，也不过衬托我身不移不变的背景罢了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1e0c07b2970815a83e3dd6204af3b30e_599471914264517229.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "只是雨滴有什么麻烦的。这还没有打雷呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4a05c5a1219a23bf6feb561dc1e88835_3846745748829328032.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎呀，你不会怕了吧。明明此世最为殊胜最为恐怖的雷霆化身就站在你身边。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8590e469e3954e27bb5b79d2b9b47852_2244641028673358753.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "冬将军也来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/415bfdf2900a209a1d1b36e4c442327b_1495565997669354905.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晴天的时候…",
+          "text": "天晴也并不能掩盖雷霆的威光。不下雨也可以降下神雷，看到那棵树了吗？你说你懂了，叫我停手。好吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/20/6800286/064022877e162c766fb5583e31892b36_4143557206403431074.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "道完早安就打呵欠，太懈怠了。我这次就赦免你的无礼了。早安。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c3a638c393c435cb07cbdf55a89984ad_6534450029793074534.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "啊，想吃甜点心。嗯，为什么不行？什么叫「哪有这个时间吃甜品的」。之前是因为他们看我是将军所以惯着我的？这样啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/02ca3987c0d4cf1013c2e439f490e914_4811872504488453044.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "你想知道夜晚流星的真相吗？哈哈，真相就是缥缈须臾的一瞬天光罢了。嗯，你说其实是你？你也是天狗吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dbff36e76b6f64b58b8aa273073a8025_6113299080066460942.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "我命十方世界雷鸣平息，愿你今晚得享安睡。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae91e2e6327506dd8884b097d5340d8f_6281467885007830713.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军自己·须臾",
+          "text": "雷鸣闪电，一瞬即逝。正因如此，才会想要撷取「永恒」。不，才必须掌握「永恒」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/91c94b6ed8aa5258ec4db779047ee081_3711936657202686311.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军自己·永恒",
+          "text": "「磨损」是一件很可怕的事情。此身诞生的意义，就是承受磨损。这样，或许「内在」就可以触及永恒了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b236335e620a791d4f897251ecc43bfe_2250498687251575002.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·奥诘众",
+          "text": "现在你是我的侧用人，换言之，依我判断，你是对幕府有用，对我忠诚的人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d53ecd79792a9a3579da9f423287c34d_1317769114646134371.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·用心棒",
+          "text": "虽然是微服出访的保镖，但是我遇到危险不用替我挡刀了。将军她构造还挺结实的，坏了还能替换呢。所以遇到危险把将军她推到前面就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6c1eeb90ed993870d48a3e106e3d2851_7411322805179425641.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·直传",
+          "text": "稻妻的薙刀术和剑术以及锻刀技法，基本都是由我直接传下的，随后因人资质不同而分枝开花、各自结果。\n\n如何，再接我一刀？还能无事的话，许可你在稻妻开宗立派哦。啊，武艺的精进真是叫人欲罢不能。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea623fd1d3724428ae63e7eca6d3bb33_7452863421400169752.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "外面的世界居然已经这么久没有出现过雷元素的神之眼了吗？虽然我因为一些制约无法说明…赐予神之眼这件事，和我的意志无关。重要的，还是人的「渴望」，以及…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b43b76b1f0ff817da97048b59ccca155_8121717410124655055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "有什么想要分享的？没有。倒是你，为什么没有神之眼却能使用元素之力。和我说说。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d7c1facbe1ac01c50c92fa9695f501a_8377051730726572296.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "虽然身消梦陨，但是她化作了神樱。这，也是「永恒」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e9d57e8bda192a34296ee02ba38f9537_8143101491226258532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "那家伙啊，最初她就是个会被油豆腐引诱的家伙。现在居然这么工于谋略了，让人欣慰。不过被她算计了，还是有些不愉快。虽说是为了我好，下次见到她恐怕会被她嘲笑的…那就先发制人，斩她一刀好了。反正她也能躲掉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/70bab3b6b9f39ec8dc71ce037b7a2d1b_6530063740971887943.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫人…",
+          "text": "神里一门，无愧于稻妻名门笔头之格。绫人虽然此前在三奉行事务中，耍了不少手段，但是本身忠心可鉴。既往不咎了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8cc6dc1f8f4de3d597239236b3fcd2e_7510691650390120675.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "神里一门，无愧于稻妻名门笔头之格。欸，你说我和将军的评价一模一样。那，绫华她，她剑术也很好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7acfd423d3c401ff8f53ac018d28af6f_1456290709715471238.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "忠义之士，武艺精湛，可担「豪杰」二字。有此麟儿，九条家应该还能兴盛下去吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e4b177b5a8161cf2d0513f9a863b3877_8443433334146743231.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于宵宫…",
+          "text": "是谁来着？啊，做烟火的。制造须臾幻象的人，沉醉于夏日幻觉的人，虽说如此，亦为我之臣民。\n\n嗯，在天领奉行属地里炸烟花？谁啊，她吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de0ba32020b49dfb8c96bed766b8b71a_1585564572613388444.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于托马…",
+          "text": "虽然差点夺走他神之眼这件事，我也不能说是完全没有责任。但要说道歉的话，还是应该让将军她去比较好吧…好吧，我也会好好反省的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/838605b12ec5eaeb34f8770e7804a614_8332755357496454545.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海…",
+          "text": "奥罗巴斯确为此身所斩。但是我也许可了珊瑚宫之民，以海祇大御神之名继续祭祀，让它得享牲醴。现在珊瑚宫捣毁鸣神分社，反叛幕府。她作为海祇大御神的现人神巫女，必须要承担责任。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0331c79e3614cb70787251b12ba22388_855759990756385117.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于国崩…",
+          "text": "那小子是制造将军的副产物。对他不加以管束，应该是因为我内心还是觉得对他有所亏欠吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d1b85d99dab989ce8db22c4aadc67520_7269289644963532746.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "谁？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8f9963720fde719b0cfefc41bfa71b3c_7429447233550108208.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于摩拉克斯…",
+          "text": "曾经与他共饮之时，我还只是一介影武者，敬陪众神末席。他做出了这样的选择是吗？不过，我想他在下一个时代，仍然会继续和更多的人相遇吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9c65f595d9343afec020aea46cab2751_5985849490383871280.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "风神的化身现在还叫这个名字吗？说实话，第一次见他就感觉他浑身透着和我一定相处不来的气质。然后就是，他的确很能喝酒。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7cc74822f0a984c4fdbb3cf8ec2d5c16_427531714474291773.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于布耶尔…",
+          "text": "我很欣赏她的谦逊，谦逊也的确是智者的美德。她的权能理应可以做到许多超乎想象的事，但布耶尔只是将它用在「纠正与守护」之上…真是个温柔的神明。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/9ffc0090be534ac06a36ca02160b0b43_3966802912475899081.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "「雷电将军」曾与我在意识世界中进行数百年的决斗，以确定我的意志不曾动摇。而你所说的这位芙宁娜，虽是人类之躯，但五百年间的表演也无异于每时每刻都在进行精神上的「实战」。我认可她，此等意志，可谓已臻神境。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/17/16576950/9b400a7d335606b9d4c82342e55fb384_1676783819575395269.mp3",
+          "audioName": "33关于芙宁娜…_jp.mp3"
+        },
+        {
+          "name": "关于赫布里穆…",
+          "text": "五百年前我抵达坎瑞亚之时，曾在战场上见过不亚于无想刃狭间的大片焦土，我听闻那就是火神的愤怒。时至今日，我竟然还有和这样一位人类见面的机会…可否为我引荐一番呢？作为「武人」，我想前往合适的空旷之地，与她交流一些心得。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/5d97e6e34f4473a39712688956fd6ae4_1663413421472394207.mp3",
+          "audioName": "34关于赫布里穆…_jp.mp3"
+        },
+        {
+          "name": "关于梦见月瑞希…",
+          "text": "梦见月瑞希是神子的旧识，不过，我有些看不明白她们两位的关系…既是彼此无可替代的友人，又不愿将感情置于台面。总是为某些计划相持不下，想要决出高低…鉴于这些计划的核心都是帮助民众享受生活，我便不多说什么了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/12/50494840/03b4c002bcb29406d871e798b63ea0d5_9082126164068730017.mp3",
+          "audioName": "日语.mp3"
+        },
+        {
+          "name": "想要了解雷电将军·其一",
+          "text": "有什么事情，说来便是。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fc4f074f08b3f3017673f8c44fc97e71_5104292312104135355.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解雷电将军·其二",
+          "text": "民间都相信，雷雨天口念「桑原桑原」，便可以无恙。如是因我一念而起的雷暴，必不会加害于你。但是自然天气形成的雷雨就难说了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c09208de3553844d7c0a744d5be2c7f4_6254771354916334527.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解影·其三",
+          "text": "《珍说》一书所言大致都是真的。那时她正忙于周旋岛内之事，于是我作为影武者，假托她名出现在了平定海祇的军阵中。但是后面的剧情，就只是人们的一厢情愿罢了。我原本只是醉心剑技的武人，没有那种感化万民的德行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae0ce10044c0b2d1460f8fbbbb5ec3f5_774987278312676658.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解影·其四",
+          "text": "追求「永恒」可能也只是一种逃避罢了。最后我采取的方法也和缩壳乌龟一样。不过乌龟本来就是长寿的象征，说不定追求永恒就是会变成这样的形态。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4e4386f737dbfffecb2d52bb7a86f153_8105177286645479613.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解影·其五",
+          "text": "恐惧是因为我在五百年前目睹了她的消亡和「那个事物」。但，如果…如果是你的话，一定可以拯救所有人的。如果是你的话，一定会拯救世界的。就像是我记得稻妻的一切一样，只要你记得我，我就能永远地活着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f96951470405748faeec888e37907740_2710889505459081406.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雷电将军的爱好…",
+          "text": "愚问。只有必须要做的事情，和一定不能做的事情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/37cc1c3d5d1ee1adec8a78426bfdaa6d_32953256371880534.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "影的烦恼…",
+          "text": "你不要让我做饭啦。我什么都能办到，但是真的不会做饭。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/03672a5913b2698c9003dc2bf95d9152_2882546769520180681.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "你别听将军她的。甜点心！蛀牙什么的，换一套就好了。这怎么会影响对永恒的追求呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2af524eeb9d4e926e5aed68f45f5f614_1680377424170882927.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "愚问。只有维持身体营养必须吃的，和会损害身体的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b670c1e94701d1998037dd6cdccef960_8975583324102511389.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "熟悉的味道。不坏。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/0e2231fa89ef6d8af1e16e128b9b3f1f_8823092648315004563.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "放在这里吧，我会尝的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a9b2f5c38e26e66f7c7dd7eda770dbd8_797970337984822867.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "会损害身体机能，拿走。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a7c8694825c5f85f6b415819cc7f0752_5953118295477540470.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其四",
+          "text": "好吃。心情也放松了不少，谢谢你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/965c8ee577858da9fa09f5907c504a8b_6930055018998837501.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其五",
+          "text": "看起来不错，是怎么做出来的？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d6c38d227aec827f3787c79324abfdb0_2408525388460977456.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其六",
+          "text": "恕我谢绝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/0e33b57b1e44f852d3c1e326810dd979_2984143165072719659.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生辰…",
+          "text": "今日是你的生辰之日吗？随我回城，我来对全体旗本众宣读祝词吧。嗯？「太丢人别这样。」…好吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7f7f886f024fe2ddb66576e108f7ba9c_7539038584092610096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！那今日就一起庆祝吧，使之成为可以铭记一年的美好瞬间。然后等到来年今日，便继续庆祝。如是便可得「永恒」的快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5b2f79b9d1d25fce90af12b159c412c_3333267617487007944.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我之流派里，「初传」之位，可以学习太刀的九向剑路之势，以及薙刀术的基本。与其他流派并无大差异。应该说，其他流派与我之流派并无差异。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a290b08665d30366a7ac9ca18737d3f9_19961929540502061.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "我之流派里，「中传」之位，太刀术需要研习各种「构」位与变化，薙刀术则需熟练诸「切」与「返」之理。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a3dae61d8a2e012e3d3d00a725ec93ae_3211345901839574937.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "我之流派里，「皆传」之位，需要研习诸般奥义。无奈大部分都需要配合元素之力，对凡人来说可能有些太难了。世间其余流派大多都无法触及此境。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/48cb1190ff6e993f05d467bf368c63ef_2038550612659105037.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "奥义中的奥义，也就是「无想」又无双的一刀。有你作为陪练之宾，我好像能挥出更强更快的一剑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/92a0085b810320fa460b50c2dfba5c6c_571051656396776584.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "威光无赦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af33757cfb8d20f57fb5be980e589d5c_5047000670286899812.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "无处遁逃！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/749028e60aa87a3471c39f70d6737f99_540917472073698958.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "泡影看破！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5baff9840ef0a27eb28983679bcdb7b6_1849082785464716742.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "无念，断绝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2d4cf814dc1bad92c67c9b26e0245a73_2239619185590516494.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "此刻，寂灭之时！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d68f9d8ea3f89ef614a02b366ccc4ffa_1941161669680639856.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "稻光，亦是永恒！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/625b83b60cfbc6230df2df4e074eddfc_2137451358668779802.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "收下吧，于我无用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5fac03dca07b29f41ce8da34d8ec7307_4577534709321301164.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "…不过须臾之梦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7fe31276f9910c84c21d268f7631a84f_7033306205153875108.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "嗯？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2002a776b3c8a6f2470e1b3caa09fa12_843633473768215965.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "…枷锁当断。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9d98e653f72f41bcf60fae388d82e9a8_1781183148581700024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "…诸恶当斩。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7716c2b0bc0c5e2e3ca87fb0be51ea1b_7461118201876176902.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "…肃清阻碍。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3d6410cf81443ffa1a8ae8c52adb56c2_7620114015693997377.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "至我后方待命。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/acd536e42ff2efcc367253d2fce35399_7341676726077352353.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "退下。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/3206ff363b1d5f2b8d0d68cedc01feb6_2132294859740984315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "浮世一梦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2f03a14a9437d1f126a433c0abaf64fe_6583254420308380035.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "无念，无执…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d448d4ac38ea29fdeb99659686cb90c1_4530645071605726820.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "雷鸣，将歇…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/211c190e8139c5811b26bcc86c0976e8_6648053834552820362.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "无礼…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/247654d547e863de5e0b5b8662bb0117_8779127241022274512.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "荒谬…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c63163a3950d24259fad7aecab454114_1948050298480426793.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "有什么事？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f60385dd3e992df527b6746f2398fda9_2383866945022594637.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "随我左右即可。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cd9e954d81510f1bc2f3b2a524c8af39_5087426706463961166.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "出征之时已至。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c6cf224d4099886a04493676dda4d4bf_2943029098444691652.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "无须行礼，此身虽然尊贵殊胜，不过此般前来，是想要做些微服游历民间的事。我看上了你的身手，现在你就是我的御侧保镖了。不用担心，遇到危险，我会出手的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b988d72c5c5c3896dab54c64097819d_2939488059679784593.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·徒然",
+          "text": "徒然无事，对砚枯坐。哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4484047923b17e6e04b22d923433836e_6345929160219072343.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·浮世",
+          "text": "浮世景色百千年依旧，人之在世却如白露与泡影。虚无。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/97084a50fb5a4f769e0101d7fdd951be_8229105503485331107.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·花鸟余情",
+          "text": "无人相陪，此般花鸟余情，也不过衬托我身不移不变的背景罢了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7358be2eff305330afa2ef637322abf0_7736866012325395236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "只是雨滴有什么麻烦的。这还没有打雷呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c3653e394635a742d14696a378b6f729_8069573301638662341.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎呀，你不会怕了吧。明明此世最为殊胜最为恐怖的雷霆化身就站在你身边。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/34ef7d59722814bcadd2acf1ef7f9f8b_7461942601910975477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "冬将军也来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/00c84f9678afb13621e159f4b76dd7f4_7326277579830696157.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晴天的时候…",
+          "text": "天晴也并不能掩盖雷霆的威光。不下雨也可以降下神雷，看到那棵树了吗？你说你懂了，叫我停手。好吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/455bde1a3f9d43f34de34ad711caf4ce_2398417063259510714.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "道完早安就打呵欠，太懈怠了。我这次就赦免你的无礼了。早安。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a2d4341806860153d3bf458ae52575de_5703768475427767287.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "啊，想吃甜点心。嗯，为什么不行？什么叫「哪有这个时间吃甜品的」。之前是因为他们看我是将军所以惯着我的？这样啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/688db6b0209d091b8c59d377aee2f737_4109881061586828651.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "你想知道夜晚流星的真相吗？哈哈，真相就是缥缈须臾的一瞬天光罢了。嗯，你说其实是你？你也是天狗吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d04b8fdf24fd9ea2f0fa41cd3637a2c3_5870713519260319778.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "我命十方世界雷鸣平息，愿你今晚得享安睡。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/13b5acec9c5964d6954e5c7049bff699_8875148068317596535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军自己·须臾",
+          "text": "雷鸣闪电，一瞬即逝。正因如此，才会想要撷取「永恒」。不，才必须掌握「永恒」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f204e6d29ad1311a7cee72aa328a85de_4886810056339589312.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军自己·永恒",
+          "text": "「磨损」是一件很可怕的事情。此身诞生的意义，就是承受磨损。这样，或许「内在」就可以触及永恒了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f4716f6fd690baceb8d4d2f8c09ee097_455144952358404229.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·奥诘众",
+          "text": "现在你是我的侧用人，换言之，依我判断，你是对幕府有用，对我忠诚的人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/19661f4cfa8e7e81234b0c72af9425e1_1776282037565638099.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·用心棒",
+          "text": "虽然是微服出访的保镖，但是我遇到危险不用替我挡刀了。将军她构造还挺结实的，坏了还能替换呢。所以遇到危险把将军她推到前面就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/80caaa98e4daf08157677c105e46c99a_5858317637185523460.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·直传",
+          "text": "稻妻的薙刀术和剑术以及锻刀技法，基本都是由我直接传下的，随后因人资质不同而分枝开花、各自结果。\n\n如何，再接我一刀？还能无事的话，许可你在稻妻开宗立派哦。啊，武艺的精进真是叫人欲罢不能。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/356bfe0330e8d6d08446ec926001302c_6256357594874282988.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "外面的世界居然已经这么久没有出现过雷元素的神之眼了吗？虽然我因为一些制约无法说明…赐予神之眼这件事，和我的意志无关。重要的，还是人的「渴望」，以及…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2bb5fd7fad8c0152f8f38aa06126bcb5_7835943603271180506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "有什么想要分享的？没有。倒是你，为什么没有神之眼却能使用元素之力。和我说说。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b59f4298eea34df88da0f971dbfa665_1115557664174796031.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "虽然身消梦陨，但是她化作了神樱。这，也是「永恒」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d80ef346e0bc17310f1b63f7190ee9e_6261930415455355491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "那家伙啊，最初她就是个会被油豆腐引诱的家伙。现在居然这么工于谋略了，让人欣慰。不过被她算计了，还是有些不愉快。虽说是为了我好，下次见到她恐怕会被她嘲笑的…那就先发制人，斩她一刀好了。反正她也能躲掉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/17b2d439bbd03d7ae6096a110a90d002_3980313384992109734.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫人…",
+          "text": "神里一门，无愧于稻妻名门笔头之格。绫人虽然此前在三奉行事务中，耍了不少手段，但是本身忠心可鉴。既往不咎了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/39b19e5b03eeea3187c6af9ac0bf9708_8911860915442870559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "神里一门，无愧于稻妻名门笔头之格。欸，你说我和将军的评价一模一样。那，绫华她，她剑术也很好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8342ac262480f984572d644d7dd081c4_1363204011514803283.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "忠义之士，武艺精湛，可担「豪杰」二字。有此麟儿，九条家应该还能兴盛下去吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2529bb23d0febc4ff281a8546481c7cc_4579655686687668396.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于宵宫…",
+          "text": "是谁来着？啊，做烟火的。制造须臾幻象的人，沉醉于夏日幻觉的人，虽说如此，亦为我之臣民。\n\n嗯，在天领奉行属地里炸烟花？谁啊，她吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c772f43bca96cc5ce5e56fec3d57f7aa_8185764998411995275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于托马…",
+          "text": "虽然差点夺走他神之眼这件事，我也不能说是完全没有责任。但要说道歉的话，还是应该让将军她去比较好吧…好吧，我也会好好反省的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8640bf790170e97d5733ecd6e1a6837e_5267804086231342130.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海…",
+          "text": "奥罗巴斯确为此身所斩。但是我也许可了珊瑚宫之民，以海祇大御神之名继续祭祀，让它得享牲醴。现在珊瑚宫捣毁鸣神分社，反叛幕府。她作为海祇大御神的现人神巫女，必须要承担责任。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/60422db76c4eba0273de60f85941f655_8263830623179031578.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于国崩…",
+          "text": "那小子是制造将军的副产物。对他不加以管束，应该是因为我内心还是觉得对他有所亏欠吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c76f68995506c2f24d450b0424b859c1_5629818994166238151.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "谁？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77385618d4926438152ad4d374535c5b_1133864937486978546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于摩拉克斯…",
+          "text": "曾经与他共饮之时，我还只是一介影武者，敬陪众神末席。他做出了这样的选择是吗？不过，我想他在下一个时代，仍然会继续和更多的人相遇吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/531a1fa55cefbefc234c1eeec3bf3b10_962259469690619843.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "风神的化身现在还叫这个名字吗？说实话，第一次见他就感觉他浑身透着和我一定相处不来的气质。然后就是，他的确很能喝酒。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/93846db56e67b868c36e23ccf4f6061f_1552816697284211661.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于布耶尔…",
+          "text": "我很欣赏她的谦逊，谦逊也的确是智者的美德。她的权能理应可以做到许多超乎想象的事，但布耶尔只是将它用在「纠正与守护」之上…真是个温柔的神明。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/52cbfd3d5025c2a1fcc83bd0cb80001a_7105327834253766910.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "「雷电将军」曾与我在意识世界中进行数百年的决斗，以确定我的意志不曾动摇。而你所说的这位芙宁娜，虽是人类之躯，但五百年间的表演也无异于每时每刻都在进行精神上的「实战」。我认可她，此等意志，可谓已臻神境。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/17/16576950/99a582730bb0e254e2b167a65bd3b632_7370693070575565203.mp3",
+          "audioName": "33关于芙宁娜…_kr.mp3"
+        },
+        {
+          "name": "关于赫布里穆…",
+          "text": "五百年前我抵达坎瑞亚之时，曾在战场上见过不亚于无想刃狭间的大片焦土，我听闻那就是火神的愤怒。时至今日，我竟然还有和这样一位人类见面的机会…可否为我引荐一番呢？作为「武人」，我想前往合适的空旷之地，与她交流一些心得。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/8507f727ab31ac35fcb50303a86582d1_9086133288142731172.mp3",
+          "audioName": "34关于赫布里穆…_kr.mp3"
+        },
+        {
+          "name": "关于梦见月瑞希…",
+          "text": "梦见月瑞希是神子的旧识，不过，我有些看不明白她们两位的关系…既是彼此无可替代的友人，又不愿将感情置于台面。总是为某些计划相持不下，想要决出高低…鉴于这些计划的核心都是帮助民众享受生活，我便不多说什么了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/12/50494840/970f68e1c50003429dcfae84993fb8d4_6528044038577174082.mp3",
+          "audioName": "韩语.mp3"
+        },
+        {
+          "name": "想要了解雷电将军·其一",
+          "text": "有什么事情，说来便是。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c6525c5c0cd884033beacfd22f81418f_6140018326360061440.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解雷电将军·其二",
+          "text": "民间都相信，雷雨天口念「桑原桑原」，便可以无恙。如是因我一念而起的雷暴，必不会加害于你。但是自然天气形成的雷雨就难说了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/638caf388520f4cc16e4a7689c4a2378_5599664044770781187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解影·其三",
+          "text": "《珍说》一书所言大致都是真的。那时她正忙于周旋岛内之事，于是我作为影武者，假托她名出现在了平定海祇的军阵中。但是后面的剧情，就只是人们的一厢情愿罢了。我原本只是醉心剑技的武人，没有那种感化万民的德行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/343206a59cbadd388ccebeab4fb11cd5_1772606761816798981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解影·其四",
+          "text": "追求「永恒」可能也只是一种逃避罢了。最后我采取的方法也和缩壳乌龟一样。不过乌龟本来就是长寿的象征，说不定追求永恒就是会变成这样的形态。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4ea21b776c947fdad44b570e7f9dea9c_8916645837147000214.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解影·其五",
+          "text": "恐惧是因为我在五百年前目睹了她的消亡和「那个事物」。但，如果…如果是你的话，一定可以拯救所有人的。如果是你的话，一定会拯救世界的。就像是我记得稻妻的一切一样，只要你记得我，我就能永远地活着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9cb49bacd1a07324b6c41e79cf5d969d_7848684733865228422.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雷电将军的爱好…",
+          "text": "愚问。只有必须要做的事情，和一定不能做的事情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fa37d6a0173bfa5f3d859e66ba6d16e4_494922690820265545.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "影的烦恼…",
+          "text": "你不要让我做饭啦。我什么都能办到，但是真的不会做饭。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a724be8b74c6b27a78ea69ed0fc1e12a_3267527157644439249.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "你别听将军她的。甜点心！蛀牙什么的，换一套就好了。这怎么会影响对永恒的追求呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2e1ffb9ce09d06cb828ffd60954c672c_8844152210512435405.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "愚问。只有维持身体营养必须吃的，和会损害身体的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/19faabbdad0f48218e3c59807d6f6f96_8057548739152550639.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "熟悉的味道。不坏。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a500a7b706e9180a04051d374fcd4aa5_7160722144173180689.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "放在这里吧，我会尝的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ebc3c9d9ef8d800d9b9ed2a9736b95dc_7209441991522380920.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "会损害身体机能，拿走。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1e5dc647f7646623d20e14f3f2f90a54_1987779001667365351.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其四",
+          "text": "好吃。心情也放松了不少，谢谢你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c72ca7c58ff2f699bce88b5a9b4bf87e_5291544850467584906.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其五",
+          "text": "看起来不错，是怎么做出来的？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e594db9db2ae0d747fcfac08b7c956c5_4361666966651760837.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其六",
+          "text": "恕我谢绝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/65c06c5f23404da2797ef8f7d57acddf_4004861509092357882.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生辰…",
+          "text": "今日是你的生辰之日吗？随我回城，我来对全体旗本众宣读祝词吧。嗯？「太丢人别这样。」…好吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/65092de0b05d234949ff8ca5b96090a8_4693325544459710733.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！那今日就一起庆祝吧，使之成为可以铭记一年的美好瞬间。然后等到来年今日，便继续庆祝。如是便可得「永恒」的快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e59b17acaaabded8f78488e8797b9d5b_8728265158553117774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我之流派里，「初传」之位，可以学习太刀的九向剑路之势，以及薙刀术的基本。与其他流派并无大差异。应该说，其他流派与我之流派并无差异。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b2c4d841b73df5766d8f6fcc701d2a71_8921040116443823108.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "我之流派里，「中传」之位，太刀术需要研习各种「构」位与变化，薙刀术则需熟练诸「切」与「返」之理。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b2745154f2ac98ff799b67d1f1f4fe2f_6477865610437224401.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "我之流派里，「皆传」之位，需要研习诸般奥义。无奈大部分都需要配合元素之力，对凡人来说可能有些太难了。世间其余流派大多都无法触及此境。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2f22fa542fb498e9c28728fb7f50bcac_655630670895513712.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "奥义中的奥义，也就是「无想」又无双的一刀。有你作为陪练之宾，我好像能挥出更强更快的一剑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/280c9f629d30a76fc299c6b50e1fc663_5099186745889657016.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "威光无赦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/92b0f28d77ea694cdeb5a59874486bb3_3069729292639373601.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "无处遁逃！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c83657793a4ac1e5b3c6dc0e2d39b828_4098699271207302662.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "泡影看破！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/32e6d5eab5af1e405efd1daacb7e93b1_4452085209834467969.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "无念，断绝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a38cc0ed4b9f0e7a15e2c38780b9a632_3869592942747851500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "此刻，寂灭之时！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c2479386ed91e54bbaf5d94022df2b52_4149461801409339246.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "稻光，亦是永恒！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1f95891662afadc33fd680447b33bab3_1081004383973735425.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "收下吧，于我无用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0df67430b1db33c089eeff96492bdd62_1891090531433433560.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "…不过须臾之梦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6688f48505ddc1f5572890f4d0a5a86c_1810291532805748852.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "嗯？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cb19443fea350021e27f6cd7073a6fce_7099081116406029514.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "…枷锁当断。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bcb229a86e5889d402bdf5cf959a676e_8515001179567071069.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "…诸恶当斩。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/52de524bdf76272ac1af6fc811a6a746_1705968182343483526.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "…肃清阻碍。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/17f7bf0ef500c560cc7e6031b680352a_6843713786991767149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "至我后方待命。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/3dd967b65783cb86e12e3ebad17e736d_5736937238088929604.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "退下。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d64022487be2a9bcbe56539862b69e64_8709432801734525402.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "浮世一梦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fd1edc425056f0028187119df558874f_4379201859557622966.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "无念，无执…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/21b5300f7cee9f9360a3064737a3ef6e_1911006981782199348.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "雷鸣，将歇…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ee052b6e94f65aae5a8a05b0e51e431b_5177471245738082369.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "无礼…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cb72ac9c485229d1a49421db57e0485b_4902012737503145607.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "荒谬…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/36d39386ec05e2e03768b539096a2253_8084411427191360188.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "有什么事？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f59bafd3fa17b11722e6513a25361b80_7298497296623902159.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "随我左右即可。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/18aeb6be8804e7ab975175381e8699a4_3697729562777276565.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "出征之时已至。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/67a7d751a95fa3b88ac5a5707fc76cd1_4481828648351617381.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "无须行礼，此身虽然尊贵殊胜，不过此般前来，是想要做些微服游历民间的事。我看上了你的身手，现在你就是我的御侧保镖了。不用担心，遇到危险，我会出手的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/12874d5ea8d432864b154db8edd6bb6b_8390024535831058127.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·徒然",
+          "text": "徒然无事，对砚枯坐。哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6c3657210fd0825ca02309b29f579f02_2442922226407502084.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·浮世",
+          "text": "浮世景色百千年依旧，人之在世却如白露与泡影。虚无。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/485e83857bc69260815e6e33190fd6f2_8605784139807933916.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·花鸟余情",
+          "text": "无人相陪，此般花鸟余情，也不过衬托我身不移不变的背景罢了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/059cd6b4dd721dac6e8bfb6a9e6a8eee_1424965963514797249.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "只是雨滴有什么麻烦的。这还没有打雷呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7bc2432eb3c0ca01902992cc315e0cb6_3075128239241563556.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎呀，你不会怕了吧。明明此世最为殊胜最为恐怖的雷霆化身就站在你身边。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d39fc40dcf6e74ed0b5d43564a769666_465475471921480584.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "冬将军也来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a5558d04d244a1430ce0fa3df0f92110_8318942241153669293.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晴天的时候…",
+          "text": "天晴也并不能掩盖雷霆的威光。不下雨也可以降下神雷，看到那棵树了吗？你说你懂了，叫我停手。好吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/836149718e0bf49c1d73c95db5febd28_4044282835689757528.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "道完早安就打呵欠，太懈怠了。我这次就赦免你的无礼了。早安。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/79ba6c17e3ba6f2dcb8e38bcf651e504_18938630280683390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "啊，想吃甜点心。嗯，为什么不行？什么叫「哪有这个时间吃甜品的」。之前是因为他们看我是将军所以惯着我的？这样啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a23b5d57a1d9612e58dcbd9dd6be0a36_1944485964048452954.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "你想知道夜晚流星的真相吗？哈哈，真相就是缥缈须臾的一瞬天光罢了。嗯，你说其实是你？你也是天狗吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a65edf6573955a229d2b5fc1acd87849_3000355477761355647.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "我命十方世界雷鸣平息，愿你今晚得享安睡。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af1d05c484fba02c42c4124a2aeb4f36_2100426073604531085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军自己·须臾",
+          "text": "雷鸣闪电，一瞬即逝。正因如此，才会想要撷取「永恒」。不，才必须掌握「永恒」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7017b580699657d99718cae0e1649274_5907453214620435702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军自己·永恒",
+          "text": "「磨损」是一件很可怕的事情。此身诞生的意义，就是承受磨损。这样，或许「内在」就可以触及永恒了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d9b303695c8442cec9e34c8287346a53_7026784654545352197.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·奥诘众",
+          "text": "现在你是我的侧用人，换言之，依我判断，你是对幕府有用，对我忠诚的人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/28307ba3a593d2bdc90970c33936f5b4_7765430178158842951.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·用心棒",
+          "text": "虽然是微服出访的保镖，但是我遇到危险不用替我挡刀了。将军她构造还挺结实的，坏了还能替换呢。所以遇到危险把将军她推到前面就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3ebf9985cc9222e2f82dffdbc4c26e8e_3517329173411085373.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·直传",
+          "text": "稻妻的薙刀术和剑术以及锻刀技法，基本都是由我直接传下的，随后因人资质不同而分枝开花、各自结果。\n\n如何，再接我一刀？还能无事的话，许可你在稻妻开宗立派哦。啊，武艺的精进真是叫人欲罢不能。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/75c1f6b8aa2906e254ed7ed97bf2690d_7835859242247823862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "外面的世界居然已经这么久没有出现过雷元素的神之眼了吗？虽然我因为一些制约无法说明…赐予神之眼这件事，和我的意志无关。重要的，还是人的「渴望」，以及…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1514bad2f8460e5ba64e549025ac18a5_200305115547251156.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "有什么想要分享的？没有。倒是你，为什么没有神之眼却能使用元素之力。和我说说。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ff727732e30cc90f9fb3dd82b361798c_5890594135013846039.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "虽然身消梦陨，但是她化作了神樱。这，也是「永恒」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1842e55e2e1be333d84a285918d355d3_3572874578880537581.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "那家伙啊，最初她就是个会被油豆腐引诱的家伙。现在居然这么工于谋略了，让人欣慰。不过被她算计了，还是有些不愉快。虽说是为了我好，下次见到她恐怕会被她嘲笑的…那就先发制人，斩她一刀好了。反正她也能躲掉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6059102ceefb36a138efbd47fc52becf_3870330487169206270.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫人…",
+          "text": "神里一门，无愧于稻妻名门笔头之格。绫人虽然此前在三奉行事务中，耍了不少手段，但是本身忠心可鉴。既往不咎了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/00211d23a6624b8bc56935dc2fea951b_4572576717051978066.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "神里一门，无愧于稻妻名门笔头之格。欸，你说我和将军的评价一模一样。那，绫华她，她剑术也很好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e6dd276fec880e12be9f6c7f2ec1e11f_37635188657277605.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "忠义之士，武艺精湛，可担「豪杰」二字。有此麟儿，九条家应该还能兴盛下去吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9a855627033ca6dea189d0e5fef432a0_6100154757773931608.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于宵宫…",
+          "text": "是谁来着？啊，做烟火的。制造须臾幻象的人，沉醉于夏日幻觉的人，虽说如此，亦为我之臣民。\n\n嗯，在天领奉行属地里炸烟花？谁啊，她吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3fec6effee4ebf621def8a8f7ddcc73f_6166507339139559975.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于托马…",
+          "text": "虽然差点夺走他神之眼这件事，我也不能说是完全没有责任。但要说道歉的话，还是应该让将军她去比较好吧…好吧，我也会好好反省的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9de621374ed97a595acb9b3d2a8065fe_7098523480716894617.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海…",
+          "text": "奥罗巴斯确为此身所斩。但是我也许可了珊瑚宫之民，以海祇大御神之名继续祭祀，让它得享牲醴。现在珊瑚宫捣毁鸣神分社，反叛幕府。她作为海祇大御神的现人神巫女，必须要承担责任。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe66a0d9ee996f45ac4fec9e2e5b3972_1887760512458270202.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于国崩…",
+          "text": "那小子是制造将军的副产物。对他不加以管束，应该是因为我内心还是觉得对他有所亏欠吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fbe8f6f8cfbf5260901fc216b33950e5_5666527694867727858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "谁？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/89e43f8c77ef07bc1ed1cb626791a948_3234435116783390059.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于摩拉克斯…",
+          "text": "曾经与他共饮之时，我还只是一介影武者，敬陪众神末席。他做出了这样的选择是吗？不过，我想他在下一个时代，仍然会继续和更多的人相遇吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b8a3a54b40c52a1b1cd53d417c0a0c1d_147280017619333506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "风神的化身现在还叫这个名字吗？说实话，第一次见他就感觉他浑身透着和我一定相处不来的气质。然后就是，他的确很能喝酒。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bbc6b2db543a6c088bdeb5e1c7d4912d_3134677117293591423.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于布耶尔…",
+          "text": "我很欣赏她的谦逊，谦逊也的确是智者的美德。她的权能理应可以做到许多超乎想象的事，但布耶尔只是将它用在「纠正与守护」之上…真是个温柔的神明。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/8f8c4cb102fd2737c90a2a237d6e91b9_4041004240936145665.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "「雷电将军」曾与我在意识世界中进行数百年的决斗，以确定我的意志不曾动摇。而你所说的这位芙宁娜，虽是人类之躯，但五百年间的表演也无异于每时每刻都在进行精神上的「实战」。我认可她，此等意志，可谓已臻神境。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/17/16576950/71b036230aa616dcc08fc96558223d33_1034775288861218831.mp3",
+          "audioName": "33关于芙宁娜…_en.mp3"
+        },
+        {
+          "name": "关于赫布里穆…",
+          "text": "五百年前我抵达坎瑞亚之时，曾在战场上见过不亚于无想刃狭间的大片焦土，我听闻那就是火神的愤怒。时至今日，我竟然还有和这样一位人类见面的机会…可否为我引荐一番呢？作为「武人」，我想前往合适的空旷之地，与她交流一些心得。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/a21ebc8b05f18b9f7dcfb8deb2e1c345_5415893587018755296.mp3",
+          "audioName": "34关于赫布里穆…_en.mp3"
+        },
+        {
+          "name": "关于梦见月瑞希…",
+          "text": "梦见月瑞希是神子的旧识，不过，我有些看不明白她们两位的关系…既是彼此无可替代的友人，又不愿将感情置于台面。总是为某些计划相持不下，想要决出高低…鉴于这些计划的核心都是帮助民众享受生活，我便不多说什么了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/12/50494840/281bede40144a809392b4ca273491674_6376705204702374447.mp3",
+          "audioName": "英语.mp3"
+        },
+        {
+          "name": "想要了解雷电将军·其一",
+          "text": "有什么事情，说来便是。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a1ab47c30abb5b271027d8634d0d6a2c_3460178956797707332.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解雷电将军·其二",
+          "text": "民间都相信，雷雨天口念「桑原桑原」，便可以无恙。如是因我一念而起的雷暴，必不会加害于你。但是自然天气形成的雷雨就难说了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/97f7bc41862dd61ab57601dcc40b19fe_5203017458663626945.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解影·其三",
+          "text": "《珍说》一书所言大致都是真的。那时她正忙于周旋岛内之事，于是我作为影武者，假托她名出现在了平定海祇的军阵中。但是后面的剧情，就只是人们的一厢情愿罢了。我原本只是醉心剑技的武人，没有那种感化万民的德行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d166088081184946052aeee2b8ddcad6_7114407839120511961.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解影·其四",
+          "text": "追求「永恒」可能也只是一种逃避罢了。最后我采取的方法也和缩壳乌龟一样。不过乌龟本来就是长寿的象征，说不定追求永恒就是会变成这样的形态。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd5c7478efeb91a9299c5d369edb0c27_6129056991024860008.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解影·其五",
+          "text": "恐惧是因为我在五百年前目睹了她的消亡和「那个事物」。但，如果…如果是你的话，一定可以拯救所有人的。如果是你的话，一定会拯救世界的。就像是我记得稻妻的一切一样，只要你记得我，我就能永远地活着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a9fad6d121e04b7ad93ae94d66eaf480_1967809596846745057.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雷电将军的爱好…",
+          "text": "愚问。只有必须要做的事情，和一定不能做的事情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b4b26a871c324c00178a485caa0166b0_5895248066502005178.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "影的烦恼…",
+          "text": "你不要让我做饭啦。我什么都能办到，但是真的不会做饭。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f34970809be2e6e754674fcf7f7d3119_7988175984226068561.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "你别听将军她的。甜点心！蛀牙什么的，换一套就好了。这怎么会影响对永恒的追求呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/df3d97f5c21445c7083b80769c307826_5080920595955777088.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "愚问。只有维持身体营养必须吃的，和会损害身体的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8162ca0ab2a378de9fc3e40dfe606f59_7817673654859547376.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "熟悉的味道。不坏。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/6d92a2152faa7cefa7a48e9b4aa1cb10_5006014925086295535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "放在这里吧，我会尝的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/246bbed98fad94780141338487dd8c75_9026292810252649480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "会损害身体机能，拿走。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/b14bc70df5b193ce9bda03dfd0614c81_2228561875664400381.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其四",
+          "text": "好吃。心情也放松了不少，谢谢你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f6de8f004467775839b14fdb06c43412_2689232191245064121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其五",
+          "text": "看起来不错，是怎么做出来的？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/f6bd43161ce5007eab2eecfbb7d9ad1b_19255727614213779.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其六",
+          "text": "恕我谢绝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/b28f72b42795f34b63bc6cf08b280567_5209063826752673545.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生辰…",
+          "text": "今日是你的生辰之日吗？随我回城，我来对全体旗本众宣读祝词吧。嗯？「太丢人别这样。」…好吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/68d2be3355332d905d25ca99b5dc8e07_1988129758495647426.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！那今日就一起庆祝吧，使之成为可以铭记一年的美好瞬间。然后等到来年今日，便继续庆祝。如是便可得「永恒」的快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7e41061bfac4710167d9432dcb5d062f_3452011640257836029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我之流派里，「初传」之位，可以学习太刀的九向剑路之势，以及薙刀术的基本。与其他流派并无大差异。应该说，其他流派与我之流派并无差异。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c445c10036d7c98b5780153d804c474_8491621878484874808.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "我之流派里，「中传」之位，太刀术需要研习各种「构」位与变化，薙刀术则需熟练诸「切」与「返」之理。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9bfeedb8885f89c451098c6767adcc30_3725380732155923940.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "我之流派里，「皆传」之位，需要研习诸般奥义。无奈大部分都需要配合元素之力，对凡人来说可能有些太难了。世间其余流派大多都无法触及此境。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/632e909e8d7444e593d2eca3d42801af_5267804697966946267.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "奥义中的奥义，也就是「无想」又无双的一刀。有你作为陪练之宾，我好像能挥出更强更快的一剑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/594f0eff4663fab0986a2d078794a692_6049710615357252789.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "威光无赦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ebbd2637528dcbe7ee1f60b6fdb5b913_7755152368194676271.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "无处遁逃！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e8cc9f0d2a93efb0baf1584f4a74ec21_4526915632102959497.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "泡影看破！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4e744a8a86856cc7c7992691f5db7549_2264389946472663579.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "无念，断绝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ced5b0e6618eb16540548af6cb51f4ce_3367415625292353009.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "此刻，寂灭之时！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c1bbd9c22c93091c94f3695189789a64_7754682532634462357.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "稻光，亦是永恒！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eadd065afbf6c0da15b0f975220b7360_941863431750561019.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "收下吧，于我无用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e5801acb0b0057dd3fc86eccc35a0187_9016829007441508616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "…不过须臾之梦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/595d4b1c9fc88479a551beee3d4f6c4d_3967902015990351891.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "嗯？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/622c59827a83c33a9fe1e10ed61834fa_2485289045665264417.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "…枷锁当断。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb99823843c58af968db614980da7d65_5191304277964735951.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "…诸恶当斩。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d96e61a2b352b1dd1ee750c260fc3f04_5315884996573761729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "…肃清阻碍。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/667e0552e4d7067a2230a18ae4541bd8_9107458037391158455.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "至我后方待命。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c090645c902babd3221cd66100b4f025_8314144855808051648.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "退下。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/9eff366db48dc84d081dc59079bd7e2f_807025033825887365.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "浮世一梦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/55e0293098b45cc1de32b70055f65647_4874460560549045067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "无念，无执…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aecfd0954e20a7e2b3b7e630a92f0fe2_4670107065941901481.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "雷鸣，将歇…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f6370bf11b0c21e03fc2fac9c7606c9d_306218061532992429.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "无礼…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/460ecdb58ed40980ec8fe5b367cac516_7111898339443766973.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "荒谬…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e16f556665619ffe1163affcffa858d1_3158654061225285297.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "有什么事？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/43d482acb3af7a62bac38b6bf811f461_7205170291092621546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "随我左右即可。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/58ec5e6ff6627732bf2dd44c457821a3_1958158080717631559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "出征之时已至。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/92da54c03a67767f2f4dc9103da2eb27_9095399823502642679.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

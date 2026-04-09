@@ -1,0 +1,1829 @@
+{
+  "id": "2124",
+  "name": "宵宫",
+  "alias": [
+    "宵宫"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "元素战技·其一",
+          "text": "想看烟花吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/d2c2195ee87d7a1fad339a1f87a03e45_8178824702500184696.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "点燃引信！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/2e9e5607093b2cf193c5bf796a74c51b_9171647665724450144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "小心火烛~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/0435c564e6756b9e80a5fa608a4daf94_5552511483823067793.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "祭典重现！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6dc89ceb3001b28a1ac973d1d05b69b1_8142658663451603029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "金鱼来啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/667fb9e9305a7c3b3c2fe8cf0b0dcfd3_3897320981146817933.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "烟花来喽！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/998105882c4b0c8fec54c1c4d8984086_5256319966698224466.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "飞高高啦——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/61655cf2a0f2b32a3cbb5fe4209cf5ba_6937201953922600263.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "会有烟花材料吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/41d484c9e07c4ef4dc549521782e8602_676716050877680676.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "里面有什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/1dce6d5689cad22e093a8036d1237752_4128266177891708712.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我来开我来开！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/a3603c9fd9f0963a03998e27c21b1eb7_2026155285358107486.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不妙不妙！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b9458f9c0fdea0c1e16924207480becc_461859920375961192.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "出丑了啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6c949e32fc9aabebd4810a333b7bca15_2520594014294445496.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "得小心起来了啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/dee90c6809994d9b2793d5673e10faa2_3537882470407061490.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "换我来支援你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/0bdb713d4e13354fabeabb36b95fc668_6060491078417699183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "别担心，有我在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/9af8b9bf594a77c9e6814cdf062ec199_5551441627929002378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "一不小心就…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/03cc06df1174afb07ba072ea6ddd1dc6_2981821070173518201.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "玩过头了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/3a8be108394a1073039ce96a372e33ac_517117353048284209.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "祭典…结束了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b1c9204904395d05e55d3653264038f1_2785571583492577003.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "轻点啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/be5d06ea55ddb911edf83c2c6b71c7be_6147447067590316199.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这下不算！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f96a1974463723dda5e7897f6e4f8c0a_1102285713118189010.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "你想办祭典吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/821175568c59fc6da52d531dd54b9de0_608875862709985157.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "一起去玩吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/aeb969577ed4605e8b16976fb04fca16_743124263812873394.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "同行的伙伴增加了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/4a8ed8e672aaa46e832ae4c009ecd946_6185616812266267203.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "初次见面…",
+          "text": "欢迎光临「长野原」！我叫宵宫，有什么需要的都可以告诉我！\n\n呃…「什锦炸串」和「鸟蛋烧」…不不不，我们家不是饭店啦，是做烟花的！嗯，就是这个，闪闪亮亮，啪啦啪啦的，小烟花~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b4ba36c28e888c5b8356ae01827cdb1b_1665298115817121332.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·烟花",
+          "text": "烟花易逝，人情长存。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/eee9aad4b1c3b52cd07f81279bd2ebb1_7854099923907938466.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·讲故事",
+          "text": "没事做的话，我来给你讲故事吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/0d0bea14f084c9d46c4bfed2ca324ccc_7380240031972198897.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·金鱼",
+          "text": "你养过金鱼吗？很乖巧很可爱哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/ade2871af448b29a3eff33ecbd0b730f_2292275476608447509.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "呜哇，烟花要湿透了！得找地方躲躲，啊，要来不及了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b089e19b18a4391ee88fdff969ce4369_9017160239735103400.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "哈哈，看我搓个雪球，咻——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/8dcf1355552b7e82c67788ca6789de15_3122208110393216366.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "全身上下都暖暖的，好舒服啊。嗯，感觉要飘起来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/5b67518b1eaf13b7a67149063bff3fb9_7791554831949243696.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风好大啊——声音都被吹回来啦——！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/5401990e70613d2427376107fb6be0a5_1737029069216521164.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "啊——早上好啊，早上的空气最新鲜啦，多吸两口就会变聪明哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/31ccc5a2f29108b1661cbed61bd2ff1b_6722310903946133759.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "嗯，该吃午饭啦，欸…今天的鸡蛋，是双黄蛋呢。嘿嘿，运气真好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c4b4f15b3ed6b8dae13f259d8b524c5f_7061628402143504781.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "现在是最适合测试烟花效果的时间，无论是在天上还是地上炸开都会很好看。嘿嘿，开玩笑的，我会注意安全啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c009db5164d159dd1be44e2f10fa9406_6800817766388659409.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "提问时间——！请问，当看完一整天的烟花之后，接下来要做什么？嘿嘿，答案揭晓：当然是去梦里看烟花啦！晚安，明天见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/5e227efe46bac14734625773f8f8f7eb_6312873170390395842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于宵宫自己·家事",
+          "text": "我的老爹耳朵不太好，小时候我无论对他说什么，他都是一副笑呵呵的样子，我就以为我说的都是对的，所以就一直说，一直说，他就一直笑。后来我才知道他笑是因为他听不清楚，但…只要他真的很开心，那我还是会一直说给他听。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/4ce448b974401911a7b48943701295e0_1620080771287297692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于宵宫自己·说话",
+          "text": "我不担心什么「祸从口出」，因为蕴含在语言中的情感是不会骗人的。就算说错话被误会，用更多的话去化解就好，但如果什么都不说，对方就没办法了解你的心意，也就没有和你拉近关系的契机了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/75e3a35c3a77a7e7c9e8f49280a931f3_4346479710331057908.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·猜拳",
+          "text": "我们来玩石头剪刀布吧！听我口令：石头，剪刀，布！好欸，我赢了！我赢了！嗯？我没变啊，才不会变呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/24845034052deed2f3ababf454611afe_2885120169952831607.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·陪伴",
+          "text": "其实我不在意我要做什么事，我更在意的是和我一起做事的人。比如和你在一起，就算只是看看风景，踢踢罐子，我都很开心。因为，跟你说话怎么都说不腻嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c0c6950dd18fcda8b1453c3595781073_4327004841846143292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "悄悄告诉你一件事哦，我刚刚拿到「神之眼」的时候，我是把它当打火石来用的。我用它点过烟花烧过水，回家就把它往库房一扔不管了。结果，还是我老爹发现，告诉我这是个特别珍贵的东西，要好好保管。哈哈…幸好没有被神明大人收回去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/269f22df95bc27d6af118e30737e343c_1943549776568100759.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·海灯节",
+          "text": "你知道吗？璃月的海灯节，有很多烟花都是从我们家订购的。我按照要求做好，再找北斗阿姊用船送去璃月。虽然按锁国令的规矩，我不该把这些东西往外送，但…有节日的地方，烟花一定不能缺席。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/93eef92597648a0bd7b30caef4b4e38a_3088681964330050006.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·循环",
+          "text": "「烟花在天空中留下的光点消失之后，会变成雨，会变成雪，重新落到地上。它们滋润了大地，抚育了人类，为的是再一次被送上天空，重现华丽的瞬间。」在老爹讲的很多很多故事里，这是我很喜欢的一个。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/0ea319a961c4df8273006bdd700f2b14_1415251712837495627.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·光斑",
+          "text": "你小时候踩过地上的光斑吗？就是阳光很好的时候，光线穿过树叶在地上留下的那种光斑。本来以为踩了就会消失，结果它总是会跳到脚背上，我就一直踩，一直踩，试了好久也没成功。那时候挺不甘心的，坐在小石头上叹气，「唉，这个世界上居然有踩不到的东西啊…」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/33aa3fbd4610c56643cee2e55bd6a304_6908214009386658531.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有一次夏日祭，我蹲在孩子们旁边看他们捞金鱼的时候，我突然想，有没有可能做出一种能在水上放的烟花呢？然后，「金鱼烟花」就诞生了！能在水面上游来游去，能发出七彩的光，还能吐泡泡呢，很不可思议吧！…我也没想到我真的能成功，但这个世界上就是有很多很多不可思议的事呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b2b42d2ceaff70f7c91c122dac2a1f3d_4534982388328642828.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "稻妻锁国之后，都是北斗阿姊帮我运烟花出去，为了给她一个惊喜，我准备了一个巨大的船型烟花。在「南十字船队」准备离开的时候，这烟花就在他们眼前冲了出去，直飞天空。船员们都以为是船队的船飞出去了，吓了一大跳，但北斗阿姊特别喜欢这个创意。她告诉我，惊喜惊喜，就是要又惊又喜，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c3bb5f7e27d7fbc2f271463dc1031ab3_6762535149427178511.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "烟花是和将军追求的「永恒」距离最远的东西，她可能觉得须臾的华光对于稻妻来说没有实际意义。唉，这就是执掌「永恒」的人难以理解的东西吧，正是因为我们都是「须臾之人」，才更需要纪念须臾的美好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/ce62b6d4664b2ac779454a32a49ce310_6076480492238209315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华·认真",
+          "text": "因为工作关系，她和我家有很多合作。和其他两个奉行的人不同，她每次都会听我把话说完，还会很认真地回答我，完全不会有不耐烦的样子。嗯，「大家闺秀」这个词，就是为她而生的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/8577d0f3134870dffb6edfd348aa093d_3917142130425275108.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华·泡澡",
+          "text": "有一次谈夏日祭的事谈到很晚，我们都很累了，我就邀请她去泡澡解乏。但她听说「泡澡」是很多人泡在同一个池子里的时候，脸一下子就红了，那时候我才意识到，大小姐是不能使用公共浴场的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c37ee507b24a68be04224e69ee9b1555_8696844622748946119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于托马…",
+          "text": "他是个很擅长说话的人，话从他的嘴里说出来，就一定会有他的想法。虽然看似没什么联系，但绕着绕着，最后都巧妙地指向了同一个目的。嗯…总之就是和我的风格完全不一样啦，遇到我搞不定的事，我就会请他出马。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/d2ed31bd3f2f9c37bfa1d9033999faa7_2822428270771110570.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "有次神社祭典，绫华问我能不能为宫司大人准备玩乐用的烟花。可是…宫司大人不是要出席祭典，全程坐在神社里吗？然后我祭典的时候就一直看着她，想知道她要怎么放烟花。我等啊等，等啊等，结果等来了绫华，说宫司大人特别满意…欸？她已经放过了？难道，坐在里面的不是她？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/72a5b3af9f35bb53ccb53cacc8fdad7a_6398958604158372500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗·对决",
+          "text": "哦，他呀。别看他长得那么凶，他很受小孩子欢迎的。不过他的胜负心很强，每次我们一起陪孩子们玩，最后都会变成我和他一决胜负，比如一口气喝完拉面汤，面无表情吃酸梅什么的，孩子们会猜我们谁会赢，还会在旁边加油助威，哎呀，那我可不能输了，对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/7231706c38d402f519f7194c508cc611_6618471780043570133.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗·帮派",
+          "text": "「荒泷派」？欸？！原来他不是无所事事的人呐？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/a28f1e0818bbdb741cebe5c6c54771fe_2521866412482383303.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶…",
+          "text": "像我这样没有心事的人，就喜欢有话直说。而有心事的人，往往都喜欢说古代的诗歌或者沿途的风景，比如花与鸟，风与月，唯独不提眼前的现实。他也是有故事的人吧。嗯，我懂的，我懂的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6ef40556ed95209404b87fea8d0d162c_3361131901590497099.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "因为治安和消防问题，我经常被抓去天领奉行的属地接受教育。在那帮人里，九条裟罗应该是最讲道理的一个了，至少她不会在了解情况之前就预设我的对错。如果我是正确的，她也会认同我的观点，如果我错了…嘿嘿，那就去拜托托马帮我赔礼道歉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f2cb713e4cafe947a14b3fe7f788a78b_3260667400624862689.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于早柚…",
+          "text": "如果你见到她，记得告诉我哦？我很想带她去参加祭典，给她介绍很多很多新朋友。因为我看她平时精神不是太好，如果认识一些能玩在一起的人，她应该就会慢慢活泼起来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/de555f1a465b0dda040d90b72b0d8455_2526160713533143808.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "嗯？你说在蒙德有个擅长制作炸弹的小孩子？唔，炸弹和烟花其实相差不大，也就是说，她是这方面的天才？真想见上一面呐。欸，但是…让小孩子玩炸弹很危险吧？蒙德人不会担心吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/bfb060403affb301b757c0debb915701_8895491734264985839.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "你说「狛荷屋」的那位快递员呀，她手脚可麻利啦。做烟花的时候，时常有一两种决定颜色的材料消耗得比别的都快，这种时候，她总能很快补来新货，帮了大忙。有次我送了她一个烟花，想要表达感谢。她却怎么也不敢放，说是之前被烟花的动静吓到过。哈哈，那就只好让她跑到远远的地方，我来放给她看喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/cb26d3e10a61889c8d0e4676226e355f_6643903198321025773.mp3",
+          "audioName": "关于绮良良…cn.mp3"
+        },
+        {
+          "name": "想要了解宵宫·其一",
+          "text": "要听我讲故事啊？好呀好呀，这边坐，我给你讲讲最让我自豪的、「长野原」家的故事吧！是难得的正经话题哟。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/43537357b1541dcc5ba65be5eca9d9d7_8742509146158686100.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其二",
+          "text": "我们家有项悠久的传统，那就是我们会给每一位来定做烟花的客人附赠一张纸条，这张纸条只有我们家的人能看懂，上面记录了烟花的具体配方。不管是过去了十年还是一百年，只要客人能把这张纸条带回来，我们家就能做出和当年完全相同的烟花。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6248f8a12f51144d88657d3af1c8d195_2978397390743242127.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其三",
+          "text": "最美的烟花配最棒的瞬间。那些易逝的小心情就这么被封装在烟花里，以另一种形式传承下去。纸条就像一把钥匙，等待想要纪念过去的人来开门。那么，「长野原」烟花匠人的工作，就是帮大家把门看好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b171aa0b980cb9dc42bf2526c78af958_5215691391294967153.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其四",
+          "text": "夏日祭上每时每刻都在诞生动人的故事，在烟花下相识相知的人们慢慢成长，成熟，最终老去。当他们放起如初的烟花，天空中倒映出的依然是他们如初的模样…烟花不是永恒的，但藏在烟花背后的美妙情感，我觉得应该和稻妻一起走向永恒。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/7433a971b956fb67f37911a8af80a865_3295641835448653493.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其五",
+          "text": "最后的故事，就不由我来讲了吧，我很想和你静静看一场烟花，把今夜的美景，还有你想说的话全部记录下来。啊，不要误会，不是到此为止的意思，而是关于我们的「故事」，从此才要开始。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/3c1908fb0dca31f29283d636230ccd81_1723403952325374827.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "宵宫的爱好·玩耍",
+          "text": "烟花！啊，这个不算吗？那我想想，唔…这个问题好难啊，我喜欢和邻居聊家常，也喜欢和小孩子一起逛夏日祭、游泳、摘野果，好像没办法挑一个特殊的出来…哦，我懂了！我喜欢的，应该就是和大家一起玩吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/271cbf732e62322d71dd00118e819e08_8718236849740572639.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "宵宫的爱好·模仿",
+          "text": "咕噜咕噜咕噜，嘿！哈哈，我在学派蒙消失的动作。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/38a0ff74fa722d33bf2b8cde7ed327b6_7434678878762878386.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "宵宫的烦恼…",
+          "text": "嗯，我追读了好长时间的小说，终于迎来了大结局，结果女主角失忆了，说好的婚礼也没办成…好难过，怎么这样！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/72b149cd17c66fce25f285710421bf14_4417878033655094151.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "比起主食，我更喜欢吃点心，每次祭典的时候我都会一家一家吃过去，直到吃不下为止。对了，你擅长做点心吗？我拿我做的团子和你换，这几个大的都给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/9a08c1967f7a7c10b2f15ac6056bc70a_2017723841130970315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "牛奶。喝了牛奶的话肚子里面就像开烟花会一样，噼里啪啦的。但加了牛奶的菜或者点心我可以吃，我也不知道为什么。可能是肚子里的小仙灵比较挑食？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/870e3534fd84f132257d3365d93470c4_4962103970276144407.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇，你做点心的手艺很不一般啊！去祭典上摆摊的话，肯定会成为最热门的那一个吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/15dad8e616338af0e5a2ae31a315f1e8_6633759758111809584.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "吃到了好吃的东西，人就会变得很有精神。一有精神，就想开始讲故事。嗯，我来挑个故事吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d2e57a3c8450003f8df0c83309285548_1346524411556153456.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "哎呀，肚子里面好像有飘浮灵在上下闹腾…这不应该呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a6c146034dddc776a4de8a137e18e15c_6238850836766081918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日从来都不是你一个人的节日哦，愿意为你送蛋糕，点蜡烛，鼓掌欢呼的人，都发自真心地感谢你能够降生在这个世界上。所以，一定要热热闹闹的才好，让所有人都有感谢你的机会！那么，生日快乐！准备好了吗？我要放烟花了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/a482a17aa5cf272fda5d7117122024cb_2473280094171552885.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "飞得更高，炸得更响！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/384459716674c0a54a0643822a84997a_5308253347318843547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "哈哈，我来试试看，直接用弓箭把烟花送上天空吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/4c1e92ce1fbd9c2d64eda76e1ec37bbc_3938575096030803121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "难得从你这里学到了这么多战斗技巧，干脆除了烟花工匠之外，我再去兼职当冒险家好了，或者…「英雄」也不错？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c9a8593317cf3e7bbc90e0fc6a05f03b_1352083824453624352.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "「『英雄形态』的宵宫姐姐登场！邪恶退散！正义必胜！」\n\n就这么和小孩子们介绍你教给我的新力量，没问题吧？应该很帅吧。嘿嘿，如果有人欺负你也要告诉我哦，宵宫姐姐帮你出头！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/d19dfb91a9c598a39e3e0ac2474e242b_4681399273706202904.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "元素战技·其一",
+          "text": "想看烟花吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/7e995116f17ef02d0c863136f797f27a_1354183887119371624.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "点燃引信！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f3b026896edc20ffdcb85acdf20fda74_8741217979741264055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "小心火烛~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/aa4c6f5696fbbd974701cb6b00f1b6d6_8705510665298350371.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "祭典重现！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c014d4415b52a3c00c507eb8065ac7e9_3032539247791109897.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "金鱼来啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/41d310ac062968e8d58970931bd317f2_7612483014725783057.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "烟花来喽！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f44f49687ec174de7989f0c922898884_371942182346270506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "飞高高啦——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/d68084490cc6e47e20650f1e841b8c21_7133345233997501736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "会有烟花材料吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/86332b567b3233f476530ae5ea244596_6001317887446102507.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "里面有什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/70111d7cfa33d3231c96754339dc1966_4937556907090395366.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我来开我来开！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/769a74b80b2c9142fe90a36ccb0c3138_4572767677679280619.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不妙不妙！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/bc346d691e30106e8b3904a862105154_4656481889335931810.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "出丑了啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6a73a34887865fc634ec74447604a78f_7423827823195941956.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "得小心起来了啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/865627eed4b865fe8168917c5ef343f9_6163270608885433439.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "换我来支援你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/eb44d3f4dbca49b0328ba6af5b92d5bd_8176898417211301859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "别担心，有我在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1a891410dd40c55fb3fd158c1a3260ff_3407418394204947586.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "一不小心就…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f22f638eae8ba95e2fd4a7b7f7ec7db9_7434563524245636676.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "玩过头了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/8ed1a223288f64d6107372567dce96f0_3567717851044702012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "祭典…结束了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/7aae18e9278660980779c28ae93fa88c_515634538841592901.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "轻点啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/3c3d8f66f92c7c71981cdfaa29b06b3d_3635997405194076754.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这下不算！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/4873cfb9fa764b1e58fb28e577a3eb1f_8554402893193712509.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "你想办祭典吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/605dbd2a4065029a71124ae5d11dd772_8099872984883092562.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "一起去玩吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/45f155b2260891331dea3aae60081fa0_5321337286909652623.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "同行的伙伴增加了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/770c80ffc88b2880bb0baf061385f629_4937054351411703730.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "初次见面…",
+          "text": "欢迎光临「长野原」！我叫宵宫，有什么需要的都可以告诉我！\n\n呃…「什锦炸串」和「鸟蛋烧」…不不不，我们家不是饭店啦，是做烟花的！嗯，就是这个，闪闪亮亮，啪啦啪啦的，小烟花~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c08e131493c46c01192d471394f4b91f_1860119772571109426.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·烟花",
+          "text": "烟花易逝，人情长存。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/d7975000e8237c0a5ca5e62d5a734a4c_8535201027973335015.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·讲故事",
+          "text": "没事做的话，我来给你讲故事吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/240b9cf5eab085816c5bb7880cfa3531_4902339195463736496.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·金鱼",
+          "text": "你养过金鱼吗？很乖巧很可爱哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c0f0d8993659dd6dbe6b32962cdd6d43_2710637284432090337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "呜哇，烟花要湿透了！得找地方躲躲，啊，要来不及了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/096c05d634f3115199cf72bc9bd9a7eb_5021398738277821219.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "哈哈，看我搓个雪球，咻——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/7331fc4809b32d1ef496d0d856d8c7c8_638876125562136967.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "全身上下都暖暖的，好舒服啊。嗯，感觉要飘起来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/2e410f65233ddc63529ff0e6a3c04ef7_1191695056782421721.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风好大啊——声音都被吹回来啦——！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/ea8572833085201c9019838b2709eda9_7396011208158688117.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "啊——早上好啊，早上的空气最新鲜啦，多吸两口就会变聪明哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/e044514a0b8ca662312e6235cbbb4ac8_301221468618751350.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "嗯，该吃午饭啦，欸…今天的鸡蛋，是双黄蛋呢。嘿嘿，运气真好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/92086bc789b6bb50c8831029ddbbf338_5587768045686473610.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "现在是最适合测试烟花效果的时间，无论是在天上还是地上炸开都会很好看。嘿嘿，开玩笑的，我会注意安全啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/71d832d03855311f7bbe72bf2c6fbc87_8060554524897466953.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "提问时间——！请问，当看完一整天的烟花之后，接下来要做什么？嘿嘿，答案揭晓：当然是去梦里看烟花啦！晚安，明天见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b5d23da49fa477e71da795b7118dafa9_4845026423050521508.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于宵宫自己·家事",
+          "text": "我的老爹耳朵不太好，小时候我无论对他说什么，他都是一副笑呵呵的样子，我就以为我说的都是对的，所以就一直说，一直说，他就一直笑。后来我才知道他笑是因为他听不清楚，但…只要他真的很开心，那我还是会一直说给他听。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/5a6ce9e2a3c6f49483ef36ecaff8b8a8_914856429137246397.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于宵宫自己·说话",
+          "text": "我不担心什么「祸从口出」，因为蕴含在语言中的情感是不会骗人的。就算说错话被误会，用更多的话去化解就好，但如果什么都不说，对方就没办法了解你的心意，也就没有和你拉近关系的契机了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/e6fa220cff5da2faf1190e7b9386352d_7903882704291662197.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·猜拳",
+          "text": "我们来玩石头剪刀布吧！听我口令：石头，剪刀，布！好欸，我赢了！我赢了！嗯？我没变啊，才不会变呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f6315e393b71afeda3d83557a98ed3cd_5887102129648030561.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·陪伴",
+          "text": "其实我不在意我要做什么事，我更在意的是和我一起做事的人。比如和你在一起，就算只是看看风景，踢踢罐子，我都很开心。因为，跟你说话怎么都说不腻嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f63aaf9f5a70f71e960c507252c5f4ea_5047028590782032761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "悄悄告诉你一件事哦，我刚刚拿到「神之眼」的时候，我是把它当打火石来用的。我用它点过烟花烧过水，回家就把它往库房一扔不管了。结果，还是我老爹发现，告诉我这是个特别珍贵的东西，要好好保管。哈哈…幸好没有被神明大人收回去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/154deff809d2c7a6129f408dd46031ed_6700535398729118821.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·海灯节",
+          "text": "你知道吗？璃月的海灯节，有很多烟花都是从我们家订购的。我按照要求做好，再找北斗阿姊用船送去璃月。虽然按锁国令的规矩，我不该把这些东西往外送，但…有节日的地方，烟花一定不能缺席。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/d55eb0b4030cf55fbb9e9e4cafcd3bfc_7882396613171823073.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·循环",
+          "text": "「烟花在天空中留下的光点消失之后，会变成雨，会变成雪，重新落到地上。它们滋润了大地，抚育了人类，为的是再一次被送上天空，重现华丽的瞬间。」在老爹讲的很多很多故事里，这是我很喜欢的一个。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/9c34402cbc9ac9edd737a5bc7ceefae2_6300563710363549067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·光斑",
+          "text": "你小时候踩过地上的光斑吗？就是阳光很好的时候，光线穿过树叶在地上留下的那种光斑。本来以为踩了就会消失，结果它总是会跳到脚背上，我就一直踩，一直踩，试了好久也没成功。那时候挺不甘心的，坐在小石头上叹气，「唉，这个世界上居然有踩不到的东西啊…」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/3ebbebb8ec6e17f123ca840886e70bd8_2576500134484010708.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有一次夏日祭，我蹲在孩子们旁边看他们捞金鱼的时候，我突然想，有没有可能做出一种能在水上放的烟花呢？然后，「金鱼烟花」就诞生了！能在水面上游来游去，能发出七彩的光，还能吐泡泡呢，很不可思议吧！…我也没想到我真的能成功，但这个世界上就是有很多很多不可思议的事呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/2f80dfed6bcf7389af8dfbb101b910ff_7887393511327115474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "稻妻锁国之后，都是北斗阿姊帮我运烟花出去，为了给她一个惊喜，我准备了一个巨大的船型烟花。在「南十字船队」准备离开的时候，这烟花就在他们眼前冲了出去，直飞天空。船员们都以为是船队的船飞出去了，吓了一大跳，但北斗阿姊特别喜欢这个创意。她告诉我，惊喜惊喜，就是要又惊又喜，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6ae65e0d18e7417cfe401a56a01d236f_3410095763288416766.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "烟花是和将军追求的「永恒」距离最远的东西，她可能觉得须臾的华光对于稻妻来说没有实际意义。唉，这就是执掌「永恒」的人难以理解的东西吧，正是因为我们都是「须臾之人」，才更需要纪念须臾的美好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/88fb2c8ccad3075b705a173abcfc51f7_790955398725623089.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华·认真",
+          "text": "因为工作关系，她和我家有很多合作。和其他两个奉行的人不同，她每次都会听我把话说完，还会很认真地回答我，完全不会有不耐烦的样子。嗯，「大家闺秀」这个词，就是为她而生的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/a941e099ef74f345e750990e388adf13_5323737499526231739.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华·泡澡",
+          "text": "有一次谈夏日祭的事谈到很晚，我们都很累了，我就邀请她去泡澡解乏。但她听说「泡澡」是很多人泡在同一个池子里的时候，脸一下子就红了，那时候我才意识到，大小姐是不能使用公共浴场的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/82e8641c04e6c445e57265e36b96c802_7313671925959338137.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于托马…",
+          "text": "他是个很擅长说话的人，话从他的嘴里说出来，就一定会有他的想法。虽然看似没什么联系，但绕着绕着，最后都巧妙地指向了同一个目的。嗯…总之就是和我的风格完全不一样啦，遇到我搞不定的事，我就会请他出马。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/7952807640080f5c2b7ce33fc7fc9b50_5398649666343892385.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "有次神社祭典，绫华问我能不能为宫司大人准备玩乐用的烟花。可是…宫司大人不是要出席祭典，全程坐在神社里吗？然后我祭典的时候就一直看着她，想知道她要怎么放烟花。我等啊等，等啊等，结果等来了绫华，说宫司大人特别满意…欸？她已经放过了？难道，坐在里面的不是她？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/637ed2e37262d018040b478393bcec02_7475239266091010610.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗·对决",
+          "text": "哦，他呀。别看他长得那么凶，他很受小孩子欢迎的。不过他的胜负心很强，每次我们一起陪孩子们玩，最后都会变成我和他一决胜负，比如一口气喝完拉面汤，面无表情吃酸梅什么的，孩子们会猜我们谁会赢，还会在旁边加油助威，哎呀，那我可不能输了，对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6b3c34566ffc0832247805416233e85d_2118819419364093007.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗·帮派",
+          "text": "「荒泷派」？欸？！原来他不是无所事事的人呐？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/5bd8ed5801f43bad26d429bbd4cded3b_977677063789308502.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶…",
+          "text": "像我这样没有心事的人，就喜欢有话直说。而有心事的人，往往都喜欢说古代的诗歌或者沿途的风景，比如花与鸟，风与月，唯独不提眼前的现实。他也是有故事的人吧。嗯，我懂的，我懂的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/ebe5aee30b636f1708b66131c34d9b71_6719893295077682259.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "因为治安和消防问题，我经常被抓去天领奉行的属地接受教育。在那帮人里，九条裟罗应该是最讲道理的一个了，至少她不会在了解情况之前就预设我的对错。如果我是正确的，她也会认同我的观点，如果我错了…嘿嘿，那就去拜托托马帮我赔礼道歉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/2a796bf1c31590cfbf8fd5420c1df08a_2385480507992548125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于早柚…",
+          "text": "如果你见到她，记得告诉我哦？我很想带她去参加祭典，给她介绍很多很多新朋友。因为我看她平时精神不是太好，如果认识一些能玩在一起的人，她应该就会慢慢活泼起来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/06adc928426cc2ee8fac687bca00621b_3386684958383810561.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "嗯？你说在蒙德有个擅长制作炸弹的小孩子？唔，炸弹和烟花其实相差不大，也就是说，她是这方面的天才？真想见上一面呐。欸，但是…让小孩子玩炸弹很危险吧？蒙德人不会担心吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/3c5d5c694b7b95358f5e2fb97f1fd243_2810973590482505026.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "你说「狛荷屋」的那位快递员呀，她手脚可麻利啦。做烟花的时候，时常有一两种决定颜色的材料消耗得比别的都快，这种时候，她总能很快补来新货，帮了大忙。有次我送了她一个烟花，想要表达感谢。她却怎么也不敢放，说是之前被烟花的动静吓到过。哈哈，那就只好让她跑到远远的地方，我来放给她看喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/030e5d3b1518f96fc38bf9d7557b8643_4124912371179005129.mp3",
+          "audioName": "关于绮良良…jp.mp3"
+        },
+        {
+          "name": "想要了解宵宫·其一",
+          "text": "要听我讲故事啊？好呀好呀，这边坐，我给你讲讲最让我自豪的、「长野原」家的故事吧！是难得的正经话题哟。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/64ad840bbe32912161af65eb7ce69a67_2896627430783627759.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其二",
+          "text": "我们家有项悠久的传统，那就是我们会给每一位来定做烟花的客人附赠一张纸条，这张纸条只有我们家的人能看懂，上面记录了烟花的具体配方。不管是过去了十年还是一百年，只要客人能把这张纸条带回来，我们家就能做出和当年完全相同的烟花。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/d9498010980458ab2860a99ff7589b16_6181141432631238097.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其三",
+          "text": "最美的烟花配最棒的瞬间。那些易逝的小心情就这么被封装在烟花里，以另一种形式传承下去。纸条就像一把钥匙，等待想要纪念过去的人来开门。那么，「长野原」烟花匠人的工作，就是帮大家把门看好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/bababea89853c67bebb90fcc6764d0c9_7666982368405183752.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其四",
+          "text": "夏日祭上每时每刻都在诞生动人的故事，在烟花下相识相知的人们慢慢成长，成熟，最终老去。当他们放起如初的烟花，天空中倒映出的依然是他们如初的模样…烟花不是永恒的，但藏在烟花背后的美妙情感，我觉得应该和稻妻一起走向永恒。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/8c37862bd51881b52f7b7899496dd81b_6100960837358290395.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其五",
+          "text": "最后的故事，就不由我来讲了吧，我很想和你静静看一场烟花，把今夜的美景，还有你想说的话全部记录下来。啊，不要误会，不是到此为止的意思，而是关于我们的「故事」，从此才要开始。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c140069d32cfdfa47b10def9f069f348_1331032315164490131.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "宵宫的爱好·玩耍",
+          "text": "烟花！啊，这个不算吗？那我想想，唔…这个问题好难啊，我喜欢和邻居聊家常，也喜欢和小孩子一起逛夏日祭、游泳、摘野果，好像没办法挑一个特殊的出来…哦，我懂了！我喜欢的，应该就是和大家一起玩吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/95faa3dec14b512dee8866a3a6f28311_2545367996419014828.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "宵宫的爱好·模仿",
+          "text": "咕噜咕噜咕噜，嘿！哈哈，我在学派蒙消失的动作。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/93274c6dd371e9df34ebaf1d95a9f113_5282598555211103765.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "宵宫的烦恼…",
+          "text": "嗯，我追读了好长时间的小说，终于迎来了大结局，结果女主角失忆了，说好的婚礼也没办成…好难过，怎么这样！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f4856b8736bef89c5c7ce8ac406fa33f_548648478525642438.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "比起主食，我更喜欢吃点心，每次祭典的时候我都会一家一家吃过去，直到吃不下为止。对了，你擅长做点心吗？我拿我做的团子和你换，这几个大的都给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/503e021fa022c5adebab6f20cafc7a1d_9081379636462409307.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "牛奶。喝了牛奶的话肚子里面就像开烟花会一样，噼里啪啦的。但加了牛奶的菜或者点心我可以吃，我也不知道为什么。可能是肚子里的小仙灵比较挑食？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/0398b92c4be5e36936fe8afa2a2e368c_4054179643409164464.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇，你做点心的手艺很不一般啊！去祭典上摆摊的话，肯定会成为最热门的那一个吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/be9d00f27b3a1f7515c199d527d11392_155796936295341573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "吃到了好吃的东西，人就会变得很有精神。一有精神，就想开始讲故事。嗯，我来挑个故事吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e2e8e28b09bef0d8412429b55d77f031_1267245481468152890.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "哎呀，肚子里面好像有飘浮灵在上下闹腾…这不应该呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a882f96abc8a4f8675bcee3d757d24a4_954205183342055085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日从来都不是你一个人的节日哦，愿意为你送蛋糕，点蜡烛，鼓掌欢呼的人，都发自真心地感谢你能够降生在这个世界上。所以，一定要热热闹闹的才好，让所有人都有感谢你的机会！那么，生日快乐！准备好了吗？我要放烟花了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/31a9b60ed77adea89295d88728a372ad_8417740205812915246.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "飞得更高，炸得更响！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/4b9383e0e4fd497f723cfc3ba3430cf8_1761765048296860263.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "哈哈，我来试试看，直接用弓箭把烟花送上天空吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/94c11b9eb043761652a5b456de2c5670_7755135186465430575.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "难得从你这里学到了这么多战斗技巧，干脆除了烟花工匠之外，我再去兼职当冒险家好了，或者…「英雄」也不错？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/a36116b92144dbaf73a44ac789a87d99_4215248642205659121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "「『英雄形态』的宵宫姐姐登场！邪恶退散！正义必胜！」\n\n就这么和小孩子们介绍你教给我的新力量，没问题吧？应该很帅吧。嘿嘿，如果有人欺负你也要告诉我哦，宵宫姐姐帮你出头！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/06/183046623/92a5132162dc2a8046130e0792487767_6313191630525269144.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "元素战技·其一",
+          "text": "想看烟花吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c321fa6d2552a93758f4186f55ec76f6_7976519010785433376.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "点燃引信！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/a439ba53bd4344e8578ef73eb9414724_7583737543208105862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "小心火烛~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6f67f7268697e3459f7fd6bdb5df2e2c_4867033722533135549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "祭典重现！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/19/4521515/43641839275967800b385c69b68089a8_7566175826075996882.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "金鱼来啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/dac9d29c7d2e343e1c1a39ebda25d1ad_5781942469184766819.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "烟花来喽！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/bd30290da2e0e817ea3713cde16a1640_4990003286832325292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "飞高高啦——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/e2c2069081baba3445981c506025df3e_8764181537139384307.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "会有烟花材料吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/7924dd07df7a548e8a184dc6fcc043f3_5694622811560147789.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "里面有什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f26c3ec06876798f1ced0b438727293c_1002669437393069875.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我来开我来开！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f562f4268540c0745dd4acdbeda82700_4741750199394374508.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不妙不妙！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f3800468fd70cdd032270ef43c145c30_903580414892417.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "出丑了啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/9de333a860ffb7b0b4d7a4394e488351_4891484970783436739.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "得小心起来了啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/d17ca3afa6a910545824d28fad6ff544_5060634974876974759.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "换我来支援你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/44e8e9cc069d9e298f3b6f12ec028a4b_3624278643334973134.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "别担心，有我在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/44bf0390ea3a0c80b01803db541ff387_947525673210740896.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "一不小心就…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/2c64b86d659fab18c0dff61c3215ae6e_2364156994717633200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "玩过头了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/ab1129e9260dc2b6adfac966bc4f157d_5362163370057052343.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "祭典…结束了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6cf41c0a6ff24585842988305659fa00_6906139060285869051.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "轻点啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b082551bfce762131cd7e8c2cfafa508_2095205265729194934.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这下不算！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/78cbbf7d6076d6b7d6f60d87efdba34a_7809516466760663904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "你想办祭典吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/8f2bc5f35282aa8bb58560e0b6f91bf8_2901653916216647789.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "一起去玩吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6a755eef4a428faf1359349527a1c925_234198272026075951.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "同行的伙伴增加了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/5cbb295827bfef46cb5f99766c12d452_660144844936702567.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "初次见面…",
+          "text": "欢迎光临「长野原」！我叫宵宫，有什么需要的都可以告诉我！\n\n呃…「什锦炸串」和「鸟蛋烧」…不不不，我们家不是饭店啦，是做烟花的！嗯，就是这个，闪闪亮亮，啪啦啪啦的，小烟花~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b29cd8ab916e786892d48ed1d97b3d55_7189703690909957215.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·烟花",
+          "text": "烟花易逝，人情长存。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c5fe9cb95e88da5febda872aae55ec80_5068175456516914053.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·讲故事",
+          "text": "没事做的话，我来给你讲故事吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/e8999c5d21dd43decd643d8dcfaba3a5_2896915436728650979.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·金鱼",
+          "text": "你养过金鱼吗？很乖巧很可爱哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/7bad59e0db07900ebf2fb7e4c866e454_6613250395104160113.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "呜哇，烟花要湿透了！得找地方躲躲，啊，要来不及了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6a4f5ecdde274404afe0507d3f666284_3187291519928064393.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "哈哈，看我搓个雪球，咻——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c0449dc79b7b65c0aec79651bd091766_7337089986588828187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "全身上下都暖暖的，好舒服啊。嗯，感觉要飘起来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/2418f8f1135afb212d97ddfcbb6ecd73_7413246735772880200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风好大啊——声音都被吹回来啦——！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/9184107387ae08f88206c1e08ec69dc7_7401356362449514634.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "啊——早上好啊，早上的空气最新鲜啦，多吸两口就会变聪明哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/ab1afa5fc30cf0b32abc459306476c73_5567759553152852018.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "嗯，该吃午饭啦，欸…今天的鸡蛋，是双黄蛋呢。嘿嘿，运气真好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/4d3f73cafc6b0097a10a2e26deda1b80_4440257428236821036.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "现在是最适合测试烟花效果的时间，无论是在天上还是地上炸开都会很好看。嘿嘿，开玩笑的，我会注意安全啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b6acdaa3a3e7fa9f3dfbe3388330d5e7_9096925820508314704.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "提问时间——！请问，当看完一整天的烟花之后，接下来要做什么？嘿嘿，答案揭晓：当然是去梦里看烟花啦！晚安，明天见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/7ddaed430051031d984cc23d4f064080_8385376574068488138.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于宵宫自己·家事",
+          "text": "我的老爹耳朵不太好，小时候我无论对他说什么，他都是一副笑呵呵的样子，我就以为我说的都是对的，所以就一直说，一直说，他就一直笑。后来我才知道他笑是因为他听不清楚，但…只要他真的很开心，那我还是会一直说给他听。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/a534a51822c8e31b6c7191f4614fc7e7_4381990004642553612.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于宵宫自己·说话",
+          "text": "我不担心什么「祸从口出」，因为蕴含在语言中的情感是不会骗人的。就算说错话被误会，用更多的话去化解就好，但如果什么都不说，对方就没办法了解你的心意，也就没有和你拉近关系的契机了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/7e818e190576546d349a6bd8716bef8c_4052305455424152057.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·猜拳",
+          "text": "我们来玩石头剪刀布吧！听我口令：石头，剪刀，布！好欸，我赢了！我赢了！嗯？我没变啊，才不会变呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/17e849327b1d79650abb2c5cb11bfbf8_8632836395746637071.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·陪伴",
+          "text": "其实我不在意我要做什么事，我更在意的是和我一起做事的人。比如和你在一起，就算只是看看风景，踢踢罐子，我都很开心。因为，跟你说话怎么都说不腻嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/80818e157bf0f6a534b8da9ccdad4414_5834477962608489945.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "悄悄告诉你一件事哦，我刚刚拿到「神之眼」的时候，我是把它当打火石来用的。我用它点过烟花烧过水，回家就把它往库房一扔不管了。结果，还是我老爹发现，告诉我这是个特别珍贵的东西，要好好保管。哈哈…幸好没有被神明大人收回去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/970a0d1eca144a56efb3a1d238ab2c52_2792254753742884674.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·海灯节",
+          "text": "你知道吗？璃月的海灯节，有很多烟花都是从我们家订购的。我按照要求做好，再找北斗阿姊用船送去璃月。虽然按锁国令的规矩，我不该把这些东西往外送，但…有节日的地方，烟花一定不能缺席。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/3ceedb5c8e81ead7d2535dcd71ab6945_4077139362316406733.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·循环",
+          "text": "「烟花在天空中留下的光点消失之后，会变成雨，会变成雪，重新落到地上。它们滋润了大地，抚育了人类，为的是再一次被送上天空，重现华丽的瞬间。」在老爹讲的很多很多故事里，这是我很喜欢的一个。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/9fb6f61dfb186a11f736683b01f696b1_839633271850516357.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·光斑",
+          "text": "你小时候踩过地上的光斑吗？就是阳光很好的时候，光线穿过树叶在地上留下的那种光斑。本来以为踩了就会消失，结果它总是会跳到脚背上，我就一直踩，一直踩，试了好久也没成功。那时候挺不甘心的，坐在小石头上叹气，「唉，这个世界上居然有踩不到的东西啊…」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/4c7ad9799a55b187e03080d3f1a45c8c_4920012698117143454.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有一次夏日祭，我蹲在孩子们旁边看他们捞金鱼的时候，我突然想，有没有可能做出一种能在水上放的烟花呢？然后，「金鱼烟花」就诞生了！能在水面上游来游去，能发出七彩的光，还能吐泡泡呢，很不可思议吧！…我也没想到我真的能成功，但这个世界上就是有很多很多不可思议的事呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b62ec85bd858ea066cb45021574d42fc_5528758573888984474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "稻妻锁国之后，都是北斗阿姊帮我运烟花出去，为了给她一个惊喜，我准备了一个巨大的船型烟花。在「南十字船队」准备离开的时候，这烟花就在他们眼前冲了出去，直飞天空。船员们都以为是船队的船飞出去了，吓了一大跳，但北斗阿姊特别喜欢这个创意。她告诉我，惊喜惊喜，就是要又惊又喜，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b2733771a6cc37c0b77c6f3d7b113327_204137558004159096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "烟花是和将军追求的「永恒」距离最远的东西，她可能觉得须臾的华光对于稻妻来说没有实际意义。唉，这就是执掌「永恒」的人难以理解的东西吧，正是因为我们都是「须臾之人」，才更需要纪念须臾的美好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/2b2e799ef520ad1af286f4effe2a87b2_4159498182738267448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华·认真",
+          "text": "因为工作关系，她和我家有很多合作。和其他两个奉行的人不同，她每次都会听我把话说完，还会很认真地回答我，完全不会有不耐烦的样子。嗯，「大家闺秀」这个词，就是为她而生的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/986fe2da0847962ca9687da4a8f7b5c2_6595363916951576784.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华·泡澡",
+          "text": "有一次谈夏日祭的事谈到很晚，我们都很累了，我就邀请她去泡澡解乏。但她听说「泡澡」是很多人泡在同一个池子里的时候，脸一下子就红了，那时候我才意识到，大小姐是不能使用公共浴场的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c2479a00c64d5d35edc40ab1c9a13284_3608310630790588833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于托马…",
+          "text": "他是个很擅长说话的人，话从他的嘴里说出来，就一定会有他的想法。虽然看似没什么联系，但绕着绕着，最后都巧妙地指向了同一个目的。嗯…总之就是和我的风格完全不一样啦，遇到我搞不定的事，我就会请他出马。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/77dfd4d7ac72536aae25c9f6f51e4805_9062069310327403685.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "有次神社祭典，绫华问我能不能为宫司大人准备玩乐用的烟花。可是…宫司大人不是要出席祭典，全程坐在神社里吗？然后我祭典的时候就一直看着她，想知道她要怎么放烟花。我等啊等，等啊等，结果等来了绫华，说宫司大人特别满意…欸？她已经放过了？难道，坐在里面的不是她？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6ddeb0b874e0e936571a1c4772e36e65_7238456541586980609.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗·对决",
+          "text": "哦，他呀。别看他长得那么凶，他很受小孩子欢迎的。不过他的胜负心很强，每次我们一起陪孩子们玩，最后都会变成我和他一决胜负，比如一口气喝完拉面汤，面无表情吃酸梅什么的，孩子们会猜我们谁会赢，还会在旁边加油助威，哎呀，那我可不能输了，对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/814b5cfcabcbd6810246ca017a378594_6831517868845826384.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗·帮派",
+          "text": "「荒泷派」？欸？！原来他不是无所事事的人呐？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/ec4471776f31361417652aacd5d96c84_7754220223711795258.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶…",
+          "text": "像我这样没有心事的人，就喜欢有话直说。而有心事的人，往往都喜欢说古代的诗歌或者沿途的风景，比如花与鸟，风与月，唯独不提眼前的现实。他也是有故事的人吧。嗯，我懂的，我懂的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6976288a37e5dc3c53ad64ef4877fe6a_2791463564442406641.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "因为治安和消防问题，我经常被抓去天领奉行的属地接受教育。在那帮人里，九条裟罗应该是最讲道理的一个了，至少她不会在了解情况之前就预设我的对错。如果我是正确的，她也会认同我的观点，如果我错了…嘿嘿，那就去拜托托马帮我赔礼道歉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/4406705a5c4d95069c8086deba6abec2_7755326834101701437.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于早柚…",
+          "text": "如果你见到她，记得告诉我哦？我很想带她去参加祭典，给她介绍很多很多新朋友。因为我看她平时精神不是太好，如果认识一些能玩在一起的人，她应该就会慢慢活泼起来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/a40430ef3918350d0db123b517be4c05_2158329236620560917.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "嗯？你说在蒙德有个擅长制作炸弹的小孩子？唔，炸弹和烟花其实相差不大，也就是说，她是这方面的天才？真想见上一面呐。欸，但是…让小孩子玩炸弹很危险吧？蒙德人不会担心吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/4c11eb4b18ba4b4c735ad8ea8cdd3d73_4822509721396818888.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "你说「狛荷屋」的那位快递员呀，她手脚可麻利啦。做烟花的时候，时常有一两种决定颜色的材料消耗得比别的都快，这种时候，她总能很快补来新货，帮了大忙。有次我送了她一个烟花，想要表达感谢。她却怎么也不敢放，说是之前被烟花的动静吓到过。哈哈，那就只好让她跑到远远的地方，我来放给她看喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d9ab8dca196389bc5bfb3769993c7e7a_1908794015274301433.mp3",
+          "audioName": "关于绮良良…kr.mp3"
+        },
+        {
+          "name": "想要了解宵宫·其一",
+          "text": "要听我讲故事啊？好呀好呀，这边坐，我给你讲讲最让我自豪的、「长野原」家的故事吧！是难得的正经话题哟。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/897f948f39ed7b2f76a3af768b98fc86_4387824581776956613.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其二",
+          "text": "我们家有项悠久的传统，那就是我们会给每一位来定做烟花的客人附赠一张纸条，这张纸条只有我们家的人能看懂，上面记录了烟花的具体配方。不管是过去了十年还是一百年，只要客人能把这张纸条带回来，我们家就能做出和当年完全相同的烟花。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/fdc039a132cf6eb2247e0e469d2c6102_5942857925656407734.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其三",
+          "text": "最美的烟花配最棒的瞬间。那些易逝的小心情就这么被封装在烟花里，以另一种形式传承下去。纸条就像一把钥匙，等待想要纪念过去的人来开门。那么，「长野原」烟花匠人的工作，就是帮大家把门看好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/d8b28a55dd15bee2455838da2fb09ea7_7287832000852230056.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其四",
+          "text": "夏日祭上每时每刻都在诞生动人的故事，在烟花下相识相知的人们慢慢成长，成熟，最终老去。当他们放起如初的烟花，天空中倒映出的依然是他们如初的模样…烟花不是永恒的，但藏在烟花背后的美妙情感，我觉得应该和稻妻一起走向永恒。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f24743b4dd5edd45156e6a284a3b4fec_7951500624555982397.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其五",
+          "text": "最后的故事，就不由我来讲了吧，我很想和你静静看一场烟花，把今夜的美景，还有你想说的话全部记录下来。啊，不要误会，不是到此为止的意思，而是关于我们的「故事」，从此才要开始。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/97a3e6d99512eb36124c0842565e2101_2003007903376222882.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "宵宫的爱好·玩耍",
+          "text": "烟花！啊，这个不算吗？那我想想，唔…这个问题好难啊，我喜欢和邻居聊家常，也喜欢和小孩子一起逛夏日祭、游泳、摘野果，好像没办法挑一个特殊的出来…哦，我懂了！我喜欢的，应该就是和大家一起玩吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/37d71f87f001a3f87e0b1bea6893220f_1867317175603462985.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "宵宫的爱好·模仿",
+          "text": "咕噜咕噜咕噜，嘿！哈哈，我在学派蒙消失的动作。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/a82cebda3b89006e559afe482cde5d01_8906766537232214801.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "宵宫的烦恼…",
+          "text": "嗯，我追读了好长时间的小说，终于迎来了大结局，结果女主角失忆了，说好的婚礼也没办成…好难过，怎么这样！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/69ebd798239de79d48c09c7d3b8f6fbd_665880178828600423.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "比起主食，我更喜欢吃点心，每次祭典的时候我都会一家一家吃过去，直到吃不下为止。对了，你擅长做点心吗？我拿我做的团子和你换，这几个大的都给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/740c016fda04930e7b24e672bd27c2a7_8568609376915146075.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "牛奶。喝了牛奶的话肚子里面就像开烟花会一样，噼里啪啦的。但加了牛奶的菜或者点心我可以吃，我也不知道为什么。可能是肚子里的小仙灵比较挑食？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/e85c7b98cfaba713e0b4b936de59614a_6142724113970022408.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇，你做点心的手艺很不一般啊！去祭典上摆摊的话，肯定会成为最热门的那一个吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2103547aababe2881811d84febf57895_8602615998535961269.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "吃到了好吃的东西，人就会变得很有精神。一有精神，就想开始讲故事。嗯，我来挑个故事吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/17ee18ab5aa973d9c07b46dacbe45e5d_170704724635981818.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "哎呀，肚子里面好像有飘浮灵在上下闹腾…这不应该呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8358896edc5a81d5013fa07515bc89bc_7920029991734056716.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日从来都不是你一个人的节日哦，愿意为你送蛋糕，点蜡烛，鼓掌欢呼的人，都发自真心地感谢你能够降生在这个世界上。所以，一定要热热闹闹的才好，让所有人都有感谢你的机会！那么，生日快乐！准备好了吗？我要放烟花了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f6e131c15e86891a34a0ce381cbc8be1_2122932374920578852.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "飞得更高，炸得更响！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/bd3debc9fcf828a1a7d8e99102f97aa3_39417064506433100.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "哈哈，我来试试看，直接用弓箭把烟花送上天空吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/144035229de4e5d6fd2a352accdf2038_3319875296123201750.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "难得从你这里学到了这么多战斗技巧，干脆除了烟花工匠之外，我再去兼职当冒险家好了，或者…「英雄」也不错？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f256c6bc47dceab55f2f78e6e428ba7b_1995971000032899242.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "「『英雄形态』的宵宫姐姐登场！邪恶退散！正义必胜！」\n\n就这么和小孩子们介绍你教给我的新力量，没问题吧？应该很帅吧。嘿嘿，如果有人欺负你也要告诉我哦，宵宫姐姐帮你出头！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/2eb304a7f357f4fe28bb3260e971df17_3312288529525938010.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "元素战技·其一",
+          "text": "想看烟花吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b62e2d382ea3122df5241ae6a88058a8_5589277333219743556.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "点燃引信！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/e1e3eb46c4043c952fd32f78a28a1bcd_3211711637341626280.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "小心火烛~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b41b0f7bd4972f3aa5211e125f125bfa_1360564592826774703.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "祭典重现！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/19/4521515/0f064b65cf0139abc6058dbbf7febe4b_7150678347858772382.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "金鱼来啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/81556a937e8ac4992b8b75654a215533_8625656106140046375.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "烟花来喽！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/0e215cbd8df4675899e2db13c0aaaaf5_3055261781466197852.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "飞高高啦——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/cc671ab1855e54960a7dd40f7ac28cb2_4202154126484234149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "会有烟花材料吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/5e1fa8e0e8a6c540611c9f8f6712ac3f_5229668351980796540.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "里面有什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/55b975cdacbb2a861f4b7c0b7c44be03_7508051853650810675.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我来开我来开！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c64bbcd97589af463449fd43ae95adfe_90512034573642503.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不妙不妙！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/829092b93e0709f55ea934b811ca4124_7047540414651263218.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "出丑了啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/2364231c151801696836e037733ab4c7_4352956015627370769.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "得小心起来了啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/963cac9e66d4574afff4f07799255236_5773814870745914125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "换我来支援你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/7c8c47bbda204daafbcf664c9c52eec0_4300881006957540366.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "别担心，有我在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/64995bd376e77cfc12d5f29ba9d97e3e_6044895610953457631.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "一不小心就…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/7c456e4c0e5ce3b7b73efe563daac617_8764008751825842970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "玩过头了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/7e96228bfa3b8f89d50f7c90f587c7f7_98936545005083636.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "祭典…结束了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/0eb35a6ee48c850c16dcff5171b83b3d_6384678841241456871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "轻点啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/3c531804ca788d6d209e4d6480d4adb5_6744557506725825421.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这下不算！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/bcbe91d94479980c575c797ecda6410b_4851601601402301161.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "你想办祭典吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/e2fd4b35beade084a479245c45be5b69_6497501536982394309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "一起去玩吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/966efcdb445cd699b88e30e03f89ec27_1456624974480919397.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "同行的伙伴增加了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/38ef51309c038c8b5d562b6f5b50a4a7_962394066399228437.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "初次见面…",
+          "text": "欢迎光临「长野原」！我叫宵宫，有什么需要的都可以告诉我！\n\n呃…「什锦炸串」和「鸟蛋烧」…不不不，我们家不是饭店啦，是做烟花的！嗯，就是这个，闪闪亮亮，啪啦啪啦的，小烟花~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/ece5202295fbac853536a5f478a7d235_2614371715060406986.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·烟花",
+          "text": "烟花易逝，人情长存。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/1680bee95756de19e96a45bedf21061e_8272648339167338751.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·讲故事",
+          "text": "没事做的话，我来给你讲故事吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/4ce7b9ab10448a90f5593df7faa1c045_516349514990103814.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·金鱼",
+          "text": "你养过金鱼吗？很乖巧很可爱哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/25c541b9e57a53cfb7da67b92d972805_1326745387890394780.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "呜哇，烟花要湿透了！得找地方躲躲，啊，要来不及了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/73c5fca7e0a6ae26e9869f35d638bc50_7205904160543398172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "哈哈，看我搓个雪球，咻——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/e9a4bba594b914fe9b0c04a52e61b3d2_1177262197984986776.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "全身上下都暖暖的，好舒服啊。嗯，感觉要飘起来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/6b09d4ac89798efb350224c42fbec3c9_2325128949880237322.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风好大啊——声音都被吹回来啦——！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/79495535177c766bdb29730d100ec58d_3634526879149984275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "啊——早上好啊，早上的空气最新鲜啦，多吸两口就会变聪明哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/4f2449402ff8680237bcebedde841fc8_6091645982225679489.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "嗯，该吃午饭啦，欸…今天的鸡蛋，是双黄蛋呢。嘿嘿，运气真好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/23de5d1f81cd669668985799afdbfb01_1322551056162033888.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "现在是最适合测试烟花效果的时间，无论是在天上还是地上炸开都会很好看。嘿嘿，开玩笑的，我会注意安全啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/e8f46e275badc4bad35e9eb74be55df3_9115531174418312227.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "提问时间——！请问，当看完一整天的烟花之后，接下来要做什么？嘿嘿，答案揭晓：当然是去梦里看烟花啦！晚安，明天见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/b5ea0e739ec0aaefa3a76083aa06258d_5571312528169916464.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于宵宫自己·家事",
+          "text": "我的老爹耳朵不太好，小时候我无论对他说什么，他都是一副笑呵呵的样子，我就以为我说的都是对的，所以就一直说，一直说，他就一直笑。后来我才知道他笑是因为他听不清楚，但…只要他真的很开心，那我还是会一直说给他听。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/7b37f77e7dfd7c2565ac5627600f7649_9160590539393607144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于宵宫自己·说话",
+          "text": "我不担心什么「祸从口出」，因为蕴含在语言中的情感是不会骗人的。就算说错话被误会，用更多的话去化解就好，但如果什么都不说，对方就没办法了解你的心意，也就没有和你拉近关系的契机了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/5ae60fb2325d354e543dcb3937ecf03c_8219564579973024738.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·猜拳",
+          "text": "我们来玩石头剪刀布吧！听我口令：石头，剪刀，布！好欸，我赢了！我赢了！嗯？我没变啊，才不会变呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/50b3aa06ae7ca688e15d960ffef7b580_6215695936829296119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·陪伴",
+          "text": "其实我不在意我要做什么事，我更在意的是和我一起做事的人。比如和你在一起，就算只是看看风景，踢踢罐子，我都很开心。因为，跟你说话怎么都说不腻嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/ef56bfec3226baf176332a929fcd18db_8555724149887497859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "悄悄告诉你一件事哦，我刚刚拿到「神之眼」的时候，我是把它当打火石来用的。我用它点过烟花烧过水，回家就把它往库房一扔不管了。结果，还是我老爹发现，告诉我这是个特别珍贵的东西，要好好保管。哈哈…幸好没有被神明大人收回去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/df71edcbb1b5e6a0af83e80d142be265_5141751709409719066.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·海灯节",
+          "text": "你知道吗？璃月的海灯节，有很多烟花都是从我们家订购的。我按照要求做好，再找北斗阿姊用船送去璃月。虽然按锁国令的规矩，我不该把这些东西往外送，但…有节日的地方，烟花一定不能缺席。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/ca5cecd8cc048d2b0ee744e3c0886c91_5904757123317914221.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·循环",
+          "text": "「烟花在天空中留下的光点消失之后，会变成雨，会变成雪，重新落到地上。它们滋润了大地，抚育了人类，为的是再一次被送上天空，重现华丽的瞬间。」在老爹讲的很多很多故事里，这是我很喜欢的一个。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/fcb6012a5949452b54778daef98310ba_2978272837878573470.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·光斑",
+          "text": "你小时候踩过地上的光斑吗？就是阳光很好的时候，光线穿过树叶在地上留下的那种光斑。本来以为踩了就会消失，结果它总是会跳到脚背上，我就一直踩，一直踩，试了好久也没成功。那时候挺不甘心的，坐在小石头上叹气，「唉，这个世界上居然有踩不到的东西啊…」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/23dcb932330d801fb9d1a04d63577a29_1196378014115192164.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有一次夏日祭，我蹲在孩子们旁边看他们捞金鱼的时候，我突然想，有没有可能做出一种能在水上放的烟花呢？然后，「金鱼烟花」就诞生了！能在水面上游来游去，能发出七彩的光，还能吐泡泡呢，很不可思议吧！…我也没想到我真的能成功，但这个世界上就是有很多很多不可思议的事呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/a3611baff50275fc89eb89110b9037b3_2032421266720364781.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "稻妻锁国之后，都是北斗阿姊帮我运烟花出去，为了给她一个惊喜，我准备了一个巨大的船型烟花。在「南十字船队」准备离开的时候，这烟花就在他们眼前冲了出去，直飞天空。船员们都以为是船队的船飞出去了，吓了一大跳，但北斗阿姊特别喜欢这个创意。她告诉我，惊喜惊喜，就是要又惊又喜，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/89edc9f90861a9919e502beffb96e9fd_348587366420243461.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "烟花是和将军追求的「永恒」距离最远的东西，她可能觉得须臾的华光对于稻妻来说没有实际意义。唉，这就是执掌「永恒」的人难以理解的东西吧，正是因为我们都是「须臾之人」，才更需要纪念须臾的美好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/4c9c4e66732ca09c91ae83f3d9834144_3757685106146620660.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华·认真",
+          "text": "因为工作关系，她和我家有很多合作。和其他两个奉行的人不同，她每次都会听我把话说完，还会很认真地回答我，完全不会有不耐烦的样子。嗯，「大家闺秀」这个词，就是为她而生的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/ddddb7756c1cce5df8e78f33ea4c1ba7_9097783310403016144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华·泡澡",
+          "text": "有一次谈夏日祭的事谈到很晚，我们都很累了，我就邀请她去泡澡解乏。但她听说「泡澡」是很多人泡在同一个池子里的时候，脸一下子就红了，那时候我才意识到，大小姐是不能使用公共浴场的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/d0e52d4eda45400ff196f911a76a7324_7882043495009390613.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于托马…",
+          "text": "他是个很擅长说话的人，话从他的嘴里说出来，就一定会有他的想法。虽然看似没什么联系，但绕着绕着，最后都巧妙地指向了同一个目的。嗯…总之就是和我的风格完全不一样啦，遇到我搞不定的事，我就会请他出马。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/e5b4e47f7353f3d0a1dcd4f87e54c51e_6357180409404144077.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "有次神社祭典，绫华问我能不能为宫司大人准备玩乐用的烟花。可是…宫司大人不是要出席祭典，全程坐在神社里吗？然后我祭典的时候就一直看着她，想知道她要怎么放烟花。我等啊等，等啊等，结果等来了绫华，说宫司大人特别满意…欸？她已经放过了？难道，坐在里面的不是她？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/889984e44580fc63cc663dbb22168eb9_4586754077632408681.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗·对决",
+          "text": "哦，他呀。别看他长得那么凶，他很受小孩子欢迎的。不过他的胜负心很强，每次我们一起陪孩子们玩，最后都会变成我和他一决胜负，比如一口气喝完拉面汤，面无表情吃酸梅什么的，孩子们会猜我们谁会赢，还会在旁边加油助威，哎呀，那我可不能输了，对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/29ef15bf22bf595d9c343ea3779fbf7f_5890686414383794066.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗·帮派",
+          "text": "「荒泷派」？欸？！原来他不是无所事事的人呐？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/84c4e6c90e493fc553d737cb46b017c3_2028711139771574225.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶…",
+          "text": "像我这样没有心事的人，就喜欢有话直说。而有心事的人，往往都喜欢说古代的诗歌或者沿途的风景，比如花与鸟，风与月，唯独不提眼前的现实。他也是有故事的人吧。嗯，我懂的，我懂的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/90e763b9708ef09d68a28007a4f9f2e6_2023002626602688365.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "因为治安和消防问题，我经常被抓去天领奉行的属地接受教育。在那帮人里，九条裟罗应该是最讲道理的一个了，至少她不会在了解情况之前就预设我的对错。如果我是正确的，她也会认同我的观点，如果我错了…嘿嘿，那就去拜托托马帮我赔礼道歉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/a1c7024808e51195f519f36132b249e5_8745657488649251553.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于早柚…",
+          "text": "如果你见到她，记得告诉我哦？我很想带她去参加祭典，给她介绍很多很多新朋友。因为我看她平时精神不是太好，如果认识一些能玩在一起的人，她应该就会慢慢活泼起来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/857bdfd6ef61bd2987075f50f0defeca_5467271525775077679.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "嗯？你说在蒙德有个擅长制作炸弹的小孩子？唔，炸弹和烟花其实相差不大，也就是说，她是这方面的天才？真想见上一面呐。欸，但是…让小孩子玩炸弹很危险吧？蒙德人不会担心吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/c9da25c5a9bd6c4587ab2c6cfb79935f_5447319974975248054.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "你说「狛荷屋」的那位快递员呀，她手脚可麻利啦。做烟花的时候，时常有一两种决定颜色的材料消耗得比别的都快，这种时候，她总能很快补来新货，帮了大忙。有次我送了她一个烟花，想要表达感谢。她却怎么也不敢放，说是之前被烟花的动静吓到过。哈哈，那就只好让她跑到远远的地方，我来放给她看喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/dd7080cf285fbe4ad1566d6433f1a001_872752696075374737.mp3",
+          "audioName": "关于绮良良…en.mp3"
+        },
+        {
+          "name": "想要了解宵宫·其一",
+          "text": "要听我讲故事啊？好呀好呀，这边坐，我给你讲讲最让我自豪的、「长野原」家的故事吧！是难得的正经话题哟。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f23a01262d3371c5433fb1a2bb25294e_2082979766974173324.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其二",
+          "text": "我们家有项悠久的传统，那就是我们会给每一位来定做烟花的客人附赠一张纸条，这张纸条只有我们家的人能看懂，上面记录了烟花的具体配方。不管是过去了十年还是一百年，只要客人能把这张纸条带回来，我们家就能做出和当年完全相同的烟花。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/da656095ee53e3ec0be082a0db5f11b3_7108860869761195139.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其三",
+          "text": "最美的烟花配最棒的瞬间。那些易逝的小心情就这么被封装在烟花里，以另一种形式传承下去。纸条就像一把钥匙，等待想要纪念过去的人来开门。那么，「长野原」烟花匠人的工作，就是帮大家把门看好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/bd3a1a30a501b8056494011488d3646c_3921735473097768688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其四",
+          "text": "夏日祭上每时每刻都在诞生动人的故事，在烟花下相识相知的人们慢慢成长，成熟，最终老去。当他们放起如初的烟花，天空中倒映出的依然是他们如初的模样…烟花不是永恒的，但藏在烟花背后的美妙情感，我觉得应该和稻妻一起走向永恒。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/2419ea000c04bcd15b50fa20c7d1e49a_1687337131242435128.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解宵宫·其五",
+          "text": "最后的故事，就不由我来讲了吧，我很想和你静静看一场烟花，把今夜的美景，还有你想说的话全部记录下来。啊，不要误会，不是到此为止的意思，而是关于我们的「故事」，从此才要开始。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/9c769f390d98c405fab6bf84a815e060_8277387451158776932.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "宵宫的爱好·玩耍",
+          "text": "烟花！啊，这个不算吗？那我想想，唔…这个问题好难啊，我喜欢和邻居聊家常，也喜欢和小孩子一起逛夏日祭、游泳、摘野果，好像没办法挑一个特殊的出来…哦，我懂了！我喜欢的，应该就是和大家一起玩吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/5aee433370dd310ead385117c51baebd_424922556384989919.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "宵宫的爱好·模仿",
+          "text": "咕噜咕噜咕噜，嘿！哈哈，我在学派蒙消失的动作。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/380529c889e46c7a83b50e078fffa19e_6999652564327131205.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "宵宫的烦恼…",
+          "text": "嗯，我追读了好长时间的小说，终于迎来了大结局，结果女主角失忆了，说好的婚礼也没办成…好难过，怎么这样！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/20203ebccf4942413122352d09bba336_5016443537648230343.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "比起主食，我更喜欢吃点心，每次祭典的时候我都会一家一家吃过去，直到吃不下为止。对了，你擅长做点心吗？我拿我做的团子和你换，这几个大的都给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/2903c7b940fe62a35920e55691d49599_2079680028062450687.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "牛奶。喝了牛奶的话肚子里面就像开烟花会一样，噼里啪啦的。但加了牛奶的菜或者点心我可以吃，我也不知道为什么。可能是肚子里的小仙灵比较挑食？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/f68da9133d63add4b62054a2e4c40873_2748373271401649569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇，你做点心的手艺很不一般啊！去祭典上摆摊的话，肯定会成为最热门的那一个吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/537b5dc169bb6eecdf253f9462e786ba_2073352747117001618.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "吃到了好吃的东西，人就会变得很有精神。一有精神，就想开始讲故事。嗯，我来挑个故事吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/7c4acea675631dbcd6a4bdaa4e7a4723_9180166098714455301.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "哎呀，肚子里面好像有飘浮灵在上下闹腾…这不应该呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/1c441c58b9c4936f3ef508dce46a625e_3609279236573857626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日从来都不是你一个人的节日哦，愿意为你送蛋糕，点蜡烛，鼓掌欢呼的人，都发自真心地感谢你能够降生在这个世界上。所以，一定要热热闹闹的才好，让所有人都有感谢你的机会！那么，生日快乐！准备好了吗？我要放烟花了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/449b02cbfb5a464c8323f22ba0928dc8_5342692847537969237.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "飞得更高，炸得更响！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/4f9795f03b40e24107e3398efa312942_155882118541309839.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "哈哈，我来试试看，直接用弓箭把烟花送上天空吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/e5d32fd1a25058d6c2212a4db59c4705_7238055629278732832.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "难得从你这里学到了这么多战斗技巧，干脆除了烟花工匠之外，我再去兼职当冒险家好了，或者…「英雄」也不错？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/1d168027f423e17852b2779d7715475d_6227136504276523516.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "「『英雄形态』的宵宫姐姐登场！邪恶退散！正义必胜！」\n\n就这么和小孩子们介绍你教给我的新力量，没问题吧？应该很帅吧。嘿嘿，如果有人欺负你也要告诉我哦，宵宫姐姐帮你出头！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/4521515/326df1a00a5e7067c35a7149c697c107_2081487237719376211.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

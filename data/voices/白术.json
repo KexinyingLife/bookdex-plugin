@@ -1,0 +1,1715 @@
+{
+  "id": "6489",
+  "name": "白术",
+  "alias": [
+    "白术"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "嗯，我是「不卜庐」的大夫白术。身体哪里不适，有几天了，和我说说吧…哦？不是来问诊而是专程来找我的？抱歉，恐怕要请你稍候了，我接待完后面的病人就来和你详谈。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/8ae2236ce44dd32914688894e156942d_2459507992594109037.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·慢节奏",
+          "text": "白术：这一路上的无限风光，得慢慢欣赏才有意趣。长生：你是不是跑不动了？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/3e50400c85eb02924b76a1f204fea06c_3073502801613171783.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·天道",
+          "text": "生死有道，天行有常…呵呵，不试一试，谁能知道这天道的边界在哪里呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/def9219445f6973639e32cc1ede767b5_3731444430984900496.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·体质",
+          "text": "咳…咳…老毛病了，不是什么大事，你别担心。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/3274af3c210f036b4c1e57a7ec2a2cb2_4702291407108345255.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨天湿寒，还是找个地方避避吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/ee4e0461b2f1ba1a4b70d152ae20def4_7600539757138226400.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "别怕，小心看路，不要在树下行走，雷电伤不了我们。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/1fb6e1a1776991725b6d3590b61073b0_374029265787339499.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "长生：…好冷，好困。白术：长生？这就睡着了吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/6b197220e92ca9bda003239085bb5b16_5029337008618228842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "白术：好天气，「不卜庐」新收的药草…长生：放心啦，就算七七忘记晾药草，阿桂也不会忘的，好好晒太阳吧。白术：的确。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/0b8a7abe85eebd8e95ce399784d664a9_2604592602222080219.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "碰上这么大的风你也不躲吗？唉，要爱惜自己的身体啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/46dd3b0d041f8e2ed74e8d618a10e692_9119949890029830918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。我习惯餐前一杯茶，要给你倒一杯吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/c162889fb5a6d93050202f4bd5cb00d0_2511188982592718418.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午餐后不要久坐，最好起身走一走，有助于消食。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/b2be1baf38edb87b9f70da87cce34d3e_2027284449361708762.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，如果是来看病的话，抱歉了，今天「不卜庐」大夫的坐诊时间已经结束。不过，你有紧急情况的话那自然另当别论。如果只是来找我的话，正好，现在是我的私人时间。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/df40ba3f088f0883a97404f7aad5bf4e_8092978234343937261.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "还不想睡吗？可你已经在打哈欠了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/596c481d56f2232aa011188f2e8b8b24_4154654376686140779.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术自己·今方古方",
+          "text": "师父的确留下了不少古人总结出的千金良方。不过古方虽然久经考验，我们这些今人却不能一味泥古。古时与今时，环境不同，风俗有异，过去管用的方子今天不一定管用。还守着过去的千金良方，最终是要耽误病患性命的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/81e6184629206d0b3cf40daafa25ad6d_5790335978349312987.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术自己·医心",
+          "text": "久病的人精神萎靡，如果得的是重症，更是全凭一口气吊着。这时候最要紧的事不是医治他的身体，而是稳固他的信心。毕竟病人要是认定自己活不成，也不想活了，再高明的医术也都无能为力了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/d7581fe4f0ffcae7850a560992529c5e_2594678288767588410.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·医患",
+          "text": "凡是来「不卜庐」求医的，不论贵贱，我都会一视同仁，尽力救治，你也不例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/efb47e8573a09edc85d3010c2bd6904f_494486148257306047.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·试药",
+          "text": "甲之毒药，乙之蜜糖。对某些人来说百害无一利的毒物，对另一些人来说却恰好是救命的良药，这在药理上也是成立的。只是这些话却不能对普通病患说，要是让他们知道我开的方子里有毒药，恐怕以后就再也不敢来这里了吧。知道了这件事却毫不恐惧的，你还是第一个。不愧是见多识广的旅行者，那么以后我也可以放心给你开些猛药了吧？正愁找不到试药的人呢，呵呵。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/1f727c85e6566f5c3130f40a12fe2fa4_7540106678956814422.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "呵呵，神也允许我这狂妄之人探索生死之道呢。这神之眼来得正好，多谢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/755086d958751536b1ffd77a4b6488c6_4935506525435619236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·蜜饯",
+          "text": "说了不怕你笑话，其实我自己也不爱喝苦药。我的体质你也知道，常年喝药是免不了了，没办法，只能喝完药多吃点蜜饯缓解一下嘴里的苦味。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/34ba9c99d503cf7e7810bf94dd997951_9214857830985356899.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·秘药",
+          "text": "我曾遇上一些人，身体略有不适，便以为自己得了重病，以理相劝仍是不依不饶。后来，我干脆以甜甜花和清心为原料，调制出了一批白色无味的药丸，配给这批疑心过重的「患者」。他们得到安慰后，「病情」有所缓和，转而称赞起了我「秘药」的效力。像这类情况，我也是能够理解的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/6c8db637334a113c7973568f6759a680_4654696776037024771.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "据说须弥雨林中的蘑菇种类众多，有些品种甚至能让人产生幻觉，大概有些药用价值。不过我一直没有机会详细考察一番，要是以后能有闲暇亲眼看看就好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/26bac5e7c45daa617dd5e3e5e423b333_3533258144983412090.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七…",
+          "text": "你猜得没错，封住七七一缕神智的的确是仙人的秘法。也是多亏七七，我才摸索出了保住将死之人的方法。既然仙人都怜悯这孩子，施法将她留在「此岸」，那我顺水推舟收留她，又有何不妥呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/2b5119741523ce2528cbe17d39eaafd8_628450135975221553.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃·道不同",
+          "text": "观念不同而已，我对胡堂主本人并无意见。非要说的话，应该是她防备我居多吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/1f4f9195028a2e85529782923c02b75e_8337926225842067671.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃·疲惫",
+          "text": "白术：有可能的话，我还是希望胡堂主做生意时注意些方式方法。长生：哦，原来你还记着她到「不卜庐」门口打广告的事啊。白术：唉，没事的时候，也别总是惦记七七了。长生：你其实对她有意见吧？白术：我又怎么会真跟她计较呢，只是每次她把七七带走，我都要费劲拜托总务司寻人，实在太累人了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/d764c0beb74751f69f8573dc41da961c_4821661000113988573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于甘雨…",
+          "text": "仙家体质强健，即便身体有恙，不需药物也能自愈。不像凡夫俗子，一旦伤筋动骨，没有医治非落下残疾不可。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/631b8b13a5a942c0aeea2db1d91e4ca3_8449845962920933411.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于刻晴…",
+          "text": "从面部状态来看，玉衡星应该是习惯了熬夜，且思虑过多，才会时不时显露疲态。想要保养好身体的话，还得放下工作，静养为宜。可惜她太过上进，似乎是打定了主意要用健康换事业，我这话说了她未必听得进去。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/21c98c0e9631c00f4e46acebfb275596_3352498111740720989.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶…",
+          "text": "…这孩子每次来找七七玩耍时都要和我抱怨药苦，问我有没有不苦的药。治病救人的药，哪有不苦的呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/7db33fda8be66483b3d5150eb4c5daae_5208768597449042019.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "钟离先生这样的博学多闻之士，哪怕是聊起偏门的古医方也能从容应答，肯定自有一套养生调理的讲究。普通的头疼脑热他自己就能解决了，的确没必要到我这里来开方子。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/26acdd8e0d02bf709378d2a5f7713daf_7947325919526864557.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈…",
+          "text": "白术：降魔大圣杀生为护生，心有大慈悲。我曾有幸亲眼见过他本人，还将昏迷的他带回庐中照顾了一天，只可惜当时我不识仙师真身，又没来得及多交谈几句，他就独自离开了。长生：后来你们不是又见过嘛，不用遗憾啦。白术：说得也是。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/e69745b1c70e3454849550cb3b5c4996_7406107087280064090.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "原来须弥教令院里有你的相识？那能否麻烦你帮我与这位提纳里先生联络一番，我有不少药草方面的事情想要请教。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/3f4003fdeadf937c03cffeb19d2c4899_5513820859986757791.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于嘉明...",
+          "text": "比起这个年纪的寻常少年，他身上有更多伤痕旧患，每每过来又常添不少淤青扭损...唉，劝恐怕是劝不住的。我教过他一些包扎和养护的方法，希望对他有帮助。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/07/08/391128883/d152909f6d494266dbc614ef27bd4331_7667064328859738324.MP3",
+          "audioName": "7月8日.MP3"
+        },
+        {
+          "name": "想要了解白术·其一",
+          "text": "我一个治病的大夫，身上能有什么有趣的故事。你要是对传奇故事感兴趣，不如去和裕茶馆请说书先生讲几段。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/2d41fec73f77eb51071b693c65071655_4859661940499550981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其二",
+          "text": "非要说什么惊心动魄的故事，我这里实在没有。当初我拜师学医时，也没经历什么重大考验，师父他老人家看我不算太笨，让我发了简单的誓，也就入门了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/85e3a75969ff601dc3c4ac38b122b68c_3079520579123898491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其三",
+          "text": "誓言不算复杂，我还记得个大概：「…若有疾厄来求救者，不得问其贵贱贫富，亦不得瞻前顾后，自虑吉凶。见彼苦恼，若己有之，如此可为苍生大医。」",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/cf83bc03c5921c06af63be65d9f18f0d_4291041884755877515.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其四",
+          "text": "师父的意思我明白，他是希望我勿为外物所动，多为病患考虑。唉，他老人家的确是宅心仁厚，一心舍己救人，可惜未享天年便早早去了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/98404161d984fc62cb25202892cae71e_1424698260173163772.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其五",
+          "text": "医者普救世人，但我以为医者自身也在世人之列。身为医者，既要救人也要救己，舍己为人固然值得钦佩，但没有人生来就是要为他人牺牲的，不该这样。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/883bdaa1009684a5604d274b762f70d4_6906954557719512683.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "白术的爱好…",
+          "text": "分拣药材，再依其各自特性炮制成药丸或是药膏，这其中的过程我再熟悉不过。世人都觉得制药过程繁难，但在我看来，其实乐趣无穷。试想，竟有人能将天地造化之功凝聚于小小一剂药中，挽救苍生性命，不是很奇妙吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/b486999ef18ffaa673e89af47ff47a56_2701805684712934719.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "白术的烦恼…",
+          "text": "为病人看诊时最麻烦的从来不是配药，而是找对病因。唉，病人们身体不适的原因真是千奇百怪，有和人比赛吃绝云椒椒吃到肠胃受损而不自知的，有过量饮水导致头晕恶心的…我只盼望世人都能以健康为重，没事不要胡乱折腾自己的身体。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/83eb5dc72092cd8b66781f0f4307dcaf_4870284243003170487.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "挑食可不是好事。肉、蛋、奶、蔬菜、水果…凡是有营养的食物都要吃，但也不能吃得太多，暴饮暴食同样对身体有害。你别嫌我唠叨，正因我是大夫，才深刻地明白祸从口入的道理。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/7c0292642b4df44e3ea47bc2b4b1b50f_904017678647830948.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "怎么买了这么多糖？你别一口气吃太多，糖吃多了容易蛀牙。我？我对甜味的摄入很有分寸，辛辣的食物也不常吃。你说的没错，我的确非常注意饮食管理。毕竟，如果我连自己的饮食都管不好，又怎么好意思给病人提饮食建议呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/de699bc7d1a544d4874ca86438e73f29_7632703553445669110.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "长生：还有吗？多来点！白术：味道的确不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/a5ea4c826070dda4db3421f78b70be15_8551887217227924602.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你的厨艺有进步，恭喜。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/c452957e4a3a26fc5fb193831264bade_1463662401918867910.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "不用担心，味道总比药好些。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/be112e8d622aa0fc4c30811da1d18831_2694099233090306292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "长生：那话怎么说来着…哎呀，白术，提醒我一下。白术：过生日时的吉利话吗？长生：对对对。白术：愿你年年有今日，岁岁有今朝。旅行者，生日快乐。长生：话都被你说了。那我说什么？算了我再想点别的。我祝旅行者…嗯…嗯…唉，想不出来了，祝你心情愉快吧。长生：你们笑什么嘛，人就是麻烦，比蛇还会弯弯绕。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/35bcde5004c7fe80988973e47e7dc823_6322796777530795957.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "凡事需循序渐进，不必急躁。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/616bf485a07505072fbb593da460fe22_5091500579885286776.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "多劳你费心，感觉身体比以前强健了不少。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/6f4e5fe96686295262d85ab9ba0c004f_3044583688704418624.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "大概是最近体质有所变化的缘故，精神比从前好了许多，坐诊一天下来也不觉得疲惫。这都是你的功劳。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/60bfb1c7244fd694f512e336d407c90d_6020085801927320056.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "连日来辛苦你了。明明我自己就是大夫，却还要麻烦你为我的身体忙前忙后，咳咳…惭愧。放心，往后不会有这种事了，我会照顾你。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/336f75accfc36c86e438e7ec5717cbc9_3762301750241103182.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "长生：得治治。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/b9a9fc371d7e7d2f90337a72e65bed33_4775078978748542119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "良药苦口啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/7761da8ff7721fb792abb1eda9a4fa55_7981392286470846449.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "是药三分毒。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/0d281d70ca6bb32a84f840fd72702245_974942159995017078.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "病宜速救。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/088b9e3bdacb664c3a55dc84563ea886_5856215968847345977.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "须知惜命。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/b2766c5be35a8dbb623faca6da8e3f00_4319822883348154914.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "且尝，苦尽甘来。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/3549655f3524b37cf78cdddda80290eb_7322966463053865099.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "咳…咳。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/964306a3be2bab02ab0a1c78f388c2a8_6473861543292465002.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "长生：捣鼓了半天是为了这个啊。白术：长生…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/a5e3eb6036c6f2b81dab3a64d232bb06_8824795046906126164.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "冒险生活不容易啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/0a9ecbee8f3a5bd54442e7025d363787_5013274658520770367.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "回头擦擦手吧，这箱子我怕不够干净。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/73d4a3e91b4f40c56e536517a70f277a_2527342284758211719.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "…我还能撑。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/728673bfc6492e1ef8b124dfe7ce2e3b_54040571921593486.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "长生：不妙不妙！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/20406195745697e273629b7ceca002d1_2747001001032933634.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我不能…先倒下。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/64df45d1d35827eb0669324017846ab8_6759229603582368349.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "不可冒进。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/a3c71b4ba89909e7c15cc244c69a184a_7174464236589428313.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "留心伤口…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/689287878cb764887170ca7db5853ba1_7515102326477555994.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "人死灯灭…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/389043de062c38bbf2ef73975b518383_6461756815087251041.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "长生，抱歉…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/6525da27f0f2e496d376384d4e48faf0_8562841573362117499.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "愧为医者啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/accd949186c1139fd2b71c27b25a3bd7_7701469192389189119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "啧，眼镜。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/e72ce20d7c9797b9c17c8fa726f4798e_9174864423282188346.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这点痛，哼。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/a4cc23e91015108806a1024cb03bf3dc_5446918604512942761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "伤口由我处理。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/02333f353d0c15e7f7c0d046cfe48f0b_617106901105064431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "这就出诊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/81ed802f1dd62c24a38da94b2475920a_377863910207201239.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "希望别走太远…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/250136720120ef8e9b9f504a7e5c0ccd_5197807665072073159.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "嗯，我是「不卜庐」的大夫白术。身体哪里不适，有几天了，和我说说吧…哦？不是来问诊而是专程来找我的？抱歉，恐怕要请你稍候了，我接待完后面的病人就来和你详谈。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/27e8fa83705037b0122d0ae1efb504ec_7082619271072300251.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·慢节奏",
+          "text": "白术：这一路上的无限风光，得慢慢欣赏才有意趣。长生：你是不是跑不动了？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/549750a8e2145643ff38a0400dafa561_5070507833029132165.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·天道",
+          "text": "生死有道，天行有常…呵呵，不试一试，谁能知道这天道的边界在哪里呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/0ac847a1690d1b14b32a444e14ff48fc_8863286573238347095.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·体质",
+          "text": "咳…咳…老毛病了，不是什么大事，你别担心。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/20dc74221b391d139db4dbbd04351eb2_4479715098554316210.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨天湿寒，还是找个地方避避吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/04011d9e6f503dfe6046720d7e6e3915_6101610743005890473.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "别怕，小心看路，不要在树下行走，雷电伤不了我们。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/bec537d0d9521a78f8337972db71ed81_5605395422684573409.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "长生：…好冷，好困。白术：长生？这就睡着了吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/e695329a75e53637ae1e646b021765a4_4687715706843895537.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "白术：好天气，「不卜庐」新收的药草…长生：放心啦，就算七七忘记晾药草，阿桂也不会忘的，好好晒太阳吧。白术：的确。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/68b2c36e7f3c7ebab95b10be251b11ff_3695379003893332951.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "碰上这么大的风你也不躲吗？唉，要爱惜自己的身体啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/a1d2be32c393d4b86b627107eb7fa65a_929073396216808647.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。我习惯餐前一杯茶，要给你倒一杯吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/99917c21a68ba815271354646ca259d6_4399704201612573415.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午餐后不要久坐，最好起身走一走，有助于消食。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/cd873c193c141d5f8255aa19f700ced5_1824691302231588913.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，如果是来看病的话，抱歉了，今天「不卜庐」大夫的坐诊时间已经结束。不过，你有紧急情况的话那自然另当别论。如果只是来找我的话，正好，现在是我的私人时间。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/58ce7951804db3a35f398d92a08c870d_3557096331746665263.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "还不想睡吗？可你已经在打哈欠了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/6f19dfa9d6301f4b9e3089fdfeec1557_9027780102579502732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术自己·今方古方",
+          "text": "师父的确留下了不少古人总结出的千金良方。不过古方虽然久经考验，我们这些今人却不能一味泥古。古时与今时，环境不同，风俗有异，过去管用的方子今天不一定管用。还守着过去的千金良方，最终是要耽误病患性命的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/e7ca31e37d8b2328c493b5f37d73e17e_5078403476633574999.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术自己·医心",
+          "text": "久病的人精神萎靡，如果得的是重症，更是全凭一口气吊着。这时候最要紧的事不是医治他的身体，而是稳固他的信心。毕竟病人要是认定自己活不成，也不想活了，再高明的医术也都无能为力了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/f4a623776c0eb341652a5bd17c860e00_2913936737523570595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·医患",
+          "text": "凡是来「不卜庐」求医的，不论贵贱，我都会一视同仁，尽力救治，你也不例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/21fd7a2e8e4ee418931b8f2a84f6fbe9_1774278524609017496.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·试药",
+          "text": "甲之毒药，乙之蜜糖。对某些人来说百害无一利的毒物，对另一些人来说却恰好是救命的良药，这在药理上也是成立的。只是这些话却不能对普通病患说，要是让他们知道我开的方子里有毒药，恐怕以后就再也不敢来这里了吧。知道了这件事却毫不恐惧的，你还是第一个。不愧是见多识广的旅行者，那么以后我也可以放心给你开些猛药了吧？正愁找不到试药的人呢，呵呵。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/8f6c72a9d3fc66a75df5d0766ee2d7c1_1151420232058256550.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "呵呵，神也允许我这狂妄之人探索生死之道呢。这神之眼来得正好，多谢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/30976f0956a8c2b82a470164612422de_319113543758656231.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·蜜饯",
+          "text": "说了不怕你笑话，其实我自己也不爱喝苦药。我的体质你也知道，常年喝药是免不了了，没办法，只能喝完药多吃点蜜饯缓解一下嘴里的苦味。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/193faa5c47be8c0e6aa6f972485e6d38_9171050107573818299.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·秘药",
+          "text": "我曾遇上一些人，身体略有不适，便以为自己得了重病，以理相劝仍是不依不饶。后来，我干脆以甜甜花和清心为原料，调制出了一批白色无味的药丸，配给这批疑心过重的「患者」。他们得到安慰后，「病情」有所缓和，转而称赞起了我「秘药」的效力。像这类情况，我也是能够理解的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/ecfe33efb4c75ba864d96fe76463120b_2060155823479479909.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "据说须弥雨林中的蘑菇种类众多，有些品种甚至能让人产生幻觉，大概有些药用价值。不过我一直没有机会详细考察一番，要是以后能有闲暇亲眼看看就好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/18d4b0d55589d21ce6df56f03b4910be_677224183620427532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七…",
+          "text": "你猜得没错，封住七七一缕神智的的确是仙人的秘法。也是多亏七七，我才摸索出了保住将死之人的方法。既然仙人都怜悯这孩子，施法将她留在「此岸」，那我顺水推舟收留她，又有何不妥呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/bcc8935d3296c8a463e3f713011d059f_475744466762703212.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃·道不同",
+          "text": "观念不同而已，我对胡堂主本人并无意见。非要说的话，应该是她防备我居多吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/fc8ec0fcc87dfd3a9aa89987ca1b183e_7754568063063825812.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃·疲惫",
+          "text": "白术：有可能的话，我还是希望胡堂主做生意时注意些方式方法。长生：哦，原来你还记着她到「不卜庐」门口打广告的事啊。白术：唉，没事的时候，也别总是惦记七七了。长生：你其实对她有意见吧？白术：我又怎么会真跟她计较呢，只是每次她把七七带走，我都要费劲拜托总务司寻人，实在太累人了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/e9f4d704705c1d456192c9453e272909_1908399847489134671.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于甘雨…",
+          "text": "仙家体质强健，即便身体有恙，不需药物也能自愈。不像凡夫俗子，一旦伤筋动骨，没有医治非落下残疾不可。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/14ce982c35bebfd3d5c8dbd37a2ff94d_4734661174756531725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于刻晴…",
+          "text": "从面部状态来看，玉衡星应该是习惯了熬夜，且思虑过多，才会时不时显露疲态。想要保养好身体的话，还得放下工作，静养为宜。可惜她太过上进，似乎是打定了主意要用健康换事业，我这话说了她未必听得进去。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/4d3f424e2c3ddd02f8bb144699e17bb0_591716073074229763.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶…",
+          "text": "…这孩子每次来找七七玩耍时都要和我抱怨药苦，问我有没有不苦的药。治病救人的药，哪有不苦的呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/ad77e21a6c9c90908746dbf05ebe6a9d_819596262539067454.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "钟离先生这样的博学多闻之士，哪怕是聊起偏门的古医方也能从容应答，肯定自有一套养生调理的讲究。普通的头疼脑热他自己就能解决了，的确没必要到我这里来开方子。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/ff4f75a5fcd4bedfffba4016e546cae8_3168184244747263448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈…",
+          "text": "白术：降魔大圣杀生为护生，心有大慈悲。我曾有幸亲眼见过他本人，还将昏迷的他带回庐中照顾了一天，只可惜当时我不识仙师真身，又没来得及多交谈几句，他就独自离开了。长生：后来你们不是又见过嘛，不用遗憾啦。白术：说得也是。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/7a36bfc7b1d8e83899c3d0e02c418607_1544691413833198911.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "原来须弥教令院里有你的相识？那能否麻烦你帮我与这位提纳里先生联络一番，我有不少药草方面的事情想要请教。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/78102ec999c9613fc2e4572ca58e9ea8_431683332961660595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其一",
+          "text": "我一个治病的大夫，身上能有什么有趣的故事。你要是对传奇故事感兴趣，不如去和裕茶馆请说书先生讲几段。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/b7efbf3dafac5e1cdaddc50ecdd67919_2461491557306104268.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其二",
+          "text": "非要说什么惊心动魄的故事，我这里实在没有。当初我拜师学医时，也没经历什么重大考验，师父他老人家看我不算太笨，让我发了简单的誓，也就入门了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/392b8723bccdcbfc1cdb40923c6183de_2196603650780315563.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其三",
+          "text": "誓言不算复杂，我还记得个大概：「…若有疾厄来求救者，不得问其贵贱贫富，亦不得瞻前顾后，自虑吉凶。见彼苦恼，若己有之，如此可为苍生大医。」",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/cf99f37fd569ca5ab147d3c6c2c13790_6547069721243516229.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其四",
+          "text": "师父的意思我明白，他是希望我勿为外物所动，多为病患考虑。唉，他老人家的确是宅心仁厚，一心舍己救人，可惜未享天年便早早去了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/972e1e447b43e061a066f56224ca00a5_2232050169264175020.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其五",
+          "text": "医者普救世人，但我以为医者自身也在世人之列。身为医者，既要救人也要救己，舍己为人固然值得钦佩，但没有人生来就是要为他人牺牲的，不该这样。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/edfbb310479274b8a446fa1244543137_1857186339688560557.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "白术的爱好…",
+          "text": "分拣药材，再依其各自特性炮制成药丸或是药膏，这其中的过程我再熟悉不过。世人都觉得制药过程繁难，但在我看来，其实乐趣无穷。试想，竟有人能将天地造化之功凝聚于小小一剂药中，挽救苍生性命，不是很奇妙吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/6af24c9d515fec29fc2b72aabdcbe71a_3882348825807124528.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "白术的烦恼…",
+          "text": "为病人看诊时最麻烦的从来不是配药，而是找对病因。唉，病人们身体不适的原因真是千奇百怪，有和人比赛吃绝云椒椒吃到肠胃受损而不自知的，有过量饮水导致头晕恶心的…我只盼望世人都能以健康为重，没事不要胡乱折腾自己的身体。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/9e03363eb6abcc08863b1a617a339748_5694786683840019327.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "挑食可不是好事。肉、蛋、奶、蔬菜、水果…凡是有营养的食物都要吃，但也不能吃得太多，暴饮暴食同样对身体有害。你别嫌我唠叨，正因我是大夫，才深刻地明白祸从口入的道理。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/45157cd754d4934a3c24a0f8abe00b9b_7368283371198559150.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "怎么买了这么多糖？你别一口气吃太多，糖吃多了容易蛀牙。我？我对甜味的摄入很有分寸，辛辣的食物也不常吃。你说的没错，我的确非常注意饮食管理。毕竟，如果我连自己的饮食都管不好，又怎么好意思给病人提饮食建议呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/994ec3aa5a3ab4846e744c06c23b5ba5_4114688100126106826.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "长生：还有吗？多来点！白术：味道的确不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/31b85b0bd3c76fc5118e94a24a687288_7929189167937063893.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你的厨艺有进步，恭喜。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/3735d1acd9c719115de4a4c0c450698b_6875968313380856227.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "不用担心，味道总比药好些。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/ed83d9a65f0ee8854f92e637ac381281_2216801569022403633.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "长生：那话怎么说来着…哎呀，白术，提醒我一下。白术：过生日时的吉利话吗？长生：对对对。白术：愿你年年有今日，岁岁有今朝。旅行者，生日快乐。长生：话都被你说了。那我说什么？算了我再想点别的。我祝旅行者…嗯…嗯…唉，想不出来了，祝你心情愉快吧。长生：你们笑什么嘛，人就是麻烦，比蛇还会弯弯绕。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/6d1c078583f196de5dec3eee2f377be0_1680395843011336516.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "凡事需循序渐进，不必急躁。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/a219f258ffca6c134af143b322b31200_6195673739095799673.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "多劳你费心，感觉身体比以前强健了不少。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/608fb21495281b005395fede6e1591fe_2855251273900308539.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "大概是最近体质有所变化的缘故，精神比从前好了许多，坐诊一天下来也不觉得疲惫。这都是你的功劳。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/5605070068641dea775d7aed64426255_1348571168075352067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "连日来辛苦你了。明明我自己就是大夫，却还要麻烦你为我的身体忙前忙后，咳咳…惭愧。放心，往后不会有这种事了，我会照顾你。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/9cdaa157dc550f499340d96a99a8d978_6554971312289442567.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "长生：得治治。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/20d3913dd3d07a4be6d85b40cb1546b0_8769252868936874787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "良药苦口啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/fd9a8bd9b542bb8b82b0aa00e2f0b259_2258942239543901883.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "是药三分毒。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/f88e7f35a55f580ca45169ebe45383a5_4916204338114763386.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "病宜速救。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/a5eccb0cccac6738c254acc4c98c3384_7809196428189181862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "须知惜命。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/50e628a9317b61948291db3fb9377226_2596973127963114578.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "且尝，苦尽甘来。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/44e39787084e6b9e9eb8c244bc4f8d64_788254638432528598.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "咳…咳。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/54bf2cd0c37c5389c1083a680b8cdba8_2941302459478761485.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "长生：捣鼓了半天是为了这个啊。白术：长生…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/1b239ed4e8a8e461f1ffaf3401170838_3903549429931370473.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "冒险生活不容易啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/f596b96421803b034e308386b454c10f_5561609749830461682.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "回头擦擦手吧，这箱子我怕不够干净。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/507e71ec062793156b9a6adf47f3237a_8612526204140020833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "…我还能撑。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/05bd3fa3d2b9985d7695f0989ac12f43_8228618263723809274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "长生：不妙不妙！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/a690156cbca09f6a398f0c700540d9a5_3379982592339486807.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我不能…先倒下。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/1cf6b0fd21d0e925b6c3e893b4f53082_2400978090109599109.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "不可冒进。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/394d0c8ab1ca06493d59fa3d8447126a_4557369802475029164.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "留心伤口…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/17cfc822d0a83b1ef7c9d2fa9ef25f4e_1949784275247939449.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "人死灯灭…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/559bd825eb5d3f224d850c2b5c86f9fe_411219256313404668.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "长生，抱歉…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/60eb3f61d7532bfc94ce3a4c7094e10a_267632814257956211.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "愧为医者啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/d0de9740a4545574ce15119bdc0bff00_4364821468872058126.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "啧，眼镜。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/e035a71d99a39cd03bde38ee4e7e0f0d_4277597495992279487.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这点痛，哼。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/9f6b303ee923a4c47359a5689ce0a56a_3150577027451360294.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "伤口由我处理。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/41585ad0a16cff3f7ada9917a11cc435_8691030517944799054.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "这就出诊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/6ead5cb263a56c2f733b49fbcf89d36e_596197749956513620.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "希望别走太远…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/c043c3c267aa27f5abf764ad9af90f07_5780459641456526850.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "嗯，我是「不卜庐」的大夫白术。身体哪里不适，有几天了，和我说说吧…哦？不是来问诊而是专程来找我的？抱歉，恐怕要请你稍候了，我接待完后面的病人就来和你详谈。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/5c5f550c3777fc14f591a35b9258046a_6606823813493068640.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·慢节奏",
+          "text": "白术：这一路上的无限风光，得慢慢欣赏才有意趣。长生：你是不是跑不动了？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/7bc6b7d001b3dc02e5c504e4e4a2f1f1_5866351126075822948.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·天道",
+          "text": "生死有道，天行有常…呵呵，不试一试，谁能知道这天道的边界在哪里呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/65a14f346a19243c762a98388156f933_5566914593761073107.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·体质",
+          "text": "咳…咳…老毛病了，不是什么大事，你别担心。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/1b1cf42ea4d6080068db35aff7203ed6_586201039079834012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨天湿寒，还是找个地方避避吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/b4f7efd77fc19fb873c35ecaf05b1fe7_1791335211980436306.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "别怕，小心看路，不要在树下行走，雷电伤不了我们。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/7a06bc4cf3d2e715c98cac4e6c55e385_5097236245515988802.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "长生：…好冷，好困。白术：长生？这就睡着了吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/e95df8ed1e4adc37f17e855d03a8786f_8069779403332469811.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "白术：好天气，「不卜庐」新收的药草…长生：放心啦，就算七七忘记晾药草，阿桂也不会忘的，好好晒太阳吧。白术：的确。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/3a98a4e3d083ebfae65203509656bde0_3291432806092076126.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "碰上这么大的风你也不躲吗？唉，要爱惜自己的身体啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/47770b74a2775d4f3d8738f4776a5224_6902898625107084067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。我习惯餐前一杯茶，要给你倒一杯吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/6d28fee4b6f1dcd354cb302854dec8ce_1907864261966117796.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午餐后不要久坐，最好起身走一走，有助于消食。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/48e204e305bbf0bf256cc6489caf8716_8973749777355917783.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，如果是来看病的话，抱歉了，今天「不卜庐」大夫的坐诊时间已经结束。不过，你有紧急情况的话那自然另当别论。如果只是来找我的话，正好，现在是我的私人时间。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/e8df71c890e292969babcc17f44c2d9d_1408144931617942060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "还不想睡吗？可你已经在打哈欠了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/c51da934960b62bfbe404e3daad9e111_7555108311794589777.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术自己·今方古方",
+          "text": "师父的确留下了不少古人总结出的千金良方。不过古方虽然久经考验，我们这些今人却不能一味泥古。古时与今时，环境不同，风俗有异，过去管用的方子今天不一定管用。还守着过去的千金良方，最终是要耽误病患性命的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/badb15762dd5d46bda791cca6f9d9d2c_2266760202184695431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术自己·医心",
+          "text": "久病的人精神萎靡，如果得的是重症，更是全凭一口气吊着。这时候最要紧的事不是医治他的身体，而是稳固他的信心。毕竟病人要是认定自己活不成，也不想活了，再高明的医术也都无能为力了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/e7339e6613bb30c166dcd858c5547615_9087095639368611252.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·医患",
+          "text": "凡是来「不卜庐」求医的，不论贵贱，我都会一视同仁，尽力救治，你也不例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/048124f17e69fc4b36ecae4c404798cc_3406316603604158844.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·试药",
+          "text": "甲之毒药，乙之蜜糖。对某些人来说百害无一利的毒物，对另一些人来说却恰好是救命的良药，这在药理上也是成立的。只是这些话却不能对普通病患说，要是让他们知道我开的方子里有毒药，恐怕以后就再也不敢来这里了吧。知道了这件事却毫不恐惧的，你还是第一个。不愧是见多识广的旅行者，那么以后我也可以放心给你开些猛药了吧？正愁找不到试药的人呢，呵呵。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/007507b0b0f32bfcd1755848de5dcd8d_6582636603168383000.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "呵呵，神也允许我这狂妄之人探索生死之道呢。这神之眼来得正好，多谢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/737ccaf528bcf6045278e89ec1bcd2d1_6230206399626023640.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·蜜饯",
+          "text": "说了不怕你笑话，其实我自己也不爱喝苦药。我的体质你也知道，常年喝药是免不了了，没办法，只能喝完药多吃点蜜饯缓解一下嘴里的苦味。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/d362441a767a6115fd3fef55f5c18724_1423276838001271398.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·秘药",
+          "text": "我曾遇上一些人，身体略有不适，便以为自己得了重病，以理相劝仍是不依不饶。后来，我干脆以甜甜花和清心为原料，调制出了一批白色无味的药丸，配给这批疑心过重的「患者」。他们得到安慰后，「病情」有所缓和，转而称赞起了我「秘药」的效力。像这类情况，我也是能够理解的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/1662df46f2c11dbfb689bbdca834ebba_9119208758699911181.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "据说须弥雨林中的蘑菇种类众多，有些品种甚至能让人产生幻觉，大概有些药用价值。不过我一直没有机会详细考察一番，要是以后能有闲暇亲眼看看就好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/647e582603b6498086bd40667d6af7f3_4177920239564186030.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七…",
+          "text": "你猜得没错，封住七七一缕神智的的确是仙人的秘法。也是多亏七七，我才摸索出了保住将死之人的方法。既然仙人都怜悯这孩子，施法将她留在「此岸」，那我顺水推舟收留她，又有何不妥呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/674b24b30cd2ab1c05c235e2e55439d0_9019379257139485793.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃·道不同",
+          "text": "观念不同而已，我对胡堂主本人并无意见。非要说的话，应该是她防备我居多吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/b2758d23c417b34cd18f2437d6a63cea_3574554782963776130.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃·疲惫",
+          "text": "白术：有可能的话，我还是希望胡堂主做生意时注意些方式方法。长生：哦，原来你还记着她到「不卜庐」门口打广告的事啊。白术：唉，没事的时候，也别总是惦记七七了。长生：你其实对她有意见吧？白术：我又怎么会真跟她计较呢，只是每次她把七七带走，我都要费劲拜托总务司寻人，实在太累人了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/689b4ea14e3d48447154141a30a1cc0b_5591768702172499204.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于甘雨…",
+          "text": "仙家体质强健，即便身体有恙，不需药物也能自愈。不像凡夫俗子，一旦伤筋动骨，没有医治非落下残疾不可。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/be75ffa9c7238d31e1a4fe0277785c42_3917142388479885190.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于刻晴…",
+          "text": "从面部状态来看，玉衡星应该是习惯了熬夜，且思虑过多，才会时不时显露疲态。想要保养好身体的话，还得放下工作，静养为宜。可惜她太过上进，似乎是打定了主意要用健康换事业，我这话说了她未必听得进去。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/8bb2e2897f3dfad1b0bc28ae3aa24962_4707633616873800503.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶…",
+          "text": "…这孩子每次来找七七玩耍时都要和我抱怨药苦，问我有没有不苦的药。治病救人的药，哪有不苦的呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/20a532d94903e1bc091ee918180c0ebf_6187015982245986142.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "钟离先生这样的博学多闻之士，哪怕是聊起偏门的古医方也能从容应答，肯定自有一套养生调理的讲究。普通的头疼脑热他自己就能解决了，的确没必要到我这里来开方子。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/d5b0488da6f71b7a3099be99326309bf_2128093943416561708.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈…",
+          "text": "白术：降魔大圣杀生为护生，心有大慈悲。我曾有幸亲眼见过他本人，还将昏迷的他带回庐中照顾了一天，只可惜当时我不识仙师真身，又没来得及多交谈几句，他就独自离开了。长生：后来你们不是又见过嘛，不用遗憾啦。白术：说得也是。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/d2376b5932127c56921f8d9a54c7be0e_8428581521799370238.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "原来须弥教令院里有你的相识？那能否麻烦你帮我与这位提纳里先生联络一番，我有不少药草方面的事情想要请教。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/14837db1b004cff7a8112fbfd9527805_4896089952534699833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其一",
+          "text": "我一个治病的大夫，身上能有什么有趣的故事。你要是对传奇故事感兴趣，不如去和裕茶馆请说书先生讲几段。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/45a94c112e21ffa488731e2a1c4df6e7_919147777258434126.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其二",
+          "text": "非要说什么惊心动魄的故事，我这里实在没有。当初我拜师学医时，也没经历什么重大考验，师父他老人家看我不算太笨，让我发了简单的誓，也就入门了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/f26c45d71db8c2188f5629b859e33c47_2229529616751925287.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其三",
+          "text": "誓言不算复杂，我还记得个大概：「…若有疾厄来求救者，不得问其贵贱贫富，亦不得瞻前顾后，自虑吉凶。见彼苦恼，若己有之，如此可为苍生大医。」",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/794a36465643f690974ff2dec8599cae_1949303091304457222.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其四",
+          "text": "师父的意思我明白，他是希望我勿为外物所动，多为病患考虑。唉，他老人家的确是宅心仁厚，一心舍己救人，可惜未享天年便早早去了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/af39dc1367a07c2fc178a864eb902fec_5793170599583206023.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其五",
+          "text": "医者普救世人，但我以为医者自身也在世人之列。身为医者，既要救人也要救己，舍己为人固然值得钦佩，但没有人生来就是要为他人牺牲的，不该这样。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/029e2c009fe3719032f8cf9a3e7db35c_1672180732335461855.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "白术的爱好…",
+          "text": "分拣药材，再依其各自特性炮制成药丸或是药膏，这其中的过程我再熟悉不过。世人都觉得制药过程繁难，但在我看来，其实乐趣无穷。试想，竟有人能将天地造化之功凝聚于小小一剂药中，挽救苍生性命，不是很奇妙吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/249db823302a7b125a030dec8dd4ce44_8970547909898020632.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "白术的烦恼…",
+          "text": "为病人看诊时最麻烦的从来不是配药，而是找对病因。唉，病人们身体不适的原因真是千奇百怪，有和人比赛吃绝云椒椒吃到肠胃受损而不自知的，有过量饮水导致头晕恶心的…我只盼望世人都能以健康为重，没事不要胡乱折腾自己的身体。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/fb2aec132da31bf862ce967cd6346f6c_5020395064731763108.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "挑食可不是好事。肉、蛋、奶、蔬菜、水果…凡是有营养的食物都要吃，但也不能吃得太多，暴饮暴食同样对身体有害。你别嫌我唠叨，正因我是大夫，才深刻地明白祸从口入的道理。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/995d8f9a932044024dad529f7311d443_7064316692886025078.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "怎么买了这么多糖？你别一口气吃太多，糖吃多了容易蛀牙。我？我对甜味的摄入很有分寸，辛辣的食物也不常吃。你说的没错，我的确非常注意饮食管理。毕竟，如果我连自己的饮食都管不好，又怎么好意思给病人提饮食建议呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/be87c3d2bfd589147c7799bb6c58246b_8976660650028876453.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "长生：还有吗？多来点！白术：味道的确不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/78fbd794807d48bd5a184df3aba708f2_8824501998488819939.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你的厨艺有进步，恭喜。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/be2999df17cec6158fbf1109cd3775f5_7264596990518084034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "不用担心，味道总比药好些。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/087d5350eb7d43a05af39440f7f21199_5818039640039549271.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "长生：那话怎么说来着…哎呀，白术，提醒我一下。白术：过生日时的吉利话吗？长生：对对对。白术：愿你年年有今日，岁岁有今朝。旅行者，生日快乐。长生：话都被你说了。那我说什么？算了我再想点别的。我祝旅行者…嗯…嗯…唉，想不出来了，祝你心情愉快吧。长生：你们笑什么嘛，人就是麻烦，比蛇还会弯弯绕。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/be7fa82a54559a48e870a7a9218d9e78_4490327439309340354.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "凡事需循序渐进，不必急躁。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/d64069591155cc639b169f88923718e1_2633610462194970830.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "多劳你费心，感觉身体比以前强健了不少。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/f585f513763eaf75abfa25d8b6e57d00_1360570199189445846.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "大概是最近体质有所变化的缘故，精神比从前好了许多，坐诊一天下来也不觉得疲惫。这都是你的功劳。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/95708db413493dd2db4202e5869e1c39_5066734946535341867.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "连日来辛苦你了。明明我自己就是大夫，却还要麻烦你为我的身体忙前忙后，咳咳…惭愧。放心，往后不会有这种事了，我会照顾你。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/30bb12c9b76e31feb71430a050c9a79d_7676471592438949143.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "长生：得治治。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/948975fb625f128a87d2137decfd71e1_6647795833802744716.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "良药苦口啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/de26a4c658a2ee2049f950ea80423aac_521836819833097652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "是药三分毒。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/d74c7f099968b71ed9639d9a0a7f93cf_2642457101767452209.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "病宜速救。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/9fba4d64aa571592aa0ec881b0b8b08f_6253151203192695842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "须知惜命。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/34f4b825f05d7c7f99e3fcdd026557ea_6269195622101720008.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "且尝，苦尽甘来。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/aea35e8079a24adf7dfbbe56fc8389f0_6998829588345805858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "咳…咳。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/f9a8f273c7ce11f7687ac54c60bd9b6c_1637658198351421874.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "长生：捣鼓了半天是为了这个啊。白术：长生…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/726d53785d9da1adf00a7cf656ccb4aa_1920796817271676840.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "冒险生活不容易啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/658e749e504caaa3633d1a6226ae1c1d_1948778295151366206.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "回头擦擦手吧，这箱子我怕不够干净。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/f1b3c25b134b05e8d269831215690b76_3151489895538222045.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "…我还能撑。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/f7f6c91e1aad851fad722f7ba4e4dec1_2562385749232385859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "长生：不妙不妙！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/6808b97d49b6990a19ed8fa2b995cd20_5012854159798759357.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我不能…先倒下。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/895e752724d61603fcd5b9e3a51665d8_5050043550235399707.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "不可冒进。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/3c06da5ec3353253187e15f53fb30728_6035764487829125866.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "留心伤口…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/697c570c34af71e1729f999d1f61de73_5629130691120097717.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "人死灯灭…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/10fcb9ff4427ffb8ffdd053fe67dcbe0_6401336487172407612.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "长生，抱歉…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/a5b2fcea5a12f4c7ccf675e997aadf1a_7331308568006298341.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "愧为医者啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/146e5a3f93a303c5b3ea44b1faff16d0_6930118394744641985.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "啧，眼镜。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/85e8b0ac26667b806aee2c50775ca181_5576758628952706436.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这点痛，哼。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/639a7564452659031010d23f2a534b16_2388838016449452193.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "伤口由我处理。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/5de25bf0fae39eb9af9dcd31536d7831_764045972836350376.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "这就出诊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/4f0eb8d65ebea051620101db5e3804bc_5983932699214410063.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "希望别走太远…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/b9b5d5fb8d63216bd44b8a68ee761db6_2974915843038842213.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "嗯，我是「不卜庐」的大夫白术。身体哪里不适，有几天了，和我说说吧…哦？不是来问诊而是专程来找我的？抱歉，恐怕要请你稍候了，我接待完后面的病人就来和你详谈。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/c74ea66dca17d50a60831989fa636456_4430178486022540228.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·慢节奏",
+          "text": "白术：这一路上的无限风光，得慢慢欣赏才有意趣。长生：你是不是跑不动了？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/b19166e49defacd81656f45b025f63fd_2036301757148841071.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·天道",
+          "text": "生死有道，天行有常…呵呵，不试一试，谁能知道这天道的边界在哪里呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/3b795088933ece92fe31dbc88af4ac38_3579982779924113804.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·体质",
+          "text": "咳…咳…老毛病了，不是什么大事，你别担心。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/c078bbeee9d0bcf512130c659048b89d_576964439702077562.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨天湿寒，还是找个地方避避吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/e3f625944382020d0dd5ada292b1c4bc_2754387145017836594.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "别怕，小心看路，不要在树下行走，雷电伤不了我们。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/35b7aa1e2fb579c9fbb3f903fe0573d8_3267459589156243498.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "长生：…好冷，好困。白术：长生？这就睡着了吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/e73e3db1dc8d76b776fb3868d9ef0d86_7322044708722215669.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "白术：好天气，「不卜庐」新收的药草…长生：放心啦，就算七七忘记晾药草，阿桂也不会忘的，好好晒太阳吧。白术：的确。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/390aff354c509e404f82355edb3b4439_2794911483759333126.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "碰上这么大的风你也不躲吗？唉，要爱惜自己的身体啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/982738c49f6a1a480990fb88ead4587f_2469678174900404524.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。我习惯餐前一杯茶，要给你倒一杯吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/b86b85d604c81333ae2cbb64f91b45d4_5594142505976356140.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午餐后不要久坐，最好起身走一走，有助于消食。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/ac90b03445bdf4cf50500d7630bf1943_6190197374334852125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，如果是来看病的话，抱歉了，今天「不卜庐」大夫的坐诊时间已经结束。不过，你有紧急情况的话那自然另当别论。如果只是来找我的话，正好，现在是我的私人时间。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/bdff4e03790541173626abb53f27d5fe_7953177001927294228.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "还不想睡吗？可你已经在打哈欠了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/bc46bfd93dab6eb65e297e5b2692a521_3821855587319641292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术自己·今方古方",
+          "text": "师父的确留下了不少古人总结出的千金良方。不过古方虽然久经考验，我们这些今人却不能一味泥古。古时与今时，环境不同，风俗有异，过去管用的方子今天不一定管用。还守着过去的千金良方，最终是要耽误病患性命的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/fde9851cd27fd99d31951c3be8545772_3222824087651177854.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术自己·医心",
+          "text": "久病的人精神萎靡，如果得的是重症，更是全凭一口气吊着。这时候最要紧的事不是医治他的身体，而是稳固他的信心。毕竟病人要是认定自己活不成，也不想活了，再高明的医术也都无能为力了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/471492d9dac6f0a49ec8db03c8faf547_9112709721459780847.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·医患",
+          "text": "凡是来「不卜庐」求医的，不论贵贱，我都会一视同仁，尽力救治，你也不例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/ff5ed5146201642ef515f35479c037a2_4947238046856522692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·试药",
+          "text": "甲之毒药，乙之蜜糖。对某些人来说百害无一利的毒物，对另一些人来说却恰好是救命的良药，这在药理上也是成立的。只是这些话却不能对普通病患说，要是让他们知道我开的方子里有毒药，恐怕以后就再也不敢来这里了吧。知道了这件事却毫不恐惧的，你还是第一个。不愧是见多识广的旅行者，那么以后我也可以放心给你开些猛药了吧？正愁找不到试药的人呢，呵呵。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/0d5b79c1419d63e3d8bceba737df1a81_7487753779900693547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "呵呵，神也允许我这狂妄之人探索生死之道呢。这神之眼来得正好，多谢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/159f9e288364c88c6d9df5484b73bcc7_1337146660940349082.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·蜜饯",
+          "text": "说了不怕你笑话，其实我自己也不爱喝苦药。我的体质你也知道，常年喝药是免不了了，没办法，只能喝完药多吃点蜜饯缓解一下嘴里的苦味。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/c8aa0d0c7889cee09a8b8cd588672ff2_7358614554448877686.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·秘药",
+          "text": "我曾遇上一些人，身体略有不适，便以为自己得了重病，以理相劝仍是不依不饶。后来，我干脆以甜甜花和清心为原料，调制出了一批白色无味的药丸，配给这批疑心过重的「患者」。他们得到安慰后，「病情」有所缓和，转而称赞起了我「秘药」的效力。像这类情况，我也是能够理解的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/1e700a07f8938522c86918f8d8dc9515_8289742367164986727.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "据说须弥雨林中的蘑菇种类众多，有些品种甚至能让人产生幻觉，大概有些药用价值。不过我一直没有机会详细考察一番，要是以后能有闲暇亲眼看看就好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/35ba20e60565b6bd5300af52707ae90b_7398763432190258362.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七…",
+          "text": "你猜得没错，封住七七一缕神智的的确是仙人的秘法。也是多亏七七，我才摸索出了保住将死之人的方法。既然仙人都怜悯这孩子，施法将她留在「此岸」，那我顺水推舟收留她，又有何不妥呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/a3ed2a8f3c28f0e1022f60865cab1a91_7818347277564209547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃·道不同",
+          "text": "观念不同而已，我对胡堂主本人并无意见。非要说的话，应该是她防备我居多吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/6bd8570dc42190963de3333aa4145304_3034092541329490173.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃·疲惫",
+          "text": "白术：有可能的话，我还是希望胡堂主做生意时注意些方式方法。长生：哦，原来你还记着她到「不卜庐」门口打广告的事啊。白术：唉，没事的时候，也别总是惦记七七了。长生：你其实对她有意见吧？白术：我又怎么会真跟她计较呢，只是每次她把七七带走，我都要费劲拜托总务司寻人，实在太累人了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/55dd588750bfc68709402d32e8fa6c1e_4106619262208868034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于甘雨…",
+          "text": "仙家体质强健，即便身体有恙，不需药物也能自愈。不像凡夫俗子，一旦伤筋动骨，没有医治非落下残疾不可。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/84a7532a4335e412068b76f8f7e4ab0b_1678990104077775638.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于刻晴…",
+          "text": "从面部状态来看，玉衡星应该是习惯了熬夜，且思虑过多，才会时不时显露疲态。想要保养好身体的话，还得放下工作，静养为宜。可惜她太过上进，似乎是打定了主意要用健康换事业，我这话说了她未必听得进去。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/3a14e228a0709707f094a05d8ea92a35_163783292521994706.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶…",
+          "text": "…这孩子每次来找七七玩耍时都要和我抱怨药苦，问我有没有不苦的药。治病救人的药，哪有不苦的呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/10a50dea00390ea2041d977a03e114bc_3782729165102922863.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "钟离先生这样的博学多闻之士，哪怕是聊起偏门的古医方也能从容应答，肯定自有一套养生调理的讲究。普通的头疼脑热他自己就能解决了，的确没必要到我这里来开方子。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/183f996f9c7a7fe006adf229b7259c6d_4226753099712666151.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于魈…",
+          "text": "白术：降魔大圣杀生为护生，心有大慈悲。我曾有幸亲眼见过他本人，还将昏迷的他带回庐中照顾了一天，只可惜当时我不识仙师真身，又没来得及多交谈几句，他就独自离开了。长生：后来你们不是又见过嘛，不用遗憾啦。白术：说得也是。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/de2ad4c58aeea743ea6938197d3b1eb2_6172705936994190138.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "原来须弥教令院里有你的相识？那能否麻烦你帮我与这位提纳里先生联络一番，我有不少药草方面的事情想要请教。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/38a776db4accb13724b0e486bb765d49_3550799088845438192.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其一",
+          "text": "我一个治病的大夫，身上能有什么有趣的故事。你要是对传奇故事感兴趣，不如去和裕茶馆请说书先生讲几段。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/74163685fe57e56491adc1ae0ec702ab_1566323707739348146.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其二",
+          "text": "非要说什么惊心动魄的故事，我这里实在没有。当初我拜师学医时，也没经历什么重大考验，师父他老人家看我不算太笨，让我发了简单的誓，也就入门了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/42e266fc19a6260b3ab260e970982e76_3418823273204051567.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其三",
+          "text": "誓言不算复杂，我还记得个大概：「…若有疾厄来求救者，不得问其贵贱贫富，亦不得瞻前顾后，自虑吉凶。见彼苦恼，若己有之，如此可为苍生大医。」",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/d103bb7436e152758249964e6e496c31_1248055060704707170.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其四",
+          "text": "师父的意思我明白，他是希望我勿为外物所动，多为病患考虑。唉，他老人家的确是宅心仁厚，一心舍己救人，可惜未享天年便早早去了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/ca8bf93893d62266ae1e60b66c51cbed_6674752236179360720.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解白术·其五",
+          "text": "医者普救世人，但我以为医者自身也在世人之列。身为医者，既要救人也要救己，舍己为人固然值得钦佩，但没有人生来就是要为他人牺牲的，不该这样。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/615493bd30298f2ffa50a428619f2a80_6236249222916841741.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "白术的爱好…",
+          "text": "分拣药材，再依其各自特性炮制成药丸或是药膏，这其中的过程我再熟悉不过。世人都觉得制药过程繁难，但在我看来，其实乐趣无穷。试想，竟有人能将天地造化之功凝聚于小小一剂药中，挽救苍生性命，不是很奇妙吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/b6e51b9818248a2020684d2d2da6bb6d_3921267589682450505.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "白术的烦恼…",
+          "text": "为病人看诊时最麻烦的从来不是配药，而是找对病因。唉，病人们身体不适的原因真是千奇百怪，有和人比赛吃绝云椒椒吃到肠胃受损而不自知的，有过量饮水导致头晕恶心的…我只盼望世人都能以健康为重，没事不要胡乱折腾自己的身体。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/0404e126203044aef6e317838b8ab995_1427914583699277302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "挑食可不是好事。肉、蛋、奶、蔬菜、水果…凡是有营养的食物都要吃，但也不能吃得太多，暴饮暴食同样对身体有害。你别嫌我唠叨，正因我是大夫，才深刻地明白祸从口入的道理。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/5af9824a5bb0facd642d84ba77b68fcf_6157491205004359124.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "怎么买了这么多糖？你别一口气吃太多，糖吃多了容易蛀牙。我？我对甜味的摄入很有分寸，辛辣的食物也不常吃。你说的没错，我的确非常注意饮食管理。毕竟，如果我连自己的饮食都管不好，又怎么好意思给病人提饮食建议呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/059a37f75d2f584b64ca1b1d499a665a_9221405432830254387.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "长生：还有吗？多来点！白术：味道的确不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/e5a7159bf703cbfff1bee86493c3794c_6296241111495539393.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你的厨艺有进步，恭喜。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/382be762f7c32f51a3bb1b9a10da6d51_9069960295680584934.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "不用担心，味道总比药好些。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/3f9f299028dcb0c124838e2283286577_3917875813321767751.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "长生：那话怎么说来着…哎呀，白术，提醒我一下。白术：过生日时的吉利话吗？长生：对对对。白术：愿你年年有今日，岁岁有今朝。旅行者，生日快乐。长生：话都被你说了。那我说什么？算了我再想点别的。我祝旅行者…嗯…嗯…唉，想不出来了，祝你心情愉快吧。长生：你们笑什么嘛，人就是麻烦，比蛇还会弯弯绕。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/da746b45012a8fba824085dc9baf75c7_4126471347229981350.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "凡事需循序渐进，不必急躁。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/61cce9ee6fb24620d0b16b3c4c7f7b00_6410175886903611236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "多劳你费心，感觉身体比以前强健了不少。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/696b4b285d13d9d634b1f45466f0444e_2476217157489542859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "大概是最近体质有所变化的缘故，精神比从前好了许多，坐诊一天下来也不觉得疲惫。这都是你的功劳。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/71c72276ce0e971dd0fe67df2c4bdacf_4082595540715332289.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "连日来辛苦你了。明明我自己就是大夫，却还要麻烦你为我的身体忙前忙后，咳咳…惭愧。放心，往后不会有这种事了，我会照顾你。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/dc6c21ff32743986739b3867fd01d747_2255386710760210916.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "长生：得治治。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/1fd02758d40fd824e91cb42a6e3bf5c9_445699959409609910.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "良药苦口啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/392159aef2d0719ab00855fdc52bc345_5949062933880523025.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "是药三分毒。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/adb50f857358035270b860b13ddce8eb_73764756930529361.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "病宜速救。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/c51c27b7b179369980b56ebdf1949207_4749771259551403178.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "须知惜命。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/a4dad505c3bf33cc4ae61cb372ea147a_3776902971555634014.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "且尝，苦尽甘来。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/8d25ff73b6cf29c7ed95d011cf7d85d4_8842943444871973393.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "咳…咳。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/110d1c8bf170bd02b41455f3e32a69fb_3697505079467375193.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "长生：捣鼓了半天是为了这个啊。白术：长生…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/23cef8a66d2053e9bd4dd90eaaeb5eee_4271338700948432715.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "冒险生活不容易啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/8c7762ff3074f271a87405da84a8c02c_1860802075868230244.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "回头擦擦手吧，这箱子我怕不够干净。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/9d418e30667b67ad03d403e6c6090102_2885812220903904601.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "…我还能撑。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/7da6a951bddd4966a0bb2d4cd5388572_489547826105723929.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "长生：不妙不妙！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/ebb5b0f45e8a813ff25adce0823f655e_5748979118723930504.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我不能…先倒下。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/8f21c2c64ac77113934b1a83a3d56d45_4072836445369791702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "不可冒进。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/eae95d32b1bc2bc7d491bd841ec1e911_3675150770983729173.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "留心伤口…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/869ae8abd21cf1d08289bb9405c306d4_5122297008478769159.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "人死灯灭…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/1a932edd89596a74d126bb0ede72988a_3469823033684267942.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "长生，抱歉…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/a092029b75cf5506023ecde5db199a9f_405522209494808882.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "愧为医者啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/31eb5bae239a39fe14386b34810acb8a_8233590221794239858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "啧，眼镜。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/cdd98c98f79a0a23c63ce92c410294ec_5476051414887386698.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这点痛，哼。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/a65c9b2ef2f355d4cfe7aa08558a76f1_6156342007712589691.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "伤口由我处理。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/feeba186d406a9b9a4145c23664274b7_8389430505375389292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "这就出诊。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/16ce36b41ffd9eeb9ae802de95e6f9f3_2151485577958969670.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "希望别走太远…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/05/11/16576950/7c4e09f8495f50a0780b41554b68814a_1382572822974198731.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

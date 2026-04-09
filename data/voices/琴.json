@@ -1,0 +1,1757 @@
+{
+  "id": "59",
+  "name": "琴",
+  "alias": [
+    "琴"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "「蒲公英骑士」，琴，申请入队。从今往后，我的荣誉与忠诚将与你同在！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c3f4dd46e8bcda23ca663403b8b6d45b_698757817831690817.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·行动",
+          "text": "行动起来吧，我们不该在这里停留。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a664ed4a7d7e5991e66e171ecfa41f95_1047684763248480171.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·骑士团",
+          "text": "骑士团的大家…有没有认真工作呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/662e5544dd8223f228f715d31021082f_3761987390165606419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·目标",
+          "text": "走吧，前往下一个目标！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8e1a393fc3bf2da54ff8354872654e0_945134003420674728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨也无法阻挡我的脚步。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/41bcd2f49a44f3f7336d8272f0fe3a4e_5490492983924783044.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "这样的天气，正适合行动。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/02bf2f7475d09422767df3b6ef72b2f6_6029617100413674559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "下雪了，要注意战靴的保养啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f27d92233b834bb12b2afe6b536a635f_7605906434787454688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "舒适的天气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5615a87a206cb8f2955191fa8c93a21a_3477404277349198100.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "传说，那天也刮着罕见的大风…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f85bea54a4feb6369cfd2d65effd6de3_97882087677353551.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "「一日之计在于晨」，今天也请加油。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5933cb2bce7bf892240a08b67c14f384_4143096920208527031.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "好，现在开始处理任务吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae76c9398e54b42ecf5d05e58023b6d7_7311878854163652302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "看样子，差不多已经对咖啡免疫了。如果有什么替代品的话…问问丽莎好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2e148af05a90b8537ab501ac1c452075_821865944476565551.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "今日的修炼就到此为止，做得很棒，辛苦你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6879229cd8c70b0f073a7c69c1e3e52c_2853656440331174240.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴自己…",
+          "text": "今天为了保护民众，把五座遗迹守卫斩成了碎片。唉，我还需要继续磨练自己…这么珍贵的文化遗产，下次应该尝试空手制服…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b144d03b8eb3dcb9c3b344001958fc15_2047459134214301163.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·信条",
+          "text": "我会全力帮助你，当然，如果你的方向偏离了正义，我也会毫不犹豫地指出。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e4397ded654b37e637172fddb933d86f_2764912454950869107.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·誓言",
+          "text": "我以此剑起誓，必将胜利献给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/222f043467c5a52b874e9aae9673a0ef_7314564881674404270.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·任务",
+          "text": "任务可是不会自动完成的，但适当放松一下也好。今天就破例午休几分钟吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/387458dbb8e7bf39584cff10b30bf3df_4340871844907120850.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「永护蒙德」是古恩希尔德家族的家训。每当驱动「神之眼」，我都会想起母亲、还有蒙德民众的期盼。为蒙德而战，为自由而战——我，在所不辞。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d4cf6c9cc33f997876bfd1f1310ee0de_2690256557728571598.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "我谨代表西风骑士团，向你为蒙德所做的一切致以谢意。还请你劳逸结合，量力而…怎么了，你突然笑了起来，我说了什么奇怪的话吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/00fc5cfa69d6c9a300a557f3ddd50ac9_5845829410912560864.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「蒲公英，蒲公英，跟风一起，到远方去吧。」…它乘上风，说不定连天空岛都能飞到呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b28f1ee5df603993eb89a0b5e8e17489_8285132565080110065.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉非常努力，只不过有时过于勉强自己…嗯？问我为什么了解得这么清楚？因为西风教会也归属骑士团管辖。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7086311eb40185e60a7ce98cdda0ffa1_6162211893282336733.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎，有她在的话，我会安心很多。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd396a024d6ea35d58e9691c3d6982a2_7233232665926050476.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏这段时间确实有所成长。希望有朝一日，她的事迹也会被吟游诗人传颂。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7924d34d2e3e2082c9c31908a9549845_2711638861034097212.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "是吗…凯亚也向你提出建言了啊。他是一名优秀的西风骑士，这点毋庸置疑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/70262722c32b26f2bfea46bd9a442ad4_3249901743064455085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "虽说玩乐是孩子的天性，但可莉中意的玩具却都是些危险品。让人难以放心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/11ff17af5c74cb6ba73235e1d8e797f0_234558213114624102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "「天才」这种名词，或许正是为了阿贝多这样的人准备的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7259900204c91043d2983d5214ad1be5_1689218388115304897.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "法尔伽大团长，他是西风骑士团的当代传奇。等到他凯旋归来的那一天，就请你亲自和他交谈吧。相信你也能从中受益。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2a29ecb51de4b53859e93ae3b932877e_3366163833447080643.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔…",
+          "text": "诺艾尔，嗯…那个努力想要成为西风骑士的少女。她的内心仍有软弱之处，现在这个阶段，也许还不适合让她接触外界的凶险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d48bea264749b0a113569d15f5c89ec0_6128550313611236847.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚…",
+          "text": "罗莎莉亚修女总是把「麻烦」挂在嘴边，实际却十分称职。上次我和她说「如果觉得麻烦也可以找我帮忙」，她却回答「这样更麻烦」。嗯…我果然还有很多欠缺啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/515dd4969ef09ff85ce4b08968de7a88_999087379713335232.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克·愧欠",
+          "text": "迪卢克前辈对骑士团的指摘事出有因，即使心中愧疚也无法改变既定的结果…我只想通过我的努力，让他对骑士团有所改观…嗯，这是我的责任。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2cc8b455a82f411338803153e3ae8ae0_5980201609871216068.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克·敬重",
+          "text": "迪卢克…是一位非常可敬的前辈。虽然我们选择的道路不同，但这份共通的守护蒙德的心意，我能感受得到。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b9b0be67d7b2fdffdc256f633bd663e3_8596776431147568508.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖…",
+          "text": "作为炼金术士，砂糖也算天赋异禀。况且她的身边还有阿贝多指点，未来应该不用担心。只是…不，没什么，沉浸在自己的世界里，也不算坏事吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/699f3e9a43cbff8e25b9ef0977ddcfec_598363778004023451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈…",
+          "text": "优菈？咳…请不要对她的身世耿耿于怀，西风骑士会公正地评价每个人。优菈明辨是非，才华出众，偶尔发表危险言论，也只是她的性格使然。哪怕她总是说要挑战我，我也不介意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f2a7531f3e473970931049a98e8cbcab_8737545345127959446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于米卡…",
+          "text": "大团长选中米卡作为远征队的前侦骨干，不仅是出于任务需要，更是看中了他踏实勤恳的品质。从我个人角度而言，我也很荣幸能与这样的同伴共事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/096a72c8ce2c5908cd17c73cd047cd6f_1943933635856024310.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其一",
+          "text": "我肩负着西风骑士团的信任，还有蒙德民众的期待。为此，我不能松懈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/641bee8ed6dd430c0e7440f6b5b70749_5940278852443644839.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其二",
+          "text": "温妮莎的「蒲公英骑士」之名传承至今，曾经有无数伟大的骑士获授这一荣誉。我不能辱没这个名字。因此，决不能松懈。要成为守护众人的坚盾与利剑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a9309f9b4ff340a36388c09b475ddaee_7420724295833758991.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其三",
+          "text": "无论是传奇故事还是史书，都只记载了伟大骑士的功绩。难道，他们一次也不曾迷失过吗…？风啊，请指引我前进的道路。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c2cd669cded3d9ee85ff8254e6a626b7_4420847266793606516.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其四",
+          "text": "全身心投入工作的时候，烦恼和时间会一并被忘却。「你是最适合做这种事情的人选。」…那个时候，大团长法尔伽就是这样对我说的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8dc72c025f1b95c75919035dd42f5580_6174149592840755652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其五",
+          "text": "与你同行时，前进的道路变得无比清晰。就好像，终于有人能依靠，这究竟是…不，一定是我还不够努力。绝对不能松懈，不能辜负西风骑士团和蒙德…但是，谢谢你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d97cd27a75b49aab2a21f27d9cc2adee_2431672785265217368.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "琴的爱好…",
+          "text": "或许可以和你聊聊书上那些英雄传记。嗯，你听说过「坎瑞亚英雄王」的故事吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/209a6423f473cb684bbd54ec8232de55_628026744461331324.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "琴的烦恼…",
+          "text": "假如有什么神奇的药剂，喝了就不需要睡觉…嗯，要不明天问问丽莎吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77569e2dff38eb5f5c992487b0eb4f7f_267781854400432263.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "猫尾酒馆的披萨…很久没吃过了。如果能外送到办公室就好了呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/72d9d9525ec6701acc8dfcc14f427695_6394137542218209400.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "优秀的骑士不能挑食。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/960b6892549832fb4c0d44693b6fb748_4089212912202180175.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "不仅味道好，还兼顾了健康。让你费心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/94eb408fd4d6aea911e4bb7adb5f8c67_8590747524295895458.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "嗯，精神振奋不少。谢谢你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a22707e2965741d694d52727b8dc8d84_7122103136988219447.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "呼…总之，辛苦你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/bc0ef03aa55298a906e0c0ebde6d3774_8914727280608549156.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是值得庆祝的日子。要说为何的话，因为这是受风护佑的你，诞生的日子啊。既然是生日，那就好好休息一下吧。咳咳…祝你生日快乐…啊，请原谅我的冒昧。不知这份礼物，是否能令你满意呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9401b9998079144a5f997d3ad6096864_4905133103648083885.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "好，一鼓作气前往下一个目标。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/440fa44cd1370054cee1107b12caca03_3463233116320226825.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "只要风不停歇，我就不会停下脚步。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5273b99b7d3a49d1817d121ab2e7ff94_6684842523268484034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "就算暂时获得了平静，也不能掉以轻心。身为代理团长，我必须未雨绸缪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9406d94343b574014b7cb841134a7366_5751005459774539448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我做得还不够好。自从与你相遇，一直承蒙你的关照。这份感激…风啊，请容许我的私心。并非作为代理团长，只是作为「琴」，在此起誓——我的剑将与你同在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a6e5f3460a23aae6ed8eef41d412d9aa_6275697209145751605.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "一决胜负！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d382d4c7db2ec1979c519d8fc22d4771_6569747388127504655.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "…哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/11372413bba5384fceb17dd80c5d5f29_5463850972605628712.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "…散！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/41c292118bd30c70d1d2b4c33a7463cd_7217541029824365601.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "风，回应我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/541fb6ec5b686c9efc9a4f1183fb05a0_2116661937306958078.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "以剑为誓！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2010680582753cc0b4ce2b7db34e0dbe_990701926970617269.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "风之神，请指引我们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d2521f2a38d9c3ea301aafb0c6188d71_1228727654330817578.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "惊喜的收获。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6581a2aa8bdd44934f49862cf18b4ce8_1814761100210861305.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "嗯，真是幸运的一天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b123eccde3aea446da22219d4623176_5625956583462888528.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "希望大家都能获得宝藏。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d7816ab63863f64e24db19c3e3e5085a_3260570261714086042.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我，没事…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e56334c8675511cdfc12883be200cd30_5982970982591167393.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还有同伴…需要保护…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f5cd1d953360fd163aeac724145a21df_425239212175770908.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "还不能放弃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a941ea5fe0c1b1e7fc3b3e6c8785f32b_2073628298647993149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "你受伤了…请暂时退后吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/df57400fe3abd2dcc4fc276684bf742f_8101788684407061131.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "让我来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/18648500af02394ec17a6afa10300cbf_5775555905291743153.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "蒙德…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3651e793d7031ed6314dedf10fcb21de_3084993406207464295.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "个人的力量是有极限的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/09dd66141e26778150881801e3cad3c2_6445122485395998144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我…还不够称职…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4470a23faad7e9dffd1f96d1316975b6_4166244960452282863.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这点伤而已！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/02dc391d8347118c8c4a820387ee4522_7062633299870207314.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "随时可以出发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c7609cae4f9483184f7b4011e264a414_4960356504965624013.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "已做好万全准备。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/73bf947e6fce564429799d8a913f0a25_6481020916563151094.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "听凭风引。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a1ee86e81a262ea1a54fb9b720473981_1544810480682827941.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "「蒲公英骑士」，琴，申请入队。从今往后，我的荣誉与忠诚将与你同在！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6b926431a8df7653f424e0098855fa3c_6291991247300849866.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·行动",
+          "text": "行动起来吧，我们不该在这里停留。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7a07e611c7dc8302d5480222a5f660db_2441525412814738303.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·骑士团",
+          "text": "骑士团的大家…有没有认真工作呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d1be86201fdb07c7a3e3127920b2c8ab_5090065073462158695.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·目标",
+          "text": "走吧，前往下一个目标！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/06c047de3efee478a748305074550a4f_2526470875926891603.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨也无法阻挡我的脚步。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b6c99592e9f0b31e4448b5252bd071bd_6678865410325085172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "这样的天气，正适合行动。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/00caaec61c9555ded3ed8d71aa2fba21_1537457709886936708.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "下雪了，要注意战靴的保养啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7fe9875f8a43ea184208277be54cd5ae_3862251951195354253.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "舒适的天气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0139368d3d03e076bc08dc85fd6ba7a8_4807071065650745382.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "传说，那天也刮着罕见的大风…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e806affb801be30f74ef6be05c3c3b71_1305173568264290880.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "「一日之计在于晨」，今天也请加油。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3c7aece29f587ca04b858c2f79065397_10526654417815245.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "好，现在开始处理任务吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6239e2d1ec1125edc1607283cbc1ddf9_7944811232961599668.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "看样子，差不多已经对咖啡免疫了。如果有什么替代品的话…问问丽莎好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/27cfb5a8f980ad7caa75c3a91930fe5e_65268699507119518.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "今日的修炼就到此为止，做得很棒，辛苦你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/68a9159375d602c9a12548c2211aa1fc_6671654267425086326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴自己…",
+          "text": "今天为了保护民众，把五座遗迹守卫斩成了碎片。唉，我还需要继续磨练自己…这么珍贵的文化遗产，下次应该尝试空手制服…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6a45a0229fa716210359f4aaaac808a5_4454915728321371403.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·信条",
+          "text": "我会全力帮助你，当然，如果你的方向偏离了正义，我也会毫不犹豫地指出。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8407c5dbe272fa25686627c6bf78eb4_6323144061630476190.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·誓言",
+          "text": "我以此剑起誓，必将胜利献给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f2b46c9e3b9b52e49aee146270918c8_7829175179784403181.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·任务",
+          "text": "任务可是不会自动完成的，但适当放松一下也好。今天就破例午休几分钟吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/74b3d186874699cc57cbb55c45ceece6_751813389851996256.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「永护蒙德」是古恩希尔德家族的家训。每当驱动「神之眼」，我都会想起母亲、还有蒙德民众的期盼。为蒙德而战，为自由而战——我，在所不辞。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2d70d158a1da1959183477c14019ab95_6513003218594100196.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "我谨代表西风骑士团，向你为蒙德所做的一切致以谢意。还请你劳逸结合，量力而…怎么了，你突然笑了起来，我说了什么奇怪的话吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2bc783a7cec3f4f70c7965a05b1ed7b6_5999292960005590158.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「蒲公英，蒲公英，跟风一起，到远方去吧。」…它乘上风，说不定连天空岛都能飞到呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1efd999c888e70dedf3a95ec7c2c5fff_5670454259659118678.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉非常努力，只不过有时过于勉强自己…嗯？问我为什么了解得这么清楚？因为西风教会也归属骑士团管辖。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ca7947b5f940ab4405803b518498ce60_6573604977305189200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎，有她在的话，我会安心很多。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d45908333cbaad837450dab6eab0c744_1469615970583644958.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏这段时间确实有所成长。希望有朝一日，她的事迹也会被吟游诗人传颂。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e9ee5dc31f5a8c0afc604e91b637ee13_9040977779706407203.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "是吗…凯亚也向你提出建言了啊。他是一名优秀的西风骑士，这点毋庸置疑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d0db41cf124f7ee08ab4e095cd0f0d49_1828173442538784673.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "虽说玩乐是孩子的天性，但可莉中意的玩具却都是些危险品。让人难以放心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c0fa97447cb1272d355e9fc377841683_8700418474068906973.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "「天才」这种名词，或许正是为了阿贝多这样的人准备的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/81229ade19d1e45442f7ea45ea8e50d7_4346654030494604327.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "法尔伽大团长，他是西风骑士团的当代传奇。等到他凯旋归来的那一天，就请你亲自和他交谈吧。相信你也能从中受益。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea4bac5ce7840c79d3623f97d953f840_1418749377113353224.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔…",
+          "text": "诺艾尔，嗯…那个努力想要成为西风骑士的少女。她的内心仍有软弱之处，现在这个阶段，也许还不适合让她接触外界的凶险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/55e37c7aa2ec1d505677746460af878c_3312753156017278923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚…",
+          "text": "罗莎莉亚修女总是把「麻烦」挂在嘴边，实际却十分称职。上次我和她说「如果觉得麻烦也可以找我帮忙」，她却回答「这样更麻烦」。嗯…我果然还有很多欠缺啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6b602f9ed2422f56214ef596a6371fef_4573288161749425197.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克·愧欠",
+          "text": "迪卢克前辈对骑士团的指摘事出有因，即使心中愧疚也无法改变既定的结果…我只想通过我的努力，让他对骑士团有所改观…嗯，这是我的责任。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b61d347f38faab6ae4bf032ae7e9daa_1549645223635667004.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克·敬重",
+          "text": "迪卢克…是一位非常可敬的前辈。虽然我们选择的道路不同，但这份共通的守护蒙德的心意，我能感受得到。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/affbc010c5e76361eb5b6ac76acc3826_8670861029277976390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖…",
+          "text": "作为炼金术士，砂糖也算天赋异禀。况且她的身边还有阿贝多指点，未来应该不用担心。只是…不，没什么，沉浸在自己的世界里，也不算坏事吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/44cb71323878dcc03a90e98d6729111f_7431261924207012561.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈…",
+          "text": "优菈？咳…请不要对她的身世耿耿于怀，西风骑士会公正地评价每个人。优菈明辨是非，才华出众，偶尔发表危险言论，也只是她的性格使然。哪怕她总是说要挑战我，我也不介意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/99451ea5e8eaecd42b6639b30a14644a_1672163808826711307.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于米卡…",
+          "text": "大团长选中米卡作为远征队的前侦骨干，不仅是出于任务需要，更是看中了他踏实勤恳的品质。从我个人角度而言，我也很荣幸能与这样的同伴共事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e1847f673cc5cdd4879c3ecbad227841_435181347804894086.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其一",
+          "text": "我肩负着西风骑士团的信任，还有蒙德民众的期待。为此，我不能松懈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c7ce0c9ed2086b85da6d4972caef64c8_1097456019801193824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其二",
+          "text": "温妮莎的「蒲公英骑士」之名传承至今，曾经有无数伟大的骑士获授这一荣誉。我不能辱没这个名字。因此，决不能松懈。要成为守护众人的坚盾与利剑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8533c06e561f724d9e71472905f197c4_7070311660367377306.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其三",
+          "text": "无论是传奇故事还是史书，都只记载了伟大骑士的功绩。难道，他们一次也不曾迷失过吗…？风啊，请指引我前进的道路。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0da7c7872bb92b3ebf2e759bd7a90b6c_8312380207683034631.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其四",
+          "text": "全身心投入工作的时候，烦恼和时间会一并被忘却。「你是最适合做这种事情的人选。」…那个时候，大团长法尔伽就是这样对我说的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a02d276e6ffccbb37e0efdee2a0ad7ec_1929474508471315848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其五",
+          "text": "与你同行时，前进的道路变得无比清晰。就好像，终于有人能依靠，这究竟是…不，一定是我还不够努力。绝对不能松懈，不能辜负西风骑士团和蒙德…但是，谢谢你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b55039496aff930d2ab0203859bd4cbf_3333785012496412197.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "琴的爱好…",
+          "text": "或许可以和你聊聊书上那些英雄传记。嗯，你听说过「坎瑞亚英雄王」的故事吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d3d52af9ebd572e126d6945de9a63546_4563183695172394424.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "琴的烦恼…",
+          "text": "假如有什么神奇的药剂，喝了就不需要睡觉…嗯，要不明天问问丽莎吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/328c08fec6a7f136c3bcfed7d3983e20_8040618465864048894.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "猫尾酒馆的披萨…很久没吃过了。如果能外送到办公室就好了呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/832a0860c2c2fa0651e3b1a33d98669a_2552963591349631082.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "优秀的骑士不能挑食。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1770f14018b865e06d96b36b5b5259eb_2010893915906027569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "不仅味道好，还兼顾了健康。让你费心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/3ce4cc268c76e9248a24e45117dc2ce9_2945591311492136702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "嗯，精神振奋不少。谢谢你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a1c7df3dfad17a4924e7588cd2d87a92_5340209634928302121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "呼…总之，辛苦你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/866316e067f9e62cbe8ec397f199749f_9120511461978192270.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是值得庆祝的日子。要说为何的话，因为这是受风护佑的你，诞生的日子啊。既然是生日，那就好好休息一下吧。咳咳…祝你生日快乐…啊，请原谅我的冒昧。不知这份礼物，是否能令你满意呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/86c7d3e9539f85690bc0bfe409cb343e_4353216274276922151.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "好，一鼓作气前往下一个目标。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/84bc25ef9122a9f159829a4de58cf137_3584520676366792818.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "只要风不停歇，我就不会停下脚步。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bc994de1a54f27325e729b168da3a64e_3883231960899993871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "就算暂时获得了平静，也不能掉以轻心。身为代理团长，我必须未雨绸缪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/55786ce1dddf70399c9fc19532a7a41a_7063590242455373826.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我做得还不够好。自从与你相遇，一直承蒙你的关照。这份感激…风啊，请容许我的私心。并非作为代理团长，只是作为「琴」，在此起誓——我的剑将与你同在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f3a5a4ef89ebe6a9ec34c384700e9787_8589127714034645234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "一决胜负！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/43819b9cb81de90fa59b00c67064fe96_9142046058884636262.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "…哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7342f4b7e98cb8fee98a80d43a2d8091_3830766226833142110.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "…散！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/00f4975c51bb4ad81c987d659498bf11_7149210001601071507.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "风，回应我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/13833abf77ac70c9c29e9b0fccaec268_5203943652643385296.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "以剑为誓！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dcb9a83ad4f882f884dffa39b3f17f2f_6109662539159546992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "风之神，请指引我们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/618a252fab6b961d764d8c0fc7eb5dea_1971026832497077458.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "惊喜的收获。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7a0a3f55e27d668aa40eb840878e5f15_5080453476779223842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "嗯，真是幸运的一天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/71dcab3ce1dd7a733f3805acb34bdd35_7190158127310262270.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "希望大家都能获得宝藏。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ee688d52055556fe6d0e1bfd5b6290c5_2990595596246636567.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我，没事…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7553d4d5b1a5f55db8cba09bacccb73a_3431530967158412875.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还有同伴…需要保护…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/342e5403d1eb2088d60e17f1bdfee3d4_4272974529799962841.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "还不能放弃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ce7afc8f3e1c3bb5fd48b47abbd906a0_3091089285482785703.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "你受伤了…请暂时退后吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/db8622baf0880b60ad4094b7ced13657_503531793735958060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "让我来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/4a428ec25d2327ddbbe482b3a960c358_7386972399134915593.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "蒙德…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b136ec2733677989563f307207ff129c_3727630648018309113.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "个人的力量是有极限的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/63bb31e7d7601f64a55baf178a7d9099_689231073343995020.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我…还不够称职…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/11e02664e965a224efa839c612e5bee7_985713216806957706.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这点伤而已！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe607437251cedfac4e296f1e9249a9b_5030414500736087480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "随时可以出发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4f718fe7a390a9aab283470f83a375c4_2367825059497578273.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "已做好万全准备。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6a7f2f011c19f9b57e746da016ee884c_6057285638808505610.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "听凭风引。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dbc9ebbbf0590595504fbddb23a2c1ea_1651897174713812215.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "「蒲公英骑士」，琴，申请入队。从今往后，我的荣誉与忠诚将与你同在！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1b1d4727e47905db0f2f708153cd43bc_7930506115789186068.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·行动",
+          "text": "行动起来吧，我们不该在这里停留。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bae5d6a14ed66cc78aedc9b6d87df843_4818537977739997590.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·骑士团",
+          "text": "骑士团的大家…有没有认真工作呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2fba2425bf27959205aa2f1ef2a07b30_7777905738397415303.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·目标",
+          "text": "走吧，前往下一个目标！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dd5fda21d5bc81c265d74fd723d655f4_2446999549804034412.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨也无法阻挡我的脚步。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8de3c4fbc179555425a6e76b09780000_6804670583688650825.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "这样的天气，正适合行动。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2c4de1699c9086b991123a9e8e97ade7_3885173634165460063.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "下雪了，要注意战靴的保养啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c38b46620c6125a94a7a35ff21ae2242_3237460223802718865.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "舒适的天气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9c20410f42e80ec774ea214b6eaddad9_524483472394254923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "传说，那天也刮着罕见的大风…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a35551927330250bd1f1575de1afe439_1250416468641346108.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "「一日之计在于晨」，今天也请加油。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e9ff7bd91ae28de5c8f7fa4d649d47e5_1236299785095206563.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "好，现在开始处理任务吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6dd5cea1cee2a055a4f62543d4bab4a0_8702322320963221933.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "看样子，差不多已经对咖啡免疫了。如果有什么替代品的话…问问丽莎好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6d06607b925e250bdf02b7046b865db3_4202586616236839485.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "今日的修炼就到此为止，做得很棒，辛苦你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/caa93f21c04c40a1448fff34c27b053d_205705375878322949.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴自己…",
+          "text": "今天为了保护民众，把五座遗迹守卫斩成了碎片。唉，我还需要继续磨练自己…这么珍贵的文化遗产，下次应该尝试空手制服…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/458170278d9b995c508b56f1c10dc128_2697454841838326055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·信条",
+          "text": "我会全力帮助你，当然，如果你的方向偏离了正义，我也会毫不犹豫地指出。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ecc29cbffff13bc9fed284ec47b0c3f2_6779241719223645415.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·誓言",
+          "text": "我以此剑起誓，必将胜利献给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7f8314d4ed6d157e144e4589c1ce2bfc_5681976166898131777.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·任务",
+          "text": "任务可是不会自动完成的，但适当放松一下也好。今天就破例午休几分钟吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/11041f63d9ce876891dfba9273311c2c_3872596617262033871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「永护蒙德」是古恩希尔德家族的家训。每当驱动「神之眼」，我都会想起母亲、还有蒙德民众的期盼。为蒙德而战，为自由而战——我，在所不辞。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3c84faa84383d0ae0fad24a33660e0db_2112767083743058609.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "我谨代表西风骑士团，向你为蒙德所做的一切致以谢意。还请你劳逸结合，量力而…怎么了，你突然笑了起来，我说了什么奇怪的话吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3efafab3141c9bd7d188a4bb77c82714_1737048045575028448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「蒲公英，蒲公英，跟风一起，到远方去吧。」…它乘上风，说不定连天空岛都能飞到呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de5138cc909e33953aa2962e0c1b6f62_8864548414280345186.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉非常努力，只不过有时过于勉强自己…嗯？问我为什么了解得这么清楚？因为西风教会也归属骑士团管辖。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e3dbbbf6ca6bc2f457615f81c61bb619_2385262385082237405.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎，有她在的话，我会安心很多。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ccd5249211653ff718ce1d4444ed027f_4406932482817743820.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏这段时间确实有所成长。希望有朝一日，她的事迹也会被吟游诗人传颂。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e677b06a8f3c4c9020757b3f81c2a9f7_4598425862078645056.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "是吗…凯亚也向你提出建言了啊。他是一名优秀的西风骑士，这点毋庸置疑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/96b73fedcfd6965f2309b01fdcd1bf69_1929807819021723478.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "虽说玩乐是孩子的天性，但可莉中意的玩具却都是些危险品。让人难以放心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5b07b24c9e2838c0a4a814fa5883e6c4_6067796164274933880.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "「天才」这种名词，或许正是为了阿贝多这样的人准备的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d203462351ebd06ec29c2288a0017ac_4276109026313957675.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "法尔伽大团长，他是西风骑士团的当代传奇。等到他凯旋归来的那一天，就请你亲自和他交谈吧。相信你也能从中受益。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eca90c4499b00536dada301a3bc62016_7346795725042957372.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔…",
+          "text": "诺艾尔，嗯…那个努力想要成为西风骑士的少女。她的内心仍有软弱之处，现在这个阶段，也许还不适合让她接触外界的凶险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0c5b23429b102032bc46105bd399edce_2878944502417902503.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚…",
+          "text": "罗莎莉亚修女总是把「麻烦」挂在嘴边，实际却十分称职。上次我和她说「如果觉得麻烦也可以找我帮忙」，她却回答「这样更麻烦」。嗯…我果然还有很多欠缺啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/66126005d3098471b683f1cbd653d8a1_8905093651846774980.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克·愧欠",
+          "text": "迪卢克前辈对骑士团的指摘事出有因，即使心中愧疚也无法改变既定的结果…我只想通过我的努力，让他对骑士团有所改观…嗯，这是我的责任。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd9c2afb8d1e393b76db5cc287d0fa7c_4375935543204269987.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克·敬重",
+          "text": "迪卢克…是一位非常可敬的前辈。虽然我们选择的道路不同，但这份共通的守护蒙德的心意，我能感受得到。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6474fedfbe385257613648bac3647e02_287277816286608279.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖…",
+          "text": "作为炼金术士，砂糖也算天赋异禀。况且她的身边还有阿贝多指点，未来应该不用担心。只是…不，没什么，沉浸在自己的世界里，也不算坏事吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2ca8125b582d34d307d681317799cc65_4327460518648489951.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈…",
+          "text": "优菈？咳…请不要对她的身世耿耿于怀，西风骑士会公正地评价每个人。优菈明辨是非，才华出众，偶尔发表危险言论，也只是她的性格使然。哪怕她总是说要挑战我，我也不介意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a72c6caa76d17b6640239d428fee944_4144867573435930890.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于米卡…",
+          "text": "大团长选中米卡作为远征队的前侦骨干，不仅是出于任务需要，更是看中了他踏实勤恳的品质。从我个人角度而言，我也很荣幸能与这样的同伴共事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/178f13eb6a375fa8149daf7f3ccb599d_3416416608476849421.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其一",
+          "text": "我肩负着西风骑士团的信任，还有蒙德民众的期待。为此，我不能松懈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6ef1922e9ba83b0b21cd0bf90d8d60ad_1701145317915598216.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其二",
+          "text": "温妮莎的「蒲公英骑士」之名传承至今，曾经有无数伟大的骑士获授这一荣誉。我不能辱没这个名字。因此，决不能松懈。要成为守护众人的坚盾与利剑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9429e1c91f2e476aa75814c30b15d91a_83058689444043268.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其三",
+          "text": "无论是传奇故事还是史书，都只记载了伟大骑士的功绩。难道，他们一次也不曾迷失过吗…？风啊，请指引我前进的道路。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f1660f2ee3547a966caef56c9e663eb6_2217473318853302384.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其四",
+          "text": "全身心投入工作的时候，烦恼和时间会一并被忘却。「你是最适合做这种事情的人选。」…那个时候，大团长法尔伽就是这样对我说的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8fbe836a378dc9b589975f50fd5b28c2_688729265068175047.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其五",
+          "text": "与你同行时，前进的道路变得无比清晰。就好像，终于有人能依靠，这究竟是…不，一定是我还不够努力。绝对不能松懈，不能辜负西风骑士团和蒙德…但是，谢谢你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/570e06ca8e94190296bd7d1a272135c3_5720498236431243175.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "琴的爱好…",
+          "text": "或许可以和你聊聊书上那些英雄传记。嗯，你听说过「坎瑞亚英雄王」的故事吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c96aecf5b34cb7ec82d9f3d3825292b2_5141172116895019594.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "琴的烦恼…",
+          "text": "假如有什么神奇的药剂，喝了就不需要睡觉…嗯，要不明天问问丽莎吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8b10732888c1d49754684e1405c56d8e_5793732999973404547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "猫尾酒馆的披萨…很久没吃过了。如果能外送到办公室就好了呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/197be7322f184bfcdae80f8552e80c73_3211806680406007799.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "优秀的骑士不能挑食。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ef10787dab99fe8b7e45ce5e5cc76146_5027361337438699501.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "不仅味道好，还兼顾了健康。让你费心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/032af768d63f818b4178f6eeb885988f_1335463108960055862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "嗯，精神振奋不少。谢谢你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d0cbc38228f5dbb8ef591baeb3e2f2cf_3757347556507940900.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "呼…总之，辛苦你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/9af238db0631396b64abb2859c36b53e_2883126353516425731.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是值得庆祝的日子。要说为何的话，因为这是受风护佑的你，诞生的日子啊。既然是生日，那就好好休息一下吧。咳咳…祝你生日快乐…啊，请原谅我的冒昧。不知这份礼物，是否能令你满意呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d2b285c77bb10d03f3137dd365ae344d_6319378739678027271.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "好，一鼓作气前往下一个目标。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bee76ba63e0189837e2e58455ad346cf_2880032836962389446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "只要风不停歇，我就不会停下脚步。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/490ae692f7c1f81ab63957c0ae68d6c3_3511228027334236734.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "就算暂时获得了平静，也不能掉以轻心。身为代理团长，我必须未雨绸缪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3da2093ccb3368b1c37ed77787e3d065_8514405451309033486.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我做得还不够好。自从与你相遇，一直承蒙你的关照。这份感激…风啊，请容许我的私心。并非作为代理团长，只是作为「琴」，在此起誓——我的剑将与你同在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/675111ce44a69440fa9d8c829f5a7080_8565183401060761417.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "一决胜负！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/18db7fd86276bed4a07b5cef586e39f1_9191459220541852075.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "…哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/746e5c97f8c8a8ba27825ba1bb7d5a1b_3254260339537585405.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "…散！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f2af96fd3e5ebf63b8f873b39ee97341_3633576189586979055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "风，回应我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c1c67bc421fcfc5f1d0f10098732f9aa_7452403781578722543.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "以剑为誓！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b94689fefa403fbc5984514f81a0a21b_6274290103081615733.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "风之神，请指引我们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe542e3d9b99a40a24fb48b45cd272ed_699169509451470318.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "惊喜的收获。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3984aab8801cbfbbf65aa49e4c2bd60d_1808069786173807512.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "嗯，真是幸运的一天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/08061d52f10436428f0d5dcc8fa92426_4009423629458508546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "希望大家都能获得宝藏。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/02df27a5d648cefe11e675055214cac7_6619070878502671667.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我，没事…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c7abcf3db8db72f3d96c30ffa2a5fece_3508830147915205657.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还有同伴…需要保护…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/81fbf565c693a07d82ae9c499d1bed51_4407069057802857696.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "还不能放弃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f9d40c5be1af6798feae4b420ce2d523_4268858335788865392.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "你受伤了…请暂时退后吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2f4ad74648434cc982a0a267e6c32de1_2221420240121702646.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "让我来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f7ea5cefc97b86bec80420f8b70e5c4a_8523519204012465562.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "蒙德…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d19b1f2c5e7e72d4391d111352181921_5926310434290018504.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "个人的力量是有极限的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6d0fa4394a0f9d11ec5bf50d17c00410_5736932744707868990.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我…还不够称职…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f662451a28e0baec01b4e45ce7942ad6_8697532120412426552.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这点伤而已！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/836fe8f4b06f35a5e0d9e5b694a127b3_2137424958507567600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "随时可以出发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8b4fbe7a90a0bbe4dfdc6293940924db_3008416731376756784.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "已做好万全准备。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8d73b20acb3e9fcd5257c3d3111efedd_4179440817024863049.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "听凭风引。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ad915d80f10a048441a6a8cfeb4276fa_6361477794652133124.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "「蒲公英骑士」，琴，申请入队。从今往后，我的荣誉与忠诚将与你同在！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c98e0f5ebe54385b580eae3a4fca1ae3_2512483087326035583.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·行动",
+          "text": "行动起来吧，我们不该在这里停留。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8ba4cf462d2432db77aa04ef141b1d61_5001550714020783823.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·骑士团",
+          "text": "骑士团的大家…有没有认真工作呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1a916e6e68b3d3f666b0180203a96642_3862257284707023326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·目标",
+          "text": "走吧，前往下一个目标！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f283be2969eeb2c855c8f7462bd22a87_9034585095287591249.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨也无法阻挡我的脚步。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b1e1ef0aa6f88eddd230435f7bc7d8b9_2812139009090356253.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "这样的天气，正适合行动。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7c9849e26a2dd6c8e12bf0f4a228c0e9_6164825105863885700.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "下雪了，要注意战靴的保养啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/04ac96f2f59a252ad466d2d52e3f83aa_8494824494434865201.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "舒适的天气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d286d24391bfaf2c4dae22c1435e2105_4129091604374567205.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "传说，那天也刮着罕见的大风…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dabfeeca607ecec8543f8b8747a05069_2110727692838329965.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "「一日之计在于晨」，今天也请加油。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/43f71f7dd1ade2fd259745f4b1abeed2_6658183627810859692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "好，现在开始处理任务吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d9b6aa63d57cec96b5dc996615c10305_1224163315507871874.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "看样子，差不多已经对咖啡免疫了。如果有什么替代品的话…问问丽莎好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/665873ecf23fb47dfb96861469c0d683_3689374261387471073.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "今日的修炼就到此为止，做得很棒，辛苦你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/64b699c98bc8aa1106ec81822b0a365e_7075977989752319698.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴自己…",
+          "text": "今天为了保护民众，把五座遗迹守卫斩成了碎片。唉，我还需要继续磨练自己…这么珍贵的文化遗产，下次应该尝试空手制服…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/68adeab94e2291b7e4a3e4600b5e12d9_8257506386805227792.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·信条",
+          "text": "我会全力帮助你，当然，如果你的方向偏离了正义，我也会毫不犹豫地指出。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/371dcacdaac7140caa4c5ab85dd51d40_6195108575886933811.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·誓言",
+          "text": "我以此剑起誓，必将胜利献给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5be9962ef50f5bd957ea0223044be989_6246423887034560827.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·任务",
+          "text": "任务可是不会自动完成的，但适当放松一下也好。今天就破例午休几分钟吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0ddfda2975e74772a1e83b0dcd03ca22_7531190558730722470.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「永护蒙德」是古恩希尔德家族的家训。每当驱动「神之眼」，我都会想起母亲、还有蒙德民众的期盼。为蒙德而战，为自由而战——我，在所不辞。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1236e57181c8401593639a971da5d3a9_6988210653059224916.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "我谨代表西风骑士团，向你为蒙德所做的一切致以谢意。还请你劳逸结合，量力而…怎么了，你突然笑了起来，我说了什么奇怪的话吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4a5ae2d6edfc942e07240254f8ab283b_8909825580855172631.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「蒲公英，蒲公英，跟风一起，到远方去吧。」…它乘上风，说不定连天空岛都能飞到呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d65d11a495745a35fbc3dd5ed8642268_5314168233134626350.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉非常努力，只不过有时过于勉强自己…嗯？问我为什么了解得这么清楚？因为西风教会也归属骑士团管辖。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f63582d58f8ff9bc99bf3e047b0f205e_2950261923042725802.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎，有她在的话，我会安心很多。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/67de99c827af9894bfb60ac1f1332cac_780450967519419438.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏这段时间确实有所成长。希望有朝一日，她的事迹也会被吟游诗人传颂。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/656866bef4e6209b5253af00c1925e95_315535446269979920.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "是吗…凯亚也向你提出建言了啊。他是一名优秀的西风骑士，这点毋庸置疑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/88c54697da011ea60f16a23fbeacec4e_9024576735781870168.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "虽说玩乐是孩子的天性，但可莉中意的玩具却都是些危险品。让人难以放心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/03ea872f6ecc1862b38b6b46b8aeae48_6861193132644979065.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "「天才」这种名词，或许正是为了阿贝多这样的人准备的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f9e5fd457490b5ff1751c02de781239f_3901394113859614641.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "法尔伽大团长，他是西风骑士团的当代传奇。等到他凯旋归来的那一天，就请你亲自和他交谈吧。相信你也能从中受益。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b4d0f199712e0ad543de2da9d1837c46_7732495124707323728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔…",
+          "text": "诺艾尔，嗯…那个努力想要成为西风骑士的少女。她的内心仍有软弱之处，现在这个阶段，也许还不适合让她接触外界的凶险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e9491ead84297cf778203b4303e469a4_8039749011996650212.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚…",
+          "text": "罗莎莉亚修女总是把「麻烦」挂在嘴边，实际却十分称职。上次我和她说「如果觉得麻烦也可以找我帮忙」，她却回答「这样更麻烦」。嗯…我果然还有很多欠缺啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3614ba304ffbfa9ee96c8f7791f81dc1_2767986483221582998.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克·愧欠",
+          "text": "迪卢克前辈对骑士团的指摘事出有因，即使心中愧疚也无法改变既定的结果…我只想通过我的努力，让他对骑士团有所改观…嗯，这是我的责任。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2b29ce82b7e97de8d2bdfaf3e6b0ac95_6464493965105603480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克·敬重",
+          "text": "迪卢克…是一位非常可敬的前辈。虽然我们选择的道路不同，但这份共通的守护蒙德的心意，我能感受得到。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ba6c7911d3b21125030700182a7e0774_7048031890096992304.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖…",
+          "text": "作为炼金术士，砂糖也算天赋异禀。况且她的身边还有阿贝多指点，未来应该不用担心。只是…不，没什么，沉浸在自己的世界里，也不算坏事吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6d750e5894c8e24dd1b743ac3489dc5d_4571594635485685901.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈…",
+          "text": "优菈？咳…请不要对她的身世耿耿于怀，西风骑士会公正地评价每个人。优菈明辨是非，才华出众，偶尔发表危险言论，也只是她的性格使然。哪怕她总是说要挑战我，我也不介意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2b7efe24cbeea9c22fd26a7ece1f0d06_4880673926204961145.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于米卡…",
+          "text": "大团长选中米卡作为远征队的前侦骨干，不仅是出于任务需要，更是看中了他踏实勤恳的品质。从我个人角度而言，我也很荣幸能与这样的同伴共事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/5d60b6195e17fd5ba49828e6579391b0_5493729658093346487.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其一",
+          "text": "我肩负着西风骑士团的信任，还有蒙德民众的期待。为此，我不能松懈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dedda57977cd8da1a5d467bf19b79f38_7068104581525858568.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其二",
+          "text": "温妮莎的「蒲公英骑士」之名传承至今，曾经有无数伟大的骑士获授这一荣誉。我不能辱没这个名字。因此，决不能松懈。要成为守护众人的坚盾与利剑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/beb30ad40714baad2c0a208f066781c7_6408682715030018751.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其三",
+          "text": "无论是传奇故事还是史书，都只记载了伟大骑士的功绩。难道，他们一次也不曾迷失过吗…？风啊，请指引我前进的道路。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5e4190003de16dbc38f91fdccee73dcb_7643170394944505050.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其四",
+          "text": "全身心投入工作的时候，烦恼和时间会一并被忘却。「你是最适合做这种事情的人选。」…那个时候，大团长法尔伽就是这样对我说的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/67be4be67fc6bd0ee34065af4ff8305f_1189266867636114604.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解琴·其五",
+          "text": "与你同行时，前进的道路变得无比清晰。就好像，终于有人能依靠，这究竟是…不，一定是我还不够努力。绝对不能松懈，不能辜负西风骑士团和蒙德…但是，谢谢你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d05a68887a62b3d20564a0e8fd6784c7_2949404310422202857.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "琴的爱好…",
+          "text": "或许可以和你聊聊书上那些英雄传记。嗯，你听说过「坎瑞亚英雄王」的故事吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5f22aba699d072c120b89dcfe161dd1_3289356677028893924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "琴的烦恼…",
+          "text": "假如有什么神奇的药剂，喝了就不需要睡觉…嗯，要不明天问问丽莎吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a914054630967680c6b1ce4bf378d2d7_5536042195171767077.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "猫尾酒馆的披萨…很久没吃过了。如果能外送到办公室就好了呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3be7b416baf87c8b90f0c68bf497fa2d_8318253499338862268.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "优秀的骑士不能挑食。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/72ee39c389fe77cf145d04fda74f9501_1839290916019597641.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "不仅味道好，还兼顾了健康。让你费心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e99021f4d1c957a795443d400f8188f2_2029153278129668638.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "嗯，精神振奋不少。谢谢你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/eea28dd162d759fae2cad2f51855376b_2336850970774594686.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "呼…总之，辛苦你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8e4b6317028d1f1ef0e46006a531b6f0_3224331747239218185.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是值得庆祝的日子。要说为何的话，因为这是受风护佑的你，诞生的日子啊。既然是生日，那就好好休息一下吧。咳咳…祝你生日快乐…啊，请原谅我的冒昧。不知这份礼物，是否能令你满意呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2e37dd136faa8c3f5d9fea686b8d65e8_4003860067754733148.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "好，一鼓作气前往下一个目标。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/248b17866f3bf5d8a1f69c1091bafc23_894492591488786813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "只要风不停歇，我就不会停下脚步。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e225a882859b9f1032d54b3e99ad4a75_1623100761699526156.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "就算暂时获得了平静，也不能掉以轻心。身为代理团长，我必须未雨绸缪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4cda285a9e5d9e1dd1d3e42dc54c6d1d_8057039178166092025.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我做得还不够好。自从与你相遇，一直承蒙你的关照。这份感激…风啊，请容许我的私心。并非作为代理团长，只是作为「琴」，在此起誓——我的剑将与你同在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f4747c09857a78c5fed186596917ed54_4254379180451688033.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "一决胜负！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/14c56b40f86baa16583a164ba7914a5e_2282045366084627363.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "…哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/95402f87c9736bb580472ad83bcd4afd_1210856692388621474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "…散！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cfa6a04c46abff7e7e8753f05204f138_3805171273864766376.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "风，回应我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2ce5f85d79c704eb6ff881ddcd758e19_8172731360099712332.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "以剑为誓！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/00931d53bf3e850120694abf1f73a3c3_8663685937181423420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "风之神，请指引我们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd63b4537b77f95ec8786b20097e2028_6435262828585034950.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "惊喜的收获。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5d46dca0e6d42ccd57568cc205965a76_2272314356500724964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "嗯，真是幸运的一天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a39c8878384b829cb06f8c921d3e08ae_2955349233648061335.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "希望大家都能获得宝藏。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5958e1997a34064769459fd69392bec0_8602906287852667310.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我，没事…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/91898094a03acb7a45f9e83911603c45_8166600742877563813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还有同伴…需要保护…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b2e91d4654341b9fc1165e078282fea_3254108932771139403.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "还不能放弃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7aaac0d511f33176a0b82e4f4faaa23c_4046340186449491366.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "你受伤了…请暂时退后吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f63356d56a4d72f1d26975087285f266_3672546725302190380.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "让我来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/5adfb6969e0075503f745d2c33e75311_7656523750207205145.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "蒙德…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bde8f0b6a9f37af3b288574e8b8202ad_3068492636766836696.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "个人的力量是有极限的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/60806883bd44dabb2b561063d8b69a25_4606583844502942964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我…还不够称职…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c00da67229cafd1c4ea641ef9fba08a3_1431751070564823096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "这点伤而已！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/449d499d6d0bb8fc3ca99c7aded6ecfa_7706485603851536737.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "随时可以出发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5416503a7b81f1f0949fec68d275fcff_3219435625288524964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "已做好万全准备。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/be21e37bde89a102e458365d3f019662_6327251454510631507.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "听凭风引。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3a8baa27aff33204039a18525bf3ea14_2826835711125322254.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

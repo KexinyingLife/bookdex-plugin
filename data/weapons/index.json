@@ -1,0 +1,1845 @@
+{
+  "weapons": [
+    {
+      "id": "500507",
+      "name": "「究极霸王超级魔剑」",
+      "alias": [
+        "「究极霸王超级魔剑」"
+      ],
+      "selectorSig": "d4a4c402f4e78e7cf87091cf624beeabedc71939"
+    },
+    {
+      "id": "2604",
+      "name": "「渔获」",
+      "alias": [
+        "「渔获」"
+      ],
+      "selectorSig": "5fed95cbc9e9f8a368b0729605381a0c4c239787"
+    },
+    {
+      "id": "219",
+      "name": "阿莫斯之弓",
+      "alias": [
+        "阿莫斯之弓"
+      ],
+      "selectorSig": "2335b2e996abbec0aca0eb16dd1d327c017082db"
+    },
+    {
+      "id": "165",
+      "name": "暗铁剑",
+      "alias": [
+        "暗铁剑"
+      ],
+      "selectorSig": "5c7a32b0c839bac3b9fd9fd036a234e9f25075b3"
+    },
+    {
+      "id": "1685",
+      "name": "暗巷的酒与诗",
+      "alias": [
+        "暗巷的酒与诗"
+      ],
+      "selectorSig": "e3e92809555aa62b208b4fff02fa39621b7ecccd"
+    },
+    {
+      "id": "1684",
+      "name": "暗巷猎手",
+      "alias": [
+        "暗巷猎手"
+      ],
+      "selectorSig": "8f10d1b8ea5aec8af10be183f05ddd9add0073bd"
+    },
+    {
+      "id": "1683",
+      "name": "暗巷闪光",
+      "alias": [
+        "暗巷闪光"
+      ],
+      "selectorSig": "160647dc0da55f417d780ccff2c889189db82e73"
+    },
+    {
+      "id": "2288",
+      "name": "白辰之环",
+      "alias": [
+        "白辰之环"
+      ],
+      "selectorSig": "a8db8ac65da2b5b4a6a4e50ded018e635c86946b"
+    },
+    {
+      "id": "1076",
+      "name": "白铁大剑",
+      "alias": [
+        "白铁大剑"
+      ],
+      "selectorSig": "52c4531cc3b2710faf12c9298080f79d7cd9639e"
+    },
+    {
+      "id": "683",
+      "name": "白缨枪",
+      "alias": [
+        "白缨枪"
+      ],
+      "selectorSig": "50aff429a526019d81b444f5281ef9e5a0729c30"
+    },
+    {
+      "id": "290",
+      "name": "白影剑",
+      "alias": [
+        "白影剑"
+      ],
+      "selectorSig": "717538c9f84790269962709e474df9283d412b90"
+    },
+    {
+      "id": "501495",
+      "name": "白雨心弦",
+      "alias": [
+        "白雨心弦"
+      ],
+      "selectorSig": "e6b1cab82e3957e95b38dc1cc726bd32e6423fcd"
+    },
+    {
+      "id": "6488",
+      "name": "碧落之珑",
+      "alias": [
+        "碧落之珑"
+      ],
+      "selectorSig": "85f91f3fe97402a8ffc70615e93ed1c6ba3fd073"
+    },
+    {
+      "id": "7313",
+      "name": "便携动力锯",
+      "alias": [
+        "便携动力锯"
+      ],
+      "selectorSig": "af9388dc71d5b8f2ff2942d433066472b315d88a"
+    },
+    {
+      "id": "3871",
+      "name": "波乱月白经津",
+      "alias": [
+        "波乱月白经津"
+      ],
+      "selectorSig": "d6019ee09aeef950ff10a41efe22f31d189bf930"
+    },
+    {
+      "id": "2807",
+      "name": "不灭月华",
+      "alias": [
+        "不灭月华"
+      ],
+      "selectorSig": "838eed53f7f5def349330f5f59be84bfb54a09d3"
+    },
+    {
+      "id": "500420",
+      "name": "裁断",
+      "alias": [
+        "裁断"
+      ],
+      "selectorSig": "6f0a8e3f6b0913ae940e87513dee7f80a53a6cda"
+    },
+    {
+      "id": "5887",
+      "name": "裁叶萃光",
+      "alias": [
+        "裁叶萃光"
+      ],
+      "selectorSig": "f07cae0b5e1a23b98d1d0c54d6c832e85c8a5f18"
+    },
+    {
+      "id": "994",
+      "name": "苍翠猎弓",
+      "alias": [
+        "苍翠猎弓"
+      ],
+      "selectorSig": "d9a075004dea61ab9812f2379391d0c133c64979"
+    },
+    {
+      "id": "2129",
+      "name": "苍古自由之誓",
+      "alias": [
+        "苍古自由之誓"
+      ],
+      "selectorSig": "68057ca792f0a88d7c4866a71bf123e8a6807ca2"
+    },
+    {
+      "id": "502133",
+      "name": "苍纹角杯",
+      "alias": [
+        "苍纹角杯"
+      ],
+      "selectorSig": "6708fe7e4101434f52c1fe0ba65ebd27cd3d61f9"
+    },
+    {
+      "id": "505478",
+      "name": "苍耀",
+      "alias": [
+        "苍耀"
+      ],
+      "selectorSig": "7c1d2e92bb8501bf4cb0f26f4a55e26520eb89eb"
+    },
+    {
+      "id": "7406",
+      "name": "测距规",
+      "alias": [
+        "测距规"
+      ],
+      "selectorSig": "40daae6b6d315edbd6e205617f7abadc85513f79"
+    },
+    {
+      "id": "1222",
+      "name": "尘世之锁",
+      "alias": [
+        "尘世之锁"
+      ],
+      "selectorSig": "b7c0fe33af4ac3c09236c38fc7f7c8f3f7715969"
+    },
+    {
+      "id": "3170",
+      "name": "辰砂之纺锤",
+      "alias": [
+        "辰砂之纺锤"
+      ],
+      "selectorSig": "3a06c082cb44ad75145fbca2b3d2a634d15e6570"
+    },
+    {
+      "id": "503389",
+      "name": "乘浪的回旋",
+      "alias": [
+        "乘浪的回旋"
+      ],
+      "selectorSig": "5887ec5d09627f778a207d452909ce51e191a320"
+    },
+    {
+      "id": "698",
+      "name": "吃虎鱼刀",
+      "alias": [
+        "吃虎鱼刀"
+      ],
+      "selectorSig": "b80e83d131deab96075b861cb3c5706841fa1f8e"
+    },
+    {
+      "id": "995",
+      "name": "螭骨剑",
+      "alias": [
+        "螭骨剑"
+      ],
+      "selectorSig": "d38bd5a8c1f27843a3a16e6e019513806e9ad71b"
+    },
+    {
+      "id": "3274",
+      "name": "赤角石溃杵",
+      "alias": [
+        "赤角石溃杵"
+      ],
+      "selectorSig": "224ff3d95e64fea3c7ce7ba12aa9fe2ebbe6dc48"
+    },
+    {
+      "id": "4794",
+      "name": "赤沙之杖",
+      "alias": [
+        "赤沙之杖"
+      ],
+      "selectorSig": "092b62a6ee73adf16fcc10f350b239c7bf9c9b13"
+    },
+    {
+      "id": "501137",
+      "name": "赤月之形",
+      "alias": [
+        "赤月之形"
+      ],
+      "selectorSig": "d70e7666c9d35d9721cb0128999e869aba45fcad"
+    },
+    {
+      "id": "501962",
+      "name": "冲浪时光",
+      "alias": [
+        "冲浪时光"
+      ],
+      "selectorSig": "a74f62804d47a4399f6eabbe8d5357d7ec4568f1"
+    },
+    {
+      "id": "7314",
+      "name": "船坞长剑",
+      "alias": [
+        "船坞长剑"
+      ],
+      "selectorSig": "ddb71b26c99148628a66b0dc0300d3f36da0af63"
+    },
+    {
+      "id": "7045",
+      "name": "纯水流华",
+      "alias": [
+        "纯水流华"
+      ],
+      "selectorSig": "4fad3aed71929e9bf84f0c7202064daee698c79d"
+    },
+    {
+      "id": "138",
+      "name": "弹弓",
+      "alias": [
+        "弹弓"
+      ],
+      "selectorSig": "f8936d19a805a8b5282daf95561236516ccfc502"
+    },
+    {
+      "id": "207",
+      "name": "笛剑",
+      "alias": [
+        "笛剑"
+      ],
+      "selectorSig": "0ab4d35e5b25f20717c4dfd6b0c9d50e1900a5b7"
+    },
+    {
+      "id": "5675",
+      "name": "东花坊时雨",
+      "alias": [
+        "东花坊时雨"
+      ],
+      "selectorSig": "1e940e742aee905fe9da56a0cf00664ff74cbe53"
+    },
+    {
+      "id": "2905",
+      "name": "冬极白星",
+      "alias": [
+        "冬极白星"
+      ],
+      "selectorSig": "0235c938bbbe7371491a5b3d6f98ad1bb2fd2e8b"
+    },
+    {
+      "id": "2141",
+      "name": "嘟嘟可故事集",
+      "alias": [
+        "嘟嘟可故事集"
+      ],
+      "selectorSig": "3899292fc2e7882e8adf47c7ec898cc8daa82cf0"
+    },
+    {
+      "id": "3077",
+      "name": "断浪长鳍",
+      "alias": [
+        "断浪长鳍"
+      ],
+      "selectorSig": "bb2c8d607be0b42aa19a59e83e6283e4715c3415"
+    },
+    {
+      "id": "503608",
+      "name": "厄水之祸",
+      "alias": [
+        "厄水之祸"
+      ],
+      "selectorSig": "933ad87aadfe3fc55c2ce336d3d360978b1cd192"
+    },
+    {
+      "id": "2904",
+      "name": "恶王丸",
+      "alias": [
+        "恶王丸"
+      ],
+      "selectorSig": "1b4ecc4a49cb07bff1d71af3f2213c83ee369d30"
+    },
+    {
+      "id": "687",
+      "name": "反曲弓",
+      "alias": [
+        "反曲弓"
+      ],
+      "selectorSig": "053db83f9f3036358080c747bc2a5398bb2466cc"
+    },
+    {
+      "id": "506390",
+      "name": "纺夜天镜",
+      "alias": [
+        "纺夜天镜"
+      ],
+      "selectorSig": "b924e6ecba52208b122ce01c01545121646d3af0"
+    },
+    {
+      "id": "2555",
+      "name": "飞雷之弦振",
+      "alias": [
+        "飞雷之弦振"
+      ],
+      "selectorSig": "f512db185e9e323d725496a2207c474ff17ba972"
+    },
+    {
+      "id": "220",
+      "name": "飞天大御剑",
+      "alias": [
+        "飞天大御剑"
+      ],
+      "selectorSig": "a7385a8272df82d2d1dc98bc4d7d60052162e19a"
+    },
+    {
+      "id": "128",
+      "name": "飞天御剑",
+      "alias": [
+        "飞天御剑"
+      ],
+      "selectorSig": "08c1347656e2a94be06b84f45e2ea7431f311eb6"
+    },
+    {
+      "id": "507943",
+      "name": "朏魄含光",
+      "alias": [
+        "朏魄含光"
+      ],
+      "selectorSig": "93293131321d5d55216d19e35908ab7c854d479a"
+    },
+    {
+      "id": "709",
+      "name": "翡玉法球",
+      "alias": [
+        "翡玉法球"
+      ],
+      "selectorSig": "c6fa5ab1afc03b50d9ebaa85fb672fd4b9163ee3"
+    },
+    {
+      "id": "503949",
+      "name": "焚曜千阳",
+      "alias": [
+        "焚曜千阳"
+      ],
+      "selectorSig": "b7db1fb392cc567061ad35a8cc792a90f9327726"
+    },
+    {
+      "id": "1705",
+      "name": "风花之颂",
+      "alias": [
+        "风花之颂"
+      ],
+      "selectorSig": "d43e083eb313c13709329d35a4d5c56bee3ef301"
+    },
+    {
+      "id": "4855",
+      "name": "风信之锋",
+      "alias": [
+        "风信之锋"
+      ],
+      "selectorSig": "e765f563deb290d52892fa3a28bfc7f507042402"
+    },
+    {
+      "id": "293",
+      "name": "风鹰剑",
+      "alias": [
+        "风鹰剑"
+      ],
+      "selectorSig": "ef1c1f3b1ff0f2d1129bb24dda0b15df1f93a61a"
+    },
+    {
+      "id": "1361",
+      "name": "腐殖之剑",
+      "alias": [
+        "腐殖之剑"
+      ],
+      "selectorSig": "1aacc121149da9899046366bb73d50da95481955"
+    },
+    {
+      "id": "391",
+      "name": "钢轮弓",
+      "alias": [
+        "钢轮弓"
+      ],
+      "selectorSig": "cb9be4aef1df9e24b6f6278018942f719f7a569c"
+    },
+    {
+      "id": "181",
+      "name": "弓藏",
+      "alias": [
+        "弓藏"
+      ],
+      "selectorSig": "6ebadeaa5374afa1876aa2f253ae346047b9249d"
+    },
+    {
+      "id": "7044",
+      "name": "公义的酬报",
+      "alias": [
+        "公义的酬报"
+      ],
+      "selectorSig": "2807f2fae26432155545b270c7f460acd91f594e"
+    },
+    {
+      "id": "1289",
+      "name": "贯虹之槊",
+      "alias": [
+        "贯虹之槊"
+      ],
+      "selectorSig": "f5be0efaf4f79f0aea31c6f4a742ba3526cbefc7"
+    },
+    {
+      "id": "4443",
+      "name": "贯月矢",
+      "alias": [
+        "贯月矢"
+      ],
+      "selectorSig": "614d60b2a69c438d3b0d48e7de15e88cfc086110"
+    },
+    {
+      "id": "2302",
+      "name": "桂木斩长正",
+      "alias": [
+        "桂木斩长正"
+      ],
+      "selectorSig": "6671ca9042e423717ae9abc08a1f1f2c589e9688"
+    },
+    {
+      "id": "7042",
+      "name": "海渊终曲",
+      "alias": [
+        "海渊终曲"
+      ],
+      "selectorSig": "0ba70c186a4c0f2579b05508bdde4ab22d3261b8"
+    },
+    {
+      "id": "501967",
+      "name": "撼地者",
+      "alias": [
+        "撼地者"
+      ],
+      "selectorSig": "b5031f9a6633f3dba91c8c19f936aca27baf2e26"
+    },
+    {
+      "id": "296",
+      "name": "和璞鸢",
+      "alias": [
+        "和璞鸢"
+      ],
+      "selectorSig": "0c4cce36e7cd347a9c693d4f5ef004d9f44d0028"
+    },
+    {
+      "id": "500674",
+      "name": "鹤鸣余音",
+      "alias": [
+        "鹤鸣余音"
+      ],
+      "selectorSig": "19d981e80f95cf6c7561ebc3aeb5c7a3e248f02c"
+    },
+    {
+      "id": "942",
+      "name": "黑剑",
+      "alias": [
+        "黑剑"
+      ],
+      "selectorSig": "7ac06b98000023c1a8e550f1c8fe615615c56e99"
+    },
+    {
+      "id": "507354",
+      "name": "黑蚀",
+      "alias": [
+        "黑蚀"
+      ],
+      "selectorSig": "a636a6847d61bf95719b40fb17c1d02f4a4d7d00"
+    },
+    {
+      "id": "172",
+      "name": "黑岩刺枪",
+      "alias": [
+        "黑岩刺枪"
+      ],
+      "selectorSig": "aac6f566df5bd55cd4b2aa9d937a1682a1d6ec41"
+    },
+    {
+      "id": "193",
+      "name": "黑岩绯玉",
+      "alias": [
+        "黑岩绯玉"
+      ],
+      "selectorSig": "631f108da27262a4fe5e57037096f8e7b411e425"
+    },
+    {
+      "id": "704",
+      "name": "黑岩斩刀",
+      "alias": [
+        "黑岩斩刀"
+      ],
+      "selectorSig": "c50991a79b1d10f649174c4776fcdc9cb3689866"
+    },
+    {
+      "id": "694",
+      "name": "黑岩战弓",
+      "alias": [
+        "黑岩战弓"
+      ],
+      "selectorSig": "4492a0b9b11a295621500aff66c8d2d7332d0462"
+    },
+    {
+      "id": "289",
+      "name": "黑岩长剑",
+      "alias": [
+        "黑岩长剑"
+      ],
+      "selectorSig": "9ee4d41284ffc70ebeaea20447f9c2462847ea85"
+    },
+    {
+      "id": "134",
+      "name": "黑缨枪",
+      "alias": [
+        "黑缨枪"
+      ],
+      "selectorSig": "cbdd5947d19901f6ce2f690dc14a073b1b4ce80d"
+    },
+    {
+      "id": "501966",
+      "name": "虹的行迹",
+      "alias": [
+        "虹的行迹"
+      ],
+      "selectorSig": "1242bbd40c7ac736d684df6ef2751ff0e1d6f9df"
+    },
+    {
+      "id": "507352",
+      "name": "虹蛇的雨弦",
+      "alias": [
+        "虹蛇的雨弦"
+      ],
+      "selectorSig": "bbb895acebc402c13d25eb96f6c9cec1a08808ba"
+    },
+    {
+      "id": "1612",
+      "name": "护摩之杖",
+      "alias": [
+        "护摩之杖"
+      ],
+      "selectorSig": "202a47abbe48e8c08d73fe8c82ccc96b67067dc1"
+    },
+    {
+      "id": "6664",
+      "name": "鹮穿之喙",
+      "alias": [
+        "鹮穿之喙"
+      ],
+      "selectorSig": "fe097334592dde21c9b2e0b39211e20e4a121e95"
+    },
+    {
+      "id": "7046",
+      "name": "灰河渡手",
+      "alias": [
+        "灰河渡手"
+      ],
+      "selectorSig": "14b92f88c2e48308ec72fc9a52c5d53354bc0eca"
+    },
+    {
+      "id": "197",
+      "name": "祭礼残章",
+      "alias": [
+        "祭礼残章"
+      ],
+      "selectorSig": "1c4800c71aa0a6fc62f1840aa16e05de1aaab5d7"
+    },
+    {
+      "id": "418",
+      "name": "祭礼大剑",
+      "alias": [
+        "祭礼大剑"
+      ],
+      "selectorSig": "7f17a88b327b29d8f2cb9abb183ea1ff2a4df402"
+    },
+    {
+      "id": "177",
+      "name": "祭礼弓",
+      "alias": [
+        "祭礼弓"
+      ],
+      "selectorSig": "054e0df607a9830d84b5de167b69655bd79b1061"
+    },
+    {
+      "id": "239",
+      "name": "祭礼剑",
+      "alias": [
+        "祭礼剑"
+      ],
+      "selectorSig": "0600c36f89924a8d169c00683e48e116ac3ebcdd"
+    },
+    {
+      "id": "503948",
+      "name": "祭星者之望",
+      "alias": [
+        "祭星者之望"
+      ],
+      "selectorSig": "95a609287cefab38657776e1c2528e3b5c662861"
+    },
+    {
+      "id": "684",
+      "name": "甲级宝珏",
+      "alias": [
+        "甲级宝珏"
+      ],
+      "selectorSig": "367371c2a3f2226d0189952262edb5cc23f0953d"
+    },
+    {
+      "id": "1298",
+      "name": "降临之剑",
+      "alias": [
+        "降临之剑"
+      ],
+      "selectorSig": "6c8e6437a7ef9c24fb3ab6c8d4b2fa344494d31e"
+    },
+    {
+      "id": "4437",
+      "name": "竭泽",
+      "alias": [
+        "竭泽"
+      ],
+      "selectorSig": "c40983dbcdde7d3f8a91480ed9fbc0ea8411d8af"
+    },
+    {
+      "id": "7408",
+      "name": "金流监督",
+      "alias": [
+        "金流监督"
+      ],
+      "selectorSig": "b38d00a34326bd613806cd384415e441a1c396ff"
+    },
+    {
+      "id": "7041",
+      "name": "静谧之曲",
+      "alias": [
+        "静谧之曲"
+      ],
+      "selectorSig": "183ee2ecd2d15a896ba2d4a8a522f7c4c6f6d912"
+    },
+    {
+      "id": "7509",
+      "name": "静水流涌之辉",
+      "alias": [
+        "静水流涌之辉"
+      ],
+      "selectorSig": "701d2f51ed9e9b2cf285bdeb34ef2a672b02f5b7"
+    },
+    {
+      "id": "972",
+      "name": "决斗之枪",
+      "alias": [
+        "决斗之枪"
+      ],
+      "selectorSig": "f4babf0a0245b2e3a76ba0110d5a3219a2f8de3c"
+    },
+    {
+      "id": "176",
+      "name": "绝弦",
+      "alias": [
+        "绝弦"
+      ],
+      "selectorSig": "9a82f2e330fe5ce332e86567cbd99ac3eff80298"
+    },
+    {
+      "id": "506374",
+      "name": "掘金之锹",
+      "alias": [
+        "掘金之锹"
+      ],
+      "selectorSig": "50bed8ffb08688fbb7c44960d89d7c6e8bbba3c4"
+    },
+    {
+      "id": "7407",
+      "name": "勘探钻机",
+      "alias": [
+        "勘探钻机"
+      ],
+      "selectorSig": "ca329f793af8c5b0bb1eb324a5fb3ebba1081da5"
+    },
+    {
+      "id": "142",
+      "name": "口袋魔导书",
+      "alias": [
+        "口袋魔导书"
+      ],
+      "selectorSig": "b71564fede101e9b5179d4b05086b9b549fd4bdf"
+    },
+    {
+      "id": "218",
+      "name": "狼的末路",
+      "alias": [
+        "狼的末路"
+      ],
+      "selectorSig": "902a308fbf523f2bef5e1ac804e56a4aac85b29e"
+    },
+    {
+      "id": "508005",
+      "name": "狼的武功歌",
+      "alias": [
+        "狼的武功歌"
+      ],
+      "selectorSig": "6f92b0ebdac45a2c4aaf872568e5a56a420c6544"
+    },
+    {
+      "id": "6970",
+      "name": "狼牙",
+      "alias": [
+        "狼牙"
+      ],
+      "selectorSig": "49f3a8cf8ef3c63480fcb3ac5a8983cb3152160f"
+    },
+    {
+      "id": "7043",
+      "name": "浪影阔剑",
+      "alias": [
+        "浪影阔剑"
+      ],
+      "selectorSig": "07b71a3f63343f2c4f1147101d4714fddb557558"
+    },
+    {
+      "id": "505322",
+      "name": "冷寂迸音",
+      "alias": [
+        "冷寂迸音"
+      ],
+      "selectorSig": "96b67e0c775eef8d7d300ce15fe038936b6b6fe6"
+    },
+    {
+      "id": "161",
+      "name": "冷刃",
+      "alias": [
+        "冷刃"
+      ],
+      "selectorSig": "76bd587cab9b6aef77bfcda010178c90ea288b6c"
+    },
+    {
+      "id": "507353",
+      "name": "黎明破晓之史",
+      "alias": [
+        "黎明破晓之史"
+      ],
+      "selectorSig": "035c82aa7c1da27a464c61a7047feb1daab89cc0"
+    },
+    {
+      "id": "164",
+      "name": "黎明神剑",
+      "alias": [
+        "黎明神剑"
+      ],
+      "selectorSig": "a772f9f407ffc05bba338bee28c19efd4cb735d7"
+    },
+    {
+      "id": "143",
+      "name": "历练的猎弓",
+      "alias": [
+        "历练的猎弓"
+      ],
+      "selectorSig": "87210e740ba8df2eccd78a292429d538a461fd21"
+    },
+    {
+      "id": "6967",
+      "name": "聊聊棒",
+      "alias": [
+        "聊聊棒"
+      ],
+      "selectorSig": "300c7357c508605e8bdebdd5d28408bd548bc7be"
+    },
+    {
+      "id": "6968",
+      "name": "烈阳之嗣",
+      "alias": [
+        "烈阳之嗣"
+      ],
+      "selectorSig": "e09a9defda8181d4af47b9d07d653ff5dc409769"
+    },
+    {
+      "id": "125",
+      "name": "猎弓",
+      "alias": [
+        "猎弓"
+      ],
+      "selectorSig": "d5b84a4692eae9c136a2853fb3489bf9a88e5742"
+    },
+    {
+      "id": "4330",
+      "name": "猎人之径",
+      "alias": [
+        "猎人之径"
+      ],
+      "selectorSig": "0ccbea58065d781bf951217706ff0c17ef23d8cf"
+    },
+    {
+      "id": "5017",
+      "name": "流浪的晚星",
+      "alias": [
+        "流浪的晚星"
+      ],
+      "selectorSig": "a78287f563b4764763fd911c08cd3b15baa7ced1"
+    },
+    {
+      "id": "192",
+      "name": "流浪乐章",
+      "alias": [
+        "流浪乐章"
+      ],
+      "selectorSig": "892a5aa49fd6e804a2219694452a1051df939007"
+    },
+    {
+      "id": "321",
+      "name": "流月针",
+      "alias": [
+        "流月针"
+      ],
+      "selectorSig": "2a645d19edd9b2e4688365cac41ec7d77980ecad"
+    },
+    {
+      "id": "1363",
+      "name": "龙脊长枪",
+      "alias": [
+        "龙脊长枪"
+      ],
+      "selectorSig": "93cca7dd2ab773ffaac4b0d63f3f475aef539550"
+    },
+    {
+      "id": "4201",
+      "name": "笼钓瓶一心",
+      "alias": [
+        "笼钓瓶一心"
+      ],
+      "selectorSig": "059b0c2636464ae1d4b2c2d35b95c9cdbf931938"
+    },
+    {
+      "id": "708",
+      "name": "旅行剑",
+      "alias": [
+        "旅行剑"
+      ],
+      "selectorSig": "5b4c1daef40dc476aabf23a34681c2255d7806df"
+    },
+    {
+      "id": "2639",
+      "name": "掠食者",
+      "alias": [
+        "掠食者"
+      ],
+      "selectorSig": "bd6d1f786850a061a910aa63ab372d71790a1018"
+    },
+    {
+      "id": "506377",
+      "name": "罗网勾针",
+      "alias": [
+        "罗网勾针"
+      ],
+      "selectorSig": "57995a6c2dacb1d18432ac0e6fdaab8630d933c4"
+    },
+    {
+      "id": "4090",
+      "name": "落霞",
+      "alias": [
+        "落霞"
+      ],
+      "selectorSig": "2e7f8c1b193fce13e84b6c6cbcca29aeaf3d1ad1"
+    },
+    {
+      "id": "4792",
+      "name": "玛海菈的水色",
+      "alias": [
+        "玛海菈的水色"
+      ],
+      "selectorSig": "0eeabdc1c7b5c2ed5814beef2ef318b29c07a409"
+    },
+    {
+      "id": "3076",
+      "name": "曚云之月",
+      "alias": [
+        "曚云之月"
+      ],
+      "selectorSig": "41afd8fc4e6b84b093d15f7bb0de8f84baf5da93"
+    },
+    {
+      "id": "502896",
+      "name": "弥坚骨",
+      "alias": [
+        "弥坚骨"
+      ],
+      "selectorSig": "a569e7e8c4c585d59fc9ddef85e793b3d03820d8"
+    },
+    {
+      "id": "506379",
+      "name": "谧音吹哨",
+      "alias": [
+        "谧音吹哨"
+      ],
+      "selectorSig": "f8fe226bb30930890f2efa205486a2ba247cca51"
+    },
+    {
+      "id": "162",
+      "name": "魔导绪论",
+      "alias": [
+        "魔导绪论"
+      ],
+      "selectorSig": "32a926d26de28f695e9ad18e9d2c5350f0b9b898"
+    },
+    {
+      "id": "501965",
+      "name": "木棉之环",
+      "alias": [
+        "木棉之环"
+      ],
+      "selectorSig": "8e9f48c53ee70a4c693b3de9b31b1e5e8a28d415"
+    },
+    {
+      "id": "130",
+      "name": "沐浴龙血的剑",
+      "alias": [
+        "沐浴龙血的剑"
+      ],
+      "selectorSig": "dc5cbb707426f56936be21cb8863d8631b5319c3"
+    },
+    {
+      "id": "1497",
+      "name": "磐岩结绿",
+      "alias": [
+        "磐岩结绿"
+      ],
+      "selectorSig": "1313c8f25cd9de932f117fdf422e621ce8c01baf"
+    },
+    {
+      "id": "2287",
+      "name": "破魔之弓",
+      "alias": [
+        "破魔之弓"
+      ],
+      "selectorSig": "2126056e617da1db1cf8456e9e98df7949c0c867"
+    },
+    {
+      "id": "1611",
+      "name": "千岩古剑",
+      "alias": [
+        "千岩古剑"
+      ],
+      "selectorSig": "0ace13acf25df75bd4a94c9de0bd7d2289b9b4dd"
+    },
+    {
+      "id": "1610",
+      "name": "千岩长枪",
+      "alias": [
+        "千岩长枪"
+      ],
+      "selectorSig": "ebc70a6717eef790e650410f094a430421ade95c"
+    },
+    {
+      "id": "5110",
+      "name": "千夜浮梦",
+      "alias": [
+        "千夜浮梦"
+      ],
+      "selectorSig": "3b3e4c744d38d41a99b5c4799943f363720fec99"
+    },
+    {
+      "id": "504502",
+      "name": "且住亭御咄",
+      "alias": [
+        "且住亭御咄"
+      ],
+      "selectorSig": "06623b715f1583f03b3a5f4195ef2ea0d906025d"
+    },
+    {
+      "id": "504503",
+      "name": "寝正月初晴",
+      "alias": [
+        "寝正月初晴"
+      ],
+      "selectorSig": "bce487e548c9064b09e6c27094a32c0823f55dfe"
+    },
+    {
+      "id": "1377",
+      "name": "忍冬之果",
+      "alias": [
+        "忍冬之果"
+      ],
+      "selectorSig": "d65a17fdef10f61220759580175f7c06c2a37563"
+    },
+    {
+      "id": "501725",
+      "name": "柔灯挽歌",
+      "alias": [
+        "柔灯挽歌"
+      ],
+      "selectorSig": "6993d50ab0a72553dfba518c33e38efb13205ae1"
+    },
+    {
+      "id": "4082",
+      "name": "若水",
+      "alias": [
+        "若水"
+      ],
+      "selectorSig": "cd7db2974f5bbb626bec3866224259eb574eca1f"
+    },
+    {
+      "id": "4445",
+      "name": "森林王器",
+      "alias": [
+        "森林王器"
+      ],
+      "selectorSig": "193dab9e9af2ebb5bdfbc845ea49ea9c2c2dafb9"
+    },
+    {
+      "id": "501016",
+      "name": "沙中伟贤的对答",
+      "alias": [
+        "沙中伟贤的对答"
+      ],
+      "selectorSig": "d95271d8f3d481b3b5750ac855b378ae34d0b032"
+    },
+    {
+      "id": "502471",
+      "name": "山王长牙",
+      "alias": [
+        "山王长牙"
+      ],
+      "selectorSig": "eec9342d927ec54dbb1224d6cf545f670be3e970"
+    },
+    {
+      "id": "501384",
+      "name": "赦罪",
+      "alias": [
+        "赦罪"
+      ],
+      "selectorSig": "084ff86af4e22107e52b616a65e98f49b5edbac6"
+    },
+    {
+      "id": "3563",
+      "name": "神乐之真意",
+      "alias": [
+        "神乐之真意"
+      ],
+      "selectorSig": "823fc739caf022d3632afb20a75c4d5cd96c2e60"
+    },
+    {
+      "id": "167",
+      "name": "神射手之誓",
+      "alias": [
+        "神射手之誓"
+      ],
+      "selectorSig": "38618e9c1b0506a3a6445d32bd1db24160532485"
+    },
+    {
+      "id": "506912",
+      "name": "圣祭者的辉杖",
+      "alias": [
+        "圣祭者的辉杖"
+      ],
+      "selectorSig": "4c09781091ea7469b3a3a604230386b32450c745"
+    },
+    {
+      "id": "5018",
+      "name": "圣显之钥",
+      "alias": [
+        "圣显之钥"
+      ],
+      "selectorSig": "399b6554f10c727ab424e1475bd5e1948a4fd1c5"
+    },
+    {
+      "id": "505675",
+      "name": "拾慧铸熔",
+      "alias": [
+        "拾慧铸熔"
+      ],
+      "selectorSig": "74c3edbebf2eddbd7264947f8d1b8102a6d01f9a"
+    },
+    {
+      "id": "240",
+      "name": "试作澹月",
+      "alias": [
+        "试作澹月"
+      ],
+      "selectorSig": "8dee24284b3a1229372a924a76c98a941b9fe5dd"
+    },
+    {
+      "id": "144",
+      "name": "试作古华",
+      "alias": [
+        "试作古华"
+      ],
+      "selectorSig": "a93ca73fcb7d1bbd1122c8172936794e6ec95f64"
+    },
+    {
+      "id": "319",
+      "name": "试作金珀",
+      "alias": [
+        "试作金珀"
+      ],
+      "selectorSig": "423f6a715cc541e6bd849b8d1393902acbcb94be"
+    },
+    {
+      "id": "393",
+      "name": "试作星镰",
+      "alias": [
+        "试作星镰"
+      ],
+      "selectorSig": "b00f733f45931a90d5529399407c49e7533da6d0"
+    },
+    {
+      "id": "226",
+      "name": "试作斩岩",
+      "alias": [
+        "试作斩岩"
+      ],
+      "selectorSig": "7c182ba46929999e38cf490ae75ce457460ab12a"
+    },
+    {
+      "id": "6234",
+      "name": "饰铁之花",
+      "alias": [
+        "饰铁之花"
+      ],
+      "selectorSig": "00083b92c7aabe3ea0362db97755dab5a8d12d6d"
+    },
+    {
+      "id": "506911",
+      "name": "霜辰",
+      "alias": [
+        "霜辰"
+      ],
+      "selectorSig": "d0bc45a2c4f2296f758cef6c56cb9cebf9b1ccaa"
+    },
+    {
+      "id": "508253",
+      "name": "霜结的誓金枝",
+      "alias": [
+        "霜结的誓金枝"
+      ],
+      "selectorSig": "5b519052966f6724f64fb943a746571d78ef6f0e"
+    },
+    {
+      "id": "7525",
+      "name": "水仙十字之剑",
+      "alias": [
+        "水仙十字之剑"
+      ],
+      "selectorSig": "b672eedb5397fdee4bd180034033fbdcf00de61a"
+    },
+    {
+      "id": "503098",
+      "name": "硕果钩",
+      "alias": [
+        "硕果钩"
+      ],
+      "selectorSig": "c17203924c337b5e03b1e06843bc7265af575c80"
+    },
+    {
+      "id": "297",
+      "name": "四风原典",
+      "alias": [
+        "四风原典"
+      ],
+      "selectorSig": "50859fbd3abb535722dc3052cbddbc45efe58c91"
+    },
+    {
+      "id": "2039",
+      "name": "松籁响起之时",
+      "alias": [
+        "松籁响起之时"
+      ],
+      "selectorSig": "06361a6a0b7cfb75ac93fc2b1f9b45413e398117"
+    },
+    {
+      "id": "501964",
+      "name": "碎链",
+      "alias": [
+        "碎链"
+      ],
+      "selectorSig": "7d25ccca2578857363c7428acc7fe2e4f1c3448f"
+    },
+    {
+      "id": "137",
+      "name": "讨龙英杰谭",
+      "alias": [
+        "讨龙英杰谭"
+      ],
+      "selectorSig": "12d016097f104fd33a8ac583abc4a734a53d0e30"
+    },
+    {
+      "id": "2602",
+      "name": "薙草之稻光",
+      "alias": [
+        "薙草之稻光"
+      ],
+      "selectorSig": "d1a9e606bb339bd75e4eea186c6061208c3ae1c7"
+    },
+    {
+      "id": "506378",
+      "name": "天光的纺琴",
+      "alias": [
+        "天光的纺琴"
+      ],
+      "selectorSig": "1eaa65c9706bb4d8d71fa19fcdd1ebd099b8ab80"
+    },
+    {
+      "id": "291",
+      "name": "天空之傲",
+      "alias": [
+        "天空之傲"
+      ],
+      "selectorSig": "1b9ca452006ca8443549a0df02f3d0409359aa84"
+    },
+    {
+      "id": "1077",
+      "name": "天空之脊",
+      "alias": [
+        "天空之脊"
+      ],
+      "selectorSig": "692ee9e81074eb05d7bcee248c8a7565896b3c17"
+    },
+    {
+      "id": "227",
+      "name": "天空之卷",
+      "alias": [
+        "天空之卷"
+      ],
+      "selectorSig": "d6a0ea045f4729b295c8d1a2c79a5ef62e0c77da"
+    },
+    {
+      "id": "215",
+      "name": "天空之刃",
+      "alias": [
+        "天空之刃"
+      ],
+      "selectorSig": "8be205c0262f64cd3dfa661179d57a5e0edf9727"
+    },
+    {
+      "id": "323",
+      "name": "天空之翼",
+      "alias": [
+        "天空之翼"
+      ],
+      "selectorSig": "e27ed9f6eac015feca349c978373bbc03e2ce9b5"
+    },
+    {
+      "id": "2307",
+      "name": "天目影打刀",
+      "alias": [
+        "天目影打刀"
+      ],
+      "selectorSig": "f16f084ea301bc861d896ca8f9a54b46f2bf522f"
+    },
+    {
+      "id": "175",
+      "name": "铁蜂刺",
+      "alias": [
+        "铁蜂刺"
+      ],
+      "selectorSig": "1600f7b60c0b7f6dacb3133cc09957451bfbf71b"
+    },
+    {
+      "id": "160",
+      "name": "铁尖枪",
+      "alias": [
+        "铁尖枪"
+      ],
+      "selectorSig": "a98803801095b8fd99fcb7f762b25312ed28497a"
+    },
+    {
+      "id": "129",
+      "name": "铁影阔剑",
+      "alias": [
+        "铁影阔剑"
+      ],
+      "selectorSig": "9259a4629d97a5ad8683e25e7fbf66f06ff333f2"
+    },
+    {
+      "id": "5378",
+      "name": "图莱杜拉的回忆",
+      "alias": [
+        "图莱杜拉的回忆"
+      ],
+      "selectorSig": "de35e4b5eeb43465ef27a45ffbd87ed49aa82c98"
+    },
+    {
+      "id": "198",
+      "name": "万国诸海图谱",
+      "alias": [
+        "万国诸海图谱"
+      ],
+      "selectorSig": "02c4c4a16f2ea8b3bc9d3028c278b85f254c7c04"
+    },
+    {
+      "id": "506376",
+      "name": "万能钥匙",
+      "alias": [
+        "万能钥匙"
+      ],
+      "selectorSig": "8c27f6e27933097086fc2844addd772d6da16f5b"
+    },
+    {
+      "id": "7304",
+      "name": "万世流涌大典",
+      "alias": [
+        "万世流涌大典"
+      ],
+      "selectorSig": "556486ffb12b521df4ae720dbca5ec87e5b25d58"
+    },
+    {
+      "id": "507623",
+      "name": "帷间夜曲",
+      "alias": [
+        "帷间夜曲"
+      ],
+      "selectorSig": "488c189170e2cf42484493db94d876826506a635"
+    },
+    {
+      "id": "6179",
+      "name": "苇海信标",
+      "alias": [
+        "苇海信标"
+      ],
+      "selectorSig": "99d8fac32800de9398843241d4a9f5e7e0ab3215"
+    },
+    {
+      "id": "506375",
+      "name": "乌髓孑灯",
+      "alias": [
+        "乌髓孑灯"
+      ],
+      "selectorSig": "a84a9a3b56df5c7ac389d8553c84287344b9cec1"
+    },
+    {
+      "id": "127",
+      "name": "无锋剑",
+      "alias": [
+        "无锋剑"
+      ],
+      "selectorSig": "47217b1b12a058c5ef32a9a8294333ae70157777"
+    },
+    {
+      "id": "1288",
+      "name": "无工之剑",
+      "alias": [
+        "无工之剑"
+      ],
+      "selectorSig": "3af3ff470c965faace7f69e30d3f7efce1c3170e"
+    },
+    {
+      "id": "7381",
+      "name": "无垠蔚蓝之歌",
+      "alias": [
+        "无垠蔚蓝之歌"
+      ],
+      "selectorSig": "ac44a8f6540f293e90d20c60dcc35be6925c7ea4"
+    },
+    {
+      "id": "2289",
+      "name": "雾切之回光",
+      "alias": [
+        "雾切之回光"
+      ],
+      "selectorSig": "b46b50ccd9fb17b53bd494d7ced21bfeffc504be"
+    },
+    {
+      "id": "174",
+      "name": "西风大剑",
+      "alias": [
+        "西风大剑"
+      ],
+      "selectorSig": "5750023cb053f707fc4ea27ba4fa522fa47b2349"
+    },
+    {
+      "id": "208",
+      "name": "西风剑",
+      "alias": [
+        "西风剑"
+      ],
+      "selectorSig": "cb8d90146720fd611de1f8f578596acb36fb8f2c"
+    },
+    {
+      "id": "195",
+      "name": "西风猎弓",
+      "alias": [
+        "西风猎弓"
+      ],
+      "selectorSig": "169d429b8f41f682d7a39afaef8e10082b8b0207"
+    },
+    {
+      "id": "185",
+      "name": "西风秘典",
+      "alias": [
+        "西风秘典"
+      ],
+      "selectorSig": "4602e640d330b1b1652eade5be80b1b31d0e2d74"
+    },
+    {
+      "id": "1079",
+      "name": "西风长枪",
+      "alias": [
+        "西风长枪"
+      ],
+      "selectorSig": "59e2592c374c6de04fd79a02c786cbc1aa5f48ac"
+    },
+    {
+      "id": "5019",
+      "name": "西福斯的月光",
+      "alias": [
+        "西福斯的月光"
+      ],
+      "selectorSig": "e77f7f902fbf555d6bd81033b7fa497f7514cf06"
+    },
+    {
+      "id": "501963",
+      "name": "息燧之笛",
+      "alias": [
+        "息燧之笛"
+      ],
+      "selectorSig": "a56b76cf195b3cd41dffe53853bf710aa647c79a"
+    },
+    {
+      "id": "3398",
+      "name": "息灾",
+      "alias": [
+        "息灾"
+      ],
+      "selectorSig": "6f7d1c8eaaa14d2a884fd3748ebff4060db32318"
+    },
+    {
+      "id": "2310",
+      "name": "喜多院十文字",
+      "alias": [
+        "喜多院十文字"
+      ],
+      "selectorSig": "44dba6efeee8cae3bd43b13902f6232b51d8baa1"
+    },
+    {
+      "id": "141",
+      "name": "匣里龙吟",
+      "alias": [
+        "匣里龙吟"
+      ],
+      "selectorSig": "6724e300c2c6cb583536e0e0d17467fa25c54da2"
+    },
+    {
+      "id": "171",
+      "name": "匣里灭辰",
+      "alias": [
+        "匣里灭辰"
+      ],
+      "selectorSig": "086be60631755dba77c364cff9ffc4f7551e61a5"
+    },
+    {
+      "id": "217",
+      "name": "匣里日月",
+      "alias": [
+        "匣里日月"
+      ],
+      "selectorSig": "642faa1130ffc0c670eabbeb489bd4ed4d38a397"
+    },
+    {
+      "id": "6966",
+      "name": "峡湾长歌",
+      "alias": [
+        "峡湾长歌"
+      ],
+      "selectorSig": "73d14ee0cccb3e2673b70ca510fae6c3e1ccbae8"
+    },
+    {
+      "id": "2603",
+      "name": "衔珠海皇",
+      "alias": [
+        "衔珠海皇"
+      ],
+      "selectorSig": "31a3ebad1b8a2266715ede84e26e9fdffaf06cb0"
+    },
+    {
+      "id": "505323",
+      "name": "香韵奏者",
+      "alias": [
+        "香韵奏者"
+      ],
+      "selectorSig": "40790171be567923e7a7b58f12f81095b086f531"
+    },
+    {
+      "id": "118",
+      "name": "新手长枪",
+      "alias": [
+        "新手长枪"
+      ],
+      "selectorSig": "859f7f0ee4e6b567097f131fd38a941fde859a92"
+    },
+    {
+      "id": "686",
+      "name": "信使",
+      "alias": [
+        "信使"
+      ],
+      "selectorSig": "d9e2734c4f0b5dc5802c5c6f9f492ece2da0918e"
+    },
+    {
+      "id": "503390",
+      "name": "星鹫赤羽",
+      "alias": [
+        "星鹫赤羽"
+      ],
+      "selectorSig": "7d00f44de159682337d71645fdf324fab6be4386"
+    },
+    {
+      "id": "124",
+      "name": "学徒笔记",
+      "alias": [
+        "学徒笔记"
+      ],
+      "selectorSig": "ee93bb6ce5f1e0a3faa9e058650ad10996ff1ac2"
+    },
+    {
+      "id": "1362",
+      "name": "雪葬的星银",
+      "alias": [
+        "雪葬的星银"
+      ],
+      "selectorSig": "2ee157eeb0d6be677e5763313682025a4ad78dc9"
+    },
+    {
+      "id": "506694",
+      "name": "血染荒城",
+      "alias": [
+        "血染荒城"
+      ],
+      "selectorSig": "01cb9cb767bcd4ec13013ba9949200f9bfcf6dd3"
+    },
+    {
+      "id": "123",
+      "name": "训练大剑",
+      "alias": [
+        "训练大剑"
+      ],
+      "selectorSig": "fe02d3bd391db1d39e35d4e2ebc8ea9899ae7fca"
+    },
+    {
+      "id": "139",
+      "name": "鸦羽弓",
+      "alias": [
+        "鸦羽弓"
+      ],
+      "selectorSig": "004ac7db0ea520b35501c3b0e6b4afdd3fc3a43c"
+    },
+    {
+      "id": "502898",
+      "name": "岩峰巡歌",
+      "alias": [
+        "岩峰巡歌"
+      ],
+      "selectorSig": "24b9ad7794a435663d66ce7a360901fe4962a3f8"
+    },
+    {
+      "id": "6969",
+      "name": "遗祀玉珑",
+      "alias": [
+        "遗祀玉珑"
+      ],
+      "selectorSig": "e9a77e449fab0543057039aafd644871f6eefd1c"
+    },
+    {
+      "id": "131",
+      "name": "以理服人",
+      "alias": [
+        "以理服人"
+      ],
+      "selectorSig": "88b5034b495f63ede2c19dc7a4293c03d073b4dc"
+    },
+    {
+      "id": "685",
+      "name": "异世界行记",
+      "alias": [
+        "异世界行记"
+      ],
+      "selectorSig": "c876c36856f73f6698a34f26a83affbe59dfa8d3"
+    },
+    {
+      "id": "504739",
+      "name": "溢彩心念",
+      "alias": [
+        "溢彩心念"
+      ],
+      "selectorSig": "3d06e1743cb80b26117ba5db36c3ccfc1ade82e6"
+    },
+    {
+      "id": "126",
+      "name": "银剑",
+      "alias": [
+        "银剑"
+      ],
+      "selectorSig": "502387c7785be244062caf6a9f537091623ce8ad"
+    },
+    {
+      "id": "4444",
+      "name": "盈满之实",
+      "alias": [
+        "盈满之实"
+      ],
+      "selectorSig": "f730eedf11ab265900b1514b38ae2ab0be755317"
+    },
+    {
+      "id": "158",
+      "name": "佣兵重剑",
+      "alias": [
+        "佣兵重剑"
+      ],
+      "selectorSig": "f7fcf07de3340465879d394d346d8dca58f80f83"
+    },
+    {
+      "id": "2127",
+      "name": "幽夜华尔兹",
+      "alias": [
+        "幽夜华尔兹"
+      ],
+      "selectorSig": "28396a1f05a60f0234f6fb35144f61da87eb8eff"
+    },
+    {
+      "id": "500996",
+      "name": "有乐御簾切",
+      "alias": [
+        "有乐御簾切"
+      ],
+      "selectorSig": "2f4675999c0a9eeee6a6eba51d7b14db4f3d9054"
+    },
+    {
+      "id": "180",
+      "name": "雨裁",
+      "alias": [
+        "雨裁"
+      ],
+      "selectorSig": "c9e0771271e9655cefd997d85c772448e5bfd290"
+    },
+    {
+      "id": "4440",
+      "name": "原木刀",
+      "alias": [
+        "原木刀"
+      ],
+      "selectorSig": "122fd30b66392250b7e789f062f725ffd669224a"
+    },
+    {
+      "id": "724",
+      "name": "钺矛",
+      "alias": [
+        "钺矛"
+      ],
+      "selectorSig": "dd2050a12479bf34919e1a6d064013d2b6dd6b2d"
+    },
+    {
+      "id": "690",
+      "name": "昭心",
+      "alias": [
+        "昭心"
+      ],
+      "selectorSig": "4b8589fed4bd70170e8ae43bdea196580cbadd3d"
+    },
+    {
+      "id": "506913",
+      "name": "真语秘匣",
+      "alias": [
+        "真语秘匣"
+      ],
+      "selectorSig": "bb132312a89511393ba070780703ab7c5f8df97f"
+    },
+    {
+      "id": "502897",
+      "name": "镇山之钉",
+      "alias": [
+        "镇山之钉"
+      ],
+      "selectorSig": "0980126a50c2e6b3a2364030b50c9de1423e76ae"
+    },
+    {
+      "id": "3611",
+      "name": "证誓之明瞳",
+      "alias": [
+        "证誓之明瞳"
+      ],
+      "selectorSig": "7a78024868ea17ec8d64daec0dcc3425e863e69a"
+    },
+    {
+      "id": "505676",
+      "name": "支离轮光",
+      "alias": [
+        "支离轮光"
+      ],
+      "selectorSig": "228abbc5ead5a1b11f9794d4e19d26a0156f614c"
+    },
+    {
+      "id": "506381",
+      "name": "织月者的曙色",
+      "alias": [
+        "织月者的曙色"
+      ],
+      "selectorSig": "777134b1ba933bc2a81b3043246e3e30336e8f9f"
+    },
+    {
+      "id": "1682",
+      "name": "终末嗟叹之诗",
+      "alias": [
+        "终末嗟叹之诗"
+      ],
+      "selectorSig": "3f3c5a572748128e6626a7f2e01eaf7b79451178"
+    },
+    {
+      "id": "214",
+      "name": "钟剑",
+      "alias": [
+        "钟剑"
+      ],
+      "selectorSig": "f1287860041bca2d20997f605b25a3d570f1bae7"
+    },
+    {
+      "id": "501449",
+      "name": "筑云",
+      "alias": [
+        "筑云"
+      ],
+      "selectorSig": "9fe9983419931415e57b87ebcd315b5d7dbfd297"
+    },
+    {
+      "id": "503391",
+      "name": "缀花之翎",
+      "alias": [
+        "缀花之翎"
+      ],
+      "selectorSig": "7e5d29b42768fd04631339144263cf653265991d"
+    },
+    {
+      "id": "1356",
+      "name": "斫峰之刃",
+      "alias": [
+        "斫峰之刃"
+      ],
+      "selectorSig": "e641a74643c01eb55ff19d51ff5d894075da4512"
+    },
+    {
+      "id": "206",
+      "name": "宗室大剑",
+      "alias": [
+        "宗室大剑"
+      ],
+      "selectorSig": "55a45988c0daf361186d68e3009cf85d2aeef39f"
+    },
+    {
+      "id": "1287",
+      "name": "宗室猎枪",
+      "alias": [
+        "宗室猎枪"
+      ],
+      "selectorSig": "b1f16c176b859a6b0b2a9a6101e148e7bc52d13d"
+    },
+    {
+      "id": "194",
+      "name": "宗室秘法录",
+      "alias": [
+        "宗室秘法录"
+      ],
+      "selectorSig": "17ed4ca62b08ef4a8573bd25a505ce4f09727299"
+    },
+    {
+      "id": "178",
+      "name": "宗室长弓",
+      "alias": [
+        "宗室长弓"
+      ],
+      "selectorSig": "df62b8444a6d7edd9e2c59d4d609192acab38f82"
+    },
+    {
+      "id": "199",
+      "name": "宗室长剑",
+      "alias": [
+        "宗室长剑"
+      ],
+      "selectorSig": "1d73ece9656df286be52cba436ec5e2b06584698"
+    },
+    {
+      "id": "6936",
+      "name": "最初的大魔术",
+      "alias": [
+        "最初的大魔术"
+      ],
+      "selectorSig": "f8122fdc876bb6ef3a03b31afe828c0ae08d5d74"
+    }
+  ],
+  "updatedAt": 1775754557393
+}

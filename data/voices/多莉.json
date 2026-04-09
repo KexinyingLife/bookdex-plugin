@@ -1,0 +1,1757 @@
+{
+  "id": "4736",
+  "name": "多莉",
+  "alias": [
+    "多莉"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "哎呀呀，这不是大名鼎鼎的旅行者吗？我是旅行商人多莉·桑歌玛哈巴依。作为给你的见面礼，我这儿的商品全部限时九折优惠，赶快来挑选吧，我帮你打包~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/9a7bfa305ae7aaf9836d73addcdcdb48_4842735341578416858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·摩拉",
+          "text": "我爱摩拉，摩拉爱我，啦啦啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/72612f597b03506df9f50024cbf96774_1719858423440950862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·双赢",
+          "text": "先把商品涨价百分之三十，然后再打八折卖出，不仅我赚得多了，顾客也会觉得划算，这就是双赢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/9e26605e601658cd9349fce7efd94f2b_8805682529603379016.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·财迷",
+          "text": "只要摩拉管够，和教令院对着干也没什么大不了的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/ab05cba33ad4226b8fd891860085b095_3786486323181048962.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "需要伞吗？我这里有一把特制雨伞，收集雨水的同时能够净化水质，把雨水变成饮用水储存在小罐子里，可以说是旅行必备品！只需要五十万摩拉喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/342149540917259f4e3636af1622d2de_1976674098708886621.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这种天气，恐怕商队也不太好前进了。又要少赚好多摩拉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/0a3eb0bd644b7582d593de898f9b8cda_867324129660505125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "哒啦，看我的全自动雪球机！想要吗想要吗？租金给你打九点五折喔！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/c59a43e2748eeac46b73aba17b957525_8037800700000675978.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "摩拉在阳光下闪闪发光，真好看！嘿嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/a6accc184cf9e04dfd06c5e95c477424_4415029722007578025.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "不会吧不会吧，不会真的有人选在大风天穿越沙漠吧。我当然有办法救这种蠢蘑菇，但费用…至少要翻三倍才行！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/691ffc2fbb08605072b98ab4f4587efc_5361890226190246055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安，昨晚的梦里全是圆滚滚的可爱摩拉，今天一定会是盆满钵满的一天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1d8fa9dff891ce27e4f367bb637f2dd7_3420807767544081347.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "想午睡吗？我可以给你一个软绵绵、蓬松松，完美贴合你背部曲线的靠垫。当然具体有多舒服就看摩拉有多少了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/b93687548bf8fc3968853140ddffbd26_6613452797730950406.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "在夜色中赶路很有挑战性喔，不过这可难不倒常年在外行商的我！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/81643778068260335b691f77c8d64fdf_5386521836585682726.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你要睡觉了吗？嘿嘿，我就大发慈悲让你试试我的摩拉歌谣催眠法吧！一万摩拉入口袋，两万摩拉入口袋，三万摩拉入口袋，四、嘿四万…嘿嘿，摩拉，嘿嘿…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/8b42193d267fc8b419488716b7622a27_7907517300101855133.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉自己·吆喝",
+          "text": "万能的多莉商店，应有尽有，童叟无欺。只要摩拉够，只有想不到，没有买不到。需要任何东西，或者遇到任何困难，都可以来找我喔！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/f16c6f063c21b6cc160e5026a3daf692_8262301486514929685.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉自己·妙论派",
+          "text": "通常我会躲着教令院的人，他们的各种条条框框简直让人没办法做生意。不过呢，告诉你也没关系。妙论派有些人还算是头脑灵活，和我私下签了条约。我有摩拉，他们有技术和手艺，顺便还能让我的行商更加通畅。嘿嘿，大商人多莉，从不做亏本生意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/f1f42533bbac578a13b1418fc1eb0acb_4685972469999590347.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·推销",
+          "text": "你要在须弥旅行吗？须弥的沙漠很危险喔，就让大善人多莉来帮你吧！锵锵，沙漠旅行大礼包，只需要五百万摩拉！现在购买还会免费附送雨林旅行大礼包！机不可失，时不再来喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/2afe0671e728d2bc099dfbd3ef14ddb6_5465057100068314353.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·摩拉分配",
+          "text": "我的摩拉是我的，你的摩拉还是我的，嘿嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1f2b13259b1094d8366e7f76352a0d7a_3439160938254949201.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·实价",
+          "text": "好吧好吧，和你实话实说也行啦。沙漠和雨林的旅行大礼包，拆开来卖的话，分别都值二百五十万摩拉。但买一送一听起来比较划算嘛，你不觉得吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/941c2ae756418ca9840d4f630bbdd1ee_5900835566737995853.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "哎呀哎呀，我的神之眼亮晶晶的，很漂亮吧？既然看到了这么漂亮的东西，你是不是应该付摩拉呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/f585c3e196f439dd1c4ed8c9f60485ff_8237837191356071386.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "以前也有些蠢蘑菇试图欠账不还，嘿嘿，也不看看我是谁。不如，你来猜猜看他们的下场如何吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/80a5024242b86a6c6a747825bc10a7fd_1783889394779718119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·共同语言",
+          "text": "如果盗宝鼬能开口说话的话，我们肯定很有共同语言。它们多有眼光呀！全提瓦特最惹人喜爱的，自然是亮闪闪金灿灿的摩拉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/858188b6a382310bcb9c01cbb272c4ec_5829012078023838634.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·驮兽乐园",
+          "text": "想见见驮兽吗？没问题！你想见多少我就有多少。只不过这个门票钱嘛，欸嘿嘿…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/56020f7f055b5ae204d0a7164f0ac3b8_2416130722825576063.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "我和他算是有点私交。毕竟能为他拿到「七圣召唤」所有周边产品的人，全须弥只有我一个。很罕见吧！教令院里居然有他这种特行独立，眼光不错，又从不讲价的人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/c0219e1a1011498b75e5a5ccb4f080f0_1000319661343432302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "他热爱学术就和我热爱摩拉一样。听说他经常会做一些神奇的小玩意儿，只可惜会用什么公务繁忙作为理由，拒绝和我合作批量生产，要不然…可以赚上一大笔摩拉呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/888a6039b867b2fdef4af1722dfaac05_7744582697400100594.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "他以前试探过我的手下。所以说，教令院的家伙真是又呆板又不诚恳。我又何必冒这个风险呢？懂了吗？小跟班。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/5d7514cf294e5616b54f65b142f8c23d_585819166011273761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "他是跟我有合作的妙论派的人之一，和某些教令院的死脑筋不一样，是个会为理想奋斗的人，我很欣赏他。我悄悄借了他一大——笔摩拉，让他造出了我的艾尔卡萨扎莱宫。可以说没有善良的多莉的资助，就没有今天的卡维。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/47e7e5c334634d7564bf5a8c0c549d27_2545953324321072681.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "有时候我会雇佣她帮忙保护商队。毕竟她实力不错，要价也不高，可以说是性价比最优之选。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/bf43612268c8e9d06ce3bdfe900a877e_7245109742777047918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于岩王帝君…",
+          "text": "岩王帝君离去之前，我每天起来第一件事就是默念：财神在上，保佑多莉日进斗金。现在嘛，求神不如求己。多莉在此，保佑自己日进斗金！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/44357fcaab468e5747a6cdc302c740c8_1747384138890792378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "在须弥，小吉祥草王的信徒非常少。你问我吗？啊，如果她愿意给我摩拉的话，我就是她永恒的信徒。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/543faa11b1a774b3107f828536f25efd_260289268972682477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "她的舞跳得不错，但只留在须弥，还是不能最大程度上发挥出她的价值…我是说，有点屈才。你说你说，如果能把她带出去，在提瓦特举办巡回演出的话，一共能赚多少摩拉呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/625407a7824aa3505a7ae85b058cb0c2_340284333848587960.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾莉丝…",
+          "text": "艾莉丝女士有源源不断的新奇东西，是我的最佳供货商，没有之一。嚯嚯，这种商业机密都告诉你了，你是不是应该交点学费，表示表示呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/0a9bee6d43004372c20c3210c549529e_2899308958447577751.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "在我跨国收购物资的时候，她为我送过好几次货。\n服务又好，收费还便宜。哦，对了，她很喜欢各种漂亮的小饰品，我这刚好进了一些，须弥特色，纯手工制品，可精致了。怎么样，要不要买来送给她呀？我给你打折。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/12/21/181950745/4db4b4625f185df6c4bbfcb56745b76e_7708556875196094058.mp3",
+          "audioName": "关于绮良良.mp3"
+        },
+        {
+          "name": "关于瓦雷莎…",
+          "text": "哎呀，我知道你说的是谁了，单纯可爱的水果领主…她家的作物啊，品质顶呱呱！人也非常好说话，我面无表情托腮思考，都会让她紧张，怀疑自己的货品质量欠佳，主动提出降点价…嘿嘿，这样的性格，做生意可是要吃亏的！我希望她只对我展现出来，以免便宜了别家！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/04/03/140988855/a9cf7c328bbf0704d9fba27cb6903b07_1516940296359433179.mp3",
+          "audioName": "关于瓦雷莎_汉语.mp3"
+        },
+        {
+          "name": "想要了解多莉·其一",
+          "text": "想听故事？那就…给我一百万摩拉。嗯…看在我们交情的份上，给你打个九点九折好了，九十九万摩拉。怎么样？很划算吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/3881a19cd45a85284f30bacb7d9e806c_4175079585957799773.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其二",
+          "text": "嘿嘿，你可真有眼光。那我开始讲了！这是一个商人的故事。很久很久以前，她在行商途中迷失了方向。这时候她遇到一只雾怪，雾怪要一口吞掉她。她连忙说，雾怪先生不要着急呀，我这里有个故事。您听听看，如果有趣的话，就请您不要吃掉我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/e1f6495548d346097390285d572afe54_5508803501186085636.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其三",
+          "text": "雾怪答应了。于是商人开始讲自己的故事，当年她的生意还不像如今这么红火，在她一筹莫展之时，正巧，她从库房里翻出了一个不知从哪儿来的魔灯。她恍惚间擦亮了魔灯。一团红雾从里面弥漫了出来，她自称是「人美心善的大魔王」，见着这位商人就想起了自己乖巧可爱的女儿，所以她说，可以实现商人一个愿望。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/c2b96beef7a2c76f697fb637411f18fa_7908734042786480256.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其四",
+          "text": "还有什么比摩拉更吸引商人的呢，于是商人许愿：希望接下来的日子，能赚到数也数不清的摩拉。「人美心善的大魔王」同意了，她成为了商人的供货商，为商人提供了源源不断的奇妙商品。商人也因此赚得盆满钵满…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/b46f6fad39f4e6b6159714e9a2d00833_5942032917757538926.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其五",
+          "text": "雾怪听完这些觉得很神奇，明明自己和红雾大魔王也算同类，自己怎么没办法变出什么东西。商人呀，就夸了雾怪天赋异禀，说不定在同一个魔灯里待上一段时间，就能拥有大魔王的能力了。雾怪欣然同意，进入了商人的魔灯…咳咳，你问我这个故事是不是真的？这是另外的价钱喽，再给我九十九万摩拉，我就告诉你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/6b524136f717a5ba9d75b46dd22fdba1_4106982661990466641.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "多莉的爱好…",
+          "text": "我的爱好可多了，第一是赚摩拉，第二是数摩拉，第三是看摩拉，这世界上没有比摩拉更令人开心的东西了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/54cabc77f3c754e25001a7d2c420b082_7754170911947378719.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "多莉的烦恼…",
+          "text": "总有些人，拿着才三成利的生意就来打扰我，唉，我也是很忙的。没有百分百的利润，我连听完的兴趣都没有。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/214d090a44ba1d75a2afeba4a9ca09f2_6006890083284110009.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我听说璃月有一种叫做摩拉肉的食物，名字里带摩拉，一定非常好吃。什、什么…你会做？咳咳，你当我的小跟班也有一段时间了，应该从我这儿学到了不少吧。作为交换，你要给我做摩拉肉吃！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/0be14375d581c34169b9e95842568856_8389773564460066222.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "椰炭饼那种黑乎乎的东西，一点儿也不符合我的品味，我是绝对不会吃的！就算反过来给我摩拉，我…呃，我、我再考虑考虑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/079e341a33677e87795ab86c7cc28dfd_6455780128080546241.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃好吃，啊不如你跟着我一起行商，兼职私人厨师吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/3c700c91a66a51be667d356e6ba5113b_7328757411664603395.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "哇，我的小跟班做饭水平可以呀。能让我点餐吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/7eacea7cef74dfa317776c7b9b055e92_429979922850351684.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "居然让我吃这种东西，嘿嘿，你要赔偿我精神损失费！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/3024a1cd1f64a92a30545c6845ed5c0d_3252603174201941744.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天我可以满足你一个心愿！毕竟我是无所不能的多莉。说吧说吧，想要什么？不过呢，先和你说好，「一辈子都用不完的摩拉」这种愿望可不行喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/58127085b75cfc56af8fa607ec0ccfad_1349743785705411018.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "你这是在投资我吗？你可真有眼光。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/cd7cb6e66fcc2521264f78aa2fac9681_2757274255638285964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "多多益善，多多益善。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/9d063d16c7a5b109076d10550d14327f_4621698130796841877.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "喔！我好像有了一个奇妙钱袋，能掏出源源不断的力量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/bbb72e4d5dfebcea272c8ee8fdf423ca_2897994993867160848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "恭喜你成为神通广大的桑歌玛哈巴依老爷的尊贵会员！以后你的订单一律八折，这种待遇你可是第一个喔。啊，好好珍惜吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1069fa26bfbf9e4eef5be5f15cd62652_6830548818236938513.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "看我的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/ea1eb27a72644c47f624e643acd147ad_9168460864359076807.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "留下摩拉来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/04b9b96d38675735047be9125bf377a1_5187705379295174787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "魔灯显灵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/a586fd82aec290abf585c1555d07e402_2447311938445223361.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "大显身手时间！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/85ad656e38ed32ac42d66e99906a7898_7756048987085807306.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "一手交钱，一手交货。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/cc7f46369080c763faf145a3a708336f_3695914816997712593.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "哇，分我一半！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/7d2294bf7049ce314b18736d917a7b83_2653961576656617498.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "先让我看看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/961d78e44120d25e53e110329f43bfb2_5983178235258948736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我来我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/2de61ae9911f1c749b4b50c444357b98_980548427682297768.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "休想抢走我一分摩拉！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/220d1779e1a9eda284c4bc88368e594a_7190268459639644034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "啊救命啊，抢劫啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/3d040f75a5568f215b54652050b49646_8044790392682770091.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "一定要保护好摩拉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/6548445a761ec26fea4a7031c72c7c90_5196254766778360505.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "救命之恩，记得给钱！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/e29db948367021ac2e3df2ce42935da3_6607221917796763791.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "呆头菇，命和摩拉一样重要。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/472120736a335a4c21648e1b7b7a7705_6276941106296497374.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "摩拉…还没赚够呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/305c5c2d3ac146970c6ad5d576bb650a_3213932710262470855.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "又是…这样…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/0e05d9dac07c8ff65ad5b1ae3315be2d_1920846204823804533.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "摩拉也不管用吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/47b04e7cb0db60b12e7771563d2bf46f_144483403492542118.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "小问题。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/42d933b3a289c88ce5a405aaf7184e67_1735785218816117741.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "磕碰而已。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/3f4896e7fd9daf6e6e6de674a842dcbb_874710858098117267.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "欺人太甚！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/239b72cc64267a35e57fba34adfe7adb_8542981141258923266.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "列进黑名单！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/550c9026b91aaf6f8c89ed92c6ab9ba4_1937539926509520.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "走吧走吧，赚笔大的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/6189d5405a1cf856d29353b13c27e262_309762977670743589.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "摩拉不等人，快跟上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/ac3f1856aa10df794938889db8211c54_8748459524020528688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "是什么大生意？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1bfc5fbb6ffa2906004f01c4e90d4065_2811940218263462227.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "哎呀呀，这不是大名鼎鼎的旅行者吗？我是旅行商人多莉·桑歌玛哈巴依。作为给你的见面礼，我这儿的商品全部限时九折优惠，赶快来挑选吧，我帮你打包~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/870eca5ae8d5e8db6c2ba723a23ffd7a_4366663400056035646.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·摩拉",
+          "text": "我爱摩拉，摩拉爱我，啦啦啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/41609dd425afbb66100b8f3cdd71fdb9_1438709454218442794.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·双赢",
+          "text": "先把商品涨价百分之三十，然后再打八折卖出，不仅我赚得多了，顾客也会觉得划算，这就是双赢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/46918664ab595d45c7c3e40ba2d19308_1725733018771426569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·财迷",
+          "text": "只要摩拉管够，和教令院对着干也没什么大不了的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/61f4011b8d8111c2f5a73e20d98c7362_7642318836742381974.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "需要伞吗？我这里有一把特制雨伞，收集雨水的同时能够净化水质，把雨水变成饮用水储存在小罐子里，可以说是旅行必备品！只需要五十万摩拉喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/f61e4b3470eab0f9466aa2a892bc4b34_3989382550332167048.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这种天气，恐怕商队也不太好前进了。又要少赚好多摩拉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/74941fe87d18f85e5ff6ca6784314649_4708767539315463652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "哒啦，看我的全自动雪球机！想要吗想要吗？租金给你打九点五折喔！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/5aa7d3f3270d1d6e8782f44441717828_5325494424209022265.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "摩拉在阳光下闪闪发光，真好看！嘿嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/116873477e08575544e03c5be6eb4595_5171230613381646754.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "不会吧不会吧，不会真的有人选在大风天穿越沙漠吧。我当然有办法救这种蠢蘑菇，但费用…至少要翻三倍才行！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/a422fe3df5bb0d4be8a26077a9dd122c_3895720011305866809.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安，昨晚的梦里全是圆滚滚的可爱摩拉，今天一定会是盆满钵满的一天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/445bf81422e1e81386e7da9b210bd25a_7284800270447522408.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "想午睡吗？我可以给你一个软绵绵、蓬松松，完美贴合你背部曲线的靠垫。当然具体有多舒服就看摩拉有多少了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1be430e34c243cdec2dcbb9698c9d3b5_5332017605838784737.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "在夜色中赶路很有挑战性喔，不过这可难不倒常年在外行商的我！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/bd7743a5589ea312b4abde56b87dc716_3361226210109151463.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你要睡觉了吗？嘿嘿，我就大发慈悲让你试试我的摩拉歌谣催眠法吧！一万摩拉入口袋，两万摩拉入口袋，三万摩拉入口袋，四、嘿四万…嘿嘿，摩拉，嘿嘿…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/2aa4457f3c48454825e16659233a7fec_4875547172534233198.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉自己·吆喝",
+          "text": "万能的多莉商店，应有尽有，童叟无欺。只要摩拉够，只有想不到，没有买不到。需要任何东西，或者遇到任何困难，都可以来找我喔！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/39d3106c4620fc1582883d5186658ec9_158835792806060676.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉自己·妙论派",
+          "text": "通常我会躲着教令院的人，他们的各种条条框框简直让人没办法做生意。不过呢，告诉你也没关系。妙论派有些人还算是头脑灵活，和我私下签了条约。我有摩拉，他们有技术和手艺，顺便还能让我的行商更加通畅。嘿嘿，大商人多莉，从不做亏本生意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/92088387b5c070f95ad28fc5ff29e452_998539219176286840.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·推销",
+          "text": "你要在须弥旅行吗？须弥的沙漠很危险喔，就让大善人多莉来帮你吧！锵锵，沙漠旅行大礼包，只需要五百万摩拉！现在购买还会免费附送雨林旅行大礼包！机不可失，时不再来喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/bd64a8528f5a53dff2c39f6ae9bd7ebb_1673670642465927873.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·摩拉分配",
+          "text": "我的摩拉是我的，你的摩拉还是我的，嘿嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/ec60185d89e05cd49241ff0fafa7f342_1738948706998511800.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·实价",
+          "text": "好吧好吧，和你实话实说也行啦。沙漠和雨林的旅行大礼包，拆开来卖的话，分别都值二百五十万摩拉。但买一送一听起来比较划算嘛，你不觉得吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/e7d7d776d61dc9c118c5b81190683211_8959790335877617161.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "哎呀哎呀，我的神之眼亮晶晶的，很漂亮吧？既然看到了这么漂亮的东西，你是不是应该付摩拉呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/d4e6acb465d3a56e0a1a306f50160281_4694801180416980867.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "以前也有些蠢蘑菇试图欠账不还，嘿嘿，也不看看我是谁。不如，你来猜猜看他们的下场如何吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/08c9d6236bd80c33b04e7152e5eda190_7078188964940522398.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·共同语言",
+          "text": "如果盗宝鼬能开口说话的话，我们肯定很有共同语言。它们多有眼光呀！全提瓦特最惹人喜爱的，自然是亮闪闪金灿灿的摩拉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/014f7033a050539b268284282c932d56_1530506588122678938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·驮兽乐园",
+          "text": "想见见驮兽吗？没问题！你想见多少我就有多少。只不过这个门票钱嘛，欸嘿嘿…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/dcd2529c706b35498b6a65e90b8286e0_8445130832846277164.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "我和他算是有点私交。毕竟能为他拿到「七圣召唤」所有周边产品的人，全须弥只有我一个。很罕见吧！教令院里居然有他这种特行独立，眼光不错，又从不讲价的人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/4166151bff26312b78c7150e0509ae1a_6348411086528802278.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "他热爱学术就和我热爱摩拉一样。听说他经常会做一些神奇的小玩意儿，只可惜会用什么公务繁忙作为理由，拒绝和我合作批量生产，要不然…可以赚上一大笔摩拉呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/db0040333c9979f58c3c1e93288628e5_8443822942662444739.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "他以前试探过我的手下。所以说，教令院的家伙真是又呆板又不诚恳。我又何必冒这个风险呢？懂了吗？小跟班。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/b1a90a630d3d85ea38a0471375b2a4d6_3738637254714092476.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "他是跟我有合作的妙论派的人之一，和某些教令院的死脑筋不一样，是个会为理想奋斗的人，我很欣赏他。我悄悄借了他一大——笔摩拉，让他造出了我的艾尔卡萨扎莱宫。可以说没有善良的多莉的资助，就没有今天的卡维。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/20ded4fae18c98bef861619c667dac4c_7898195381745962755.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "有时候我会雇佣她帮忙保护商队。毕竟她实力不错，要价也不高，可以说是性价比最优之选。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/f4075a306be6e1866935e993cd956709_1327054860059914430.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于岩王帝君…",
+          "text": "岩王帝君离去之前，我每天起来第一件事就是默念：财神在上，保佑多莉日进斗金。现在嘛，求神不如求己。多莉在此，保佑自己日进斗金！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/88b514c25f85416de6af4bed7f1f25d6_5271590635354419166.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "在须弥，小吉祥草王的信徒非常少。你问我吗？啊，如果她愿意给我摩拉的话，我就是她永恒的信徒。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/814f179886f28d29d3eca3095c7ede7e_5207351237043011782.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "她的舞跳得不错，但只留在须弥，还是不能最大程度上发挥出她的价值…我是说，有点屈才。你说你说，如果能把她带出去，在提瓦特举办巡回演出的话，一共能赚多少摩拉呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/c6288d90df492623446b62774464a67f_2286313844284198335.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾莉丝…",
+          "text": "艾莉丝女士有源源不断的新奇东西，是我的最佳供货商，没有之一。嚯嚯，这种商业机密都告诉你了，你是不是应该交点学费，表示表示呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/6f7fdfdff4cd70f9df9a3ef1b9388c7e_5207859119999385540.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其一",
+          "text": "想听故事？那就…给我一百万摩拉。嗯…看在我们交情的份上，给你打个九点九折好了，九十九万摩拉。怎么样？很划算吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/67fc5047f4f92c1ecc36e3d9c3850652_293852092100279849.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其二",
+          "text": "嘿嘿，你可真有眼光。那我开始讲了！这是一个商人的故事。很久很久以前，她在行商途中迷失了方向。这时候她遇到一只雾怪，雾怪要一口吞掉她。她连忙说，雾怪先生不要着急呀，我这里有个故事。您听听看，如果有趣的话，就请您不要吃掉我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/156d8a42667b8cad837e3fb86c655e1e_6796267532121019382.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其三",
+          "text": "雾怪答应了。于是商人开始讲自己的故事，当年她的生意还不像如今这么红火，在她一筹莫展之时，正巧，她从库房里翻出了一个不知从哪儿来的魔灯。她恍惚间擦亮了魔灯。一团红雾从里面弥漫了出来，她自称是「人美心善的大魔王」，见着这位商人就想起了自己乖巧可爱的女儿，所以她说，可以实现商人一个愿望。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/6cc216075bf6973fd01587c0f26c77e8_6982794426567160241.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其四",
+          "text": "还有什么比摩拉更吸引商人的呢，于是商人许愿：希望接下来的日子，能赚到数也数不清的摩拉。「人美心善的大魔王」同意了，她成为了商人的供货商，为商人提供了源源不断的奇妙商品。商人也因此赚得盆满钵满…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/d3afcd60cc4c20fbdd57322df57c6583_3517186164887914069.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其五",
+          "text": "雾怪听完这些觉得很神奇，明明自己和红雾大魔王也算同类，自己怎么没办法变出什么东西。商人呀，就夸了雾怪天赋异禀，说不定在同一个魔灯里待上一段时间，就能拥有大魔王的能力了。雾怪欣然同意，进入了商人的魔灯…咳咳，你问我这个故事是不是真的？这是另外的价钱喽，再给我九十九万摩拉，我就告诉你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1599ce69e364f40c89e9f59e0c24d92d_4231352245504712631.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "多莉的爱好…",
+          "text": "我的爱好可多了，第一是赚摩拉，第二是数摩拉，第三是看摩拉，这世界上没有比摩拉更令人开心的东西了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/a9947aa8fc4b24b64cbdb51141fdab4a_608322828138088330.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "多莉的烦恼…",
+          "text": "总有些人，拿着才三成利的生意就来打扰我，唉，我也是很忙的。没有百分百的利润，我连听完的兴趣都没有。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/dbb7fefb02d274678d0d992372737460_6754782477715818296.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我听说璃月有一种叫做摩拉肉的食物，名字里带摩拉，一定非常好吃。什、什么…你会做？咳咳，你当我的小跟班也有一段时间了，应该从我这儿学到了不少吧。作为交换，你要给我做摩拉肉吃！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/14539ab2559daca34edf673b8baa887a_5697115412150178063.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "椰炭饼那种黑乎乎的东西，一点儿也不符合我的品味，我是绝对不会吃的！就算反过来给我摩拉，我…呃，我、我再考虑考虑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/388cb1f21a814d2ff772d00bcdd59bdb_5196289030622849033.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃好吃，啊不如你跟着我一起行商，兼职私人厨师吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/20a83b9031fc2f41b002b1c1c0cebf89_8315494999107385461.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "哇，我的小跟班做饭水平可以呀。能让我点餐吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/ddcd606e2033c49e899b728c3df7428f_4825732324001479499.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "居然让我吃这种东西，嘿嘿，你要赔偿我精神损失费！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/fbd0b5d8a112a144f0d8263f7a9ccd18_6779491162507902635.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天我可以满足你一个心愿！毕竟我是无所不能的多莉。说吧说吧，想要什么？不过呢，先和你说好，「一辈子都用不完的摩拉」这种愿望可不行喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/5730c09776ceb52bddfa223e7484ca97_500339709189086378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "你这是在投资我吗？你可真有眼光。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/ad69b30c52f7158bb897bf70f0176a7e_6657171997925778671.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "多多益善，多多益善。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/4551018b936873b8a2699201d42729db_7588762638227693021.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "喔！我好像有了一个奇妙钱袋，能掏出源源不断的力量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/18c90a1f9f40f166897355f20cf84d30_5067205456170051789.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "恭喜你成为神通广大的桑歌玛哈巴依老爷的尊贵会员！以后你的订单一律八折，这种待遇你可是第一个喔。啊，好好珍惜吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/2a3a2b2a3f53aed4e19f9c085f5ac261_7029956692258153477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "看我的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1415281434ff8566cf9f5eee34f281de_2616827983409683594.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "留下摩拉来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/a1dcf2bccaa48954dd31753c17fc6c7e_7080872608637936524.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "魔灯显灵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/708058dceec488de42ce76dd54dd5801_1168500801654329969.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "大显身手时间！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/958b8201e389b9ebe0009fd4e0d3b2f9_6566939977665095321.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "一手交钱，一手交货。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/5fe18db18467d00808d0ec2a2287fb76_7786825323896450948.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "哇，分我一半！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1b0f3e2c907fa1eeecb4e4407ae8f28a_6933763943581394344.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "先让我看看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/4fa46fb23718aa7904537c9628171f3c_361757333286322357.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我来我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/6291f51e75be636890612f015e28eed4_13017117732724508.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "休想抢走我一分摩拉！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/d09af3abd3b64e4fc7baf6e6ef0faf21_7677478849075115446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "啊救命啊，抢劫啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/9e74b1a2fcea35d9ed6fe034f5db8692_7086269954681942783.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "一定要保护好摩拉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1f78743ed6c594dec214d2d84ec413bd_1153405344444949586.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "救命之恩，记得给钱！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/9b2dd657b0221ec933b3684a832858bb_1880324728528733419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "呆头菇，命和摩拉一样重要。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/d276d4ea60d720e017cac79425f6198e_980949402357539366.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "摩拉…还没赚够呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/65a6098b523221bb6ab4f42dd0a79357_8012648035344263401.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "又是…这样…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/0374da0a1e695d3c3fe55407fcb6d818_4323286166756008764.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "摩拉也不管用吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/e17558071dda078f56a884c270688ac2_9019297042083226431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "小问题。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/a22ff880f10222c0a111fe826b4ea31b_3446747584467882082.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "磕碰而已。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/2e5f4416968fb27f216fda04727af91f_6779908222350052703.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "欺人太甚！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/f528af0587ad4554b8940768e7c09938_5680052854040753091.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "列进黑名单！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/5b0478cb80697d0a34eeea1007ab32e1_5520259400193312530.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "走吧走吧，赚笔大的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/55638642b9adda72060d2d4c759c4587_3588388033975268622.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "摩拉不等人，快跟上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/3c1abc542fe981cc06d9bb788a5a6197_1187842632797737895.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "是什么大生意？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/56e699bb59173fd14612d0c7e222e554_635456900544060433.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "哎呀呀，这不是大名鼎鼎的旅行者吗？我是旅行商人多莉·桑歌玛哈巴依。作为给你的见面礼，我这儿的商品全部限时九折优惠，赶快来挑选吧，我帮你打包~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/b64ca1e77a52e23c18eaaf24d788b79a_8104900130872566760.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·摩拉",
+          "text": "我爱摩拉，摩拉爱我，啦啦啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/0d5a25ba3aef81b04128c6ab4ee527ae_3027266051173234963.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·双赢",
+          "text": "先把商品涨价百分之三十，然后再打八折卖出，不仅我赚得多了，顾客也会觉得划算，这就是双赢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/afa914052736e354c55f4fc6024d8071_2648421676270991848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·财迷",
+          "text": "只要摩拉管够，和教令院对着干也没什么大不了的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/2b9465a531bfd263ca49a0a5214320c0_6711518392681655175.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "需要伞吗？我这里有一把特制雨伞，收集雨水的同时能够净化水质，把雨水变成饮用水储存在小罐子里，可以说是旅行必备品！只需要五十万摩拉喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/551f18c66aecde84326591f416a63706_6953358028138869048.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这种天气，恐怕商队也不太好前进了。又要少赚好多摩拉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/b73d89dc0d56b8b36e770969b370fb12_5020924789114554748.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "哒啦，看我的全自动雪球机！想要吗想要吗？租金给你打九点五折喔！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/cbb5cb13622f1aad3bc5304bd1c9b809_7726084946234959131.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "摩拉在阳光下闪闪发光，真好看！嘿嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/44ff8e58e90757a7df9f7963175ab0b0_5115329892535054781.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "不会吧不会吧，不会真的有人选在大风天穿越沙漠吧。我当然有办法救这种蠢蘑菇，但费用…至少要翻三倍才行！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/19b1db87b05186c4c71f474bc1c1d644_8820942303114568673.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安，昨晚的梦里全是圆滚滚的可爱摩拉，今天一定会是盆满钵满的一天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/3d7a2ea3c07af9b62879e759ab52a5ee_7059256564234822423.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "想午睡吗？我可以给你一个软绵绵、蓬松松，完美贴合你背部曲线的靠垫。当然具体有多舒服就看摩拉有多少了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/3b08f7e64417fffd3676fe6e26563669_215349130023497535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "在夜色中赶路很有挑战性喔，不过这可难不倒常年在外行商的我！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/e00eddbfb675179fe5db065560cde897_100996989465394987.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你要睡觉了吗？嘿嘿，我就大发慈悲让你试试我的摩拉歌谣催眠法吧！一万摩拉入口袋，两万摩拉入口袋，三万摩拉入口袋，四、嘿四万…嘿嘿，摩拉，嘿嘿…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/c1c1874e980b48f7146d9d136479e1ba_7900822034542735326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉自己·吆喝",
+          "text": "万能的多莉商店，应有尽有，童叟无欺。只要摩拉够，只有想不到，没有买不到。需要任何东西，或者遇到任何困难，都可以来找我喔！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/b38c6a1c8f8ddd6917b8e68d23083f39_738974110640424193.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉自己·妙论派",
+          "text": "通常我会躲着教令院的人，他们的各种条条框框简直让人没办法做生意。不过呢，告诉你也没关系。妙论派有些人还算是头脑灵活，和我私下签了条约。我有摩拉，他们有技术和手艺，顺便还能让我的行商更加通畅。嘿嘿，大商人多莉，从不做亏本生意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1d7215ebd35b65977cdd8df9f147d936_370262454538392183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·推销",
+          "text": "你要在须弥旅行吗？须弥的沙漠很危险喔，就让大善人多莉来帮你吧！锵锵，沙漠旅行大礼包，只需要五百万摩拉！现在购买还会免费附送雨林旅行大礼包！机不可失，时不再来喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/7ed65b5514f341f339f5bb2677add3f4_7639493164736344080.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·摩拉分配",
+          "text": "我的摩拉是我的，你的摩拉还是我的，嘿嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/605af9030d7fda058b5a8e2ab78edca1_656030772972360389.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·实价",
+          "text": "好吧好吧，和你实话实说也行啦。沙漠和雨林的旅行大礼包，拆开来卖的话，分别都值二百五十万摩拉。但买一送一听起来比较划算嘛，你不觉得吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/25074cb56e8b72391a527b774103d5e6_3343225665651090600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "哎呀哎呀，我的神之眼亮晶晶的，很漂亮吧？既然看到了这么漂亮的东西，你是不是应该付摩拉呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/d3dfc4b98734d7d0a44f657790c5640f_6371261481939482705.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "以前也有些蠢蘑菇试图欠账不还，嘿嘿，也不看看我是谁。不如，你来猜猜看他们的下场如何吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/2ec172ac9c972e3322cd34c662c89781_6909514629222779515.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·共同语言",
+          "text": "如果盗宝鼬能开口说话的话，我们肯定很有共同语言。它们多有眼光呀！全提瓦特最惹人喜爱的，自然是亮闪闪金灿灿的摩拉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/87a2cbd2e57ca84ad77be1f41c284e5e_2596207246219644242.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·驮兽乐园",
+          "text": "想见见驮兽吗？没问题！你想见多少我就有多少。只不过这个门票钱嘛，欸嘿嘿…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/6f787907fb2dfa241353166e6c3518da_7804374673431939418.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "我和他算是有点私交。毕竟能为他拿到「七圣召唤」所有周边产品的人，全须弥只有我一个。很罕见吧！教令院里居然有他这种特行独立，眼光不错，又从不讲价的人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/8986b88918bb2e6adc08f1b099e64071_1826554351740064328.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "他热爱学术就和我热爱摩拉一样。听说他经常会做一些神奇的小玩意儿，只可惜会用什么公务繁忙作为理由，拒绝和我合作批量生产，要不然…可以赚上一大笔摩拉呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/80f570215257a66c5372471a2d138b99_554971426228577419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "他以前试探过我的手下。所以说，教令院的家伙真是又呆板又不诚恳。我又何必冒这个风险呢？懂了吗？小跟班。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/79e8d26dd9c2d9529a0904ffd8373678_7361559687737809992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "他是跟我有合作的妙论派的人之一，和某些教令院的死脑筋不一样，是个会为理想奋斗的人，我很欣赏他。我悄悄借了他一大——笔摩拉，让他造出了我的艾尔卡萨扎莱宫。可以说没有善良的多莉的资助，就没有今天的卡维。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/8510b22fecb42722009099639ab433a1_3420445672719645671.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "有时候我会雇佣她帮忙保护商队。毕竟她实力不错，要价也不高，可以说是性价比最优之选。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/9d759b07e2430959ae4d389bd076ddcf_2695583312519071036.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于岩王帝君…",
+          "text": "岩王帝君离去之前，我每天起来第一件事就是默念：财神在上，保佑多莉日进斗金。现在嘛，求神不如求己。多莉在此，保佑自己日进斗金！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/8972c811d4978ecda95c72ada0e6a449_7542729288753198928.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "在须弥，小吉祥草王的信徒非常少。你问我吗？啊，如果她愿意给我摩拉的话，我就是她永恒的信徒。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/74fe4016a556e445c0969152bb37fea8_4359015583875410809.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "她的舞跳得不错，但只留在须弥，还是不能最大程度上发挥出她的价值…我是说，有点屈才。你说你说，如果能把她带出去，在提瓦特举办巡回演出的话，一共能赚多少摩拉呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/0cb7820f031276ea2a628d70fcd94eff_7796444717166836885.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾莉丝…",
+          "text": "艾莉丝女士有源源不断的新奇东西，是我的最佳供货商，没有之一。嚯嚯，这种商业机密都告诉你了，你是不是应该交点学费，表示表示呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/cbd20d1cde4890af4d9320bcbbe4bd91_1286772275041306889.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "在我跨国收购物资的时候，她为我送过好几次货。服务又好，收费还便宜。哦，对了，她很喜欢各种漂亮的小饰品，我这刚好进了一些，须弥特色，纯手工制品，可精致了。怎么样，要不要买来送给她呀？我给你打折。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/04/03/140988855/fa2620fa1b7cecae599321cbc6638a7e_6974179745211488810.mp3",
+          "audioName": "关于绮良良_日语.mp3"
+        },
+        {
+          "name": "关于瓦雷莎...",
+          "text": "哎呀，我知道你说的是谁了，单纯可爱的水果领主…她家的作物啊，品质顶呱呱！人也非常好说话，我面无表情托腮思考，都会让她紧张，怀疑自己的货品质量欠佳，主动提出降点价…嘿嘿，这样的性格，做生意可是要吃亏的！我希望她只对我展现出来，以免便宜了别家！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/04/03/140988855/ba91fcd0f387feedf96d357bfd350bc8_8063997595065037615.mp3",
+          "audioName": "关于瓦雷莎_日语.mp3"
+        },
+        {
+          "name": "想要了解多莉·其一",
+          "text": "想听故事？那就…给我一百万摩拉。嗯…看在我们交情的份上，给你打个九点九折好了，九十九万摩拉。怎么样？很划算吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/5d0cb67d2cc9cc7db949a781dead8eb7_1614850745312548388.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其二",
+          "text": "嘿嘿，你可真有眼光。那我开始讲了！这是一个商人的故事。很久很久以前，她在行商途中迷失了方向。这时候她遇到一只雾怪，雾怪要一口吞掉她。她连忙说，雾怪先生不要着急呀，我这里有个故事。您听听看，如果有趣的话，就请您不要吃掉我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/d6ffbafa91947408d173b3ffe93a229d_7091103775968703955.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其三",
+          "text": "雾怪答应了。于是商人开始讲自己的故事，当年她的生意还不像如今这么红火，在她一筹莫展之时，正巧，她从库房里翻出了一个不知从哪儿来的魔灯。她恍惚间擦亮了魔灯。一团红雾从里面弥漫了出来，她自称是「人美心善的大魔王」，见着这位商人就想起了自己乖巧可爱的女儿，所以她说，可以实现商人一个愿望。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/a057ee21dec7e863fef0ddcced23c91b_5731517916248826256.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其四",
+          "text": "还有什么比摩拉更吸引商人的呢，于是商人许愿：希望接下来的日子，能赚到数也数不清的摩拉。「人美心善的大魔王」同意了，她成为了商人的供货商，为商人提供了源源不断的奇妙商品。商人也因此赚得盆满钵满…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/f57481a9540f3f101e85b00c54af8d44_5305971149567314617.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其五",
+          "text": "雾怪听完这些觉得很神奇，明明自己和红雾大魔王也算同类，自己怎么没办法变出什么东西。商人呀，就夸了雾怪天赋异禀，说不定在同一个魔灯里待上一段时间，就能拥有大魔王的能力了。雾怪欣然同意，进入了商人的魔灯…咳咳，你问我这个故事是不是真的？这是另外的价钱喽，再给我九十九万摩拉，我就告诉你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/0f0cd54065264b713fcbb8a46157d6f4_8237830413946663826.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "多莉的爱好…",
+          "text": "我的爱好可多了，第一是赚摩拉，第二是数摩拉，第三是看摩拉，这世界上没有比摩拉更令人开心的东西了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/c7b45ae2bbc3639f8c9224ff3e6fdafd_4329553904184170819.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "多莉的烦恼…",
+          "text": "总有些人，拿着才三成利的生意就来打扰我，唉，我也是很忙的。没有百分百的利润，我连听完的兴趣都没有。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/38c7c092ab8d7b937e02b200451e6e05_4391724342395201337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我听说璃月有一种叫做摩拉肉的食物，名字里带摩拉，一定非常好吃。什、什么…你会做？咳咳，你当我的小跟班也有一段时间了，应该从我这儿学到了不少吧。作为交换，你要给我做摩拉肉吃！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/03897797c753ca3be33799628df3ab3d_7658592433437724351.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "椰炭饼那种黑乎乎的东西，一点儿也不符合我的品味，我是绝对不会吃的！就算反过来给我摩拉，我…呃，我、我再考虑考虑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/7abc0055ca3cc088c72c15eb601a5a8f_7581300117630957746.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃好吃，啊不如你跟着我一起行商，兼职私人厨师吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/7c3b23878fbcfb6f5fff984bf2dfbf5a_6940233294725540540.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "哇，我的小跟班做饭水平可以呀。能让我点餐吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/fdf0720b4b59ef9abf793ff122ff6a29_7590514911531131728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "居然让我吃这种东西，嘿嘿，你要赔偿我精神损失费！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/b52b340249a5a0e447c160bbf9b11a33_4222219292669681626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天我可以满足你一个心愿！毕竟我是无所不能的多莉。说吧说吧，想要什么？不过呢，先和你说好，「一辈子都用不完的摩拉」这种愿望可不行喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1658c56cd8aab048b80005ab8f3a1787_1464779054828340750.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "你这是在投资我吗？你可真有眼光。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/616a32ad0bf4b70b916d102181edccb2_3587981227666421857.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "多多益善，多多益善。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/9375da8a70a419953e1d53434ec84d5f_7213688342847061819.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "喔！我好像有了一个奇妙钱袋，能掏出源源不断的力量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/ea93abb2019bf75aca7bc927f8198f19_919963282536223152.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "恭喜你成为神通广大的桑歌玛哈巴依老爷的尊贵会员！以后你的订单一律八折，这种待遇你可是第一个喔。啊，好好珍惜吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/e1ee28a0d68f6d05bb1646395548d49c_5467353106547761730.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "看我的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/4a17ff0196fdc421f1c570803304a1ba_2199643524963939438.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "留下摩拉来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/62acfb2a26ebb2c0a4edb1623cafa9cc_3103134214928401770.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "魔灯显灵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/95e0427c74df1cf4dcc43fcd7536a3f0_2080192646074612604.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "大显身手时间！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/bbc019f2f14eb80965cac661fe555b1b_1924793664470525792.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "一手交钱，一手交货。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/9a22b4e996ee3b692c6daf022ca9c1a0_1805843906499079504.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "哇，分我一半！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/aa5d005322188a35cd70ada1a0346d09_7909249393120213927.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "先让我看看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/3dfaa7e000965d5e2d3c475f26f20fab_6918230674974601835.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我来我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/936e50edc6b98e74528bd209f88bbaf2_1357564074697652921.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "休想抢走我一分摩拉！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/5cfe8a8fc81fef450fd56f4714d66830_7716028799934256039.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "啊救命啊，抢劫啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/aab6833b2d59827d178de06fe761c8e2_2860013308172073016.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "一定要保护好摩拉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/9a0ad133ab7b9af8a96b4d75371f5933_2693889492269555941.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "救命之恩，记得给钱！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/4f6e852ee16aa26d8ff6c43bcc12c966_3833216537573885585.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "呆头菇，命和摩拉一样重要。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/c228e9c5fa1245f399c704601b3c0f25_709119625716184145.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "摩拉…还没赚够呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/8a426cd61c9a69a673ee21d479635a5f_3151511704039604981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "又是…这样…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1d572071321e6c439f60457620605639_4627212131415637536.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "摩拉也不管用吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/becd87c49c5f174a55a9fa371534ee95_1386360747693726933.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "小问题。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/6abbb5db96dc24183d6c4da1e89c6c66_5617045070313339034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "磕碰而已。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/665e3e311267e0871ea944b52b983112_320464308897410647.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "欺人太甚！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/0a2c12a7263f3c6ed1791cc385189ad6_3852584157654507947.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "列进黑名单！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/0054513bb156565cab2510a3ebc49760_8158796537092126635.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "走吧走吧，赚笔大的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/9b7fc0dd4f8fab6ca25b3977fade76e9_3793393880200450370.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "摩拉不等人，快跟上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/81d5711f3b20b80336a0158f9c7878a6_7660277187466374542.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "是什么大生意？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/700f93d8c9ba178127e4e2042993c8f2_4143329475775079524.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "哎呀呀，这不是大名鼎鼎的旅行者吗？我是旅行商人多莉·桑歌玛哈巴依。作为给你的见面礼，我这儿的商品全部限时九折优惠，赶快来挑选吧，我帮你打包~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/eaf8a176e59ca8f3bc18cc42960f3fac_345086549921594216.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·摩拉",
+          "text": "我爱摩拉，摩拉爱我，啦啦啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/f0a70cd52d3c42a33c553c07d13cc3ca_7306047111251709090.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·双赢",
+          "text": "先把商品涨价百分之三十，然后再打八折卖出，不仅我赚得多了，顾客也会觉得划算，这就是双赢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/f7089564dbba5b7d562d2b4197eb9890_4672676082597964172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·财迷",
+          "text": "只要摩拉管够，和教令院对着干也没什么大不了的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/19664542f6730511ab44e936bd707af4_5573247545511435058.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "需要伞吗？我这里有一把特制雨伞，收集雨水的同时能够净化水质，把雨水变成饮用水储存在小罐子里，可以说是旅行必备品！只需要五十万摩拉喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/157425cea9ecacfb3e392c4e37905c73_181242309668848146.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这种天气，恐怕商队也不太好前进了。又要少赚好多摩拉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1f8664adc33de50c81401a2418ee9801_4187562172857076332.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "哒啦，看我的全自动雪球机！想要吗想要吗？租金给你打九点五折喔！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/fdf00d234e259eb2fe058a78c207d554_899423179966429447.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "摩拉在阳光下闪闪发光，真好看！嘿嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/affb37d1403d9c28da41472c74f517a8_8637266064977452090.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "不会吧不会吧，不会真的有人选在大风天穿越沙漠吧。我当然有办法救这种蠢蘑菇，但费用…至少要翻三倍才行！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/53fdf80641afa91d53bcbf2e421aac5e_7302260596029776644.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安，昨晚的梦里全是圆滚滚的可爱摩拉，今天一定会是盆满钵满的一天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/0d5cc4184e9dfb7c02c960e67585942f_8971170169437412587.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "想午睡吗？我可以给你一个软绵绵、蓬松松，完美贴合你背部曲线的靠垫。当然具体有多舒服就看摩拉有多少了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/c31201a337a8be2e56a03ec59366fc23_6194196723845278426.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "在夜色中赶路很有挑战性喔，不过这可难不倒常年在外行商的我！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/7d4c008557571ea8fd6c7fb202b042ca_1391947956449298042.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你要睡觉了吗？嘿嘿，我就大发慈悲让你试试我的摩拉歌谣催眠法吧！一万摩拉入口袋，两万摩拉入口袋，三万摩拉入口袋，四、嘿四万…嘿嘿，摩拉，嘿嘿…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/cfb41c96ab92dcd1bb29b562b9124aaa_8190126010172802334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉自己·吆喝",
+          "text": "万能的多莉商店，应有尽有，童叟无欺。只要摩拉够，只有想不到，没有买不到。需要任何东西，或者遇到任何困难，都可以来找我喔！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/8f509259dbb51b4447070bc67c2ce46b_7180547440927994920.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉自己·妙论派",
+          "text": "通常我会躲着教令院的人，他们的各种条条框框简直让人没办法做生意。不过呢，告诉你也没关系。妙论派有些人还算是头脑灵活，和我私下签了条约。我有摩拉，他们有技术和手艺，顺便还能让我的行商更加通畅。嘿嘿，大商人多莉，从不做亏本生意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/ceec8dd977ede066ac2bd866a081258a_5612492481756192561.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·推销",
+          "text": "你要在须弥旅行吗？须弥的沙漠很危险喔，就让大善人多莉来帮你吧！锵锵，沙漠旅行大礼包，只需要五百万摩拉！现在购买还会免费附送雨林旅行大礼包！机不可失，时不再来喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/b1356b358a189e182820c688e88f3d7d_6425589340357550035.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·摩拉分配",
+          "text": "我的摩拉是我的，你的摩拉还是我的，嘿嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/bc6629dad202ddc77963eaa0334419a6_2351176592863299456.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·实价",
+          "text": "好吧好吧，和你实话实说也行啦。沙漠和雨林的旅行大礼包，拆开来卖的话，分别都值二百五十万摩拉。但买一送一听起来比较划算嘛，你不觉得吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/a01f5469367c35e2de89e5f01a21d63e_725669519992403588.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "哎呀哎呀，我的神之眼亮晶晶的，很漂亮吧？既然看到了这么漂亮的东西，你是不是应该付摩拉呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/18aaa38ad41231e99473d6fd99b2b899_3582373004704585193.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "以前也有些蠢蘑菇试图欠账不还，嘿嘿，也不看看我是谁。不如，你来猜猜看他们的下场如何吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/5964f48b06b8a915fba62b0475905197_227248230068497555.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·共同语言",
+          "text": "如果盗宝鼬能开口说话的话，我们肯定很有共同语言。它们多有眼光呀！全提瓦特最惹人喜爱的，自然是亮闪闪金灿灿的摩拉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/18a9eb9c326c99ea8bf8493c48427c3a_2266462256772417552.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·驮兽乐园",
+          "text": "想见见驮兽吗？没问题！你想见多少我就有多少。只不过这个门票钱嘛，欸嘿嘿…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/732c0b83883e13c58a2e5cf5841df35e_5322219618618901059.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "我和他算是有点私交。毕竟能为他拿到「七圣召唤」所有周边产品的人，全须弥只有我一个。很罕见吧！教令院里居然有他这种特行独立，眼光不错，又从不讲价的人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/ce9e87e5423e5583a20e162f0016c907_9166637476274346228.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "他热爱学术就和我热爱摩拉一样。听说他经常会做一些神奇的小玩意儿，只可惜会用什么公务繁忙作为理由，拒绝和我合作批量生产，要不然…可以赚上一大笔摩拉呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/e107ff771208b1d6ff2d8d888fd4c560_5442486873576972094.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "他以前试探过我的手下。所以说，教令院的家伙真是又呆板又不诚恳。我又何必冒这个风险呢？懂了吗？小跟班。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/b29a20371e3f09aae83788c272974edf_914751822918350705.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "他是跟我有合作的妙论派的人之一，和某些教令院的死脑筋不一样，是个会为理想奋斗的人，我很欣赏他。我悄悄借了他一大——笔摩拉，让他造出了我的艾尔卡萨扎莱宫。可以说没有善良的多莉的资助，就没有今天的卡维。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/bb65c7487a9f0c309ba450021799aded_9069499586383483111.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "有时候我会雇佣她帮忙保护商队。毕竟她实力不错，要价也不高，可以说是性价比最优之选。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/2823f65d6bf34151292b7346063de432_4194910017933773041.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于岩王帝君…",
+          "text": "岩王帝君离去之前，我每天起来第一件事就是默念：财神在上，保佑多莉日进斗金。现在嘛，求神不如求己。多莉在此，保佑自己日进斗金！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/9858f30cb022dab6215a257aaf6f6dcd_6041795718437697851.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "在须弥，小吉祥草王的信徒非常少。你问我吗？啊，如果她愿意给我摩拉的话，我就是她永恒的信徒。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/639bb2b9f908d2b07abd661c8c02685a_5347624855653703215.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "她的舞跳得不错，但只留在须弥，还是不能最大程度上发挥出她的价值…我是说，有点屈才。你说你说，如果能把她带出去，在提瓦特举办巡回演出的话，一共能赚多少摩拉呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/d9e21256bee601d9e3c78b97e827e04e_526436160179366721.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾莉丝…",
+          "text": "艾莉丝女士有源源不断的新奇东西，是我的最佳供货商，没有之一。嚯嚯，这种商业机密都告诉你了，你是不是应该交点学费，表示表示呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/51c332dd7fdd898927638d0ad04bca95_169398938172612971.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其一",
+          "text": "想听故事？那就…给我一百万摩拉。嗯…看在我们交情的份上，给你打个九点九折好了，九十九万摩拉。怎么样？很划算吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/bf48d5cdb6632e2c43399f6587c56aee_4845592408050162033.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其二",
+          "text": "嘿嘿，你可真有眼光。那我开始讲了！这是一个商人的故事。很久很久以前，她在行商途中迷失了方向。这时候她遇到一只雾怪，雾怪要一口吞掉她。她连忙说，雾怪先生不要着急呀，我这里有个故事。您听听看，如果有趣的话，就请您不要吃掉我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/19121ec7046588357ba2bdcc30cd0dfc_7787966015434564925.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其三",
+          "text": "雾怪答应了。于是商人开始讲自己的故事，当年她的生意还不像如今这么红火，在她一筹莫展之时，正巧，她从库房里翻出了一个不知从哪儿来的魔灯。她恍惚间擦亮了魔灯。一团红雾从里面弥漫了出来，她自称是「人美心善的大魔王」，见着这位商人就想起了自己乖巧可爱的女儿，所以她说，可以实现商人一个愿望。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/20a7f7a6db33b79832304b2dc92cefbf_4015038797010866379.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其四",
+          "text": "还有什么比摩拉更吸引商人的呢，于是商人许愿：希望接下来的日子，能赚到数也数不清的摩拉。「人美心善的大魔王」同意了，她成为了商人的供货商，为商人提供了源源不断的奇妙商品。商人也因此赚得盆满钵满…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/429d8a2a3db7c258a67f8dc6b3488175_2385714956488717108.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解多莉·其五",
+          "text": "雾怪听完这些觉得很神奇，明明自己和红雾大魔王也算同类，自己怎么没办法变出什么东西。商人呀，就夸了雾怪天赋异禀，说不定在同一个魔灯里待上一段时间，就能拥有大魔王的能力了。雾怪欣然同意，进入了商人的魔灯…咳咳，你问我这个故事是不是真的？这是另外的价钱喽，再给我九十九万摩拉，我就告诉你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/8e6b97a5e571c1a5f67f8cc84c6ed379_3234978264591734785.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "多莉的爱好…",
+          "text": "我的爱好可多了，第一是赚摩拉，第二是数摩拉，第三是看摩拉，这世界上没有比摩拉更令人开心的东西了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/b3cead37670aaa6d0a24941addc8c3ca_1525100685190547422.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "多莉的烦恼…",
+          "text": "总有些人，拿着才三成利的生意就来打扰我，唉，我也是很忙的。没有百分百的利润，我连听完的兴趣都没有。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/52aaa319d3814c1b67f2e05d12dc4902_2637598297896404661.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我听说璃月有一种叫做摩拉肉的食物，名字里带摩拉，一定非常好吃。什、什么…你会做？咳咳，你当我的小跟班也有一段时间了，应该从我这儿学到了不少吧。作为交换，你要给我做摩拉肉吃！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/8a6b9027c5b2767776a1d92eca06514f_7795411905731239542.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "椰炭饼那种黑乎乎的东西，一点儿也不符合我的品味，我是绝对不会吃的！就算反过来给我摩拉，我…呃，我、我再考虑考虑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/a02cf2ef5c0b77556d963d2e7b49a70f_9210246014341551328.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃好吃，啊不如你跟着我一起行商，兼职私人厨师吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/f2236737137f017a53877d6f0d9bf68f_8183684648595388266.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "哇，我的小跟班做饭水平可以呀。能让我点餐吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/eef5283cc7837eebe1683d440573c1d3_4199089114640394760.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "居然让我吃这种东西，嘿嘿，你要赔偿我精神损失费！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/1c559a9435527b22a4b0a1651014ac54_4261680914342849282.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天我可以满足你一个心愿！毕竟我是无所不能的多莉。说吧说吧，想要什么？不过呢，先和你说好，「一辈子都用不完的摩拉」这种愿望可不行喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/95be3f90f958a4d4c268726bb998499e_2733653324055726336.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "你这是在投资我吗？你可真有眼光。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/ca71858d0891892d2a76e2b6a891258b_9031815909993031621.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "多多益善，多多益善。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/f400338d50e9c696f6a5620f952a26bc_3052919844093986446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "喔！我好像有了一个奇妙钱袋，能掏出源源不断的力量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/63321a9d43ec8843412c5b4e393daad5_925539219434330775.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "恭喜你成为神通广大的桑歌玛哈巴依老爷的尊贵会员！以后你的订单一律八折，这种待遇你可是第一个喔。啊，好好珍惜吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/2ebfe85a1ceae8a6f78bbbf3cd72a668_4107489594723091709.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "看我的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/0b9db2f88221d661386b77f11a0ce360_2919877216002585068.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "留下摩拉来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/787c7a0019cf2f3b517fc2135c674b10_646436563143518847.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "魔灯显灵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/c15e38b1333319505c80b140caa31c9f_91661391382826384.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "大显身手时间！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/f24f87411bf2b36c6929655bb69c3c50_5463328737989219220.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "一手交钱，一手交货。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/497252613b84e71658d289c71e5b3ce1_7396126784755116627.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "哇，分我一半！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/3e8ddbb4bec1123464cc5a6aa8767794_7155723477627371623.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "先让我看看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/79ea606f7d8ed0626bb56918a51799f6_5840812377781157461.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我来我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/c595b261af11fbf4020b82b354777623_2964022553815048153.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "休想抢走我一分摩拉！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/d1d4b5b993c507be8d1be6da994a4d90_5549110936312237527.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "啊救命啊，抢劫啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/83906a24d08b1e3e8633dc4194437194_2933156344273535564.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "一定要保护好摩拉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/43fcdc2ddb20bdf1136f83b4452ee3db_5178957377018547216.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "救命之恩，记得给钱！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/b620d631df280cad697c60ae598442fc_8499298532477887002.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "呆头菇，命和摩拉一样重要。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/bd02cd0cc7ea0b26d4b05826c4cc888e_8470511587681227.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "摩拉…还没赚够呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/d4db8c77e83649810b9f89d1cf2011e7_458326527695917436.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "又是…这样…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/cee85671315d2ac464492ac3e6158ca7_5341780957937130201.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "摩拉也不管用吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/a36aff03ed82ab47dd51153542c9a7cb_3328989036216188010.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "小问题。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/af5c1880e4365682837ae9ad14adc77f_6419202120109699544.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "磕碰而已。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/0677fa357edb84e4fef677fc809c38f6_171894404419961837.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "欺人太甚！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/5cae3ab425719de1a559537489766eed_2933847221240109061.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "列进黑名单！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/b33cbb7dfda7892684bc3b1e39e6c165_1293029343656978373.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "走吧走吧，赚笔大的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/583d33198266921829c2a70e7fe8c897_5498564999060581000.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "摩拉不等人，快跟上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/36f41d31163456b5d78679ed851c49ba_2236052433916962167.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "是什么大生意？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/09/12/16576950/e750b8d4e1ffe226ea376a8cb1bd4bc6_2733919384916345768.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

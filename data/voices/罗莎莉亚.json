@@ -1,0 +1,1709 @@
+{
+  "id": "1744",
+  "name": "罗莎莉亚",
+  "alias": [
+    "罗莎莉亚"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "这位信徒，如果遇到难以解决的麻烦，可以来找我，如果只想祈祷，还请找其他修女。\n\n…嗯？你不是信徒吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e4b7ed5364383d5fd2a9b2366c9f1b27_1749547207228756907.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·无聊",
+          "text": "还不走吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dd610990a025f6336806387c31c4b534_6698156115248266191.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·加班",
+          "text": "什么都可以商量，除了加班。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4b7534ebdb9eb3f09bec0624cfc6ad74_3101265059819948992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·蒙德生活",
+          "text": "好好完成工作，好好度过每一天。蒙德的生活不就是如此吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5cb416ed679715ff165c1e4433b2b84a_1012200162142186085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "唉，影响效率。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8604344c8e1133129cbd64caae9649b3_4468256338609959778.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "嘁，麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d1480fbe7647e58ba449941c4a9b5cb_6901268836622315881.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪天赶路，最好小心一些。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b18864fa1695044d94f0febfeb44b6c5_792924300975610924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "是风神巴斯巴托的庇佑吗？等等，好像是巴托巴斯…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b0f5d62bf7bee1d877984932cd0a85b_2439078277913730622.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安，哈…晨祷已经开始了吗？也太早了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4190597f33c13ebd2c65c20567fb551b_7987326849549702503.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午后的阳光对睡眠有好处。你也试试吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/abf772444784c9bcb661e98b84252a78_3907030093192804629.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。晚间祷告的话，我不参加。嗯？不为什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f34e1a19e19ca0cc40f2184f43448025_5022967527569556269.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "去休息吧，不用操心，剩下的事我会处理。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fb3947caca52c8560ed498a4919288bc_6186667974215232128.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚自己·修女",
+          "text": "我？只是个无趣的人而已。如你所见，不爱教会也不爱工作。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/023c5456e20b8db3b3f8a4d801a2a853_7551772685415709400.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚自己·麻烦",
+          "text": "那些值班修女一个比一个麻烦，不是抓人去祷告，就是叫人去唱诗班。你可别告诉她们我在这里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de9dec52147d1c6bec93be4ca3dd386e_170122121254754825.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·信仰",
+          "text": "神或许能庇护所有人，可他不会这样做。否则，人的苦难就成了笑话。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a877250eb851d617ecf1fb2a53e29325_1236951176917347221.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·祷告",
+          "text": "祈祷吧。不是为了神或其他任何人，而是为了自己。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aab1cb9508b468cd5f0ea84880b79265_6662224486377414923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·战斗",
+          "text": "不要勉强，有困难可以叫我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/966e5926b3487d7736917a7080cb91e5_9055873516318803462.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」可以是实力的证明，也可以是幸存的勋章…谁知道呢？真正的好东西总是具有两面性。我不会定义「神之眼」。我和它只是互相见证的关系罢了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dcaa3bfb3daf977b14b6411d13f822c9_6838545009400618360.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "要说什么是值得高兴的好事…呵，只是假设而已。如果有一天你遇到无法解决的难题，也别认为那就是人生的终点。说不定，会有人替你解决困境呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8d9ebd1c457b546470e219d8a9a4b71b_2733561552435192210.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "花草不属于我感兴趣的范畴。不过，蒲公英是个例外，它能酿出相当美味的蒲公英酒。休息时间来一杯，比睡懒觉还舒服。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a8bfe7546557ee33a8f8920b1f0b0cc4_53796770976801014.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "一看就知道了吧？那位富豪老爷可不是个简单的人物。低调、自信…还有一点危险的气息。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7334399894eef16a05b080d4e785a025_6112680441141507438.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "人往往要到醉酒以后才会露出真面目。油嘴滑舌算是凯亚的保护色吧，呵，一目了然的伪装。你该看看他喝醉的样子。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3ff7fc07f1833e5f9430a3ec6d3c149c_5443375097108452758.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "这个吟游诗人身上有种非常特殊的气息…我还不能确定真相，但他与别的市民似乎很不一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d764107fe2df11661b3b8a41db7378b_8591240458151348432.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉总是缠着我，叫我参加礼拜和唱诗班。难道维多利亚给她下了监督我工作的命令？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/950c267be7bca52985601fe32bec26fd_355575654079408358.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "不仅完成本职工作，还会替他人收尾。值得钦佩的女人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cbe0b797ee8635014c08084258cfe72d_8568435011978315108.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "他就像一副挂在古旧房屋里的油画…厚重、神秘，无法被一眼看透。我不讨厌有故事的人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae8c0a3522a2877e6779d4b13b655982_2011721142147587419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "我不喜欢上班偷懒的人，不过也很能理解她准点下班的心情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/20b2b06fb52e594f7eb078d979a89eb7_658364298828690868.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "唉，除了麻烦就是麻烦，虽然是可爱的麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f070017d34731c9e334690645bd32806_7566399762232540223.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "虽说是出于好意，但法尔伽啰嗦起来像个老头一样，相当在意身边的人呢。唉，那家伙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5727ea5ecaa526b966bef32336058ebb_579242757723206984.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于父亲…",
+          "text": "父亲？好遥远的词汇啊。对我而言可以说没有，也可以说有不止一个。怎么？很惊讶吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5c0e850dfa09985662c035e0a0fb7e5b_7683273105251162587.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于塔利雅…",
+          "text": "主动请客是个好习惯，除此之外，他在酒桌上也很有分寸，知道什么该问，什么不该问。摸清彼此底牌后，我不必过多防备他，和聪明人打交道总是轻松的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/52379c1438b1daf2a4e199c31e1ef84c_2436648687367614859.mp3",
+          "audioName": "关于塔利雅…cn.mp3"
+        },
+        {
+          "name": "想要了解罗莎莉亚·其一",
+          "text": "跳过寒暄吧。我来这里是为了完成工作，你解决不了的问题可以移交给我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dca76e45b21f417ef660e93329bf0a48_3728116213460329793.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其二",
+          "text": "不信神的修女并不稀奇，就像世上也有不喜欢吃猪肉的猎人、讨厌鱼肉的渔民。做某一件事不代表爱它，不爱一件事也不意味着必须远离。工作就是这样的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/217035882e96ad22766793a9c4bd19d9_2620272735191661788.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其三",
+          "text": "来一杯吗？这是今年的蒲公英酒，味道很不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dc0b1368ce4244a90c8123242cd9b696_2483171400329719912.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其四",
+          "text": "蒙德是一头既古老又年轻的白色野兽，古老到需要人去保护，也年轻到无法独立生存。只有这样的地方才会需要我这样的人。我像其他修女照顾市民那样照顾着蒙德，让它在自由的道路上平稳前进。你问我为什么它是白色的？…因为像我这样的人，是黑色的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/641f4bbc3b0d4654c48ed50422073124_6671279729303270397.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其五",
+          "text": "我偶尔能感觉到过去每一年的自己都存在着、围绕着我…对我有所寄托。你一定也有相同的感觉，所以，哪怕如今你已走上截然不同的道路，也不要否认从前的自己。从前的每一个你，都是你脚下的基石。不要害怕过去，不要畏惧与它抗衡。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77cb1d33ce4d11ceda5d02b048edf4db_969279440003252495.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "罗莎莉亚的爱好…",
+          "text": "小酌怡情，有些烦心事只能靠酒精解决。话虽如此，我是不会醉的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bb0531709de3f48c95b2fa43efbab4c5_2714773896590558169.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "罗莎莉亚的烦恼…",
+          "text": "唉…真不想参加下个月的合唱活动，可维多利亚亲自点名了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9bf6e63474b6a7b70da4a267ea20cdee_6786753275354838973.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "试过红酒炖兽肉吗？酒精和大块的动物肉出现在一个盘子里，相当有品味。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/460c4197d3698acedc3288166a278813_1159269959738324959.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "这个…这个土豆饼的蘸料居然是果酱？完全不合理！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb426fd8500ef50b0461842bd87d697d_6302311877628746121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "看来这方面，我们品味相投。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/84c5f140b8085cd872dd97d1ca1886a6_1731922072979577334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "至少能填饱肚子。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/fc048b967be569665a6f7be08da116a7_4140796153430368723.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你对这种食物很感兴趣吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a0475958760e4477c47db67173f49613_5716187039014121379.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你生日，有什么想处理的人或事吗？我可以帮个小忙，别告诉其他人就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f26f327b757e3b3edfaaf1a7c814994_159293619163841574.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "嗯，感觉不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8f564591c7b9526c2d87337ae2f8bafb_488626233360283096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "需要帮忙吗？我现在有空。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cc47b5d8491dab17d76bb83c9b28519a_5807711615310705994.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "也好。能力越强，效率越高。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8d2b78f01c6920fcfded51533ff3aefa_3290210015239818783.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "哪怕是擅长战斗与杀戮的我，也从未拥有过如此强大的力量，谢谢你的祝福。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a7fc6df59cfcb5c9b063149d8e2c0ea5_2100879360945073105.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "嘿呀！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9cc27d6783d3e688fc58e0959e24015f_4526612979526337230.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "审判！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e27a289f926b2f80e005cc6708f46b22_6208813485936053406.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "别想跑！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/96c74cac5412f2354000405bed282fa7_7716496101906602275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "制裁！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3a004379bd405944e5cbf4799b5bc95b_27352462118026773.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "战栗吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fed3a0cd66636891a84c8234f0d370ab_6140242360414235195.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "晚安了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1d7571a63c3a2f8c3ec85ecad959a13d_3822769126772772328.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "…倒也有不错的玩意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/32462cbc25d20d87a84818cfc5b5eac1_6922726702728738680.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "还行，不算很麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e7e0b096519278a6af098ee2e9827186_3935107693630434344.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "心情不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2fbe0f443f6bbf652637439f28fcfe00_5472359405592278584.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "没想到…哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b287081c4a34911a815b61d9ef218d61_5959533306540408729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "得加个班了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c498b1e9c74b1abe28b1eefd2f1127ff_169872062292985142.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "有两下子！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/32794d7d4673755ff1dee095b7337e62_843355068066013859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "退后！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/cd9c7524cb7c5c11e95714e531a53e3a_3121244499171244022.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "不要恋战！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1a3cfd0fa3cbd3a76e882181a958a45c_6276559321344709042.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这样也好…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6d7119cd9c1dd6a32b04078355ac68ab_4510032516216971356.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "或许是…命中注定…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eee5b0967a06752a09467692a2b92d43_2635323552996209163.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "唔…到此为止了吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/01935bac39ba5a2890e86eb0bf766369_7905597238055237146.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不过如此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c1b936c3a50fe872802601e344ee07cd_924305012008820223.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "啧，真麻烦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/43a0c555935d0db71772f1f4ae572b68_2214015182772799639.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "又有新工作了？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f33ef4477a016b809bf9bbb06dee69f_4144006813279357764.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "但愿配合顺利。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ff6c3ebeac64122ad39493a8f57c5425_9005093204892909385.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "呼…速战速决。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/54f002bd9fcea43ea8c39a50a39573ad_2298966821762307248.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "这位信徒，如果遇到难以解决的麻烦，可以来找我，如果只想祈祷，还请找其他修女。\n\n…嗯？你不是信徒吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/25e1c48d2e122c6f0977533be68f8a89_6288218134330574770.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·无聊",
+          "text": "还不走吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f281f13c57060583fb537e50628a36dc_4883876676932205379.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·加班",
+          "text": "什么都可以商量，除了加班。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a4f007142b4bc453340135f0d801d6ce_3728114541295284270.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·蒙德生活",
+          "text": "好好完成工作，好好度过每一天。蒙德的生活不就是如此吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/80c68090098170ad0304191af40cad2c_5900100078125655053.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "唉，影响效率。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/da0eee7be5f26b608f5bed859dc012fe_6475360003733840079.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "嘁，麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/50d032ee8f6ccb726b179f3d333dcc04_7177324421508085716.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪天赶路，最好小心一些。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b42b6533bb1a1c70354ae9bceb55f563_3097063340661991559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "是风神巴斯巴托的庇佑吗？等等，好像是巴托巴斯…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d883cd10aa521c4b4617f010ce8b4be1_6154318737992126786.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安，哈…晨祷已经开始了吗？也太早了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8029fd844cbd7061ca650523f15bef6c_3999698326577884789.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午后的阳光对睡眠有好处。你也试试吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0311905d6846fc9b0f66bc5568d1fede_6135959629681170177.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。晚间祷告的话，我不参加。嗯？不为什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ac1a1a46ae8ed312a0865fe31db71cc4_2968924672626542741.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "去休息吧，不用操心，剩下的事我会处理。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5b3236043b73b901aa20a0347b612635_963124795589839337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚自己·修女",
+          "text": "我？只是个无趣的人而已。如你所见，不爱教会也不爱工作。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/88f607fa79ab078391a8b2ab82869b66_3972285251803803984.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚自己·麻烦",
+          "text": "那些值班修女一个比一个麻烦，不是抓人去祷告，就是叫人去唱诗班。你可别告诉她们我在这里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae354a83f017cbd03880ac345aed6cd9_1061308365313750365.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·信仰",
+          "text": "神或许能庇护所有人，可他不会这样做。否则，人的苦难就成了笑话。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/74b763fa4ae37747de4353de21bce2f5_3543732669829552506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·祷告",
+          "text": "祈祷吧。不是为了神或其他任何人，而是为了自己。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/83a005bd0dc976fbb5763c35441e5bb5_8526754857577345941.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·战斗",
+          "text": "不要勉强，有困难可以叫我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/55afb9176480db209da781ff937a1a6c_2713206886988094973.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」可以是实力的证明，也可以是幸存的勋章…谁知道呢？真正的好东西总是具有两面性。我不会定义「神之眼」。我和它只是互相见证的关系罢了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/32e2521ae704941a1c23fc8d36967d79_8391230742335948544.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "要说什么是值得高兴的好事…呵，只是假设而已。如果有一天你遇到无法解决的难题，也别认为那就是人生的终点。说不定，会有人替你解决困境呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e87813f6ee1ee9cdb867d976a8876d3a_1870168665430030539.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "花草不属于我感兴趣的范畴。不过，蒲公英是个例外，它能酿出相当美味的蒲公英酒。休息时间来一杯，比睡懒觉还舒服。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cd91333e75aed2887cb05599dcac382c_9164913528826133444.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "一看就知道了吧？那位富豪老爷可不是个简单的人物。低调、自信…还有一点危险的气息。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2dffead5dba5c4a60160384c59de58f9_1717933471067137344.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "人往往要到醉酒以后才会露出真面目。油嘴滑舌算是凯亚的保护色吧，呵，一目了然的伪装。你该看看他喝醉的样子。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ca4591b9c1ba6db625b8099458f2e16c_3999642927851578453.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "这个吟游诗人身上有种非常特殊的气息…我还不能确定真相，但他与别的市民似乎很不一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/31e27ed6ba84bc4afa069809906b6690_4370555575641872717.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉总是缠着我，叫我参加礼拜和唱诗班。难道维多利亚给她下了监督我工作的命令？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5b31a86cbf5e50326093a97e7a2aa0b7_4243452572982735745.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "不仅完成本职工作，还会替他人收尾。值得钦佩的女人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f4e399a7bda1f45aa72edd70f58635ad_3603824942114301622.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "他就像一副挂在古旧房屋里的油画…厚重、神秘，无法被一眼看透。我不讨厌有故事的人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c0d2cfc6dcaf62b19765ad8ac938f10_2925283976447259975.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "我不喜欢上班偷懒的人，不过也很能理解她准点下班的心情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3873fd2261442b0fac4b21e35d11e61d_8266773213662563296.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "唉，除了麻烦就是麻烦，虽然是可爱的麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/58abfaae387799eacae9a5e51c670512_5982272268071042297.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "虽说是出于好意，但法尔伽啰嗦起来像个老头一样，相当在意身边的人呢。唉，那家伙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bdf9cbf0f1b27cdc94b5256118087b02_1277192258297305088.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于父亲…",
+          "text": "父亲？好遥远的词汇啊。对我而言可以说没有，也可以说有不止一个。怎么？很惊讶吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/19a6fd15b5204f1123c86bf2a562e9df_849320917938687223.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于塔利雅…",
+          "text": "主动请客是个好习惯，除此之外，他在酒桌上也很有分寸，知道什么该问，什么不该问。摸清彼此底牌后，我不必过多防备他，和聪明人打交道总是轻松的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/1486760ab1fadb3bcd21e81aef91db1d_42015182278620661.mp3",
+          "audioName": "关于塔利雅…jp.mp3"
+        },
+        {
+          "name": "想要了解罗莎莉亚·其一",
+          "text": "跳过寒暄吧。我来这里是为了完成工作，你解决不了的问题可以移交给我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bac492e7c806c291778360f2494aabe6_1384209670621704054.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其二",
+          "text": "不信神的修女并不稀奇，就像世上也有不喜欢吃猪肉的猎人、讨厌鱼肉的渔民。做某一件事不代表爱它，不爱一件事也不意味着必须远离。工作就是这样的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/78edaa907f6a21fb63a01f3d8f24ea2f_4332082146006511132.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其三",
+          "text": "来一杯吗？这是今年的蒲公英酒，味道很不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0bd098dd4bb32a40e7ab71d12d01b540_1346671938341630571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其四",
+          "text": "蒙德是一头既古老又年轻的白色野兽，古老到需要人去保护，也年轻到无法独立生存。只有这样的地方才会需要我这样的人。我像其他修女照顾市民那样照顾着蒙德，让它在自由的道路上平稳前进。你问我为什么它是白色的？…因为像我这样的人，是黑色的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f312f8e15d6f04a4feb7e2824e3b8fa_2950433689418616266.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其五",
+          "text": "我偶尔能感觉到过去每一年的自己都存在着、围绕着我…对我有所寄托。你一定也有相同的感觉，所以，哪怕如今你已走上截然不同的道路，也不要否认从前的自己。从前的每一个你，都是你脚下的基石。不要害怕过去，不要畏惧与它抗衡。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1a677a038020a97488b80566c86ef275_8843784262238047267.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "罗莎莉亚的爱好…",
+          "text": "小酌怡情，有些烦心事只能靠酒精解决。话虽如此，我是不会醉的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5347a0ba5c098f0cfa61a61a73453b32_4666382134158973718.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "罗莎莉亚的烦恼…",
+          "text": "唉…真不想参加下个月的合唱活动，可维多利亚亲自点名了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1b4b5904aa245dc6f29a7f9efd597aba_6225354221226604283.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "试过红酒炖兽肉吗？酒精和大块的动物肉出现在一个盘子里，相当有品味。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe0fc566ed517dc278dfe7944bf61b64_3984599563842087155.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "这个…这个土豆饼的蘸料居然是果酱？完全不合理！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b7829000e3186f7c0d62b2a7ffa98ba7_5558018478101225113.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "看来这方面，我们品味相投。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ca2190c584bde8966f7d68a188e64e7c_8297728587293576549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "至少能填饱肚子。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d26f9b622034749daaff18e20e05d3d8_1052316349163376969.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你对这种食物很感兴趣吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e941893322fd24e77bd116d0916f78a3_276145697338028580.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你生日，有什么想处理的人或事吗？我可以帮个小忙，别告诉其他人就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/779988d9f2429e561528982fa2f4fab9_6665939959669544402.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "嗯，感觉不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/780a84c21c05a97cab453cad2e4bbf8f_6386536623182779782.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "需要帮忙吗？我现在有空。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f3cf07f3a48fea92150d5b44b6e5b9f4_599658733496330846.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "也好。能力越强，效率越高。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/55ac14f39b599439e1326d1a65f29349_4543338374600350599.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "哪怕是擅长战斗与杀戮的我，也从未拥有过如此强大的力量，谢谢你的祝福。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e671060d69567a275a79cc515d2afdc6_7610651712360919295.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "嘿呀！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9bc7ca2803be0f9af4ee02d7dc28e8a4_7131277766484812477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "审判！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b97bec8ac5b581ea296c1a54dba20573_1825888779083588039.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "别想跑！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aa64bce825eb7b28a73340e8e80307c5_1580650631756022784.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "制裁！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c2b636c1bba2f41de549e762951aca81_1827775751198716369.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "战栗吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/029ec30f63b2098299bab95b6a0d9de0_6357523458758643122.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "晚安了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/40f3b9837a640e4ed2bc45fbd08678e5_5720091615235273793.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "…倒也有不错的玩意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9c576cac18cc15828c9f14373c995ac6_4714634121395881913.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "还行，不算很麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9132214fc10029ef710833a4d67a49d1_3650738477959154305.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "心情不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/276a044a39fbb851018c922ba069cb28_1764114512595086073.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "没想到…哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/be8ca7ae5001389746fdbcdd01420a64_2441671860399029515.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "得加个班了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3ad122c3a46d2392a324b84bf5580c58_5613980723828904612.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "有两下子！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bbe804592e2a9e10d78dc6ae02ed8ff6_6379913864192514377.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "退后！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f064b9a0c693267cc18fc30a07d4f522_7686119719912204186.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "不要恋战！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/4e05f4d90dc74d434de5e2dde68df352_2110912750909591406.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这样也好…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d1fb0cb06fba9917f97d299c98247a54_6939041039850668722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "或许是…命中注定…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/14f8d513a95d7d9019d26fd140e99b50_3512084712189832324.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "唔…到此为止了吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e9fbcc960267bf883f9effa50e88f4ed_9010698205774823089.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不过如此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0605ccd2cf4abe5de1f041589d9e939e_4940154658609120226.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "啧，真麻烦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/67c8ef1b9d9b370b86fce00dcbf5f425_256356740732140656.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "又有新工作了？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cb1626db4891f0c956d45833ebde6064_5538724341891958876.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "但愿配合顺利。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/38c7b562f2225cc9131e0a776a0a0f0d_80034443276147032.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "呼…速战速决。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5c3ec986cdd0b0205da0769e7a3c6519_592750396064735819.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "这位信徒，如果遇到难以解决的麻烦，可以来找我，如果只想祈祷，还请找其他修女。\n\n…嗯？你不是信徒吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dbfd2bfa6b25cfe4c38e1778de60a990_4161797155701092472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·无聊",
+          "text": "还不走吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/378695a09b4a7a0abca58278b63d0d6e_4533759336956365962.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·加班",
+          "text": "什么都可以商量，除了加班。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/69880b9e450072f958a23d3ca0963a42_6728201822957329052.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·蒙德生活",
+          "text": "好好完成工作，好好度过每一天。蒙德的生活不就是如此吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe8bd14b713008c2652eb46ce92272ee_1216499121418695220.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "唉，影响效率。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3898a32845817ae60ff3745b92eee6c8_1755327985301131102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "嘁，麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6dbea3d644acae9e764e53cf466500b6_1434245158268083626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪天赶路，最好小心一些。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/54ac0549bde54693026c0a9c37d0471d_4581257422281005145.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "是风神巴斯巴托的庇佑吗？等等，好像是巴托巴斯…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bcf4b7b7ddbcae37a9d11b5a781fad70_3085993542476337729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安，哈…晨祷已经开始了吗？也太早了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d358c15ea41b488eaeafb5cdc05c8c4b_5941543273778729671.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午后的阳光对睡眠有好处。你也试试吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb1feb69e829593a8cb1b42a344846bc_200048910687241814.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。晚间祷告的话，我不参加。嗯？不为什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6ac8ebf1760d03d6b57d7e0fadc2a1e2_2520545632251015447.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "去休息吧，不用操心，剩下的事我会处理。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b1efc40b7a7e6788b1639bd36ad1d8c3_4916873096984307036.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚自己·修女",
+          "text": "我？只是个无趣的人而已。如你所见，不爱教会也不爱工作。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d7501293d59101f34a00289cc556a7f2_5870118955089212204.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚自己·麻烦",
+          "text": "那些值班修女一个比一个麻烦，不是抓人去祷告，就是叫人去唱诗班。你可别告诉她们我在这里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0b9872f5035099ad0be2f892d04ca100_2026731093165616503.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·信仰",
+          "text": "神或许能庇护所有人，可他不会这样做。否则，人的苦难就成了笑话。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0140fa0d97fcff1de6bd7e716bfddb5b_24979477607218043.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·祷告",
+          "text": "祈祷吧。不是为了神或其他任何人，而是为了自己。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e8a9c16ceba3e3a891e984b3241ee508_6072077345505811637.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·战斗",
+          "text": "不要勉强，有困难可以叫我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fc4b8ac258c657f224d9b04ec76b3653_8422859479363483657.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」可以是实力的证明，也可以是幸存的勋章…谁知道呢？真正的好东西总是具有两面性。我不会定义「神之眼」。我和它只是互相见证的关系罢了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f25009dfd6dbafbe7c884a6bfd1b4089_2216945824894099392.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "要说什么是值得高兴的好事…呵，只是假设而已。如果有一天你遇到无法解决的难题，也别认为那就是人生的终点。说不定，会有人替你解决困境呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/931b41a46638ebdf453d6c1304e47811_1400906549478582474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "花草不属于我感兴趣的范畴。不过，蒲公英是个例外，它能酿出相当美味的蒲公英酒。休息时间来一杯，比睡懒觉还舒服。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/963696f8429977bab7b75f46a7ca4734_3706299180763910682.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "一看就知道了吧？那位富豪老爷可不是个简单的人物。低调、自信…还有一点危险的气息。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c4e4c719f3ab92a310cd5c709399dc90_5312071263297294712.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "人往往要到醉酒以后才会露出真面目。油嘴滑舌算是凯亚的保护色吧，呵，一目了然的伪装。你该看看他喝醉的样子。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5418ea467eb36c6bbcd49ea0f605eee0_4636077119196558410.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "这个吟游诗人身上有种非常特殊的气息…我还不能确定真相，但他与别的市民似乎很不一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7e97061020ada5ed6d00919f0801b9b5_4291071441083709231.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉总是缠着我，叫我参加礼拜和唱诗班。难道维多利亚给她下了监督我工作的命令？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aea408e361670b1ec34dc42b2cdb8a7d_744580690471401258.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "不仅完成本职工作，还会替他人收尾。值得钦佩的女人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5ca66634055778afe9e613e1a1f838c5_3589251047442827998.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "他就像一副挂在古旧房屋里的油画…厚重、神秘，无法被一眼看透。我不讨厌有故事的人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b4f79ba167613936312518832cbff8f1_1372087162169796231.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "我不喜欢上班偷懒的人，不过也很能理解她准点下班的心情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c43781fd3b0db68d8794d2a23fc3e96_8999646097545291976.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "唉，除了麻烦就是麻烦，虽然是可爱的麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/09e2eb13683984f38fd8dfa966ed2bcc_5606036828026667110.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "虽说是出于好意，但法尔伽啰嗦起来像个老头一样，相当在意身边的人呢。唉，那家伙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/36c371a20c63aee5abdd26f303ae3a43_7389270758284595357.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于父亲…",
+          "text": "父亲？好遥远的词汇啊。对我而言可以说没有，也可以说有不止一个。怎么？很惊讶吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/70bc58bf83c3f0905ababe012c20efe4_5532944560600201052.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于塔利雅…",
+          "text": "主动请客是个好习惯，除此之外，他在酒桌上也很有分寸，知道什么该问，什么不该问。摸清彼此底牌后，我不必过多防备他，和聪明人打交道总是轻松的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/84f54ea5dde0481e36943905e7be8fe0_1334241776287054910.mp3",
+          "audioName": "关于塔利雅…kr.mp3"
+        },
+        {
+          "name": "想要了解罗莎莉亚·其一",
+          "text": "跳过寒暄吧。我来这里是为了完成工作，你解决不了的问题可以移交给我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/07e6c2cffd28aa6a8c254c84e34a88d6_977428749980538614.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其二",
+          "text": "不信神的修女并不稀奇，就像世上也有不喜欢吃猪肉的猎人、讨厌鱼肉的渔民。做某一件事不代表爱它，不爱一件事也不意味着必须远离。工作就是这样的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f56cc8d3ece195d33a09bf49a7bd1c8b_4856881600477075229.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其三",
+          "text": "来一杯吗？这是今年的蒲公英酒，味道很不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ca5b60e61c00aa49cf844b610af1ba4e_794043872858183757.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其四",
+          "text": "蒙德是一头既古老又年轻的白色野兽，古老到需要人去保护，也年轻到无法独立生存。只有这样的地方才会需要我这样的人。我像其他修女照顾市民那样照顾着蒙德，让它在自由的道路上平稳前进。你问我为什么它是白色的？…因为像我这样的人，是黑色的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/724ace27a1eb4b910d8b0ed42a47b5c5_6546593229981523964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其五",
+          "text": "我偶尔能感觉到过去每一年的自己都存在着、围绕着我…对我有所寄托。你一定也有相同的感觉，所以，哪怕如今你已走上截然不同的道路，也不要否认从前的自己。从前的每一个你，都是你脚下的基石。不要害怕过去，不要畏惧与它抗衡。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b21fd832fca44ed74839b2bd8ad5003d_8083845806768801297.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "罗莎莉亚的爱好…",
+          "text": "小酌怡情，有些烦心事只能靠酒精解决。话虽如此，我是不会醉的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a3f69804290777a4923dd2d69dd7ec6_6786412049853666432.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "罗莎莉亚的烦恼…",
+          "text": "唉…真不想参加下个月的合唱活动，可维多利亚亲自点名了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6abace8020619321335ed6855f8694aa_8797868145543688286.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "试过红酒炖兽肉吗？酒精和大块的动物肉出现在一个盘子里，相当有品味。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/80d4e8a3a2b4980dcbf320c9225db7a6_959179478471062414.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "这个…这个土豆饼的蘸料居然是果酱？完全不合理！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77a63618fdc57539252db789ec57c8fe_1442329501899760345.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "看来这方面，我们品味相投。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/981a1c1fe52731dedd3f4ff238bf8399_3150912070199186680.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "至少能填饱肚子。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/09c187de3a78b460ef483409a2c0a615_9010376538024197213.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你对这种食物很感兴趣吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e3a008306d6c00c48d8c78513f18b6dc_5127593068001774309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你生日，有什么想处理的人或事吗？我可以帮个小忙，别告诉其他人就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/49a7173228f30f853b03065d40568911_4101138522574115594.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "嗯，感觉不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e4fe3d815396e962fa2be9d90f364e4a_6998981372568564577.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "需要帮忙吗？我现在有空。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a61931aa507d41cff35701e8aa6895d6_3254327176548918766.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "也好。能力越强，效率越高。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/be787464df6bba17e6cd1d75c685fa6a_1895349945432270406.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "哪怕是擅长战斗与杀戮的我，也从未拥有过如此强大的力量，谢谢你的祝福。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0e03a4823a129442cab080dbca9f66f4_8923478013277048603.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "嘿呀！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a68767a6a8b2455ba27a806b3bff8f81_2384231042305419061.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "审判！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a56fd2c15ddc45f8a7b8b25f17e0d63f_4356376347571357264.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "别想跑！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/75a15314e5c2469c1093b4b3550becf4_1129502135202399042.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "制裁！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f904292a945ee7fa7ceb0ac18d6f8224_2559791022793226137.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "战栗吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5b558729ee86c067df402f87cedaefe0_6923483825828618872.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "晚安了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d3423d8f87f02725374becaccd1b0abc_419042298877595669.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "…倒也有不错的玩意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6d128ed3f194ddff18858b0f3803d963_9097077743135969597.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "还行，不算很麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aa9a4871a68aed7f1322dfae318c481f_4431932726821405531.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "心情不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/35a40908adf34b10fb0feedc3170d0bd_5167285480764350935.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "没想到…哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6222cd9f29c2634eacb213b4c992644c_4908757320492228869.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "得加个班了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9ed5f62a21e3419ff9f87b9e57e5b5ce_1255969838812724026.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "有两下子！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/439776cb1127db52a742ce031580fd8e_147232579104826385.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "退后！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/08ea86972921288d6583135ff631496a_7292233040815230912.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "不要恋战！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/5bdd214d4c29294716dbb5346440398c_8599903464362818489.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这样也好…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c5147ea2a09efb3cd69f9c6b62605525_5198285671053265684.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "或许是…命中注定…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9ae54632cdf0aca905f836121eb49184_3710176439332297338.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "唔…到此为止了吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2cc06e2227ed31924c2a3893a460dd9b_4058334537374923231.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不过如此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aa111d2bbc579822b8d68762f93653f4_1689418672768835446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "啧，真麻烦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3900b6c12b37e47322efd1bbe65240ca_1153994965029031761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "又有新工作了？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/31609e50a69a8bcaf1ae026c4f6304b2_8177855395670615109.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "但愿配合顺利。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/39095f11a39387be51edd54d72c5ffe5_6203756730257943719.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "呼…速战速决。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ef37f2f1b2d1359e81e7c74a6ec2b88d_5465330064637534474.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "这位信徒，如果遇到难以解决的麻烦，可以来找我，如果只想祈祷，还请找其他修女。\n\n…嗯？你不是信徒吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/088d4858f4c3bcbb3f2b1a88e59d3b56_7141626146790833262.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·无聊",
+          "text": "还不走吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/62ad97560f38ddcea8ac0f23cafa2502_239916593599616115.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·加班",
+          "text": "什么都可以商量，除了加班。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9c77471f89bff37e814ba52429be7f6b_6985924114849029214.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·蒙德生活",
+          "text": "好好完成工作，好好度过每一天。蒙德的生活不就是如此吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f484f7c06b48314a49057c9dc09169f3_3125438522074886718.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "唉，影响效率。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2181ff583bdd576576aa90a64fe84917_5353703270045899241.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "嘁，麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/df19ca30b91e31609701c9469bd6df2a_117612791267056796.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪天赶路，最好小心一些。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5b0ef75b31f0f1e6e9ee28f8037696d5_6696141418562401811.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "是风神巴斯巴托的庇佑吗？等等，好像是巴托巴斯…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ad29d488fd1819d6c5388a202818796d_2072550955092830685.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安，哈…晨祷已经开始了吗？也太早了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/db453eac8743d05f415e1541ae985b08_930032776456348377.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午后的阳光对睡眠有好处。你也试试吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/89cdf1e5e34c8f6dd54666ba3ab9cf99_1314360596990269256.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。晚间祷告的话，我不参加。嗯？不为什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bb8327f7785a5611cffa40372c9571d6_8665116501125065159.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "去休息吧，不用操心，剩下的事我会处理。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/490efca56dc96deb1ae79126637f8274_8407423611686245730.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚自己·修女",
+          "text": "我？只是个无趣的人而已。如你所见，不爱教会也不爱工作。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fa4f018fa883ba29e88d22a7c9049d54_6325640858308486028.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚自己·麻烦",
+          "text": "那些值班修女一个比一个麻烦，不是抓人去祷告，就是叫人去唱诗班。你可别告诉她们我在这里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d1c7e14d66c09f7617a18ef302ec5ab8_4741101860410584835.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·信仰",
+          "text": "神或许能庇护所有人，可他不会这样做。否则，人的苦难就成了笑话。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/00a75caf73d75c7a4f503e94a4e98396_7161672003543917258.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·祷告",
+          "text": "祈祷吧。不是为了神或其他任何人，而是为了自己。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f0a7147ed4782e42369b98bd7fc8c35b_6633126532987626934.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·战斗",
+          "text": "不要勉强，有困难可以叫我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c32950c0e8369b07743659fa85f7f2a9_3126990591360241266.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」可以是实力的证明，也可以是幸存的勋章…谁知道呢？真正的好东西总是具有两面性。我不会定义「神之眼」。我和它只是互相见证的关系罢了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9490a052e230a4c2714a6d0b8d9baa13_8591555616478750059.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "要说什么是值得高兴的好事…呵，只是假设而已。如果有一天你遇到无法解决的难题，也别认为那就是人生的终点。说不定，会有人替你解决困境呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c8556c56bcfd7be0d61fa596488c8c0_6130689374074783811.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "花草不属于我感兴趣的范畴。不过，蒲公英是个例外，它能酿出相当美味的蒲公英酒。休息时间来一杯，比睡懒觉还舒服。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6f5b0944cd3aae52e8843611ccb88835_2128469889331581042.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "一看就知道了吧？那位富豪老爷可不是个简单的人物。低调、自信…还有一点危险的气息。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/43f53c09b42a9023500fc8c83f860afe_1800233597784116788.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "人往往要到醉酒以后才会露出真面目。油嘴滑舌算是凯亚的保护色吧，呵，一目了然的伪装。你该看看他喝醉的样子。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/829f22a0f8d3bc6c2413b253298e4a01_3513396273902925627.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "这个吟游诗人身上有种非常特殊的气息…我还不能确定真相，但他与别的市民似乎很不一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/50880c418fd70f0e478d862e10b9b956_3086265435810965526.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉总是缠着我，叫我参加礼拜和唱诗班。难道维多利亚给她下了监督我工作的命令？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a73a11f76bf949908573987a44f9a210_1615693584577235451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "不仅完成本职工作，还会替他人收尾。值得钦佩的女人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7c57ce0c0e3865489bbbff800a585064_2830655475961311491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "他就像一副挂在古旧房屋里的油画…厚重、神秘，无法被一眼看透。我不讨厌有故事的人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e98a22be409ce0c74876f616cd801a9c_7582532382041986411.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "我不喜欢上班偷懒的人，不过也很能理解她准点下班的心情。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7aa1cc73cab708f2d8f39d0670bf7012_2431719933782604708.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "唉，除了麻烦就是麻烦，虽然是可爱的麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/23a028833d2aa0d968218f0816760ee2_1392049819631116328.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "虽说是出于好意，但法尔伽啰嗦起来像个老头一样，相当在意身边的人呢。唉，那家伙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c247fc02706252be2c3072e3ecbe6d9_6660241395708683841.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于父亲…",
+          "text": "父亲？好遥远的词汇啊。对我而言可以说没有，也可以说有不止一个。怎么？很惊讶吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dee7a643021f2efae5cca2833d9aa604_1419892466181018528.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于塔利雅…",
+          "text": "主动请客是个好习惯，除此之外，他在酒桌上也很有分寸，知道什么该问，什么不该问。摸清彼此底牌后，我不必过多防备他，和聪明人打交道总是轻松的。",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其一",
+          "text": "跳过寒暄吧。我来这里是为了完成工作，你解决不了的问题可以移交给我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/188910ea497bfbe3733c4658089484ac_1957798522863132832.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其二",
+          "text": "不信神的修女并不稀奇，就像世上也有不喜欢吃猪肉的猎人、讨厌鱼肉的渔民。做某一件事不代表爱它，不爱一件事也不意味着必须远离。工作就是这样的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/03bdcf9bc8d650a56f56639c0bbaa340_4728163918952178945.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其三",
+          "text": "来一杯吗？这是今年的蒲公英酒，味道很不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6ffecc4c96c65c80f50c85df17e02864_2951468481998202771.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其四",
+          "text": "蒙德是一头既古老又年轻的白色野兽，古老到需要人去保护，也年轻到无法独立生存。只有这样的地方才会需要我这样的人。我像其他修女照顾市民那样照顾着蒙德，让它在自由的道路上平稳前进。你问我为什么它是白色的？…因为像我这样的人，是黑色的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/722870dd2a536707e39375800839d269_6426312845995446388.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解罗莎莉亚·其五",
+          "text": "我偶尔能感觉到过去每一年的自己都存在着、围绕着我…对我有所寄托。你一定也有相同的感觉，所以，哪怕如今你已走上截然不同的道路，也不要否认从前的自己。从前的每一个你，都是你脚下的基石。不要害怕过去，不要畏惧与它抗衡。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7394d7216cc143b556c97b2578d3c8c8_2660257304889915909.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "罗莎莉亚的爱好…",
+          "text": "小酌怡情，有些烦心事只能靠酒精解决。话虽如此，我是不会醉的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0e25802aaea2bc29e5d329757d96af00_7685072773302220602.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "罗莎莉亚的烦恼…",
+          "text": "唉…真不想参加下个月的合唱活动，可维多利亚亲自点名了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/57203016cb9292733b47c213448dfe37_1697838733967751170.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "试过红酒炖兽肉吗？酒精和大块的动物肉出现在一个盘子里，相当有品味。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aa5dfc5f039bbde9074b04f9d8b9d3ba_2934693178700133736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "这个…这个土豆饼的蘸料居然是果酱？完全不合理！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/14c7d44b3756a8b315cb9a2b506a4189_2446127575218906924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "看来这方面，我们品味相投。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a1ea478120e1d6387764babd53b6a676_8585394215289807137.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "至少能填饱肚子。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a9abf3685d9f8d17946a87ac87e4017e_2098690410978200950.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你对这种食物很感兴趣吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1dd1b4580906dfbdee4d730e701e86a9_6616004328549434506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你生日，有什么想处理的人或事吗？我可以帮个小忙，别告诉其他人就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/37ff892b237f70a5b93c250a03706efd_5075609039367955763.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "嗯，感觉不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8ec3be86e606df9f21b84b799eeed756_1385322964942494871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "需要帮忙吗？我现在有空。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e0a26fe332ce9adc38608c21d979bbd9_496032469396638859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "也好。能力越强，效率越高。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2c36587916fc24a2cf91ab3d6aeb44f1_7484331479574316804.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "哪怕是擅长战斗与杀戮的我，也从未拥有过如此强大的力量，谢谢你的祝福。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/28cc9ff048cbc62d40aa4be8929b4fdb_5667232636649335878.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "嘿呀！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/60c086ee8ee3a30acf974c1382e204ff_2885932203994975847.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "审判！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3ab731dd53266ceae68b421c9f6f2c4c_3155593671638031255.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "别想跑！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2ac0350e2a9346378f213ea108e274b2_4434973083231304502.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "制裁！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e41d967c19b3b02cae59db01daddf28e_3714654491179670863.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "战栗吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7c770a37bab595f364329caeea0c0256_8246864440491051618.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "晚安了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1a00c3c3692e293bdba345e34b14a31a_4136480675278448071.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "…倒也有不错的玩意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e0b909f5466bf528ce187e348aec9672_1851594413900494763.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "还行，不算很麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c83a584b2f6585bab4efcf48e4e507c5_6252609065003326060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "心情不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5fb12c0c5686937411fc1cc8f4bf40bd_1496182680368240921.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "没想到…哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dc589888b1d0de856674ad1146cb9830_7633354593845205756.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "得加个班了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/afd3c6f34e07b1d8e242c8d7fba4d180_4509439003133605437.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "有两下子！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/084b4b9c686a8af9d2f45b6869d5b7af_709942819795780615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "退后！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ce2ae651b3a399d6ab04789291217460_3466224017394505442.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "不要恋战！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/3238945d732aa16edb7bf5818fc3ccbf_2615981749456161125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这样也好…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9ea6b4acd1a77f83d4b128b9515dc9ba_3468211898144722574.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "或许是…命中注定…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dec8c84a46a1b3ed6c3c8544034dcb45_3565064468623761688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "唔…到此为止了吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/97b53654125ce12122348ee76a0cc86a_285654148973408583.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不过如此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0d2021da8a0eae932c0af76e85abb57c_6305160709123435220.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "啧，真麻烦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/76cd177d25f5f8a347602fbc1dab7d9a_5319630225865786239.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "又有新工作了？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7efd4b1be5fda515d4ce056674f28014_6603765978348772559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "但愿配合顺利。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/78cbe18625abc68e4c3814dc56778d26_903648845968456488.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "呼…速战速决。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2b5b421e6f67a628afc155fd01053bfd_5439587145832196044.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

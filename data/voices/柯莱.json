@@ -1,0 +1,1685 @@
+{
+  "id": "4333",
+  "name": "柯莱",
+  "alias": [
+    "柯莱"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "见习巡林员柯莱，前来报到！我会保障你在林间出行时的安全——呼，总算能说出这句出场词了，我没念错字吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/748e07a33910d0ee9a1bf6ba4c2d13fb_6119497379069610181.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·巡林路线图",
+          "text": "今天的巡林路线图…先往这里再拐到那里…嗯，字好多…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a6e60c3af9e137466c2595ff22a6412c_8656078274121195075.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·状态",
+          "text": "呼，今天的状态不错，趁着这个机会，多做一点事吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9b271e2910ace609cf74f0e926c03543_7264330223336029144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·回忆",
+          "text": "手头没有事情，心里就容易东想西想——唔，一说就想起了不好的事…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/32747433d4ef9c0b8b283554e3455885_5895031517810665025.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "雨虽然停了，还是要小心水洼。就像一些事，明明过去了还是会留下回忆…咳咳！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/813d4c80915097648aea270d383eb54a_2880480099491427938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "打雷的时候，最好避开大树。对巡林员来说，还要格外注意检查，谨防森林火灾。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e1e44474eb4840ba317c35ce0487047c_6255834228811421177.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气不错，多晒晒太阳，对身体也好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/01b2c1520cc02a826f6bc53217e47749_455548491848002102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "嗯，风力正好。安柏应该会很喜欢趁这样的天气挑战自己吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/63c7fd2dede02f9e4514de5d65f1e451_6352532715828928866.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好！哈…抱歉，昨晚又在补习…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/37d7e4bc8c13233a343eb84637dfe4fe_6816663683566551627.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "巡林路线一长，中午回不来也很正常。我多准备了一些「口袋饼」，要来一份吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/35685d1145349e994b0eca478b899d95_6411905493856363915.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "天快黑了，走在林子里一定要加倍小心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/57bdd57f876666cd561e07fc7f51bd41_4620368756575823256.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "准备休息了吗？篝火已经生好了，我会为你守夜的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3646345f28e32f8f55753e86abda3dfa_1426903321791389655.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱自己·巡林",
+          "text": "来须弥之前，我在野外流浪过一段日子，能吃不能吃的东西都尝过了好几遍，对野外还算熟悉，所以来这儿之后就做起了巡林的工作。如果「野外生存」也算一门课目的话，我还是有自信考到及格的…嗯，不做笔试的话。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f9c6b32243ad1a2a23758ecdbc1aa9b7_2075041879590138250.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱自己·补习",
+          "text": "欸？你问我每天都在补习什么？跟着这么厉害的师父，是不是什么很高深的知识…呃…这个么…《提瓦特识字大全》…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b49fdd9117f0e1faa0ddb44bf04e431e_6877661281960326428.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·旧识",
+          "text": "我听安柏在信里提起过你，没想到在蒙德又发生了这么多事。可惜跳着字读，好多细节都没弄懂…欸，你愿意再跟我讲一遍吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/126acab0a7fbfa1bc84ca87b702f7a48_8627657449819501400.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·新交",
+          "text": "我曾经以为「朋友」什么的，这辈子都不会和我扯上关系，直到去了蒙德…后来在须弥遇见了师父，现在又遇到了你。果然，我还是很幸运的啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/65f6a56dd34d5fd9fba77cea8c5acf38_7335311147172320858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "哈…真没想到，我也会有拿到神之眼的一天。以前总觉得神明会看的，都是那些生来就被大家喜欢的人…唔，我…我承认我有很多不好的偏见。是我不对。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/126251b6e9ec02cfc209445abb3e40cb_1753872504439465387.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·技能名",
+          "text": "师父常说最有效的学习就是实践，所以我偶尔也会找些轻小说来看，想多认些字…起码比师父的论文好读。不过，我最近读到的一本书里，主角有好多能力，起的名字全是我看不懂的词…嗯？书的名字？应该是叫…《鬼武道》？你也读过吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0d26a28596e7a57ae020f9c75999bde9_7761666795936255444.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·封印之力",
+          "text": "唔哇…又是「被封印的力量在躁动」…还有什么「离我远点才是上策」…为什么稻妻人都能这么自然地说出这些话，他们以后不会觉得尴尬吗？啊…不行，不能再读下去了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e591895dbc8f523db5a7364b03145c3d_7920034088608274299.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "花草动物吗…除了能不能吃，好像也没有太大区别。嘘，这话不能被师父听见。要问我的话，我比较喜欢有树洞的树？尤其是在想要「找个地方钻进去」的时候…每个人都会有的吧？不是吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4bb4101f0d370048febdb74b5b885ce3_4288838365131099400.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "师父虽然平时说话有些严厉，还经常批评那些乱吃毒蘑菇的冒险家，但他其实是个很温柔的人。不仅会耐心地给我补课，还会为我读蒙德寄来的信。我一直很感激他！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ee2555d46c6555d558f4760d5981bf28_3027645417629310870.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "有次我在巡林路上遇见了她，像是知道我口渴一样，她从袋子里掏出了一瓶看起来特别好喝的果汁…还好当时师父在场，制止了她。不然，我差点就一个冲动，把好不容易攒起来的摩拉都花出去了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0dcef1c089c0158928b434db6131a6b7_3370421942526077008.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "草神啊…小时候我很多次想大声问问神明，为什么要让我经历这么多苦难。唉，说不定就连神明自己，也经历着各种无奈的事吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/162ab56b505f6fb9397e37dea0412aec_5416367096241990331.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "欸…我们能不提他吗？不，大风纪官不是什么坏人，当初就是他带着我从蒙德回到了须弥，才让我有了安身的地方。只是一想起回须弥前那个「封印」的过程…唔…脖子后边又开始觉得痛了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f283e8c9915a2bb1a27a6258fd626944_7264330223336029144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "大风纪官曾带着他来我们这里吃过一顿饭。在餐前水果刚端上桌的时候，他就开始大谈他那个又不讲情理又固执的室友，我们连插话的时机都找不到。只能点点头，憋着笑，吃完了整顿饭。唉，真是不容易。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e649a619f6fa54e86cd46686f4db14f8_5895031517810665025.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "感觉她有点迷迷糊糊的样子，如果来化城郭附近表演的话，不会走着走着就迷路在深林里吧…那我可一定要好好看着她，尽我见习巡林员的职责。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/495420a9bb1d493776a4c6cf9fcb0edf_2806174963155488349.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏她真的很厉害，又热情又活泼，又勇敢又正义…是我最钦佩、最崇拜的人了！她总能像一团火一样照亮别人，要不是她，我肯定没法走到今天这一步…过了这么久，她现在一定变得更加沉稳、更加帅气了吧！真不知道什么时候才能赶上她。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b550d175f5cc57a80929f16bda2860ee_8065717476698493626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "蒙德的大家都还好吗？那阵子我可是惹了不少麻烦啊，要不要找个时间回去道歉呢…唔，但感觉一露面就会被那位骑兵队长捉弄…还是再等等吧，再等等…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c8610556d7974a72055fcbcaaee9807c_2880480099491427938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "明明已经过去了那么久，丽莎给我写信的时候，还是在叫我「小柯莱」，总感觉…嗯？你说她也叫你小可爱？噗…对不起，我不是有意要笑出来的…一下子就开心了好多啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/48498d8b0e1509490098378f3e565f83_7091113818922791067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔…",
+          "text": "…「断罪之皇女」？抱歉，我在蒙德待的时间不长，没有听过这样的人物。不过这个名字…嘶…咳，没什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/465875da9b0f6df393d9a59740332d27_455548491848002102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "呃…老实说，我不太擅长应付这位前辈…虽然她经常夸我勤奋好学，但我真的是因为学得太慢，没办法了，才总是在补习啊！还有一回，我不小心看到了她的研究笔记，虽然只瞟了一眼，但那绝对是全须弥最可怕的书！——上面全是古文，我连半个字都看不懂。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/3bdf2d1ef117904d147f11cf2948d884_716220008404700369.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其一",
+          "text": "我的事情么？如果你问的是来须弥之前的…唔，要不…你写信问一下安柏？啊，不行，要是让凯亚发现了就全完了…不对，他肯定会发现的吧！还、还是我自己来说吧，呼——对不起！请先让我再做几天心理准备…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/43f33d30c2dfdfe7e84a07e3d69972e5_6352532715828928866.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其二",
+          "text": "流浪到蒙德的时候，我对安柏他们说了很多不该说的话，现在回想起来还是会很羞愧…我这人真是的，怎么能对想帮我的人说那些话呢！他们那时候究竟是怎么看我的？想想就又…呜，抱歉，今天先到这里可以吗？不然等到明天…我又要为刚刚说过的话后悔了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/6ff3237f22829705831ce68eeb3acfaf_7386343715063851128.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其三",
+          "text": "因为「魔鳞病」的关系，我曾经被送到「博士」手下治疗…不，那不是治疗，而是「实验」。在那种环境里待久了，我也不由开始想，自己到底做错了什么？为什么没有人来救我…渐渐地，就连「愚人众」以外的人也一并恨上了。现在想想…实在是，太幼稚了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7d72d1df4289f766568f55d533cb5136_6772174373986184095.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其四",
+          "text": "多亏有你们在，「魔鳞病」消失了，是我从前想都不敢想的奇迹。嗯…我一直对完全治愈不抱希望，只想在身体不能活动前，多做一些事情。起初是复仇，后来是巡林…现在，我终于可以自由地活下去了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/5e6cd27f31011b17ce0148c06b188063_1359097105584708079.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其五",
+          "text": "你接下来还会继续旅行吗，也让我多尽一份力吧。我会努力学习…不管是认字还是学医术，还有战斗、排查危险…甚至是检查路灯这种小事！希望这一路上，能有更多和我一样的人得到帮助——就像你拯救了我一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/8b15d51e33c7abd6fbf44cc95999352e_5021859825448443846.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "柯莱的爱好…",
+          "text": "爱好嘛…缝纫、练习飞行，还有帮助他人！嗯？你说听着有点耳熟？因为…我也想成为「能照亮别人的人」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b9398885f5027d5a913f9cacc3f12fc1_6816663683566551627.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "柯莱的烦恼…",
+          "text": "「针对当前…农作物品种…单一化…避免长期食用菌类…采取的进口错施…」——这都是什么和什么啊？为什么教令院的论文连「不想吃蘑菇」都能写得这么复杂啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c727bb9706744fb5515f1cbc346986ec_7026787227429029605.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "「口袋饼」方便携带，又容易吃饱，应该是我最常吃的东西了？如果不考虑肚子的需要，我最喜欢的食物…嗯，应该是「炸萝卜丸子」吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/81b06bdd53155bb9f271de5d5c1c1292_7494197324742146358.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "流浪的时候肚子饿了，连钩钩果都要掰碎了吃下去，所以我没有什么特别讨厌的食物。一定要说的话，我不会碰的只有各种蘑菇吧？和口味无关，只是不希望被师父长篇大论批评的人是自己而已…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/851f3b7cec5c384971a2321486f62d1b_3102308928838164378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "嗯——真好吃！你能教教我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9f5b60d639cd2f7e8a7e199c2643eb00_7582540147055422133.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "有这手艺，流浪在外也不会饿肚子了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/35f9d7ede5b18b3c15becd18952b5c4d_8409689071416890463.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "抱歉，师父交代过我，不能吃奇怪的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e7ba5d3d1b44d14acba1040207689296_6504460280836220876.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生、生日快乐！这个是我准备的蛋糕，这个是备用的蜡烛…安柏在信里说这样就行…啊，还有、还有这个是送给你的礼物！…不好意思，我没什么办生日会的经验，也不知道合不合你的心意…弄得手忙脚乱的。有什么不足一定要跟我说，明年，我一定会准备得更好！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5cc8824c83828d4b0c4a2c49595db1eb_5973243089780582809.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我这是在进步吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a86b3599578462ab00729bb3d8ff6f88_5807919987684091149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "我能感觉得到，我已经…不再是以前的我了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/6896773840504bc208e52bb6e71e758f_9032583241816597817.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "就算到生死关头，也不必再依靠「它们」的力量了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/37ff8a951aff843892a5996b774f5b93_6155172327345521893.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "现在的我，即使解开被封印的力量，也可以驾驭自如了吧？嘿！说笑的，和你一起辛苦冒险的经历，才是我现在拥有的力量啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/dbe94516cb0bbd687860bd469861e197_971655950721374831.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d90853a02df0a63e6e90515c1fe3b0c7_81226492013316418.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "飞吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2842a7b87a1f7baa32cc8a453facd216_3381790710960984966.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "拜托了，柯里安巴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/bf6141f296d5f45ac6637d9d8cd10a2a_4790327651269363331.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "试、试试这个！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/13ccceef1134e80b37c9c136f39b4af6_8347625481923175871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "来跳舞吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/cb4cc23d0bad4b488316a8bff294b821_4556127212857738787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "在野外要时刻注意补给。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/272b391f83fb817d031c6685ece8b38c_2806174963155488349.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真幸运啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3d728ba3ef59399bc827991161a8d01d_7929765080794853785.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "嗯…箱里没长毒蘑菇吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a03ca16807e20eb513d333fa647ba5aa_227686086537492459.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我…还撑得住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c55b8d8804bf767eb4a90eaf23a00ce8_5242615594455577466.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "这点小痛，不算什么！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/42fd859195cbd9d484f7f28144abe100_6577419137793611222.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "需要…尽快治疗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/265c8197a776959116fd14c9c6cad27b_7386343715063851128.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "身体要紧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/282cb37daef9f19867702311cbf58863_6505009025211815981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "这样下去不太妙啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f09b883fef0a082383ee8e503c0f9929_1126998661890301764.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "得做优秀的…巡林员。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/16f90d471130fa71611ff59d1ac9ee19_5078213146464882276.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "居然会…这么倒下…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/25530944307f580cfd2fa067c9186b0b_6043863735790603009.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "还是…到这一天了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/1b84f00a384a03729964fc8781bdaf72_4752921636478700470.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "怎么会…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/054b8d57fc729a8cc9b223f052ef2dc6_7582540147055422133.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "别碰我！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/029591dccc32a5ea5f6675344d9b0d89_7310027345649583998.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "就由我来保护。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e53d32b5ce4fe4912dff6869d9fea2ad_8882543079122093791.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "准备齐全，出发吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ffb1c0c443724d58be3a84928f8e611e_5807919987684091149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "见习巡林员报到！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/fbc1c42999159370155d751688381f21_6155172327345521893.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "见习巡林员柯莱，前来报到！我会保障你在林间出行时的安全——呼，总算能说出这句出场词了，我没念错字吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/aaae01d653dd21575f56fbfcf3433b75_7962582096526326352.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·巡林路线图",
+          "text": "今天的巡林路线图…先往这里再拐到那里…嗯，字好多…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/cc45224d05b314965387921ff80e7205_4790327651269363331.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·状态",
+          "text": "呼，今天的状态不错，趁着这个机会，多做一点事吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0b842d64441c40a9c3118506150a6e6f_8347625481923175871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·回忆",
+          "text": "手头没有事情，心里就容易东想西想——唔，一说就想起了不好的事…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2b97722d5ae0f03afb2b4c4bc5671ed8_4556127212857738787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "雨虽然停了，还是要小心水洼。就像一些事，明明过去了还是会留下回忆…咳咳！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4e55cf91d2332816b97a5663041f798a_4944419754666896183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "打雷的时候，最好避开大树。对巡林员来说，还要格外注意检查，谨防森林火灾。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2e6a29077afdf269b562499b88469544_5242615594455577466.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气不错，多晒晒太阳，对身体也好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/fc0612f652b75911b553df422f7bdd7b_1126998661890301764.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "嗯，风力正好。安柏应该会很喜欢趁这样的天气挑战自己吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f9f00383710d25082119453d2de8dd50_5078213146464882276.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好！哈…抱歉，昨晚又在补习…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8cca6ea7ed4d302533080cf4951bc661_6043863735790603009.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "巡林路线一长，中午回不来也很正常。我多准备了一些「口袋饼」，要来一份吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ee539c29c320e9546d95d878ff90f0a9_4329452198748488069.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "天快黑了，走在林子里一定要加倍小心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5a1bf6ba995d6db0a46918b8073aeb49_3792534889349089142.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "准备休息了吗？篝火已经生好了，我会为你守夜的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/634027f998d47ad6cb6c50ae4fee0ca9_5239565143492394491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱自己·巡林",
+          "text": "来须弥之前，我在野外流浪过一段日子，能吃不能吃的东西都尝过了好几遍，对野外还算熟悉，所以来这儿之后就做起了巡林的工作。如果「野外生存」也算一门课目的话，我还是有自信考到及格的…嗯，不做笔试的话。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0726342af8c20598ed7a42795f247d4f_2342865772551492149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱自己·补习",
+          "text": "欸？你问我每天都在补习什么？跟着这么厉害的师父，是不是什么很高深的知识…呃…这个么…《提瓦特识字大全》…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2779039dde1e8f4078931b68ab27523a_3400149539111672736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·旧识",
+          "text": "我听安柏在信里提起过你，没想到在蒙德又发生了这么多事。可惜跳着字读，好多细节都没弄懂…欸，你愿意再跟我讲一遍吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3bf67a8be35b2fe55ba2b14f7cd263bb_4756763563022205844.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·新交",
+          "text": "我曾经以为「朋友」什么的，这辈子都不会和我扯上关系，直到去了蒙德…后来在须弥遇见了师父，现在又遇到了你。果然，我还是很幸运的啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9e41a431c5a2da8529df8b8326ac22f0_8664783747333070413.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "哈…真没想到，我也会有拿到神之眼的一天。以前总觉得神明会看的，都是那些生来就被大家喜欢的人…唔，我…我承认我有很多不好的偏见。是我不对。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/86b3f15ba0a8c5e6de8e2afa26d2456a_1245302113678145965.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·技能名",
+          "text": "师父常说最有效的学习就是实践，所以我偶尔也会找些轻小说来看，想多认些字…起码比师父的论文好读。不过，我最近读到的一本书里，主角有好多能力，起的名字全是我看不懂的词…嗯？书的名字？应该是叫…《鬼武道》？你也读过吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7d1c35e0a3e9358bd03a67d68d8f6dd3_4325531780422678981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·封印之力",
+          "text": "唔哇…又是「被封印的力量在躁动」…还有什么「离我远点才是上策」…为什么稻妻人都能这么自然地说出这些话，他们以后不会觉得尴尬吗？啊…不行，不能再读下去了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b7246d1cc735741f2037af5591ba388e_3925926674871303745.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "花草动物吗…除了能不能吃，好像也没有太大区别。嘘，这话不能被师父听见。要问我的话，我比较喜欢有树洞的树？尤其是在想要「找个地方钻进去」的时候…每个人都会有的吧？不是吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/61d43326a5924bdfb9783a0e778576ef_1701712736402888099.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "师父虽然平时说话有些严厉，还经常批评那些乱吃毒蘑菇的冒险家，但他其实是个很温柔的人。不仅会耐心地给我补课，还会为我读蒙德寄来的信。我一直很感激他！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f28bdb8102554d7977257945bfe79963_1501362666034995222.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "有次我在巡林路上遇见了她，像是知道我口渴一样，她从袋子里掏出了一瓶看起来特别好喝的果汁…还好当时师父在场，制止了她。不然，我差点就一个冲动，把好不容易攒起来的摩拉都花出去了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b45d93bcc008317efff7ea7cf334b6ab_4944419754666896183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "草神啊…小时候我很多次想大声问问神明，为什么要让我经历这么多苦难。唉，说不定就连神明自己，也经历着各种无奈的事吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/cabe7a7f52e85da9572723a42cbfa322_4805418441586833813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "欸…我们能不提他吗？不，大风纪官不是什么坏人，当初就是他带着我从蒙德回到了须弥，才让我有了安身的地方。只是一想起回须弥前那个「封印」的过程…唔…脖子后边又开始觉得痛了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/86acd9adc2a52e32146dae5f316b8cc5_7071749736435264243.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "大风纪官曾带着他来我们这里吃过一顿饭。在餐前水果刚端上桌的时候，他就开始大谈他那个又不讲情理又固执的室友，我们连插话的时机都找不到。只能点点头，憋着笑，吃完了整顿饭。唉，真是不容易。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/84df1ac7f72d1f72802024a4bbb16ce5_4265037833950963572.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "感觉她有点迷迷糊糊的样子，如果来化城郭附近表演的话，不会走着走着就迷路在深林里吧…那我可一定要好好看着她，尽我见习巡林员的职责。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0849680c76e2ca8f313fa5517bc34bee_5465292336628028376.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏她真的很厉害，又热情又活泼，又勇敢又正义…是我最钦佩、最崇拜的人了！她总能像一团火一样照亮别人，要不是她，我肯定没法走到今天这一步…过了这么久，她现在一定变得更加沉稳、更加帅气了吧！真不知道什么时候才能赶上她。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/247e4f40f0311cf4fa20fbfef7e68997_7248503500519974067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "蒙德的大家都还好吗？那阵子我可是惹了不少麻烦啊，要不要找个时间回去道歉呢…唔，但感觉一露面就会被那位骑兵队长捉弄…还是再等等吧，再等等…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/03ba6e5d7da1d9fdc6e56ea13db80be9_9105935163195362231.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "明明已经过去了那么久，丽莎给我写信的时候，还是在叫我「小柯莱」，总感觉…嗯？你说她也叫你小可爱？噗…对不起，我不是有意要笑出来的…一下子就开心了好多啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/354b83a89cb0aa83c8e0aca5feecaefd_6382843544888259743.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔…",
+          "text": "…「断罪之皇女」？抱歉，我在蒙德待的时间不长，没有听过这样的人物。不过这个名字…嘶…咳，没什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9c8e287d1ecc24b11099bff95db6600e_1040484958126957907.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "呃…老实说，我不太擅长应付这位前辈…虽然她经常夸我勤奋好学，但我真的是因为学得太慢，没办法了，才总是在补习啊！还有一回，我不小心看到了她的研究笔记，虽然只瞟了一眼，但那绝对是全须弥最可怕的书！——上面全是古文，我连半个字都看不懂。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/083a0d363c81c2d5228123a0408e165d_4450077177932002953.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其一",
+          "text": "我的事情么？如果你问的是来须弥之前的…唔，要不…你写信问一下安柏？啊，不行，要是让凯亚发现了就全完了…不对，他肯定会发现的吧！还、还是我自己来说吧，呼——对不起！请先让我再做几天心理准备…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9c6e586a4288c9885233eeec67efada5_2219523951020215055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其二",
+          "text": "流浪到蒙德的时候，我对安柏他们说了很多不该说的话，现在回想起来还是会很羞愧…我这人真是的，怎么能对想帮我的人说那些话呢！他们那时候究竟是怎么看我的？想想就又…呜，抱歉，今天先到这里可以吗？不然等到明天…我又要为刚刚说过的话后悔了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d716097f8066b3b76e9feac22ee3e63c_2136804998375541520.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其三",
+          "text": "因为「魔鳞病」的关系，我曾经被送到「博士」手下治疗…不，那不是治疗，而是「实验」。在那种环境里待久了，我也不由开始想，自己到底做错了什么？为什么没有人来救我…渐渐地，就连「愚人众」以外的人也一并恨上了。现在想想…实在是，太幼稚了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/bbb70deaf79373d0475b33311af28bce_963788405505286623.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其四",
+          "text": "多亏有你们在，「魔鳞病」消失了，是我从前想都不敢想的奇迹。嗯…我一直对完全治愈不抱希望，只想在身体不能活动前，多做一些事情。起初是复仇，后来是巡林…现在，我终于可以自由地活下去了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/283e68aa026c14e4386cb9ffe49354e5_7338612270443993875.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其五",
+          "text": "你接下来还会继续旅行吗，也让我多尽一份力吧。我会努力学习…不管是认字还是学医术，还有战斗、排查危险…甚至是检查路灯这种小事！希望这一路上，能有更多和我一样的人得到帮助——就像你拯救了我一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/c99aa8c625742a3960428083605e375b_8168944789342445133.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "柯莱的爱好…",
+          "text": "爱好嘛…缝纫、练习飞行，还有帮助他人！嗯？你说听着有点耳熟？因为…我也想成为「能照亮别人的人」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/21b800f81e2c37a4a152d3bf155b7ca9_9105542907666826774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "柯莱的烦恼…",
+          "text": "「针对当前…农作物品种…单一化…避免长期食用菌类…采取的进口错施…」——这都是什么和什么啊？为什么教令院的论文连「不想吃蘑菇」都能写得这么复杂啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/280a0a0f4501b09e8ada12562704b082_6800775039658942386.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "「口袋饼」方便携带，又容易吃饱，应该是我最常吃的东西了？如果不考虑肚子的需要，我最喜欢的食物…嗯，应该是「炸萝卜丸子」吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/800b5a08592bc6cfa7450653b8167bd2_3400149539111672736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "流浪的时候肚子饿了，连钩钩果都要掰碎了吃下去，所以我没有什么特别讨厌的食物。一定要说的话，我不会碰的只有各种蘑菇吧？和口味无关，只是不希望被师父长篇大论批评的人是自己而已…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/32ae95601b033a692dd33f870b386aa7_3725428037320937385.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "嗯——真好吃！你能教教我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/07f0f3905c43f595429dd4b0057f10da_4971380172726289648.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "有这手艺，流浪在外也不会饿肚子了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2e51c4b6374fd02bc963a732b1e2db07_3205775926892977477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "抱歉，师父交代过我，不能吃奇怪的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/279b301d541a663a8c6c6ec219710f09_1961665241719540464.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生、生日快乐！这个是我准备的蛋糕，这个是备用的蜡烛…安柏在信里说这样就行…啊，还有、还有这个是送给你的礼物！…不好意思，我没什么办生日会的经验，也不知道合不合你的心意…弄得手忙脚乱的。有什么不足一定要跟我说，明年，我一定会准备得更好！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a07e925ba6bbc83cc14cd9396fd8296f_4325531780422678981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我这是在进步吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/fff2ba20561a680fb3d6fb683f435f32_3925926674871303745.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "我能感觉得到，我已经…不再是以前的我了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3cf2c6d3c12263e8d98ba3e0af777038_1501362666034995222.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "就算到生死关头，也不必再依靠「它们」的力量了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0fe0d406f0a983c3293d40ebe216dc3b_4805418441586833813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "现在的我，即使解开被封印的力量，也可以驾驭自如了吧？嘿！说笑的，和你一起辛苦冒险的经历，才是我现在拥有的力量啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/155b1b146becc72223d1970e5832a846_8624022389445088191.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/044fbd7671115d6ecb833dc58de5ed84_6149889959410716540.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "飞吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/19260ba251e8ce58b31de6466e7882d2_7904660304262713893.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "拜托了，柯里安巴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0aa7a68b4bc1d32e6c0a7a4ffe03b4bd_6279274641667750266.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "试、试试这个！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2a20c3109b8491cb8040e4d8259f2c0f_1040484958126957907.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "来跳舞吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/1c4a799a12004e71d9bd68e749775a0d_2219523951020215055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "在野外要时刻注意补给。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8c825c2835a7a50633a052d891fb3b15_4317154047328088466.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真幸运啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d7a759981d99b923ed2429614913bbce_3749983581483839570.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "嗯…箱里没长毒蘑菇吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f27c72a3e58b4305fc4cdfeaba3a5f0b_799288378714333820.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我…还撑得住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e22ae9ab8d3e516691db2fb0aad4f834_8221034871778196973.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "这点小痛，不算什么！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0977c01f3e164c9466544916ce23bc0e_9115556219177058104.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "需要…尽快治疗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b708816e1a4979c678256609e6cf544d_2931076145381809080.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "身体要紧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a7c5311353ad7a7d39d2ffd9d33e5aa8_3814895997249051939.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "这样下去不太妙啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/1ef8c50872f9097de0325b2fef03dd76_5823389028986932568.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "得做优秀的…巡林员。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b9f1db797118923fe7dcd712d6128edd_4971380172726289648.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "居然会…这么倒下…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/6f6363a608be3d7de5a3b071a182cdef_1961665241719540464.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "还是…到这一天了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5b7af27b2ce58f926f165718e0428cf5_377733900659891712.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "怎么会…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0c01756f3715749bacb7f4f049c2b5c8_7222897306566367005.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "别碰我！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/abbefd8514482a68f9fac85b4efcdf2d_3725428037320937385.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "就由我来保护。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5a634ded26b387f3dabd485069df1cf7_6028760632492828050.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "准备齐全，出发吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/55d9c769a88c4f0f42606c37cca9ac6f_5621803690507922635.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "见习巡林员报到！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9afbc819ce7b33eb8ccd52c80cd42bff_9110719201047641132.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "见习巡林员柯莱，前来报到！我会保障你在林间出行时的安全——呼，总算能说出这句出场词了，我没念错字吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/cb7853a89fad67c24406990168f3537a_2523425027179121234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·巡林路线图",
+          "text": "今天的巡林路线图…先往这里再拐到那里…嗯，字好多…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e01e2a950dc66f8c0b4c2e11ce769d58_8021145452640689106.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·状态",
+          "text": "呼，今天的状态不错，趁着这个机会，多做一点事吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/fc42b55064de28367bb38382827638cf_2632171747238802848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·回忆",
+          "text": "手头没有事情，心里就容易东想西想——唔，一说就想起了不好的事…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d27019ba5bdb7136c98022776f35dd8e_4045299078552866571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "雨虽然停了，还是要小心水洼。就像一些事，明明过去了还是会留下回忆…咳咳！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/78106543f97cf96b47dcd00cc5a506d8_4664359881622983307.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "打雷的时候，最好避开大树。对巡林员来说，还要格外注意检查，谨防森林火灾。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/eb8edc091143f17cb6ab819b59856c24_4914000760914680970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气不错，多晒晒太阳，对身体也好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/94c28916ca89af775ff9b1a232636cd0_8987385262057135040.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "嗯，风力正好。安柏应该会很喜欢趁这样的天气挑战自己吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4223c68f9bf6e522f615c6fd30d021a0_7835342903861708904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好！哈…抱歉，昨晚又在补习…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/bafd4c46d592c0090b603f38af7d181a_1006156680618578101.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "巡林路线一长，中午回不来也很正常。我多准备了一些「口袋饼」，要来一份吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3b840b900da7c9072528869c67304d70_7955985669952103413.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "天快黑了，走在林子里一定要加倍小心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/04dbc464ed83612fd27cfa4ccd29397d_1669204849145277083.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "准备休息了吗？篝火已经生好了，我会为你守夜的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b91569fb9b95f63ae6cb142eb5671952_6041907812557412695.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱自己·巡林",
+          "text": "来须弥之前，我在野外流浪过一段日子，能吃不能吃的东西都尝过了好几遍，对野外还算熟悉，所以来这儿之后就做起了巡林的工作。如果「野外生存」也算一门课目的话，我还是有自信考到及格的…嗯，不做笔试的话。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/981225aac01fdee667defef346889bda_5830584822059573464.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱自己·补习",
+          "text": "欸？你问我每天都在补习什么？跟着这么厉害的师父，是不是什么很高深的知识…呃…这个么…《提瓦特识字大全》…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2b177700ae64993073bbe3089cb41ca3_5648073892813942672.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·旧识",
+          "text": "我听安柏在信里提起过你，没想到在蒙德又发生了这么多事。可惜跳着字读，好多细节都没弄懂…欸，你愿意再跟我讲一遍吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/daac61bca06664130eade26e9dea1663_7183504918283314406.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·新交",
+          "text": "我曾经以为「朋友」什么的，这辈子都不会和我扯上关系，直到去了蒙德…后来在须弥遇见了师父，现在又遇到了你。果然，我还是很幸运的啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b1118139577b41457b70286fc18cde20_8884204507070504384.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "哈…真没想到，我也会有拿到神之眼的一天。以前总觉得神明会看的，都是那些生来就被大家喜欢的人…唔，我…我承认我有很多不好的偏见。是我不对。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8b097e4214a60a3875b5281c7ec1b390_9110719201047641132.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·技能名",
+          "text": "师父常说最有效的学习就是实践，所以我偶尔也会找些轻小说来看，想多认些字…起码比师父的论文好读。不过，我最近读到的一本书里，主角有好多能力，起的名字全是我看不懂的词…嗯？书的名字？应该是叫…《鬼武道》？你也读过吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f1c6263eee449078b230f628b766e4c5_4051985520518425262.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·封印之力",
+          "text": "唔哇…又是「被封印的力量在躁动」…还有什么「离我远点才是上策」…为什么稻妻人都能这么自然地说出这些话，他们以后不会觉得尴尬吗？啊…不行，不能再读下去了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/817e4aac1e3eacd25c0c3a429288c2e9_1524076698556668716.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "花草动物吗…除了能不能吃，好像也没有太大区别。嘘，这话不能被师父听见。要问我的话，我比较喜欢有树洞的树？尤其是在想要「找个地方钻进去」的时候…每个人都会有的吧？不是吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/26e9043ef8f477c8334faab03e9352d4_3714073728690262166.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "师父虽然平时说话有些严厉，还经常批评那些乱吃毒蘑菇的冒险家，但他其实是个很温柔的人。不仅会耐心地给我补课，还会为我读蒙德寄来的信。我一直很感激他！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ff64f3223c3b7529e82daa1196d1261c_1448078578679673238.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "有次我在巡林路上遇见了她，像是知道我口渴一样，她从袋子里掏出了一瓶看起来特别好喝的果汁…还好当时师父在场，制止了她。不然，我差点就一个冲动，把好不容易攒起来的摩拉都花出去了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/948e481d0578ee93773efbda6f7f3604_7945713657301034702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "草神啊…小时候我很多次想大声问问神明，为什么要让我经历这么多苦难。唉，说不定就连神明自己，也经历着各种无奈的事吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/616d82f26a46a37cddef7d70d3ff13c3_313073522243501695.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "欸…我们能不提他吗？不，大风纪官不是什么坏人，当初就是他带着我从蒙德回到了须弥，才让我有了安身的地方。只是一想起回须弥前那个「封印」的过程…唔…脖子后边又开始觉得痛了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ae84673b95c95df6e025ad02b8d9853f_3709467278122899095.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "大风纪官曾带着他来我们这里吃过一顿饭。在餐前水果刚端上桌的时候，他就开始大谈他那个又不讲情理又固执的室友，我们连插话的时机都找不到。只能点点头，憋着笑，吃完了整顿饭。唉，真是不容易。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/87e4c03952730bef8a022d1f60dc20bc_8415287314236508333.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "感觉她有点迷迷糊糊的样子，如果来化城郭附近表演的话，不会走着走着就迷路在深林里吧…那我可一定要好好看着她，尽我见习巡林员的职责。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/84476bfabc783de7258cf70636e7ef75_4048337303049913411.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏她真的很厉害，又热情又活泼，又勇敢又正义…是我最钦佩、最崇拜的人了！她总能像一团火一样照亮别人，要不是她，我肯定没法走到今天这一步…过了这么久，她现在一定变得更加沉稳、更加帅气了吧！真不知道什么时候才能赶上她。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/10f22c5a40a3f271b75034e1e6085875_5906273138310731641.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "蒙德的大家都还好吗？那阵子我可是惹了不少麻烦啊，要不要找个时间回去道歉呢…唔，但感觉一露面就会被那位骑兵队长捉弄…还是再等等吧，再等等…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c9565d5d5af0b98957b43012e2501e13_7835342903861708904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "明明已经过去了那么久，丽莎给我写信的时候，还是在叫我「小柯莱」，总感觉…嗯？你说她也叫你小可爱？噗…对不起，我不是有意要笑出来的…一下子就开心了好多啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/53e371db8918352ac3b52967df9764fc_8881263432363567158.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔…",
+          "text": "…「断罪之皇女」？抱歉，我在蒙德待的时间不长，没有听过这样的人物。不过这个名字…嘶…咳，没什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3496109bb57c3ee3e27fee5dee5e1f96_1669204849145277083.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "呃…老实说，我不太擅长应付这位前辈…虽然她经常夸我勤奋好学，但我真的是因为学得太慢，没办法了，才总是在补习啊！还有一回，我不小心看到了她的研究笔记，虽然只瞟了一眼，但那绝对是全须弥最可怕的书！——上面全是古文，我连半个字都看不懂。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/b3fba54ec56a525f9a707a4ca0549c06_1198392610650040080.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其一",
+          "text": "我的事情么？如果你问的是来须弥之前的…唔，要不…你写信问一下安柏？啊，不行，要是让凯亚发现了就全完了…不对，他肯定会发现的吧！还、还是我自己来说吧，呼——对不起！请先让我再做几天心理准备…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2233f9ef0d6efd56b84e227f8f2a446b_2292664291974130297.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其二",
+          "text": "流浪到蒙德的时候，我对安柏他们说了很多不该说的话，现在回想起来还是会很羞愧…我这人真是的，怎么能对想帮我的人说那些话呢！他们那时候究竟是怎么看我的？想想就又…呜，抱歉，今天先到这里可以吗？不然等到明天…我又要为刚刚说过的话后悔了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/75d8094c0f97545a8ba6acabdefff1dc_7476260772953714874.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其三",
+          "text": "因为「魔鳞病」的关系，我曾经被送到「博士」手下治疗…不，那不是治疗，而是「实验」。在那种环境里待久了，我也不由开始想，自己到底做错了什么？为什么没有人来救我…渐渐地，就连「愚人众」以外的人也一并恨上了。现在想想…实在是，太幼稚了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/bb17b131b2217ae087036ed22a629e82_8055636849948630856.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其四",
+          "text": "多亏有你们在，「魔鳞病」消失了，是我从前想都不敢想的奇迹。嗯…我一直对完全治愈不抱希望，只想在身体不能活动前，多做一些事情。起初是复仇，后来是巡林…现在，我终于可以自由地活下去了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/e3da422455166c6a5acb34ba97a23c42_8643374087127561056.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其五",
+          "text": "你接下来还会继续旅行吗，也让我多尽一份力吧。我会努力学习…不管是认字还是学医术，还有战斗、排查危险…甚至是检查路灯这种小事！希望这一路上，能有更多和我一样的人得到帮助——就像你拯救了我一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/a51be190b20b75aa88849e248ecfede9_7256702599997507809.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "柯莱的爱好…",
+          "text": "爱好嘛…缝纫、练习飞行，还有帮助他人！嗯？你说听着有点耳熟？因为…我也想成为「能照亮别人的人」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c7ff994af77ef2d3764e9aaedff99f3f_8224593766387218884.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "柯莱的烦恼…",
+          "text": "「针对当前…农作物品种…单一化…避免长期食用菌类…采取的进口错施…」——这都是什么和什么啊？为什么教令院的论文连「不想吃蘑菇」都能写得这么复杂啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3811c8aaf42d3346007947cb7856ae62_8884204507070504384.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "「口袋饼」方便携带，又容易吃饱，应该是我最常吃的东西了？如果不考虑肚子的需要，我最喜欢的食物…嗯，应该是「炸萝卜丸子」吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3ec2f86a07bb2ac6972321636ff72caf_7139690155294133348.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "流浪的时候肚子饿了，连钩钩果都要掰碎了吃下去，所以我没有什么特别讨厌的食物。一定要说的话，我不会碰的只有各种蘑菇吧？和口味无关，只是不希望被师父长篇大论批评的人是自己而已…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a150324980431fd6b60387f434154f6e_2203608924583901687.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "嗯——真好吃！你能教教我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e39ee324cfed591daff9c2d8547f654f_5120537181059740973.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "有这手艺，流浪在外也不会饿肚子了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/37b8c7431ea18f0e7ca3d34ecd57472a_2660248347342156923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "抱歉，师父交代过我，不能吃奇怪的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/54d5cdd2b8bb84bde690a437ab2a1b91_4478474584970481333.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生、生日快乐！这个是我准备的蛋糕，这个是备用的蜡烛…安柏在信里说这样就行…啊，还有、还有这个是送给你的礼物！…不好意思，我没什么办生日会的经验，也不知道合不合你的心意…弄得手忙脚乱的。有什么不足一定要跟我说，明年，我一定会准备得更好！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/50f7f29a5fa4fef8c4f8fe5291903356_858118031314959878.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我这是在进步吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/aa47f16f6c8e0ab61d6cb444ffe62324_3652831289917493543.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "我能感觉得到，我已经…不再是以前的我了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d21a56c44a6b32678744e8e8d5be2918_4048337303049913411.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "就算到生死关头，也不必再依靠「它们」的力量了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/be45e0b4d791e4f20ea3cf525b553150_4956273748855805926.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "现在的我，即使解开被封印的力量，也可以驾驭自如了吧？嘿！说笑的，和你一起辛苦冒险的经历，才是我现在拥有的力量啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/fd38aac77190b22101978a73c56be388_5989067236478832861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8b4b44b19f20e667ce52891cb72fda42_3148491107514390187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "飞吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/042e0beaa8b7e49b6da3ba9e71a785b8_3620820650790881591.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "拜托了，柯里安巴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/75843e5108f18930dc897105ef42cbe9_8057282317646008393.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "试、试试这个！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/55e766750a4df93e4356652ae0b7ce57_2292664291974130297.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "来跳舞吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2ed4c9e21dffe09de8fb9a1bf66838b1_563635422259976553.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "在野外要时刻注意补给。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9473375a64453b98fef6177d3e91b6e8_8383236099080865975.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真幸运啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e3e78321c54bee27fe456ce87ff9dd07_4168764366396077407.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "嗯…箱里没长毒蘑菇吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/40b8d78a3c59468c3101e638371ff5b0_908195890367248722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我…还撑得住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0ade5576e3fa906834e3a4098d0f9358_1570493968244192741.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "这点小痛，不算什么！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ee9ffd2bf873c83578c0d37004dc218c_2203608924583901687.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "需要…尽快治疗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/88f209e04f142c555441756c45b65411_4666998178180058044.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "身体要紧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a5282fd6d7b320e3633714afacbac5f9_3002092994594521535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "这样下去不太妙啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/27f298d10924db5c95bd4fedd1f78280_7652176618348102351.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "得做优秀的…巡林员。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/bd69cf4b506cbe80940406cbff4cbc00_5236650649457643758.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "居然会…这么倒下…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/6c521c72b06bb24b80d2c15de7714b3f_6778882334414164388.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "还是…到这一天了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/efeee7d319bc0236f67583bb12df2a4a_5989067236478832861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "怎么会…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/fdf63585e0f9aa7b0887ee90df1d64e8_5647027333223542883.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "别碰我！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/6d2a99212f0e26ce9d88f95bdae3204f_3148491107514390187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "就由我来保护。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a4463f33e271707d9feed9f713df4c66_3313842404781662515.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "准备齐全，出发吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c67d8b37b19a24fc7a0ee0fe5a03f381_3493446592923330619.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "见习巡林员报到！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/11e9f66829ff871f0f227408c9a33528_7259190465551708299.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "见习巡林员柯莱，前来报到！我会保障你在林间出行时的安全——呼，总算能说出这句出场词了，我没念错字吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/bdcd388a5621b0271998ebfaa8eb83f9_1860807739761807657.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·巡林路线图",
+          "text": "今天的巡林路线图…先往这里再拐到那里…嗯，字好多…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5156ce5ecfdbe6c572c1e0e09de718b0_563635422259976553.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·状态",
+          "text": "呼，今天的状态不错，趁着这个机会，多做一点事吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3f7a9ae976eaefac596ca2b574c3e5c0_8383236099080865975.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·回忆",
+          "text": "手头没有事情，心里就容易东想西想——唔，一说就想起了不好的事…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/96ad7381d3614d98ad12337711876fed_4625670740407030982.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "雨虽然停了，还是要小心水洼。就像一些事，明明过去了还是会留下回忆…咳咳！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a664edf9afe900a383d83a5dcaf676c4_4843563816110747515.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "打雷的时候，最好避开大树。对巡林员来说，还要格外注意检查，谨防森林火灾。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/57b3780be8c863f4839115b97dbb4821_908195890367248722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气不错，多晒晒太阳，对身体也好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/279ee40748fcc6777549bb001bff0ed2_6172091234049400337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "嗯，风力正好。安柏应该会很喜欢趁这样的天气挑战自己吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e6bb8da3f18cc8268474392412e2286b_7194779104503174363.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好！哈…抱歉，昨晚又在补习…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9c9c86333b07c2e3ca1e662fba66755b_1907497978887618736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "巡林路线一长，中午回不来也很正常。我多准备了一些「口袋饼」，要来一份吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3d5db043410828bc16e1fe6d7cdf2f91_8772319324262641346.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "天快黑了，走在林子里一定要加倍小心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7a395513526308dd6b46fcc0fdb650cc_2183256875724561018.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "准备休息了吗？篝火已经生好了，我会为你守夜的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d637af9b2db4bae096689860cd788d4a_16634353251034431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱自己·巡林",
+          "text": "来须弥之前，我在野外流浪过一段日子，能吃不能吃的东西都尝过了好几遍，对野外还算熟悉，所以来这儿之后就做起了巡林的工作。如果「野外生存」也算一门课目的话，我还是有自信考到及格的…嗯，不做笔试的话。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/68b50eb21f14bea6b48508615b5939cf_1460230479217337813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱自己·补习",
+          "text": "欸？你问我每天都在补习什么？跟着这么厉害的师父，是不是什么很高深的知识…呃…这个么…《提瓦特识字大全》…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/08d99415cad6510f467f1a80a3b47a57_3593770898967333301.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·旧识",
+          "text": "我听安柏在信里提起过你，没想到在蒙德又发生了这么多事。可惜跳着字读，好多细节都没弄懂…欸，你愿意再跟我讲一遍吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5233bf0558805fc76627f46bd54397e9_6778882334414164388.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·新交",
+          "text": "我曾经以为「朋友」什么的，这辈子都不会和我扯上关系，直到去了蒙德…后来在须弥遇见了师父，现在又遇到了你。果然，我还是很幸运的啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c761916c3b99f9b1b80e18b3fec0fb05_3313842404781662515.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "哈…真没想到，我也会有拿到神之眼的一天。以前总觉得神明会看的，都是那些生来就被大家喜欢的人…唔，我…我承认我有很多不好的偏见。是我不对。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/17b262aee3f440c3e5242968e206cc09_7259190465551708299.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·技能名",
+          "text": "师父常说最有效的学习就是实践，所以我偶尔也会找些轻小说来看，想多认些字…起码比师父的论文好读。不过，我最近读到的一本书里，主角有好多能力，起的名字全是我看不懂的词…嗯？书的名字？应该是叫…《鬼武道》？你也读过吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/08196a2a69760c1b43e29a7646867000_5209956328222586720.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·封印之力",
+          "text": "唔哇…又是「被封印的力量在躁动」…还有什么「离我远点才是上策」…为什么稻妻人都能这么自然地说出这些话，他们以后不会觉得尴尬吗？啊…不行，不能再读下去了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f70bf3a9e37e0c32f681163f53dcbd33_8452665832449544793.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "花草动物吗…除了能不能吃，好像也没有太大区别。嘘，这话不能被师父听见。要问我的话，我比较喜欢有树洞的树？尤其是在想要「找个地方钻进去」的时候…每个人都会有的吧？不是吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9b798a92b764a1bd5535862bbbc3b8a0_2265518470763362758.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "师父虽然平时说话有些严厉，还经常批评那些乱吃毒蘑菇的冒险家，但他其实是个很温柔的人。不仅会耐心地给我补课，还会为我读蒙德寄来的信。我一直很感激他！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d21ee89f420007c93d07e33c9b489ab8_3721311269175689392.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "有次我在巡林路上遇见了她，像是知道我口渴一样，她从袋子里掏出了一瓶看起来特别好喝的果汁…还好当时师父在场，制止了她。不然，我差点就一个冲动，把好不容易攒起来的摩拉都花出去了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/fc8d1d19e6d047c75ffdcecaa435c54e_585255033610588391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "草神啊…小时候我很多次想大声问问神明，为什么要让我经历这么多苦难。唉，说不定就连神明自己，也经历着各种无奈的事吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5382212a9dc7e4a8425b5cefca472075_1860807739761807657.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "欸…我们能不提他吗？不，大风纪官不是什么坏人，当初就是他带着我从蒙德回到了须弥，才让我有了安身的地方。只是一想起回须弥前那个「封印」的过程…唔…脖子后边又开始觉得痛了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e969b6590fba089c9057f8a1c5ee7fff_1276530401459982029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "大风纪官曾带着他来我们这里吃过一顿饭。在餐前水果刚端上桌的时候，他就开始大谈他那个又不讲情理又固执的室友，我们连插话的时机都找不到。只能点点头，憋着笑，吃完了整顿饭。唉，真是不容易。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/40b73bd3e172b65cf5bf1bf2ea4bebeb_5299930087070890124.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露…",
+          "text": "感觉她有点迷迷糊糊的样子，如果来化城郭附近表演的话，不会走着走着就迷路在深林里吧…那我可一定要好好看着她，尽我见习巡林员的职责。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/766e163b00da6790b19e1f482f2ad2c8_3621660994177547953.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏她真的很厉害，又热情又活泼，又勇敢又正义…是我最钦佩、最崇拜的人了！她总能像一团火一样照亮别人，要不是她，我肯定没法走到今天这一步…过了这么久，她现在一定变得更加沉稳、更加帅气了吧！真不知道什么时候才能赶上她。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/19ecb0b147ace36f659b965a9e5eb0ee_4253714396605977235.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "蒙德的大家都还好吗？那阵子我可是惹了不少麻烦啊，要不要找个时间回去道歉呢…唔，但感觉一露面就会被那位骑兵队长捉弄…还是再等等吧，再等等…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/92ca9a4cd302670f3b0eb1ad866567dd_8524872105432673144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "明明已经过去了那么久，丽莎给我写信的时候，还是在叫我「小柯莱」，总感觉…嗯？你说她也叫你小可爱？噗…对不起，我不是有意要笑出来的…一下子就开心了好多啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/83b9fb2fd0819a832cd50a26d1a90374_1077561203098679189.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔…",
+          "text": "…「断罪之皇女」？抱歉，我在蒙德待的时间不长，没有听过这样的人物。不过这个名字…嘶…咳，没什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/87e00650b22a940f39701136cba5bae1_6172091234049400337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "呃…老实说，我不太擅长应付这位前辈…虽然她经常夸我勤奋好学，但我真的是因为学得太慢，没办法了，才总是在补习啊！还有一回，我不小心看到了她的研究笔记，虽然只瞟了一眼，但那绝对是全须弥最可怕的书！——上面全是古文，我连半个字都看不懂。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/694547083207b1a8ab16361111528904_559649406945783173.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其一",
+          "text": "我的事情么？如果你问的是来须弥之前的…唔，要不…你写信问一下安柏？啊，不行，要是让凯亚发现了就全完了…不对，他肯定会发现的吧！还、还是我自己来说吧，呼——对不起！请先让我再做几天心理准备…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/99badd7068ff626e824ee882c5d1ba55_1907497978887618736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其二",
+          "text": "流浪到蒙德的时候，我对安柏他们说了很多不该说的话，现在回想起来还是会很羞愧…我这人真是的，怎么能对想帮我的人说那些话呢！他们那时候究竟是怎么看我的？想想就又…呜，抱歉，今天先到这里可以吗？不然等到明天…我又要为刚刚说过的话后悔了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ecda2100d83cc007654b0150eb403872_48998633357941313.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其三",
+          "text": "因为「魔鳞病」的关系，我曾经被送到「博士」手下治疗…不，那不是治疗，而是「实验」。在那种环境里待久了，我也不由开始想，自己到底做错了什么？为什么没有人来救我…渐渐地，就连「愚人众」以外的人也一并恨上了。现在想想…实在是，太幼稚了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2a2acde42b16f5459a7a572e8f10497b_8772319324262641346.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其四",
+          "text": "多亏有你们在，「魔鳞病」消失了，是我从前想都不敢想的奇迹。嗯…我一直对完全治愈不抱希望，只想在身体不能活动前，多做一些事情。起初是复仇，后来是巡林…现在，我终于可以自由地活下去了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/e8b24d1a3d81be9efe89b57f9171d169_1031144884937109433.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解柯莱·其五",
+          "text": "你接下来还会继续旅行吗，也让我多尽一份力吧。我会努力学习…不管是认字还是学医术，还有战斗、排查危险…甚至是检查路灯这种小事！希望这一路上，能有更多和我一样的人得到帮助——就像你拯救了我一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/1ec418a91a4af8926af94c5c5c73448d_829370358467411711.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "柯莱的爱好…",
+          "text": "爱好嘛…缝纫、练习飞行，还有帮助他人！嗯？你说听着有点耳熟？因为…我也想成为「能照亮别人的人」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b855bc3dc9f58b9809e5794bcda44b83_205558540721784420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "柯莱的烦恼…",
+          "text": "「针对当前…农作物品种…单一化…避免长期食用菌类…采取的进口错施…」——这都是什么和什么啊？为什么教令院的论文连「不想吃蘑菇」都能写得这么复杂啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/922eaef8a0000d45f0d56badbbf8be45_1460230479217337813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "「口袋饼」方便携带，又容易吃饱，应该是我最常吃的东西了？如果不考虑肚子的需要，我最喜欢的食物…嗯，应该是「炸萝卜丸子」吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f152fa2fe4c406a1c167c708de2c9513_3593770898967333301.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "流浪的时候肚子饿了，连钩钩果都要掰碎了吃下去，所以我没有什么特别讨厌的食物。一定要说的话，我不会碰的只有各种蘑菇吧？和口味无关，只是不希望被师父长篇大论批评的人是自己而已…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9c8db8c95b0d0d96d77c0cb8d253f4c4_6290096369572617546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "嗯——真好吃！你能教教我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ba55f17f2754499e015ceee7488cd8c3_6041472204252751500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "有这手艺，流浪在外也不会饿肚子了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5e4d4be61ed678c187e7a2af9a2afa6e_4766426916405438368.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "抱歉，师父交代过我，不能吃奇怪的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/6ff3e2cc710efe26a3c90aba040fb8ed_5762613661738736803.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生、生日快乐！这个是我准备的蛋糕，这个是备用的蜡烛…安柏在信里说这样就行…啊，还有、还有这个是送给你的礼物！…不好意思，我没什么办生日会的经验，也不知道合不合你的心意…弄得手忙脚乱的。有什么不足一定要跟我说，明年，我一定会准备得更好！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3fcebb0460b854ad1f6698c69f4f9a71_6242528365454330659.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我这是在进步吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/534c3a77dcb08fdfc90e8c44370e8b73_3721311269175689392.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "我能感觉得到，我已经…不再是以前的我了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/1d250dc9103c5f4a4b8e05949e9f9eb6_4165533507172865019.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "就算到生死关头，也不必再依靠「它们」的力量了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0d84ed46e9dfdb3e58afbb60613079af_1147904254481521648.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "现在的我，即使解开被封印的力量，也可以驾驭自如了吧？嘿！说笑的，和你一起辛苦冒险的经历，才是我现在拥有的力量啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/11551ca7fe9d686d548c36f4ca0b1c4d_585255033610588391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3e5193a5f853fece4fb4116e7ba9838c_8959508380269472178.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "飞吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/66837f73d6dbf8a850f6d6aeff9ffc73_154967554654747378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "拜托了，柯里安巴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/cb764097c0425e9769bd4cfa4273c493_8205444433501625949.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "试、试试这个！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/88e90abc9ec82f00b20259ed0dceb912_1276530401459982029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "来跳舞吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/46240c8adeb9ce131714ef5016637824_5235640949088553385.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "在野外要时刻注意补给。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/32fcc31380da5835479e75b4bf44a494_4253714396605977235.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真幸运啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f93daeb04f4069ee14be9fdb0ef87a62_9114659488348983054.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "嗯…箱里没长毒蘑菇吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f41fe5e3342df2293d8e28ef3377fd1d_1077561203098679189.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我…还撑得住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b2988dce598c9300302cfe0a7889135c_4597064528900395922.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "这点小痛，不算什么！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7325214f4a15059fbfe2655ec34cfdf6_48998633357941313.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "需要…尽快治疗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d356535d8f567f0cf42008059839952f_3894424743792367006.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "身体要紧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d487488af9fc10ab5e13cbc7c774d873_7578871866300624302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "这样下去不太妙啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f4e91ccd8980d0f0896323580a7879c5_1222748614200874415.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "得做优秀的…巡林员。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f09223663c7eddcbe65347f20949805e_205558540721784420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "居然会…这么倒下…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b2ef3d1ec5c6dbea7a3e2f18a38c78fc_4975196335163925388.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "还是…到这一天了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8031fe3c3be56dbce006c3e451db567c_4441516566636853236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "怎么会…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/1950716c92aa2b63ec0a7f8c70857fad_3924252105769646471.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "别碰我！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c25e21e83427527432e0c7120978f1c4_4766426916405438368.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "就由我来保护。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d5b691fa65a84712ba76c04a52f54ff6_2726566957156751077.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "准备齐全，出发吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5aaf022f30ec0a89ac0fd4609bc1152f_5762613661738736803.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "见习巡林员报到！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f91d72f950ca62048de8f7e928259996_6920517704990072558.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1685 @@
+{
+  "id": "5866",
+  "name": "瑶瑶",
+  "alias": [
+    "瑶瑶"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "初次见面，我是瑶瑶，忝列门墙，师从歌尘浪市真君。出门在外，若有不便…请叫上我！瑶瑶有礼了。对了，我这里有炸萝卜丸子，吃一点吧！但是不可以多吃哦，油腻的东西吃多了对身体的负担会增加的。如果没吃饱，我还带了洗干净的萝卜和醋，可以给你凉拌萝卜丝吃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/9f88cb449642a6c75632eda02d2c2c03_6266030872702151196.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·大道理",
+          "text": "「明日复明日，明日何其多…」总之，快快行动起来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/da75e7fcf23a314f9a75d0d7bbf11306_1090607682706726377.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·凑热闹",
+          "text": "那边好像有什么动静，偷偷看一眼的话，应该没事吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/0669bfc8a33cae0b42c7c9055ce0e2c2_4733061096502627238.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·寻仙问道",
+          "text": "真奇怪，为什么总有人想寻仙问道呢？仙人不是到处都是吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/c342c3f006fdd380497d34fa7960d4e9_7617084460699555501.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "你听，青蛙的叫声，像不像在给雨声伴奏？呱呱呱。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/85ebd25d90316f670de4f7531bcc72d8_5446665584779561774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "呜、呜哇！我、我帮你捂住耳朵，害怕的话就抓紧我的手。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/cf894e1f9388ee51c738a486f02cb6ec_819781155720925341.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "下——雪——啦——！你先穿上毛茸茸的外套，戴上厚厚的帽子和围巾，喏，别忘了还有手套，我们再去堆雪人吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/c7745267c867b009c9af878b7c3d046b_169924931344397886.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气很好呢，我们去璃月港的码头逛逛吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/0b74ebf3802c39ebf0322c1c7e99a948_5182758143619435548.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "小心哦，别被风吹走啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/7839be6f25b08bf1bd8c6c36cbfe0031_7229071090323951342.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "该起床啦，我已经准备好早饭了，你动作快些…欸、欸？回笼觉吗？那好吧，只能再多睡五分钟哦！五分钟后我再来叫你~哎，早知道就该提醒你早点睡…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/d77bbfb20e9d05b00450598ff8f531e0_8838063994496325962.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "你要记住哦~吃完午饭后，不要立刻躺下午睡，也不能马上动身冒险，这些都对消化不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/fb7482ab9a071c2f59eb9cd701c9eedb_2715103572842019573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "欸？晚上还要出门吗？唔…什么时候才能回来呀？天色已晚，小心为上哦~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/ca4269019eb7487e6d0add5c51c36f9a_6599915116316422319.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "睡前故事…上回和你…说、说到哪里来着…璃月自古时起…便有三眼五显仙人守护，其、其中…呼呼…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/51cde450bb45a6f9b9b34ac65b652a8f_5932027430173758234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶自己·璃月码头",
+          "text": "你知道吗？璃月港的码头，总是人声鼎沸，可热闹了！和我家那种静到叶子掉在地上都能听见的感觉完全不一样呢！所以，我一有空就爱跑去码头看看。新来的船，新鲜的见闻…还有新玩具！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/4216ce4fc473b68bffbe4bf11c1d0598_4543434772361027242.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶自己·吃饱穿暖",
+          "text": "所谓「仓廪实则知礼节，衣食足则知荣辱」，所以说，出门在外，要好好吃饭，衣裳穿暖…呃、欸？这句话不是这样的意思吗？那是什么意思呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/e76786c38fee38e6e527488b36c4dd5a_7068831072213022441.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·练枪",
+          "text": "不是我偷懒，是枪太长，又很重，练枪真的挺辛苦的…好在师父对我的要求不高，嘿嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/dbb21b73bd20c4850d49f2e26d17786f_4615966368697215404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·牵肠挂肚",
+          "text": "最近有按时吃饭吗？天冷了，有好好添衣裳吗？冒险的时候有没有遇到危险？有没有受伤？哎呀算了，要不你还是带上我吧，草行露宿，我实在有点放心不下你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/6d3b8aafea01e7224b2eed199acd6d3c_963087837134895203.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "师父是三眼五显仙人！但她告诉过我，神之眼代表着神明的认可。可我也没有做什么特别的呀？真想和神明大人聊聊天，听听她的想法呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/ae38c240ea68c1ccc200a291835d444d_4999550022678888552.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "奥赛尔？说的是海里的那个超级大的云来大章鱼吗？啊！我不是想吃，只是…如果想吃的话一定记得要烤熟了再吃…呀！不一定非要烤，只是…只是我觉得烤着会很好吃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/c39889c91cd3796053cc6ae3b4d81420_782746513971350614.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我喜欢小团雀哦，去找七七玩的时候，经常能在路上见到。我还会和它们打招呼呢！啾啾啾♪～哎呀，被你猜对了，真聪明！确实是早早早的意思哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/10dfb209d12a86a70a2f10ed3d5505e5_2251299937627957520.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "师姐她最近…没有去找什么奇怪的食材吧？上次她说要生吃云来大章鱼，可让我担心坏了，要是吃坏了肚子可怎么办呀？她又不喜欢吃白先生的苦药。我求了师父一起劝住了她，可不要又看上另一种危险的食材了…哎…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/f12c311c213c6f302ced47ca4d945594_9147142430390185096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七·好朋友",
+          "text": "七七是我最好的朋友！她有时候会忘记我，但我知道她不是故意的，只要提醒她看一下笔记，她马上就能想起来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/9b1bec0e0b84bf57ff50c599c19d23e6_2446326612910358007.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七·一辈子",
+          "text": "其实我也悄悄问过白先生，有没有办法治好她…嗯…没关系的，就算要提醒她一辈子，我也没关系的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/98c955a49dc28a34e4696fa22033f732_168060378706046472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术…",
+          "text": "白先生开的方子可有效啦。虽然苦是有点苦，但这就是所谓的「良药苦口」吧！我理解的！哎呀，你怕苦吗？别担心，我这边有蜜枣，喝完药吃一颗就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2771e2359aa990eabf6e54228468ecad_7733906721836127849.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于甘雨…",
+          "text": "甘雨姐姐的工作一直很多，听说上次她还因为劳累，不小心趴在草地上睡着了，哎，让人担心！要不…我们进行一个「突击检查」！过去看看她有没有好好照顾自己吧？啊…稍等我一下，我去准备些甘雨姐姐喜欢吃的花花草草…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/68cf80066bd6450a16129a3cb348339b_5768355460862294396.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于刻晴…",
+          "text": "刻晴姐姐为人细心，做事周全。逢年过节总会来问候师父，这就是所谓的「尊师重道」吧？还是说「知文达礼」比较合适？…总之，我也要向刻晴姐姐学习！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/59cf2ee7fc9335502ba58fe955d8e302_2633294220037979060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于云堇…",
+          "text": "云堇姐姐呀，她舞枪舞得可好啦，她表演的璃月戏也非常受欢迎，师父偶尔也会带我去看哦。只要有云堇姐姐登台，场面必是座无虚席，门不停宾…但、但…她唱的是什么意思呀？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/007f60047bd67c4285ef6998b35b1232_2010401963867632431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗姐姐的船，好气派~要不是我和甘雨姐姐约好了不往船上跑，我连要在哪里搭个小小的床铺都想好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/e7d2ebc63b06d91d498acfc228172188_4260547276335573315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于申鹤…",
+          "text": "申鹤姐姐远离世俗多年，这次好不容易回到了璃月港，难免有很多不适应的地方。我也想帮着甘雨姐姐一起照顾她…可我要怎么开口，才不会让她觉得不自在呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/738d6900e971a03c51f891e5bfc86f5d_79369201909278822.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于烟绯…",
+          "text": "烟绯姐姐有一本厚厚的法典，就连休假来探望师父的时候，都随身带着呢，真厉害呀~能一直拿着这么重的东西，还要读这么难懂的东西…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/a656961b22ee9571222cc19bb78030f0_8508629951637820958.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其一",
+          "text": "瑶瑶的出身吗？我父母隐居于山郊，唔，按道理来说，我应该算是轻策庄人吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/47869cbb60174f0868d003dfae63044d_2882514374733253862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其二",
+          "text": "我家靠种植珍贵药草为生，家父家母忙碌的时候经常会忘记做家务，甚至连吃饭都会忘记…哎，这样怎么行呀！我得照顾好他们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/98f70f35314c8376e4a29223cbe7d623_1304418544709684294.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其三",
+          "text": "我从小在山间长大，花草树木，还有小动物们都是我的朋友哦！对了，你想和小团雀聊聊天吗？我可以带你去，也可以帮你传话。来吧，很有趣的~我们先去准备点米粒给它们当做礼物！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/4a98e7776ea0231bed6fbf7ff6783206_5120943557142207318.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其四",
+          "text": "璃月到处都是仙人，我遇到过好多位呢！留云阿姨，理水叔叔…我最喜欢的就是留云阿姨啦！她送了我好多好玩的仙家物什，还细致地教我用法，让瑶瑶受益匪浅呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/5a149ffb7ba34b277b68e37a36db6c64_4588758667855773513.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其五",
+          "text": "遇见师父之后，她说我有仙缘，收我做了弟子。其实我至今还不懂仙缘到底是什么呀？但能在大家身边热热闹闹的，听师父讲故事，和师姐一起偷懒…还有帮上璃月港大家的忙，我非常知足！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/f392afec320ce7678cbe76a9ac9cf51b_1431729407402312815.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "瑶瑶的爱好…",
+          "text": "常言道，良宵苦短，胜事难逢！如果有什么好玩的事情，一定要过去看看才行呀…说不定还能遇上瑶瑶能帮上忙的事，你说对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/455e0912e2d9de9d87fd9cdaecaf95c4_4592858504780805086.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "瑶瑶的烦恼…",
+          "text": "哎、哎呀，练枪真的有点枯燥…我就和月桂玩一小会儿，休息一会儿就接着再练…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/e90c2ae7b5fb857741b372a22c42e567_3252648119425596391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "轻策农家菜、来来菜、水煮鱼…这些璃月地道的味道不仅好吃，还能让人感到热闹。嗯？你也喜欢吗？太好了，那下次来我家吃饭吧，我来露一手！别担心，我帮师姐打过下手，在烹饪上也算「师出名门」呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/74659e37ec483e3929c57a8f1263da3f_5178135561460858640.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "有次申鹤姐姐一顿清心吃多了，身体虚了好几天呢！瑶瑶要爱惜身体，不生吃清心。唔？你问我怎么知道的？是留云阿姨跟我说起的哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/97ed928c4e1635411aca4f4f37785e4e_3165762718458269772.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "太好吃啦！这厨艺简直和师姐「难舍难分」？不对，好像是「不相上下」！嘿嘿，瑶瑶一时激动，「口不择言」了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/978617513d0e9e747cbe72ea14dd4e47_5789643296752008374.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "好吃！下次做饭记得喊上我哦，让我帮你打下手吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/0a1d4d0c3562f2462ebad246a282ef79_6967587928779149120.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…哎，你平时吃的都是这些吗？要不然还是让我来给你做饭吧！吃得不好怎么能出门冒险呢，要是累到了自己、身体垮了怎么办呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/8364bfaf9d2d8df4d4dc1ec83990934b_2098110397247075835.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今日是你的生辰，按照习俗，这样的日子要来一碗长寿面，我找师姐学了一手，一整条面都没有断哦！还打了个很圆很圆的鸡蛋进去，嘿嘿。快跟我来吧，要趁热吃才好。新的一岁，愿你身体健健康康，生活圆圆满满。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/e0c9e86a3995bcd59fdbe7ae63e76c24_5404598826705504744.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "咦？枪怎么变轻了？要是能再变短点就更好了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/ab4117992bd040d6908ea9a0e4998c0d_2751933678237403872.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "哇哇，我现在说不定都能拿起师姐的枪了！真想现在就把这个好消息告诉师父~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/804b243d9bee26b7fe21e512a122d590_8379555976435788423.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "平时听大家说的「勤以立身」，就是这种感觉吧？欸？这个「勤」…不是勤奋的意思吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/757106c11d530ba0d42f99c2ba71a061_3816474257498776007.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "原来被人挂念的感觉是这样的，嗯…我能有这样的成长与变化，都是你的功劳哦！所谓投之以桃，报之以李，你放心吧，我会护你安然无虞的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/8160dc55ce2cecc371df4dbe9a84cf02_8626620992207742475.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "月桂！该上咯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/b93d2415df77756244b94859461aa645_3925012666693998759.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "不要乱动哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/178d618bbe358ef32c89f4826aacbb97_8779302875037059808.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "不怕不怕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/bf146781cb24681c81ab756af9b34daa_5376771438446890822.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "预备…跑！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/6bf5ab3e906464f4daa1a146d1563202_5885159335856366158.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "痛痛飞。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/23cae140f7e2aa364575efe74e6d9839_3621855845272175119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "要冲喽，月桂！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/669767be418c007d5b2dbf4b7083cf48_474646943793305031.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "都收好，不要落下哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/8906a40c63e496af4ac82b4ae1e2e6fc_3702663097818481229.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "都整理好啦，请拿好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/ba129d009fc2eca5bd1e6b8585a571fa_5934895226062488864.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇！这些够用好几天了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/aa1eda7863372fa01ac4381c7514a9a5_6586703930122365610.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不行不行…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/50eee1248083eb97721f88095cae2fd5_7892842461541601309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我要撑下去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/78fa73e6fd60f95e73bee5af09378609_2516719370237170095.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "没事，我可以的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/af34f5646151804a086492e999d3bff1_8121268277800575888.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "让瑶瑶保护你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/f8e11570e02126c2704e2a24a8f95228_5790172030867739362.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "人命关天，不要勉强！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/a67bdfbffc4842a17f447cfb22339ed5_1440050648068138883.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "没办法再照顾大家了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/4bc561059b1a0ed03a6de84e10f7c200_5669329393881775320.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "有辱…师门…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/ac36820526cec159b2eae14edbc8cbb2_6243900655177865005.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "枪好重…头也好重…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/49d04d95c4842e8dfeb7ddded8225f86_3657987300051219746.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "痛痛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/dcd0805b1d9b02ca6c684d6fb307ac3d_2622461242190631105.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "好痛好痛…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/6aa6d8c163f44907ca2adb37593f9328_3147195060552103985.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "我会照顾好大家的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/d635f564aaa4d3e97d8202b9eb54abdb_2494005338180229056.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我来领路，跟我走吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/0071121d38c0966a974ec9bf585cde98_8669909603843465315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我在，不用担心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/4a8141236b743de2d38aefa81d73fd21_5714216922338222114.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "初次见面，我是瑶瑶，忝列门墙，师从歌尘浪市真君。出门在外，若有不便…请叫上我！瑶瑶有礼了。对了，我这里有炸萝卜丸子，吃一点吧！但是不可以多吃哦，油腻的东西吃多了对身体的负担会增加的。如果没吃饱，我还带了洗干净的萝卜和醋，可以给你凉拌萝卜丝吃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/395ea76132aec9dff9da59c02942b15f_8615111570710127805.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·大道理",
+          "text": "「明日复明日，明日何其多…」总之，快快行动起来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/da7892ac861e0275e346dd2c39dbe824_1983472339302079098.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·凑热闹",
+          "text": "那边好像有什么动静，偷偷看一眼的话，应该没事吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/52db3124c7050ce5bec10a5d4359a4c4_4001052847950906531.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·寻仙问道",
+          "text": "真奇怪，为什么总有人想寻仙问道呢？仙人不是到处都是吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/126282a0026d028b2c06f2ead62927a0_4293383431180720244.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "你听，青蛙的叫声，像不像在给雨声伴奏？呱呱呱。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/ebceb39495d1e3fe51762aa5e155e622_490853373157953592.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "呜、呜哇！我、我帮你捂住耳朵，害怕的话就抓紧我的手。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/4f78d122dc546974a43a3cf33b7b5d5c_7394068183099004034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "下——雪——啦——！你先穿上毛茸茸的外套，戴上厚厚的帽子和围巾，喏，别忘了还有手套，我们再去堆雪人吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/c482c4f381b6485bbd3a052af3165e2d_4841457828994574576.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气很好呢，我们去璃月港的码头逛逛吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/1dee73dad7dba4a7fccbaa5682d66343_3588362787370628288.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "小心哦，别被风吹走啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2022f28f230496e8348e4b2d27b4e6d6_7554466538539868119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "该起床啦，我已经准备好早饭了，你动作快些…欸、欸？回笼觉吗？那好吧，只能再多睡五分钟哦！五分钟后我再来叫你~哎，早知道就该提醒你早点睡…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2c00b6746813816abad67435af84fb06_2619256832489762749.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "你要记住哦~吃完午饭后，不要立刻躺下午睡，也不能马上动身冒险，这些都对消化不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/5afc36eb0ef84a504a714cb00a36345c_4637421398590344811.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "欸？晚上还要出门吗？唔…什么时候才能回来呀？天色已晚，小心为上哦~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/64aa206a1312d7eaefb77fef64786288_8898503917498062322.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "睡前故事…上回和你…说、说到哪里来着…璃月自古时起…便有三眼五显仙人守护，其、其中…呼呼…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/761ee166910751158f06fff30b4b0911_3401174823158566813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶自己·璃月码头",
+          "text": "你知道吗？璃月港的码头，总是人声鼎沸，可热闹了！和我家那种静到叶子掉在地上都能听见的感觉完全不一样呢！所以，我一有空就爱跑去码头看看。新来的船，新鲜的见闻…还有新玩具！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/519be6c024ca1004774a39a94b32bf03_3167173298573844252.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶自己·吃饱穿暖",
+          "text": "所谓「仓廪实则知礼节，衣食足则知荣辱」，所以说，出门在外，要好好吃饭，衣裳穿暖…呃、欸？这句话不是这样的意思吗？那是什么意思呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/e84fff3d09ea7d03d8460a868f92a946_2380236533103104374.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·练枪",
+          "text": "不是我偷懒，是枪太长，又很重，练枪真的挺辛苦的…好在师父对我的要求不高，嘿嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/9b84a8e1d89ab7cb21fc2115421ca334_8703495711335839055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·牵肠挂肚",
+          "text": "最近有按时吃饭吗？天冷了，有好好添衣裳吗？冒险的时候有没有遇到危险？有没有受伤？哎呀算了，要不你还是带上我吧，草行露宿，我实在有点放心不下你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/bd3fcf822eecec07f2bce9400f28ef43_2934189543451517972.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "师父是三眼五显仙人！但她告诉过我，神之眼代表着神明的认可。可我也没有做什么特别的呀？真想和神明大人聊聊天，听听她的想法呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/b8e81381b5d9a41a20fa96473f20b27f_4179223396361501876.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "奥赛尔？说的是海里的那个超级大的云来大章鱼吗？啊！我不是想吃，只是…如果想吃的话一定记得要烤熟了再吃…呀！不一定非要烤，只是…只是我觉得烤着会很好吃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2e57b8ac4f8fb66a1b39063c76d0c26e_2438417375655649762.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我喜欢小团雀哦，去找七七玩的时候，经常能在路上见到。我还会和它们打招呼呢！啾啾啾♪～哎呀，被你猜对了，真聪明！确实是早早早的意思哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/5893a7a87e4d45b4b30a59bde985ee20_7750138232628432448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "师姐她最近…没有去找什么奇怪的食材吧？上次她说要生吃云来大章鱼，可让我担心坏了，要是吃坏了肚子可怎么办呀？她又不喜欢吃白先生的苦药。我求了师父一起劝住了她，可不要又看上另一种危险的食材了…哎…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/a1c78128494ea0e2f182c4ee935fa946_5147988569528254482.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七·好朋友",
+          "text": "七七是我最好的朋友！她有时候会忘记我，但我知道她不是故意的，只要提醒她看一下笔记，她马上就能想起来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/b0f060f283692a2058bd118da47e475e_304534637682701921.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七·一辈子",
+          "text": "其实我也悄悄问过白先生，有没有办法治好她…嗯…没关系的，就算要提醒她一辈子，我也没关系的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/0d2b54d0d00d4fbd6bfab7865602d95a_7953000570600154825.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术…",
+          "text": "白先生开的方子可有效啦。虽然苦是有点苦，但这就是所谓的「良药苦口」吧！我理解的！哎呀，你怕苦吗？别担心，我这边有蜜枣，喝完药吃一颗就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/716937de450742ece5266a21b7b0252a_2224032351282111116.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于甘雨…",
+          "text": "甘雨姐姐的工作一直很多，听说上次她还因为劳累，不小心趴在草地上睡着了，哎，让人担心！要不…我们进行一个「突击检查」！过去看看她有没有好好照顾自己吧？啊…稍等我一下，我去准备些甘雨姐姐喜欢吃的花花草草…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/ede15546f85d1f9c2a27447f805450db_6974117509834612027.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于刻晴…",
+          "text": "刻晴姐姐为人细心，做事周全。逢年过节总会来问候师父，这就是所谓的「尊师重道」吧？还是说「知文达礼」比较合适？…总之，我也要向刻晴姐姐学习！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/07e9fb32f4ce107a23a80d662900c449_6974226946987215955.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于云堇…",
+          "text": "云堇姐姐呀，她舞枪舞得可好啦，她表演的璃月戏也非常受欢迎，师父偶尔也会带我去看哦。只要有云堇姐姐登台，场面必是座无虚席，门不停宾…但、但…她唱的是什么意思呀？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/3e5ec0c2824188c0a8d4721aa56c344c_5303128749733806139.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗姐姐的船，好气派~要不是我和甘雨姐姐约好了不往船上跑，我连要在哪里搭个小小的床铺都想好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/3bee5941e9fd0243dad50a09e98af198_5566488677057611417.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于申鹤…",
+          "text": "申鹤姐姐远离世俗多年，这次好不容易回到了璃月港，难免有很多不适应的地方。我也想帮着甘雨姐姐一起照顾她…可我要怎么开口，才不会让她觉得不自在呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/a466faba3426974120c5fd2f800309d9_7942102098489112329.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于烟绯…",
+          "text": "烟绯姐姐有一本厚厚的法典，就连休假来探望师父的时候，都随身带着呢，真厉害呀~能一直拿着这么重的东西，还要读这么难懂的东西…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/0cc7be72a718e820412c5d63c65cdea0_3040176738187680730.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其一",
+          "text": "瑶瑶的出身吗？我父母隐居于山郊，唔，按道理来说，我应该算是轻策庄人吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/658e0fe4e4eef1b6e7d1571c08211bb0_2970390698594369244.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其二",
+          "text": "我家靠种植珍贵药草为生，家父家母忙碌的时候经常会忘记做家务，甚至连吃饭都会忘记…哎，这样怎么行呀！我得照顾好他们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/ebfa6ec894580d6ec3a33045ce812ec7_5793671769147955548.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其三",
+          "text": "我从小在山间长大，花草树木，还有小动物们都是我的朋友哦！对了，你想和小团雀聊聊天吗？我可以带你去，也可以帮你传话。来吧，很有趣的~我们先去准备点米粒给它们当做礼物！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/e6be9c1b702818a433a7135343743107_4644336692919945306.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其四",
+          "text": "璃月到处都是仙人，我遇到过好多位呢！留云阿姨，理水叔叔…我最喜欢的就是留云阿姨啦！她送了我好多好玩的仙家物什，还细致地教我用法，让瑶瑶受益匪浅呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/be5c30617abdfe9dde882e262e0f8db2_7262772692583270060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其五",
+          "text": "遇见师父之后，她说我有仙缘，收我做了弟子。其实我至今还不懂仙缘到底是什么呀？但能在大家身边热热闹闹的，听师父讲故事，和师姐一起偷懒…还有帮上璃月港大家的忙，我非常知足！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/5ea24b42589d4d4545740ef01118427c_8840386186646081888.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "瑶瑶的爱好…",
+          "text": "常言道，良宵苦短，胜事难逢！如果有什么好玩的事情，一定要过去看看才行呀…说不定还能遇上瑶瑶能帮上忙的事，你说对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/34c9e4ea64c6123c64d86250209e490e_3393059240761697567.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "瑶瑶的烦恼…",
+          "text": "哎、哎呀，练枪真的有点枯燥…我就和月桂玩一小会儿，休息一会儿就接着再练…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/90e473cad0ead2eb7c9d9b8d963ea3c8_3245960199065794563.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "轻策农家菜、来来菜、水煮鱼…这些璃月地道的味道不仅好吃，还能让人感到热闹。嗯？你也喜欢吗？太好了，那下次来我家吃饭吧，我来露一手！别担心，我帮师姐打过下手，在烹饪上也算「师出名门」呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/5c88b1d6aa67a8e2315835aa3f432636_1845363438224682490.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "有次申鹤姐姐一顿清心吃多了，身体虚了好几天呢！瑶瑶要爱惜身体，不生吃清心。唔？你问我怎么知道的？是留云阿姨跟我说起的哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/a9565ff64110d472ee81cb45a707acdb_6895076301352146982.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "太好吃啦！这厨艺简直和师姐「难舍难分」？不对，好像是「不相上下」！嘿嘿，瑶瑶一时激动，「口不择言」了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/b458460ed763117e4a19894d1e9bd554_3278601193680606950.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "好吃！下次做饭记得喊上我哦，让我帮你打下手吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2d2ee2fa068b38ce47a300a4bec8c409_6074258635010723600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…哎，你平时吃的都是这些吗？要不然还是让我来给你做饭吧！吃得不好怎么能出门冒险呢，要是累到了自己、身体垮了怎么办呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2b0ecf26c563c4dc81a992bb86152f2b_3151559545962664049.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今日是你的生辰，按照习俗，这样的日子要来一碗长寿面，我找师姐学了一手，一整条面都没有断哦！还打了个很圆很圆的鸡蛋进去，嘿嘿。快跟我来吧，要趁热吃才好。新的一岁，愿你身体健健康康，生活圆圆满满。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/97c3c0d01bda827d159a3d38085ad606_5355668104927755041.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "咦？枪怎么变轻了？要是能再变短点就更好了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/d6fbb386cc777c2052a2ee4b9158a02a_8282648145155187208.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "哇哇，我现在说不定都能拿起师姐的枪了！真想现在就把这个好消息告诉师父~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/c05503d7b86bcd53d7ba6e2aa523c781_40924606793733412.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "平时听大家说的「勤以立身」，就是这种感觉吧？欸？这个「勤」…不是勤奋的意思吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/148b454d0b8b70394a2de221bb351725_6891044266184565731.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "原来被人挂念的感觉是这样的，嗯…我能有这样的成长与变化，都是你的功劳哦！所谓投之以桃，报之以李，你放心吧，我会护你安然无虞的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/b6d2de6555e307d7d1adf3cfa1af08ae_3823580149112451036.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "月桂！该上咯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/94096f08b757531b725380d840d440b3_6504663814794516704.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "不要乱动哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/66f91144330c856f37eb8ca92572167a_8479017490914405352.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "不怕不怕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/dde2c1fc29333def989a85f892824ac2_5505600719668794918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "预备…跑！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/80bfaacf3da43d406e4aa2dd2b14e166_4308475852647508543.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "痛痛飞。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/d2baa7f43f02f036c5f0b8bee3c3115e_8166276341753157537.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "要冲喽，月桂！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/9ca2672fed4ff1dda71bc53dab8ceba7_4995153191438801547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "都收好，不要落下哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/87400e1079954503e038be38d4c10cb7_1588505792756333175.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "都整理好啦，请拿好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/d56cb815be888f12d9036324ff2107da_8316000355146214281.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇！这些够用好几天了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/25ee82111e8884230e9552ede2d368c6_6198235604543470181.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不行不行…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/cbded55de3a3ce85abf4bc4396f89867_6124459688129916707.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我要撑下去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/1de995cea4ab4d76500e6d6c8359c603_5927178282321608322.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "没事，我可以的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/b973241f3fc1eff41ce6b3c407e92d45_3279960572218756337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "让瑶瑶保护你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/35ba4c9cc9e608bb28fe9d58520b6ec9_4298332480013089523.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "人命关天，不要勉强！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/de0465daeeec568609cf4fc8924ad71d_8410302742122689233.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "没办法再照顾大家了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/282a3a578899c9e48924e34b7a4d50b6_4035205636396201262.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "有辱…师门…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/5bfabcce4f3352382cf8191bba1ecd1b_875302201386469055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "枪好重…头也好重…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/f01a324af8b516a4796e9c4ab93daf83_5451956667663594193.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "痛痛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/225b533cac8e5911734e507d46ffeb21_2617544834328568984.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "好痛好痛…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/49799a5b511961b5f4dfa145ecda4962_1623486877873571692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "我会照顾好大家的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/69e4c8bc2b317b926afe11367fbc7775_2623784017790331473.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我来领路，跟我走吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/7e8a5e03fe815fe7fb6d71aabb97b2ec_3042993190577607149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我在，不用担心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/402b882c4e43aa855acd78a1e4061581_1477966994640726942.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "初次见面，我是瑶瑶，忝列门墙，师从歌尘浪市真君。出门在外，若有不便…请叫上我！瑶瑶有礼了。对了，我这里有炸萝卜丸子，吃一点吧！但是不可以多吃哦，油腻的东西吃多了对身体的负担会增加的。如果没吃饱，我还带了洗干净的萝卜和醋，可以给你凉拌萝卜丝吃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/f7acf071f422d5e7dd526e4c84c83343_8561856958137757419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·大道理",
+          "text": "「明日复明日，明日何其多…」总之，快快行动起来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/0b0dfce2e0803f3863f4018faab2e052_5483775840040096014.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·凑热闹",
+          "text": "那边好像有什么动静，偷偷看一眼的话，应该没事吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/00fbbf085d78607aefbdeb9e5c628311_6152222650769514905.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·寻仙问道",
+          "text": "真奇怪，为什么总有人想寻仙问道呢？仙人不是到处都是吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/dc19b8454d23590bca7e42b2601d278d_9170051309705252275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "你听，青蛙的叫声，像不像在给雨声伴奏？呱呱呱。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/42a76940bb661938c1d4089e99cc5f2c_7422898081142911645.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "呜、呜哇！我、我帮你捂住耳朵，害怕的话就抓紧我的手。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/9170edd40c6dc39fd70c0f1a5fa20e5c_3349804832992187812.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "下——雪——啦——！你先穿上毛茸茸的外套，戴上厚厚的帽子和围巾，喏，别忘了还有手套，我们再去堆雪人吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/3adbc2c06ff424cceab34b7e134684b0_3830497594519778442.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气很好呢，我们去璃月港的码头逛逛吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/6b993c2c124cd4cf69e7a0198b667a86_1350871662478860158.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "小心哦，别被风吹走啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/e1317849af85366cbdc90035511e4a35_7086509205775425272.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "该起床啦，我已经准备好早饭了，你动作快些…欸、欸？回笼觉吗？那好吧，只能再多睡五分钟哦！五分钟后我再来叫你~哎，早知道就该提醒你早点睡…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/3c584dec3f886d550bedb43c14432e63_5084467078823948119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "你要记住哦~吃完午饭后，不要立刻躺下午睡，也不能马上动身冒险，这些都对消化不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/33a34400de2f2a493cdae0069baee502_1455617652344574730.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "欸？晚上还要出门吗？唔…什么时候才能回来呀？天色已晚，小心为上哦~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/8b40beac7d606cc4c01c3d875ec4b86f_7934997803731863437.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "睡前故事…上回和你…说、说到哪里来着…璃月自古时起…便有三眼五显仙人守护，其、其中…呼呼…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/6b5b549a27a41550439ef086ff5b2152_2542784878931659722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶自己·璃月码头",
+          "text": "你知道吗？璃月港的码头，总是人声鼎沸，可热闹了！和我家那种静到叶子掉在地上都能听见的感觉完全不一样呢！所以，我一有空就爱跑去码头看看。新来的船，新鲜的见闻…还有新玩具！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/49882716d7c771291dcc6ddcf0fe83a5_7816832116490287528.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶自己·吃饱穿暖",
+          "text": "所谓「仓廪实则知礼节，衣食足则知荣辱」，所以说，出门在外，要好好吃饭，衣裳穿暖…呃、欸？这句话不是这样的意思吗？那是什么意思呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/aa5e6d0eefefa4c6136a6601c763cbb9_3478278138742496174.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·练枪",
+          "text": "不是我偷懒，是枪太长，又很重，练枪真的挺辛苦的…好在师父对我的要求不高，嘿嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/d03db40b2e0527235814a474fb387fbd_8896245484284782951.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·牵肠挂肚",
+          "text": "最近有按时吃饭吗？天冷了，有好好添衣裳吗？冒险的时候有没有遇到危险？有没有受伤？哎呀算了，要不你还是带上我吧，草行露宿，我实在有点放心不下你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/59deb36223295aa7ef4e9d532c793b3c_4058713197298344596.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "师父是三眼五显仙人！但她告诉过我，神之眼代表着神明的认可。可我也没有做什么特别的呀？真想和神明大人聊聊天，听听她的想法呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/f54e56445e337cfd25cc31605d3f8e63_2638992846108334524.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "奥赛尔？说的是海里的那个超级大的云来大章鱼吗？啊！我不是想吃，只是…如果想吃的话一定记得要烤熟了再吃…呀！不一定非要烤，只是…只是我觉得烤着会很好吃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/ebc1155f0f4a23f04ad4e55ff3b1f7f3_726073010346656558.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我喜欢小团雀哦，去找七七玩的时候，经常能在路上见到。我还会和它们打招呼呢！啾啾啾♪～哎呀，被你猜对了，真聪明！确实是早早早的意思哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/d450f12d846684d2a2a13281c941440c_6399913447328756854.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "师姐她最近…没有去找什么奇怪的食材吧？上次她说要生吃云来大章鱼，可让我担心坏了，要是吃坏了肚子可怎么办呀？她又不喜欢吃白先生的苦药。我求了师父一起劝住了她，可不要又看上另一种危险的食材了…哎…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/32ea4e9eaf85a4a91859558267cabd04_9037913097042143479.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七·好朋友",
+          "text": "七七是我最好的朋友！她有时候会忘记我，但我知道她不是故意的，只要提醒她看一下笔记，她马上就能想起来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/e024a338b2a9d43c02ad8c07a90440f7_4387495725763678046.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七·一辈子",
+          "text": "其实我也悄悄问过白先生，有没有办法治好她…嗯…没关系的，就算要提醒她一辈子，我也没关系的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2ecdec754ead89c71b77d272035edfcd_9158841098571969808.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术…",
+          "text": "白先生开的方子可有效啦。虽然苦是有点苦，但这就是所谓的「良药苦口」吧！我理解的！哎呀，你怕苦吗？别担心，我这边有蜜枣，喝完药吃一颗就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/fb8a49f221a2748f82c3270c61da0352_3646736691342063856.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于甘雨…",
+          "text": "甘雨姐姐的工作一直很多，听说上次她还因为劳累，不小心趴在草地上睡着了，哎，让人担心！要不…我们进行一个「突击检查」！过去看看她有没有好好照顾自己吧？啊…稍等我一下，我去准备些甘雨姐姐喜欢吃的花花草草…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/56d699b67a9b4811ad3d40054e76497d_8673091753021714395.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于刻晴…",
+          "text": "刻晴姐姐为人细心，做事周全。逢年过节总会来问候师父，这就是所谓的「尊师重道」吧？还是说「知文达礼」比较合适？…总之，我也要向刻晴姐姐学习！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/28a2d17ea8f68ffe3913fa8078110463_6016304964379723085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于云堇…",
+          "text": "云堇姐姐呀，她舞枪舞得可好啦，她表演的璃月戏也非常受欢迎，师父偶尔也会带我去看哦。只要有云堇姐姐登台，场面必是座无虚席，门不停宾…但、但…她唱的是什么意思呀？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/3c5114356da73692c9ad9d605255969d_4335815572329463583.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗姐姐的船，好气派~要不是我和甘雨姐姐约好了不往船上跑，我连要在哪里搭个小小的床铺都想好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2d65601eb3ccd0c2d1269ec85bec190a_115059783309183583.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于申鹤…",
+          "text": "申鹤姐姐远离世俗多年，这次好不容易回到了璃月港，难免有很多不适应的地方。我也想帮着甘雨姐姐一起照顾她…可我要怎么开口，才不会让她觉得不自在呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/88e39b15171dce6cf900e9ab3dcb9692_3278180844036689388.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于烟绯…",
+          "text": "烟绯姐姐有一本厚厚的法典，就连休假来探望师父的时候，都随身带着呢，真厉害呀~能一直拿着这么重的东西，还要读这么难懂的东西…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/fe4725b1cb63d12236ae6527252de99f_2031674856008206504.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其一",
+          "text": "瑶瑶的出身吗？我父母隐居于山郊，唔，按道理来说，我应该算是轻策庄人吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/baf490b4e087e58f20bccca50f4a49a1_7278703184060561955.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其二",
+          "text": "我家靠种植珍贵药草为生，家父家母忙碌的时候经常会忘记做家务，甚至连吃饭都会忘记…哎，这样怎么行呀！我得照顾好他们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/55660afaae1ba3ffb8fd8e52ecbb7da3_8294323800953874825.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其三",
+          "text": "我从小在山间长大，花草树木，还有小动物们都是我的朋友哦！对了，你想和小团雀聊聊天吗？我可以带你去，也可以帮你传话。来吧，很有趣的~我们先去准备点米粒给它们当做礼物！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/5ca1c57cc9374f7cb91ed9927a398879_3762658064336804273.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其四",
+          "text": "璃月到处都是仙人，我遇到过好多位呢！留云阿姨，理水叔叔…我最喜欢的就是留云阿姨啦！她送了我好多好玩的仙家物什，还细致地教我用法，让瑶瑶受益匪浅呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/00f90cd2e861fdbe47e5ff83f22343db_607540431932832121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其五",
+          "text": "遇见师父之后，她说我有仙缘，收我做了弟子。其实我至今还不懂仙缘到底是什么呀？但能在大家身边热热闹闹的，听师父讲故事，和师姐一起偷懒…还有帮上璃月港大家的忙，我非常知足！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2ef18cb86d715e74d4282d616b0e1cc1_1026354495313691060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "瑶瑶的爱好…",
+          "text": "常言道，良宵苦短，胜事难逢！如果有什么好玩的事情，一定要过去看看才行呀…说不定还能遇上瑶瑶能帮上忙的事，你说对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/76283b4f1129efcf820b5894a158a2dd_1810705267039898895.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "瑶瑶的烦恼…",
+          "text": "哎、哎呀，练枪真的有点枯燥…我就和月桂玩一小会儿，休息一会儿就接着再练…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/dd1ec2ca6fa6aab828b0d13f9d2b69b3_6300382490542446358.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "轻策农家菜、来来菜、水煮鱼…这些璃月地道的味道不仅好吃，还能让人感到热闹。嗯？你也喜欢吗？太好了，那下次来我家吃饭吧，我来露一手！别担心，我帮师姐打过下手，在烹饪上也算「师出名门」呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/77a2d2f3eac7f38d6f85d9b309d80f10_5071878426333743643.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "有次申鹤姐姐一顿清心吃多了，身体虚了好几天呢！瑶瑶要爱惜身体，不生吃清心。唔？你问我怎么知道的？是留云阿姨跟我说起的哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/b1a332c04b76aa6b88d4030acc5d7c4b_6934178913522184468.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "太好吃啦！这厨艺简直和师姐「难舍难分」？不对，好像是「不相上下」！嘿嘿，瑶瑶一时激动，「口不择言」了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/88f16d1a3aba116a51bb92e585d5ecd5_8133552991358332718.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "好吃！下次做饭记得喊上我哦，让我帮你打下手吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2077dec548dceece1998fd2fa2c79e7b_929905383280281439.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…哎，你平时吃的都是这些吗？要不然还是让我来给你做饭吧！吃得不好怎么能出门冒险呢，要是累到了自己、身体垮了怎么办呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/bc6cd835f2e4bc1376c2c986a4c59486_8338430352996332914.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今日是你的生辰，按照习俗，这样的日子要来一碗长寿面，我找师姐学了一手，一整条面都没有断哦！还打了个很圆很圆的鸡蛋进去，嘿嘿。快跟我来吧，要趁热吃才好。新的一岁，愿你身体健健康康，生活圆圆满满。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/8a04eab4f3406afb722b197480c0d733_5836835948565749393.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "咦？枪怎么变轻了？要是能再变短点就更好了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/0a469f10d2457e211d1ceef338624eee_5058307080525938456.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "哇哇，我现在说不定都能拿起师姐的枪了！真想现在就把这个好消息告诉师父~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/3e63ca1234822707705fef218519decd_8891868699133660304.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "平时听大家说的「勤以立身」，就是这种感觉吧？欸？这个「勤」…不是勤奋的意思吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/91aa270e1539cae80b7e28ffcbb690f8_8824316014871424908.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "原来被人挂念的感觉是这样的，嗯…我能有这样的成长与变化，都是你的功劳哦！所谓投之以桃，报之以李，你放心吧，我会护你安然无虞的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/c509d69b42aad66f9765bf1286ce855c_677202531955651867.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "月桂！该上咯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/fe943d2f633c84c3db554913277594c2_2602615962957865666.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "不要乱动哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/95d3791137eef3ce03224662ac053f3d_579303842751450897.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "不怕不怕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/7cf19608a63d51b92c8f9cca13447bfc_6854688772137727073.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "预备…跑！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/f057b623692505e2b6f9151cc9339767_8503193383885824305.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "痛痛飞。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/4702d028c220526427b444f34ce46faa_6965447061127990283.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "要冲喽，月桂！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/162b88e521796e1c60c8fb852fc2df17_8855250277998563701.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "都收好，不要落下哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/423859f7a0edb660c68a77c6d945394e_4395922839245097869.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "都整理好啦，请拿好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/494b0641fbede3be820fa98501e26272_1006475786662596347.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇！这些够用好几天了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/4649c112970b60a8b8e6cff066967953_795442299637598587.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不行不行…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/20899658d5bd8786d60a38c734ed21ab_1592017012538635589.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我要撑下去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/8cdd6c47a042e9fa43ac71d44b32e969_6607353668166000080.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "没事，我可以的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/49302e7b404aeb54a67f7edbe61e547d_9108127680220817236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "让瑶瑶保护你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/475f36c05749adc369072356fdf0a407_7630952674108354072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "人命关天，不要勉强！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2c04e02cf389fe5a5ebf96fb097a40bf_4646878580177943702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "没办法再照顾大家了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/42f71dbe4f7dd6cd793d0517b3eee461_648119480268398972.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "有辱…师门…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/5de6efa5f96f43ec86d79f108a5633b0_7556626220637215219.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "枪好重…头也好重…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/509c09c11e087b016555ba4ed0ca340b_5211662329021739634.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "痛痛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/e98d214295582c80951c87dc53673bd4_5276804383428574186.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "好痛好痛…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/d97fe3c0d0dd26264a435aa576ce1bfa_4062098290780785828.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "我会照顾好大家的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/5807bf16aa3ed9573b8814824c683c84_7457775384031686938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我来领路，跟我走吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/6730373f037d252f4f2b343bd4bb4dda_449050667981075985.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我在，不用担心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/b92f2e1f432da835eab499c771f270c1_8954987840414623983.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "初次见面，我是瑶瑶，忝列门墙，师从歌尘浪市真君。出门在外，若有不便…请叫上我！瑶瑶有礼了。对了，我这里有炸萝卜丸子，吃一点吧！但是不可以多吃哦，油腻的东西吃多了对身体的负担会增加的。如果没吃饱，我还带了洗干净的萝卜和醋，可以给你凉拌萝卜丝吃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/77a8dd9344dfaa6d1446fb72bb1dc5d1_2826451447350980501.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·大道理",
+          "text": "「明日复明日，明日何其多…」总之，快快行动起来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/575d849d7d0783cb162a31c5e67aa67d_5356672953955505840.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·凑热闹",
+          "text": "那边好像有什么动静，偷偷看一眼的话，应该没事吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/b27f4e926d1efcc22bb9161c28ab2e77_5434643100242840301.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·寻仙问道",
+          "text": "真奇怪，为什么总有人想寻仙问道呢？仙人不是到处都是吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/c2418c619c3d03c9d6fc09c21e09953f_2454254604561135254.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "你听，青蛙的叫声，像不像在给雨声伴奏？呱呱呱。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/c613cbecf65fc91f6fc64f92921c86f4_2550706725925814234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "呜、呜哇！我、我帮你捂住耳朵，害怕的话就抓紧我的手。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/a6db82b6f2345276d8a9b6a23fc20369_2285685285052564626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "下——雪——啦——！你先穿上毛茸茸的外套，戴上厚厚的帽子和围巾，喏，别忘了还有手套，我们再去堆雪人吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/9041521f3d45862be4ba06ffa08d1b2f_4525405868859381175.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气很好呢，我们去璃月港的码头逛逛吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/44dafcf0e71ce97ffd2227918fe78ee8_2589553244247790391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "小心哦，别被风吹走啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/fe77db274b5c8b26c6a217e3e68f961d_31277921730763479.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "该起床啦，我已经准备好早饭了，你动作快些…欸、欸？回笼觉吗？那好吧，只能再多睡五分钟哦！五分钟后我再来叫你~哎，早知道就该提醒你早点睡…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/e6e23d521056b14d07acb75126a785ac_7303695931739290412.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "你要记住哦~吃完午饭后，不要立刻躺下午睡，也不能马上动身冒险，这些都对消化不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/88d1ff6159635ce14a44da2ccba2b2de_7842386775935847658.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "欸？晚上还要出门吗？唔…什么时候才能回来呀？天色已晚，小心为上哦~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/f0c6bd32376d15406773670b017f88ee_7390972818879673175.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "睡前故事…上回和你…说、说到哪里来着…璃月自古时起…便有三眼五显仙人守护，其、其中…呼呼…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/c3e67edc0312bd842834f5abbb320869_2352372464451891423.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶自己·璃月码头",
+          "text": "你知道吗？璃月港的码头，总是人声鼎沸，可热闹了！和我家那种静到叶子掉在地上都能听见的感觉完全不一样呢！所以，我一有空就爱跑去码头看看。新来的船，新鲜的见闻…还有新玩具！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/312a6506a10656286bd6a3042e6870b8_6538740612257062732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶自己·吃饱穿暖",
+          "text": "所谓「仓廪实则知礼节，衣食足则知荣辱」，所以说，出门在外，要好好吃饭，衣裳穿暖…呃、欸？这句话不是这样的意思吗？那是什么意思呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/048e9a27585c16ebf61198e98214ef70_5029811697212826067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·练枪",
+          "text": "不是我偷懒，是枪太长，又很重，练枪真的挺辛苦的…好在师父对我的要求不高，嘿嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/3cb48f02e24ae267f28d10e4c9fffe41_2379515008331621393.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·牵肠挂肚",
+          "text": "最近有按时吃饭吗？天冷了，有好好添衣裳吗？冒险的时候有没有遇到危险？有没有受伤？哎呀算了，要不你还是带上我吧，草行露宿，我实在有点放心不下你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/4be55b33fb7942041a8e3e5cf3abeee2_6044723258111663909.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "师父是三眼五显仙人！但她告诉过我，神之眼代表着神明的认可。可我也没有做什么特别的呀？真想和神明大人聊聊天，听听她的想法呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/489d05e4b455c26d9e5b43a6e1f63522_1723944622768835903.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "奥赛尔？说的是海里的那个超级大的云来大章鱼吗？啊！我不是想吃，只是…如果想吃的话一定记得要烤熟了再吃…呀！不一定非要烤，只是…只是我觉得烤着会很好吃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/fa978af4e593a6266f45330af6cb0892_705963424677038591.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我喜欢小团雀哦，去找七七玩的时候，经常能在路上见到。我还会和它们打招呼呢！啾啾啾♪～哎呀，被你猜对了，真聪明！确实是早早早的意思哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2d158703b970f4ad33e5819a265483e0_7502251188563274639.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "师姐她最近…没有去找什么奇怪的食材吧？上次她说要生吃云来大章鱼，可让我担心坏了，要是吃坏了肚子可怎么办呀？她又不喜欢吃白先生的苦药。我求了师父一起劝住了她，可不要又看上另一种危险的食材了…哎…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/962d265ca0269b02e614a990a07260ff_830134872372838924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七·好朋友",
+          "text": "七七是我最好的朋友！她有时候会忘记我，但我知道她不是故意的，只要提醒她看一下笔记，她马上就能想起来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/adb2c4b3fcaeac395d2a4e54991b92d3_4363818439325177327.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七·一辈子",
+          "text": "其实我也悄悄问过白先生，有没有办法治好她…嗯…没关系的，就算要提醒她一辈子，我也没关系的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/36c47c098b96e4bb0bf1bbe937751b1e_81256625217832149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术…",
+          "text": "白先生开的方子可有效啦。虽然苦是有点苦，但这就是所谓的「良药苦口」吧！我理解的！哎呀，你怕苦吗？别担心，我这边有蜜枣，喝完药吃一颗就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/306e70f7edd3c9d91bdc79b8698b3a78_4695512166117111925.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于甘雨…",
+          "text": "甘雨姐姐的工作一直很多，听说上次她还因为劳累，不小心趴在草地上睡着了，哎，让人担心！要不…我们进行一个「突击检查」！过去看看她有没有好好照顾自己吧？啊…稍等我一下，我去准备些甘雨姐姐喜欢吃的花花草草…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/6678639527eb5d26eea4b56db0295ac3_3336483103015273277.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于刻晴…",
+          "text": "刻晴姐姐为人细心，做事周全。逢年过节总会来问候师父，这就是所谓的「尊师重道」吧？还是说「知文达礼」比较合适？…总之，我也要向刻晴姐姐学习！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/27cdb3ab8f970be17e2b907666befdc1_6777404046920143838.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于云堇…",
+          "text": "云堇姐姐呀，她舞枪舞得可好啦，她表演的璃月戏也非常受欢迎，师父偶尔也会带我去看哦。只要有云堇姐姐登台，场面必是座无虚席，门不停宾…但、但…她唱的是什么意思呀？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/037a0ebad0639ab9aed0ec23365d079a_5303600293110742702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗姐姐的船，好气派~要不是我和甘雨姐姐约好了不往船上跑，我连要在哪里搭个小小的床铺都想好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/1c61408e0066f7d7281fec36b1880168_2102089230099970600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于申鹤…",
+          "text": "申鹤姐姐远离世俗多年，这次好不容易回到了璃月港，难免有很多不适应的地方。我也想帮着甘雨姐姐一起照顾她…可我要怎么开口，才不会让她觉得不自在呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/4ded1ee6fdbd3395417b9b1c795e01c5_5150549388577419513.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于烟绯…",
+          "text": "烟绯姐姐有一本厚厚的法典，就连休假来探望师父的时候，都随身带着呢，真厉害呀~能一直拿着这么重的东西，还要读这么难懂的东西…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/358a827a943b3de665fcaff0adc083a7_2031080781716857535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其一",
+          "text": "瑶瑶的出身吗？我父母隐居于山郊，唔，按道理来说，我应该算是轻策庄人吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/621ad7700ca924f0c9beb14b47d6ceb2_2770858639147801333.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其二",
+          "text": "我家靠种植珍贵药草为生，家父家母忙碌的时候经常会忘记做家务，甚至连吃饭都会忘记…哎，这样怎么行呀！我得照顾好他们。",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其三",
+          "text": "我从小在山间长大，花草树木，还有小动物们都是我的朋友哦！对了，你想和小团雀聊聊天吗？我可以带你去，也可以帮你传话。来吧，很有趣的~我们先去准备点米粒给它们当做礼物！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/576279b7ec7e24d5af83b44dea298b0c_4704520504141371717.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其四",
+          "text": "璃月到处都是仙人，我遇到过好多位呢！留云阿姨，理水叔叔…我最喜欢的就是留云阿姨啦！她送了我好多好玩的仙家物什，还细致地教我用法，让瑶瑶受益匪浅呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/1a2c0cfb72c47d83b27daefb76432ae4_8703495711335839055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解瑶瑶·其五",
+          "text": "遇见师父之后，她说我有仙缘，收我做了弟子。其实我至今还不懂仙缘到底是什么呀？但能在大家身边热热闹闹的，听师父讲故事，和师姐一起偷懒…还有帮上璃月港大家的忙，我非常知足！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/859a9f2bffc1cd3d35a4b808a0e434d6_2934189543451517972.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "瑶瑶的爱好…",
+          "text": "常言道，良宵苦短，胜事难逢！如果有什么好玩的事情，一定要过去看看才行呀…说不定还能遇上瑶瑶能帮上忙的事，你说对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/bee4525597f00ee3a5f71f80ef43445a_6072169257594353282.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "瑶瑶的烦恼…",
+          "text": "哎、哎呀，练枪真的有点枯燥…我就和月桂玩一小会儿，休息一会儿就接着再练…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/466a13a9a74c0fbf8eb2b666ce354ab3_549770959491686479.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "轻策农家菜、来来菜、水煮鱼…这些璃月地道的味道不仅好吃，还能让人感到热闹。嗯？你也喜欢吗？太好了，那下次来我家吃饭吧，我来露一手！别担心，我帮师姐打过下手，在烹饪上也算「师出名门」呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/10754ffc71f751aeec11b417722a5130_2438417375655649762.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "有次申鹤姐姐一顿清心吃多了，身体虚了好几天呢！瑶瑶要爱惜身体，不生吃清心。唔？你问我怎么知道的？是留云阿姨跟我说起的哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2826adfbc78296aa1b5cdbd4c9f9375e_6628682226825137790.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "太好吃啦！这厨艺简直和师姐「难舍难分」？不对，好像是「不相上下」！嘿嘿，瑶瑶一时激动，「口不择言」了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/a45fd1e9af13e050dde5acab1fa247f2_4873577343701771481.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "好吃！下次做饭记得喊上我哦，让我帮你打下手吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/2936f5995017c6eb471e8af7ec363e9a_7750138232628432448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…哎，你平时吃的都是这些吗？要不然还是让我来给你做饭吧！吃得不好怎么能出门冒险呢，要是累到了自己、身体垮了怎么办呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/b21117b6c0a4e35a49fc6c7f410801f8_869552596471825166.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今日是你的生辰，按照习俗，这样的日子要来一碗长寿面，我找师姐学了一手，一整条面都没有断哦！还打了个很圆很圆的鸡蛋进去，嘿嘿。快跟我来吧，要趁热吃才好。新的一岁，愿你身体健健康康，生活圆圆满满。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/a6d734c7db78cf02b4c9f89bb16b609a_7717398593834193886.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "咦？枪怎么变轻了？要是能再变短点就更好了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/26039d8167317fe83e9c38ea9277d72e_5011644394763830279.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "哇哇，我现在说不定都能拿起师姐的枪了！真想现在就把这个好消息告诉师父~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/daa0b4fc56355e4d95fd060fbe17e1a9_1225185782035853325.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "平时听大家说的「勤以立身」，就是这种感觉吧？欸？这个「勤」…不是勤奋的意思吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/65557cd1963cb84318db3be56cf26c54_6974117509834612027.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "原来被人挂念的感觉是这样的，嗯…我能有这样的成长与变化，都是你的功劳哦！所谓投之以桃，报之以李，你放心吧，我会护你安然无虞的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/45ba568280b48aadb49f2dd6eb5028e5_230246674214397405.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "月桂！该上咯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/888043d80950623bf1326fc0b2cf889a_7942102098489112329.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "不要乱动哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/5d1ca32d548172286118a8cf1f3079b9_2970390698594369244.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "不怕不怕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/9e1afa316cc74b7ee3cfa6bb302b3b0b_8732679837153677712.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "预备…跑！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/6eec6880498b4ed61936788f8be2e44f_8840386186646081888.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "痛痛飞。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/ee42760c8db222fb51c42988b3d99741_1845363438224682490.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "要冲喽，月桂！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/dab2076135bb27934f0a5c8e665ae0ae_4921283268832226870.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "都收好，不要落下哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/695c8f20526f9b179bd47b077aaba968_3278601193680606950.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "都整理好啦，请拿好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/e10f6628ff5edf5725137baf2d8dc313_8282648145155187208.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇！这些够用好几天了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/da5f6eed0f4d7a8bb4d1fbfeab442386_7687126340914506649.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不行不行…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/9013a6984e4b71232f394603be5e81eb_8692999122976849053.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我要撑下去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/9c85d33fd88de76bc62a4485e41f7d9c_56685569316942898.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "没事，我可以的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/42937e83f650726e0f571fab0553739c_7038418043512919579.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "让瑶瑶保护你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/f43db38f3f6ca52d12760fc86c4c3347_8479017490914405352.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "人命关天，不要勉强！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/877afa9b4dec793da8bf1be22729392e_1588505792756333175.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "没办法再照顾大家了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/6aba772cd8caf53c94d325cd7cece384_8682083588955662941.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "有辱…师门…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/4eeab0a1768caf2c52a52ce001e089a3_768500027225444109.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "枪好重…头也好重…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/e39fce14331e68474255ff9ca96da2ab_9092815888500968534.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "痛痛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/d6f7a247ba25a00c9d66182e5207e105_3226372105737443940.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "好痛好痛…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/fd3598442e677326c7bc83f9285b255f_6258953301134394503.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "我会照顾好大家的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/1c9d92224a8a0a2eb039267282e0429b_2121620113957055699.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我来领路，跟我走吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/09fbedb271a60d3cff48e1dece76bd03_2430965748927443984.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我在，不用担心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/01/18/16576950/db405e1e671bc1e8dcc904f64fa54568_6488125740601604497.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

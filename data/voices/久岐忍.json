@@ -1,0 +1,1637 @@
+{
+  "id": "4148",
+  "name": "久岐忍",
+  "alias": [
+    "久岐忍"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我是荒泷派的二把手久岐忍。我们承包多种业务，货运物流、安保维持、房屋补漏、表演驻唱等等。需要我们请随时联系，这是我的名片，还请收下。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/805ba252d34323f0560547068af62e46_4348722839633937491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·麻烦事",
+          "text": "有麻烦事要处理的话，直接告诉我就好，我来摆平。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/9f7332b2f2fa7767c08fcdb18c79a43b_67604748834473357.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·证书",
+          "text": "执业证书考试都有固定评判标准，肯学肯练就能考过，没什么难的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/791f733797326f36513ae62213bb6f5e_4246024015158014424.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·荒泷派",
+          "text": "要是荒泷派犯了事，我会揪他们去认错的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/64a92ff477a956277e08a36c2c9a9bea_2571528611429536595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "不用打伞了，腿脚快点就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/16af81ef6b79f9a0b5567a4088168e63_7488370374809842289.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "当心点。这种天，应该没人会想引雷上身吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/8798e7f883ea2120a5d27bbc7e371358_3134193532532759796.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "快点把事情办完就撤吧，别浪费时间。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/0c75e3b58909b4a9851b37cb2fdf5b52_6530753319039092451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "嗯，天气真好，但总有种不详的预感…希望是我多虑了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/2027c5a1e627f8769598b2c892e1883d_6497612032721944389.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "唔…这风还算不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/01272a712c2aac6cd3a1c011fff1eaee_9162766717029374390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早啊，看你的样子是准备去锻炼了？没想到你还挺勤快的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/2fe27eee08065c3f0583b647ec22fabc_7069119797843046072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "想吃什么？最近攒了不少钱，午饭我请你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/c6a662cc28af5cd54dfa94c2a26abc87_2052667297719505644.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "有些委托，在夜晚才好办。我不放心交给他们，都是我亲自上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/9ec99a3c494c93b2522dd6a1c500f448_4597701775292593602.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "该休息的时候就去休息吧，不用管我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/18a2ca10f776c564236d89cf4aea12ab_394717688516202987.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于久岐忍自己·二把手",
+          "text": "招揽业务、维系成员安定是我的职责，除此之外还有——去奉行所捞人，归还零食和玩具，抓捕接了活却在暗处偷懒的成员…不过，这些额外工作属于荒泷派特色，其他任何组织的二把手，理论上都不需要做这些。当然，也做不到像我这样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/d65f2436662d0a48a277af24b9b1dbaa_5898300616917215845.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于久岐忍自己·退路",
+          "text": "你说帮派解散？首先，那种事应该不会发生。其次，就算发生了，我有什么好担心的呢。饿肚子的人不可能是我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/4871d7960beb33de0b849ba927b195be_4564287287352653993.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·笔记",
+          "text": "要是你心血来潮想考什么证，不如直接找我吧，我把笔记借你。备注和要点很详细，不愁你学不会。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/d0fca686df61c62de31613dbafe6adbe_3102867850389374553.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·善后",
+          "text": "不管你是不是荒泷派的人，我都不会把你当外人。你就往前走吧，幕后的工作交给我。放心，这方面我是专业的，多复杂的事都能办妥。嗯？担心我的安危？呵，这方面你也放心吧，这些年的摸爬滚打，不是白经历的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/cdb56d340e98227163695c0f173a8d4f_4440541136386815984.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "和证书一样，这是对我能力的肯定和证明。但不同的是，我至今不知道它的考核标准。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/6f94de0d3e9315598864643d6033567f_7271713472851358092.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·面铠",
+          "text": "戴上面铠是不想被熟人认出来。尤其和荒泷派一起出任务时，要是熟人看见了，指指点点，那群家伙肯定会趁机起哄。啧，光是想想，就很烦。不能再有下次了…咳，没什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/b3ee67b95d4b1702373f6b54957c7c8d_902220883441046694.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·派中法度",
+          "text": "我制定了荒泷派的「派中法度」，他们就应该谨遵法度行事。嗯？你问他们为什么愿意听话？因为我比他们更有说服力。我的语言和拳头，姑且还算是有点分量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/ba20c2f91bbc8982b7199451dfe26cf5_4091151301045109641.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "神社中流传着一种说法，将鸣草织成一个圈缠在身上，就能祛灾祈福，你信吗？我倒觉得，鸣草，还是麻痹效果更实用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/152047475023e74d39ed34873001f18f_7229595921212446528.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "解除锁国后，雷电将军陆续颁布了不少法令支持各行各业的发展。我在锁国期间考的证书全都派上了用场，荒泷派也不那么拮据了。祸福相依，没想到到头来还得感谢她。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/8aebd074b1d9b04a4eeebf45430a0185_8260835087820554608.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "九条小姐啊，她是我的朋友。嗯？我认识她让你觉得很意外吗？噢，你可能误会了，我加入荒泷派之前就跟她有交情。我们俩的切磋，还难分胜负呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/a8b8f1b1a98cdfc9137ea94f452d9f49_7386676554727694071.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "就连堂堂鸣神大社的宫司大人，都要靠副业来解闷，可见当巫女是有多无聊。我是绝对不会回去当巫女的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/642f18201a42b0455ad5439b9251270d_3219956762442488419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "老大有很多不算愉快的过去，却还能保持快乐阳光，挺难得的。他对我们很不错，他的纯粹也感染着荒泷派的大家。当然，这不能成为他横冲直撞影响别人的借口。如果他找你麻烦，尽管告诉我。我会好好收拾他，让他后悔对你无礼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/16a2b17b0b93b733c5e66544432c9fd6_6953981384712185532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于烟绯…",
+          "text": "那时候跟家里闹翻了，只想着有多远逃多远，就跑去璃月学律法了。得亏这样，有幸认识了烟绯师姐。在律法咨询这块，她简直就是活字典。我？执业证书倒是有的，不过这个职业的约束也不少，并不是最适合我的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/2612585c65d15e55b0656814f4c74d97_7418207259649522652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏…",
+          "text": "他和普通天领奉行同心不一样，从未见他做什么巡逻、抓捕的活。他偶尔会找我买线索，作为交换，我希望他能在我去奉行所捞人时帮我美言几句，他也爽快答应了。这笔交易还算值，毕竟让弟兄们收集点市井见闻是很简单的事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/761531293b4d7748f142d8cd8b1bf49a_4899445411343578710.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其一",
+          "text": "我做过很多不同的工作，相关的执业证书也有不少。管理方面，带过小型团队，负责人员统筹和资源调配…呃，抱歉，面试多了就说习惯了，别介意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/15007870d555f65d42d4fa87407304f9_4726157289285459443.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其二",
+          "text": "我家是巫女世家，但我不适合当巫女。刚逃出来那会儿，我觉得要多积累，以免没有傍身之技。什么厨师、裁缝、格斗、律法咨询、出版编辑…我都学了。没想到真正进了社会才发现，学的已经完全够用了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/450f96424c39daf10a3332bfa93baeff_7557270915970842815.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其三",
+          "text": "你说我社交场合很厉害？呵，毕竟在外流浪了那么久，总得学会察言观色。更何况在多数时候，理亏的那一方都是我们。我不讨厌摆出那些表情，但可以的话，我还是选择不笑的好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/126f5a78e28975756dcfb5687141924c_6466748009564876970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其四",
+          "text": "刚进荒泷派的时候，老大要我教小弟们怎么打架。所以我上来第一件事，就变成了把他们挨个揍趴下。没想到，一个个鼻青眼肿的，却睁大眼睛，张嘴就叫我「忍姐」，还要我好好带领他们。哼，那时候我就知道这是一群笨蛋。但没关系，笨蛋不会拖我后腿，我会解决一切问题。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/787a765f63ae2b0e241d6be57444e128_4622025666287160614.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其五",
+          "text": "留在荒泷派是我自己的选择。收拾烂摊子难免令人火大，但他们也给了我无可替代的真诚。最好的东西都先留给我、从不泼我冷水、在我宣布决定后闹哄哄地鼓掌吹口哨…我知道外面对荒泷派的评价不太好，他们自己也不在乎，但我还是想努努力，改变别人对我们的印象。因为，对待「家人」，自己可以偶尔抱怨，但就是不想其他人说他们的不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/5c81e8d25385ba665960744f44342415_9154028214225280688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "久岐忍的爱好…",
+          "text": "平时混帮派，闲着也是闲着，经常不小心读完一本书，不小心就把证考了。不也挺好吗？家里问起来，我也没虚度时光，出去谈工作，也算得上有资本。在这个凡事讲究实力的社会里，我这种有证书的混子，到哪里都能吃得饱饭。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/279504f1ea87be1588f06d9e1cf4720f_8903124028530860523.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "久岐忍的烦恼…",
+          "text": "以前不想被抓回去当巫女，就决心只靠自己站稳脚跟。至少目前看来，我干得还不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/0c93a821c81203af6f2d2a72635e8b08_2186512959015315314.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "就算刚吃过拉面或者饺子之类很管饱的食物，最后还是想以一小碗米饭结束。米饭好吃，没什么其他原因，有问题吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/2426d40d7d336bad709aaf01a0abdc4a_8250772913607759477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "厨师证到手后，我就更加坚定那个从璃月听来的说法：没有难吃的食物，只有不合格的厨师。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/3b1c39097bba893b43677846cc6950d4_8670019324727591447.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "真不简单。咳…我就再多吃一口。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2dfb070262f65d04ced1766bbb7301b9_1609086580771274879.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你做的？嗯…这种水平去考个厨师证应该绰绰有余。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e213a197e0734b74f31cc00640be60d6_4818929455025841819.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "我直说吧，你是不是放错调料了？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c1c2d3aa9e017149aed176b6577f8041_4642630471838963434.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐，来，这个鸣草特制飞镖送给你。小心点，嗯，对，要像这样拿…投掷前记得计算弧度。呵呵，看你喜欢我就放心了。哦，别把它当玩具，还是有一定危险性的。想多训练一下的话，我来教你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/dd306ed6755eeb0ca2174e843834688a_3422890718657765729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "基本功不过关，就什么都不用谈了。这就是初级证书的意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/48b374ac6674035abfed753ae43f606e_974028991357945671.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "中级证书到手，已经可以处理大多数麻烦了。有什么麻烦事需要我帮你解决？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/9c3338c84831ffc8c294c8b944d90084_3979961848220492583.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "高级证书绝不是轻易就能得到的，天赋和实战的累积缺一不可。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/058e3ba47384e0296540f052f0e7c4f1_6834032139561785731.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "证书只能用来评判技能的专业程度，无法对付出或情感的投入进行量化。你我的交情也不能只用一句感谢来表达，还是用我最擅长的行动来说明一切吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/6b683ea7b8258d7d997044e12897e9b1_5336674502736558905.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "鸣草结环！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/0c3cf452476592423362274354549cf6_1981340385792317462.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "解厄！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/6fd32ad276f8636117a396a63e843f27_7185701527636684842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "好好站稳了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/68a7076aa165e95503d42409bdad13c3_468553156996081968.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "给我…安分点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/126a678fee73058ce75ff57afb76f7e1_5254346470914038465.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "祈雷…祓除！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/02694b122c2155e3f56b6eb3f4c15ac4_8515814288840404538.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "别来碍事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/6f9523145aa7bc81f6aad8527b77ac9c_8027896976873001569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "嗯，积少成多。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/e90de16f02300644131f76c42fb3a467_3609438289322154813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这票也稳了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/7345d54479b42c18ac2d7bd882c3c0d8_6088695290818529748.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "你的了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/17a14b167ea1a9646f260beac5871136_8844344065510869806.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "给、我、站、住…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/1c1265300b73facc68dec29a0f932e02_7739026262912604862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "算是惹怒我了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/e68cd36ffcaf09718f74a2fabd452c8d_665177548222150979.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哼，该我了吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/ad9df7432504b5a628eaf71f74987046_6477969928494498852.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "我来善后。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/72a129fd5986a0141dfa261465ba38d8_310095294327644185.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "行了交给我，别硬撑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/9217dbf79e922909f05074d2a26e1d0b_6537976394023967573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这次…是给人添麻烦了啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/2a818d3be78a469595a40de8ea48a783_2956921734706467480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "荒泷派就拜托你了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/1336fd268b60d1970ff3eb702872a359_3007103948828169383.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "这是对我的…侮辱…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/c0d4a637dbe9528ce5ce841407fc17c0_7742168320439764334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "再来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/13157dc594027d00df866208e4eff4a1_8378649569682496495.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "等着！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/8ada9aee6d1a2f07b8a09eb020f289a3_8433943460234073590.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "找打是吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/8ff6a5fb83af7a11569c796dfc4a49e5_9109753953435719549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "看我眼色行动。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/a03cff8bae0feaa62ea315284533c6d1_8410928760814905346.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "这次是什么麻烦？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/c7cd86b816f3ebfdca6a6c27ae093db8_2232668799176712963.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "希望不是烂摊子。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/5ccdb6808247a44a651104a00a63b10d_3570796322762610916.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我是荒泷派的二把手久岐忍。我们承包多种业务，货运物流、安保维持、房屋补漏、表演驻唱等等。需要我们请随时联系，这是我的名片，还请收下。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/199092281c4f1a2f1d28d0ccd1e190f7_2547291647483992898.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·麻烦事",
+          "text": "有麻烦事要处理的话，直接告诉我就好，我来摆平。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/6e5ad38d90c4fb3ae2b0f0d6d37d33d9_9030677830127498234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·证书",
+          "text": "执业证书考试都有固定评判标准，肯学肯练就能考过，没什么难的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/439f83fe92bbfd367330949b7af70b68_2419276733005609512.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·荒泷派",
+          "text": "要是荒泷派犯了事，我会揪他们去认错的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/ba72dd8d6a0e380d06fc8762e302f52b_8388994878441480253.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "不用打伞了，腿脚快点就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/68428fb27f064d70068fc3d1c9c24d84_6206435544832881265.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "当心点。这种天，应该没人会想引雷上身吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/59c82a48c2261548c09d923b2bee479f_1598312813263745744.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "快点把事情办完就撤吧，别浪费时间。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/ff1e4fefa964d33736d55e8e94bdb47e_3337345530083259744.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "嗯，天气真好，但总有种不详的预感…希望是我多虑了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/dc85ceb8470d7e3a24342bf3dd4694ec_1619023716651660765.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "唔…这风还算不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/106f82fb4f8429d96c55d21c6a55be91_4808557474128672921.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早啊，看你的样子是准备去锻炼了？没想到你还挺勤快的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/fecff613ed2ca3ea13fd41c9b66018e9_4252694164905181117.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "想吃什么？最近攒了不少钱，午饭我请你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/97927be5db67bc859227284b38f13a1b_6832941625352954389.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "有些委托，在夜晚才好办。我不放心交给他们，都是我亲自上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/a06a893c882e6bec6e9c8f62a1a3cc0a_3035244638962398881.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "该休息的时候就去休息吧，不用管我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/b3be2b393055d7b8358f4ecfa641636b_2693195018899934742.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于久岐忍自己·二把手",
+          "text": "招揽业务、维系成员安定是我的职责，除此之外还有——去奉行所捞人，归还零食和玩具，抓捕接了活却在暗处偷懒的成员…不过，这些额外工作属于荒泷派特色，其他任何组织的二把手，理论上都不需要做这些。当然，也做不到像我这样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/bf4f6e3425d78ef76f4e94a429ce9ff6_3528352008960844203.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于久岐忍自己·退路",
+          "text": "你说帮派解散？首先，那种事应该不会发生。其次，就算发生了，我有什么好担心的呢。饿肚子的人不可能是我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/3d609237f14ede424a61d9c2c4a45d47_1242874726258886302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·笔记",
+          "text": "要是你心血来潮想考什么证，不如直接找我吧，我把笔记借你。备注和要点很详细，不愁你学不会。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/a421697783f9ca24f3bbe0f856c47b0e_8820447847239033133.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·善后",
+          "text": "不管你是不是荒泷派的人，我都不会把你当外人。你就往前走吧，幕后的工作交给我。放心，这方面我是专业的，多复杂的事都能办妥。嗯？担心我的安危？呵，这方面你也放心吧，这些年的摸爬滚打，不是白经历的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/03c7604f52f1f3b6aeb5f74ebefbc866_3438706847607211651.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "和证书一样，这是对我能力的肯定和证明。但不同的是，我至今不知道它的考核标准。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/bca4121a3ae5a274817df9ae27612670_5243005157190401503.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·面铠",
+          "text": "戴上面铠是不想被熟人认出来。尤其和荒泷派一起出任务时，要是熟人看见了，指指点点，那群家伙肯定会趁机起哄。啧，光是想想，就很烦。不能再有下次了…咳，没什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/85561082ce641b4a3a2188162a91897d_1016646723697320805.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·派中法度",
+          "text": "我制定了荒泷派的「派中法度」，他们就应该谨遵法度行事。嗯？你问他们为什么愿意听话？因为我比他们更有说服力。我的语言和拳头，姑且还算是有点分量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/7eb6520be96daa42cf871fd2683dbdd2_3663664256062300858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "神社中流传着一种说法，将鸣草织成一个圈缠在身上，就能祛灾祈福，你信吗？我倒觉得，鸣草，还是麻痹效果更实用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/9adfe1dbb4d77df3df9d097c86567485_2119505951080458313.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "解除锁国后，雷电将军陆续颁布了不少法令支持各行各业的发展。我在锁国期间考的证书全都派上了用场，荒泷派也不那么拮据了。祸福相依，没想到到头来还得感谢她。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/9fe0ccf1ab472f03acdce04af2084366_3843915802835493844.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "九条小姐啊，她是我的朋友。嗯？我认识她让你觉得很意外吗？噢，你可能误会了，我加入荒泷派之前就跟她有交情。我们俩的切磋，还难分胜负呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/96f75c554e272b667bde8bf64c22ba39_8014538920377399274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "就连堂堂鸣神大社的宫司大人，都要靠副业来解闷，可见当巫女是有多无聊。我是绝对不会回去当巫女的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/be3b63f28b62c00a6398a2e7e8aeaa8f_8130860725543168780.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "老大有很多不算愉快的过去，却还能保持快乐阳光，挺难得的。他对我们很不错，他的纯粹也感染着荒泷派的大家。当然，这不能成为他横冲直撞影响别人的借口。如果他找你麻烦，尽管告诉我。我会好好收拾他，让他后悔对你无礼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/f0ba61d0e7e0d41f46f8f75c35782aff_6650039980478576310.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于烟绯…",
+          "text": "那时候跟家里闹翻了，只想着有多远逃多远，就跑去璃月学律法了。得亏这样，有幸认识了烟绯师姐。在律法咨询这块，她简直就是活字典。我？执业证书倒是有的，不过这个职业的约束也不少，并不是最适合我的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/49c086d594a8d9acbe76639d2818511f_3875012250683118133.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏…",
+          "text": "他和普通天领奉行同心不一样，从未见他做什么巡逻、抓捕的活。他偶尔会找我买线索，作为交换，我希望他能在我去奉行所捞人时帮我美言几句，他也爽快答应了。这笔交易还算值，毕竟让弟兄们收集点市井见闻是很简单的事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/3ad78f67ab962cb4ee1de72bd7a5e579_9153391475282186578.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其一",
+          "text": "我做过很多不同的工作，相关的执业证书也有不少。管理方面，带过小型团队，负责人员统筹和资源调配…呃，抱歉，面试多了就说习惯了，别介意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/fc954d1bdc00771a2ba951d7b428a37d_3140515153011230305.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其二",
+          "text": "我家是巫女世家，但我不适合当巫女。刚逃出来那会儿，我觉得要多积累，以免没有傍身之技。什么厨师、裁缝、格斗、律法咨询、出版编辑…我都学了。没想到真正进了社会才发现，学的已经完全够用了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/707e09c17da4c8402b3c18847c1adca0_1493982231926486480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其三",
+          "text": "你说我社交场合很厉害？呵，毕竟在外流浪了那么久，总得学会察言观色。更何况在多数时候，理亏的那一方都是我们。我不讨厌摆出那些表情，但可以的话，我还是选择不笑的好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/69f05935790433c45b39e7d85b9d959f_472200848101734889.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其四",
+          "text": "刚进荒泷派的时候，老大要我教小弟们怎么打架。所以我上来第一件事，就变成了把他们挨个揍趴下。没想到，一个个鼻青眼肿的，却睁大眼睛，张嘴就叫我「忍姐」，还要我好好带领他们。哼，那时候我就知道这是一群笨蛋。但没关系，笨蛋不会拖我后腿，我会解决一切问题。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/82efd9450652b426e673f208c8c29e2d_5644951844138275477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其五",
+          "text": "留在荒泷派是我自己的选择。收拾烂摊子难免令人火大，但他们也给了我无可替代的真诚。最好的东西都先留给我、从不泼我冷水、在我宣布决定后闹哄哄地鼓掌吹口哨…我知道外面对荒泷派的评价不太好，他们自己也不在乎，但我还是想努努力，改变别人对我们的印象。因为，对待「家人」，自己可以偶尔抱怨，但就是不想其他人说他们的不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/d6104ba0c1c13f2ba93e6a4c83b73856_3835519302745602956.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "久岐忍的爱好…",
+          "text": "平时混帮派，闲着也是闲着，经常不小心读完一本书，不小心就把证考了。不也挺好吗？家里问起来，我也没虚度时光，出去谈工作，也算得上有资本。在这个凡事讲究实力的社会里，我这种有证书的混子，到哪里都能吃得饱饭。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/62655e5f16e0d21ecbf3b686140877b5_2052328858069736075.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "久岐忍的烦恼…",
+          "text": "以前不想被抓回去当巫女，就决心只靠自己站稳脚跟。至少目前看来，我干得还不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/dbc3e92616d46431f8402f3eea29b174_7819675520647062242.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "就算刚吃过拉面或者饺子之类很管饱的食物，最后还是想以一小碗米饭结束。米饭好吃，没什么其他原因，有问题吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/2adabd6516acc442f6e37201b20746b9_487993631426933986.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "厨师证到手后，我就更加坚定那个从璃月听来的说法：没有难吃的食物，只有不合格的厨师。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/73ebbd12b785cedb6d0e920322011f28_3015295010467944954.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "真不简单。咳…我就再多吃一口。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/dd390b8549bf8ef4ec9f8548b29bafa2_7562530139366896706.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你做的？嗯…这种水平去考个厨师证应该绰绰有余。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d50b85298c7ad92e8ad82216ac10f85a_2526913047748654229.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "我直说吧，你是不是放错调料了？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e2444109c7b6cb84b1cece34a576b9d7_6626853699216254286.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐，来，这个鸣草特制飞镖送给你。小心点，嗯，对，要像这样拿…投掷前记得计算弧度。呵呵，看你喜欢我就放心了。哦，别把它当玩具，还是有一定危险性的。想多训练一下的话，我来教你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/64687500b031ce63a7a55fb41c7e2531_4046416912320844313.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "基本功不过关，就什么都不用谈了。这就是初级证书的意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/e7c0c5e4fb676e9ea9b655ab77ac058c_8809922427605623422.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "中级证书到手，已经可以处理大多数麻烦了。有什么麻烦事需要我帮你解决？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/256f88ae756550d31f0bf1fa6571941a_9008091118762826704.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "高级证书绝不是轻易就能得到的，天赋和实战的累积缺一不可。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/c7df5494138477a86c2b13b9e3c7bdb1_5251169762842299273.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "证书只能用来评判技能的专业程度，无法对付出或情感的投入进行量化。你我的交情也不能只用一句感谢来表达，还是用我最擅长的行动来说明一切吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/e51fe2f2f1a3239947cb7f59b75d1522_2181247994586081868.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "鸣草结环！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/5e75472a24eda1a3eb65b077fe6a1dd5_340652247467727398.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "解厄！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/0fbda3136a0ebfcbb50d895fa13d07fd_8376394459512407973.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "好好站稳了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/3b45482eb95fc3d97414d87e97a15165_686834629228951761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "给我…安分点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/ea1c26061a0fee572a54159ef94a1016_82457714279099706.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "祈雷…祓除！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/26d72f39b49c4592470e05d8e6d833f6_66549753476278736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "别来碍事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/1867441f7ef17e98f133bd5360b7a600_2346242773361381565.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "嗯，积少成多。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/5783e4c1343cc9963309614d7589c54d_2335159122406471648.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这票也稳了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/11b2a532051ba9e360a949b8772c2901_2793116777768779426.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "你的了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/627513cd5f5ce047b2fb753c8d57a122_1824977740977054518.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "给、我、站、住…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/3667f73493f68dda5e5d6bd85a6f21dd_6134685044551723228.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "算是惹怒我了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/83a53a8833174b1a4c7317de9c57d151_4848953249241061368.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哼，该我了吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/b8a151a47030ef6225648bae98f8bfb1_6502006904138082168.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "我来善后。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e3691d1e2c9a18884b09f5fdc92fd72f_425835894715548566.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "行了交给我，别硬撑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/beaacb082ff4dd03d0b57e2fb983ae90_4264063208805522435.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这次…是给人添麻烦了啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/9c36ef2bec490ba77a936980181afa7e_1656853040705359618.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "荒泷派就拜托你了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/52d318f46eefc186598f8bf5bf2d0813_2372953219906574967.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "这是对我的…侮辱…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/c71e9d89d46d644be7f53e5a6f764b01_5628698739041915257.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "再来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/3f426e4a6a9189ce1a9c4ec998e51799_5144431641901207229.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "等着！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/227c8d372e2421a2aa59055dc4fd8237_4166112212796545699.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "找打是吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/58d85040f5ea2ec2e67e185aecc2ad5b_6572417237923383867.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "看我眼色行动。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/70f2832a0aeb03c757d59a2fd24228d9_1865755623118500480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "这次是什么麻烦？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/37348471c1e190c6469ea50682bb5d71_5001612521602237024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "希望不是烂摊子。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/dc4ddf70ea6c0ceaf875eb9ceeada130_2449212509125987812.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我是荒泷派的二把手久岐忍。我们承包多种业务，货运物流、安保维持、房屋补漏、表演驻唱等等。需要我们请随时联系，这是我的名片，还请收下。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/83bd7ec3feb421f4c72a7c66b3fc2bfa_1997758537319503984.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·麻烦事",
+          "text": "有麻烦事要处理的话，直接告诉我就好，我来摆平。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/1544ad4e75b92b004bc13ab9b96ef8a7_1074174480430697016.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·证书",
+          "text": "执业证书考试都有固定评判标准，肯学肯练就能考过，没什么难的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/98d7efc8d52af2dfa8d668e07773a040_1534578052169813652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·荒泷派",
+          "text": "要是荒泷派犯了事，我会揪他们去认错的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/5b01505761273043bb9c50da92c623a1_6883042959961447421.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "不用打伞了，腿脚快点就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/016494b1f0a129af50784e7159943719_3704880548097428420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "当心点。这种天，应该没人会想引雷上身吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/54fe9324e419f46dab809f1a79b5e647_5854635481911156872.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "快点把事情办完就撤吧，别浪费时间。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/ed27f114bd6ab470dca8dba9ef7a1f2a_3951144725801574906.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "嗯，天气真好，但总有种不详的预感…希望是我多虑了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/c7755b6a99b8a2e0289c2f022929de9b_1022861532632268827.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "唔…这风还算不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/462fb77b4ad97816b61f6e6ad1fa651c_2325054508861601635.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早啊，看你的样子是准备去锻炼了？没想到你还挺勤快的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/ed3abacd4becdc2654a923a4f01d8d5d_3863820414721113666.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "想吃什么？最近攒了不少钱，午饭我请你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/ac7a1bdcb4b35125fb7df8ce6418714d_7467815336244078338.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "有些委托，在夜晚才好办。我不放心交给他们，都是我亲自上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/a09ddf5a90cde1a8101f2b6a3980b8ac_6317299466187914115.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "该休息的时候就去休息吧，不用管我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/bf0d6844d95e69208a5153787d094f77_2619903089282810572.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于久岐忍自己·二把手",
+          "text": "招揽业务、维系成员安定是我的职责，除此之外还有——去奉行所捞人，归还零食和玩具，抓捕接了活却在暗处偷懒的成员…不过，这些额外工作属于荒泷派特色，其他任何组织的二把手，理论上都不需要做这些。当然，也做不到像我这样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/19f39508c377d90021fa81ac43ce5d91_8549551453743613699.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于久岐忍自己·退路",
+          "text": "你说帮派解散？首先，那种事应该不会发生。其次，就算发生了，我有什么好担心的呢。饿肚子的人不可能是我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/191bdce8f761ebf51b9cdf54f3b09546_2838851030365892557.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·笔记",
+          "text": "要是你心血来潮想考什么证，不如直接找我吧，我把笔记借你。备注和要点很详细，不愁你学不会。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/64e769bbf65c62ebe42d6d4c2ab678c7_1295658449142298512.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·善后",
+          "text": "不管你是不是荒泷派的人，我都不会把你当外人。你就往前走吧，幕后的工作交给我。放心，这方面我是专业的，多复杂的事都能办妥。嗯？担心我的安危？呵，这方面你也放心吧，这些年的摸爬滚打，不是白经历的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/c6984928760a0d43803a3731620198ee_3094608493660320405.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "和证书一样，这是对我能力的肯定和证明。但不同的是，我至今不知道它的考核标准。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/bc1b83b54b65dc75de2faa44e76f9798_1600622016196027073.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·面铠",
+          "text": "戴上面铠是不想被熟人认出来。尤其和荒泷派一起出任务时，要是熟人看见了，指指点点，那群家伙肯定会趁机起哄。啧，光是想想，就很烦。不能再有下次了…咳，没什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/bc40d36644420ccbc66ad4dcd108a63a_5982675746684083754.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·派中法度",
+          "text": "我制定了荒泷派的「派中法度」，他们就应该谨遵法度行事。嗯？你问他们为什么愿意听话？因为我比他们更有说服力。我的语言和拳头，姑且还算是有点分量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/ee16b4434197f2c7538311565c7a0573_7479304836405604511.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "神社中流传着一种说法，将鸣草织成一个圈缠在身上，就能祛灾祈福，你信吗？我倒觉得，鸣草，还是麻痹效果更实用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/2f164455fbb7ccdf6ebd7f58d4aaf9ab_4063772455501774624.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "解除锁国后，雷电将军陆续颁布了不少法令支持各行各业的发展。我在锁国期间考的证书全都派上了用场，荒泷派也不那么拮据了。祸福相依，没想到到头来还得感谢她。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/3620dfbc4092515fea1c1e024fc54938_3665144504425583799.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "九条小姐啊，她是我的朋友。嗯？我认识她让你觉得很意外吗？噢，你可能误会了，我加入荒泷派之前就跟她有交情。我们俩的切磋，还难分胜负呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/dac6f104e9a3d8366d0b88c2bb0076c9_3461963403297900310.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "就连堂堂鸣神大社的宫司大人，都要靠副业来解闷，可见当巫女是有多无聊。我是绝对不会回去当巫女的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/dcf3779ba051b288b0926d89040952c7_4095007460396324164.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "老大有很多不算愉快的过去，却还能保持快乐阳光，挺难得的。他对我们很不错，他的纯粹也感染着荒泷派的大家。当然，这不能成为他横冲直撞影响别人的借口。如果他找你麻烦，尽管告诉我。我会好好收拾他，让他后悔对你无礼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/c96593f4f8e4e0dcc846f3ff73be4df6_860649904801222946.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于烟绯…",
+          "text": "那时候跟家里闹翻了，只想着有多远逃多远，就跑去璃月学律法了。得亏这样，有幸认识了烟绯师姐。在律法咨询这块，她简直就是活字典。我？执业证书倒是有的，不过这个职业的约束也不少，并不是最适合我的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/60428135a47c8746865c7401b035ccd5_2609419810355677360.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏…",
+          "text": "他和普通天领奉行同心不一样，从未见他做什么巡逻、抓捕的活。他偶尔会找我买线索，作为交换，我希望他能在我去奉行所捞人时帮我美言几句，他也爽快答应了。这笔交易还算值，毕竟让弟兄们收集点市井见闻是很简单的事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/1a62ab3c2a06263fdf006f499ce64e56_7931141974364041087.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其一",
+          "text": "我做过很多不同的工作，相关的执业证书也有不少。管理方面，带过小型团队，负责人员统筹和资源调配…呃，抱歉，面试多了就说习惯了，别介意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/8fccab18052b673dcfbf3f5ac5f0c127_5996272981270811471.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其二",
+          "text": "我家是巫女世家，但我不适合当巫女。刚逃出来那会儿，我觉得要多积累，以免没有傍身之技。什么厨师、裁缝、格斗、律法咨询、出版编辑…我都学了。没想到真正进了社会才发现，学的已经完全够用了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/a669dbb324e07e4d8f61f4135324f654_1724986858491523268.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其三",
+          "text": "你说我社交场合很厉害？呵，毕竟在外流浪了那么久，总得学会察言观色。更何况在多数时候，理亏的那一方都是我们。我不讨厌摆出那些表情，但可以的话，我还是选择不笑的好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/e09af4bc54017d35d548625720523b6e_1486585045686550731.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其四",
+          "text": "刚进荒泷派的时候，老大要我教小弟们怎么打架。所以我上来第一件事，就变成了把他们挨个揍趴下。没想到，一个个鼻青眼肿的，却睁大眼睛，张嘴就叫我「忍姐」，还要我好好带领他们。哼，那时候我就知道这是一群笨蛋。但没关系，笨蛋不会拖我后腿，我会解决一切问题。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/39c861fbb15e59fee6e31beca25751e4_2259924041627544673.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其五",
+          "text": "留在荒泷派是我自己的选择。收拾烂摊子难免令人火大，但他们也给了我无可替代的真诚。最好的东西都先留给我、从不泼我冷水、在我宣布决定后闹哄哄地鼓掌吹口哨…我知道外面对荒泷派的评价不太好，他们自己也不在乎，但我还是想努努力，改变别人对我们的印象。因为，对待「家人」，自己可以偶尔抱怨，但就是不想其他人说他们的不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/03aca748a7f7435a7abc803b6155efbb_3939408150954908795.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "久岐忍的爱好…",
+          "text": "平时混帮派，闲着也是闲着，经常不小心读完一本书，不小心就把证考了。不也挺好吗？家里问起来，我也没虚度时光，出去谈工作，也算得上有资本。在这个凡事讲究实力的社会里，我这种有证书的混子，到哪里都能吃得饱饭。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/913d31d974f66b99b21d2cc914d0100f_7167216409958472461.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "久岐忍的烦恼…",
+          "text": "以前不想被抓回去当巫女，就决心只靠自己站稳脚跟。至少目前看来，我干得还不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/8cc45dac57b72431f591ca1a720be92e_5373877955398837463.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "就算刚吃过拉面或者饺子之类很管饱的食物，最后还是想以一小碗米饭结束。米饭好吃，没什么其他原因，有问题吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/c942386d42cca328b88d596989d5f057_888584513968935391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "厨师证到手后，我就更加坚定那个从璃月听来的说法：没有难吃的食物，只有不合格的厨师。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/443b9e91da977d4b434bc0676bb1d4f6_1092522081067750585.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "真不简单。咳…我就再多吃一口。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8aaa386850b31003c8816ccdd0d00236_1400360779544239831.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你做的？嗯…这种水平去考个厨师证应该绰绰有余。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/eb61851699059ea48edf3c93e0c11eb6_501595699599968163.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "我直说吧，你是不是放错调料了？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/09735f1af1bce19f040353cb07d88360_6573616867047369844.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐，来，这个鸣草特制飞镖送给你。小心点，嗯，对，要像这样拿…投掷前记得计算弧度。呵呵，看你喜欢我就放心了。哦，别把它当玩具，还是有一定危险性的。想多训练一下的话，我来教你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/4a87e74196eb82f792372b1b995eec2b_6027003776885746210.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "基本功不过关，就什么都不用谈了。这就是初级证书的意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/006dde0ef45c3a72fd5c0d2947d4d711_7718369785995425392.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "中级证书到手，已经可以处理大多数麻烦了。有什么麻烦事需要我帮你解决？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/bdfeaba1ad2a56d036418fccb9cad3b6_5835641992648466711.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "高级证书绝不是轻易就能得到的，天赋和实战的累积缺一不可。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/9658169b767d2957c1bec91f928089d9_7357863321664680006.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "证书只能用来评判技能的专业程度，无法对付出或情感的投入进行量化。你我的交情也不能只用一句感谢来表达，还是用我最擅长的行动来说明一切吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/a726520d6b521a00356294780be5efe0_8926901413650149540.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "鸣草结环！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/1d265324d39eb4546e8927b9fa0669a6_1482890623116174886.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "解厄！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/b665772a3dfef51c28699bccefe43190_8539360046410160446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "好好站稳了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/ca35de6c21210a5771499550bdf8b137_7231305360983561728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "给我…安分点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/7bc48bb4bac3b19862919087031d6621_6427637153546040065.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "祈雷…祓除！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/14836359cfebbc8421609b566e521495_1518901775137617333.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "别来碍事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/eac5d914b1f26339d7051f0b1c1541c4_1490911401236097608.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "嗯，积少成多。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/10c6d7476e81bb23f20fd7843e59b425_7638462069527865428.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这票也稳了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/0c121d3096d9aa493cb03f74943253e5_1000998524746375869.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "你的了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/dcd04a1d746442ab3e47448666dad950_1441657072550370697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "给、我、站、住…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/e05bfd7aaf8139a2c4fdb1abf2d3a321_7419449545733896727.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "算是惹怒我了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/ac1e16930002f79b07cbbf748873e14f_5360467466777876474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哼，该我了吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/e4510f40f41456df23e3a994ddb0416e_408615680946844535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "我来善后。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d9695c417546c971a1eafcdf0d289eef_7260897027391321209.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "行了交给我，别硬撑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/657bf8584a60a3c29dc84cb8735a1702_6467330529997653009.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这次…是给人添麻烦了啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/6268c7162bb3c09e24cc8bbc6a737add_1965834922636455307.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "荒泷派就拜托你了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/3c60d21d584b6e978c2c42e5b3d15118_7971688855366976643.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "这是对我的…侮辱…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/1f2748ea1fe01e8d93cc2a6c97e8a0c4_6886897837558794346.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "再来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/053abb349e8fe7446b3ce6167fd5fb75_3293941215761758669.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "等着！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/484d5d96609454e487b32e9b11fac83f_5588363883864757641.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "找打是吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/bbe5ba5dfe27770e8bc4c59a3befbd56_884753107119061516.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "看我眼色行动。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/e0dc6c4d755d72cf4b6a812d80440cb1_4451065632251586078.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "这次是什么麻烦？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/980a63fb15b09c2f9ce57076f97b7233_6281300920457783544.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "希望不是烂摊子。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/bf0bbb87bdffbb9412626f37fa2a6f3d_343292332657932978.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我是荒泷派的二把手久岐忍。我们承包多种业务，货运物流、安保维持、房屋补漏、表演驻唱等等。需要我们请随时联系，这是我的名片，还请收下。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/27eda8bce01a50f5b4321cc5cfbcafcb_8246149330106480607.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·麻烦事",
+          "text": "有麻烦事要处理的话，直接告诉我就好，我来摆平。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/02cadff708e0abb02c6ca36ba55e6e08_7740191691917288201.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·证书",
+          "text": "执业证书考试都有固定评判标准，肯学肯练就能考过，没什么难的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/f6ab1d89826ddbf12bd44efe477dcf67_6575314621830195866.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·荒泷派",
+          "text": "要是荒泷派犯了事，我会揪他们去认错的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/5e02d5ab5497e1ae89f0c5fd902addba_3390485055623708001.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "不用打伞了，腿脚快点就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/17c9a84e89fb9069964de2a117c7904c_3551970268275943921.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "当心点。这种天，应该没人会想引雷上身吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/51f691d895026040c5fdd05749be13ef_7842493844254639645.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "快点把事情办完就撤吧，别浪费时间。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/801885a865082555ba77d95cdaf1a708_6773216954222131138.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "嗯，天气真好，但总有种不详的预感…希望是我多虑了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/142fff01a38cd7482a79b3a5148bb836_8277440934801115922.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "唔…这风还算不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/4290a97e81080731c1c2b4c6a927035d_3899970089539167468.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早啊，看你的样子是准备去锻炼了？没想到你还挺勤快的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/db5eede7588f2b4bb0c640f862fdecd7_6749256595238401071.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "想吃什么？最近攒了不少钱，午饭我请你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/2f3bde2f1b227df2c2376fabadd633d0_1297404721501748714.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "有些委托，在夜晚才好办。我不放心交给他们，都是我亲自上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/f03b982ee20e15579cf215e7a3699048_6149678212984155368.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "该休息的时候就去休息吧，不用管我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/16181624b240605d5b7fdd26dbce3314_2193536125275991986.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于久岐忍自己·二把手",
+          "text": "招揽业务、维系成员安定是我的职责，除此之外还有——去奉行所捞人，归还零食和玩具，抓捕接了活却在暗处偷懒的成员…不过，这些额外工作属于荒泷派特色，其他任何组织的二把手，理论上都不需要做这些。当然，也做不到像我这样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/c3294178185404872e8723c39888a8d4_294649159056621457.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于久岐忍自己·退路",
+          "text": "你说帮派解散？首先，那种事应该不会发生。其次，就算发生了，我有什么好担心的呢。饿肚子的人不可能是我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/532e61bd1de1a2ca74788d047626b64e_6790713481233823882.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·笔记",
+          "text": "要是你心血来潮想考什么证，不如直接找我吧，我把笔记借你。备注和要点很详细，不愁你学不会。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/e7a820fc91716b9bf8645e63aff75924_6552372875125422494.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·善后",
+          "text": "不管你是不是荒泷派的人，我都不会把你当外人。你就往前走吧，幕后的工作交给我。放心，这方面我是专业的，多复杂的事都能办妥。嗯？担心我的安危？呵，这方面你也放心吧，这些年的摸爬滚打，不是白经历的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/d50a3a5432f2dfe443607526a85729b1_4471754555569900594.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "和证书一样，这是对我能力的肯定和证明。但不同的是，我至今不知道它的考核标准。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/d2858cfd9860a3fd6504e0db648fec4f_4713941930289064518.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·面铠",
+          "text": "戴上面铠是不想被熟人认出来。尤其和荒泷派一起出任务时，要是熟人看见了，指指点点，那群家伙肯定会趁机起哄。啧，光是想想，就很烦。不能再有下次了…咳，没什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/f1ec5e119b55f71b4f66a33deaacf78b_154945718967559074.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·派中法度",
+          "text": "我制定了荒泷派的「派中法度」，他们就应该谨遵法度行事。嗯？你问他们为什么愿意听话？因为我比他们更有说服力。我的语言和拳头，姑且还算是有点分量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/a02dc93e4c4a4a967ec33702583bd066_6079627651049234746.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "神社中流传着一种说法，将鸣草织成一个圈缠在身上，就能祛灾祈福，你信吗？我倒觉得，鸣草，还是麻痹效果更实用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/a54cb9850a5d29838c0ffe8477a4dde8_4189064333474868178.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "解除锁国后，雷电将军陆续颁布了不少法令支持各行各业的发展。我在锁国期间考的证书全都派上了用场，荒泷派也不那么拮据了。祸福相依，没想到到头来还得感谢她。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/e288b0f94eb0bc1627655932a3cc63eb_2033666944429344623.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "九条小姐啊，她是我的朋友。嗯？我认识她让你觉得很意外吗？噢，你可能误会了，我加入荒泷派之前就跟她有交情。我们俩的切磋，还难分胜负呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/176684e247cde9eed0c38799f7e76e41_8197510711071714262.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "就连堂堂鸣神大社的宫司大人，都要靠副业来解闷，可见当巫女是有多无聊。我是绝对不会回去当巫女的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/8c38c0a33961a898acc0f090eec803aa_2613966280192805981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "老大有很多不算愉快的过去，却还能保持快乐阳光，挺难得的。他对我们很不错，他的纯粹也感染着荒泷派的大家。当然，这不能成为他横冲直撞影响别人的借口。如果他找你麻烦，尽管告诉我。我会好好收拾他，让他后悔对你无礼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/06b6abb3eb2c398f97741a47a771a333_8764383533088136396.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于烟绯…",
+          "text": "那时候跟家里闹翻了，只想着有多远逃多远，就跑去璃月学律法了。得亏这样，有幸认识了烟绯师姐。在律法咨询这块，她简直就是活字典。我？执业证书倒是有的，不过这个职业的约束也不少，并不是最适合我的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/6ecb5a673cd5e3f7fdcdedaba6c88be2_2925085402256437194.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏…",
+          "text": "他和普通天领奉行同心不一样，从未见他做什么巡逻、抓捕的活。他偶尔会找我买线索，作为交换，我希望他能在我去奉行所捞人时帮我美言几句，他也爽快答应了。这笔交易还算值，毕竟让弟兄们收集点市井见闻是很简单的事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/94c8a711f81f8043e48a59f0f05fe96f_3015965672066576471.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其一",
+          "text": "我做过很多不同的工作，相关的执业证书也有不少。管理方面，带过小型团队，负责人员统筹和资源调配…呃，抱歉，面试多了就说习惯了，别介意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/4da3c753486df4e8f7fa2d9fe5e58930_2051121261288677855.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其二",
+          "text": "我家是巫女世家，但我不适合当巫女。刚逃出来那会儿，我觉得要多积累，以免没有傍身之技。什么厨师、裁缝、格斗、律法咨询、出版编辑…我都学了。没想到真正进了社会才发现，学的已经完全够用了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/756c4246ba4f7fb0ae37db40671db840_5972386452461179547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其三",
+          "text": "你说我社交场合很厉害？呵，毕竟在外流浪了那么久，总得学会察言观色。更何况在多数时候，理亏的那一方都是我们。我不讨厌摆出那些表情，但可以的话，我还是选择不笑的好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/6b388a833f14ff80cb5d5bb700ad50fd_1623237165028637616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其四",
+          "text": "刚进荒泷派的时候，老大要我教小弟们怎么打架。所以我上来第一件事，就变成了把他们挨个揍趴下。没想到，一个个鼻青眼肿的，却睁大眼睛，张嘴就叫我「忍姐」，还要我好好带领他们。哼，那时候我就知道这是一群笨蛋。但没关系，笨蛋不会拖我后腿，我会解决一切问题。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/2464489d9d8f579c9613aef140a7245e_2373645590991201575.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解久岐忍·其五",
+          "text": "留在荒泷派是我自己的选择。收拾烂摊子难免令人火大，但他们也给了我无可替代的真诚。最好的东西都先留给我、从不泼我冷水、在我宣布决定后闹哄哄地鼓掌吹口哨…我知道外面对荒泷派的评价不太好，他们自己也不在乎，但我还是想努努力，改变别人对我们的印象。因为，对待「家人」，自己可以偶尔抱怨，但就是不想其他人说他们的不好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/0b8705bbc3f70e8d36a312427a0d1b03_7970368668215737589.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "久岐忍的爱好…",
+          "text": "平时混帮派，闲着也是闲着，经常不小心读完一本书，不小心就把证考了。不也挺好吗？家里问起来，我也没虚度时光，出去谈工作，也算得上有资本。在这个凡事讲究实力的社会里，我这种有证书的混子，到哪里都能吃得饱饭。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/19f5ee45e7db54e78e3de4e3c66972d2_3073062610425461234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "久岐忍的烦恼…",
+          "text": "以前不想被抓回去当巫女，就决心只靠自己站稳脚跟。至少目前看来，我干得还不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/1612e2a1f84b930b2acf8d7204633845_6952307733366713076.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "就算刚吃过拉面或者饺子之类很管饱的食物，最后还是想以一小碗米饭结束。米饭好吃，没什么其他原因，有问题吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/de2b6246c077dfc5aa1064b1a85e9938_165228938835137861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "厨师证到手后，我就更加坚定那个从璃月听来的说法：没有难吃的食物，只有不合格的厨师。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/ee27b6b032233678b1f28f855b2154af_7192285743463382885.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "真不简单。咳…我就再多吃一口。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f051c3814c5e27ff4a779408bfc0fa84_4919494192623964833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你做的？嗯…这种水平去考个厨师证应该绰绰有余。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/da778bf3eebb86dbdb6dba04efa48e51_8699265174818837315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "我直说吧，你是不是放错调料了？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/03eb23eeeaa576e22cec3db749cfb751_3317084495883853491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐，来，这个鸣草特制飞镖送给你。小心点，嗯，对，要像这样拿…投掷前记得计算弧度。呵呵，看你喜欢我就放心了。哦，别把它当玩具，还是有一定危险性的。想多训练一下的话，我来教你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/3bdabf80933eb5e17bef5948d216780a_3645845129415654210.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "基本功不过关，就什么都不用谈了。这就是初级证书的意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/32f2d99a43a091ce1792e925d71c66ad_962231139604451320.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "中级证书到手，已经可以处理大多数麻烦了。有什么麻烦事需要我帮你解决？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/6eb05272efdb9e238fbac75c268e1f5d_6313211320675253506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "高级证书绝不是轻易就能得到的，天赋和实战的累积缺一不可。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/08a481378e62e9435ee5f4849156c7b0_5831472937924431687.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "证书只能用来评判技能的专业程度，无法对付出或情感的投入进行量化。你我的交情也不能只用一句感谢来表达，还是用我最擅长的行动来说明一切吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/724c5799d8e555d5bd030daa764e6dfb_5069093788127853036.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "鸣草结环！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/943d0e6d98d35b5fd984560f1ef01135_445529782280236889.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "解厄！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/9646cc5e248d5dafcd559ac4a4896dcc_8121249419258920505.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "好好站稳了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/7c02eb705d43a4d6b81db6e143190b38_441861392947601882.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "给我…安分点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/2e1d123c7be872abede5f87e2b1c0d8f_2839698906017421544.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "祈雷…祓除！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/da3a38cedb6447ea51af79966b8b34f9_169569821602532132.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "别来碍事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/472089416f1ef54b4b2d09453b2b3f23_8488540710071476745.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "嗯，积少成多。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/aa4acf4628212b8b3268af8e9d36fac6_6678490044256269465.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这票也稳了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/5985eb5e38dd2e372111f505b6928cd3_6806962650497873516.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "你的了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/0a73622f0615387aa0c3f5b0ce8b0d6f_8073326440031594058.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "给、我、站、住…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/99ca7d020c34a026b3702410c55fed00_1995465835408895529.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "算是惹怒我了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/06a39aa856c915f3ebdd51de55a0b4c5_7096253362845609604.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哼，该我了吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/7f56868da0c65e11a68c2855aa4b2c89_953332941467432818.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "我来善后。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/706e67ed7523e088298779d6bbb8744d_4477954056432835025.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "行了交给我，别硬撑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/2bfa7cb0c5cb6322aa8c03c38b79ca5d_7646527346628269111.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这次…是给人添麻烦了啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/e5737b22c1d3c815eaf5b284e056a65f_7549431249433772570.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "荒泷派就拜托你了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/71ee8f8e3c7504a07003b6644be587ff_2680167321105879318.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "这是对我的…侮辱…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/375bafd31cf44fc2004cc63748223e5c_607518409911344098.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "再来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/3313ab34367af6ea0b99316f3a85898e_6801398615876459390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "等着！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/3785bbea613023536005996406fad37a_5762653805840714019.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "找打是吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/f70dc0973b0582bee3bbf358a970d387_1149572441407568556.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "看我眼色行动。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/5e0a285851d046515c3ee1e92c687e24_5280350071617974120.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "这次是什么麻烦？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/093eded4b2dc68cf7e43b95d9cab5687_4242795225980075056.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "希望不是烂摊子。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/06/22/16576950/3413deba8783bd53abe12d42e1150226_1897178591755643045.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

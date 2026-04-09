@@ -1,0 +1,1757 @@
+{
+  "id": "6937",
+  "name": "林尼",
+  "alias": [
+    "林尼"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "是我哟，全提瓦特最棒的大魔术师——林尼。惊喜吗？意外吗？想知道我是怎么出现在你面前的吗？嗯——你那双像黄宝石一般晶莹剔透的眼睛，让我很中意哦！让我再为你表演一次吧。看好了哦，这回，千万不要眨眼。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/78a74978cbbdb5ca9b0862ea6e6e3936_1811077319138043622.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·分心",
+          "text": "大魔术师就在面前，还有心思东张西望吗？这样可就要错过最精彩的一幕咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/12fd37b1353f786705f646f76ce81a22_8072246494807770844.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·妹妹",
+          "text": "我亲爱的妹妹——琳妮特此刻在做什么呢？肯定想我想得不得了吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/5a60685f6fafb462abe6ecf9833de3f8_5102275268230558252.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·眼见为实",
+          "text": "我希望观众们都相信「眼见为实」的道理，那我就能变出数不尽的戏法。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/263ecc0ee2d46b2db81f7ba434db4552_4918039888824468278.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "哎呀，这种天气，看来今晚没办法看到星星了。除非…我试着把星星变出来？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/49e1238cc900d704c9733ab954908cde_1844734543120593868.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "真幸运，天晴了，该不会天上有谁在变魔术吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/de03920b0270ea121f574a56882403c3_486046679301573519.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "啊嚏…呼…我听过一种说法，说打喷嚏是有人在想自己。琳妮特吗？哦——还是你呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/c075435aec3a2bb5b52eda870858cb9c_3834001010104545398.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "呼，好险。要是帽子被风吹跑的话，里面的道具就会哗啦啦砸在我脑袋上了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/35de0213886fafec59dccd2ee22e1104_1887300525944068260.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这风也太大了，我的纸牌都——等等，哎，别迷路啊！你的主人在这边！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/8742fb7a5e46231930043b7a04bd6c78_2685595818040005012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "…唔，再让我睡会儿…嗯？是你呀——嗯，我说怎么今天的阳光那么好，原来是你来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/dc7707223a98d9f2c685cb9255cf7700_421037246159145887.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "下午我需要检查一下魔术用品，构思新的魔术创意。你要一起来吗？来嘛，别推脱啦！你可以试着喂喂我的动物助手们，我想你们一定合得来。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/9e0996a064a3796cba44c0da85664b58_8022090073772968893.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。今晚有大魔术师的演出，你肯定没忘吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/4e006a7fb6b9f83d51b83d28d7fc8054_4172959405330573998.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。要是睡不着的话，我有些催眠小道具可以用…啊，还是算了吧。睡吧，愿美梦陪你到天亮。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a0ecba3e4a495e076b0ca06bf5e8d0b8_2474463010568701900.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于林尼自己·嘴甜",
+          "text": "对了，有件事情，我必须强调一下。我可不是对所有人都这样说话的哦，主要还是因为对象是你。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/bf3a96867f9b29e13f7a2b4f7efc19f7_572482933230087234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于林尼自己·搭档",
+          "text": "啊——琳妮特不在，我要进入待机模式了。虽然一个人也能处理好身边的事，但还是会有些不习惯。你能理解的吧？毕竟你也…我是说，毕竟派蒙总陪着你。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/6dc765fe03af5f481dae265427187b15_7462000731651860500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·隐瞒",
+          "text": "哇，好尖锐的话题…这么说吧，甜美的浆果通常出没于荆棘丛生之地，不然就会被馋嘴的狐狸一口吃完…这都是为了保护自己呀！好吧，我承认我确实不介意偶尔对别人撒点小谎，但我们之间最多只能算是有所隐瞒吧？不是吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/5b8702826979d55a18d61d8099a9b3ec_2878371362607350178.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·原则",
+          "text": "魔术师一般不会透露魔术的核心秘密…但如果你愿意喊我「林尼老师」，成为我的学生，那么「原则」就产生了变化。也不知道你的领悟力和耐心到底能有几分呢？真让人期待。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/97ff988612b1f172c829b83a4d3870a0_244804709627475716.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "魔术师佩戴着神之眼上台，难免会遭到质疑，所以我习惯了提前摘下它。既然你有兴趣，要不下次我表演的时候，就由你帮我保管它吧？要看紧一点哦，可千万别让它又偷偷滑到我手上了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a03b09cc367272947fb31bf77346aabf_7169379426589224187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "魔术不仅是一种表演形式，也是一种思维方式。世界上有很多看似平平无奇的东西，其中大有玄机。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a730765a9e5bafe8fda920ee5ff32ca5_3709578188604674998.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "猫咪的耳朵能表达情绪，向后翻折说明恐惧或者警戒，向前竖起，偶尔朝外多半表明心情愉快，快速晃动则是在警觉地判断四周情况…多观察就有经验了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/7ee51ac47af0d283d9a6f97dd8ce328c_163251693899875725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「父亲」·家",
+          "text": "「父亲」给了我们一个家，教导我们成长，告诉我们每个人应该努力的方向。我能做的也很简单。保持忠诚之心，以及…守护我们的家。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/6374601fe8a52688049322f42bafe955_6968002083767680094.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「父亲」·王",
+          "text": "在这座只有孩子们构成的王国里，「父亲」是我们的王。我知道国王早晚会选继承者，也知道那会是我…但同时，我对那样的情况感到恐惧…请不要告诉任何人，尤其是妹妹和菲米尼。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/79204348999823a37a18e7aacb45ea07_8967600316206865768.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琳妮特·模式",
+          "text": "你觉得妹妹她话很少？明白了，那是运行模式不对。下次，先对她说「激活，聊天模式」，运气好的话，她会和你说上很长一段话。你问运气不好要怎么办？别担心呀，就算被她瞪几眼，你也见到了和平时不一样的琳妮特！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/bd77348f38a64daeece6b201aa8912d8_5602564613263478429.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琳妮特·双子",
+          "text": "我和妹妹从小到大都在一起，艰难的时光只要有彼此就能度过，开心的时候也会和对方共享。家人，就是我们最宝贵的归宿。我们都能理解你与家人分别的痛苦…如果发现了任何线索，一定会告诉你的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/73cb362d4cdae66cf03557d15cd3f5f3_9151240373161820300.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "我这位天真的弟弟，至今还相信童话故事。真让人有些羡慕。哦，这不是他自己告诉我的，是有次我不小心看到了他锁在秘密抽屉里的东西…真的是不小心哦！所以还请你不要告诉他，不然他肯定会生我气的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/6aaaa5d7c09c2cceba09ef2b0df96ffa_3770757734265770505.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "那维莱特先生很少公开露面，似乎刻意和人们保持着距离。一开始我还以为是我的错觉，但观察最最敏锐的琳妮特也有同感，那看来确实是这样了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/06990ead30a121e58c8515ad99029611_7225164528741461997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "水神芙宁娜大人的行事作风不可捉摸，说得更露骨些，她平时说话也像是一种表演。枫丹人对精彩的舞台演出情有独钟，因此崇敬她的人也有不少。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b3d2d128859f9d43aef81e318915fa0d_4754993093946489096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于千织…",
+          "text": "恭维话在她那里是行不通的，只有真正懂得欣赏的人，才能让她另眼相待。你问她怎么看我？这问题可让我有些伤心哦，我可是既懂欣赏，又对大家真心相待的人呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/16605c8c2bcdaba1dbda61aac0e9b655_8074797162110918692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "没想到她在不认识我的情况下愿意出手相助。要是没有你们的话，我和琳妮特肯定无法脱身…总之，非常感谢你们。就请让我等待一个阳光灿烂的日子，邀请大家去露泽咖啡厅吃最美味的茶点吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/ca58a5d96c3c806d12470de93044520d_5000408935763280196.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "自从那次见面之后，夏洛蒂小姐多次邀请我接受专访，呃…好像快有个二十次了吧。她对新闻有种与生俱来的敏锐，个性还异常执着。但说老实话，我可不想成为她笔下「爆炸性新闻」的主角，只好一次又一次用不同的理由婉拒了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/9fe8407e5bb422719edc05721fc39e6c_9182505806397257266.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "作为决斗代理人，克洛琳德小姐颇有名望。但我最近在报纸上看到，她似乎麻烦缠身…媒体非常喜欢挖掘她的故事，至于她本人…应该相当厌恶这种行为吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/7ef6cd829c7a0fbbab3bd82c441a600f_4508709460317210956.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "你闻过她设计的香水吗？我还挺喜欢的，原本想买一瓶试试…但琳妮特的尾巴似乎有不同的意见。那我也只好算喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a3c4c60ca91b95e2b3de9167a6f6bd5b_352099673451462801.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其一",
+          "text": "看来我们彼此都对对方很感兴趣呢，我的荣幸！哈哈，放心吧，只要看到你那令人着迷的眼睛，我就舍不得对你撒谎。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/c7082f7dbe8ca1bf01aee88ab3044079_6668326631858815985.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其二",
+          "text": "魔术表演当然没办法保证永远不出现纰漏。对我而言，演出的重点也不是百分之百避免穿帮，而是时时刻刻保持镇定，随机应变。就算露出了小破绽，只要能让观众相信那也是表演的一环，依旧能成为一场精彩难忘的演出。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/f06523e4b91e10ce1c745e57d31a7bfc_1258851496875303894.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其三",
+          "text": "没有父母遮风挡雨，从小流落街头的孤儿，总要经历比常人更多的磨难。但正因为那些事情，才造就了如今的我和琳妮特。现在，我们都过得不错…「家人」、观众…我的帽子里装着很多很多人的期待呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/ab9dcc12d35cd71f092c5ea01bcc8a22_9049494367664905638.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其四",
+          "text": "哈哈，到现在还没办法完全相信我说的话吗？看来你警惕心很强，这是好事，我就不用担心你被别人骗了。另外嘛，你可要负起责任来，盯着我，谨慎挑选眨眼时机…不然的话，趁你不注意，我就去撒弥天大谎咯！到时候你也脱不开干系。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/3b23c98600b3212706c0a71214ea3973_7738310892315868010.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其五",
+          "text": "「真实」的我，并没有我所表现出得那么外向、健谈。更多时候，我是为了跟大家拉近关系，才使用了语言上的「魔术」…你会同情原本的我吗？还是会觉得这种戏法…很愚蠢呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/68fc9a12501f7618b40f54bb6903c421_6980350392639722312.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "林尼的爱好…",
+          "text": "嘿，看这儿——可爱的小白兔，喜欢吗？好奇它是什么时候来到这里的吗？那就对了！观众脸上惊喜的表情，正是每一位魔术师的最爱。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/0a6f039b357f5529f4fa43a8908fb951_4704838712579145622.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "林尼的烦恼·掩饰",
+          "text": "怎么办呢？我最大的烦恼就是——你在我这样的大魔术师面前，还能想到烦心的事情。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/4aea26a442dc9452a82088f06edd77e4_5442763825322304593.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "林尼的烦恼·鸽子",
+          "text": "过去，我总是放养我的鸽子，它们也总会飞回我的身边。后来有一次，回家的鸽子少了几只，等我们循着痕迹找到的时候，它们已经变成了鸽子派。至今我也不知道，我要怎样同时带给它们「自由」和「安全」。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/8159b7e4e2bce7a801dd18bb7069a1ee_1784149801506704288.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "看到这个鱼缸了吗？来，你可以把手伸进去感受一下，是不是真的只有水。确认好了吗？那就开始咯！看这块布，现在盖上去了…嘿呀，鱼变出来咯！怎么样？这精彩的表演，能换一道你亲手制作的鱼肉菜肴吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/8842e0c8b63b42b7c1bfcad5722d1c91_6704663861095595202.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "出于表演需要，我和琳妮特得保持身形相似，我们会尽量不吃油炸食品。我倒是无所谓，妹妹就比较辛苦了——街头的炸鱼实在很香嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a937911ddc4b843b06045e51966d4419_4786864658614079085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "能吃到你亲手制作的美味，真是荣幸之至。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/cc90094bb4af49b23dc12a67ae3e792d_7723926344583998329.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你的厨艺不错嘛，很好吃哦！多谢款待。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b9e2c32b116a3d65e98a884926842140_6629105028777547019.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "想看魔术吗？来吧，看我把布盖在上面，你跟着我一起念——三、二、一！食物消失咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/0874a112ee4ae6ba80467d39746a5f0c_367036493196527526.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "这里有一根羽毛，请伸出手来确认一下，它的确是一片普通的羽毛。好了吗？啪嚓——其实是礼花哦，生日快乐！看到了吗？礼花里飘下的一片彩纸，被我抓住了。在我点燃它的同时，你就可以许愿了，顺带想象一下你的生日礼物。三、二、一——嗯，很~好~我已经明白你的想法了。来吧，把手伸进我的帽子里——如何？这份礼物是你想要的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/7d1be2615395db1dc6c92b8b909f6920_3886034715502034386.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "哎呀，我还以为你想让我用这些素材变魔术呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/e9c1d389870968561af01f02349232af_2817114463542679819.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "要是什么变化都没有，会不会让你更加吃惊？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/06eeab08e945fc2a3891d903ab039387_7069241090858478520.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你愿意信任我，没有比这个更令我开心的事情了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/309d4d1826a089e8c0b0e6d542991d91_3514974297577814062.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "为我付出这么多，是想要偷走我的心吗？那就让我恭喜你、祝贺你吧！我亲爱的学徒，或者说伙伴——你已经做到咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/8d31719ea3a82d0c4f7c0e31a7864527_573261412022801995.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "一点小把戏。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/63b256da324f6fb22f24690edc0df6dc_2083482552258174343.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "看看这个吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/d8a2a7770ea6eedb555a7aa5f7568cf2_3196300728889276316.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "惊喜连连。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b37a6f5a45ccc430202f63a60545ef63_2901445665478367836.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "压轴表演！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/f4d7dcd86893a81eaa9c5d4015b1e31e_4318566681429982490.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "好戏开演！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/663989fc43f0842706f19783897db6c6_2078892578646033016.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "响起你的掌声！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/c318c8147ba3b851a4a6a58cb29b36d5_1141933099865920638.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "用这个道具，把它们全部变走…开玩笑的啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/4de6ee1ad808acdcaaa8e8e3d4d0c927_5729090710291581722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "装进魔术口袋里吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/4fdb48c98abc5415b0934d482d6bc088_1563600965875282945.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这也算是一种宝箱魔术吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/943cd138f29e305ec314864b060e7271_2800964173094678997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "这是要我表演诈死魔术吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/c61a94fb51b9cfd618216770462d41cc_8336107037386011247.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不错的戏法…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/861a28502fdfca7ac9c2fac15bbf2ae7_406439573953528466.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "不会有事的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/ae9ec238a33079387b9ef5c424012be2_4392798188272710389.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "可别忘了还有我啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/2fa736657200b1f0594ea63eb9d22589_8989917011581405072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "节奏已经乱了哦？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/d140d72d28589193e4ab1cbfbe779945_4675328302039442552.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "琳妮特…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/9f09247103e5b4ea3edfc566dbb48708_7989886382653197870.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我的表演，不会失败！…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/c353a1e364d3ed88edc13b79b304e2bc_8464784485320131936.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "幕布…快点拉上…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/2e6f577805db606cfbd26f15dc6b75c5_1541492635929437548.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "没事。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/8d1f7beaa80e566d7b18a05cac8be611_5219160682279087394.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "冷静…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/2b23db88775fbb877f6bf43f2242d83c_6577988699276203717.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "噢！「旅行魔术团」。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/9bf582dc359519fac590f233715feade_7628640507746471650.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "乐意效劳。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/c8a2a28b7c16c4bd698199a66c71c025_3471799623485272802.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "能被你邀请是我的荣幸。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/44f9d4bf70e256ecd9a1c8ab8bfe12c7_6168464856584334908.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "是我哟，全提瓦特最棒的大魔术师——林尼。惊喜吗？意外吗？想知道我是怎么出现在你面前的吗？嗯——你那双像黄宝石一般晶莹剔透的眼睛，让我很中意哦！让我再为你表演一次吧。看好了哦，这回，千万不要眨眼。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/0cebdeaf2be7609ada98e20a3838dd53_5703854476406829925.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·分心",
+          "text": "大魔术师就在面前，还有心思东张西望吗？这样可就要错过最精彩的一幕咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/397b7e455a902e9eac98860d386cba4a_803624270179514597.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·妹妹",
+          "text": "我亲爱的妹妹——琳妮特此刻在做什么呢？肯定想我想得不得了吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/328c931ceaf4e7cb318009ea459d7cde_3865981643785697442.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·眼见为实",
+          "text": "我希望观众们都相信「眼见为实」的道理，那我就能变出数不尽的戏法。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/4e07b8fcf654dbf6ef606e613b15f8ae_8690694399597448684.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "哎呀，这种天气，看来今晚没办法看到星星了。除非…我试着把星星变出来？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/eb6ae09639dbfda5c69c7118ac43870f_5465238470505641514.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "真幸运，天晴了，该不会天上有谁在变魔术吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/60b6a7dc7965eafa858010e90b6710b5_4118823843263269371.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "啊嚏…呼…我听过一种说法，说打喷嚏是有人在想自己。琳妮特吗？哦——还是你呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/9407e64c8d84c52f242c016a7ba1d5ed_2695927262797076489.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "呼，好险。要是帽子被风吹跑的话，里面的道具就会哗啦啦砸在我脑袋上了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/4191f2b6ca138eeed894b0cf7545d71c_5098184337163940434.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这风也太大了，我的纸牌都——等等，哎，别迷路啊！你的主人在这边！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/408acf7b9427d1b13aa1316f39672a6c_7776481662799466884.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "…唔，再让我睡会儿…嗯？是你呀——嗯，我说怎么今天的阳光那么好，原来是你来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/12f8ab2d92918b3e864e04f4e6dab6f7_253192019096360823.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "下午我需要检查一下魔术用品，构思新的魔术创意。你要一起来吗？来嘛，别推脱啦！你可以试着喂喂我的动物助手们，我想你们一定合得来。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a7fc5f9db80e8e71053cd3756ad80dc2_6401795852576950023.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。今晚有大魔术师的演出，你肯定没忘吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/29fc82345cc36a942ddcba9574bd03f5_3926841037456559626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。要是睡不着的话，我有些催眠小道具可以用…啊，还是算了吧。睡吧，愿美梦陪你到天亮。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/1e12334d8ff0335005206c7692e480fc_1893732427376422341.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于林尼自己·嘴甜",
+          "text": "对了，有件事情，我必须强调一下。我可不是对所有人都这样说话的哦，主要还是因为对象是你。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/5e233bc108ca9420528d142344df34d5_9190683720907273026.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于林尼自己·搭档",
+          "text": "啊——琳妮特不在，我要进入待机模式了。虽然一个人也能处理好身边的事，但还是会有些不习惯。你能理解的吧？毕竟你也…我是说，毕竟派蒙总陪着你。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/9bc69329c729d198ef55b82bf7f4bcb4_8406308986086059614.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·隐瞒",
+          "text": "哇，好尖锐的话题…这么说吧，甜美的浆果通常出没于荆棘丛生之地，不然就会被馋嘴的狐狸一口吃完…这都是为了保护自己呀！好吧，我承认我确实不介意偶尔对别人撒点小谎，但我们之间最多只能算是有所隐瞒吧？不是吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/0c7db59cd0e63268eab3df0351dfe659_2429646568346988127.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·原则",
+          "text": "魔术师一般不会透露魔术的核心秘密…但如果你愿意喊我「林尼老师」，成为我的学生，那么「原则」就产生了变化。也不知道你的领悟力和耐心到底能有几分呢？真让人期待。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/535061696e6c49cb355ef2dc232d023d_5844261293660603599.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "魔术师佩戴着神之眼上台，难免会遭到质疑，所以我习惯了提前摘下它。既然你有兴趣，要不下次我表演的时候，就由你帮我保管它吧？要看紧一点哦，可千万别让它又偷偷滑到我手上了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/788f1b7bd7b2dd62442b76822445f96e_190121829909435129.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "魔术不仅是一种表演形式，也是一种思维方式。世界上有很多看似平平无奇的东西，其中大有玄机。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/1f9fa5e813598b30deb4ef73a511fffa_8589395799352679887.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "猫咪的耳朵能表达情绪，向后翻折说明恐惧或者警戒，向前竖起，偶尔朝外多半表明心情愉快，快速晃动则是在警觉地判断四周情况…多观察就有经验了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/91212c5f2ea9b6d9e386aecb9e556b47_2733171880193182643.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「父亲」·家",
+          "text": "「父亲」给了我们一个家，教导我们成长，告诉我们每个人应该努力的方向。我能做的也很简单。保持忠诚之心，以及…守护我们的家。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/8aea33aecca1bba2d873f0aed7238034_2347426378883605691.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「父亲」·王",
+          "text": "在这座只有孩子们构成的王国里，「父亲」是我们的王。我知道国王早晚会选继承者，也知道那会是我…但同时，我对那样的情况感到恐惧…请不要告诉任何人，尤其是妹妹和菲米尼。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/75a898911a385c60ce4bbddb23d57342_6496132843879260122.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琳妮特·模式",
+          "text": "你觉得妹妹她话很少？明白了，那是运行模式不对。下次，先对她说「激活，聊天模式」，运气好的话，她会和你说上很长一段话。你问运气不好要怎么办？别担心呀，就算被她瞪几眼，你也见到了和平时不一样的琳妮特！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a184316a04e0e41ee3f1d7e0a2845072_9135996861550198097.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琳妮特·双子",
+          "text": "我和妹妹从小到大都在一起，艰难的时光只要有彼此就能度过，开心的时候也会和对方共享。家人，就是我们最宝贵的归宿。我们都能理解你与家人分别的痛苦…如果发现了任何线索，一定会告诉你的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/4ef17e0edba6e7d196746b0e0039e146_7097765611459665413.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "我这位天真的弟弟，至今还相信童话故事。真让人有些羡慕。哦，这不是他自己告诉我的，是有次我不小心看到了他锁在秘密抽屉里的东西…真的是不小心哦！所以还请你不要告诉他，不然他肯定会生我气的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/16f5285b9e7d1372205ff8dc1c91bbbf_3642641014072625542.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "那维莱特先生很少公开露面，似乎刻意和人们保持着距离。一开始我还以为是我的错觉，但观察最最敏锐的琳妮特也有同感，那看来确实是这样了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/9299e1bd3c2bc13d77e5de1ad7ec2f81_4749974003551564125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "水神芙宁娜大人的行事作风不可捉摸，说得更露骨些，她平时说话也像是一种表演。枫丹人对精彩的舞台演出情有独钟，因此崇敬她的人也有不少。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/36ca77c12bcd278f3ac86ce27be44731_413803480797041390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于千织…",
+          "text": "恭维话在她那里是行不通的，只有真正懂得欣赏的人，才能让她另眼相待。你问她怎么看我？这问题可让我有些伤心哦，我可是既懂欣赏，又对大家真心相待的人呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/68e47413742563567f9d87958e9a787f_708688408115294883.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "没想到她在不认识我的情况下愿意出手相助。要是没有你们的话，我和琳妮特肯定无法脱身…总之，非常感谢你们。就请让我等待一个阳光灿烂的日子，邀请大家去露泽咖啡厅吃最美味的茶点吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/272c4607e8f0295e70de7fc5e56277ae_8818204906145805475.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "自从那次见面之后，夏洛蒂小姐多次邀请我接受专访，呃…好像快有个二十次了吧。她对新闻有种与生俱来的敏锐，个性还异常执着。但说老实话，我可不想成为她笔下「爆炸性新闻」的主角，只好一次又一次用不同的理由婉拒了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/df6d29262e4c739b00552010dd609494_1625659378824287015.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "作为决斗代理人，克洛琳德小姐颇有名望。但我最近在报纸上看到，她似乎麻烦缠身…媒体非常喜欢挖掘她的故事，至于她本人…应该相当厌恶这种行为吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/bc2478e009080253ba56333420e7f157_6276610688042256991.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "你闻过她设计的香水吗？我还挺喜欢的，原本想买一瓶试试…但琳妮特的尾巴似乎有不同的意见。那我也只好算喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/90e19ca530cf229ebd4df17a53d81e34_6162564850180320270.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其一",
+          "text": "看来我们彼此都对对方很感兴趣呢，我的荣幸！哈哈，放心吧，只要看到你那令人着迷的眼睛，我就舍不得对你撒谎。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/94e294dd8305bbb4e588c9db6b6a145f_6958781044865618021.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其二",
+          "text": "魔术表演当然没办法保证永远不出现纰漏。对我而言，演出的重点也不是百分之百避免穿帮，而是时时刻刻保持镇定，随机应变。就算露出了小破绽，只要能让观众相信那也是表演的一环，依旧能成为一场精彩难忘的演出。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b683b716ac4a6857e163fb5a7a039320_5528585779788497393.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其三",
+          "text": "没有父母遮风挡雨，从小流落街头的孤儿，总要经历比常人更多的磨难。但正因为那些事情，才造就了如今的我和琳妮特。现在，我们都过得不错…「家人」、观众…我的帽子里装着很多很多人的期待呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/77acbfe45bb65fba06bd6c03af65e94f_3222637680182683922.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其四",
+          "text": "哈哈，到现在还没办法完全相信我说的话吗？看来你警惕心很强，这是好事，我就不用担心你被别人骗了。另外嘛，你可要负起责任来，盯着我，谨慎挑选眨眼时机…不然的话，趁你不注意，我就去撒弥天大谎咯！到时候你也脱不开干系。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/142d498b315fb010ac965b95dca0ac82_8159568564494615654.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其五",
+          "text": "「真实」的我，并没有我所表现出得那么外向、健谈。更多时候，我是为了跟大家拉近关系，才使用了语言上的「魔术」…你会同情原本的我吗？还是会觉得这种戏法…很愚蠢呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/e9e16cde9b933ff209e804f08c1161c0_5457953323334303330.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "林尼的爱好…",
+          "text": "嘿，看这儿——可爱的小白兔，喜欢吗？好奇它是什么时候来到这里的吗？那就对了！观众脸上惊喜的表情，正是每一位魔术师的最爱。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/6c0a7e0995cd00ae990f37f9dbc0ec49_5889449494768578692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "林尼的烦恼·掩饰",
+          "text": "怎么办呢？我最大的烦恼就是——你在我这样的大魔术师面前，还能想到烦心的事情。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/550a2dc4e1e7b01528610f64b93adbad_6172393143025245501.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "林尼的烦恼·鸽子",
+          "text": "过去，我总是放养我的鸽子，它们也总会飞回我的身边。后来有一次，回家的鸽子少了几只，等我们循着痕迹找到的时候，它们已经变成了鸽子派。至今我也不知道，我要怎样同时带给它们「自由」和「安全」。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/6473afa84eb36293ee6a12e82a490fd8_1242417623953257925.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "看到这个鱼缸了吗？来，你可以把手伸进去感受一下，是不是真的只有水。确认好了吗？那就开始咯！看这块布，现在盖上去了…嘿呀，鱼变出来咯！怎么样？这精彩的表演，能换一道你亲手制作的鱼肉菜肴吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/563d9df632b772131c6480e4af6d6f09_6718262571454659407.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "出于表演需要，我和琳妮特得保持身形相似，我们会尽量不吃油炸食品。我倒是无所谓，妹妹就比较辛苦了——街头的炸鱼实在很香嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/23449c941e8eb70be3a5d25fafa66928_771935731577633725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "能吃到你亲手制作的美味，真是荣幸之至。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/3f820f075e536ab86f6bf2fd438ff48d_8611495924362815630.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你的厨艺不错嘛，很好吃哦！多谢款待。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/5ba2008a0a74ff866d364840263b3735_3569191091920890493.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "想看魔术吗？来吧，看我把布盖在上面，你跟着我一起念——三、二、一！食物消失咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/2d7083dbc41d23448e3b6459fe94c1a2_4596395520860515628.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "这里有一根羽毛，请伸出手来确认一下，它的确是一片普通的羽毛。好了吗？啪嚓——其实是礼花哦，生日快乐！看到了吗？礼花里飘下的一片彩纸，被我抓住了。在我点燃它的同时，你就可以许愿了，顺带想象一下你的生日礼物。三、二、一——嗯，很~好~我已经明白你的想法了。来吧，把手伸进我的帽子里——如何？这份礼物是你想要的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/544c08d52abaccb80aa896db6def21da_1994843468996384659.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "哎呀，我还以为你想让我用这些素材变魔术呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/8af4fb15e221c0d25329e030e79e6b60_4164231233370858383.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "要是什么变化都没有，会不会让你更加吃惊？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/938e820ad314a1f2c81379cf8f68414c_4660188095968041841.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你愿意信任我，没有比这个更令我开心的事情了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/93fc2bf95dec29b397e7c8262f584a78_2708453711577091272.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "为我付出这么多，是想要偷走我的心吗？那就让我恭喜你、祝贺你吧！我亲爱的学徒，或者说伙伴——你已经做到咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/fe39e3e40e8187f97753a4e50981fec8_5450243591775171942.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "一点小把戏。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/11499ab70f6557b245b409b7bbaf98b2_5584900406048635380.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "看看这个吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b87db93a72edd305db98e509c69eed6a_750786838616215909.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "惊喜连连。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/058c2d0285236ad236f55048f9c1b2f3_3552569902993537839.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "压轴表演！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/d9dd6412340ca0613c2e0992e49c7bef_3185754238488794383.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "好戏开演！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/e6dea79c9f5c00deda6886614a27ce36_7538809321336111019.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "响起你的掌声！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/be6ad31d66cd5cd33f80d9555bf454bf_3503315452961783086.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "用这个道具，把它们全部变走…开玩笑的啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/83e98f5d4c8ef41396c120b6d275d7b8_7249635143757826771.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "装进魔术口袋里吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a13ca34751398fc8c180d0db113f3d89_7893719406002341891.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这也算是一种宝箱魔术吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/25381c443e7d4d80b027dd426e2180b7_3624505990401972958.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "这是要我表演诈死魔术吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/6ccdb1cc655e7ec1e864496e94244fa1_4235258456790350579.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不错的戏法…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/ec173da96bcac1303a07eb8a8bb80426_1934730765781496193.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "不会有事的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/0875f577c56b685be8c23ecf767f2ec9_7920917053591992966.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "可别忘了还有我啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/89d4d3af312d860b9b54cb5f64422c99_5997119548931248121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "节奏已经乱了哦？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/419670967907ff56dfbf29e81dcd919c_2202853881715885566.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "琳妮特…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/12557ef8694a8995f0416c95af7a32c7_4972665476591503025.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我的表演，不会失败！…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/3d9391d21b38b1d101734f445e1f6a4c_7192654889601475581.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "幕布…快点拉上…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/ea80528d61a7e05870980c05bd2fbbb6_8707964698297784452.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "没事。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/2335b78f58ec56291a945d8037844c86_1066285268616030479.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "冷静…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/ab1c2268b76fc3c9a998d2396638596b_2200715263818459057.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "噢！「旅行魔术团」。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/878600fb2ca80ae82a1b673d72c1aa2a_8317951816390801412.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "乐意效劳。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/e086752b95e121fbcfd19d9325f99866_5680664576287996152.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "能被你邀请是我的荣幸。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b6809e7be4f859b2027a8218a1035d7b_8855518169125568476.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "是我哟，全提瓦特最棒的大魔术师——林尼。惊喜吗？意外吗？想知道我是怎么出现在你面前的吗？嗯——你那双像黄宝石一般晶莹剔透的眼睛，让我很中意哦！让我再为你表演一次吧。看好了哦，这回，千万不要眨眼。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/9e5751d084fbf20538ebd17eed3407ee_8775347191919717861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·分心",
+          "text": "大魔术师就在面前，还有心思东张西望吗？这样可就要错过最精彩的一幕咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/9604c9e5c9dedb0367fd2c944dd141e8_7618593051361193429.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·妹妹",
+          "text": "我亲爱的妹妹——琳妮特此刻在做什么呢？肯定想我想得不得了吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/0da10c969f3ab9da0561b0b345bb4aef_8454217240964340045.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·眼见为实",
+          "text": "我希望观众们都相信「眼见为实」的道理，那我就能变出数不尽的戏法。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a0e622646f69219412f86995601b6017_1706542200386373477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "哎呀，这种天气，看来今晚没办法看到星星了。除非…我试着把星星变出来？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/69f2404d7d2f9dd9b69843beb3087272_1812621405145781657.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "真幸运，天晴了，该不会天上有谁在变魔术吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a7e4d11401cc0067c2154ea46106a450_3642968424975584800.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "啊嚏…呼…我听过一种说法，说打喷嚏是有人在想自己。琳妮特吗？哦——还是你呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/8c939e5b6948025ba5aed64ee2da1397_2299031268361233240.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "呼，好险。要是帽子被风吹跑的话，里面的道具就会哗啦啦砸在我脑袋上了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/cb9f1a7b9d29d8bbfc11481fa4abc1b3_5629534788311176283.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这风也太大了，我的纸牌都——等等，哎，别迷路啊！你的主人在这边！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/709ef7d289a5a981c982ea5d0b96c12b_5389381689075432059.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "…唔，再让我睡会儿…嗯？是你呀——嗯，我说怎么今天的阳光那么好，原来是你来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/ce29304f9265054020b451663a2bb047_8167252572989170009.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "下午我需要检查一下魔术用品，构思新的魔术创意。你要一起来吗？来嘛，别推脱啦！你可以试着喂喂我的动物助手们，我想你们一定合得来。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/4e31d59487acb6c4412d64e180688d7b_1076448097828726528.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。今晚有大魔术师的演出，你肯定没忘吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/fc5ed865fd49c8d65f18cedeac51aa22_4829833569160686924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。要是睡不着的话，我有些催眠小道具可以用…啊，还是算了吧。睡吧，愿美梦陪你到天亮。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/9c4cfb30a209baa2d056aa823e82746e_3716723580348501129.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于林尼自己·嘴甜",
+          "text": "对了，有件事情，我必须强调一下。我可不是对所有人都这样说话的哦，主要还是因为对象是你。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/01e90d4bce0c67b530221c63bc2c998c_2105329814951584394.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于林尼自己·搭档",
+          "text": "啊——琳妮特不在，我要进入待机模式了。虽然一个人也能处理好身边的事，但还是会有些不习惯。你能理解的吧？毕竟你也…我是说，毕竟派蒙总陪着你。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/5ea36d3d200cfb4f03771db76d503764_5727000867282616486.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·隐瞒",
+          "text": "哇，好尖锐的话题…这么说吧，甜美的浆果通常出没于荆棘丛生之地，不然就会被馋嘴的狐狸一口吃完…这都是为了保护自己呀！好吧，我承认我确实不介意偶尔对别人撒点小谎，但我们之间最多只能算是有所隐瞒吧？不是吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a76f19061aa56b60f4eca53c014ace8d_8950432997588461265.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·原则",
+          "text": "魔术师一般不会透露魔术的核心秘密…但如果你愿意喊我「林尼老师」，成为我的学生，那么「原则」就产生了变化。也不知道你的领悟力和耐心到底能有几分呢？真让人期待。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/4c19deedae02fae6b76409b335b10606_7030391780503410558.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "魔术师佩戴着神之眼上台，难免会遭到质疑，所以我习惯了提前摘下它。既然你有兴趣，要不下次我表演的时候，就由你帮我保管它吧？要看紧一点哦，可千万别让它又偷偷滑到我手上了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/0a3309e28e3d4f5fcd9097a65a6276c5_134264788417765645.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "魔术不仅是一种表演形式，也是一种思维方式。世界上有很多看似平平无奇的东西，其中大有玄机。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/e0295698b04077b29003a5fcf1426225_5942383471893604646.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "猫咪的耳朵能表达情绪，向后翻折说明恐惧或者警戒，向前竖起，偶尔朝外多半表明心情愉快，快速晃动则是在警觉地判断四周情况…多观察就有经验了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/f4b9907f5762d8b967d902486e5a0093_5575658170796250755.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「父亲」·家",
+          "text": "「父亲」给了我们一个家，教导我们成长，告诉我们每个人应该努力的方向。我能做的也很简单。保持忠诚之心，以及…守护我们的家。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/714338b9f07edc129d0ddaa7cea15c3e_8730036869645757065.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「父亲」·王",
+          "text": "在这座只有孩子们构成的王国里，「父亲」是我们的王。我知道国王早晚会选继承者，也知道那会是我…但同时，我对那样的情况感到恐惧…请不要告诉任何人，尤其是妹妹和菲米尼。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/bf139d24a91012178536e7a0fec45cc0_277372204924390402.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琳妮特·模式",
+          "text": "你觉得妹妹她话很少？明白了，那是运行模式不对。下次，先对她说「激活，聊天模式」，运气好的话，她会和你说上很长一段话。你问运气不好要怎么办？别担心呀，就算被她瞪几眼，你也见到了和平时不一样的琳妮特！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b28ee4d462cab141c55a171d2aa9106a_3575057661116488311.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琳妮特·双子",
+          "text": "我和妹妹从小到大都在一起，艰难的时光只要有彼此就能度过，开心的时候也会和对方共享。家人，就是我们最宝贵的归宿。我们都能理解你与家人分别的痛苦…如果发现了任何线索，一定会告诉你的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/5783a1c6fa0633a40bb147be0785a2d1_8599898928100560500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "我这位天真的弟弟，至今还相信童话故事。真让人有些羡慕。哦，这不是他自己告诉我的，是有次我不小心看到了他锁在秘密抽屉里的东西…真的是不小心哦！所以还请你不要告诉他，不然他肯定会生我气的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/f25674e7dcd4cf59262a432a403555ea_3843344957456953682.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "那维莱特先生很少公开露面，似乎刻意和人们保持着距离。一开始我还以为是我的错觉，但观察最最敏锐的琳妮特也有同感，那看来确实是这样了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/864443118972c860735e2e81d35af5f2_859719568280943076.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "水神芙宁娜大人的行事作风不可捉摸，说得更露骨些，她平时说话也像是一种表演。枫丹人对精彩的舞台演出情有独钟，因此崇敬她的人也有不少。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/1158268726f2470c932f1748cfdcf56f_2441394593448625232.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于千织…",
+          "text": "恭维话在她那里是行不通的，只有真正懂得欣赏的人，才能让她另眼相待。你问她怎么看我？这问题可让我有些伤心哦，我可是既懂欣赏，又对大家真心相待的人呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/f6ad6fb8e21cc724179b9b232d8801ed_4654626516155410308.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "没想到她在不认识我的情况下愿意出手相助。要是没有你们的话，我和琳妮特肯定无法脱身…总之，非常感谢你们。就请让我等待一个阳光灿烂的日子，邀请大家去露泽咖啡厅吃最美味的茶点吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/c7703baaa3600aa0c756bf3acc53dc7c_3245389741038128924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "自从那次见面之后，夏洛蒂小姐多次邀请我接受专访，呃…好像快有个二十次了吧。她对新闻有种与生俱来的敏锐，个性还异常执着。但说老实话，我可不想成为她笔下「爆炸性新闻」的主角，只好一次又一次用不同的理由婉拒了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/c262519479415abb3ffc3a5e98350086_6867006261246500691.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "作为决斗代理人，克洛琳德小姐颇有名望。但我最近在报纸上看到，她似乎麻烦缠身…媒体非常喜欢挖掘她的故事，至于她本人…应该相当厌恶这种行为吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b29ba9236610c51396fd4232e72c5306_3613908439273905309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "你闻过她设计的香水吗？我还挺喜欢的，原本想买一瓶试试…但琳妮特的尾巴似乎有不同的意见。那我也只好算喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/cb410e3daea0280f6dfdc743ebf6137b_3154121664925661692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其一",
+          "text": "看来我们彼此都对对方很感兴趣呢，我的荣幸！哈哈，放心吧，只要看到你那令人着迷的眼睛，我就舍不得对你撒谎。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/6f5e013218ac6be9212591edb4132bc1_3134359351180862400.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其二",
+          "text": "魔术表演当然没办法保证永远不出现纰漏。对我而言，演出的重点也不是百分之百避免穿帮，而是时时刻刻保持镇定，随机应变。就算露出了小破绽，只要能让观众相信那也是表演的一环，依旧能成为一场精彩难忘的演出。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/ad412bb80da391e8d768a60b7164697d_2585067450852755690.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其三",
+          "text": "没有父母遮风挡雨，从小流落街头的孤儿，总要经历比常人更多的磨难。但正因为那些事情，才造就了如今的我和琳妮特。现在，我们都过得不错…「家人」、观众…我的帽子里装着很多很多人的期待呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/6b405c757fa8f1a453653eaf85e1f978_1653737880850799340.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其四",
+          "text": "哈哈，到现在还没办法完全相信我说的话吗？看来你警惕心很强，这是好事，我就不用担心你被别人骗了。另外嘛，你可要负起责任来，盯着我，谨慎挑选眨眼时机…不然的话，趁你不注意，我就去撒弥天大谎咯！到时候你也脱不开干系。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a98a2e85f9ccf794e37673e671e36f20_5101405714090720625.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其五",
+          "text": "「真实」的我，并没有我所表现出得那么外向、健谈。更多时候，我是为了跟大家拉近关系，才使用了语言上的「魔术」…你会同情原本的我吗？还是会觉得这种戏法…很愚蠢呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/806682082ce1751156e75ff0401f63c7_2087870094085718359.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "林尼的爱好…",
+          "text": "嘿，看这儿——可爱的小白兔，喜欢吗？好奇它是什么时候来到这里的吗？那就对了！观众脸上惊喜的表情，正是每一位魔术师的最爱。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/d4c5707ffd07a57f8d4ffadd188ece6d_4797060482530750328.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "林尼的烦恼·掩饰",
+          "text": "怎么办呢？我最大的烦恼就是——你在我这样的大魔术师面前，还能想到烦心的事情。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a90eeb54f7c77ce531e10b97cc4e66ca_743769207139063805.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "林尼的烦恼·鸽子",
+          "text": "过去，我总是放养我的鸽子，它们也总会飞回我的身边。后来有一次，回家的鸽子少了几只，等我们循着痕迹找到的时候，它们已经变成了鸽子派。至今我也不知道，我要怎样同时带给它们「自由」和「安全」。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/86a509d9c3185079caeb65bd4c0a1b66_5367567434963823884.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "看到这个鱼缸了吗？来，你可以把手伸进去感受一下，是不是真的只有水。确认好了吗？那就开始咯！看这块布，现在盖上去了…嘿呀，鱼变出来咯！怎么样？这精彩的表演，能换一道你亲手制作的鱼肉菜肴吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/6e95012106b3e92f2ad5e109b85ee911_5731085697830715640.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "出于表演需要，我和琳妮特得保持身形相似，我们会尽量不吃油炸食品。我倒是无所谓，妹妹就比较辛苦了——街头的炸鱼实在很香嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/5519af765c551fafd121c92c55811f1c_6794833407430675577.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "能吃到你亲手制作的美味，真是荣幸之至。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/1d8be183a0d9edc7f3a86eba5b08a29f_3581074220764981975.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你的厨艺不错嘛，很好吃哦！多谢款待。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/c6ff4075a572681554392130d32d4e83_6118980382448332798.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "想看魔术吗？来吧，看我把布盖在上面，你跟着我一起念——三、二、一！食物消失咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/df2db3f3944b2c6ac10a13b941c13ed6_8340517428261010715.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "这里有一根羽毛，请伸出手来确认一下，它的确是一片普通的羽毛。好了吗？啪嚓——其实是礼花哦，生日快乐！看到了吗？礼花里飘下的一片彩纸，被我抓住了。在我点燃它的同时，你就可以许愿了，顺带想象一下你的生日礼物。三、二、一——嗯，很~好~我已经明白你的想法了。来吧，把手伸进我的帽子里——如何？这份礼物是你想要的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/4abb365fb625ac34d1a58cb7747434a0_275952106742006477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "哎呀，我还以为你想让我用这些素材变魔术呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/d3d9990b2f114b2483f57addf2d56098_49273485569683615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "要是什么变化都没有，会不会让你更加吃惊？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b573feb11a51b62cf2803218eb8bc332_4729706299428307646.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你愿意信任我，没有比这个更令我开心的事情了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b6d87eed653277138a921cb2e9a2be8a_3076757739458840126.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "为我付出这么多，是想要偷走我的心吗？那就让我恭喜你、祝贺你吧！我亲爱的学徒，或者说伙伴——你已经做到咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/17d84ada5721a27ee50b26bf5cdbf79e_8019077059319259167.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "一点小把戏。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/bdc6c338e05c40be5e653f0dd4345ecd_19346418598611593.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "看看这个吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b32d8096b5c37528ae83076c2018918e_7826817606190011024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "惊喜连连。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/5c9974edf7b2a69ba2ed06f3cafdc462_2263519345088496790.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "压轴表演！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/3ec96d4105831275baa52828d64d6b18_2104203561782280358.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "好戏开演！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/761b0bd896315a3bdabeb41dec1fba76_7408811870684715693.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "响起你的掌声！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/d3c9e5d120d75bb1a3864ae1a008a797_1251316909618374470.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "用这个道具，把它们全部变走…开玩笑的啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/46e3ce36a63b30e6ad7ae79303fb7bc4_873860545291462448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "装进魔术口袋里吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/0e261cb1f365c9c83e48e2bf4fe33bc1_2629928731164512162.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这也算是一种宝箱魔术吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/a65d0694d07e791859497b2b007fd9ff_6343137395861832933.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "这是要我表演诈死魔术吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/40e6e84350e4dd7e2fc9d9a7a73df949_4936914748022832612.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不错的戏法…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/0f439d96890c8ee40f7c580993be0bae_8714593343206038543.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "不会有事的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/bf1f89176498e61880f1a4302848be18_3488321502717422268.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "可别忘了还有我啊！",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "节奏已经乱了哦？",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "琳妮特…",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我的表演，不会失败！…",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "幕布…快点拉上…",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "没事。",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "冷静…",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "噢！「旅行魔术团」。",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "乐意效劳。",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "能被你邀请是我的荣幸。",
+          "audioUrl": "",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "是我哟，全提瓦特最棒的大魔术师——林尼。惊喜吗？意外吗？想知道我是怎么出现在你面前的吗？嗯——你那双像黄宝石一般晶莹剔透的眼睛，让我很中意哦！让我再为你表演一次吧。看好了哦，这回，千万不要眨眼。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/11ba8511124cfde73fe73cfd784e387b_11213199471468459.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·分心",
+          "text": "大魔术师就在面前，还有心思东张西望吗？这样可就要错过最精彩的一幕咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/d63e6f3e82e85888b4d9dea77f191f4e_4421564334314618931.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·妹妹",
+          "text": "我亲爱的妹妹——琳妮特此刻在做什么呢？肯定想我想得不得了吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b872048b7dbd296d459392ca8944c9e7_2493616383551392480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·眼见为实",
+          "text": "我希望观众们都相信「眼见为实」的道理，那我就能变出数不尽的戏法。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/d392b4b06444dfb026720a66fe9f48fa_1542499979446926279.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "哎呀，这种天气，看来今晚没办法看到星星了。除非…我试着把星星变出来？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/c5d09831068db46d22ec6b440c22cc12_2261499755733348555.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "真幸运，天晴了，该不会天上有谁在变魔术吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/0a8ee910a721bed947d38595ab68a875_1094964074764220328.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "啊嚏…呼…我听过一种说法，说打喷嚏是有人在想自己。琳妮特吗？哦——还是你呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/7ed6d3f904b7fe725584d2127b933b16_4737408728436368896.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "呼，好险。要是帽子被风吹跑的话，里面的道具就会哗啦啦砸在我脑袋上了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/21b1fb17fb1171c25a9403d12b07b557_5387224474652351648.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这风也太大了，我的纸牌都——等等，哎，别迷路啊！你的主人在这边！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/ce68efd1c1ff287128a21180c7085c62_5580415468821959076.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "…唔，再让我睡会儿…嗯？是你呀——嗯，我说怎么今天的阳光那么好，原来是你来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/e4308496cbe44e8a7a6cdf2ace8e23e7_324029054350883524.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "下午我需要检查一下魔术用品，构思新的魔术创意。你要一起来吗？来嘛，别推脱啦！你可以试着喂喂我的动物助手们，我想你们一定合得来。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/cfb924dcebaeffdd3293cc766336b482_7043203094459115403.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。今晚有大魔术师的演出，你肯定没忘吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/4f9f35887483c28c917ced0255eaad00_8916779060386470991.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。要是睡不着的话，我有些催眠小道具可以用…啊，还是算了吧。睡吧，愿美梦陪你到天亮。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/4bfd89fab9e10d3527e455dcbbb5010b_5338696357713104411.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于林尼自己·嘴甜",
+          "text": "对了，有件事情，我必须强调一下。我可不是对所有人都这样说话的哦，主要还是因为对象是你。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/804d6e5c151487eaf087562f4d7c29b1_6492560507917772761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于林尼自己·搭档",
+          "text": "啊——琳妮特不在，我要进入待机模式了。虽然一个人也能处理好身边的事，但还是会有些不习惯。你能理解的吧？毕竟你也…我是说，毕竟派蒙总陪着你。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/f3b9805edddd508fa622e837832d9c59_914974614875318463.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·隐瞒",
+          "text": "哇，好尖锐的话题…这么说吧，甜美的浆果通常出没于荆棘丛生之地，不然就会被馋嘴的狐狸一口吃完…这都是为了保护自己呀！好吧，我承认我确实不介意偶尔对别人撒点小谎，但我们之间最多只能算是有所隐瞒吧？不是吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/824cc7f32ba1cd7c34b4c593d7759610_1730396765287189945.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·原则",
+          "text": "魔术师一般不会透露魔术的核心秘密…但如果你愿意喊我「林尼老师」，成为我的学生，那么「原则」就产生了变化。也不知道你的领悟力和耐心到底能有几分呢？真让人期待。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/351292a3f769aac3042592e404859b37_5724466368233311149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "魔术师佩戴着神之眼上台，难免会遭到质疑，所以我习惯了提前摘下它。既然你有兴趣，要不下次我表演的时候，就由你帮我保管它吧？要看紧一点哦，可千万别让它又偷偷滑到我手上了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/24d578d109a933ff1a30c2607f41f6b9_1842286985203519818.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "魔术不仅是一种表演形式，也是一种思维方式。世界上有很多看似平平无奇的东西，其中大有玄机。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/488c0668764b0d78408fce41cc61fd10_3775960339086672994.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "猫咪的耳朵能表达情绪，向后翻折说明恐惧或者警戒，向前竖起，偶尔朝外多半表明心情愉快，快速晃动则是在警觉地判断四周情况…多观察就有经验了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/21ae7b0f3ac7f8aa7869006a1b5375fe_7820475031547711327.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「父亲」·家",
+          "text": "「父亲」给了我们一个家，教导我们成长，告诉我们每个人应该努力的方向。我能做的也很简单。保持忠诚之心，以及…守护我们的家。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/18b5351088b383af36ba2584bdff9b91_7260881459649024929.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「父亲」·王",
+          "text": "在这座只有孩子们构成的王国里，「父亲」是我们的王。我知道国王早晚会选继承者，也知道那会是我…但同时，我对那样的情况感到恐惧…请不要告诉任何人，尤其是妹妹和菲米尼。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/95d7e93e51a54dbe95a400ed9e597502_101667809933900678.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琳妮特·模式",
+          "text": "你觉得妹妹她话很少？明白了，那是运行模式不对。下次，先对她说「激活，聊天模式」，运气好的话，她会和你说上很长一段话。你问运气不好要怎么办？别担心呀，就算被她瞪几眼，你也见到了和平时不一样的琳妮特！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/833a6dbb7fb4c5d5daa01c268b8fc6a3_3553244738767518072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琳妮特·双子",
+          "text": "我和妹妹从小到大都在一起，艰难的时光只要有彼此就能度过，开心的时候也会和对方共享。家人，就是我们最宝贵的归宿。我们都能理解你与家人分别的痛苦…如果发现了任何线索，一定会告诉你的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/fa338342406acfd825e65100ee3cb390_3157828871486980844.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "我这位天真的弟弟，至今还相信童话故事。真让人有些羡慕。哦，这不是他自己告诉我的，是有次我不小心看到了他锁在秘密抽屉里的东西…真的是不小心哦！所以还请你不要告诉他，不然他肯定会生我气的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/0b1c1052ff7f33d00e793a948ab22e33_7624976656343100874.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "那维莱特先生很少公开露面，似乎刻意和人们保持着距离。一开始我还以为是我的错觉，但观察最最敏锐的琳妮特也有同感，那看来确实是这样了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/fd472ba5ad83fa8ce294884c540ac475_5328236997821771794.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "水神芙宁娜大人的行事作风不可捉摸，说得更露骨些，她平时说话也像是一种表演。枫丹人对精彩的舞台演出情有独钟，因此崇敬她的人也有不少。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/32afdefed4e8c189da70125dfadd62fa_5167432268653310067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于千织…",
+          "text": "恭维话在她那里是行不通的，只有真正懂得欣赏的人，才能让她另眼相待。你问她怎么看我？这问题可让我有些伤心哦，我可是既懂欣赏，又对大家真心相待的人呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/278b4765b6fbc333202066134eab70ab_2762019278243452055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "没想到她在不认识我的情况下愿意出手相助。要是没有你们的话，我和琳妮特肯定无法脱身…总之，非常感谢你们。就请让我等待一个阳光灿烂的日子，邀请大家去露泽咖啡厅吃最美味的茶点吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/f695984a5e5ef2c96fc1fcb63f0f52eb_5323770159524573903.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "自从那次见面之后，夏洛蒂小姐多次邀请我接受专访，呃…好像快有个二十次了吧。她对新闻有种与生俱来的敏锐，个性还异常执着。但说老实话，我可不想成为她笔下「爆炸性新闻」的主角，只好一次又一次用不同的理由婉拒了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/36002a0cf841144252180bdc9ee846ff_7971984735777100710.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "作为决斗代理人，克洛琳德小姐颇有名望。但我最近在报纸上看到，她似乎麻烦缠身…媒体非常喜欢挖掘她的故事，至于她本人…应该相当厌恶这种行为吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/6cf84b8fa322c367cf9133719a85965f_8031313113108719816.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "你闻过她设计的香水吗？我还挺喜欢的，原本想买一瓶试试…但琳妮特的尾巴似乎有不同的意见。那我也只好算喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/978b78bb12531f7a79cd513bf5a4dc5a_1554229413135255713.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其一",
+          "text": "看来我们彼此都对对方很感兴趣呢，我的荣幸！哈哈，放心吧，只要看到你那令人着迷的眼睛，我就舍不得对你撒谎。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/9847d6a97ec4a41870af2924d2223106_7827171039383880127.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其二",
+          "text": "魔术表演当然没办法保证永远不出现纰漏。对我而言，演出的重点也不是百分之百避免穿帮，而是时时刻刻保持镇定，随机应变。就算露出了小破绽，只要能让观众相信那也是表演的一环，依旧能成为一场精彩难忘的演出。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/7214c42475ca321635b75774cb4a6f17_2024407999547159637.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其三",
+          "text": "没有父母遮风挡雨，从小流落街头的孤儿，总要经历比常人更多的磨难。但正因为那些事情，才造就了如今的我和琳妮特。现在，我们都过得不错…「家人」、观众…我的帽子里装着很多很多人的期待呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/61f2c1be68db0e40ba44b85ffe1e503f_777676927219540511.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其四",
+          "text": "哈哈，到现在还没办法完全相信我说的话吗？看来你警惕心很强，这是好事，我就不用担心你被别人骗了。另外嘛，你可要负起责任来，盯着我，谨慎挑选眨眼时机…不然的话，趁你不注意，我就去撒弥天大谎咯！到时候你也脱不开干系。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/822d44e93e55902ddb96fe4ba1be0523_3910736396539468073.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解林尼·其五",
+          "text": "「真实」的我，并没有我所表现出得那么外向、健谈。更多时候，我是为了跟大家拉近关系，才使用了语言上的「魔术」…你会同情原本的我吗？还是会觉得这种戏法…很愚蠢呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/d48bff71fbc7d7b96756df65599567d9_8859986060006471746.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "林尼的爱好…",
+          "text": "嘿，看这儿——可爱的小白兔，喜欢吗？好奇它是什么时候来到这里的吗？那就对了！观众脸上惊喜的表情，正是每一位魔术师的最爱。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/d0def6ee1edc3c4be633b9671391cb53_8985112229809292263.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "林尼的烦恼·掩饰",
+          "text": "怎么办呢？我最大的烦恼就是——你在我这样的大魔术师面前，还能想到烦心的事情。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/56bf8675a240964a0239e38552506137_812090666120675874.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "林尼的烦恼·鸽子",
+          "text": "过去，我总是放养我的鸽子，它们也总会飞回我的身边。后来有一次，回家的鸽子少了几只，等我们循着痕迹找到的时候，它们已经变成了鸽子派。至今我也不知道，我要怎样同时带给它们「自由」和「安全」。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/92ef7ff551d41a90b1adc05bf46e4048_4299935525295752784.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "看到这个鱼缸了吗？来，你可以把手伸进去感受一下，是不是真的只有水。确认好了吗？那就开始咯！看这块布，现在盖上去了…嘿呀，鱼变出来咯！怎么样？这精彩的表演，能换一道你亲手制作的鱼肉菜肴吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/d567070a1082b749fb134a530999c31f_5444660214354257834.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "出于表演需要，我和琳妮特得保持身形相似，我们会尽量不吃油炸食品。我倒是无所谓，妹妹就比较辛苦了——街头的炸鱼实在很香嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/961bdcf1c6aca7a62a8f55b022807d09_5601060687055599860.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "能吃到你亲手制作的美味，真是荣幸之至。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/e655f69df7065d67ff200230ecba2c81_7257792716229111012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你的厨艺不错嘛，很好吃哦！多谢款待。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/813b16ec1b18f5742863189a07a28c5c_1024018491678454900.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "想看魔术吗？来吧，看我把布盖在上面，你跟着我一起念——三、二、一！食物消失咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/ddece9b2bd23571f68ddb1756a076750_3878076254249266657.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "这里有一根羽毛，请伸出手来确认一下，它的确是一片普通的羽毛。好了吗？啪嚓——其实是礼花哦，生日快乐！看到了吗？礼花里飘下的一片彩纸，被我抓住了。在我点燃它的同时，你就可以许愿了，顺带想象一下你的生日礼物。三、二、一——嗯，很~好~我已经明白你的想法了。来吧，把手伸进我的帽子里——如何？这份礼物是你想要的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b705cb0d87aba2761d4d30b14608ae41_7055053750693329091.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "哎呀，我还以为你想让我用这些素材变魔术呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/50e91f027b1733bbdbb4b35011ebee2e_7196229839262875981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "要是什么变化都没有，会不会让你更加吃惊？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/844202bc153ce90c843791678c1f0eb1_366470298068577515.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你愿意信任我，没有比这个更令我开心的事情了。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/fc0c93e4eb6661e40446772d9e81ba07_3902946676327427081.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "为我付出这么多，是想要偷走我的心吗？那就让我恭喜你、祝贺你吧！我亲爱的学徒，或者说伙伴——你已经做到咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/0bd6977c1de851cfc009ba318b265e9b_7214790213306579334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "一点小把戏。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/9ed7366550469216c4619ed078cded49_262549264407624515.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "看看这个吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b8c9a36f01751f7d23c0ae5509083234_1576725349809758398.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "惊喜连连。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/5fad5e8e7ec6e2be0517503b1e8ccfe3_4342977272850271359.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "压轴表演！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b1d0357d97d16f89b9893d8d8184d258_124012953024391772.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "好戏开演！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/444dcde1c096a94834eddd3c46bc063c_1226986238673456231.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "响起你的掌声！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/7122d51af2e17dfe0da7c59114ceefce_4362333583131681943.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "用这个道具，把它们全部变走…开玩笑的啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/3fd2726f8c7fa6894403f7d887e271b7_6298760233807377255.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "装进魔术口袋里吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/bf873c6f4ca78949a3ababf70f5428e6_6915175386012053971.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这也算是一种宝箱魔术吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/dc55162498dfff9b1fa9b0f96b0c645e_5627934206594922815.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "这是要我表演诈死魔术吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/ad4bed1cd3ee12471290e445356f4384_5408893026056979307.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不错的戏法…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/57fb852b3b5f454f0accb2ec12e08d85_1306944333693752207.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "不会有事的。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/d0f0c2582307c33b87138973a30b53bd_3668200413803852873.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "可别忘了还有我啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/24b8ebec9e730e76b489dd3a2f4b47a6_2541665578286160230.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "节奏已经乱了哦？",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/ef335650dd92c7599a340039b5cae1c6_214582655970635339.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "琳妮特…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/618c69e7385df7b690344833bf24d40b_1855267583055716918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我的表演，不会失败！…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/d3239208ecb3ffd24ad553030701b537_7957270168962831426.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "幕布…快点拉上…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b469980ec7def4fc8d54433a068ce3d8_2676955213231711236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "没事。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/b20a04702dfbc50b28c032e465bbc5dc_4084040865828086988.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "冷静…",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/467c13c253bd24155c380d5949b69e91_7415567754238221318.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "噢！「旅行魔术团」。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/479355d30a4b13035fb2f747a2ff5401_2870879823096982923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "乐意效劳。",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "能被你邀请是我的荣幸。",
+          "audioUrl": "https://act-upload.mihoyo.com/ys-obc/2023/08/23/16576950/44aa29138a49b847d1a8f37d243ec832_2567060846811783562.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

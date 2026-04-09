@@ -1,0 +1,1709 @@
+{
+  "id": "501213",
+  "name": "克洛琳德",
+  "alias": [
+    "克洛琳德"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "枫丹廷决斗代理人，克洛琳德，向你致意。如需雇佣我进行代理决斗，请先陈述你所陷之纠纷…无需赘述人情，这与我无关。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9bb8b239e14b6a59dc4ba3a3eeecba2f_1080405433686273133.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·对手",
+          "text": "我在决斗中遇见过不少对手，他们大部分都落败了，剩下的则主动投降…我有没有输过？没有。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0398a43d7bb7ee1d2149cec4352becdd_8192255894337770927.mp3",
+          "audioName": "02闲聊·对手_cn.mp3"
+        },
+        {
+          "name": "闲聊·决斗代理人",
+          "text": "决斗代理人是我的职业，我怎么想并不重要。因为握紧长剑之时，我代表的是枫丹的律法与规则。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3ce67548f040d0fe9e9c9ed9f52fd05f_4126254486526673409.mp3",
+          "audioName": "03闲聊·决斗代理人_cn.mp3"
+        },
+        {
+          "name": "闲聊·制胜诀窍",
+          "text": "决斗是意志的对战，剑则是决斗者心灵的延伸。如果你的心已然畏缩，那你的剑也会如同裹鞘一般，无法斩败任何人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b4292748214c184cee9448580eeca402_611926389470217252.mp3",
+          "audioName": "04闲聊·制胜诀窍_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "猎物会在雨天休息，但猎人不能。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d2cf766ba56bd2b174f1871ffee33dfe_870224468830700913.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "看来风和云的对决分出胜负了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ef3d3e8dd94eacf3ed6d46687ce65e7e_4361569737397387781.mp3",
+          "audioName": "06雨过天晴…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "希望世界上能少个恶徒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/476c8567cb794c6893504299149ffbf1_5776292000220445175.mp3",
+          "audioName": "07打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "真新奇。但也够冷清的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ab7405cd01de957b3083c1e6dbe040c2_7179286697938091385.mp3",
+          "audioName": "08下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "我从来没这么想念过枫丹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b8a0df0b8778ea927d1a0fb9cf7f026e_4722055754225978441.mp3",
+          "audioName": "09在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。我正准备去喝杯咖啡，一起吗？我自带咖啡杯，如果你需要，我可以借你一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ba51a3a26d8cfcd7347a978c0e3758cc_3564570059661888576.mp3",
+          "audioName": "10早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "抱歉，现在还是我的工作时间。这份三明治给你，先吃点垫垫吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2e71a197c6dbb240e9d54c084e71e71f_1698876629952041956.mp3",
+          "audioName": "11中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "很抱歉不能和你分享品酒心得，但我可以向你推荐几家颇具特色的冷门餐馆。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/17e16d792359d04ea6409f7dba4167ac_2200112108510092352.mp3",
+          "audioName": "12晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。我维护好武器后也会休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b1b70356cd1e90ed5d4c1038b6ccf94d_9033860902608619890.mp3",
+          "audioName": "13晚安…_cn.mp3"
+        },
+        {
+          "name": "关于克洛琳德自己·新闻报道",
+          "text": "报纸上总是存在着一些谈不上公正，也绝不算正义的报道。撰写它们的人都被人情与摩拉带偏了心。如果你想知道某件事的真相，最好的方法是去找相关的人，用你自己的嘴发问，用你自己的心去理解。至少，别让其他人的舌头代替你的头脑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/4fe82941108455c4602de942faeca693_8217488735808111857.mp3",
+          "audioName": "14关于克洛琳德自己·新闻报道_cn.mp3"
+        },
+        {
+          "name": "关于克洛琳德自己·铳枪与长剑",
+          "text": "我的武器装备遵循逐影猎人的传统制式。铳枪用来驱赶猎物，长剑给予它们致命一击。当然，代理决斗时我一般只用长剑，踏上决斗场的人已经无路可逃，用不着再做驱赶。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/13aebbb91cb02a91b9de4c668f80680f_4334028389468502675.mp3",
+          "audioName": "15关于克洛琳德自己·铳枪与长剑_cn.mp3"
+        },
+        {
+          "name": "关于我们·仪式",
+          "text": "在每次决斗开始前，我会用浸了特制药水的软布擦拭武器，一方面是为了保养，另一方面是为了让自己保持沉静，排除杂念。作为执剑者，你应该也有自己的仪式吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1f162ae7d32c363fcb6f2107da4892e8_2212308073085338353.mp3",
+          "audioName": "16关于我们·仪式_cn.mp3"
+        },
+        {
+          "name": "关于我们·人与魔影",
+          "text": "我的许多习惯都承袭自逐影猎人的传统。他们对抗的是邪恶魔物，而我对抗的则是不法凶徒。但魔物本就生来邪毒，这是它们的本能，那些堕落的人本来有行善的能力与机会，但他们却自寻恶孽。你呢？你持剑的理由是什么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1c47c287d8ad1bd21011664a56732487_4760493323391190931.mp3",
+          "audioName": "17关于我们·人与魔影_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "在我获得「神之眼」后，在决斗中向我投降的人数明显增加了不少。有的代理人说，这枚「神之眼」是我进行决斗时的「震慑手段」。我还以为我从未败北的决斗战绩才是「震慑手段」，或许我以后的决斗应该赢得更有表现力一些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/eb0318f40c3a8b8e64cf175294d94966_803862080439462720.mp3",
+          "audioName": "18关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "我曾多次见证某些矛盾琐事，被当事人基于纯粹的感性反复咀嚼，最终演变成一桩事关人身尊严，不可退让的惊天耻辱，闹上审判庭，甚至引发一场荒诞的决斗。作为决斗代理人，我对于用决斗来维护名誉这件事没有意见。但是…怎么说呢，从一个普通的枫丹市民角度来看，咖啡里到底该不该加茉洁草，实在不见得是一件非要用剑来论证的事情…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5c2efafaeb2d4a992aadc1dd76e40286_3956255271645365790.mp3",
+          "audioName": "19有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "见过蓬蓬果吧？它们飘飞的速度和位置不易捉摸，很适合作为枪靶练习射击。但是，去野外找蓬蓬果很不方便，要是有人愿意人工培育蓬蓬果就好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b2cbbe7e75fb5e412bc58573cfc44f97_4304384887131480505.mp3",
+          "audioName": "20感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "夏洛蒂小姐是一位识趣的记者，我对她没什么坏印象。毕竟，夏洛蒂小姐既不会在上班的路上堵截拍摄我，也不会跟踪我去咖啡馆，记录我今天喝了什么咖啡。最值得称赞的是，她明确地知道，我不接受记者采访，所以不会来自讨没趣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b45604cb344837350d3ea60f9393346c_7239751155114061367.mp3",
+          "audioName": "21关于夏洛蒂…_cn.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "从前参加茶会的时候，我总是扶着剑站在她背后，现在我却能在长桌对面就座，与她分享茶点。位置变化之后，我开始理解为什么她会成天念叨着「控制体态」了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/52378f2afd421f1e006bff0dfc21bd96_7602092793392197620.mp3",
+          "audioName": "22关于芙宁娜…_cn.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "娜维娅最近心情很好，隔几天就会拉我去「桌上剧团」玩新剧本。选材五花八门。除了担任了几次剧本主持人，我也作为玩家和她共同参与了几场冒险。但我会尽量避免扮演和审判庭有关的角色，防止气氛变得太过严肃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2d7bc98a5a6a71f58ca679751f5b6146_6651335709036624977.mp3",
+          "audioName": "23关于娜维娅…_cn.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "最高审判官的权威无可置疑，他总是能做出最公正的判决。必要的时候，我也会用剑再次强调判决的公正性。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/fe1e60958e7fb69d9a9e8219696b7ccc_8410842613155339224.mp3",
+          "audioName": "24关于那维莱特…_cn.mp3"
+        },
+        {
+          "name": "关于夏沃蕾…",
+          "text": "夏沃蕾队长，我听说过她的大名。她曾经因为抓捕凶犯时的手段太过强硬，而遭到过几次起诉。她应诉时态度依然十分强硬，将对方驳得哑口无言，实在出色。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/42a4a476d6ae54f604e8e947fd7ab5fc_2534049524861146984.mp3",
+          "audioName": "25关于夏沃蕾…_cn.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "这位大魔术师的职业素养值得称赞。如果有空的话，我会以观众的身份享受他的魔术表演。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/53485fa3e70243ef6e3e2064d5c08736_6061322675321256820.mp3",
+          "audioName": "26关于林尼…_cn.mp3"
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "有天我收到了一个包裹，装着迷你机械玩具和表达谢意的卡片。那份玩具十分精致，下次有机会，我会对菲米尼先生当面表达一下感谢…最好不要当面？好吧，那我也写份卡片，请你帮我带给他。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e0f2328dbf3e005ca02474ff7075daff_6888454580915054341.mp3",
+          "audioName": "27关于菲米尼…_cn.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "我买过她家的衣服，质量不错。但平时，我更习惯穿现在这套工作制服，一方面它可以明确地阐述出我的身份，另一方面是因为我喜欢熟悉的事物。这套制服就像是我的剑，熟悉且适用，不必多做更换。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7b73aea7e7870a103bfe26e95f8c9638_499580052991740958.mp3",
+          "audioName": "28关于千织…_cn.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "梅洛彼得堡并不是一处好打理的地方。能让那个地方保持相对的稳定，莱欧斯利的手腕无可置疑。其中应该不乏一些不能明说的手段，这就不是我们能知道的了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/4bd44cc9f8dca916cd47ef52997a16f1_8776800590491839986.mp3",
+          "audioName": "29关于莱欧斯利…_cn.mp3"
+        },
+        {
+          "name": "关于希格雯…",
+          "text": "希格雯小姐是一位优秀的护士，既擅长治疗身体的伤痛，又懂得如何疗愈人的内心。即使是梅洛彼得堡里的那些心怀恶孽的凶徒，想必也会被她的美德和善心感动，内心涌起一丝善念。这一丝善念，或许就能成为他们踏上改邪归正之路的契机。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d11d67b1e395add3cebe5e02b6e9b2d8_5141003541265545672.mp3",
+          "audioName": "30关于希格雯…_cn.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "我听说过这名香水设计师小姐，对她真正的职业也有所耳闻。偶尔一次，我遇到她正在抚摸一只路边的小狗，脸上挂着温和的笑意。我们互相点头后就道别了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2ac2c64f589e015cb85cbbb4f56b00fc_4826951993167489882.mp3",
+          "audioName": "31关于艾梅莉埃…_cn.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其一",
+          "text": "决斗代理人的工作并不繁杂，甚至可以说十分简单。遵循审判庭的要求，击败对手就好。除此之外，无需多想。…也许这就是外面有些人把我称为「刽子手」的原因。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5f59bead9bc4bc8dfb9cd7e37ed9f366_7879777414855595947.mp3",
+          "audioName": "32想要了解克洛琳德·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其二",
+          "text": "进行代理决斗时，我会尽可能保证与对手公平较量。如果对手有眼疾，我就会蒙住眼睛，如果对手腿脚不便，我则会限定自己的移动范围。无论如何，我所参与的必须是一场公平的决斗。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/565d636e2fc570e911c7e644e99857f7_6343779067466672387.mp3",
+          "audioName": "33想要了解克洛琳德·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其三",
+          "text": "我见过太多人临阵投降。连拔出武器的勇气都没有，所谓的冤屈和名誉受损，想必也只是自私的一家之言罢了。他们早已被自己击败，无需我动手，就自愿变成了心灵的囚徒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0724f644cbed81358e37bfeb9b9a9ec9_8321255550658411101.mp3",
+          "audioName": "34想要了解克洛琳德·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其四",
+          "text": "你见过审判庭上的罪人吗？在我所经历过的审判里，罪人们总会强词夺理，将自己伪装成好人。在他们口中，暴行变成义举，罪恶变为正义…但他们狡辩的终点却总是一句话——自己虽然一时糊涂，但这罪过人人都会犯，实在无可指责。他们掩盖自身污秽的方法，就是污染整片水源。而击碎这群罪人们的谎言，为正义之廷激浊扬清，正是我成为决斗代理人的理由。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9c418f6f354351b473e873355615e281_6289199683448133501.mp3",
+          "audioName": "35想要了解克洛琳德·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其五",
+          "text": "我见过许多想要在审判庭上寻求温和人情的人。我并无不敬，但他们来错了地方。审判庭是昭示公理正义的场所，而正义总是…也必须冷漠，否则它就无从延续。如果正义掺杂了人情，那么它有时候就容易被误导偏折，让基于公理执行的「审判」变为由人情驱使的「私刑」。而审判庭中的「私刑」，与那些违律的凶恶暴行无异。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/acbac8045ec9316c55aff288349fdbdd_5369431226465412764.mp3",
+          "audioName": "36想要了解克洛琳德·其五_cn.mp3"
+        },
+        {
+          "name": "克洛琳德的爱好…",
+          "text": "与代理决斗不同，「桌上剧团」主持人的身份，能够让我游离于故事之外，在不卷入人情冷暖的情况下观察人们的种种反应，为他们搭建出一个受我掌控的世界。嗯？你说听起来像看着笼子里的猎物？有道理…是我没有思考过的角度，不过我从来不会为难玩家，尽量都让他们开心地体验故事，这点和打猎还是很不一样的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/941b59460d9e17d0de4520897cb13691_8800640254269477194.mp3",
+          "audioName": "37克洛琳德的爱好…_cn.mp3"
+        },
+        {
+          "name": "克洛琳德的烦恼…",
+          "text": "希望那些记者不要再打扰我喝咖啡、买花和看书。否则我会考虑抓两个典型向审判庭起诉。如果他们申请代理决斗，我会让他们带着留影机上场的。公平起见，我也会只带留影机。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7c5db255500e68ceb191bb16cb2eedc7_2340883359640781571.mp3",
+          "audioName": "38克洛琳德的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "用肉类做的菜肴都不错，但肉一定要新鲜。刚猎下的肉用盐简单调味后烤制，旁边搭配上微酸的水果，味道十分不错。下次有机会的话，随我去打猎，我做给你尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/34e71534fff1dda594792203ca216f16_1197223902688816822.mp3",
+          "audioName": "39喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "鱼类不合我的胃口，一方面是刺太多，另一方面则是有一股腥味…或许我在儿时已经吃够了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/809d7b612f0aa25fcf3c91fb0e13e28a_2420200706544976960.mp3",
+          "audioName": "40讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "完美的味道，很合我口味。别让记者和美食家发现，他们只会用镜头和报纸享受美食。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/edf62a5620c473217dba4dea1a216fff_3610795429614337003.mp3",
+          "audioName": "41收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "嗯，不错的美食，很适合慢慢品尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2ccf1f9c3c45983f74d9e23ed427fb93_4718101561105246584.mp3",
+          "audioName": "42收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…幸好这道菜并非出自餐馆，避免了一些厨师和食客之间的矛盾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/bd98563456a97d9700cc37562b6fb6b7_7043343206307406613.mp3",
+          "audioName": "43收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。这短剑样式的项链由我亲手打造，送给你作为礼物。\n按照逐影猎人的传统，在新成员作为逐影猎人度过第一次生日时，教导这位猎人的导师会为他(她)亲手打造一柄刻有姓名的短剑项链，并让他(她)把它时刻挂在胸口。这象征着用剑锋指问自己的内心，是否涉足恶孽，是否心有旁骛，是否有决心逐灭邪魔。\n虽然你不是逐影猎人，但我相信你和我们一样，有着惩恶扬善的决心。\n为什么样式不是铳枪？因为铳枪会走火，指问内心的手段太直接了也不行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ab6f9470486e5f6010393c6a662fd6e5_3179193823477908313.mp3",
+          "audioName": "44生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "原来如此，的确有所长进。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ac6f4e7078a8baff1e2204f7c9d48d30_2521668773845380134.mp3",
+          "audioName": "45突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "剑挥舞时的手感更好了，完全能适应。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/83da1d38161af2106993376820c5e73a_269195881993026530.mp3",
+          "audioName": "46突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "眼力有所提升？让我朝那片落叶试射一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6954d3eb5e0bde91f725a058638b8665_3426097495591988260.mp3",
+          "audioName": "47突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "在武力层面，我并不认为你会需要我的帮助。但倘若你希望借助我的力量，我会尽我所能，一如既往。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/aa9c60fc37686659213721eb262d408c_6582086445289526424.mp3",
+          "audioName": "48突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "预备。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/8d27c203853bc3454e4e4ae595970bb3_1768404144027777230.mp3",
+          "audioName": "49元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "上膛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/42dcf2a3e9f77d2416152a5cebe53c80_8678022938548348745.mp3",
+          "audioName": "50元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "猎影！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/398c0079cd754b0fb1c2b9ee6133e2de_9008889607283293196.mp3",
+          "audioName": "51元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "射猎邪魔！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/02ffb9f3f6902a39996f0c6b5e43c785_1309842197110636631.mp3",
+          "audioName": "52元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "你的自证时刻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/410f8af1a55b0ced1d597875d1f70ae6_148446625760142476.mp3",
+          "audioName": "53元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "洞见恶孽，逐灭鬼影！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/569926848a64bc22b1ec7f5e3c423dab_1256173937397679917.mp3",
+          "audioName": "54元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "路遇好运，不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/8a29b1bf439b854c31300b13c8483813_3768548988554038156.mp3",
+          "audioName": "55打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "没有归属的物品，不会引发纠纷。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9cc63e18f03bd45ab1b367e884c10219_6081172401377238136.mp3",
+          "audioName": "56打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "先到者得，合理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c8eb82e8b5989ad0f64f3d97d8792a4c_4089900434990824833.mp3",
+          "audioName": "57打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "…速决胜负。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/50fb3d6952b85ca78f16069ba5cdf36f_7298662000742781102.mp3",
+          "audioName": "58生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "骄纵轻狂。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c2f964fe19750f7119eb80ff6bd96dc2_8745135328938825222.mp3",
+          "audioName": "59生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "…可笑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f93438b0786a8d35a165f7b462bcd379_3434423238956993100.mp3",
+          "audioName": "60生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "退场！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c6d8ccb3c3029274e82a68cbd7ad0938_3711643841605270669.mp3",
+          "audioName": "61同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "由我接手，后退。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0c858cf2659a3b5a13bfce8b795c5223_1250005185556101956.mp3",
+          "audioName": "62同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "胜负…已分…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d0fa2d9250eefb8fede263c4bba6a10a_3820753446682364424.mp3",
+          "audioName": "63倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "败者…当如此…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ffcd7eee9f9094d14f55b1e986831982_3923779379363154861.mp3",
+          "audioName": "64倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "你已证明了名誉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7fa3649b8bd0656144fb2f9d64efd142_276867946503423088.mp3",
+          "audioName": "65倒下·其三_cn.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "还算精准。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/aebd283dd697ea6be32c7616006ac2ad_4137007875546411976.mp3",
+          "audioName": "66普通受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "够了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b1ce7caec3d18711532c0eb3b4164207_1833105577938168012.mp3",
+          "audioName": "67重受击·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "如你所邀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/643b306c373be5411098a8895acd4fbd_565665679858296180.mp3",
+          "audioName": "68加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "需要我为你代理决斗吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1509414b05a84f08603bc08b8ecb725b_1198081625210266119.mp3",
+          "audioName": "69加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "剑锋，直指暗影。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f5c2f4114de983720f59f8bc6d16c9dc_621945277109347091.mp3",
+          "audioName": "70加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "枫丹廷决斗代理人，克洛琳德，向你致意。如需雇佣我进行代理决斗，请先陈述你所陷之纠纷…无需赘述人情，这与我无关。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/63f0219e38eede5e162f6a51fe098ad8_576939226594855646.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·对手",
+          "text": "我在决斗中遇见过不少对手，他们大部分都落败了，剩下的则主动投降…我有没有输过？没有。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a222857627d3370344fc217a45df3581_6447673229726248929.mp3",
+          "audioName": "02闲聊·对手_jp.mp3"
+        },
+        {
+          "name": "闲聊·决斗代理人",
+          "text": "决斗代理人是我的职业，我怎么想并不重要。因为握紧长剑之时，我代表的是枫丹的律法与规则。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6ad01e3c7d4bd976cd8aa211ec785abb_8511071641115925379.mp3",
+          "audioName": "03闲聊·决斗代理人_jp.mp3"
+        },
+        {
+          "name": "闲聊·制胜诀窍",
+          "text": "决斗是意志的对战，剑则是决斗者心灵的延伸。如果你的心已然畏缩，那你的剑也会如同裹鞘一般，无法斩败任何人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b77edb1a45401f592971419bdb59bc0a_8753449777835638975.mp3",
+          "audioName": "04闲聊·制胜诀窍_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "猎物会在雨天休息，但猎人不能。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c233012955343b3e25e965235ed49b0d_6972888291349105859.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "看来风和云的对决分出胜负了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ef2f7a785b2545ab38bc525025113591_7326301933618575581.mp3",
+          "audioName": "06雨过天晴…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "希望世界上能少个恶徒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/73cb4a33d213503605c37470579c23fa_1267367101888933084.mp3",
+          "audioName": "07打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "真新奇。但也够冷清的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b9145875bf818d7ea121dd6fc414faff_2618656687505850150.mp3",
+          "audioName": "08下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "我从来没这么想念过枫丹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/58de1fd730e4b272c14c522644c76361_957344897778954914.mp3",
+          "audioName": "09在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。我正准备去喝杯咖啡，一起吗？我自带咖啡杯，如果你需要，我可以借你一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6ae7aec80398fd79d8e2b539003e289f_8472116490407322209.mp3",
+          "audioName": "10早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "抱歉，现在还是我的工作时间。这份三明治给你，先吃点垫垫吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/fa231b45e80ec62e20016fc245f43bbc_1876646543281606138.mp3",
+          "audioName": "11中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "很抱歉不能和你分享品酒心得，但我可以向你推荐几家颇具特色的冷门餐馆。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/dafdd200f29d8b3331ab85b7656d4436_2703669800900604535.mp3",
+          "audioName": "12晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。我维护好武器后也会休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/aa312985ca6338160fdc8cd9e23ee7a5_6245594675169037864.mp3",
+          "audioName": "13晚安…_jp.mp3"
+        },
+        {
+          "name": "关于克洛琳德自己·新闻报道",
+          "text": "报纸上总是存在着一些谈不上公正，也绝不算正义的报道。撰写它们的人都被人情与摩拉带偏了心。如果你想知道某件事的真相，最好的方法是去找相关的人，用你自己的嘴发问，用你自己的心去理解。至少，别让其他人的舌头代替你的头脑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/94a88f62e8c7336a7d518326d128a0ea_3313914009159880675.mp3",
+          "audioName": "14关于克洛琳德自己·新闻报道_jp.mp3"
+        },
+        {
+          "name": "关于克洛琳德自己·铳枪与长剑",
+          "text": "我的武器装备遵循逐影猎人的传统制式。铳枪用来驱赶猎物，长剑给予它们致命一击。当然，代理决斗时我一般只用长剑，踏上决斗场的人已经无路可逃，用不着再做驱赶。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/071500c4f6bb073ec4d8c639b21603bd_357357539158382056.mp3",
+          "audioName": "15关于克洛琳德自己·铳枪与长剑_jp.mp3"
+        },
+        {
+          "name": "关于我们·仪式",
+          "text": "在每次决斗开始前，我会用浸了特制药水的软布擦拭武器，一方面是为了保养，另一方面是为了让自己保持沉静，排除杂念。作为执剑者，你应该也有自己的仪式吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/425090c39a107100a6124ec465abe0ba_5378128000154898457.mp3",
+          "audioName": "16关于我们·仪式_jp.mp3"
+        },
+        {
+          "name": "关于我们·人与魔影",
+          "text": "我的许多习惯都承袭自逐影猎人的传统。他们对抗的是邪恶魔物，而我对抗的则是不法凶徒。但魔物本就生来邪毒，这是它们的本能，那些堕落的人本来有行善的能力与机会，但他们却自寻恶孽。你呢？你持剑的理由是什么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/52262dc803c85f32ed71cd102ca030fc_3886346190269537409.mp3",
+          "audioName": "17关于我们·人与魔影_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "在我获得「神之眼」后，在决斗中向我投降的人数明显增加了不少。有的代理人说，这枚「神之眼」是我进行决斗时的「震慑手段」。我还以为我从未败北的决斗战绩才是「震慑手段」，或许我以后的决斗应该赢得更有表现力一些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a3431dd25dcd9dd27194710844e3cd6b_2045736471626464119.mp3",
+          "audioName": "18关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "我曾多次见证某些矛盾琐事，被当事人基于纯粹的感性反复咀嚼，最终演变成一桩事关人身尊严，不可退让的惊天耻辱，闹上审判庭，甚至引发一场荒诞的决斗。作为决斗代理人，我对于用决斗来维护名誉这件事没有意见。但是…怎么说呢，从一个普通的枫丹市民角度来看，咖啡里到底该不该加茉洁草，实在不见得是一件非要用剑来论证的事情…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/33172d77a5e2044050d36433ff22890d_7724345631643238495.mp3",
+          "audioName": "19有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "见过蓬蓬果吧？它们飘飞的速度和位置不易捉摸，很适合作为枪靶练习射击。但是，去野外找蓬蓬果很不方便，要是有人愿意人工培育蓬蓬果就好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d9f5160f173ef5f2a176cf7a32f57ece_930875444314955703.mp3",
+          "audioName": "20感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "夏洛蒂小姐是一位识趣的记者，我对她没什么坏印象。毕竟，夏洛蒂小姐既不会在上班的路上堵截拍摄我，也不会跟踪我去咖啡馆，记录我今天喝了什么咖啡。最值得称赞的是，她明确地知道，我不接受记者采访，所以不会来自讨没趣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2a759955e732976fcebe668df9e50656_8253811197367731839.mp3",
+          "audioName": "21关于夏洛蒂…_jp.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "从前参加茶会的时候，我总是扶着剑站在她背后，现在我却能在长桌对面就座，与她分享茶点。位置变化之后，我开始理解为什么她会成天念叨着「控制体态」了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/05e62fe0b46dbef300829d77a8c6f0e9_1156300109967876713.mp3",
+          "audioName": "22关于芙宁娜…_jp.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "娜维娅最近心情很好，隔几天就会拉我去「桌上剧团」玩新剧本。选材五花八门。除了担任了几次剧本主持人，我也作为玩家和她共同参与了几场冒险。但我会尽量避免扮演和审判庭有关的角色，防止气氛变得太过严肃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/222da8e159b7f406f39e0b07cdf2c9bb_1048093485516688166.mp3",
+          "audioName": "23关于娜维娅…_jp.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "最高审判官的权威无可置疑，他总是能做出最公正的判决。必要的时候，我也会用剑再次强调判决的公正性。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7c19bd6828bde5bb96c5cf149529aaf8_6030355273835080167.mp3",
+          "audioName": "24关于那维莱特…_jp.mp3"
+        },
+        {
+          "name": "关于夏沃蕾…",
+          "text": "夏沃蕾队长，我听说过她的大名。她曾经因为抓捕凶犯时的手段太过强硬，而遭到过几次起诉。她应诉时态度依然十分强硬，将对方驳得哑口无言，实在出色。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/932bb5873059a0b2487a09e6ceda64f8_3600395300115058121.mp3",
+          "audioName": "25关于夏沃蕾…_jp.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "这位大魔术师的职业素养值得称赞。如果有空的话，我会以观众的身份享受他的魔术表演。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/88c87aee3ff463692df690c4f213253a_1723450702738392057.mp3",
+          "audioName": "26关于林尼…_jp.mp3"
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "有天我收到了一个包裹，装着迷你机械玩具和表达谢意的卡片。那份玩具十分精致，下次有机会，我会对菲米尼先生当面表达一下感谢…最好不要当面？好吧，那我也写份卡片，请你帮我带给他。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/23d3e77d2b26f56cf3548cf9a9dc2d88_4389045052362393446.mp3",
+          "audioName": "27关于菲米尼…_jp.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "我买过她家的衣服，质量不错。但平时，我更习惯穿现在这套工作制服，一方面它可以明确地阐述出我的身份，另一方面是因为我喜欢熟悉的事物。这套制服就像是我的剑，熟悉且适用，不必多做更换。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6b3ac9aeb0f67a206694f765842e48b7_6711649651226370787.mp3",
+          "audioName": "28关于千织…_jp.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "梅洛彼得堡并不是一处好打理的地方。能让那个地方保持相对的稳定，莱欧斯利的手腕无可置疑。其中应该不乏一些不能明说的手段，这就不是我们能知道的了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/812df98a66be7a29f73101a92a949470_2217256439932478558.mp3",
+          "audioName": "29关于莱欧斯利…_jp.mp3"
+        },
+        {
+          "name": "关于希格雯…",
+          "text": "希格雯小姐是一位优秀的护士，既擅长治疗身体的伤痛，又懂得如何疗愈人的内心。即使是梅洛彼得堡里的那些心怀恶孽的凶徒，想必也会被她的美德和善心感动，内心涌起一丝善念。这一丝善念，或许就能成为他们踏上改邪归正之路的契机。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d7dcc6567be4c6f30cc2cc5a0e1fdab5_6972900057567408174.mp3",
+          "audioName": "30关于希格雯…_jp.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "我听说过这名香水设计师小姐，对她真正的职业也有所耳闻。偶尔一次，我遇到她正在抚摸一只路边的小狗，脸上挂着温和的笑意。我们互相点头后就道别了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1e696b6a254e1e5ef2ca0108d0c64e58_8701328164657258060.mp3",
+          "audioName": "31关于艾梅莉埃…_jp.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其一",
+          "text": "决斗代理人的工作并不繁杂，甚至可以说十分简单。遵循审判庭的要求，击败对手就好。除此之外，无需多想。…也许这就是外面有些人把我称为「刽子手」的原因。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/155cb3f5e256940a2d1782fcfbc497d2_407612891341663814.mp3",
+          "audioName": "32想要了解克洛琳德·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其二",
+          "text": "进行代理决斗时，我会尽可能保证与对手公平较量。如果对手有眼疾，我就会蒙住眼睛，如果对手腿脚不便，我则会限定自己的移动范围。无论如何，我所参与的必须是一场公平的决斗。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9b41a0df6e6d08aefec58e1cee604b1f_3054869816495017689.mp3",
+          "audioName": "33想要了解克洛琳德·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其三",
+          "text": "我见过太多人临阵投降。连拔出武器的勇气都没有，所谓的冤屈和名誉受损，想必也只是自私的一家之言罢了。他们早已被自己击败，无需我动手，就自愿变成了心灵的囚徒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0081f49481a8e6d4478062928788b8ff_3002980803775367349.mp3",
+          "audioName": "34想要了解克洛琳德·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其四",
+          "text": "你见过审判庭上的罪人吗？在我所经历过的审判里，罪人们总会强词夺理，将自己伪装成好人。在他们口中，暴行变成义举，罪恶变为正义…但他们狡辩的终点却总是一句话——自己虽然一时糊涂，但这罪过人人都会犯，实在无可指责。他们掩盖自身污秽的方法，就是污染整片水源。而击碎这群罪人们的谎言，为正义之廷激浊扬清，正是我成为决斗代理人的理由。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/11e057382c705cc60ccd037ef4d77c92_5690614586818018029.mp3",
+          "audioName": "35想要了解克洛琳德·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其五",
+          "text": "我见过许多想要在审判庭上寻求温和人情的人。我并无不敬，但他们来错了地方。审判庭是昭示公理正义的场所，而正义总是…也必须冷漠，否则它就无从延续。如果正义掺杂了人情，那么它有时候就容易被误导偏折，让基于公理执行的「审判」变为由人情驱使的「私刑」。而审判庭中的「私刑」，与那些违律的凶恶暴行无异。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5068358cc68ef2cd4bd98c884f52e205_5212529449681908761.mp3",
+          "audioName": "36想要了解克洛琳德·其五_jp.mp3"
+        },
+        {
+          "name": "克洛琳德的爱好…",
+          "text": "与代理决斗不同，「桌上剧团」主持人的身份，能够让我游离于故事之外，在不卷入人情冷暖的情况下观察人们的种种反应，为他们搭建出一个受我掌控的世界。嗯？你说听起来像看着笼子里的猎物？有道理…是我没有思考过的角度，不过我从来不会为难玩家，尽量都让他们开心地体验故事，这点和打猎还是很不一样的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/770825ff401d3a81ad5df1f076df500f_8021597729067300905.mp3",
+          "audioName": "37克洛琳德的爱好…_jp.mp3"
+        },
+        {
+          "name": "克洛琳德的烦恼…",
+          "text": "希望那些记者不要再打扰我喝咖啡、买花和看书。否则我会考虑抓两个典型向审判庭起诉。如果他们申请代理决斗，我会让他们带着留影机上场的。公平起见，我也会只带留影机。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/4cb95641fd4d7e005605d6901eaac621_6998488708982159715.mp3",
+          "audioName": "38克洛琳德的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "用肉类做的菜肴都不错，但肉一定要新鲜。刚猎下的肉用盐简单调味后烤制，旁边搭配上微酸的水果，味道十分不错。下次有机会的话，随我去打猎，我做给你尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/66d72e01f73b35900b91a31ea84837c2_8210912261974288394.mp3",
+          "audioName": "39喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "鱼类不合我的胃口，一方面是刺太多，另一方面则是有一股腥味…或许我在儿时已经吃够了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c5354533039cb10c63d19a5ed2738c16_8271644860580903529.mp3",
+          "audioName": "40讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "完美的味道，很合我口味。别让记者和美食家发现，他们只会用镜头和报纸享受美食。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e45a616bb43313b7e3251dbeb90744e1_3558678960154657796.mp3",
+          "audioName": "41收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "嗯，不错的美食，很适合慢慢品尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/4c861d721dcb35e5b63862bd8db24004_7250418517773267886.mp3",
+          "audioName": "42收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…幸好这道菜并非出自餐馆，避免了一些厨师和食客之间的矛盾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1b08d5fe728adbfa41974248c3ffc129_1797018570569024144.mp3",
+          "audioName": "43收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。这短剑样式的项链由我亲手打造，送给你作为礼物。按照逐影猎人的传统，在新成员作为逐影猎人度过第一次生日时，教导这位猎人的导师会为他(她)亲手打造一柄刻有姓名的短剑项链，并让他(她)把它时刻挂在胸口。这象征着用剑锋指问自己的内心，是否涉足恶孽，是否心有旁骛，是否有决心逐灭邪魔。虽然你不是逐影猎人，但我相信你和我们一样，有着惩恶扬善的决心。为什么样式不是铳枪？因为铳枪会走火，指问内心的手段太直接了也不行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c53977f27a97f2135e2ccc7ea44015a4_813810514376934731.mp3",
+          "audioName": "44生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "原来如此，的确有所长进。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/773177caf231dc3e04b827e76fbcb58f_7736443749726484839.mp3",
+          "audioName": "45突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "剑挥舞时的手感更好了，完全能适应。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/cb652dc038767c53504b9810d62c9da4_1170400763613790120.mp3",
+          "audioName": "46突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "眼力有所提升？让我朝那片落叶试射一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/df2b7797b180ad4c2179d2c641d1bfcb_1782441588843815504.mp3",
+          "audioName": "47突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "在武力层面，我并不认为你会需要我的帮助。但倘若你希望借助我的力量，我会尽我所能，一如既往。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a0131b4f8e5debd809a139e7e7695fb6_1860118374301905256.mp3",
+          "audioName": "48突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "预备。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/dea5ccf1896484a943265b859ce68c8d_7266308024759959991.mp3",
+          "audioName": "49元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "上膛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ce2e8aad0497d00c01a58a3463d648cb_2059661525523179007.mp3",
+          "audioName": "50元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "猎影！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7f1fae9fcd7a67eba8721c866ff0685b_3147432524751681670.mp3",
+          "audioName": "51元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "射猎邪魔！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/093e31806531690d503316c9b33c8b8b_3941963808089038080.mp3",
+          "audioName": "52元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "你的自证时刻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/14c8086d606c38628004ad27e38bd505_147295490185297086.mp3",
+          "audioName": "53元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "洞见恶孽，逐灭鬼影！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/006f002cf8442939b3ed4c180ec7099a_28368072968909765.mp3",
+          "audioName": "54元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "路遇好运，不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/409aa312aaa0b5cc8366c10fae8bde71_7421271359909795398.mp3",
+          "audioName": "55打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "没有归属的物品，不会引发纠纷。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/4f769e4f7f62028808a005a73bee97c4_5754573042521350421.mp3",
+          "audioName": "56打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "先到者得，合理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/883838eb117147ea406aa070059c6c43_5533987962944464449.mp3",
+          "audioName": "57打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "…速决胜负。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7941d5641c5e03bc461e4ea970a3f0fb_3210042489022564739.mp3",
+          "audioName": "58生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "骄纵轻狂。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0797916a25a05fb6303b02ee01ca2785_1393998891141808821.mp3",
+          "audioName": "59生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "…可笑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/22560cc52fb63e64b655136d8979e275_6654344266850841502.mp3",
+          "audioName": "60生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "退场！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2ba1d6eeafa78eb6991f4557b4f9e2b4_7664212616635421416.mp3",
+          "audioName": "61同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "由我接手，后退。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c23d0e6897047f8feee24824db9d41a1_4898410787458264923.mp3",
+          "audioName": "62同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "胜负…已分…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/dde022391bd78045f53f9a843a7214be_6734286843766141258.mp3",
+          "audioName": "63倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "败者…当如此…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/84a966a313ae58a6b084e0de332c9f69_2473817665952463958.mp3",
+          "audioName": "64倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "你已证明了名誉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2ebe3712dbd38d94b047a02d063c5458_5166803516444326186.mp3",
+          "audioName": "65倒下·其三_jp.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "还算精准。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/33bcb51ade18b210e0b3133682034d11_3264753994369358738.mp3",
+          "audioName": "66普通受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "够了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3b7839565a926ab9cfe34696ede7c024_2670737343406049998.mp3",
+          "audioName": "67重受击·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "如你所邀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/8aa83157e1e82edcc882ab7ebc6d1d92_6645273962361680174.mp3",
+          "audioName": "68加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "需要我为你代理决斗吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2b65c835c747614eac04cb57e534b491_2883370111691528355.mp3",
+          "audioName": "69加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "剑锋，直指暗影。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3286e7a986b31b477cdeb6a5783abb09_2606400861746649783.mp3",
+          "audioName": "70加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "枫丹廷决斗代理人，克洛琳德，向你致意。如需雇佣我进行代理决斗，请先陈述你所陷之纠纷…无需赘述人情，这与我无关。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/cecd5ed47371053ffd135687119420ee_9087691268858429924.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·对手",
+          "text": "我在决斗中遇见过不少对手，他们大部分都落败了，剩下的则主动投降…我有没有输过？没有。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/fc8e5c6ed6b5f8bf0ec338c5940f078e_4257255463978372740.mp3",
+          "audioName": "02闲聊·对手_en.mp3"
+        },
+        {
+          "name": "闲聊·决斗代理人",
+          "text": "决斗代理人是我的职业，我怎么想并不重要。因为握紧长剑之时，我代表的是枫丹的律法与规则。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/fb66eeb4e642f2adb52053f65d984c30_1641913940295623432.mp3",
+          "audioName": "03闲聊·决斗代理人_en.mp3"
+        },
+        {
+          "name": "闲聊·制胜诀窍",
+          "text": "决斗是意志的对战，剑则是决斗者心灵的延伸。如果你的心已然畏缩，那你的剑也会如同裹鞘一般，无法斩败任何人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/47f1733967648c1a0372976ed37f255a_8649264037123779758.mp3",
+          "audioName": "04闲聊·制胜诀窍_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "猎物会在雨天休息，但猎人不能。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0c65d5f7d1c1e47531ea7e6e6524292f_1202470222958816947.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "看来风和云的对决分出胜负了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/912e16ecbf2c46cde2cc6e66fe08c1bf_7871497045296852921.mp3",
+          "audioName": "06雨过天晴…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "希望世界上能少个恶徒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1442fa99d0c91883cf81f3028818beb2_8015986236979929123.mp3",
+          "audioName": "07打雷的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "真新奇。但也够冷清的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a79b90c990106902ed1b252ee6c52eed_3577272080857091988.mp3",
+          "audioName": "08下雪的时候…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "我从来没这么想念过枫丹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/be857def7d746e06c2443dfa137fa4f0_5616337078498100540.mp3",
+          "audioName": "09在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。我正准备去喝杯咖啡，一起吗？我自带咖啡杯，如果你需要，我可以借你一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7c08c46fde3d07ecc09f8cda94354a71_1783783042726522120.mp3",
+          "audioName": "10早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "抱歉，现在还是我的工作时间。这份三明治给你，先吃点垫垫吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/17aec9979e7f9b4546831417bbb7f19c_4491933502427730497.mp3",
+          "audioName": "11中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "很抱歉不能和你分享品酒心得，但我可以向你推荐几家颇具特色的冷门餐馆。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e0559ac700601f07579340e938b55b08_372259898651240181.mp3",
+          "audioName": "12晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。我维护好武器后也会休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2e24f3efe5fb9e59f179b45b4e037ef2_4411626338843634473.mp3",
+          "audioName": "13晚安…_en.mp3"
+        },
+        {
+          "name": "关于克洛琳德自己·新闻报道",
+          "text": "报纸上总是存在着一些谈不上公正，也绝不算正义的报道。撰写它们的人都被人情与摩拉带偏了心。如果你想知道某件事的真相，最好的方法是去找相关的人，用你自己的嘴发问，用你自己的心去理解。至少，别让其他人的舌头代替你的头脑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/96ae4ab9086095b5e37709f81fed9bec_5917002993590260939.mp3",
+          "audioName": "14关于克洛琳德自己·新闻报道_en.mp3"
+        },
+        {
+          "name": "关于克洛琳德自己·铳枪与长剑",
+          "text": "我的武器装备遵循逐影猎人的传统制式。铳枪用来驱赶猎物，长剑给予它们致命一击。当然，代理决斗时我一般只用长剑，踏上决斗场的人已经无路可逃，用不着再做驱赶。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/17bf065067f765c36bfb4cf8d2af28a9_8122656397738791652.mp3",
+          "audioName": "15关于克洛琳德自己·铳枪与长剑_en.mp3"
+        },
+        {
+          "name": "关于我们·仪式",
+          "text": "在每次决斗开始前，我会用浸了特制药水的软布擦拭武器，一方面是为了保养，另一方面是为了让自己保持沉静，排除杂念。作为执剑者，你应该也有自己的仪式吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/577e1dbe4fe9f5ac579f44e3d9f31117_331120155868684708.mp3",
+          "audioName": "16关于我们·仪式_en.mp3"
+        },
+        {
+          "name": "关于我们·人与魔影",
+          "text": "我的许多习惯都承袭自逐影猎人的传统。他们对抗的是邪恶魔物，而我对抗的则是不法凶徒。但魔物本就生来邪毒，这是它们的本能，那些堕落的人本来有行善的能力与机会，但他们却自寻恶孽。你呢？你持剑的理由是什么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f015d893c5e12d727e108efed87f99f7_7157859003288154536.mp3",
+          "audioName": "17关于我们·人与魔影_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "在我获得「神之眼」后，在决斗中向我投降的人数明显增加了不少。有的代理人说，这枚「神之眼」是我进行决斗时的「震慑手段」。我还以为我从未败北的决斗战绩才是「震慑手段」，或许我以后的决斗应该赢得更有表现力一些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/635f8ae9f299d9dcf285321582e98cea_2524149341265318007.mp3",
+          "audioName": "18关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "我曾多次见证某些矛盾琐事，被当事人基于纯粹的感性反复咀嚼，最终演变成一桩事关人身尊严，不可退让的惊天耻辱，闹上审判庭，甚至引发一场荒诞的决斗。作为决斗代理人，我对于用决斗来维护名誉这件事没有意见。但是…怎么说呢，从一个普通的枫丹市民角度来看，咖啡里到底该不该加茉洁草，实在不见得是一件非要用剑来论证的事情…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5272de7308663a1f54c64040822e0c81_5547255084348041578.mp3",
+          "audioName": "19有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "见过蓬蓬果吧？它们飘飞的速度和位置不易捉摸，很适合作为枪靶练习射击。但是，去野外找蓬蓬果很不方便，要是有人愿意人工培育蓬蓬果就好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d2565b7c6fc59ab67a5ab002d5f54de9_4576411828398500980.mp3",
+          "audioName": "20感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "夏洛蒂小姐是一位识趣的记者，我对她没什么坏印象。毕竟，夏洛蒂小姐既不会在上班的路上堵截拍摄我，也不会跟踪我去咖啡馆，记录我今天喝了什么咖啡。最值得称赞的是，她明确地知道，我不接受记者采访，所以不会来自讨没趣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/bf8aa79d1876cf640fd54455beb1e947_3124378412739242829.mp3",
+          "audioName": "21关于夏洛蒂…_en.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "从前参加茶会的时候，我总是扶着剑站在她背后，现在我却能在长桌对面就座，与她分享茶点。位置变化之后，我开始理解为什么她会成天念叨着「控制体态」了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e8fe4b481e4a5decf04358d5f9739c15_6524400085885584334.mp3",
+          "audioName": "22关于芙宁娜…_en.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "娜维娅最近心情很好，隔几天就会拉我去「桌上剧团」玩新剧本。选材五花八门。除了担任了几次剧本主持人，我也作为玩家和她共同参与了几场冒险。但我会尽量避免扮演和审判庭有关的角色，防止气氛变得太过严肃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/deb629268362d0009b5b1c7366346f60_1119318927296683303.mp3",
+          "audioName": "23关于娜维娅…_en.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "最高审判官的权威无可置疑，他总是能做出最公正的判决。必要的时候，我也会用剑再次强调判决的公正性。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9e7854696c609ac93d1e8dbcf1ef944c_9053783422942261969.mp3",
+          "audioName": "24关于那维莱特…_en.mp3"
+        },
+        {
+          "name": "关于夏沃蕾…",
+          "text": "夏沃蕾队长，我听说过她的大名。她曾经因为抓捕凶犯时的手段太过强硬，而遭到过几次起诉。她应诉时态度依然十分强硬，将对方驳得哑口无言，实在出色。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/67745e60af38bad0f7dbc65ca82b67ee_5088445552166849758.mp3",
+          "audioName": "25关于夏沃蕾…_en.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "这位大魔术师的职业素养值得称赞。如果有空的话，我会以观众的身份享受他的魔术表演。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ad205caa8d934fc0756dd9065482d536_5874262805753703124.mp3",
+          "audioName": "26关于林尼…_en.mp3"
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "有天我收到了一个包裹，装着迷你机械玩具和表达谢意的卡片。那份玩具十分精致，下次有机会，我会对菲米尼先生当面表达一下感谢…最好不要当面？好吧，那我也写份卡片，请你帮我带给他。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0c73678a8326ae562a3d5ad6ad9b1be4_860241351868124587.mp3",
+          "audioName": "27关于菲米尼…_en.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "我买过她家的衣服，质量不错。但平时，我更习惯穿现在这套工作制服，一方面它可以明确地阐述出我的身份，另一方面是因为我喜欢熟悉的事物。这套制服就像是我的剑，熟悉且适用，不必多做更换。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/719a8d8b4a506ab82feb9015ac87c1fe_8741823587192597423.mp3",
+          "audioName": "28关于千织…_en.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "梅洛彼得堡并不是一处好打理的地方。能让那个地方保持相对的稳定，莱欧斯利的手腕无可置疑。其中应该不乏一些不能明说的手段，这就不是我们能知道的了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7605c62a5451212ab4f0c63afaa26236_735797586842933724.mp3",
+          "audioName": "29关于莱欧斯利…_en.mp3"
+        },
+        {
+          "name": "关于希格雯…",
+          "text": "希格雯小姐是一位优秀的护士，既擅长治疗身体的伤痛，又懂得如何疗愈人的内心。即使是梅洛彼得堡里的那些心怀恶孽的凶徒，想必也会被她的美德和善心感动，内心涌起一丝善念。这一丝善念，或许就能成为他们踏上改邪归正之路的契机。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/68dc7b48323447ddfe39fff9dee6deae_6203143120828107224.mp3",
+          "audioName": "30关于希格雯…_en.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "我听说过这名香水设计师小姐，对她真正的职业也有所耳闻。偶尔一次，我遇到她正在抚摸一只路边的小狗，脸上挂着温和的笑意。我们互相点头后就道别了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2a159b64817bc101df6f39c276fb6c3f_6249002353107140791.mp3",
+          "audioName": "31关于艾梅莉埃…_en.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其一",
+          "text": "决斗代理人的工作并不繁杂，甚至可以说十分简单。遵循审判庭的要求，击败对手就好。除此之外，无需多想。…也许这就是外面有些人把我称为「刽子手」的原因。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d8e3582b1ac58ed3ffa7d7487e84ca34_2969340172932821009.mp3",
+          "audioName": "32想要了解克洛琳德·其一_en.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其二",
+          "text": "进行代理决斗时，我会尽可能保证与对手公平较量。如果对手有眼疾，我就会蒙住眼睛，如果对手腿脚不便，我则会限定自己的移动范围。无论如何，我所参与的必须是一场公平的决斗。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f923556fde9b7c3fd6cfbf0064a16684_2105779656993053256.mp3",
+          "audioName": "33想要了解克洛琳德·其二_en.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其三",
+          "text": "我见过太多人临阵投降。连拔出武器的勇气都没有，所谓的冤屈和名誉受损，想必也只是自私的一家之言罢了。他们早已被自己击败，无需我动手，就自愿变成了心灵的囚徒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b129b2a7468d2b260fc6ec9c37ad8f99_5895390460072929594.mp3",
+          "audioName": "34想要了解克洛琳德·其三_en.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其四",
+          "text": "你见过审判庭上的罪人吗？在我所经历过的审判里，罪人们总会强词夺理，将自己伪装成好人。在他们口中，暴行变成义举，罪恶变为正义…但他们狡辩的终点却总是一句话——自己虽然一时糊涂，但这罪过人人都会犯，实在无可指责。他们掩盖自身污秽的方法，就是污染整片水源。而击碎这群罪人们的谎言，为正义之廷激浊扬清，正是我成为决斗代理人的理由。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/90301948f4fcc0adcf4559bc43bd56b4_7296448998019738798.mp3",
+          "audioName": "35想要了解克洛琳德·其四_en.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其五",
+          "text": "我见过许多想要在审判庭上寻求温和人情的人。我并无不敬，但他们来错了地方。审判庭是昭示公理正义的场所，而正义总是…也必须冷漠，否则它就无从延续。如果正义掺杂了人情，那么它有时候就容易被误导偏折，让基于公理执行的「审判」变为由人情驱使的「私刑」。而审判庭中的「私刑」，与那些违律的凶恶暴行无异。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a9b6c6bad2ae9a326dc24c2b610c9341_2680079943083901075.mp3",
+          "audioName": "36想要了解克洛琳德·其五_en.mp3"
+        },
+        {
+          "name": "克洛琳德的爱好…",
+          "text": "与代理决斗不同，「桌上剧团」主持人的身份，能够让我游离于故事之外，在不卷入人情冷暖的情况下观察人们的种种反应，为他们搭建出一个受我掌控的世界。嗯？你说听起来像看着笼子里的猎物？有道理…是我没有思考过的角度，不过我从来不会为难玩家，尽量都让他们开心地体验故事，这点和打猎还是很不一样的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/11872149f7defcf429b7e5735f175ca3_2818483305526071037.mp3",
+          "audioName": "37克洛琳德的爱好…_en.mp3"
+        },
+        {
+          "name": "克洛琳德的烦恼…",
+          "text": "希望那些记者不要再打扰我喝咖啡、买花和看书。否则我会考虑抓两个典型向审判庭起诉。如果他们申请代理决斗，我会让他们带着留影机上场的。公平起见，我也会只带留影机。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ccfd28e233a0bf0d32a389f00b33dd99_8271435750356681812.mp3",
+          "audioName": "38克洛琳德的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "用肉类做的菜肴都不错，但肉一定要新鲜。刚猎下的肉用盐简单调味后烤制，旁边搭配上微酸的水果，味道十分不错。下次有机会的话，随我去打猎，我做给你尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/019d35da0c82e150ee795f24e8d22ee6_6118022552742923913.mp3",
+          "audioName": "39喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "鱼类不合我的胃口，一方面是刺太多，另一方面则是有一股腥味…或许我在儿时已经吃够了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5c437fe8979cb5fc8190a3aabc25ab17_4050308354993507100.mp3",
+          "audioName": "40讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "完美的味道，很合我口味。别让记者和美食家发现，他们只会用镜头和报纸享受美食。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/aabfd92d9b9cc2d4da9242860d81a272_7498159259252649585.mp3",
+          "audioName": "41收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "嗯，不错的美食，很适合慢慢品尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3428baea5c567a18c43ad0c4ca0d0c12_3503795978067865690.mp3",
+          "audioName": "42收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…幸好这道菜并非出自餐馆，避免了一些厨师和食客之间的矛盾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/806834a49587b76d3f86cff276278952_4842195369525094083.mp3",
+          "audioName": "43收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。这短剑样式的项链由我亲手打造，送给你作为礼物。按照逐影猎人的传统，在新成员作为逐影猎人度过第一次生日时，教导这位猎人的导师会为他(她)亲手打造一柄刻有姓名的短剑项链，并让他(她)把它时刻挂在胸口。这象征着用剑锋指问自己的内心，是否涉足恶孽，是否心有旁骛，是否有决心逐灭邪魔。虽然你不是逐影猎人，但我相信你和我们一样，有着惩恶扬善的决心。为什么样式不是铳枪？因为铳枪会走火，指问内心的手段太直接了也不行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/27bd6fc0b445b0af41b93e6a04be9fe5_2226702938294615583.mp3",
+          "audioName": "44生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "原来如此，的确有所长进。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/2b99c33574b5536778765b95c5c7d53e_2140021064228120242.mp3",
+          "audioName": "45突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "剑挥舞时的手感更好了，完全能适应。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/dcadd67882e9fbffae1b874e076e41ca_2643169670697982529.mp3",
+          "audioName": "46突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "眼力有所提升？让我朝那片落叶试射一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/75bcd2b163763e31b93c415db3df1f81_2355152994153762159.mp3",
+          "audioName": "47突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "在武力层面，我并不认为你会需要我的帮助。但倘若你希望借助我的力量，我会尽我所能，一如既往。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5dab99df45b4d3f4cb9f28f89defe58e_1731677384027247981.mp3",
+          "audioName": "48突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "预备。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/55a8718c6648a0198f64c5f9c72f4005_330139647579004165.mp3",
+          "audioName": "49元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "上膛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/737030ab92cf9a4a8dfc6f35f017eb83_3555105096506023648.mp3",
+          "audioName": "50元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "猎影！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5d04fb511dae64c112d28f84620c45c0_9199090508695571670.mp3",
+          "audioName": "51元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "射猎邪魔！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/99d2f0406ffa99ad0c0e4e89e086305c_4267520346207897654.mp3",
+          "audioName": "52元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "你的自证时刻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/39c89602757646ba4343f8cc5ce589fe_3823321023022319195.mp3",
+          "audioName": "53元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "洞见恶孽，逐灭鬼影！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6dad048da179f712a415161449717153_8599812995663787818.mp3",
+          "audioName": "54元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "路遇好运，不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e1c07827573b13afa514e071a5a69047_2016186691599455945.mp3",
+          "audioName": "55打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "没有归属的物品，不会引发纠纷。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b247339ef82e94584f6207a7e67a2383_1259222107051231187.mp3",
+          "audioName": "56打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "先到者得，合理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/fdac3a53546572ac8ee23b204d162ffc_7410770238162767157.mp3",
+          "audioName": "57打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "…速决胜负。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d7608c1421d07a32b60871f77213c4c1_5816535778869703721.mp3",
+          "audioName": "58生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "骄纵轻狂。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3a32b99f44522b62ef314d5cd6e802c6_3227328690006483156.mp3",
+          "audioName": "59生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "…可笑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7f9cb0e7f68e6eabd015343b2c491774_659969801951384817.mp3",
+          "audioName": "60生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "退场！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/648f213e2fdfb060fe92ea1ce0ce4d70_5545876012161771869.mp3",
+          "audioName": "61同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "由我接手，后退。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/36cb680a4ee8adcacc91cde2869e191d_5022505402250300826.mp3",
+          "audioName": "62同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "胜负…已分…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9ede781a55981bf0b5f78e726a539ec6_5060186313954576577.mp3",
+          "audioName": "63倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "败者…当如此…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1c7ab01b475fd05ca300e556b4ef1701_7686962336929539332.mp3",
+          "audioName": "64倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "你已证明了名誉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/178b28b3dc3185fe5a21377b4eb86c6c_7251177968061723697.mp3",
+          "audioName": "65倒下·其三_en.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "还算精准。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5f435ed1af74928b154790210008c720_2814509443331902241.mp3",
+          "audioName": "66普通受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "够了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/61124682421edbe50fea40a211410d9f_749946228025546475.mp3",
+          "audioName": "67重受击·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "如你所邀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c361768ebe37d0590d2b6ff3131ae3f5_2168283347695799901.mp3",
+          "audioName": "68加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "需要我为你代理决斗吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a23d7e5d3c199ac8c310bbf022889ea6_5927407973918158944.mp3",
+          "audioName": "69加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "剑锋，直指暗影。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/15c78944dee2916b4c4e51effbc7815a_5438539304623618081.mp3",
+          "audioName": "70加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "枫丹廷决斗代理人，克洛琳德，向你致意。如需雇佣我进行代理决斗，请先陈述你所陷之纠纷…无需赘述人情，这与我无关。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6aeb73aec47afa39cf75672a9dbf1be7_3629867430870532296.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·对手",
+          "text": "我在决斗中遇见过不少对手，他们大部分都落败了，剩下的则主动投降…我有没有输过？没有。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/1809a7d40f2553f7a97b813d4ab82638_8651884917060374516.mp3",
+          "audioName": "02闲聊·对手_kr.mp3"
+        },
+        {
+          "name": "闲聊·决斗代理人",
+          "text": "决斗代理人是我的职业，我怎么想并不重要。因为握紧长剑之时，我代表的是枫丹的律法与规则。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/ae33c839f6ef1bf7ac4a972d1d37582c_6253149667944653658.mp3",
+          "audioName": "03闲聊·决斗代理人_kr.mp3"
+        },
+        {
+          "name": "闲聊·制胜诀窍",
+          "text": "决斗是意志的对战，剑则是决斗者心灵的延伸。如果你的心已然畏缩，那你的剑也会如同裹鞘一般，无法斩败任何人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/cb68df0463da9e8cb9a53a8a859b2b7a_5335339340528838601.mp3",
+          "audioName": "04闲聊·制胜诀窍_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "猎物会在雨天休息，但猎人不能。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9ce5b0e981fc8e3c39e19ef9c394bdb5_1385109649533172515.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "看来风和云的对决分出胜负了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9eddbcce4ea38f2b1b20e3096182efa3_4353434746171174814.mp3",
+          "audioName": "06雨过天晴…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "希望世界上能少个恶徒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3a4955d8068d0191de96ae8f1ebfe795_2501701479971073030.mp3",
+          "audioName": "07打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "真新奇。但也够冷清的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/857486b9fcbb4efb9551c5896873cf07_6600584766755255870.mp3",
+          "audioName": "08下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "我从来没这么想念过枫丹。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a2605ba81a56f4bf2746a3cdf7bcc260_3088306008135010624.mp3",
+          "audioName": "09在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。我正准备去喝杯咖啡，一起吗？我自带咖啡杯，如果你需要，我可以借你一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e160d7f4571504b3a2bae4ebb4a47a72_7438660476134879025.mp3",
+          "audioName": "10早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "抱歉，现在还是我的工作时间。这份三明治给你，先吃点垫垫吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9d1c81c517db6fccaa146f494e79e44f_3368987792958195194.mp3",
+          "audioName": "11中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "很抱歉不能和你分享品酒心得，但我可以向你推荐几家颇具特色的冷门餐馆。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c4165ec355ba75a3f1dd15af5df7fd26_3399619496815178656.mp3",
+          "audioName": "12晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。我维护好武器后也会休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/efc3695a5b2520cf7dc2852406834b81_8503774905850571939.mp3",
+          "audioName": "13晚安…_kr.mp3"
+        },
+        {
+          "name": "关于克洛琳德自己·新闻报道",
+          "text": "报纸上总是存在着一些谈不上公正，也绝不算正义的报道。撰写它们的人都被人情与摩拉带偏了心。如果你想知道某件事的真相，最好的方法是去找相关的人，用你自己的嘴发问，用你自己的心去理解。至少，别让其他人的舌头代替你的头脑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/441cec5f475a531e6c7c1cf8217b7b3f_7935852302855149343.mp3",
+          "audioName": "14关于克洛琳德自己·新闻报道_kr.mp3"
+        },
+        {
+          "name": "关于克洛琳德自己·铳枪与长剑",
+          "text": "我的武器装备遵循逐影猎人的传统制式。铳枪用来驱赶猎物，长剑给予它们致命一击。当然，代理决斗时我一般只用长剑，踏上决斗场的人已经无路可逃，用不着再做驱赶。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/58b651eaee7031faa7e897248f0c6781_9161008364615295547.mp3",
+          "audioName": "15关于克洛琳德自己·铳枪与长剑_kr.mp3"
+        },
+        {
+          "name": "关于我们·仪式",
+          "text": "在每次决斗开始前，我会用浸了特制药水的软布擦拭武器，一方面是为了保养，另一方面是为了让自己保持沉静，排除杂念。作为执剑者，你应该也有自己的仪式吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/acfca8ddd1baf5fcd27f2fa221569114_872405115296829767.mp3",
+          "audioName": "16关于我们·仪式_kr.mp3"
+        },
+        {
+          "name": "关于我们·人与魔影",
+          "text": "我的许多习惯都承袭自逐影猎人的传统。他们对抗的是邪恶魔物，而我对抗的则是不法凶徒。但魔物本就生来邪毒，这是它们的本能，那些堕落的人本来有行善的能力与机会，但他们却自寻恶孽。你呢？你持剑的理由是什么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5768c6d367f68dc4027dd30b805a0a34_132787881888178786.mp3",
+          "audioName": "17关于我们·人与魔影_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "在我获得「神之眼」后，在决斗中向我投降的人数明显增加了不少。有的代理人说，这枚「神之眼」是我进行决斗时的「震慑手段」。我还以为我从未败北的决斗战绩才是「震慑手段」，或许我以后的决斗应该赢得更有表现力一些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e18e4b4f2d4fd100c19cb30baed33f45_6121134934557312044.mp3",
+          "audioName": "18关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "我曾多次见证某些矛盾琐事，被当事人基于纯粹的感性反复咀嚼，最终演变成一桩事关人身尊严，不可退让的惊天耻辱，闹上审判庭，甚至引发一场荒诞的决斗。作为决斗代理人，我对于用决斗来维护名誉这件事没有意见。但是…怎么说呢，从一个普通的枫丹市民角度来看，咖啡里到底该不该加茉洁草，实在不见得是一件非要用剑来论证的事情…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/cb52df11397deec15b39950f5ca77405_6754740062150341985.mp3",
+          "audioName": "19有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "见过蓬蓬果吧？它们飘飞的速度和位置不易捉摸，很适合作为枪靶练习射击。但是，去野外找蓬蓬果很不方便，要是有人愿意人工培育蓬蓬果就好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/087605cdd08eed7ad502e66377bb1370_8903449548907273176.mp3",
+          "audioName": "20感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "夏洛蒂小姐是一位识趣的记者，我对她没什么坏印象。毕竟，夏洛蒂小姐既不会在上班的路上堵截拍摄我，也不会跟踪我去咖啡馆，记录我今天喝了什么咖啡。最值得称赞的是，她明确地知道，我不接受记者采访，所以不会来自讨没趣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/80284ef4650acce67ae3aa94ae27c842_7832736731650568890.mp3",
+          "audioName": "21关于夏洛蒂…_kr.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "从前参加茶会的时候，我总是扶着剑站在她背后，现在我却能在长桌对面就座，与她分享茶点。位置变化之后，我开始理解为什么她会成天念叨着「控制体态」了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f81333cef121f2cc5b00ef250a5e8856_6250063381567151942.mp3",
+          "audioName": "22关于芙宁娜…_kr.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "娜维娅最近心情很好，隔几天就会拉我去「桌上剧团」玩新剧本。选材五花八门。除了担任了几次剧本主持人，我也作为玩家和她共同参与了几场冒险。但我会尽量避免扮演和审判庭有关的角色，防止气氛变得太过严肃…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/fecbce3f93ce9a850bad346d3c202d8e_5772990160645420191.mp3",
+          "audioName": "23关于娜维娅…_kr.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "最高审判官的权威无可置疑，他总是能做出最公正的判决。必要的时候，我也会用剑再次强调判决的公正性。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/d99da0050993735abe379475d0b1880b_7669367770598322555.mp3",
+          "audioName": "24关于那维莱特…_kr.mp3"
+        },
+        {
+          "name": "关于夏沃蕾…",
+          "text": "夏沃蕾队长，我听说过她的大名。她曾经因为抓捕凶犯时的手段太过强硬，而遭到过几次起诉。她应诉时态度依然十分强硬，将对方驳得哑口无言，实在出色。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/13501298cef7ba72bdb666c31e735c51_8986953877008486439.mp3",
+          "audioName": "25关于夏沃蕾…_kr.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "这位大魔术师的职业素养值得称赞。如果有空的话，我会以观众的身份享受他的魔术表演。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/313c6cc48013fef2cf15e622011dba67_5937236498451703248.mp3",
+          "audioName": "26关于林尼…_kr.mp3"
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "有天我收到了一个包裹，装着迷你机械玩具和表达谢意的卡片。那份玩具十分精致，下次有机会，我会对菲米尼先生当面表达一下感谢…最好不要当面？好吧，那我也写份卡片，请你帮我带给他。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/80150e40c96d5ee2735d30b25a38c60b_7490142344282103281.mp3",
+          "audioName": "27关于菲米尼…_kr.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "我买过她家的衣服，质量不错。但平时，我更习惯穿现在这套工作制服，一方面它可以明确地阐述出我的身份，另一方面是因为我喜欢熟悉的事物。这套制服就像是我的剑，熟悉且适用，不必多做更换。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0224d79364ff71019063489fd0fa7524_2262996321769042191.mp3",
+          "audioName": "28关于千织…_kr.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "梅洛彼得堡并不是一处好打理的地方。能让那个地方保持相对的稳定，莱欧斯利的手腕无可置疑。其中应该不乏一些不能明说的手段，这就不是我们能知道的了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/04f98cb05130fc130e3bc2df7ebe921e_4653132339064957404.mp3",
+          "audioName": "29关于莱欧斯利…_kr.mp3"
+        },
+        {
+          "name": "关于希格雯…",
+          "text": "希格雯小姐是一位优秀的护士，既擅长治疗身体的伤痛，又懂得如何疗愈人的内心。即使是梅洛彼得堡里的那些心怀恶孽的凶徒，想必也会被她的美德和善心感动，内心涌起一丝善念。这一丝善念，或许就能成为他们踏上改邪归正之路的契机。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9bb18c7167571c5a4dbd2e98f03c4628_3434738948694325915.mp3",
+          "audioName": "30关于希格雯…_kr.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "我听说过这名香水设计师小姐，对她真正的职业也有所耳闻。偶尔一次，我遇到她正在抚摸一只路边的小狗，脸上挂着温和的笑意。我们互相点头后就道别了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/eb11ed65f9e70c2ef1adec7fa8fa5d42_8031064517833332027.mp3",
+          "audioName": "31关于艾梅莉埃…_kr.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其一",
+          "text": "决斗代理人的工作并不繁杂，甚至可以说十分简单。遵循审判庭的要求，击败对手就好。除此之外，无需多想。…也许这就是外面有些人把我称为「刽子手」的原因。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/8ce1fdaed8a781a1f32f4a43491c3926_5636031864377532518.mp3",
+          "audioName": "32想要了解克洛琳德·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其二",
+          "text": "进行代理决斗时，我会尽可能保证与对手公平较量。如果对手有眼疾，我就会蒙住眼睛，如果对手腿脚不便，我则会限定自己的移动范围。无论如何，我所参与的必须是一场公平的决斗。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0ee4b35c5b910697f6145d50b2768d57_2381288033763116559.mp3",
+          "audioName": "33想要了解克洛琳德·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其三",
+          "text": "我见过太多人临阵投降。连拔出武器的勇气都没有，所谓的冤屈和名誉受损，想必也只是自私的一家之言罢了。他们早已被自己击败，无需我动手，就自愿变成了心灵的囚徒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/4225f3ff92c3dfb810b617243097cac7_732596043872466448.mp3",
+          "audioName": "34想要了解克洛琳德·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其四",
+          "text": "你见过审判庭上的罪人吗？在我所经历过的审判里，罪人们总会强词夺理，将自己伪装成好人。在他们口中，暴行变成义举，罪恶变为正义…但他们狡辩的终点却总是一句话——自己虽然一时糊涂，但这罪过人人都会犯，实在无可指责。他们掩盖自身污秽的方法，就是污染整片水源。而击碎这群罪人们的谎言，为正义之廷激浊扬清，正是我成为决斗代理人的理由。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/96c079ac85ec706e7645d2f331c835c5_1463661604645015925.mp3",
+          "audioName": "35想要了解克洛琳德·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解克洛琳德·其五",
+          "text": "我见过许多想要在审判庭上寻求温和人情的人。我并无不敬，但他们来错了地方。审判庭是昭示公理正义的场所，而正义总是…也必须冷漠，否则它就无从延续。如果正义掺杂了人情，那么它有时候就容易被误导偏折，让基于公理执行的「审判」变为由人情驱使的「私刑」。而审判庭中的「私刑」，与那些违律的凶恶暴行无异。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/47d72a3ce947d387e6a8a64fbff13542_511223897620808750.mp3",
+          "audioName": "36想要了解克洛琳德·其五_kr.mp3"
+        },
+        {
+          "name": "克洛琳德的爱好…",
+          "text": "与代理决斗不同，「桌上剧团」主持人的身份，能够让我游离于故事之外，在不卷入人情冷暖的情况下观察人们的种种反应，为他们搭建出一个受我掌控的世界。嗯？你说听起来像看着笼子里的猎物？有道理…是我没有思考过的角度，不过我从来不会为难玩家，尽量都让他们开心地体验故事，这点和打猎还是很不一样的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/0c6b8e2cf6e3dbf148e4c9a680db730f_1900810484830237846.mp3",
+          "audioName": "37克洛琳德的爱好…_kr.mp3"
+        },
+        {
+          "name": "克洛琳德的烦恼…",
+          "text": "希望那些记者不要再打扰我喝咖啡、买花和看书。否则我会考虑抓两个典型向审判庭起诉。如果他们申请代理决斗，我会让他们带着留影机上场的。公平起见，我也会只带留影机。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/8a99bb241471853dea9ae97c6155aea5_7025532922173565055.mp3",
+          "audioName": "38克洛琳德的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "用肉类做的菜肴都不错，但肉一定要新鲜。刚猎下的肉用盐简单调味后烤制，旁边搭配上微酸的水果，味道十分不错。下次有机会的话，随我去打猎，我做给你尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/124b86fbb7a072611cc8ad31dfd47625_4034041976525963480.mp3",
+          "audioName": "39喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "鱼类不合我的胃口，一方面是刺太多，另一方面则是有一股腥味…或许我在儿时已经吃够了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/96eb07596211ad49117b059fe9e9c7dc_4705028800559269806.mp3",
+          "audioName": "40讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "完美的味道，很合我口味。别让记者和美食家发现，他们只会用镜头和报纸享受美食。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/de180fe5590313dd8bae45d3a31951c8_4772564828989276905.mp3",
+          "audioName": "41收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "嗯，不错的美食，很适合慢慢品尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/a0c63bb94624a8db30090ff171d94624_8426378583970264004.mp3",
+          "audioName": "42收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…幸好这道菜并非出自餐馆，避免了一些厨师和食客之间的矛盾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/153be1bd09d161d577ef8577c33b45d8_5740995103437221857.mp3",
+          "audioName": "43收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。这短剑样式的项链由我亲手打造，送给你作为礼物。按照逐影猎人的传统，在新成员作为逐影猎人度过第一次生日时，教导这位猎人的导师会为他(她)亲手打造一柄刻有姓名的短剑项链，并让他(她)把它时刻挂在胸口。这象征着用剑锋指问自己的内心，是否涉足恶孽，是否心有旁骛，是否有决心逐灭邪魔。虽然你不是逐影猎人，但我相信你和我们一样，有着惩恶扬善的决心。为什么样式不是铳枪？因为铳枪会走火，指问内心的手段太直接了也不行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/bf40e2b6d6b533cfd4d7e8a007edde63_4761598311233786836.mp3",
+          "audioName": "44生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "原来如此，的确有所长进。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/4be4bfa5a020404f6400ee1796210abf_5649402392937531795.mp3",
+          "audioName": "45突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "剑挥舞时的手感更好了，完全能适应。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/755bf4cac99bd0bed5a07ab0ad2e3a11_7724086208874816569.mp3",
+          "audioName": "46突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "眼力有所提升？让我朝那片落叶试射一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/195b26a628ecf764effae04862e6af06_7476710890536517144.mp3",
+          "audioName": "47突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "在武力层面，我并不认为你会需要我的帮助。但倘若你希望借助我的力量，我会尽我所能，一如既往。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9360e07102023dd9ba0c7043c708ee96_2588734843455021960.mp3",
+          "audioName": "48突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "预备。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5675f854862300aa86a6187ddce6a1cb_1758811610570214413.mp3",
+          "audioName": "49元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "上膛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6cfba78e23f7f4aa47622ab4f81353eb_2879952922952777692.mp3",
+          "audioName": "50元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "猎影！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/c84735ab3fef3c468acfcbd9f6f31e1c_1370583791103378489.mp3",
+          "audioName": "51元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "射猎邪魔！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/523ac1ffad086ac7cea432b524ff255f_5289868593990224415.mp3",
+          "audioName": "52元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "你的自证时刻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e1375a2549a4d85c6f7a0d53ea19061e_561452400325678430.mp3",
+          "audioName": "53元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "洞见恶孽，逐灭鬼影！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/7a65ca0054a308d07f6aae7c642abb09_5360613516898196886.mp3",
+          "audioName": "54元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "路遇好运，不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/22c1c1291d1de9fd895f88ec6c8c4ae7_2162269353960646621.mp3",
+          "audioName": "55打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "没有归属的物品，不会引发纠纷。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b2191a70faa094aa55cb8804e908fc1d_9036510052123670899.mp3",
+          "audioName": "56打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "先到者得，合理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/b393f39d30d8385088100a70993190f4_288509754247330813.mp3",
+          "audioName": "57打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "…速决胜负。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/e9447ba90fedefee249e971f1b9372a0_1852275021152056044.mp3",
+          "audioName": "58生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "骄纵轻狂。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/19cc08ea0dc610fa35d57e91fba9ac05_8514659344647804100.mp3",
+          "audioName": "59生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "…可笑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/384b8712930f5237a479d66461ab841f_4585341014995510585.mp3",
+          "audioName": "60生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "退场！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/5ef54095a3b0a537e0de8d9d7dec4bc6_7166719268090148326.mp3",
+          "audioName": "61同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "由我接手，后退。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/9a44b963b673f6c38ec29c0dd871341a_6653800838427249319.mp3",
+          "audioName": "62同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "胜负…已分…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/f22e9a1b6aafc232ea1cc8b9c2d3374c_8873667022891629061.mp3",
+          "audioName": "63倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "败者…当如此…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/57ac3a4983eae5f5cc53b3789421bdff_1674048833402075047.mp3",
+          "audioName": "64倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "你已证明了名誉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/839e4f64305bf886415759704547684b_8038839703128632796.mp3",
+          "audioName": "65倒下·其三_kr.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "还算精准。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/25ee6f06332e6112a51d39143146c25e_6054865960760541219.mp3",
+          "audioName": "66普通受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "够了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/3cce16d0fa21a7d6ca167e6835cee193_6189873474682932278.mp3",
+          "audioName": "67重受击·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "如你所邀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/6db514e288b1043f101a1c83d5cf2f1d_7842023111538334983.mp3",
+          "audioName": "68加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "需要我为你代理决斗吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/559e03fa160fc3efbfbee4576f364f13_2140068768733872523.mp3",
+          "audioName": "69加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "剑锋，直指暗影。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/16576950/11f1980595a075c50ffac0ec2ff05c53_7964953037825368123.mp3",
+          "audioName": "70加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

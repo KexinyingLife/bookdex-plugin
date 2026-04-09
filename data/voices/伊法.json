@@ -1,0 +1,1685 @@
+{
+  "id": "504977",
+  "name": "伊法",
+  "alias": [
+    "伊法"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "伊法：你好，我是来自「花羽会」的兽医，名叫伊法。你可能已经从其他人那里听说过我了，不过没关系，无论印象如何，我们都可以从零开始做朋友嘛。\n伊法：对了，还有这位…这位是咔库库助理，是龙，也是医生，希望你们相处愉快。\n咔库库：幸会啊，哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/bae96bf1cd9fccf40952c25edbb637c1_7117419206145888417.mp3",
+          "audioName": "初次见面….mp3"
+        },
+        {
+          "name": "闲聊·休息",
+          "text": "哎，世界上哪有那么多一劳永逸的好事。休息够了就动起来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d52fc52803e4fdcab33c0d5ce39b1e53_2682512571899978878.mp3",
+          "audioName": "闲聊·休息.mp3"
+        },
+        {
+          "name": "闲聊·零食",
+          "text": "一闲下来总想吃点什么…我有糖、水果和肉干，要来点吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/838293673677456789046ea02062d0d5_6698199815929380630.mp3",
+          "audioName": "闲聊·零食.mp3"
+        },
+        {
+          "name": "闲聊·叫声",
+          "text": "你有听到动物的叫声吗？…唔，难道是我听错了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/a139f923ce5d581a0754502bea7b89d4_8773377470964631664.mp3",
+          "audioName": "闲聊·叫声.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "小心，咔库库可能会甩你一身水…不过转念一想，反正都在淋雨了，躲不躲也没什么差别。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/69ccac9328405a567dd58ffa85cd418c_2496778097063583883.mp3",
+          "audioName": "下雨的时候….mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "你知道吗，有不少龙害怕打雷呢。每次都要解释好久才能安抚它们，怪好玩的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/62aba9a26d4eaa7310a23c9c7c738c4d_3968976608538659039.mp3",
+          "audioName": "打雷的时候….mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "呜哇，冷风吹得睁不开眼…还是先别飞了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/2ec19b2c1fff0ee56cbf006b3877959d_665841282785750571.mp3",
+          "audioName": "下雪的时候….mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "在帽子被吹走和脖子被勒住之间只能二选其一呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/cddc1efd1af3a4b62b368788694fab78_8930762239341785786.mp3",
+          "audioName": "刮大风了….mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。不是我想起这么早的，只是再不起床，留在诊所里的病患们会饿得大叫。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/b9e19d5b0a84005321b22c49520c2bde_4390851982040585386.mp3",
+          "audioName": "早上好….mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "巧啊，我正准备去吃午饭，要一起吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/171cc60721f90274f93ebba68e813cf3_8139530783703350699.mp3",
+          "audioName": "中午好….mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上我一般习惯待在家里，如果有紧急病患，会比较容易找到我。没有意外发生的话，那就好好休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/84f075979ba84e5d7c3b96e2c3176f5e_3780427826166158040.mp3",
+          "audioName": "晚上好….mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。明天肯定有想不到的新事情要忙，早些休息吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/38e9306d710360e0c75f205dcdd35c87_4140541964161303348.mp3",
+          "audioName": "晚安….mp3"
+        },
+        {
+          "name": "关于伊法自己·朋友",
+          "text": "我朋友还算挺多的吧，有一些会让我头疼，有一些能缓解我的头疼，还有一些在这两者之间摇摆。挺好的，他们都是很不错的朋友。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/58b74e4a5a14e3b293c4797b06a80f98_975252368934407566.mp3",
+          "audioName": "关于伊法自己·朋友.mp3"
+        },
+        {
+          "name": "关于伊法自己·满足",
+          "text": "不知道其他人是否如此，反正我在被需要时是会产生满足感的。人的一生可能就是这样被一点点填满的吧，要是大家都能找到让自己感到充实的事物就好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/7e8c260687485bfd807ff8288b5c26ae_4464580316348186476.mp3",
+          "audioName": "关于伊法自己·满足.mp3"
+        },
+        {
+          "name": "关于我们·提醒",
+          "text": "伊法：接下来的行程都安排好了？身体状态如何？东西带齐了没？\n伊法：嗯，你看起来精神不错，派蒙也吃饱了，好像确实准备妥当…不过稍等，还是让我再确认一下…\n咔库库：不会吧哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/93bd2d1ba5924ebf7a6f98264be3d274_3025838593832885773.mp3",
+          "audioName": "关于我们·提醒.mp3"
+        },
+        {
+          "name": "关于我们·确认",
+          "text": "你和我认识这么久，会觉得我有时太啰嗦，或者关怀过度了吗？不会吗？这样正好？呼…那就好。可能因为我总是跟不会说话的动物打交道，所以无论什么都得多次确认才放心。你不会觉得烦就行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/5856f89903f24845bc4772d2ffda928a_4457011500617663384.mp3",
+          "audioName": "关于我们·确认.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "这玩意儿还挺好用的呢。有时候龙飞累了，我会让风托住它们一会儿。悄悄地，不要被发现。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d6fd3bb9c95ea28d593f7636b57313b7_6858583892111197050.mp3",
+          "audioName": "关于「神之眼」….mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "用食物「哄骗」小动物这招确实很好用，但用多了之后它们就会得寸进尺，甚至养成坐享其成的坏习惯。所以能讲道理时，我还是愿意尽量让它们明白事物的原理，比如掉进陷阱就会摔伤、乱吃东西容易中毒。\n虽然需要额外费些功夫，但我觉得是值得去做的事情。更何况，有时动物其实比人更聪明呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/f86c42ee408b9dccfb966b9ac9834485_3431198805079670058.mp3",
+          "audioName": "有什么想要分享….mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "只要愿意用心观察，就会发现世界上有趣的东西多着呢。要是时间允许，我可以盯着大自然看一整天。可惜啊，工作总是会自己找上门来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/0036edf13370116575749a80a8d23f72_7572016272674488336.mp3",
+          "audioName": "感兴趣的见闻….mp3"
+        },
+        {
+          "name": "关于卡齐娜…",
+          "text": "能看出卡齐娜非常喜欢龙。她如果潜心学习，应该可以成为一名不错的龙医生。不过她已经是位了不起的战士了，就不必分心来做我的学生了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/c0866d87843c053b4e7543e6cc74a434_7408221834737244768.mp3",
+          "audioName": "关于卡齐娜….mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "我可喜欢和希诺宁聊天了，她总有很多了不起的好点子。虽然有时她会因为更重视功能造出看起来很震撼的工具，但我觉得，「看起来震撼」也是功能的一种。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/c47d2863387e4db8b8e72173bf1b2082_2046811578276626756.mp3",
+          "audioName": "关于希诺宁….mp3"
+        },
+        {
+          "name": "关于基尼奇…",
+          "text": "严肃讨论，阿乔算是生物吗？\n反正之前它来看病，我研究了好一阵也没看出哪有问题，就跟基尼奇说：「照着它脑门多拍拍，拍到正常运转就行了。」\n阿乔听完这话马上就没事了，你说巧不巧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/482aaa6cd3e52def1d5637988cddeacf_1715919396290390132.mp3",
+          "audioName": "关于基尼奇….mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "调停人的工作很重要，她能治我治不好的「病」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/bbdcb25aceb0550c7e6d0efca2f2881a_2821802833434432618.mp3",
+          "audioName": "关于恰斯卡….mp3"
+        },
+        {
+          "name": "关于欧洛伦·别想太多",
+          "text": "他这人想法很怪的。和他交往不用思考太多，反正也想不明白。\n总之他心思不坏，会用特别的方式关心身边的朋友，认识久了你就知道了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d43bc24660ef5ec8bab738684d2a6415_7584891255784074028.mp3",
+          "audioName": "关于欧洛伦·别想太多.mp3"
+        },
+        {
+          "name": "关于欧洛伦·很想知道",
+          "text": "…虽然已经习惯了，但有时还是很想钻进他的脑袋里，看看他每天到底都在想些什么！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/01d434e3080f3eb78fe54646630e6209_5103866675562279656.mp3",
+          "audioName": "关于欧洛伦·很想知道.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "奶奶…奶奶很厉害的，睡衣的花样也多，哈哈…\n为了不卷入额外的麻烦，一般黑曜石奶奶叫我跟欧洛伦转达什么，我就转达什么，一字不多一字不少。有些事情，知道的越少越好，不然要和她孙子一起吃脑瓜崩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/e941a012967b42a58e25f92de0bb3e23_1783013942072585916.mp3",
+          "audioName": "关于茜特菈莉….mp3"
+        },
+        {
+          "name": "关于玛薇卡…",
+          "text": "有次遭遇紧急出诊，火神大人提出可以载我一程。真的很疯狂，哥们，要在头晕目眩的状态下给龙清理伤口…在那之前我都不知道自己可以做到这种程度，人的潜能就是这样被开发的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/21bd1e221ae1ade7cca7e5c7a06a327c_8071443521557813847.mp3",
+          "audioName": "关于玛薇卡….mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "你是说万一这位先生生病了，希望我能多关照下？欸，这归我管吗？\n嗯…但既然是咔库库的新哥们…那好吧，我试试看咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/47b821cdd02c6596408b971ceb3c0f16_385298344482571871.mp3",
+          "audioName": "关于那维莱特….mp3"
+        },
+        {
+          "name": "想要了解伊法·其一",
+          "text": "伊法：诊所门口的板子不是我自己画的。真的，你相信我。\n咔库库：哈哈！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/4d719a83de16c9d79ec028cef57487f2_3966386387661983438.mp3",
+          "audioName": "想要了解伊法·其一.mp3"
+        },
+        {
+          "name": "想要了解伊法·其二",
+          "text": "其实我也不确定咔库库究竟是什么时候学会说第一句人话的。只记得某天凌晨听到它大叫「太阳晒屁股了，哥们！」…早上五点就这样醒来，真的很令人震惊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/b4f8a5b561e3de2c9e9f5ff73a37f11a_8857276611603854829.mp3",
+          "audioName": "想要了解伊法·其二.mp3"
+        },
+        {
+          "name": "想要了解伊法·其三",
+          "text": "飞行试炼我早就通过了，理论上可以叫任何一只绒翼龙来帮我，不过自从咔库库来了，它就不太愿意让我再去找别的龙。也行吧，虽然咔库库还小，但既然它觉得自己能行，那我就愿意信任它。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/764d3895fcb12b36d6bdbfc9fd6b62a7_5651957857340749187.mp3",
+          "audioName": "想要了解伊法·其三.mp3"
+        },
+        {
+          "name": "想要了解伊法·其四",
+          "text": "如果可以，我希望自己是能给大家带来安全感的人。能被人信赖很难得，可不是谁都能做到的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/14a76e2dc5d57a516cc2a41b7904456e_8862477587544529757.mp3",
+          "audioName": "想要了解伊法·其四.mp3"
+        },
+        {
+          "name": "想要了解伊法·其五",
+          "text": "做兽医挺好的。虽然总有别离，但我从不后悔自己的职业选择。小动物就跟小孩子一样，有时难以沟通又很爱惹麻烦，但对我来说，他们都是值得守护的未来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/150231ff9c5e46ae8dc72ed0540f838e_4063825275356329690.mp3",
+          "audioName": "想要了解伊法·其五.mp3"
+        },
+        {
+          "name": "伊法的爱好…",
+          "text": "花羽会里喜欢唱歌的人还挺多的，我偶尔也写写歌词弹弹琴，是个调节心情的好办法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/36bc238f456afad87a8b2eb7efea8be5_3551166021073955848.mp3",
+          "audioName": "伊法的爱好….mp3"
+        },
+        {
+          "name": "伊法的烦恼…",
+          "text": "伊法：好像没有什么严重到非解决不可的烦恼…哦，希望咔库库以后能学点更有用的话。\n咔库库：你在胡说什么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/2aa0e2d4fcfc78904b8d461f98ec3622_2658184450474670367.mp3",
+          "audioName": "伊法的烦恼….mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "新鲜水果是最好的，既能充饥又能解渴，切下来的小块正好喂给咔库库。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/3c4424cfe04e6fc1146105dc43526360_1541070725642561514.mp3",
+          "audioName": "喜欢的食物….mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "新鲜水果是很好的，但放在菜里就有点…就不能直接吃吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/776792a2d5319d87c7bc2fb275930b8a_7620271914962884592.mp3",
+          "audioName": "讨厌的食物….mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "咔库库：交给我吧，哥们！\n伊法：你这小东西倒是抢上了。好吧好吧，分你一半。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/6b89e40123b3e54762bea66fb72e1325_3975560612368112671.mp3",
+          "audioName": "收到赠礼·其一.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "很好吃，我去拿点果汁，你想喝哪种？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/356c46aab1c1e61936ebfb259bccf4b0_2773892689451017459.mp3",
+          "audioName": "收到赠礼·其二.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "咔库库：真的假的？哥们，瞧瞧你做的…\n伊法：不不，能吃就很好了。谢谢你，哥们。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/968d11eb89520d00e9ab79fafd2abf93_5254966804216738807.mp3",
+          "audioName": "收到赠礼·其三.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！祝你身体健康，永远年轻。\n虽然时间的洪流不可阻挡，但可以保持心态上的年轻嘛，更何况心情不好也是会影响健康的。来，今天就忘记烦恼，找些轻松愉快的事情做吧。\n对了，有什么喜欢的音乐吗？我弹给你听。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/24b068d896c1e08d880897b8d38b1443_6329180188264360529.mp3",
+          "audioName": "生日….mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "是热身运动吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/c35a80d5e008d9698837bc33a4408324_7371638318953986334.mp3",
+          "audioName": "突破的感受·起.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "自己身体健康才有精力照顾别人，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/0742f3d0619fb52b1cfb0013000b7377_1031358258714629436.mp3",
+          "audioName": "突破的感受·承.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "越是不常用的枪械越要重视保养。哎呀，瞧我在说什么呢，哥们。我是医生，非必要情况是不会动枪的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/8b9e71daa3c313b19927a6f3754d6ba4_3600348151135361925.mp3",
+          "audioName": "突破的感受·转.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "伊法：谢啦，哥们！不必客套，有事随时叫我！\n咔库库：随时叫我，哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/ca4504461a9cce156759aa67b0d8cfbe_6281138468664973578.mp3",
+          "audioName": "突破的感受·合.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "走吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/24ab740e2eea75264786b5c4ec811831_4312034661653477483.mp3",
+          "audioName": "元素战技·其一.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "注意风向！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/8b939b68218b8d2e1b3e26f673c598f7_3821746272596367417.mp3",
+          "audioName": "元素战技·其二.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "咔库库：飞啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/2d9c2dd002358de4327e88dd3a9a6f26_932960547059863887.mp3",
+          "audioName": "伊法-汉语-元素战技·其三.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "咔库库：哎呀！哎呀！\n伊法：加油！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/54696a3bd2fa992c986adea2baa89b7c_6106264128794396635.mp3",
+          "audioName": "伊法-汉语-元素战技·其四.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "小心为妙！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/9f11bfa626b6f092bc7a1a9ea891b9fb_2152584143155587320.mp3",
+          "audioName": "伊法-汉语-元素爆发·其一.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "好聚好散！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/dd5f7fc583ec829563834ffc43155af6_7506124012879880997.mp3",
+          "audioName": "伊法-汉语-元素爆发·其二.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "想跑？没门！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/b4bc19e775fa324fabcd4b0d5fbb1095_6632321790843514841.mp3",
+          "audioName": "伊法-汉语-元素爆发·其三.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "厉害，亏你能找到这个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/4a33eea6b378ed8f3a509e1005d790a3_2443927056099703684.mp3",
+          "audioName": "伊法-汉语-打开宝箱·其一.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "今天是幸运日啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/09972d3d8b59552f9c68a1a5885a7fde_7264512792690015313.mp3",
+          "audioName": "伊法-汉语-打开宝箱·其二.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "拿不下的话我叫咔库库帮你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/afaff8c8a78518ac20461e0d1daa8518_8889813290269168536.mp3",
+          "audioName": "伊法-汉语-打开宝箱·其三.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "呼吸不畅…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/bc4048b8d2e10f85abb959b59165b1e0_5951029856296483468.mp3",
+          "audioName": "伊法-汉语-生命值低·其一.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我再坚持下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/494ffdc6e8293f1f4a9916fdbf74152a_3665181171271074869.mp3",
+          "audioName": "伊法-汉语-生命值低·其二.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "咔库库：伊法，伊法！\n伊法：知道了知道了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/df55089181b5c8867889c3a28a2c2f2e_3086305433069779720.mp3",
+          "audioName": "伊法-汉语-生命值低·其三.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/eae260af641bcbaaf4bb01fe7933c5ff_607887776975787966.mp3",
+          "audioName": "伊法-汉语-同伴生命值低·其一.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "快做紧急处理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/c9f4f29c1e492c81a8ee80ce9a916439_8164661053181350262.mp3",
+          "audioName": "伊法-汉语-同伴生命值低·其二.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "战争还没结束吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/a7e698a29bce0d2560ddb1195c1f5f20_556977122784738277.mp3",
+          "audioName": "伊法-汉语-倒下·其一.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "抱歉，没帮上忙…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/feeeb89604b338229582fedbfebfd46f_2965228822751621534.mp3",
+          "audioName": "伊法-汉语-倒下·其二.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "医者的遗憾…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/b46b6eb8306b94ecb7ef61d6c317f99b_103369093472116380.mp3",
+          "audioName": "伊法-汉语-倒下·其三.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "别吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/9b96056f1222090caf9ccc903ca6649e_3316401436264384395.mp3",
+          "audioName": "伊法-汉语-普通受击·其一.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不会吧哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/01d9879fefa213b6845ce7d1eecaac08_6567939223746898757.mp3",
+          "audioName": "伊法-汉语-重受击·其一.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "嘶…就不能对我温柔点？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/98a3d96173acabe477677f1b4c7ca9c1_8467577796620333942.mp3",
+          "audioName": "伊法-汉语-重受击·其二.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "要出远门？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/32ffdcf797f44df4bccadcbaf804d085_4183441038450650043.mp3",
+          "audioName": "伊法-汉语-加入队伍·其一.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "急救用品都准备好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/25e20c2620d8f7c161c7986815a84feb_4807374440513388262.mp3",
+          "audioName": "伊法-汉语-加入队伍·其二.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "预祝我们一路顺风。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/15bd8df6f86e167ed1cf751304a70e39_6051558025125228373.mp3",
+          "audioName": "伊法-汉语-加入队伍·其三.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "伊法：你好，我是来自「花羽会」的兽医，名叫伊法。你可能已经从其他人那里听说过我了，不过没关系，无论印象如何，我们都可以从零开始做朋友嘛。\n伊法：对了，还有这位…这位是咔库库助理，是龙，也是医生，希望你们相处愉快。\n咔库库：幸会啊，哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/a8f67482276982ff075473b62e72917e_2521168073671606950.mp3",
+          "audioName": "初次见面….mp3"
+        },
+        {
+          "name": "闲聊·休息",
+          "text": "哎，世界上哪有那么多一劳永逸的好事。休息够了就动起来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/77d1947f8eef5d8afeea82827c3acb01_2703444888018357044.mp3",
+          "audioName": "闲聊·休息.mp3"
+        },
+        {
+          "name": "闲聊·零食",
+          "text": "一闲下来总想吃点什么…我有糖、水果和肉干，要来点吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/429ad6c0a4ae436d8f57f1b8a2a8e54f_6559129669698854047.mp3",
+          "audioName": "闲聊·零食.mp3"
+        },
+        {
+          "name": "闲聊·叫声",
+          "text": "你有听到动物的叫声吗？…唔，难道是我听错了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/c3352d1fad60636933b1de5e65882e56_6179762718269585384.mp3",
+          "audioName": "闲聊·叫声.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "小心，咔库库可能会甩你一身水…不过转念一想，反正都在淋雨了，躲不躲也没什么差别。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/b3f83bd21663efdf5e81d4f2df741a43_7880681434584963531.mp3",
+          "audioName": "下雨的时候….mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "你知道吗，有不少龙害怕打雷呢。每次都要解释好久才能安抚它们，怪好玩的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/7abd96c5d921936a7e9dcd05f64e2e6c_165310482460611993.mp3",
+          "audioName": "打雷的时候….mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "呜哇，冷风吹得睁不开眼…还是先别飞了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/7fe62ead01ade1b57642db1934c39786_1862018415181825113.mp3",
+          "audioName": "下雪的时候….mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "在帽子被吹走和脖子被勒住之间只能二选其一呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/25074e9762ff9d5653d785edb1a2af46_5748466625769834271.mp3",
+          "audioName": "刮大风了….mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。不是我想起这么早的，只是再不起床，留在诊所里的病患们会饿得大叫。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/3ad2439541177845ee0835db656cbc14_1398072963104255098.mp3",
+          "audioName": "早上好….mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "巧啊，我正准备去吃午饭，要一起吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/1909e099056b185f443d2a1162618996_419909568695253402.mp3",
+          "audioName": "中午好….mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上我一般习惯待在家里，如果有紧急病患，会比较容易找到我。没有意外发生的话，那就好好休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/7b17e0d2d3a4ea75445449880087124a_4633056140554109791.mp3",
+          "audioName": "晚上好….mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。明天肯定有想不到的新事情要忙，早些休息吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/c741f5f7c2ebb544c2937dd7cd4b1fc1_5070836939298444177.mp3",
+          "audioName": "晚安….mp3"
+        },
+        {
+          "name": "关于伊法自己·朋友",
+          "text": "我朋友还算挺多的吧，有一些会让我头疼，有一些能缓解我的头疼，还有一些在这两者之间摇摆。挺好的，他们都是很不错的朋友。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/7651c36aea863178b76481705df49f1f_3352424136667201879.mp3",
+          "audioName": "关于伊法自己·朋友.mp3"
+        },
+        {
+          "name": "关于伊法自己·满足",
+          "text": "不知道其他人是否如此，反正我在被需要时是会产生满足感的。人的一生可能就是这样被一点点填满的吧，要是大家都能找到让自己感到充实的事物就好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/97b34ec5506b121862934caf14b1ecf5_9014199692474003135.mp3",
+          "audioName": "关于伊法自己·满足.mp3"
+        },
+        {
+          "name": "关于我们·提醒",
+          "text": "伊法：接下来的行程都安排好了？身体状态如何？东西带齐了没？\n伊法：嗯，你看起来精神不错，派蒙也吃饱了，好像确实准备妥当…不过稍等，还是让我再确认一下…\n咔库库：不会吧哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/075fcf2b25fc2cea8763f25d0b264a13_4056235135032091467.mp3",
+          "audioName": "关于我们·提醒.mp3"
+        },
+        {
+          "name": "关于我们·确认",
+          "text": "你和我认识这么久，会觉得我有时太啰嗦，或者关怀过度了吗？不会吗？这样正好？呼…那就好。可能因为我总是跟不会说话的动物打交道，所以无论什么都得多次确认才放心。你不会觉得烦就行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/0f4e8d141eb5ce9d59c35fee9d1a58ad_9166156379725639302.mp3",
+          "audioName": "关于我们·确认.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "这玩意儿还挺好用的呢。有时候龙飞累了，我会让风托住它们一会儿。悄悄地，不要被发现。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/b0544991fbb69d0830e264a138a80ea4_2126750863760291733.mp3",
+          "audioName": "关于「神之眼」….mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "用食物「哄骗」小动物这招确实很好用，但用多了之后它们就会得寸进尺，甚至养成坐享其成的坏习惯。所以能讲道理时，我还是愿意尽量让它们明白事物的原理，比如掉进陷阱就会摔伤、乱吃东西容易中毒。\n虽然需要额外费些功夫，但我觉得是值得去做的事情。更何况，有时动物其实比人更聪明呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/506ef1497f15b0d6fa2833d409fe8327_8011057501011159137.mp3",
+          "audioName": "有什么想要分享….mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "只要愿意用心观察，就会发现世界上有趣的东西多着呢。要是时间允许，我可以盯着大自然看一整天。可惜啊，工作总是会自己找上门来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/7b441ed4bb907d0731df1c453742680d_3802005268551645102.mp3",
+          "audioName": "感兴趣的见闻….mp3"
+        },
+        {
+          "name": "关于卡齐娜…",
+          "text": "能看出卡齐娜非常喜欢龙。她如果潜心学习，应该可以成为一名不错的龙医生。不过她已经是位了不起的战士了，就不必分心来做我的学生了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/96ea716a779a1516fafbc991ec60045d_5816328548110703738.mp3",
+          "audioName": "关于卡齐娜….mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "我可喜欢和希诺宁聊天了，她总有很多了不起的好点子。虽然有时她会因为更重视功能造出看起来很震撼的工具，但我觉得，「看起来震撼」也是功能的一种。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/9d33d760914215c949ab78d87ae78bc9_5563675574260233723.mp3",
+          "audioName": "关于希诺宁….mp3"
+        },
+        {
+          "name": "关于基尼奇…",
+          "text": "严肃讨论，阿乔算是生物吗？\n反正之前它来看病，我研究了好一阵也没看出哪有问题，就跟基尼奇说：「照着它脑门多拍拍，拍到正常运转就行了。」\n阿乔听完这话马上就没事了，你说巧不巧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/21d0dbf3bf2419869adfe8447197c660_3543253398134690125.mp3",
+          "audioName": "关于基尼奇….mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "调停人的工作很重要，她能治我治不好的「病」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/b054fd995e6bd8bc90a9d8da3d6fe811_7867842443267478430.mp3",
+          "audioName": "关于恰斯卡….mp3"
+        },
+        {
+          "name": "关于欧洛伦·别想太多",
+          "text": "他这人想法很怪的。和他交往不用思考太多，反正也想不明白。\n总之他心思不坏，会用特别的方式关心身边的朋友，认识久了你就知道了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/78381e64f01e55e26d080421513ab71d_2631260582887244202.mp3",
+          "audioName": "关于欧洛伦·别想太多.mp3"
+        },
+        {
+          "name": "关于欧洛伦·很想知道",
+          "text": "…虽然已经习惯了，但有时还是很想钻进他的脑袋里，看看他每天到底都在想些什么！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/a42aae7e29e0214ed9afb95a726f052c_4354624099602022963.mp3",
+          "audioName": "关于欧洛伦·很想知道.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "奶奶…奶奶很厉害的，睡衣的花样也多，哈哈…\n为了不卷入额外的麻烦，一般黑曜石奶奶叫我跟欧洛伦转达什么，我就转达什么，一字不多一字不少。有些事情，知道的越少越好，不然要和她孙子一起吃脑瓜崩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/ee2d814cc7933f088581c42e25fabea5_7726204833501055607.mp3",
+          "audioName": "关于茜特菈莉….mp3"
+        },
+        {
+          "name": "关于玛薇卡…",
+          "text": "有次遭遇紧急出诊，火神大人提出可以载我一程。真的很疯狂，哥们，要在头晕目眩的状态下给龙清理伤口…在那之前我都不知道自己可以做到这种程度，人的潜能就是这样被开发的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/65bfc12044a87022ca129d906866f868_1961693015531915678.mp3",
+          "audioName": "关于玛薇卡….mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "你是说万一这位先生生病了，希望我能多关照下？欸，这归我管吗？\n嗯…但既然是咔库库的新哥们…那好吧，我试试看咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/2c5b26515d1018ee297780b17ca18712_6110891780804757565.mp3",
+          "audioName": "关于那维莱特….mp3"
+        },
+        {
+          "name": "想要了解伊法·其一",
+          "text": "伊法：诊所门口的板子不是我自己画的。真的，你相信我。\n咔库库：哈哈！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/73c5c4aeddb7e39a590b0addbc18bc3e_5648633089088203942.mp3",
+          "audioName": "想要了解伊法·其一.mp3"
+        },
+        {
+          "name": "想要了解伊法·其二",
+          "text": "其实我也不确定咔库库究竟是什么时候学会说第一句人话的。只记得某天凌晨听到它大叫「太阳晒屁股了，哥们！」…早上五点就这样醒来，真的很令人震惊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/f0ede22cbac198f256101f504406aef5_6778339397698154768.mp3",
+          "audioName": "想要了解伊法·其二.mp3"
+        },
+        {
+          "name": "想要了解伊法·其三",
+          "text": "飞行试炼我早就通过了，理论上可以叫任何一只绒翼龙来帮我，不过自从咔库库来了，它就不太愿意让我再去找别的龙。也行吧，虽然咔库库还小，但既然它觉得自己能行，那我就愿意信任它。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/83101fd1bfe093a250a9456bfcede172_5948944064961657384.mp3",
+          "audioName": "想要了解伊法·其三.mp3"
+        },
+        {
+          "name": "想要了解伊法·其四",
+          "text": "如果可以，我希望自己是能给大家带来安全感的人。能被人信赖很难得，可不是谁都能做到的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/c356d336b8b50b3ddf6f26a780eab494_859195925171285707.mp3",
+          "audioName": "想要了解伊法·其四__需要_.mp3"
+        },
+        {
+          "name": "想要了解伊法·其五",
+          "text": "做兽医挺好的。虽然总有别离，但我从不后悔自己的职业选择。小动物就跟小孩子一样，有时难以沟通又很爱惹麻烦，但对我来说，他们都是值得守护的未来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/bda6c4911a12175af3cc684e862e5192_3869006629307206515.mp3",
+          "audioName": "想要了解伊法·其五.mp3"
+        },
+        {
+          "name": "伊法的爱好…",
+          "text": "花羽会里喜欢唱歌的人还挺多的，我偶尔也写写歌词弹弹琴，是个调节心情的好办法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/b8d3f3097abf5992a303dc97287c31f0_1638126852517806955.mp3",
+          "audioName": "伊法的爱好….mp3"
+        },
+        {
+          "name": "伊法的烦恼…",
+          "text": "伊法：好像没有什么严重到非解决不可的烦恼…哦，希望咔库库以后能学点更有用的话。\n咔库库：你在胡说什么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/6aaae6f9c2ae8d1d1ad79f9c631c2f94_975187496429369392.mp3",
+          "audioName": "伊法的烦恼….mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "新鲜水果是最好的，既能充饥又能解渴，切下来的小块正好喂给咔库库。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/25b0be79f6b2ee1585b32363d394cb39_3004585134903698174.mp3",
+          "audioName": "喜欢的食物….mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "新鲜水果是很好的，但放在菜里就有点…就不能直接吃吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/19f5976008607ce79c27d502f08b9d42_8511492430477099513.mp3",
+          "audioName": "讨厌的食物….mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "咔库库：交给我吧，哥们！\n伊法：你这小东西倒是抢上了。好吧好吧，分你一半。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/f0e015381b680d8e3e99e194f6ecc5f4_1738468003030572893.mp3",
+          "audioName": "收到赠礼·其一.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "很好吃，我去拿点果汁，你想喝哪种？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/b18bf93749c5d4e786c7d6556760609d_3906817315018829957.mp3",
+          "audioName": "收到赠礼·其二.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "咔库库：真的假的？哥们，瞧瞧你做的…\n伊法：不不，能吃就很好了。谢谢你，哥们。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/f41fa6a2f00e62418a7e7f5c70d85e51_6236631963951065761.mp3",
+          "audioName": "收到赠礼·其三.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！祝你身体健康，永远年轻。\n虽然时间的洪流不可阻挡，但可以保持心态上的年轻嘛，更何况心情不好也是会影响健康的。来，今天就忘记烦恼，找些轻松愉快的事情做吧。\n对了，有什么喜欢的音乐吗？我弹给你听。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/0f3cec158a8acc771cbb7ffe087cfa75_9170506797800660405.mp3",
+          "audioName": "生日….mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "是热身运动吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/379074816b2aacf218de2c4afc57ad3a_982569811509131739.mp3",
+          "audioName": "突破的感受·起.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "自己身体健康才有精力照顾别人，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/46e995c1e65b9da210f1664715ea8e79_38455118834159862.mp3",
+          "audioName": "突破的感受·承.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "越是不常用的枪械越要重视保养。哎呀，瞧我在说什么呢，哥们。我是医生，非必要情况是不会动枪的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/b5c1a93ebc16449bbaf92ba2dcf7823a_3456694726183241824.mp3",
+          "audioName": "突破的感受·转.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "伊法：谢啦，哥们！不必客套，有事随时叫我！\n咔库库：随时叫我，哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d34077188233e6fdd371f726e3bd6fe6_308803031812908486.mp3",
+          "audioName": "突破的感受·合.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "走吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/a04629d202f478feed6c108a127b85c2_5708530816995342103.mp3",
+          "audioName": "元素战技·其一.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "注意风向！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/36b65f3a9c920b7d663d5fc6317cc2ea_7010979400268685351.mp3",
+          "audioName": "元素战技·其二.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "咔库库：飞啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/3ff2fd05d7bb6bf315bb00bb0f72f10d_5771556923520866224.mp3",
+          "audioName": "伊法-日语-元素战技·其三.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "咔库库：哎呀！哎呀！\n伊法：加油！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/2d730b700d6114ebafcb0e107dcc13ad_2926619915262013632.mp3",
+          "audioName": "伊法-日语-元素战技·其四.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "小心为妙！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/dd2a04b2024e0fd95898e1dad3cc9541_9135115116434695119.mp3",
+          "audioName": "伊法-日语-元素爆发·其一.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "好聚好散！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/b51b89bb9b13fa2a8a3718627cff9c31_3111664682286266087.mp3",
+          "audioName": "伊法-日语-元素爆发·其二.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "想跑？没门！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/f15a02e1abaa6bde1b6d9ba3f0afb9a1_5670551370097329671.mp3",
+          "audioName": "伊法-日语-元素爆发·其三.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "厉害，亏你能找到这个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/a89e02cfc33434d4b9fe00fb58bb9daf_1660004658667784308.mp3",
+          "audioName": "伊法-日语-打开宝箱·其一.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "今天是幸运日啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/a040d5c68c8d2ed925ee057e6a339423_2696539745030055703.mp3",
+          "audioName": "伊法-日语-打开宝箱·其二.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "拿不下的话我叫咔库库帮你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/13bdd921975dcc14b4307cae830ec65d_6679499993091583545.mp3",
+          "audioName": "伊法-日语-打开宝箱·其三.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "呼吸不畅…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/4b814c73af161121e1da0278a1aa0e6c_2564312947422616197.mp3",
+          "audioName": "伊法-日语-生命值低·其一.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我再坚持下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/ceeb4084965e010fb341a6ca69b915b6_6421859715294836078.mp3",
+          "audioName": "伊法-日语-生命值低·其二.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "咔库库：伊法，伊法！\n伊法：知道了知道了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/9430f7d586fcd6e85512779f223f5812_1248849128720502848.mp3",
+          "audioName": "伊法-日语-生命值低·其三.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/f84c588a6d84937e44fb5304f4a9274b_4257535075563403341.mp3",
+          "audioName": "伊法-日语-同伴生命值低·其一.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "快做紧急处理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/282685248ead4950b4538e5132b44341_2340521019037047617.mp3",
+          "audioName": "伊法-日语-同伴生命值低·其二.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "战争还没结束吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/7a164ea6479797ceea6a4d9f6c12cc2b_513307156812862809.mp3",
+          "audioName": "伊法-日语-倒下·其一.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "抱歉，没帮上忙…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/7f2b214b013f841b2c0eacf164e2beb0_4274429671949883392.mp3",
+          "audioName": "伊法-日语-倒下·其二.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "医者的遗憾…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/e4a2dbfc3c2d132c4d5c73296712b1ad_9077130348267167298.mp3",
+          "audioName": "伊法-日语-倒下·其三.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "别吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/42dca444cef1ecb6361cb61a628666b4_5942362020066725316.mp3",
+          "audioName": "伊法-日语-普通受击·其一.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不会吧哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/01e7f23c031af435a4a296225eef09d8_2369014290601843059.mp3",
+          "audioName": "伊法-日语-重受击·其一.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "嘶…就不能对我温柔点？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/e2ad2d9856dd6ada7920e57ecb54cab3_7332163841250017983.mp3",
+          "audioName": "伊法-日语-重受击·其二.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "要出远门？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/eb1a9524f4f7a2e8669c7b94b97249ec_4547670836195634701.mp3",
+          "audioName": "伊法-日语-加入队伍·其一.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "急救用品都准备好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/69112b48f0450e8537127881dd088960_5837813993838419362.mp3",
+          "audioName": "伊法-日语-加入队伍·其二.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "预祝我们一路顺风。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/2af9c0dde1088faa9091c0d8734189e5_5028788113911316978.mp3",
+          "audioName": "伊法-日语-加入队伍·其三.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "伊法：你好，我是来自「花羽会」的兽医，名叫伊法。你可能已经从其他人那里听说过我了，不过没关系，无论印象如何，我们都可以从零开始做朋友嘛。\n伊法：对了，还有这位…这位是咔库库助理，是龙，也是医生，希望你们相处愉快。\n咔库库：幸会啊，哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/9eb38b25b0ee3d955a0d36ae7b6c9d6a_8979006841134106801.mp3",
+          "audioName": "初次见面….mp3"
+        },
+        {
+          "name": "闲聊·休息",
+          "text": "哎，世界上哪有那么多一劳永逸的好事。休息够了就动起来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/44be7f3f1c7852e6b9c6e7af2e309994_350482765505956214.mp3",
+          "audioName": "闲聊·休息.mp3"
+        },
+        {
+          "name": "闲聊·零食",
+          "text": "一闲下来总想吃点什么…我有糖、水果和肉干，要来点吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/26e0367694a229c93d032a80a1a7a46d_8757453073345235845.mp3",
+          "audioName": "闲聊·零食.mp3"
+        },
+        {
+          "name": "闲聊·叫声",
+          "text": "你有听到动物的叫声吗？…唔，难道是我听错了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/360a695703a1342d7c05e9c61763c77a_5398539872022950474.mp3",
+          "audioName": "闲聊·叫声.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "小心，咔库库可能会甩你一身水…不过转念一想，反正都在淋雨了，躲不躲也没什么差别。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/15bff3c52a23aca063ead6f609ce0fe4_1343889917073663583.mp3",
+          "audioName": "下雨的时候….mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "你知道吗，有不少龙害怕打雷呢。每次都要解释好久才能安抚它们，怪好玩的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/9c51efd2ab3b138bf08228e5b4641980_2306084183974150909.mp3",
+          "audioName": "打雷的时候….mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "呜哇，冷风吹得睁不开眼…还是先别飞了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/4e904b85f485821d05025d9ed44fe530_637664393363846638.mp3",
+          "audioName": "下雪的时候….mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "在帽子被吹走和脖子被勒住之间只能二选其一呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/dcadf18fd91b442da1b5a08047f3e02b_858488617790347258.mp3",
+          "audioName": "刮大风了….mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。不是我想起这么早的，只是再不起床，留在诊所里的病患们会饿得大叫。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/b77e45f4079629d7564eb531e7850d5a_6687370015695113668.mp3",
+          "audioName": "早上好….mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "巧啊，我正准备去吃午饭，要一起吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/11dfb72632273c83e181e5c43dd52e85_5684954598994295132.mp3",
+          "audioName": "中午好….mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上我一般习惯待在家里，如果有紧急病患，会比较容易找到我。没有意外发生的话，那就好好休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/dd8ee82c5a5154f867e5f49cecf86f0a_4578310305447641404.mp3",
+          "audioName": "晚上好….mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。明天肯定有想不到的新事情要忙，早些休息吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/c3e0836b9b1aa304104ae064d1e6e132_6779793334783701241.mp3",
+          "audioName": "晚安….mp3"
+        },
+        {
+          "name": "关于伊法自己·朋友",
+          "text": "我朋友还算挺多的吧，有一些会让我头疼，有一些能缓解我的头疼，还有一些在这两者之间摇摆。挺好的，他们都是很不错的朋友。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/25af26c02b45b40ee106f8e025de00b0_8567656600019063824.mp3",
+          "audioName": "关于伊法自己·朋友.mp3"
+        },
+        {
+          "name": "关于伊法自己·满足",
+          "text": "不知道其他人是否如此，反正我在被需要时是会产生满足感的。人的一生可能就是这样被一点点填满的吧，要是大家都能找到让自己感到充实的事物就好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/4dcf77bd378fd72c38e9a6125c66c1c8_7368733688404901781.mp3",
+          "audioName": "关于伊法自己·满足.mp3"
+        },
+        {
+          "name": "关于我们·提醒",
+          "text": "伊法：接下来的行程都安排好了？身体状态如何？东西带齐了没？\n伊法：嗯，你看起来精神不错，派蒙也吃饱了，好像确实准备妥当…不过稍等，还是让我再确认一下…\n咔库库：不会吧哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/1f4d0b11b2554cfdf9132063265a4aaa_1219078203574368015.mp3",
+          "audioName": "关于我们·提醒.mp3"
+        },
+        {
+          "name": "关于我们·确认",
+          "text": "你和我认识这么久，会觉得我有时太啰嗦，或者关怀过度了吗？不会吗？这样正好？呼…那就好。可能因为我总是跟不会说话的动物打交道，所以无论什么都得多次确认才放心。你不会觉得烦就行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d1ab3ad54489c3b257633afb0669a68d_6975110922997119545.mp3",
+          "audioName": "关于我们·确认.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "这玩意儿还挺好用的呢。有时候龙飞累了，我会让风托住它们一会儿。悄悄地，不要被发现。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/8ca516bfb8631bd37517882d5ec31286_5888883547217464465.mp3",
+          "audioName": "关于「神之眼」….mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "用食物「哄骗」小动物这招确实很好用，但用多了之后它们就会得寸进尺，甚至养成坐享其成的坏习惯。所以能讲道理时，我还是愿意尽量让它们明白事物的原理，比如掉进陷阱就会摔伤、乱吃东西容易中毒。\n虽然需要额外费些功夫，但我觉得是值得去做的事情。更何况，有时动物其实比人更聪明呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/df02050345fa8aa0e4c587261fcd10d0_5431174608519123098.mp3",
+          "audioName": "有什么想要分享….mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "只要愿意用心观察，就会发现世界上有趣的东西多着呢。要是时间允许，我可以盯着大自然看一整天。可惜啊，工作总是会自己找上门来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/1ceb43eba7308ad24336316a6cedcea5_5047054646275326905.mp3",
+          "audioName": "感兴趣的见闻….mp3"
+        },
+        {
+          "name": "关于卡齐娜…",
+          "text": "能看出卡齐娜非常喜欢龙。她如果潜心学习，应该可以成为一名不错的龙医生。不过她已经是位了不起的战士了，就不必分心来做我的学生了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d2f5e3104be4c8a9b66819d626d651e3_2777783346444541388.mp3",
+          "audioName": "关于卡齐娜….mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "我可喜欢和希诺宁聊天了，她总有很多了不起的好点子。虽然有时她会因为更重视功能造出看起来很震撼的工具，但我觉得，「看起来震撼」也是功能的一种。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/35691e7fe62f0d54e55ecf32225e2287_3848329014740265187.mp3",
+          "audioName": "关于希诺宁….mp3"
+        },
+        {
+          "name": "关于基尼奇…",
+          "text": "严肃讨论，阿乔算是生物吗？\n反正之前它来看病，我研究了好一阵也没看出哪有问题，就跟基尼奇说：「照着它脑门多拍拍，拍到正常运转就行了。」\n阿乔听完这话马上就没事了，你说巧不巧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/023b8fbaad42230e9fcc9027b0f47bdc_7002994846995078852.mp3",
+          "audioName": "关于基尼奇….mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "调停人的工作很重要，她能治我治不好的「病」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/3eca45753dc029ecc3b2d98cec65819b_4321349866012018824.mp3",
+          "audioName": "关于恰斯卡….mp3"
+        },
+        {
+          "name": "关于欧洛伦·别想太多",
+          "text": "他这人想法很怪的。和他交往不用思考太多，反正也想不明白。\n总之他心思不坏，会用特别的方式关心身边的朋友，认识久了你就知道了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/71441a3f39e9d4d4a203ccca33d9f198_5466839211152022971.mp3",
+          "audioName": "关于欧洛伦·别想太多.mp3"
+        },
+        {
+          "name": "关于欧洛伦·很想知道",
+          "text": "…虽然已经习惯了，但有时还是很想钻进他的脑袋里，看看他每天到底都在想些什么！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/013381c19432c09c0ea7ff1451563044_6830021437786243214.mp3",
+          "audioName": "关于欧洛伦·很想知道.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "奶奶…奶奶很厉害的，睡衣的花样也多，哈哈…\n为了不卷入额外的麻烦，一般黑曜石奶奶叫我跟欧洛伦转达什么，我就转达什么，一字不多一字不少。有些事情，知道的越少越好，不然要和她孙子一起吃脑瓜崩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d7ef6276d7ff48231b6ff32957537565_1020887312008240264.mp3",
+          "audioName": "关于茜特菈莉….mp3"
+        },
+        {
+          "name": "关于玛薇卡…",
+          "text": "有次遭遇紧急出诊，火神大人提出可以载我一程。真的很疯狂，哥们，要在头晕目眩的状态下给龙清理伤口…在那之前我都不知道自己可以做到这种程度，人的潜能就是这样被开发的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/6511d4d9fe87972d73f918d55f3bc9a5_6403753911248841520.mp3",
+          "audioName": "关于玛薇卡….mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "你是说万一这位先生生病了，希望我能多关照下？欸，这归我管吗？\n嗯…但既然是咔库库的新哥们…那好吧，我试试看咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/fd0178216c9bf66bdc78965e5fed7bff_5514616093654338924.mp3",
+          "audioName": "关于那维莱特….mp3"
+        },
+        {
+          "name": "想要了解伊法·其一",
+          "text": "伊法：诊所门口的板子不是我自己画的。真的，你相信我。\n咔库库：哈哈！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/36100627d851c9676067a2a5b392fa70_783578997701204634.mp3",
+          "audioName": "想要了解伊法·其一.mp3"
+        },
+        {
+          "name": "想要了解伊法·其二",
+          "text": "其实我也不确定咔库库究竟是什么时候学会说第一句人话的。只记得某天凌晨听到它大叫「太阳晒屁股了，哥们！」…早上五点就这样醒来，真的很令人震惊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/9fae99b9f0cc22825d7687797b56eed9_1550976343526485236.mp3",
+          "audioName": "想要了解伊法·其二.mp3"
+        },
+        {
+          "name": "想要了解伊法·其三",
+          "text": "飞行试炼我早就通过了，理论上可以叫任何一只绒翼龙来帮我，不过自从咔库库来了，它就不太愿意让我再去找别的龙。也行吧，虽然咔库库还小，但既然它觉得自己能行，那我就愿意信任它。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/5b2dfa239d13033b5f1876a3405e0823_7395696458764879100.mp3",
+          "audioName": "想要了解伊法·其三.mp3"
+        },
+        {
+          "name": "想要了解伊法·其四",
+          "text": "如果可以，我希望自己是能给大家带来安全感的人。能被人信赖很难得，可不是谁都能做到的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/c5d28a7610250bc49fdca79dcaa4a078_5883835648363962508.mp3",
+          "audioName": "想要了解伊法·其四.mp3"
+        },
+        {
+          "name": "想要了解伊法·其五",
+          "text": "做兽医挺好的。虽然总有别离，但我从不后悔自己的职业选择。小动物就跟小孩子一样，有时难以沟通又很爱惹麻烦，但对我来说，他们都是值得守护的未来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d18991138676a77a1e1450f9d7969b3d_3714118353458957567.mp3",
+          "audioName": "想要了解伊法·其五.mp3"
+        },
+        {
+          "name": "伊法的爱好…",
+          "text": "花羽会里喜欢唱歌的人还挺多的，我偶尔也写写歌词弹弹琴，是个调节心情的好办法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/f13f391505b962f3117b071161b58406_38679937160742805.mp3",
+          "audioName": "伊法的爱好….mp3"
+        },
+        {
+          "name": "伊法的烦恼…",
+          "text": "伊法：好像没有什么严重到非解决不可的烦恼…哦，希望咔库库以后能学点更有用的话。\n咔库库：你在胡说什么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/905718b5ee0aa77e882247ffc9acfed8_2760770116398841239.mp3",
+          "audioName": "伊法的烦恼….mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "新鲜水果是最好的，既能充饥又能解渴，切下来的小块正好喂给咔库库。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/a9285df71fbdb91d81ac412975775dfb_4595811912182288232.mp3",
+          "audioName": "喜欢的食物….mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "新鲜水果是很好的，但放在菜里就有点…就不能直接吃吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/71df96ba6dbf740df1eb76f11677a5ac_1478447319920440798.mp3",
+          "audioName": "讨厌的食物….mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "咔库库：交给我吧，哥们！\n伊法：你这小东西倒是抢上了。好吧好吧，分你一半。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/be74e0050c4e145d12cef2aacdaae2cd_3978383867356855922.mp3",
+          "audioName": "收到赠礼·其一.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "很好吃，我去拿点果汁，你想喝哪种？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/e15de8e964aecebde184507651a369f9_1468021532504762971.mp3",
+          "audioName": "收到赠礼·其二.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "咔库库：真的假的？哥们，瞧瞧你做的…\n伊法：不不，能吃就很好了。谢谢你，哥们。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/cda98338aa9ace1f22d3557ce77e38e8_2958755128804379940.mp3",
+          "audioName": "收到赠礼·其三.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！祝你身体健康，永远年轻。\n虽然时间的洪流不可阻挡，但可以保持心态上的年轻嘛，更何况心情不好也是会影响健康的。来，今天就忘记烦恼，找些轻松愉快的事情做吧。\n对了，有什么喜欢的音乐吗？我弹给你听。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/1466e049e6c133c99e17b55ff0ac58da_6501339322393162627.mp3",
+          "audioName": "生日….mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "是热身运动吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/5f82f51461a5d9fdae4911df321bc684_3299602625946528553.mp3",
+          "audioName": "突破的感受·起.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "自己身体健康才有精力照顾别人，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/bbc574c0b53eca6b9f53be4eb6738e71_1566925037115866199.mp3",
+          "audioName": "突破的感受·承.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "越是不常用的枪械越要重视保养。哎呀，瞧我在说什么呢，哥们。我是医生，非必要情况是不会动枪的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/bd948e509153a64ac22677f69e51c0de_5218394336228140775.mp3",
+          "audioName": "突破的感受·转.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "伊法：谢啦，哥们！不必客套，有事随时叫我！\n咔库库：随时叫我，哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/13cfabc71b2f08439975f356bdfb2ffe_2773872123219589116.mp3",
+          "audioName": "突破的感受·合.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "走吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/f6391e4a9bd976f84c47222d81c08a95_7675628046057370750.mp3",
+          "audioName": "元素战技·其一.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "注意风向！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/376391e642cb2d99621075290a8a7f62_2938877407398562694.mp3",
+          "audioName": "元素战技·其二.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "咔库库：飞啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/b78c170cc65e92fc54c74983a55205aa_4045195561586135881.mp3",
+          "audioName": "伊法-英语-元素战技·其三.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "咔库库：哎呀！哎呀！\n伊法：加油！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/e2b9f7754d7c1c5588b2ccc7ab1d7414_1312434563353186004.mp3",
+          "audioName": "伊法-英语-元素战技·其四.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "小心为妙！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/06283e7149a596b6387bac6298182673_8903081189323184856.mp3",
+          "audioName": "伊法-英语-元素爆发·其一.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "好聚好散！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/b1371b196469ebc77779df4da4ab682b_4223191473624579067.mp3",
+          "audioName": "伊法-英语-元素爆发·其二.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "想跑？没门！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/799ebbdcf089f3b2788d2d2a176f2968_1282460109233638358.mp3",
+          "audioName": "伊法-英语-元素爆发·其三.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "厉害，亏你能找到这个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/2e2a4f30027cfaeebb352b8ea1c8b576_4254013326226288185.mp3",
+          "audioName": "伊法-英语-打开宝箱·其一.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "今天是幸运日啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/ca62563c25bebc18dafcac907a904e16_8918730346332679325.mp3",
+          "audioName": "伊法-英语-打开宝箱·其二.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "拿不下的话我叫咔库库帮你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/a179631aa80aa1ceb9ed950684d87612_3496525862777826077.mp3",
+          "audioName": "伊法-英语-打开宝箱·其三.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "呼吸不畅…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/0d6dba07c5f6b09efc9ffcee20fc82e3_7577290254975237185.mp3",
+          "audioName": "伊法-英语-生命值低·其一.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我再坚持下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/e6b25129afdc1aa54266ba1cbd3d2a05_1053050562598533870.mp3",
+          "audioName": "伊法-英语-生命值低·其二.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "咔库库：伊法，伊法！\n伊法：知道了知道了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/f1a583e59972157e0d2cba87a4cef3d9_5723038429216660312.mp3",
+          "audioName": "伊法-英语-生命值低·其三.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/c34de94ec58e04d8a1cbaa92338461fa_5416219430261142811.mp3",
+          "audioName": "伊法-英语-同伴生命值低·其一.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "快做紧急处理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/97833078fd9aa1006af67a4f5e6b37b0_2230405579540896567.mp3",
+          "audioName": "伊法-英语-同伴生命值低·其二.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "战争还没结束吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/d00cb78f149228718d2c6b12f4c70e81_6614175157300613711.mp3",
+          "audioName": "伊法-英语-倒下·其一.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "抱歉，没帮上忙…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/10d53803376bf4b3f9d5f0e3b3501301_1525261873863397624.mp3",
+          "audioName": "伊法-英语-倒下·其二.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "医者的遗憾…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/3cb1856044a8f6fea859e0b76db581a7_2457714221538581438.mp3",
+          "audioName": "伊法-英语-倒下·其三.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "别吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/3dc19027e0cccc0410bc657e43b48d45_5783004063131214831.mp3",
+          "audioName": "伊法-英语-普通受击·其一.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不会吧哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/d5ba487e4a5a1e44a72e43b5c4cf6645_1469370168109343991.mp3",
+          "audioName": "伊法-英语-重受击·其一.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "嘶…就不能对我温柔点？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/e5345ad006d2f58d08dc25295aa58c5f_6600971136394697573.mp3",
+          "audioName": "伊法-英语-重受击·其二.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "要出远门？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/47cb6c00108a7644d397902e072f4269_3788251063137434041.mp3",
+          "audioName": "伊法-英语-加入队伍·其一.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "急救用品都准备好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/1abb9c22f1cf121b91ae2a033a57ec49_5068366966678639918.mp3",
+          "audioName": "伊法-英语-加入队伍·其二.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "预祝我们一路顺风。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/a9cb6aff2a007df453cd7dad26302b71_2688388100942177187.mp3",
+          "audioName": "伊法-英语-加入队伍·其三.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "伊法：你好，我是来自「花羽会」的兽医，名叫伊法。你可能已经从其他人那里听说过我了，不过没关系，无论印象如何，我们都可以从零开始做朋友嘛。\n伊法：对了，还有这位…这位是咔库库助理，是龙，也是医生，希望你们相处愉快。\n咔库库：幸会啊，哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/2cade25e6de177a47a70b14839467270_4000523130694386823.mp3",
+          "audioName": "初次见面….mp3"
+        },
+        {
+          "name": "闲聊·休息",
+          "text": "哎，世界上哪有那么多一劳永逸的好事。休息够了就动起来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/748b0d91d17559c7a36bbc2aedd76882_6763762770152995930.mp3",
+          "audioName": "闲聊·休息.mp3"
+        },
+        {
+          "name": "闲聊·零食",
+          "text": "一闲下来总想吃点什么…我有糖、水果和肉干，要来点吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/2c960839aecd03c398af726d6280bd32_8935529362437016499.mp3",
+          "audioName": "闲聊·零食.mp3"
+        },
+        {
+          "name": "闲聊·叫声",
+          "text": "你有听到动物的叫声吗？…唔，难道是我听错了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/7428f1cb37ad3106d17580ad0e5148ac_8865860730464815281.mp3",
+          "audioName": "闲聊·叫声.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "小心，咔库库可能会甩你一身水…不过转念一想，反正都在淋雨了，躲不躲也没什么差别。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/e5bda4b1a50883a409dda7484f810e8f_2495538067911739673.mp3",
+          "audioName": "下雨的时候….mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "你知道吗，有不少龙害怕打雷呢。每次都要解释好久才能安抚它们，怪好玩的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/75cd25bef43fc26018af1da090ea4857_8505656224436056822.mp3",
+          "audioName": "打雷的时候….mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "呜哇，冷风吹得睁不开眼…还是先别飞了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/61c0e77fbe703e1f544c24fb2b81e6a0_258624901850347300.mp3",
+          "audioName": "下雪的时候….mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "在帽子被吹走和脖子被勒住之间只能二选其一呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/6725e55dea746914e826419d8c22c1d0_8634070995364774081.mp3",
+          "audioName": "刮大风了….mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。不是我想起这么早的，只是再不起床，留在诊所里的病患们会饿得大叫。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/93b3dd21a5bb9e3a2d1dbb5228fb39d7_3649429398457887028.mp3",
+          "audioName": "早上好….mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "巧啊，我正准备去吃午饭，要一起吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/56086b820c3ab0ec3ea57343a6986385_4702432640619461496.mp3",
+          "audioName": "中午好….mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上我一般习惯待在家里，如果有紧急病患，会比较容易找到我。没有意外发生的话，那就好好休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d894ee95d3bd3edf1c6458749ed503b5_6162672019442107826.mp3",
+          "audioName": "晚上好….mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。明天肯定有想不到的新事情要忙，早些休息吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/63d75174dc362ac289615110cc8c9f99_3437938751998785035.mp3",
+          "audioName": "晚安….mp3"
+        },
+        {
+          "name": "关于伊法自己·朋友",
+          "text": "我朋友还算挺多的吧，有一些会让我头疼，有一些能缓解我的头疼，还有一些在这两者之间摇摆。挺好的，他们都是很不错的朋友。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d55c825aed83c3548d1239f9e6fd5b66_4835353847156032895.mp3",
+          "audioName": "关于伊法自己·朋友.mp3"
+        },
+        {
+          "name": "关于伊法自己·满足",
+          "text": "不知道其他人是否如此，反正我在被需要时是会产生满足感的。人的一生可能就是这样被一点点填满的吧，要是大家都能找到让自己感到充实的事物就好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/c076405e24f077ae040b6aa52e86dd50_8071229341078603470.mp3",
+          "audioName": "关于伊法自己·满足.mp3"
+        },
+        {
+          "name": "关于我们·提醒",
+          "text": "伊法：接下来的行程都安排好了？身体状态如何？东西带齐了没？\n伊法：嗯，你看起来精神不错，派蒙也吃饱了，好像确实准备妥当…不过稍等，还是让我再确认一下…\n咔库库：不会吧哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/a3c1d7f3a8f91ec1dd6ceedc0f7b02d1_3358701519446282427.mp3",
+          "audioName": "关于我们·提醒.mp3"
+        },
+        {
+          "name": "关于我们·确认",
+          "text": "你和我认识这么久，会觉得我有时太啰嗦，或者关怀过度了吗？不会吗？这样正好？呼…那就好。可能因为我总是跟不会说话的动物打交道，所以无论什么都得多次确认才放心。你不会觉得烦就行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/4b898a1d369ea285301d4cabcdeb5dd1_1435721592125658354.mp3",
+          "audioName": "关于我们·确认.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "这玩意儿还挺好用的呢。有时候龙飞累了，我会让风托住它们一会儿。悄悄地，不要被发现。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/56e938a24c681940b274876d7afdcb48_4321149196295303363.mp3",
+          "audioName": "关于「神之眼」….mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "用食物「哄骗」小动物这招确实很好用，但用多了之后它们就会得寸进尺，甚至养成坐享其成的坏习惯。所以能讲道理时，我还是愿意尽量让它们明白事物的原理，比如掉进陷阱就会摔伤、乱吃东西容易中毒。\n虽然需要额外费些功夫，但我觉得是值得去做的事情。更何况，有时动物其实比人更聪明呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/ced5b212423c4848c66662e785cafa7f_518230024969422210.mp3",
+          "audioName": "有什么想要分享….mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "只要愿意用心观察，就会发现世界上有趣的东西多着呢。要是时间允许，我可以盯着大自然看一整天。可惜啊，工作总是会自己找上门来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/84d70f8f2e30df6583a5523d684ab944_6642597476259246299.mp3",
+          "audioName": "感兴趣的见闻….mp3"
+        },
+        {
+          "name": "关于卡齐娜…",
+          "text": "能看出卡齐娜非常喜欢龙。她如果潜心学习，应该可以成为一名不错的龙医生。不过她已经是位了不起的战士了，就不必分心来做我的学生了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d5aaf0e6e92b6045ce73bb827ef3b71e_3407927068825650676.mp3",
+          "audioName": "关于卡齐娜….mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "我可喜欢和希诺宁聊天了，她总有很多了不起的好点子。虽然有时她会因为更重视功能造出看起来很震撼的工具，但我觉得，「看起来震撼」也是功能的一种。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/6e55072ab2924ba8f7c0ef25bc4b91cd_4945510302562392306.mp3",
+          "audioName": "关于希诺宁….mp3"
+        },
+        {
+          "name": "关于基尼奇…",
+          "text": "严肃讨论，阿乔算是生物吗？\n反正之前它来看病，我研究了好一阵也没看出哪有问题，就跟基尼奇说：「照着它脑门多拍拍，拍到正常运转就行了。」\n阿乔听完这话马上就没事了，你说巧不巧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d4e55be035eb48537a958b92bef26ee2_635380091726744001.mp3",
+          "audioName": "关于基尼奇….mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "调停人的工作很重要，她能治我治不好的「病」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/66e4f29f666abe551b0b08283fafe176_5052681270341064182.mp3",
+          "audioName": "关于恰斯卡….mp3"
+        },
+        {
+          "name": "关于欧洛伦·别想太多",
+          "text": "他这人想法很怪的。和他交往不用思考太多，反正也想不明白。\n总之他心思不坏，会用特别的方式关心身边的朋友，认识久了你就知道了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/f8f0dc9c558338679c9724a7426de201_4649774880559873158.mp3",
+          "audioName": "关于欧洛伦·别想太多.mp3"
+        },
+        {
+          "name": "关于欧洛伦·很想知道",
+          "text": "…虽然已经习惯了，但有时还是很想钻进他的脑袋里，看看他每天到底都在想些什么！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/f9c84a5a4cf09d4210f1e18e65ec588e_685364752469096805.mp3",
+          "audioName": "关于欧洛伦·很想知道__需要_.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "奶奶…奶奶很厉害的，睡衣的花样也多，哈哈…\n为了不卷入额外的麻烦，一般黑曜石奶奶叫我跟欧洛伦转达什么，我就转达什么，一字不多一字不少。有些事情，知道的越少越好，不然要和她孙子一起吃脑瓜崩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/eeca62bb353b36e0bcc2cecdb380264f_3641562259406494695.mp3",
+          "audioName": "关于茜特菈莉…__需要_.mp3"
+        },
+        {
+          "name": "关于玛薇卡…",
+          "text": "有次遭遇紧急出诊，火神大人提出可以载我一程。真的很疯狂，哥们，要在头晕目眩的状态下给龙清理伤口…在那之前我都不知道自己可以做到这种程度，人的潜能就是这样被开发的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/6d1d0a8b8b8d64d7e225143326116b49_5392073607980780020.mp3",
+          "audioName": "关于玛薇卡….mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "你是说万一这位先生生病了，希望我能多关照下？欸，这归我管吗？\n嗯…但既然是咔库库的新哥们…那好吧，我试试看咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/a6cc6f37db8de25b86ea10f477ac64a3_7995789901560183315.mp3",
+          "audioName": "关于那维莱特….mp3"
+        },
+        {
+          "name": "想要了解伊法·其一",
+          "text": "伊法：诊所门口的板子不是我自己画的。真的，你相信我。\n咔库库：哈哈！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/02d2012b7adc005a366ec6820defce19_2330767889712612624.mp3",
+          "audioName": "想要了解伊法·其一.mp3"
+        },
+        {
+          "name": "想要了解伊法·其二",
+          "text": "其实我也不确定咔库库究竟是什么时候学会说第一句人话的。只记得某天凌晨听到它大叫「太阳晒屁股了，哥们！」…早上五点就这样醒来，真的很令人震惊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/f00f1edfdadc1bd72a68e61159567bd6_5459052496970263697.mp3",
+          "audioName": "想要了解伊法·其二.mp3"
+        },
+        {
+          "name": "想要了解伊法·其三",
+          "text": "飞行试炼我早就通过了，理论上可以叫任何一只绒翼龙来帮我，不过自从咔库库来了，它就不太愿意让我再去找别的龙。也行吧，虽然咔库库还小，但既然它觉得自己能行，那我就愿意信任它。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/2a56c5959cc3c08d5d68dc73222adfb0_8288558827312039318.mp3",
+          "audioName": "想要了解伊法·其三.mp3"
+        },
+        {
+          "name": "想要了解伊法·其四",
+          "text": "如果可以，我希望自己是能给大家带来安全感的人。能被人信赖很难得，可不是谁都能做到的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/7b2b3017b9ec316e3a41f66c743ce440_8204399500686061622.mp3",
+          "audioName": "想要了解伊法·其四.mp3"
+        },
+        {
+          "name": "想要了解伊法·其五",
+          "text": "做兽医挺好的。虽然总有别离，但我从不后悔自己的职业选择。小动物就跟小孩子一样，有时难以沟通又很爱惹麻烦，但对我来说，他们都是值得守护的未来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/da5a4833316386b62f77179c86d2a5a7_8056629719209125743.mp3",
+          "audioName": "想要了解伊法·其五.mp3"
+        },
+        {
+          "name": "伊法的爱好…",
+          "text": "花羽会里喜欢唱歌的人还挺多的，我偶尔也写写歌词弹弹琴，是个调节心情的好办法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/37106dc2ab091e110f6e4a92d119975e_3327518619571236489.mp3",
+          "audioName": "伊法的爱好….mp3"
+        },
+        {
+          "name": "伊法的烦恼…",
+          "text": "伊法：好像没有什么严重到非解决不可的烦恼…哦，希望咔库库以后能学点更有用的话。\n咔库库：你在胡说什么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/db3b0a05dd4659731a4732144b791afe_2077084286179970279.mp3",
+          "audioName": "伊法的烦恼….mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "新鲜水果是最好的，既能充饥又能解渴，切下来的小块正好喂给咔库库。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d66e30dd9c33183f99b426bbf6ba30e0_7534672864975648635.mp3",
+          "audioName": "喜欢的食物….mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "新鲜水果是很好的，但放在菜里就有点…就不能直接吃吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/76777e9fa52d1514e1dd6a68f99c6a58_7015581579601381582.mp3",
+          "audioName": "讨厌的食物….mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "咔库库：交给我吧，哥们！\n伊法：你这小东西倒是抢上了。好吧好吧，分你一半。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/114a45ab5296e1d1c8861e76fd643075_1943532032313685767.mp3",
+          "audioName": "收到赠礼·其一.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "很好吃，我去拿点果汁，你想喝哪种？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/d9c0c6d2d69289629070fe04c0d51472_7667180187373048598.mp3",
+          "audioName": "收到赠礼·其二.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "咔库库：真的假的？哥们，瞧瞧你做的…\n伊法：不不，能吃就很好了。谢谢你，哥们。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/7af72d7d659809e24f14b43cd14a45b1_2233652490191594449.mp3",
+          "audioName": "收到赠礼·其三.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！祝你身体健康，永远年轻。\n虽然时间的洪流不可阻挡，但可以保持心态上的年轻嘛，更何况心情不好也是会影响健康的。来，今天就忘记烦恼，找些轻松愉快的事情做吧。\n对了，有什么喜欢的音乐吗？我弹给你听。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/3923a066036bb231cc7ccd19137115b0_4649176734002677885.mp3",
+          "audioName": "生日….mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "是热身运动吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/949d11247cdba78b3d1ae1e68b319f36_2223846720700702562.mp3",
+          "audioName": "突破的感受·起.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "自己身体健康才有精力照顾别人，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/aec437fae27e05b89040515ba0b2b824_3729697613887736458.mp3",
+          "audioName": "突破的感受·承.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "越是不常用的枪械越要重视保养。哎呀，瞧我在说什么呢，哥们。我是医生，非必要情况是不会动枪的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/a6d7ad0e641afde692df9eed1158eabb_2063051472815024761.mp3",
+          "audioName": "突破的感受·转.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "伊法：谢啦，哥们！不必客套，有事随时叫我！\n咔库库：随时叫我，哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/972f020f70199df0281887b25641ad7b_1523120170756977479.mp3",
+          "audioName": "突破的感受·合.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "走吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/7854acde4c02e9e420a19e1eaa05a712_2847447557157947289.mp3",
+          "audioName": "元素战技·其一.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "注意风向！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/a62ab79247d177b0ff76f1c5a807ddbe_5778100376828211444.mp3",
+          "audioName": "元素战技·其二.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "咔库库：飞啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/8fdfff4a9e85923e5ee9f15f64b2a7ef_8075975758518577566.mp3",
+          "audioName": "伊法-韩语-元素战技·其三.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "咔库库：哎呀！哎呀！\n伊法：加油！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/0186fb4d3e583631a9c7b106267bd22c_3747447800314365591.mp3",
+          "audioName": "伊法-韩语-元素战技·其四.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "小心为妙！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/69d47f9cd794f79f39b3d0d64dde8972_2054486607831216046.mp3",
+          "audioName": "伊法-韩语-元素爆发·其一.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "好聚好散！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/acdae4b92ffae37c2b100da971abbe07_4883197304803650897.mp3",
+          "audioName": "伊法-韩语-元素爆发·其二.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "想跑？没门！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/92b05a03bba808111ca6ff58bffd1bc1_8634540635131831451.mp3",
+          "audioName": "伊法-韩语-元素爆发·其三.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "厉害，亏你能找到这个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/2d325f749d81e2bb99281fd285b60e4f_4489629243168490517.mp3",
+          "audioName": "伊法-韩语-打开宝箱·其一.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "今天是幸运日啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/eab0911fcd04eb9681f7df41873fcf5f_5392352008482211374.mp3",
+          "audioName": "伊法-韩语-打开宝箱·其二.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "拿不下的话我叫咔库库帮你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/96fe9204fa15f9a0238bd06a4212d2da_2421236267285816848.mp3",
+          "audioName": "伊法-韩语-打开宝箱·其三.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "呼吸不畅…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/790d1e6afe4e8f11e36d066e4601359e_5164002068410563037.mp3",
+          "audioName": "伊法-韩语-生命值低·其一.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我再坚持下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/7a5d0ce01ceaa2299275be26b72b39c0_1096318070645283412.mp3",
+          "audioName": "伊法-韩语-生命值低·其二.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "咔库库：伊法，伊法！\n伊法：知道了知道了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/40edcaa5e2efeac93ffb2c57c7f55bbb_2216863725457923876.mp3",
+          "audioName": "伊法-韩语-生命值低·其三.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/47a9ec2b62d26623f855cc1136c15a8d_3507543101048817960.mp3",
+          "audioName": "伊法-韩语-同伴生命值低·其一.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "快做紧急处理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/b44ef369b11b41d40bab791bf747e057_1048064662424999641.mp3",
+          "audioName": "伊法-韩语-同伴生命值低·其二.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "战争还没结束吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/9bc461b5ba444afd6e614d907e49ca5b_6668130536904671636.mp3",
+          "audioName": "伊法-韩语-倒下·其一.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "抱歉，没帮上忙…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/07afabadc4ead3e53fc6761b9b690e0c_1502682283987652316.mp3",
+          "audioName": "伊法-韩语-倒下·其二.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "医者的遗憾…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/77e1d4f5e1d686902198534ee4adcda3_7158468671424554009.mp3",
+          "audioName": "伊法-韩语-倒下·其三.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "别吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/23fae3f8d72e8889c416bc57d2627442_6851322223479364937.mp3",
+          "audioName": "伊法-韩语-普通受击·其一.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不会吧哥们！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/e4feabae4277a4b953c61486abb790e9_765679373480013177.mp3",
+          "audioName": "伊法-韩语-重受击·其一.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "嘶…就不能对我温柔点？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/4b2af158dd4f369b0ccbd1df2654277d_4679320120656014121.mp3",
+          "audioName": "伊法-韩语-重受击·其二.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "要出远门？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/d5100b576d81aa295685899ef192f720_8124027846471517637.mp3",
+          "audioName": "伊法-韩语-加入队伍·其一.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "急救用品都准备好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/2248b77ee0c65490bbc3bd10cf550776_8751736661405448521.mp3",
+          "audioName": "伊法-韩语-加入队伍·其二.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "预祝我们一路顺风。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/1ea4626d80dafe476c766284e4046c58_6748732706037486049.mp3",
+          "audioName": "伊法-韩语-加入队伍·其三.mp3"
+        }
+      ]
+    }
+  ]
+}

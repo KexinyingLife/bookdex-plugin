@@ -1,0 +1,1613 @@
+{
+  "id": "1360",
+  "name": "阿贝多",
+  "alias": [
+    "阿贝多"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是阿贝多，西风骑士团首席炼金术士。我对你身上星海的气息很感兴趣，想要就近观察研究。相信以后我们会有很多独处的机会。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/038800810c40397c591479e27a4699bf_2558794961247120121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·写生",
+          "text": "风景不错，趁着休息，就把这一幕画下来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f555a83851d72f01f9eb9faad7e9d4d_582055738634554639.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·探究",
+          "text": "「世界的真相」…究竟是什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/39dad9210013e82a7d066940db19bbb6_4583044884036099561.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·怀旧",
+          "text": "用自己的双脚丈量土地，将「未知」变为知识。…这种感觉，真怀念啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/431c664e20857fb0ec49fdd49f60ec64_2499386981198922748.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "土壤湿润，适合采集爆爆瓜的根。没事，我来动手就可以。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/73780258617d35e9f90c678402bdef22_683351840267032257.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "师父…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fb7881f2aeb29b2737eec74e35312fe8_4554903058930444820.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "光线充足，生物行为活跃，嗯，很适合写生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8e009719881ece47bbd52ce1879028d_7772528034857711432.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安，是准备出门寻找古代遗物吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/19795108b634f2be4d4a938232ec44d0_4778325911301482149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午安，我听到了你的脚步声。工坊之外真是热闹啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2b214db66f30df6f9d5984dc1b1b44d8_4084619512483006330.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "外面安静下来了，呼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77b7db5a935115d08f073e67562cd59b_2019284761116208573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安，你先去休息吧，我打算把最后一个实验做完。既然你那么感兴趣…明日再会时，我再与你一起探讨实验结果吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b5422b4065513cb6a3de31fc53c6db5b_3465427982290989863.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多自己·天才",
+          "text": "天才？…不少人这么称呼我。其实，我不这样认为。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/935fdfabbd345ec9d6647ca80cb5aee3_2929582922688281936.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多自己·人际",
+          "text": "与人交往…很麻烦。一旦开始就要不断维持，如果联系中断了，想再重新恢复，就得消耗更多的时间。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e504d683bdd820ba0cdb8c6fbd99cb98_1418972067504721345.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·实验",
+          "text": "你…这是准备陪我做实验吗？呼，真荣幸。\n\n啊，不用紧张。我的实验虽然危险，通常不会伤及无辜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/85e1f734f8d84bb3d1ec39163e033ece_2236561220984742638.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·助手",
+          "text": "能麻烦你当我的助手吗？鉴于你旁观了那么多次，想必早就熟练了吧。放心，我在你旁边。就算是第一次实际操作，也不会有问题的。我相信我的指导能力，更相信你的天赋。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8039fc37743252b4a46854a25d8a29d6_6140737145695451981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」？不过就是个实验用的工具罢了，和烧杯、坩埚没什么不同。唯一让我感兴趣的，就是它的原理…我总有一天会研究明白的，这只是时间问题。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5e26163b0abe2339f09b765a5b94b232_9065783238645115263.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "一直有些难以开口，因为假设被你拒绝的话，我可能会失落吧…\n\n嗯…我对你身边那个飞着的小家伙很感兴趣，方便让我拿去研究一下吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0f0404a3599d3c8cc698b8bbf1bd1009_5662291056515623693.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "想知道更多石化古树的事情？唔…你在附近秘境里观测到的那些，其实不算古老。稍微成熟一些的树，一般能长到两三公里高；在树的根部，常常聚集着一种大蜘蛛。那种蜘蛛啊，用地栀子和香茅草捆紧，抹上白豆蔻，熏烤上几个小时，那香味，是真的很…令我难忘。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cd8a632953e0d449199bf203b70391a6_7548555303561720684.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于亲人…",
+          "text": "亲人吗？虽然艾莉丝总希望我喊她妈妈…唔，但在我心里，谈起亲人第一时间想到的还是师父吧。我从记事起就和她在一起探险了，她教会了我炼金术和无数世间的知识。或许…「亲人」或者「师父」，这些词汇都不足以描绘出她对我来说的意义吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c2edafaa4e60ade4ba13bd0c1e310fe3_8223667049938322824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖·方向",
+          "text": "砂糖吗？我大概能理解她一心专攻「生物炼金」的理由…不管怎样，看到她的研究越来越顺利，我也为她感到高兴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/78fedb18e42e1ba900edb2e2896e687d_1330596306458659510.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖·坚持",
+          "text": "虽然在学术方面的合作非常愉快，但课题以外的部分，砂糖也有很多她自己的坚持。比如我告诉她我们是平辈，叫我阿贝多就好，她却坚持要用尊称。…只好随她去了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a00b1b9c641ce7f9faac1aab94f91d8a_8183417273948626672.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎吗？和她讨论总会得到很有价值的观点。如此有才华却满足于图书管理员一职，想必背后藏着与那才华等重的因缘吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb4888268aa75c8f83623490d6bfd472_795185255151737250.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "我的确把可莉当作亲妹妹一样看，所以每次当这位妹妹惹出麻烦的时候，我都只能安慰自己，至少她现在的破坏力，还不及艾莉丝女士的零头。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/66fbd8cb88f08f491d2ca40789c82e7d_1232319675110328829.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴吗？她是一位正直的代理团长，甚至可以说比那位团长大人更为可靠。可能大家心中都在期待着她成为正式团长的那一天吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c2074e77cc2a223d0f31ed43fdd5d224_9200943352796734953.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于行秋…",
+          "text": "行秋吗？他写的小说挺有趣的。稻妻那边的「八重堂」一直在旁敲侧击希望让我和别的作者合作，说这样版税收入也会更好。哼，我缺这点钱吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b9b6c5ccb761ad2025d58fe3d1c08900_1287047007303127209.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉吗？她是一位认真的牧师，说来以前碰巧有机会给她画过速写…你问画哪儿去了？嗯…我拒绝了艾伯特的开价，直接把画送给了代理团长。人际交往…真是耗费精力啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/03857495399eb6feaad099ab8b13becb_4284948323315722166.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于杜林…",
+          "text": "我的这位兄弟正在探索很多新事物，他很聪明，也热衷于思考。尽管他时常因此陷入某些认知困境，但这并不妨碍他对这个世界保持热情。他的到来，或者说，他作为家人的到来让我对人类关系的理解有了新的心得。现在，有了最亲近的同类，家里变得热闹起来，这无疑是一种好的改变。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/03/03/50494840/3cc42d6102bb5d98fa96ed1dc943ed7a_8255615533838250246.mp3",
+          "audioName": "关于杜林…cn.mp3"
+        },
+        {
+          "name": "想要了解阿贝多·其一",
+          "text": "有问题想问我？请说吧。啊，冒昧地问一句，应该不会花费太长时间吧？手头的研究马上要进入最后一个阶段了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4da6a4be91168366cc3e089f646c04a5_3234959861793008931.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其二",
+          "text": "啊，只是随口一提。不人为介入的话，黄金需要杀死一个八倍大的太阳才能自然生成。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7bb656b677fb4d3b683b5ffa53971b19_5982463233518596425.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其三",
+          "text": "人物画的耗时主要和心情有关。有时候霍夫曼我也能画半天，有时候凯亚都只需要三笔——这个圆是脸，这个是眼罩的带子…这个是眼罩。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a5ce8c24ca5eda5fe52041e4dd8890b8_3930585997734208176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其四",
+          "text": "除了画画和研究之外的生活…我偶尔会去看稻妻和璃月的小说吧，能看到很多很有趣的想法，有时也会为创作提供意想不到的灵感。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/94b43f086175733f1d07090b5c858ddf_6457889223793510153.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其五",
+          "text": "即便到了现在，师父传授给我的「黑土之术」仍是充满了谜团，师父到底想要用这个技术创造出什么呢？…研究之期还远未到尽头，得麻烦你和我一起继续探索了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a78e2d25388494bf8cffe99e41b08473_5938282129515016374.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阿贝多的爱好…",
+          "text": "嗯…研究之外我最愿意花时间去做的应该是画画吧。一开始只是为了理解物体与材料的构成，便于研究开展，不过到了后来就变成了爱好。嗯，也是一种很好的放松方式。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e8c1f6241d41b3e889fa6fefb30e1898_1066412320111901144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阿贝多的烦恼…",
+          "text": "时间真是不够用啊，即使把大部分麻烦的事情都推掉还是会觉得时间不够。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6278bd00e3d6eaa2eb67cb63e79adf4a_6526750941348055582.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我挺喜欢甜点的。怎么说呢…在体力和精力同时消耗殆尽的时候，高能量的物质会提供原始而高效的支持吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0b6d8593336fbd1968f038eadb4f53b8_3782153148953190166.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "讨厌的食物？餐馆里分量比较大的肉吧。我的胃口吃不了多少，只会面临「浪费」或者「失去风味」的结局。后来我就干脆不去餐馆了，虽然这也意味着要花更多时间在做菜上…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/346efa65a93c0f3c5910de0b8990c758_2354721317475330117.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "味觉仿佛折射出了色彩…我想它是金色的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/0437a1ada29598000b01d10c122cd29d_124775602881539551.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你似乎很愿意花时间在做菜上，所以才能做出这样的味道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/da9c0bdcf53b724c8b7e42d501577b10_7428691917985297537.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "量有点大…要一起分享吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a745c1bc90959ee41bf938436160cde5_163352296040100288.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。你看起来很高兴，可以将你的样子画下来吗？大脑的容量是有限的，人总会不断忘记。如果画在纸上，那么这些画就成了记忆的延伸，在未来重新看到这些画面时，一定能回想起当时的感觉吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5f360f8726ff5a3e083d0841c897044e_1653399020121108660.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "「黑土」，是炼金术的词源，也是最初的状态。活在这个世界上，我等俗类必须寻找意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8b51f056d2c18068e6c830d603d890ba_4424048706268466253.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "「白垩」，即是变化的开始。抽离了杂质，准备好接受一切知识。要和我一起去探索世界吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5c8f788d7a5cce4ef321dcaddd9cdc82_1736283870191605059.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "「赤成」，炼金术中的意思是，情感的炼化。我的赤色好像来自于你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aa596a136c86e5f982d09ad5734a2b0f_8036386283582083574.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "「黄金」，炼金术最后的阶段。无价值的事物终于找到了自己的意义，变化成了黄金。我，也找到了意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3905550eecb81239011d47237c6ce485_1271669698107862137.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "绽放吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ca9bedf7ad90e8ed36161b0c6e4c8c35_838664906224403056.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "拟造阳华。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6dc01c517f8abe706ad3abde5ea0ddaa_1677531410794237520.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "创生之法。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d4dbee09454878405d7ec3a4b100c64d_8049750286426390140.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "此即，诞生之刻。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/986bef0ad916d44dab3a154a8e2c047c_3751766586071809076.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "冥古，于此显生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/34f847a9240d5f3751998a0af3094698_295451095334016504.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "见证伟业吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/338e5799196677223ce0b4ea0b98803d_6506162059974456636.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "大地的秘宝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7ce619e8d4bfc9ceec802620710a6bd6_3082952787842704995.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "无言的叙事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8ab5f9c3996bbf51fe00863dd56a835a_9018944415681035671.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "虽无法比拟「黄金」，但终有价值。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e7473420d991a2c32c639fd32ccaca8d_7177192381437139383.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "计算失误…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4f223b84ae3827957227ee1b89cb4838_5530445551129868058.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "需要重新评估…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e762cf97d66fae1161fade7bb4ffbf59_1889851650444772788.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "必须改变策略。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a0a33bcfcef08b021dde2d4e397b2d0b_7995558273362406564.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/42e2e3821c8296aed23287b05f0a2cef_9159439783542743862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换人，对你来说太危险了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d2d3fc9716f92d092e766514598d08bb_1778581629778131223.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "尘归尘，土归土…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/79d4f56408965a5c44668b9988f0a1b9_4191589723816761539.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "实验失败了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8f54f5a7941fa01ba4224acad9f395e1_1507646457548905187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我的研究，结束了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1d91c17a080389c694983bfad272e5de_7032473633167131584.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "阈值以内…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/27fd74e283fef5f1b05128dc29dc9271_2943367479863286848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "失算了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3f4b5089ecfb6d2370a4c6c176f83338_95880409110067129.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "了解。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8e77d15b3a429267662529b9adcacaef_3609935533916615223.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "是拓展课题吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a2356636d1575be42319358d5f97528a_1959030195207199956.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "一起探索吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b815bc79ffa637be5e33d3cd63837982_8613392662396921026.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是阿贝多，西风骑士团首席炼金术士。我对你身上星海的气息很感兴趣，想要就近观察研究。相信以后我们会有很多独处的机会。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d7bf5bd355bbf28071dbb1ac52b3271_4714235843447279717.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·写生",
+          "text": "风景不错，趁着休息，就把这一幕画下来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/54d5a1f6737fc6534a8e6178755edd7a_9208195636546400579.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·探究",
+          "text": "「世界的真相」…究竟是什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e952ae78fabd1413a17bb4a2436c4801_3889095685666275900.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·怀旧",
+          "text": "用自己的双脚丈量土地，将「未知」变为知识。…这种感觉，真怀念啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1bc679a1fc01e01bc1b7319529c35f06_2187388624792879761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "土壤湿润，适合采集爆爆瓜的根。没事，我来动手就可以。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6c4dafc352df3393a5bb763a3d82e14b_6239902093713580666.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "师父…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ee74fccd3e335a8d49e2df5532b03917_2854191311165841567.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "光线充足，生物行为活跃，嗯，很适合写生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/576748c9d41977ffe21e09cba138fa3f_5017900037906698597.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安，是准备出门寻找古代遗物吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/767c42a03760268dc46b047a49195e62_45391177199567624.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午安，我听到了你的脚步声。工坊之外真是热闹啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fcd308a6882532e1585ef724a5157242_1036336371952382152.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "外面安静下来了，呼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2034748c524564aeea8adaafd510380f_2900514360409836106.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安，你先去休息吧，我打算把最后一个实验做完。既然你那么感兴趣…明日再会时，我再与你一起探讨实验结果吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ada82279f3284aa02b37ba33edd8735c_3297034158484684024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多自己·天才",
+          "text": "天才？…不少人这么称呼我。其实，我不这样认为。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/70ca7ad40367cfb28e325aebe2684273_5730193744277602234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多自己·人际",
+          "text": "与人交往…很麻烦。一旦开始就要不断维持，如果联系中断了，想再重新恢复，就得消耗更多的时间。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aba7973a6c4c2087f742a843c6b52ae1_7918687147552930446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·实验",
+          "text": "你…这是准备陪我做实验吗？呼，真荣幸。\n\n啊，不用紧张。我的实验虽然危险，通常不会伤及无辜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eab15188d07cc7ff5148c4b54b301de8_7379844298347968532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·助手",
+          "text": "能麻烦你当我的助手吗？鉴于你旁观了那么多次，想必早就熟练了吧。放心，我在你旁边。就算是第一次实际操作，也不会有问题的。我相信我的指导能力，更相信你的天赋。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b7b5436bcb6d377fab72357541baf864_80286866536392489.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」？不过就是个实验用的工具罢了，和烧杯、坩埚没什么不同。唯一让我感兴趣的，就是它的原理…我总有一天会研究明白的，这只是时间问题。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe88be9b9cf70cce85a60ae2810b1e4f_2310171277150531136.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "一直有些难以开口，因为假设被你拒绝的话，我可能会失落吧…\n\n嗯…我对你身边那个飞着的小家伙很感兴趣，方便让我拿去研究一下吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e21e9fd7b9a4c79e1eae89b520e5a3e0_1813536084250281038.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "想知道更多石化古树的事情？唔…你在附近秘境里观测到的那些，其实不算古老。稍微成熟一些的树，一般能长到两三公里高；在树的根部，常常聚集着一种大蜘蛛。那种蜘蛛啊，用地栀子和香茅草捆紧，抹上白豆蔻，熏烤上几个小时，那香味，是真的很…令我难忘。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3d5e4a0d7bf404db3d1f3476402860db_3701749556549157270.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于亲人…",
+          "text": "亲人吗？虽然艾莉丝总希望我喊她妈妈…唔，但在我心里，谈起亲人第一时间想到的还是师父吧。我从记事起就和她在一起探险了，她教会了我炼金术和无数世间的知识。或许…「亲人」或者「师父」，这些词汇都不足以描绘出她对我来说的意义吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/22c2b22fa0d2824cd347e5ec8a198f99_4546482315771588574.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖·方向",
+          "text": "砂糖吗？我大概能理解她一心专攻「生物炼金」的理由…不管怎样，看到她的研究越来越顺利，我也为她感到高兴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2753633e95159462145d44ab0d4ce3ee_5942443473178214865.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖·坚持",
+          "text": "虽然在学术方面的合作非常愉快，但课题以外的部分，砂糖也有很多她自己的坚持。比如我告诉她我们是平辈，叫我阿贝多就好，她却坚持要用尊称。…只好随她去了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/49d45ee09a1848154a0858d69775767f_5197820626101490568.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎吗？和她讨论总会得到很有价值的观点。如此有才华却满足于图书管理员一职，想必背后藏着与那才华等重的因缘吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0e2d625416db630779937d24b8309d4b_6714838476767452149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "我的确把可莉当作亲妹妹一样看，所以每次当这位妹妹惹出麻烦的时候，我都只能安慰自己，至少她现在的破坏力，还不及艾莉丝女士的零头。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/785f5ce691e31d9970c0536505b1488c_2927735786645573533.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴吗？她是一位正直的代理团长，甚至可以说比那位团长大人更为可靠。可能大家心中都在期待着她成为正式团长的那一天吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b52a3549e7d780f0b082d5b2dca2cc59_6936671957537121460.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于行秋…",
+          "text": "行秋吗？他写的小说挺有趣的。稻妻那边的「八重堂」一直在旁敲侧击希望让我和别的作者合作，说这样版税收入也会更好。哼，我缺这点钱吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6f19d05ba3a3264210909a461a25fc06_8107088384003498907.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉吗？她是一位认真的牧师，说来以前碰巧有机会给她画过速写…你问画哪儿去了？嗯…我拒绝了艾伯特的开价，直接把画送给了代理团长。人际交往…真是耗费精力啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e90c1a9ea2a3f4871eb5d3144be245fe_1573938107132502596.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于杜林…",
+          "text": "我的这位兄弟正在探索很多新事物，他很聪明，也热衷于思考。尽管他时常因此陷入某些认知困境，但这并不妨碍他对这个世界保持热情。他的到来，或者说，他作为家人的到来让我对人类关系的理解有了新的心得。现在，有了最亲近的同类，家里变得热闹起来，这无疑是一种好的改变。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/03/03/50494840/bc071fe26b85bdd8ef9f0259d538b8a0_3537933782762684234.mp3",
+          "audioName": "关于杜林…jp.mp3"
+        },
+        {
+          "name": "想要了解阿贝多·其一",
+          "text": "有问题想问我？请说吧。啊，冒昧地问一句，应该不会花费太长时间吧？手头的研究马上要进入最后一个阶段了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3adce8f1ca0612adf8a6ff3020428393_7147583960461625776.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其二",
+          "text": "啊，只是随口一提。不人为介入的话，黄金需要杀死一个八倍大的太阳才能自然生成。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/59608f724321c78b6d3008e0ac3a753d_8720394237161226009.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其三",
+          "text": "人物画的耗时主要和心情有关。有时候霍夫曼我也能画半天，有时候凯亚都只需要三笔——这个圆是脸，这个是眼罩的带子…这个是眼罩。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bfd20752adc1ff2fd3e1c1aa82ab3067_4914083579409160203.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其四",
+          "text": "除了画画和研究之外的生活…我偶尔会去看稻妻和璃月的小说吧，能看到很多很有趣的想法，有时也会为创作提供意想不到的灵感。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a5e5201a0340ea91d3d8159c8d714a48_184768236879890910.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其五",
+          "text": "即便到了现在，师父传授给我的「黑土之术」仍是充满了谜团，师父到底想要用这个技术创造出什么呢？…研究之期还远未到尽头，得麻烦你和我一起继续探索了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cb44fb5f0b231c2cb50e3e2fe701c414_5033190376827457153.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阿贝多的爱好…",
+          "text": "嗯…研究之外我最愿意花时间去做的应该是画画吧。一开始只是为了理解物体与材料的构成，便于研究开展，不过到了后来就变成了爱好。嗯，也是一种很好的放松方式。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9524310bed48743e122bd868e33fc00f_523599713735913008.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阿贝多的烦恼…",
+          "text": "时间真是不够用啊，即使把大部分麻烦的事情都推掉还是会觉得时间不够。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cf4e398eb246129133712e1b37849179_8349488315772761451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我挺喜欢甜点的。怎么说呢…在体力和精力同时消耗殆尽的时候，高能量的物质会提供原始而高效的支持吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e5b20adc33557070f877540f9ccd2a63_1226168846108483140.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "讨厌的食物？餐馆里分量比较大的肉吧。我的胃口吃不了多少，只会面临「浪费」或者「失去风味」的结局。后来我就干脆不去餐馆了，虽然这也意味着要花更多时间在做菜上…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/57a9d6867d7e5943948bf9e2bcbfc9d2_8971519063125978125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "味觉仿佛折射出了色彩…我想它是金色的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/38f1dbde087daacaf031b31163101f9a_4334333236348484224.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你似乎很愿意花时间在做菜上，所以才能做出这样的味道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/3d996206158911febc6f91f23539ce29_2953093383080139916.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "量有点大…要一起分享吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/874a7454828abf7c6d05cc155d8e661b_3655669761540374125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。你看起来很高兴，可以将你的样子画下来吗？大脑的容量是有限的，人总会不断忘记。如果画在纸上，那么这些画就成了记忆的延伸，在未来重新看到这些画面时，一定能回想起当时的感觉吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/952c32282a57365834bbb02b92e4fd99_5151847618346094012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "「黑土」，是炼金术的词源，也是最初的状态。活在这个世界上，我等俗类必须寻找意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/69172785088e4e5999c8a74ea124f24c_7462026479597763578.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "「白垩」，即是变化的开始。抽离了杂质，准备好接受一切知识。要和我一起去探索世界吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a02a43c208813620f5631fc984688b67_6703330818157862169.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "「赤成」，炼金术中的意思是，情感的炼化。我的赤色好像来自于你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6462ed7319ea1778dce5d52f811e3dbf_1272434889168135814.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "「黄金」，炼金术最后的阶段。无价值的事物终于找到了自己的意义，变化成了黄金。我，也找到了意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c754aac1d5db17184d69be7edf073deb_42484425364254320.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "绽放吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb2d43bcc56eb3fdc2f5a504a6921673_916004937990687961.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "拟造阳华。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5c6fad1c792f9355fb65b809922bd834_4074398509112266499.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "创生之法。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b09c854a815aa69440f22a215fd8c10_459490241533437466.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "此即，诞生之刻。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/53c3226051f6efb22bda17b23b94229b_9092614399499383216.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "冥古，于此显生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/11ff312d4575694c000f3562670a053f_5890770260823574557.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "见证伟业吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6fd084e9115382d8fe61ee14d19e2971_3314365890172233326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "大地的秘宝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/32215082c5bca066fdc7e3d3602b9430_4703455355474910938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "无言的叙事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d9bbedc854829e486690574ced0a2821_8250371456164629888.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "虽无法比拟「黄金」，但终有价值。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/249870cf20bdea5e55d293166cc7c56f_9147392162941108521.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "计算失误…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c5477288a8d898a95719e9a34f28867b_4713615633953861849.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "需要重新评估…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5e933148138046e90482c3cf59a3255c_7462368247398061005.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "必须改变策略。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ec0924e4dcd0d1df5d74d5e94604c3e5_2353020592802982454.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e13ebd5ac0966dc5d949a50b59b31839_6973856691803977707.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换人，对你来说太危险了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/0524e8686dcf8be3aa51b3e97238636c_6168924066006115170.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "尘归尘，土归土…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0899a8f32a4f24f24c6620fe510b24c6_3779491941466282608.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "实验失败了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/67fe34daa9fab712502de7152264e43b_1065989019360754155.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我的研究，结束了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b66393c9861fd8430a70c534fcfeaca_377246548703942408.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "阈值以内…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6183e891f999da6af27472507af9be6c_8571504910778680738.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "失算了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/70913bd132692d5073e4705a6390ac24_7042881723845309747.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "了解。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/37476de4604a3a82ae4f1a89bfabcb8b_8574131832003695040.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "是拓展课题吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3f6b75ade5e78925cbb8cff8d2c5bc69_3728842967433806827.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "一起探索吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/da51043f792a3616f8369d8033be7b18_7361086577263334861.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是阿贝多，西风骑士团首席炼金术士。我对你身上星海的气息很感兴趣，想要就近观察研究。相信以后我们会有很多独处的机会。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/208ad44ec9f37a84375b29ed2a2651da_1091802949479796202.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·写生",
+          "text": "风景不错，趁着休息，就把这一幕画下来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0d31e8864cb53c5bd78964b9c60fdd17_8563546482275531567.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·探究",
+          "text": "「世界的真相」…究竟是什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2640b76de9baab60a4a6f79399f5be79_8631927588027577912.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·怀旧",
+          "text": "用自己的双脚丈量土地，将「未知」变为知识。…这种感觉，真怀念啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b1ad96f7e92fd3133569ee4857c427b3_2269160832694682005.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "土壤湿润，适合采集爆爆瓜的根。没事，我来动手就可以。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fd47eb5fab7dece7f721c22c0c46b499_4113193010498374735.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "师父…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cc59d417f1ffa885d122504e493a18fe_1109799769731818052.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "光线充足，生物行为活跃，嗯，很适合写生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ef42e836edee53fb2eaf23ce21e5e33f_7209364247290606615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安，是准备出门寻找古代遗物吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d81ae9d3db3e6cb7cf62e96b86ec5be1_809152728569339356.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午安，我听到了你的脚步声。工坊之外真是热闹啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8fbad80165a454ecacbc518f75914bb6_6324220875441865448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "外面安静下来了，呼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/23c0aafe315cad7101856ab361971ae6_2920974006814450559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安，你先去休息吧，我打算把最后一个实验做完。既然你那么感兴趣…明日再会时，我再与你一起探讨实验结果吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e63d06519a20e84b7860a896059c50a7_7116078938888949452.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多自己·天才",
+          "text": "天才？…不少人这么称呼我。其实，我不这样认为。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e1cc46dfe657f57ac14a4e6f1b53e650_2610199165767856034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多自己·人际",
+          "text": "与人交往…很麻烦。一旦开始就要不断维持，如果联系中断了，想再重新恢复，就得消耗更多的时间。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/91aa9551dfbbbe9d8ed7a5865c7b3721_4052829974246340752.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·实验",
+          "text": "你…这是准备陪我做实验吗？呼，真荣幸。\n\n啊，不用紧张。我的实验虽然危险，通常不会伤及无辜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/73675a47990c8ad34fb3dbe6c5af213d_8567459149631138777.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·助手",
+          "text": "能麻烦你当我的助手吗？鉴于你旁观了那么多次，想必早就熟练了吧。放心，我在你旁边。就算是第一次实际操作，也不会有问题的。我相信我的指导能力，更相信你的天赋。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/26e132846c1ff7cfa08a4dfba5c67bb1_3010460713780212715.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」？不过就是个实验用的工具罢了，和烧杯、坩埚没什么不同。唯一让我感兴趣的，就是它的原理…我总有一天会研究明白的，这只是时间问题。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/50d863897763036ecfff31bb48af255d_3007125611232539047.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "一直有些难以开口，因为假设被你拒绝的话，我可能会失落吧…\n\n嗯…我对你身边那个飞着的小家伙很感兴趣，方便让我拿去研究一下吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/007394801c74c99288ce385bb21ec678_4946043299466027287.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "想知道更多石化古树的事情？唔…你在附近秘境里观测到的那些，其实不算古老。稍微成熟一些的树，一般能长到两三公里高；在树的根部，常常聚集着一种大蜘蛛。那种蜘蛛啊，用地栀子和香茅草捆紧，抹上白豆蔻，熏烤上几个小时，那香味，是真的很…令我难忘。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7e71f3298adb7b279077aab3f28bf8c1_1448208829203210761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于亲人…",
+          "text": "亲人吗？虽然艾莉丝总希望我喊她妈妈…唔，但在我心里，谈起亲人第一时间想到的还是师父吧。我从记事起就和她在一起探险了，她教会了我炼金术和无数世间的知识。或许…「亲人」或者「师父」，这些词汇都不足以描绘出她对我来说的意义吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2108bc18126fd6a2b3ee419f4327b65c_5322550287621481499.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖·方向",
+          "text": "砂糖吗？我大概能理解她一心专攻「生物炼金」的理由…不管怎样，看到她的研究越来越顺利，我也为她感到高兴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/265db2052257e4e542baf86c5fa8acad_7365004194240327093.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖·坚持",
+          "text": "虽然在学术方面的合作非常愉快，但课题以外的部分，砂糖也有很多她自己的坚持。比如我告诉她我们是平辈，叫我阿贝多就好，她却坚持要用尊称。…只好随她去了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e984e6582c15a7fbbdce269d2124e7bc_2023366185766211550.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎吗？和她讨论总会得到很有价值的观点。如此有才华却满足于图书管理员一职，想必背后藏着与那才华等重的因缘吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af5ce5d031c6cacded9dd3292b6480c4_6360934728267020742.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "我的确把可莉当作亲妹妹一样看，所以每次当这位妹妹惹出麻烦的时候，我都只能安慰自己，至少她现在的破坏力，还不及艾莉丝女士的零头。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9a286e70d73b84fb91907e4a694b3b01_4513536461431060850.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴吗？她是一位正直的代理团长，甚至可以说比那位团长大人更为可靠。可能大家心中都在期待着她成为正式团长的那一天吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5f8844fc21a2bcc3bdc916bfef5dda94_2280463567234141948.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于行秋…",
+          "text": "行秋吗？他写的小说挺有趣的。稻妻那边的「八重堂」一直在旁敲侧击希望让我和别的作者合作，说这样版税收入也会更好。哼，我缺这点钱吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4bb82f28dd2009c71804d73209f48376_8563558421679808620.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉吗？她是一位认真的牧师，说来以前碰巧有机会给她画过速写…你问画哪儿去了？嗯…我拒绝了艾伯特的开价，直接把画送给了代理团长。人际交往…真是耗费精力啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/be952fa11e61661e21a301801ce13432_3784551167325990117.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于杜林…",
+          "text": "我的这位兄弟正在探索很多新事物，他很聪明，也热衷于思考。尽管他时常因此陷入某些认知困境，但这并不妨碍他对这个世界保持热情。他的到来，或者说，他作为家人的到来让我对人类关系的理解有了新的心得。现在，有了最亲近的同类，家里变得热闹起来，这无疑是一种好的改变。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/03/03/50494840/282779860cbe7f6b0a41f977c8767c42_8135816488766724521.mp3",
+          "audioName": "关于杜林…kr.mp3"
+        },
+        {
+          "name": "想要了解阿贝多·其一",
+          "text": "有问题想问我？请说吧。啊，冒昧地问一句，应该不会花费太长时间吧？手头的研究马上要进入最后一个阶段了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7bcfec5a6295f6ccb5594ba2390e109d_6889571512393037007.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其二",
+          "text": "啊，只是随口一提。不人为介入的话，黄金需要杀死一个八倍大的太阳才能自然生成。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3d32c197dd0a6a70ccff33ab3195d288_8757957143577768892.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其三",
+          "text": "人物画的耗时主要和心情有关。有时候霍夫曼我也能画半天，有时候凯亚都只需要三笔——这个圆是脸，这个是眼罩的带子…这个是眼罩。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/09877e8e91ded8f0647084da6766e0cb_7837501226699477818.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其四",
+          "text": "除了画画和研究之外的生活…我偶尔会去看稻妻和璃月的小说吧，能看到很多很有趣的想法，有时也会为创作提供意想不到的灵感。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/902c05d18c1f1371779aa7c803f9cdf3_7040571989006893834.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其五",
+          "text": "即便到了现在，师父传授给我的「黑土之术」仍是充满了谜团，师父到底想要用这个技术创造出什么呢？…研究之期还远未到尽头，得麻烦你和我一起继续探索了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3dd99a2938338ff56d7a0a226145c957_190327861056381658.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阿贝多的爱好…",
+          "text": "嗯…研究之外我最愿意花时间去做的应该是画画吧。一开始只是为了理解物体与材料的构成，便于研究开展，不过到了后来就变成了爱好。嗯，也是一种很好的放松方式。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6763fdd6c148e41918c280caefdc5791_6326423275428387118.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阿贝多的烦恼…",
+          "text": "时间真是不够用啊，即使把大部分麻烦的事情都推掉还是会觉得时间不够。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/71049cd923ea8930a3fa16b4c66e2e83_6530497604861828684.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我挺喜欢甜点的。怎么说呢…在体力和精力同时消耗殆尽的时候，高能量的物质会提供原始而高效的支持吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/39f0eafc2ac8978644c191e8243bdf8d_8376461229473187530.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "讨厌的食物？餐馆里分量比较大的肉吧。我的胃口吃不了多少，只会面临「浪费」或者「失去风味」的结局。后来我就干脆不去餐馆了，虽然这也意味着要花更多时间在做菜上…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a64caa06aa2b3bcf45fbf141e44e9284_7852121302232791672.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "味觉仿佛折射出了色彩…我想它是金色的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8710682a30d26128fe2c87c5362253a2_2005833829814801083.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你似乎很愿意花时间在做菜上，所以才能做出这样的味道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/066b134c06f9222f382c2e5f5026b0e8_7060569652726874997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "量有点大…要一起分享吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/99894e1199c3b3c6847fc5e754d87fcb_5601670630243051587.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。你看起来很高兴，可以将你的样子画下来吗？大脑的容量是有限的，人总会不断忘记。如果画在纸上，那么这些画就成了记忆的延伸，在未来重新看到这些画面时，一定能回想起当时的感觉吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d7cb89e821e7f34b7c035d5e4080209a_3379861898194911890.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "「黑土」，是炼金术的词源，也是最初的状态。活在这个世界上，我等俗类必须寻找意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/553785c17ae745376614d0bcbcd445d5_945863575197083456.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "「白垩」，即是变化的开始。抽离了杂质，准备好接受一切知识。要和我一起去探索世界吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1125c2529783d0a4e7b1c819068d6f39_8213249194661525690.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "「赤成」，炼金术中的意思是，情感的炼化。我的赤色好像来自于你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f3c1d452be0420c91d8b83a97ab0ce92_4102414564231185128.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "「黄金」，炼金术最后的阶段。无价值的事物终于找到了自己的意义，变化成了黄金。我，也找到了意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/80d22b73e5fe85d8a3f5f00f145a534b_1888788343029513694.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "绽放吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c11a36d445f76df6210d79769da5c5d5_7180847221069911545.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "拟造阳华。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4522841a2e397c6cada806ccf11221ca_6686788206661546262.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "创生之法。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/91548444851dd1b232cd39a33234a9df_8560702241869813575.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "此即，诞生之刻。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b25b439bec563b7191346127805a5e21_6263302628390243848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "冥古，于此显生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/11f8f65612ad098cb333ec1af2da9788_8357058691322116496.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "见证伟业吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7f597e7f707a0a6d1554356bdb77978f_3001780068233573676.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "大地的秘宝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d19c3909bbcf0cdf7518b8acaa666dde_1645312725545206354.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "无言的叙事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8e1474284dcdb13534e31ee6008bbf59_5053673897430352008.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "虽无法比拟「黄金」，但终有价值。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b22800ffe2cfa683dcfd049e00023b5_65706324089285277.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "计算失误…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/499b32662d08cf98e9c3b26374e43521_3952975090385990163.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "需要重新评估…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/19ecbfdcda65d8c5c8cd99e002203d53_1397013505283698718.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "必须改变策略。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/38c4f2044b4f9ea5277c089eb9662bd8_7124976746818269967.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/bdd4f1dd669617a93079a95e55992db8_524650885920906224.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换人，对你来说太危险了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ee57161f9717c0296a45025c6bb8ecfe_3477454575474535923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "尘归尘，土归土…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af306939eab2d040d150d36da106706b_5710825178700652843.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "实验失败了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9bd212d6b88e8f9f9866e50e2c61e430_3612729648984724586.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我的研究，结束了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd56b3f75ba105ddbd7b7f2cb3bc7d4c_564957526853294658.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "阈值以内…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d0f15fb4d50c3764c3f2ea796d018a70_1265207877053100629.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "失算了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c3c4ac27a78c915c4cbdb9ae471ab88e_4298589798854152911.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "了解。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d21bbecaa7059d6c174a82efad556738_4233040151340945132.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "是拓展课题吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ef35af7ad2f833a458807b13d3403501_2758519398004118871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "一起探索吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d611f6fa675949e484a3a118203b7c70_1574556606975673828.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是阿贝多，西风骑士团首席炼金术士。我对你身上星海的气息很感兴趣，想要就近观察研究。相信以后我们会有很多独处的机会。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9530cfccf52a7e4fe1354b1f458aaa08_3648604805130593653.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·写生",
+          "text": "风景不错，趁着休息，就把这一幕画下来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c0999553af08fe5e5eb3222ef87ac1a1_6097235531426947398.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·探究",
+          "text": "「世界的真相」…究竟是什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c19e0c24704d55852accd879f219e5bd_4363424963516956351.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·怀旧",
+          "text": "用自己的双脚丈量土地，将「未知」变为知识。…这种感觉，真怀念啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f7618bf20cddae18298a9756a62781b5_3358955293628154137.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "土壤湿润，适合采集爆爆瓜的根。没事，我来动手就可以。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/985455f0578dcf69f08fa20b38f59e07_5694009259225347688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "师父…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb000ad99b9d91b6a824e86af777514f_7738026974937582452.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "光线充足，生物行为活跃，嗯，很适合写生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b518b80a487c2d903892304a9645be99_6371242925166571071.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安，是准备出门寻找古代遗物吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/02e433d33a0151628ad3a88d36d93d4e_7109307521427992072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午安，我听到了你的脚步声。工坊之外真是热闹啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a0c0306899e49dfcae7077ab9312192c_1476864804309211571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "外面安静下来了，呼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e9072aca8b3c6059a5ed182da598368c_1240212607038585731.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安，你先去休息吧，我打算把最后一个实验做完。既然你那么感兴趣…明日再会时，我再与你一起探讨实验结果吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/08f6d68751ad85819bc032d111f7256f_1847608182971881100.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多自己·天才",
+          "text": "天才？…不少人这么称呼我。其实，我不这样认为。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1da00ea61c70ef71f38dba4ed69f9df5_8967287036619990247.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多自己·人际",
+          "text": "与人交往…很麻烦。一旦开始就要不断维持，如果联系中断了，想再重新恢复，就得消耗更多的时间。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d7effb17bf7fd55cfbf53f3b18ee553b_6071676610346104275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·实验",
+          "text": "你…这是准备陪我做实验吗？呼，真荣幸。\n\n啊，不用紧张。我的实验虽然危险，通常不会伤及无辜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/56925dde4e0ba8407303b9c43b55f7fb_1153622452114814658.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·助手",
+          "text": "能麻烦你当我的助手吗？鉴于你旁观了那么多次，想必早就熟练了吧。放心，我在你旁边。就算是第一次实际操作，也不会有问题的。我相信我的指导能力，更相信你的天赋。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7409f182c6b62ab0905540bfcae4ddd4_2709493286598514895.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」？不过就是个实验用的工具罢了，和烧杯、坩埚没什么不同。唯一让我感兴趣的，就是它的原理…我总有一天会研究明白的，这只是时间问题。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/15a10061b5c059af5fe3be8d5775c1ef_3544100366769000303.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "一直有些难以开口，因为假设被你拒绝的话，我可能会失落吧…\n\n嗯…我对你身边那个飞着的小家伙很感兴趣，方便让我拿去研究一下吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/04f349527fd3ebb430fd858ca96cc4a4_3626327544706356981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "想知道更多石化古树的事情？唔…你在附近秘境里观测到的那些，其实不算古老。稍微成熟一些的树，一般能长到两三公里高；在树的根部，常常聚集着一种大蜘蛛。那种蜘蛛啊，用地栀子和香茅草捆紧，抹上白豆蔻，熏烤上几个小时，那香味，是真的很…令我难忘。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4e531b24391fe6ff0194dd28822b0b36_6480908964137789220.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于亲人…",
+          "text": "亲人吗？虽然艾莉丝总希望我喊她妈妈…唔，但在我心里，谈起亲人第一时间想到的还是师父吧。我从记事起就和她在一起探险了，她教会了我炼金术和无数世间的知识。或许…「亲人」或者「师父」，这些词汇都不足以描绘出她对我来说的意义吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b83b04e0dcc8ce01258a7a4bc0923a16_1137541775371337285.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖·方向",
+          "text": "砂糖吗？我大概能理解她一心专攻「生物炼金」的理由…不管怎样，看到她的研究越来越顺利，我也为她感到高兴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/734935dfa05dc85cd048cff79ca534ee_1546934122173756139.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖·坚持",
+          "text": "虽然在学术方面的合作非常愉快，但课题以外的部分，砂糖也有很多她自己的坚持。比如我告诉她我们是平辈，叫我阿贝多就好，她却坚持要用尊称。…只好随她去了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/17dcb28b7dc37ba4a59d24d177ead8ae_1422376838990665031.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎吗？和她讨论总会得到很有价值的观点。如此有才华却满足于图书管理员一职，想必背后藏着与那才华等重的因缘吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d1f7f4b45743cfba79b49b5f083a0708_6467080301968071051.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "我的确把可莉当作亲妹妹一样看，所以每次当这位妹妹惹出麻烦的时候，我都只能安慰自己，至少她现在的破坏力，还不及艾莉丝女士的零头。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a94cb661f7bc33b40f4c2d7afaf4180d_8355491293006163474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴吗？她是一位正直的代理团长，甚至可以说比那位团长大人更为可靠。可能大家心中都在期待着她成为正式团长的那一天吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/97c54de918d6c8f6c409ff8a3160383e_5668313833207573601.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于行秋…",
+          "text": "行秋吗？他写的小说挺有趣的。稻妻那边的「八重堂」一直在旁敲侧击希望让我和别的作者合作，说这样版税收入也会更好。哼，我缺这点钱吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4594249bbe5d781985af99223fac22fd_6572980870324538618.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉吗？她是一位认真的牧师，说来以前碰巧有机会给她画过速写…你问画哪儿去了？嗯…我拒绝了艾伯特的开价，直接把画送给了代理团长。人际交往…真是耗费精力啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e63bd4f73b265b9ccf57daec01d69cc3_4946966992526192239.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于杜林…",
+          "text": "我的这位兄弟正在探索很多新事物，他很聪明，也热衷于思考。尽管他时常因此陷入某些认知困境，但这并不妨碍他对这个世界保持热情。他的到来，或者说，他作为家人的到来让我对人类关系的理解有了新的心得。现在，有了最亲近的同类，家里变得热闹起来，这无疑是一种好的改变。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/03/03/50494840/f55df430e673be8d84b6e5713d0ee5e8_5157422415823114835.mp3",
+          "audioName": "关于杜林…en.mp3"
+        },
+        {
+          "name": "想要了解阿贝多·其一",
+          "text": "有问题想问我？请说吧。啊，冒昧地问一句，应该不会花费太长时间吧？手头的研究马上要进入最后一个阶段了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3e9062d0fada529d1538f1794ff7fd57_1056632258386244183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其二",
+          "text": "啊，只是随口一提。不人为介入的话，黄金需要杀死一个八倍大的太阳才能自然生成。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/560eae09d6debdbdafbcda10864149e5_3739104809089028348.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其三",
+          "text": "人物画的耗时主要和心情有关。有时候霍夫曼我也能画半天，有时候凯亚都只需要三笔——这个圆是脸，这个是眼罩的带子…这个是眼罩。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4f8cdf022b5ed065d255d3e5bf377b19_3516784942896818946.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其四",
+          "text": "除了画画和研究之外的生活…我偶尔会去看稻妻和璃月的小说吧，能看到很多很有趣的想法，有时也会为创作提供意想不到的灵感。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/385c3502c51cc440eb041d0667de86b1_9087534000216661555.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解阿贝多·其五",
+          "text": "即便到了现在，师父传授给我的「黑土之术」仍是充满了谜团，师父到底想要用这个技术创造出什么呢？…研究之期还远未到尽头，得麻烦你和我一起继续探索了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ca5b8d71adeadaddfc176e5d5fd1fb44_7602186053525661583.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阿贝多的爱好…",
+          "text": "嗯…研究之外我最愿意花时间去做的应该是画画吧。一开始只是为了理解物体与材料的构成，便于研究开展，不过到了后来就变成了爱好。嗯，也是一种很好的放松方式。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a9547523e3f4157f71ba4d7110a2aa08_6096916060772955072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阿贝多的烦恼…",
+          "text": "时间真是不够用啊，即使把大部分麻烦的事情都推掉还是会觉得时间不够。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/759516296a5e079c1cd72572d0ab4d16_7808780529455556163.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我挺喜欢甜点的。怎么说呢…在体力和精力同时消耗殆尽的时候，高能量的物质会提供原始而高效的支持吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/68d5852adb3f7e353ade5f161874d3bd_5147337498871007769.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "讨厌的食物？餐馆里分量比较大的肉吧。我的胃口吃不了多少，只会面临「浪费」或者「失去风味」的结局。后来我就干脆不去餐馆了，虽然这也意味着要花更多时间在做菜上…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4dff985aa9c840547af2733838d6ee17_8863384511728166359.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "味觉仿佛折射出了色彩…我想它是金色的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/9e534d3f880ed4b423ab2176b88c1af8_9040519924426855820.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你似乎很愿意花时间在做菜上，所以才能做出这样的味道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a028902d8e5bc3dc3c0689428f5928f6_8373697781818223565.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "量有点大…要一起分享吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/5a8ed076d3ab76f4586f814af3014d35_8803484191341558326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。你看起来很高兴，可以将你的样子画下来吗？大脑的容量是有限的，人总会不断忘记。如果画在纸上，那么这些画就成了记忆的延伸，在未来重新看到这些画面时，一定能回想起当时的感觉吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d3664e6901f9ccd45d10fe264e92ff2e_1099222540003198401.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "「黑土」，是炼金术的词源，也是最初的状态。活在这个世界上，我等俗类必须寻找意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/31e82c61889ec0ddea8cf9173341f233_5101676543780534859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "「白垩」，即是变化的开始。抽离了杂质，准备好接受一切知识。要和我一起去探索世界吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6e95d8122a36c2c23ea7c54720fccc4f_591919627536173626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "「赤成」，炼金术中的意思是，情感的炼化。我的赤色好像来自于你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c8a758e6281b7f1ac4127aba96f500bb_7951743658248394923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "「黄金」，炼金术最后的阶段。无价值的事物终于找到了自己的意义，变化成了黄金。我，也找到了意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dfe8130612d2dfef98b7b8d85ebd59fa_7646156940125092535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "绽放吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/87fa659cb4d14a18add7d8ba22349455_4457648364294458867.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "拟造阳华。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ac91688d15f76efa783c281b06475625_2429354027818345696.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "创生之法。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d41895aa12538ca4b4ba4d1c6df005f_3705004889350448426.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "此即，诞生之刻。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ad5e7764908113e78c3a44c1908e296c_2806814458857271941.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "冥古，于此显生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/332b485ef300e173478c09e973c07ab9_8516691387468950864.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "见证伟业吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4c9fc277a0a63ba7c0c6a3fb9f7a2d52_4805973721298031559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "大地的秘宝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c1797728eb588964ba5a5ae00f713ea1_142529650922523049.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "无言的叙事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/995d07cd0203891289306986ad26d4e9_2564961593050866777.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "虽无法比拟「黄金」，但终有价值。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c8aed48aa677f2c7e9133e1b691bdf15_4838692628166225507.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "计算失误…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/64845f5c1d4aadd1aca37f64c39cf049_1738232044484479990.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "需要重新评估…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3101cb3f12bfd44f0d4b2912f44deda0_4078603202801125335.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "必须改变策略。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/015d469696bea8c64f8d32cba1499f4c_2527780445024303583.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/94b534eb5702d1ed4c2fca6c4c500fb3_8662636341034996169.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换人，对你来说太危险了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/6e8fa42bde661aa250cf42fb2df3a65e_4830711288622587612.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "尘归尘，土归土…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1b64f6f6200935c1533b7e4ec40806a5_370590235322867413.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "实验失败了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d8839b29006adffe30ff35aec69306c_1143320239674500598.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我的研究，结束了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9752d03b2e8f4cb97e4ee56249b99aac_3079320274175765281.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "阈值以内…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cd38416e6abdfccb07601bd3989ff555_1554406435751944420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "失算了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d8c3e8986880c403dff9ac2d309e45f8_3553197188744795670.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "了解。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/69b93eb9b4e4138cc5b8c895f218b4c9_8801505757120871103.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "是拓展课题吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3c35e9dd70b0e656eb54fe4dbfef3019_5752149068058224161.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "一起探索吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/84c52bf5a1ebf9b2ccc9fe5a0ac9b270_5599983981318902990.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

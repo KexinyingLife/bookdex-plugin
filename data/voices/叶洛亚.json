@@ -1,0 +1,1733 @@
+{
+  "id": "507504",
+  "name": "叶洛亚",
+  "alias": [
+    "叶洛亚"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好呀，我是叶洛亚，执灯人调查分队的队长。请问是遇上什么麻烦了吗？这也是常有的事，附近的路的确不太好走。不过别担心，跟我来吧，我会帮你照亮前方的路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/b7dd80b49796bd2502c60e38d4d0b6eb_2368966360951232523.mp3",
+          "audioName": "01_1006_初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·警惕",
+          "text": "越是平静的地方，就越有可能隐藏着危险…我也不知道这话对不对，但警惕点总没错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/44ed288f5c13498e6d4498ebf8daffd2_3688614741517539343.mp3",
+          "audioName": "02_1101_闲聊·警惕_cn.mp3"
+        },
+        {
+          "name": "闲聊·巡夜",
+          "text": "你是不是觉得冷？巡夜的时候很容易受凉，我煮碗暖汤给你喝吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/208cf8ac5b76af67e8a1fa74c97bd811_7218347405896602264.mp3",
+          "audioName": "03_1102_闲聊·巡夜_cn.mp3"
+        },
+        {
+          "name": "闲聊·困难",
+          "text": "只做擅长的事情可不行，只有强迫自己去做困难的事，才能在挣扎中变强嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/564613f852b33d91ed6784118cb83e55_4488778448089929735.mp3",
+          "audioName": "04_1103_闲聊·困难_cn.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "太阳出来了，看来这次是光明的一方打赢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/7adfcc7e3e956d68b1e99857e4a3d8f7_3516205002263747232.mp3",
+          "audioName": "05_1201_雨过天晴…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "老爹说这是天上的神明们在交战，我只希望他们不要殃及无辜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/390643f07fd5805fd31b90279b37fc63_4626208935318958130.mp3",
+          "audioName": "06_1202_打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "难得的好天气啊。要是能一直这么好，我们执灯士的工作也会轻松很多吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/fdb0c5083a75bc6f80d857cd4e617278_2566187046653331042.mp3",
+          "audioName": "07_1203_阳光很好…_cn.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "起风了，总感觉会有不好的事情发生…要不我们还是去附近的营地躲躲吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/df1cfb7813ccff67ad9a24a49e93c071_7173453186286621920.mp3",
+          "audioName": "08_1204_刮大风了…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "夜晚过去了，看来我们又度过了平安的一天。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/af41a76c37ec32ebcffe44ba5206047f_4518977648182235673.mp3",
+          "audioName": "09_1001_早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "阳光正好，应该趁这个时候观察一下周围有没有什么隐患…唔，不过好像有点困了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/0c8eab35dae02537ee812becbbb1c439_2896489419737203125.mp3",
+          "audioName": "10_1002_中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "天黑之后说不定会有魔物出没。走夜路的话，请一定要小心谨慎。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/8d9e6544838e395b881439464b3af0c7_1874821704867543567.mp3",
+          "audioName": "11_1003_晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "嗯，时候不早了，你先休息吧。放心，今晚我会替你守夜的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c033e6c72f92975e09c10d51effcf59d_4882989360179651569.mp3",
+          "audioName": "12_1004_晚安…_cn.mp3"
+        },
+        {
+          "name": "关于叶洛亚自己·执灯人",
+          "text": "加入执灯人的事，是我求了老爷子好几次才说服他同意的。比起一直待在皮拉米达城被前辈们保护，我更想要去到战场的最前方，和大家一起成为阻挡狂猎前进的力量。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/233b02776ec07cae3b8eaf439f88d6f1_8192447321740700747.mp3",
+          "audioName": "13_2001_关于叶洛亚自己·执灯人_cn.mp3"
+        },
+        {
+          "name": "关于叶洛亚自己·分队长",
+          "text": "成为分队长意味着要肩负起同僚的性命，虽然我还是时常怀疑自己是否有这样的资格…但是既然大家都选择了相信我，那我也不可以辜负大家的信任，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/35379a7a46a80687ed8c07e33cd63430_7906153702969977208.mp3",
+          "audioName": "14_2005_关于叶洛亚自己·分队长_cn.mp3"
+        },
+        {
+          "name": "关于我们·职责",
+          "text": "为往来的商旅提供保护，是我们执灯人的职责…你问保护对象包不包括冒险家？嗯…虽然理论上这确实超出了我的责任范围，但我可不能允许任何人在我负责巡察的区域里受到伤害。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/ad613474b1728fe18a3e8d8b348ad132_7881208631411723673.mp3",
+          "audioName": "15_2003_关于我们·职责_cn.mp3"
+        },
+        {
+          "name": "关于我们·队员",
+          "text": "现在你已经算是我们调查分队的队员了，这就意味着，我必须为你的生命安全负责…听他们说你最近又去了危险的地方冒险，现在看到你平安无事，我稍微安心了一点…所以说，下次要不还是让我跟你一起去吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/b15fb4aefed260a3b8974415bcd2054c_561607374887932162.mp3",
+          "audioName": "16_2002_关于我们·队员_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "曾经有人告诉我这只是枚好看的宝石，直到终于有机会将它掂在手里，我才明白其中承载的重量。我想，命运把它交到我的手上并非偶然，我得努力配得上它。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/cc94b8779cf355059f91433304620168_5294128023021845458.mp3",
+          "audioName": "17_3006_关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "从皮拉米达城的最高处向北眺望，可以看到至冬雪原的一角。据说那里就是我们的初代执灯长，铸灯者索洛维的家乡。失去一切而无法回到家园的人，最后在这里找到了归宿…说不定，这座城堡从一开始就是为了让我们这样的人抱团取暖而存在的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/8596326f0cd625f641fe79ff2adebff8_3513716655549346304.mp3",
+          "audioName": "18_3002_有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "皮拉米达城附近有许多散发着月矩力的奇妙生物，像是曼陀草、獭懒羊…可不要被它们的表象所欺骗，虽然看上去像是你们见过的动物，但它们其实是拟态成动物模样的植物…不过实话说，它们的味道还不错。不介意的话，下次可以做一份给你尝尝。嗯？你问我为什么会知道这个？巡夜的时候总会有许多不得已的情况嘛…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/2a83cb46cc63da89a3bd99243716cfd0_2563778997471227088.mp3",
+          "audioName": "19_3003_感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于菲林斯·拜访…",
+          "text": "刚认识菲林斯先生的时候，还以为他是不善交际或者性格乖僻才选择离群索居的呢，但没过多久，我就发现事情与我想的恰恰相反…不过每次我们聊天，他总是在故事最后加入些吊胃口的情节，我在想，这是不是因为…他其实欢迎我多去拜访呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/6bd0dd8a6437e002be9f4d540767667a_814263083382492880.mp3",
+          "audioName": "20_4001_关于菲林斯·拜访…_cn.mp3"
+        },
+        {
+          "name": "关于菲林斯·秘密…",
+          "text": "你是说菲林斯先生身上藏着许多秘密？当然，这在执灯士当中并不稀奇。我的同僚们出身各不相同，谁能没有几个不想告诉别人的秘密呢？就连老爹也很少向我提及他年轻时的往事。至于菲林斯先生嘛…最近发生了那么多事，好歹也是朋友，他的秘密我多少能猜到一点点。我试着求证过，他既没有否认，也没有承认，可能那也是一种表态。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/b90589af7e33baaaf4dcc386e49c6031_6913201267359892377.mp3",
+          "audioName": "21_4002_关于菲林斯·秘密…_cn.mp3"
+        },
+        {
+          "name": "关于菈乌玛…",
+          "text": "自铸灯者的时代开始，我们与霜月之子就保持着传统的友谊。这一代的咏月使是位温柔又和善的小姐，每次拜访我都能从她那里学到很多。以如今这个世道，当咏月使不会比做执灯人轻松。她能始终保持这种态度，想必也承受了许多吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/339d10fbf3ee16880f2b74495cadca5a_4586278995369089309.mp3",
+          "audioName": "22_4003_关于菈乌玛…_cn.mp3"
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "法尔伽先生是位了不起的战士，我们曾并肩对抗过狂猎。听说西风骑士团也和我们执灯人一样，是为了守护家园而建立的组织。或许有一天，等挪德卡莱的狂猎都被消灭干净了，我们也能远赴异域，为更多生活在苦难中的人们而战。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/e2fb2236c80709fe5dca60f001d6bc04_3148162107913236824.mp3",
+          "audioName": "23_4004_关于法尔伽…_cn.mp3"
+        },
+        {
+          "name": "关于奈芙尔…",
+          "text": "多亏了秘闻馆的关照，我们在那夏镇的行动才会如此方便，以前可不是这样的。据说在奈芙尔小姐来到挪德卡莱之前，执灯士们和那些不守规矩的帮派分子经常发生冲突，老爷子还一度为此苦恼…现在真是好多了呢。不过，奈芙尔小姐也和菲林斯先生一样爱拿我寻开心，也让我有些苦恼就是了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/a65bd4e3a0ca2b801e527b7a989a6325_6755465874827300431.mp3",
+          "audioName": "24_4005_关于奈芙尔…_cn.mp3"
+        },
+        {
+          "name": "关于爱诺…",
+          "text": "我们执灯人维修复杂机关，一般都会请爱诺小姐来帮忙，不过她看起来好像是真的想教会我们…自从有一次，我被她看到在自己修理机关之后，她就大吵着怎么说也要拉我去上课…嗯？你问我是怎么修的？那我当然是跟老爹学的，机关不灵，只要用力敲两下就好了，谁知道她会这么生气…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/73e25fce1f44891ca3a75b9549eb3c09_3892255946288530038.mp3",
+          "audioName": "25_4006_关于爱诺…_cn.mp3"
+        },
+        {
+          "name": "关于莉奈娅…",
+          "text": "像莉奈娅这样的妖精小姐，即便在鱼龙混杂的挪德卡莱也很少见。在认识之前，我原本以为她会是更加沉稳的类型。没想到第一次见面，她看到阿咚之后直接两眼放光地扑了上来…阿咚可是面对狂猎都从不退缩的信鸟，但现在每次只要一听到她的声音，就会马上躲进灯里不肯出来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/e1f151d4cf035868aea940c5b3316f11_5341924621116513370.mp3",
+          "audioName": "26_4007_关于莉奈娅…_cn.mp3"
+        },
+        {
+          "name": "关于「月神」…",
+          "text": "挪德卡莱是「人」的乐园，这条道路是由数百年来无数执灯士的血与骨所铺就的。就算如今迎来了一位新的神明，属于挪德卡莱的生存方式也不会因此而改变吧。不是不相信那位「月神」小姐…只是我觉得，比起等待别人来拯救，还是拥有能主动保护身边人的力量更安心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/ee6371893900eef82c2425bf9a50e164_1444118907165593263.mp3",
+          "audioName": "27_4008_关于「月神」…_cn.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其一",
+          "text": "想要了解我的过去？嗯…让我想想…好像没有那种说出来能让人开心的部分啊，你真的想听吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/22ea24b9ad6365a1f14a301e40b1eff5_4263926191349446417.mp3",
+          "audioName": "28_5001_想要了解叶洛亚·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其二",
+          "text": "阿咚是我的信鸟，每次出门巡夜的时候我都会带上它。它不仅会提醒我周围的危险，还能帮我照亮前方的路，是非常可靠的伙伴…嗯？你是说你走过这么多国家也从没见过这种会发光的鸟？等等…该不会它真的不是普通的信鸟吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/cbd99c48dfe8e00b1abc37813467b94b_8699208493135591497.mp3",
+          "audioName": "29_5002_想要了解叶洛亚·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其三",
+          "text": "如你所见，我的誓言之灯与大家的制式并不相同。这可不是因为我是分队长就有什么特殊，它是我在后勤分队的时候所用的信号灯。后来执灯人的装备更新换代，就只剩下了我手上这最后一盏…我大概是习惯了吧，每次想到要换掉它就觉得很难受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/ad014df8703621d5ef6cb36aaa995d93_751292752013321739.mp3",
+          "audioName": "30_5003_想要了解叶洛亚·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其四",
+          "text": "我的老爹尼基塔，同僚们都叫他老爷子。说是这么说，我可一点没觉得他老。各地灯塔的部署情况，他比我记得还清楚，我的事情也从来瞒不过他。不过越是这样我就越忍不住想，要是有一天他真的老了该怎么办呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/9c32ea93efdf2b2a3f1141e8a51ff807_3537236735153584171.mp3",
+          "audioName": "31_5004_想要了解叶洛亚·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其五",
+          "text": "狂猎到来时，我总能听到狂风中夹杂着逝者的哀鸣。每到这个时候，就仿佛又回到了那个地狱般的战场，回到了被老爹捡回来的那一天。或许只要狂猎还没被彻底消灭，缠绕着我的梦魇就不会离去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/78b864e5876fa5eaa945dec3bff30c32_8070217107583517056.mp3",
+          "audioName": "32_5005_想要了解叶洛亚·其五_cn.mp3"
+        },
+        {
+          "name": "叶洛亚的爱好…",
+          "text": "你这样一说，我的闲暇时间好像也都和同僚们待在一起…最近执灯士中很流行一种叫作「桌上剧团」的游戏，我们还没凑够一起玩的人，你要不要也来参加？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/249d252dd6be726303ee4e69f49bf72e_1756864046672487771.mp3",
+          "audioName": "33_6001_叶洛亚的爱好…_cn.mp3"
+        },
+        {
+          "name": "叶洛亚的烦恼…",
+          "text": "无辜之人因为突如其来的灾难而莫名其妙地丢掉性命，这种事情我无法原谅。我所做的一切努力，都是为了让这样的事不再发生在其他人身上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/74721171344d9092938477e56d1a7ff8_4914078133862055332.mp3",
+          "audioName": "34_6012_叶洛亚的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "食物嘛…我倒是没什么特别的偏好。在我看来，只要能和大家一起围着炉火，热热闹闹地吃上一顿，无论煮的是什么，那都是最好的美食。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/ad1b3a2a7aaa63bdac1d6ae81c60a3b5_4525024288331211885.mp3",
+          "audioName": "35_6003_喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "只要是热乎乎的食物都没问题，凉的最好不要…你想想啊，要是等到了冬天，大晚上值夜的时候吃到的饭菜还是凉的，想想都忍不住要说难听的话了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/caaf3d06494ce99c59457bc43161c11a_655549121099452303.mp3",
+          "audioName": "36_6004_讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "令人惊艳的味道，能告诉我调味的秘方吗？我也想学学看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/75a88f9addb696eb43199255ed575ba2_6446848786921031608.mp3",
+          "audioName": "37_6007_收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错啊，真想让同僚们也尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/da482f9d38356e357c2c5e5834305215_1566235676620341096.mp3",
+          "audioName": "38_6008_收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "嗯…要不还是让我再多教你几道料理吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/cbc3c121b97c4acadf7737004eeb17a5_536094772875727048.mp3",
+          "audioName": "39_6009_收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐，亲爱的队员。今天就别管什么委托了，也暂且忘掉那些冒险吧。这么重要的日子，就应该一整天都跟朋友们待在一起，吃饱喝足然后睡个好觉，你说对不对？放心，我会替你守着的。要是有什么烦人的家伙敢来打扰你，我就用我手上的这盏灯把他们都赶走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/cec4c95e29ab53c13458874e490e8231_2598240243863527646.mp3",
+          "audioName": "40_7001_生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "原来还有这种变强的方法，事半功倍了啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/bd8338f4b135dd54c916dd95eeaac870_6579331100931583799.mp3",
+          "audioName": "41_8001_突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "力量有所提升，但要用来保护大家还远远不够…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/b22a974616ffe6e561448dd96056243a_1949830109490212218.mp3",
+          "audioName": "42_8002_突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "多谢你教我，这段时间我学到了很多，对自己稍微有些信心了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/b690237c6bff2dbcb13f4c5a04044e34_3637359842984995937.mp3",
+          "audioName": "43_8003_突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "真是惭愧，一直在麻烦你。不过现在我已经变得足够强大了，所以接下来希望你也能多依赖我一点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/9053d4473f7ee2f6aa31a935bb13b1f3_2945323434182608699.mp3",
+          "audioName": "44_8004_突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "去吧，阿咚！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/0c1bb6185cf1ed9b6e3bc24f469cc42b_1393512238773540940.mp3",
+          "audioName": "45_100001_元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "趁现在！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/0f4e3548067e7def8e4c5d5ac9016cd2_1780897077223459910.mp3",
+          "audioName": "46_100002_元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "交给你了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/3d07d8470b69559f131805e11e222f45_3396534981933610964.mp3",
+          "audioName": "47_100003_元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "瞄准好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/a9867e8d42d1b807cfc91432f7298b72_3151644215142272349.mp3",
+          "audioName": "48_100004_元素战技·其四_cn.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "你跑不掉的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/9a16fb9bee5eb7119bc43270aeac5531_3751231465785052990.mp3",
+          "audioName": "49_100005_元素战技·其五_cn.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "机不可失。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/ef70a9a5f30b281d5fb95788520fe235_6468792193141561055.mp3",
+          "audioName": "50_100006_元素战技·其六_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "我的灯下没有阴霾！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/47030d7c11cc598a1a5d8b11a8719b5f_7708822268497153168.mp3",
+          "audioName": "51_200001_元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "接受明光的制裁吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/de29ff4f2067fafb15fbe4c1929bbe0f_8226792764844932531.mp3",
+          "audioName": "52_200002_元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "迎接黎明的曙光！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/432d0028e00c65e069be205836685f34_1612527140975817278.mp3",
+          "audioName": "53_200003_元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "宝藏应该交给需要它们的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/77f481694f22baeb323fb4d403f13140_8839556394372065286.mp3",
+          "audioName": "54_300001_打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "居然不是陷阱，看来是我多虑了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d30dd0f6a34d88b97a212323157c24ee_1056516919172648154.mp3",
+          "audioName": "55_300002_打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "之前没注意到啊…得加强巡察了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d9147daf943777192f4a10ded60a7a46_7147167853210126589.mp3",
+          "audioName": "56_300003_打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "有种不祥的预感…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/1469f0771ac9c3d2af76723938715405_4194342092539915637.mp3",
+          "audioName": "57_410001_生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我还是高估自己的实力了啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/be72c55ca97f5427a571010084e5251d_1365077786368731932.mp3",
+          "audioName": "58_410002_生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "现在叫增援还来得及吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/9e3689945a79a0fa62a82b108b7179fb_1581801316830586933.mp3",
+          "audioName": "59_410003_生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别离开我的视野。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c4c8ba3e1413997d53ce251819f033c2_3270775089267860846.mp3",
+          "audioName": "60_400001_同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "该轮到我来保护你了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/472b7f4b20263bb078ae92a47772d56f_5531156356620746906.mp3",
+          "audioName": "61_400002_同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "要是能再努力一点的话…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/846b28e7346922c374e15c15c9686c8d_4793990376329449099.mp3",
+          "audioName": "62_500001_倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "至少要将情报带回去…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d3d22d1603022380bbee545100170e97_685949516506201963.mp3",
+          "audioName": "63_500002_倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "还是，没能保护大家…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/1a8a4d1af4bbd26569502860473f1385_7062202640522424697.mp3",
+          "audioName": "64_500003_倒下·其三_cn.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "可恶…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/12f81e9b1041508d40e73c739e2c3e49_7083786552787031477.mp3",
+          "audioName": "65_900001_普通受击·其一_cn.mp3"
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "大意了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/55fa0c86a1d6c58229c70053202172d4_636923380084816161.mp3",
+          "audioName": "66_900002_普通受击·其二_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "还能忍受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/8be57597e7bb3af6d60969ef3b25fca8_3995773747877969956.mp3",
+          "audioName": "67_910001_重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "再坚持下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/f2fafe175d7d4b6107aedcf68bcd77f4_7221136388899357512.mp3",
+          "audioName": "68_910002_重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "明白了，这也是执灯士的职责。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c841329db1c026c3aa3db5a98e18b0e1_7483728358589735683.mp3",
+          "audioName": "69_600001_加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "让我来替你掌灯吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d2f72060429bf23ef2eb710f2a05a28b_5767788778649856802.mp3",
+          "audioName": "70_600002_加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我会努力不让你失望的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/194358e674a392c9e2793e3e1c199b81_5512259618516541112.mp3",
+          "audioName": "71_600003_加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好呀，我是叶洛亚，执灯人调查分队的队长。请问是遇上什么麻烦了吗？这也是常有的事，附近的路的确不太好走。不过别担心，跟我来吧，我会帮你照亮前方的路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/a5132fa60d8753e82337ffc16f8860ce_7242931863650768357.mp3",
+          "audioName": "01_1006_初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·警惕",
+          "text": "越是平静的地方，就越有可能隐藏着危险…我也不知道这话对不对，但警惕点总没错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/1524126206aded71373eeb6327e8756b_2685945428564223066.mp3",
+          "audioName": "02_1101_闲聊·警惕_jp.mp3"
+        },
+        {
+          "name": "闲聊·巡夜",
+          "text": "你是不是觉得冷？巡夜的时候很容易受凉，我煮碗暖汤给你喝吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/04e8b89a0528f45423c34bb5f98722d7_7209299375902093105.mp3",
+          "audioName": "03_1102_闲聊·巡夜_jp.mp3"
+        },
+        {
+          "name": "闲聊·困难",
+          "text": "只做擅长的事情可不行，只有强迫自己去做困难的事，才能在挣扎中变强嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/171bfec05c06c980aaf4f571c387532b_555831220568377880.mp3",
+          "audioName": "04_1103_闲聊·困难_jp.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "太阳出来了，看来这次是光明的一方打赢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/09384ab6213e6ee1537b8865ee5f56a9_7890449278829609640.mp3",
+          "audioName": "05_1201_雨过天晴…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "老爹说这是天上的神明们在交战，我只希望他们不要殃及无辜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/cfce5457c3d568c16540c99b7ed463a8_2821816870801666796.mp3",
+          "audioName": "06_1202_打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "难得的好天气啊。要是能一直这么好，我们执灯士的工作也会轻松很多吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/99728277fdb3381173486ccfd4f6de9e_6875897926410434649.mp3",
+          "audioName": "07_1203_阳光很好…_jp.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "起风了，总感觉会有不好的事情发生…要不我们还是去附近的营地躲躲吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/fcde8710861afcc13b76c73d1a0f9175_7229918705226135340.mp3",
+          "audioName": "08_1204_刮大风了…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "夜晚过去了，看来我们又度过了平安的一天。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/cf99007988fc17768ae41df212e6a114_4898022490819833689.mp3",
+          "audioName": "09_1001_早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "阳光正好，应该趁这个时候观察一下周围有没有什么隐患…唔，不过好像有点困了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/cf3a58630c3395c2ea7b2d9fc0d6a830_4845038897121865345.mp3",
+          "audioName": "10_1002_中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "天黑之后说不定会有魔物出没。走夜路的话，请一定要小心谨慎。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/3955fcef26e2d419c80b8b8904c1d9f3_1107652258216766030.mp3",
+          "audioName": "11_1003_晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "嗯，时候不早了，你先休息吧。放心，今晚我会替你守夜的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/54ba34cac3ba061c37967bf64fc142a1_7282307810430437200.mp3",
+          "audioName": "12_1004_晚安…_jp.mp3"
+        },
+        {
+          "name": "关于叶洛亚自己·执灯人",
+          "text": "加入执灯人的事，是我求了老爷子好几次才说服他同意的。比起一直待在皮拉米达城被前辈们保护，我更想要去到战场的最前方，和大家一起成为阻挡狂猎前进的力量。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/b397aa2ef449c50391f074337153b02d_1328335802331786084.mp3",
+          "audioName": "13_2001_关于叶洛亚自己·执灯人_jp.mp3"
+        },
+        {
+          "name": "关于叶洛亚自己·分队长",
+          "text": "成为分队长意味着要肩负起同僚的性命，虽然我还是时常怀疑自己是否有这样的资格…但是既然大家都选择了相信我，那我也不可以辜负大家的信任，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/93aa0b7e4b1983262f78d4d83db1e5e9_6545359075884762169.mp3",
+          "audioName": "14_2005_关于叶洛亚自己·分队长_jp.mp3"
+        },
+        {
+          "name": "关于我们·职责",
+          "text": "为往来的商旅提供保护，是我们执灯人的职责…你问保护对象包不包括冒险家？嗯…虽然理论上这确实超出了我的责任范围，但我可不能允许任何人在我负责巡察的区域里受到伤害。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/284eb00dc93883ae8131f14024a1fb8c_5622398316254077284.mp3",
+          "audioName": "15_2003_关于我们·职责_jp.mp3"
+        },
+        {
+          "name": "关于我们·队员",
+          "text": "现在你已经算是我们调查分队的队员了，这就意味着，我必须为你的生命安全负责…听他们说你最近又去了危险的地方冒险，现在看到你平安无事，我稍微安心了一点…所以说，下次要不还是让我跟你一起去吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/0edb23531e0d4b3106051a6bdc6f2037_7525967370792531606.mp3",
+          "audioName": "16_2002_关于我们·队员_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "曾经有人告诉我这只是枚好看的宝石，直到终于有机会将它掂在手里，我才明白其中承载的重量。我想，命运把它交到我的手上并非偶然，我得努力配得上它。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/b48cc50340da942d7d5cb1ac917fbfda_7161385037034736185.mp3",
+          "audioName": "17_3006_关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "从皮拉米达城的最高处向北眺望，可以看到至冬雪原的一角。据说那里就是我们的初代执灯长，铸灯者索洛维的家乡。失去一切而无法回到家园的人，最后在这里找到了归宿…说不定，这座城堡从一开始就是为了让我们这样的人抱团取暖而存在的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/a633f9b0e80c30db9b23aa729c3567c0_6135481700533191574.mp3",
+          "audioName": "18_3002_有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "皮拉米达城附近有许多散发着月矩力的奇妙生物，像是曼陀草、獭懒羊…可不要被它们的表象所欺骗，虽然看上去像是你们见过的动物，但它们其实是拟态成动物模样的植物…不过实话说，它们的味道还不错。不介意的话，下次可以做一份给你尝尝。嗯？你问我为什么会知道这个？巡夜的时候总会有许多不得已的情况嘛…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/0ee00d917ddda62e610ef0b9a1c2196e_1719659799594020745.mp3",
+          "audioName": "19_3003_感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于菲林斯·拜访…",
+          "text": "刚认识菲林斯先生的时候，还以为他是不善交际或者性格乖僻才选择离群索居的呢，但没过多久，我就发现事情与我想的恰恰相反…不过每次我们聊天，他总是在故事最后加入些吊胃口的情节，我在想，这是不是因为…他其实欢迎我多去拜访呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/fe3238d3463bfec70b1f386e7295faba_7022577608742507726.mp3",
+          "audioName": "20_4001_关于菲林斯·拜访…_jp.mp3"
+        },
+        {
+          "name": "关于菲林斯·秘密…",
+          "text": "你是说菲林斯先生身上藏着许多秘密？当然，这在执灯士当中并不稀奇。我的同僚们出身各不相同，谁能没有几个不想告诉别人的秘密呢？就连老爹也很少向我提及他年轻时的往事。至于菲林斯先生嘛…最近发生了那么多事，好歹也是朋友，他的秘密我多少能猜到一点点。我试着求证过，他既没有否认，也没有承认，可能那也是一种表态。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d0a5762b912dc1cbcc21d4a7b9cd3ca8_6710587032916838702.mp3",
+          "audioName": "21_4002_关于菲林斯·秘密…_jp.mp3"
+        },
+        {
+          "name": "关于菈乌玛…",
+          "text": "自铸灯者的时代开始，我们与霜月之子就保持着传统的友谊。这一代的咏月使是位温柔又和善的小姐，每次拜访我都能从她那里学到很多。以如今这个世道，当咏月使不会比做执灯人轻松。她能始终保持这种态度，想必也承受了许多吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/405a96ce717492f1441b188cf7217e95_8017017635531618111.mp3",
+          "audioName": "22_4003_关于菈乌玛…_jp.mp3"
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "法尔伽先生是位了不起的战士，我们曾并肩对抗过狂猎。听说西风骑士团也和我们执灯人一样，是为了守护家园而建立的组织。或许有一天，等挪德卡莱的狂猎都被消灭干净了，我们也能远赴异域，为更多生活在苦难中的人们而战。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/ee80bae2b581c50d6614eb8f4e461f99_7548742303937092114.mp3",
+          "audioName": "23_4004_关于法尔伽…_jp.mp3"
+        },
+        {
+          "name": "关于奈芙尔…",
+          "text": "多亏了秘闻馆的关照，我们在那夏镇的行动才会如此方便，以前可不是这样的。据说在奈芙尔小姐来到挪德卡莱之前，执灯士们和那些不守规矩的帮派分子经常发生冲突，老爷子还一度为此苦恼…现在真是好多了呢。不过，奈芙尔小姐也和菲林斯先生一样爱拿我寻开心，也让我有些苦恼就是了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/496d825e75644f36df11a618de239925_8488853420820119865.mp3",
+          "audioName": "24_4005_关于奈芙尔…_jp.mp3"
+        },
+        {
+          "name": "关于爱诺…",
+          "text": "我们执灯人维修复杂机关，一般都会请爱诺小姐来帮忙，不过她看起来好像是真的想教会我们…自从有一次，我被她看到在自己修理机关之后，她就大吵着怎么说也要拉我去上课…嗯？你问我是怎么修的？那我当然是跟老爹学的，机关不灵，只要用力敲两下就好了，谁知道她会这么生气…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/6ae4c4ab5b6f694f2bb2678a806ec55d_1592593664872130793.mp3",
+          "audioName": "25_4006_关于爱诺…_jp.mp3"
+        },
+        {
+          "name": "关于莉奈娅…",
+          "text": "像莉奈娅这样的妖精小姐，即便在鱼龙混杂的挪德卡莱也很少见。在认识之前，我原本以为她会是更加沉稳的类型。没想到第一次见面，她看到阿咚之后直接两眼放光地扑了上来…阿咚可是面对狂猎都从不退缩的信鸟，但现在每次只要一听到她的声音，就会马上躲进灯里不肯出来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/de04c6185d95df82d55201ddd45a7b67_3122456061183003005.mp3",
+          "audioName": "26_4007_关于莉奈娅…_jp.mp3"
+        },
+        {
+          "name": "关于「月神」…",
+          "text": "挪德卡莱是「人」的乐园，这条道路是由数百年来无数执灯士的血与骨所铺就的。就算如今迎来了一位新的神明，属于挪德卡莱的生存方式也不会因此而改变吧。不是不相信那位「月神」小姐…只是我觉得，比起等待别人来拯救，还是拥有能主动保护身边人的力量更安心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/e7686a4b789afcc5c644876e1abe5ed7_7449311277641376494.mp3",
+          "audioName": "27_4008_关于「月神」…_jp.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其一",
+          "text": "想要了解我的过去？嗯…让我想想…好像没有那种说出来能让人开心的部分啊，你真的想听吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/ec37ad73008da6ea2df61f267c1fa645_4055911067308732101.mp3",
+          "audioName": "28_5001_想要了解叶洛亚·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其二",
+          "text": "阿咚是我的信鸟，每次出门巡夜的时候我都会带上它。它不仅会提醒我周围的危险，还能帮我照亮前方的路，是非常可靠的伙伴…嗯？你是说你走过这么多国家也从没见过这种会发光的鸟？等等…该不会它真的不是普通的信鸟吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d4c7590563931704cab9082757bdabc1_5273468792148233159.mp3",
+          "audioName": "29_5002_想要了解叶洛亚·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其三",
+          "text": "如你所见，我的誓言之灯与大家的制式并不相同。这可不是因为我是分队长就有什么特殊，它是我在后勤分队的时候所用的信号灯。后来执灯人的装备更新换代，就只剩下了我手上这最后一盏…我大概是习惯了吧，每次想到要换掉它就觉得很难受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/eeaa9e3547267acdf24cadb2e8782a7b_5624026041482842202.mp3",
+          "audioName": "30_5003_想要了解叶洛亚·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其四",
+          "text": "我的老爹尼基塔，同僚们都叫他老爷子。说是这么说，我可一点没觉得他老。各地灯塔的部署情况，他比我记得还清楚，我的事情也从来瞒不过他。不过越是这样我就越忍不住想，要是有一天他真的老了该怎么办呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/e03bcea90859aeca841f2e8cd059d954_6348702541539459497.mp3",
+          "audioName": "31_5004_想要了解叶洛亚·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其五",
+          "text": "狂猎到来时，我总能听到狂风中夹杂着逝者的哀鸣。每到这个时候，就仿佛又回到了那个地狱般的战场，回到了被老爹捡回来的那一天。或许只要狂猎还没被彻底消灭，缠绕着我的梦魇就不会离去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c950535d5aaf320c94af5e7e4ddde1e2_3551080276082204041.mp3",
+          "audioName": "32_5005_想要了解叶洛亚·其五_jp.mp3"
+        },
+        {
+          "name": "叶洛亚的爱好…",
+          "text": "你这样一说，我的闲暇时间好像也都和同僚们待在一起…最近执灯士中很流行一种叫作「桌上剧团」的游戏，我们还没凑够一起玩的人，你要不要也来参加？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/54800efdfbb366f47ea3afa51efbe49f_4365225002971269011.mp3",
+          "audioName": "33_6001_叶洛亚的爱好…_jp.mp3"
+        },
+        {
+          "name": "叶洛亚的烦恼…",
+          "text": "无辜之人因为突如其来的灾难而莫名其妙地丢掉性命，这种事情我无法原谅。我所做的一切努力，都是为了让这样的事不再发生在其他人身上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/fe4f7ea4218d3d7c65d19d753431be48_4717959485061997176.mp3",
+          "audioName": "34_6012_叶洛亚的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "食物嘛…我倒是没什么特别的偏好。在我看来，只要能和大家一起围着炉火，热热闹闹地吃上一顿，无论煮的是什么，那都是最好的美食。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/0af03b2382f44faf29b75828c6ef49a3_3152256995327575410.mp3",
+          "audioName": "35_6003_喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "只要是热乎乎的食物都没问题，凉的最好不要…你想想啊，要是等到了冬天，大晚上值夜的时候吃到的饭菜还是凉的，想想都忍不住要说难听的话了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/6aaf47ad79a6dea0ba0f69e5dcfab434_1400814380504692384.mp3",
+          "audioName": "36_6004_讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "令人惊艳的味道，能告诉我调味的秘方吗？我也想学学看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/f518f78e220eecbc22322af740048728_8417736071649039798.mp3",
+          "audioName": "37_6007_收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错啊，真想让同僚们也尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/94aede4ba7dab9abf8ea6efca693cc44_2774853423501916405.mp3",
+          "audioName": "38_6008_收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "嗯…要不还是让我再多教你几道料理吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/cb02470e6bf07e9adf471495830da46d_8671036573773584214.mp3",
+          "audioName": "39_6009_收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐，亲爱的队员。今天就别管什么委托了，也暂且忘掉那些冒险吧。这么重要的日子，就应该一整天都跟朋友们待在一起，吃饱喝足然后睡个好觉，你说对不对？放心，我会替你守着的。要是有什么烦人的家伙敢来打扰你，我就用我手上的这盏灯把他们都赶走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/24253ea3b60eab6af5fe91ea43e18200_2643639113108875048.mp3",
+          "audioName": "40_7001_生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "原来还有这种变强的方法，事半功倍了啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/89e45ca26ed9e071e1060b0a1f73cd83_2492363463127867507.mp3",
+          "audioName": "41_8001_突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "力量有所提升，但要用来保护大家还远远不够…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/346740a6383eb3e90edac9e2f1cbc61c_7865447903822509473.mp3",
+          "audioName": "42_8002_突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "多谢你教我，这段时间我学到了很多，对自己稍微有些信心了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/52881d3c25427717c8f6d7806915cb57_6354365825694193908.mp3",
+          "audioName": "43_8003_突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "真是惭愧，一直在麻烦你。不过现在我已经变得足够强大了，所以接下来希望你也能多依赖我一点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/40da245dd926b5fb8633e3d6db3fc65b_2457333062371697687.mp3",
+          "audioName": "44_8004_突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "去吧，阿咚！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/03927322ebcd6e9285b16451d67f3dc2_5895637991415429114.mp3",
+          "audioName": "45_100001_元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "趁现在！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/4a499b6f79c6dd2c4383ed13785933cd_1603546137205163829.mp3",
+          "audioName": "46_100002_元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "交给你了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/023f9f563774399490c4348f028a6f9a_5048302397984961343.mp3",
+          "audioName": "47_100003_元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "瞄准好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/81b0abe806fe4589dc98833172527d4e_6584526825541346801.mp3",
+          "audioName": "48_100004_元素战技·其四_jp.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "你跑不掉的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/e16e828a3905a811698c55a06a7c6266_1845857312793705975.mp3",
+          "audioName": "49_100005_元素战技·其五_jp.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "机不可失。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/e401f78edd6b2d0889f350b65c6e01a9_194143466612261869.mp3",
+          "audioName": "50_100006_元素战技·其六_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "我的灯下没有阴霾！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c93b12856b6e48003429a09260128137_5520701408645141698.mp3",
+          "audioName": "51_200001_元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "接受明光的制裁吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/480038ade8e94c64ac9423dbe03a66d1_6811060371269907526.mp3",
+          "audioName": "52_200002_元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "迎接黎明的曙光！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/730892322b006657ef211ba17506a34c_5688797380641638677.mp3",
+          "audioName": "53_200003_元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "宝藏应该交给需要它们的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/e849a5e0886505695152028a4b204f09_4790230263093399818.mp3",
+          "audioName": "54_300001_打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "居然不是陷阱，看来是我多虑了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/19df9114bd5a69eb6f84f4250a1793bc_1677979536370449528.mp3",
+          "audioName": "55_300002_打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "之前没注意到啊…得加强巡察了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/db67a103c2dbf05f419c71ac5ae258d8_2136715894556632155.mp3",
+          "audioName": "56_300003_打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "有种不祥的预感…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/f3e1abeb02d6d29899c40eda863e5000_2548175552563405064.mp3",
+          "audioName": "57_410001_生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我还是高估自己的实力了啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/7f917bfa7c40dad87bb317740a13375d_5945763408365206186.mp3",
+          "audioName": "58_410002_生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "现在叫增援还来得及吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/f6c66eb39ff5a1eefa56151bc52a8769_6849889071815640582.mp3",
+          "audioName": "59_410003_生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别离开我的视野。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/954ba736072b1b406d82874593699ae6_1797747342316372519.mp3",
+          "audioName": "60_400001_同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "该轮到我来保护你了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/b1f037e57a734d954842785d4fd93b0f_7159746220464503188.mp3",
+          "audioName": "61_400002_同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "要是能再努力一点的话…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/4fd356959fcc3d857dd56cd136791ca8_641800520258428294.mp3",
+          "audioName": "62_500001_倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "至少要将情报带回去…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d59a4e546d1ceae007bf06384b9bbe70_8033397513022993558.mp3",
+          "audioName": "63_500002_倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "还是，没能保护大家…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c04f5aca471030227ab17a20344f2354_5710538141558139335.mp3",
+          "audioName": "64_500003_倒下·其三_jp.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "可恶…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/a2a16d310fbddf92cdde9a50eadbb9c8_7663231975166824145.mp3",
+          "audioName": "65_900001_普通受击·其一_jp.mp3"
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "大意了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/327a08bcecde6d2c496541424c971bda_7109791467683942514.mp3",
+          "audioName": "66_900002_普通受击·其二_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "还能忍受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/6590d2a88e3c9b6f01922bc2fb103522_8339149403547877027.mp3",
+          "audioName": "67_910001_重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "再坚持下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/f59842bcf7da67f4fbd8c6d91021da7b_1378748803372255099.mp3",
+          "audioName": "68_910002_重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "明白了，这也是执灯士的职责。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/4715a47f9b14862a35a2a9c5cfd4c7b0_885830929244820101.mp3",
+          "audioName": "69_600001_加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "让我来替你掌灯吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c825cade9f771634ab688e6f60b8154b_3126854124436397077.mp3",
+          "audioName": "70_600002_加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我会努力不让你失望的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/ff56c54274d162b1d82e4736f6daa358_5119715299462556277.mp3",
+          "audioName": "71_600003_加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好呀，我是叶洛亚，执灯人调查分队的队长。请问是遇上什么麻烦了吗？这也是常有的事，附近的路的确不太好走。不过别担心，跟我来吧，我会帮你照亮前方的路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d0d898df540bda482b8c5cba3d59a9e9_4958118802422188985.mp3",
+          "audioName": "01_1006_初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·警惕",
+          "text": "越是平静的地方，就越有可能隐藏着危险…我也不知道这话对不对，但警惕点总没错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/09b74a9c0b3a8e677957c35c4328d838_7442017499076539927.mp3",
+          "audioName": "02_1101_闲聊·警惕_en.mp3"
+        },
+        {
+          "name": "闲聊·巡夜",
+          "text": "你是不是觉得冷？巡夜的时候很容易受凉，我煮碗暖汤给你喝吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/460ae890834e77d3143b53022fa38329_90710279955605500.mp3",
+          "audioName": "03_1102_闲聊·巡夜_en.mp3"
+        },
+        {
+          "name": "闲聊·困难",
+          "text": "只做擅长的事情可不行，只有强迫自己去做困难的事，才能在挣扎中变强嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/12143a71766950f069beff1e7a82edf8_4638537757183470926.mp3",
+          "audioName": "04_1103_闲聊·困难_en.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "太阳出来了，看来这次是光明的一方打赢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/a6a64eedb2178eef4f000065f335d7c7_3202228708375249822.mp3",
+          "audioName": "05_1201_雨过天晴…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "老爹说这是天上的神明们在交战，我只希望他们不要殃及无辜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/59447a420480aa431dd0e0bd19688a9d_7216372719196202781.mp3",
+          "audioName": "06_1202_打雷的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "难得的好天气啊。要是能一直这么好，我们执灯士的工作也会轻松很多吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/af1e253ecea091460a9d939114208988_1011496985234346888.mp3",
+          "audioName": "07_1203_阳光很好…_en.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "起风了，总感觉会有不好的事情发生…要不我们还是去附近的营地躲躲吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/de55e20f953342fc8950824e14f1a0e8_4549847606243689135.mp3",
+          "audioName": "08_1204_刮大风了…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "夜晚过去了，看来我们又度过了平安的一天。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/e6908920ab49e505dbdf83ca9269f079_2525470703586604704.mp3",
+          "audioName": "09_1001_早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "阳光正好，应该趁这个时候观察一下周围有没有什么隐患…唔，不过好像有点困了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/753d64fd4c023ad4191f0f03dc34197a_3496829642201759923.mp3",
+          "audioName": "10_1002_中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "天黑之后说不定会有魔物出没。走夜路的话，请一定要小心谨慎。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/840d0265864a304d39cbdde1eb7a5c40_2246244530704230548.mp3",
+          "audioName": "11_1003_晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "嗯，时候不早了，你先休息吧。放心，今晚我会替你守夜的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/ebeb76ff5939f6c5d9db150f2f578dc1_2652694562988763697.mp3",
+          "audioName": "12_1004_晚安…_en.mp3"
+        },
+        {
+          "name": "关于叶洛亚自己·执灯人",
+          "text": "加入执灯人的事，是我求了老爷子好几次才说服他同意的。比起一直待在皮拉米达城被前辈们保护，我更想要去到战场的最前方，和大家一起成为阻挡狂猎前进的力量。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/fabda6f91598fa65091aca08219363d9_5750534472960260746.mp3",
+          "audioName": "13_2001_关于叶洛亚自己·执灯人_en.mp3"
+        },
+        {
+          "name": "关于叶洛亚自己·分队长",
+          "text": "成为分队长意味着要肩负起同僚的性命，虽然我还是时常怀疑自己是否有这样的资格…但是既然大家都选择了相信我，那我也不可以辜负大家的信任，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/9e46bd5a48dcc109e06e1e08e887b5f3_3537177053740592968.mp3",
+          "audioName": "14_2005_关于叶洛亚自己·分队长_en.mp3"
+        },
+        {
+          "name": "关于我们·职责",
+          "text": "为往来的商旅提供保护，是我们执灯人的职责…你问保护对象包不包括冒险家？嗯…虽然理论上这确实超出了我的责任范围，但我可不能允许任何人在我负责巡察的区域里受到伤害。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/91de6b22514fdbf9b3ada6f99bd70e12_5692206924931280244.mp3",
+          "audioName": "15_2003_关于我们·职责_en.mp3"
+        },
+        {
+          "name": "关于我们·队员",
+          "text": "现在你已经算是我们调查分队的队员了，这就意味着，我必须为你的生命安全负责…听他们说你最近又去了危险的地方冒险，现在看到你平安无事，我稍微安心了一点…所以说，下次要不还是让我跟你一起去吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/a545e2a4014332603f0c9ed0ed909d84_8815964275833682540.mp3",
+          "audioName": "16_2002_关于我们·队员_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "曾经有人告诉我这只是枚好看的宝石，直到终于有机会将它掂在手里，我才明白其中承载的重量。我想，命运把它交到我的手上并非偶然，我得努力配得上它。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/f32f766f62975a2d20e7551f1df221d2_1907702139730652772.mp3",
+          "audioName": "17_3006_关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "从皮拉米达城的最高处向北眺望，可以看到至冬雪原的一角。据说那里就是我们的初代执灯长，铸灯者索洛维的家乡。失去一切而无法回到家园的人，最后在这里找到了归宿…说不定，这座城堡从一开始就是为了让我们这样的人抱团取暖而存在的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/81e8f7e9d3a25409469b24ab20ac434b_2673847078996145623.mp3",
+          "audioName": "18_3002_有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "皮拉米达城附近有许多散发着月矩力的奇妙生物，像是曼陀草、獭懒羊…可不要被它们的表象所欺骗，虽然看上去像是你们见过的动物，但它们其实是拟态成动物模样的植物…不过实话说，它们的味道还不错。不介意的话，下次可以做一份给你尝尝。嗯？你问我为什么会知道这个？巡夜的时候总会有许多不得已的情况嘛…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/8843ec258a00f5575e7a54f5ca0cf27a_5593984291663677911.mp3",
+          "audioName": "19_3003_感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于菲林斯·拜访…",
+          "text": "刚认识菲林斯先生的时候，还以为他是不善交际或者性格乖僻才选择离群索居的呢，但没过多久，我就发现事情与我想的恰恰相反…不过每次我们聊天，他总是在故事最后加入些吊胃口的情节，我在想，这是不是因为…他其实欢迎我多去拜访呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/1a445f6c681834e3d86a9171c017f082_446985909293051111.mp3",
+          "audioName": "20_4001_关于菲林斯·拜访…_en.mp3"
+        },
+        {
+          "name": "关于菲林斯·秘密…",
+          "text": "你是说菲林斯先生身上藏着许多秘密？当然，这在执灯士当中并不稀奇。我的同僚们出身各不相同，谁能没有几个不想告诉别人的秘密呢？就连老爹也很少向我提及他年轻时的往事。至于菲林斯先生嘛…最近发生了那么多事，好歹也是朋友，他的秘密我多少能猜到一点点。我试着求证过，他既没有否认，也没有承认，可能那也是一种表态。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/cc06186b0b67e369d89dff85ed8ff025_561881371006380135.mp3",
+          "audioName": "21_4002_关于菲林斯·秘密…_en.mp3"
+        },
+        {
+          "name": "关于菈乌玛…",
+          "text": "自铸灯者的时代开始，我们与霜月之子就保持着传统的友谊。这一代的咏月使是位温柔又和善的小姐，每次拜访我都能从她那里学到很多。以如今这个世道，当咏月使不会比做执灯人轻松。她能始终保持这种态度，想必也承受了许多吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/6739cf5b3c578fc4784e542dd2b3a50b_4963974011879366194.mp3",
+          "audioName": "22_4003_关于菈乌玛…_en.mp3"
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "法尔伽先生是位了不起的战士，我们曾并肩对抗过狂猎。听说西风骑士团也和我们执灯人一样，是为了守护家园而建立的组织。或许有一天，等挪德卡莱的狂猎都被消灭干净了，我们也能远赴异域，为更多生活在苦难中的人们而战。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/ba19408d70a68eed746a7006d4ab68ab_8472659083920891311.mp3",
+          "audioName": "23_4004_关于法尔伽…_en.mp3"
+        },
+        {
+          "name": "关于奈芙尔…",
+          "text": "多亏了秘闻馆的关照，我们在那夏镇的行动才会如此方便，以前可不是这样的。据说在奈芙尔小姐来到挪德卡莱之前，执灯士们和那些不守规矩的帮派分子经常发生冲突，老爷子还一度为此苦恼…现在真是好多了呢。不过，奈芙尔小姐也和菲林斯先生一样爱拿我寻开心，也让我有些苦恼就是了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c34bf9de98223c8097db8d0170d4baf1_6846641584696013374.mp3",
+          "audioName": "24_4005_关于奈芙尔…_en.mp3"
+        },
+        {
+          "name": "关于爱诺…",
+          "text": "我们执灯人维修复杂机关，一般都会请爱诺小姐来帮忙，不过她看起来好像是真的想教会我们…自从有一次，我被她看到在自己修理机关之后，她就大吵着怎么说也要拉我去上课…嗯？你问我是怎么修的？那我当然是跟老爹学的，机关不灵，只要用力敲两下就好了，谁知道她会这么生气…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/edeb31d357d0d3dbf012dac150e9e78c_3562617225015176704.mp3",
+          "audioName": "25_4006_关于爱诺…_en.mp3"
+        },
+        {
+          "name": "关于莉奈娅…",
+          "text": "像莉奈娅这样的妖精小姐，即便在鱼龙混杂的挪德卡莱也很少见。在认识之前，我原本以为她会是更加沉稳的类型。没想到第一次见面，她看到阿咚之后直接两眼放光地扑了上来…阿咚可是面对狂猎都从不退缩的信鸟，但现在每次只要一听到她的声音，就会马上躲进灯里不肯出来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d9302f33bc29e8b02dba21b40db2999e_7639602637196231671.mp3",
+          "audioName": "26_4007_关于莉奈娅…_en.mp3"
+        },
+        {
+          "name": "关于「月神」…",
+          "text": "挪德卡莱是「人」的乐园，这条道路是由数百年来无数执灯士的血与骨所铺就的。就算如今迎来了一位新的神明，属于挪德卡莱的生存方式也不会因此而改变吧。不是不相信那位「月神」小姐…只是我觉得，比起等待别人来拯救，还是拥有能主动保护身边人的力量更安心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/ced799900a7548f0c28e614a20d55c71_221419735351278873.mp3",
+          "audioName": "27_4008_关于「月神」…_en.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其一",
+          "text": "想要了解我的过去？嗯…让我想想…好像没有那种说出来能让人开心的部分啊，你真的想听吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c4faf77514f847e2dd64709a92a283b2_4954344564938808697.mp3",
+          "audioName": "28_5001_想要了解叶洛亚·其一_en.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其二",
+          "text": "阿咚是我的信鸟，每次出门巡夜的时候我都会带上它。它不仅会提醒我周围的危险，还能帮我照亮前方的路，是非常可靠的伙伴…嗯？你是说你走过这么多国家也从没见过这种会发光的鸟？等等…该不会它真的不是普通的信鸟吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/20bc72d9ded3d187c1124dddd175362b_653110447012344506.mp3",
+          "audioName": "29_5002_想要了解叶洛亚·其二_en.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其三",
+          "text": "如你所见，我的誓言之灯与大家的制式并不相同。这可不是因为我是分队长就有什么特殊，它是我在后勤分队的时候所用的信号灯。后来执灯人的装备更新换代，就只剩下了我手上这最后一盏…我大概是习惯了吧，每次想到要换掉它就觉得很难受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/9dacc42c231cdf4b9c80e6d74eceb002_8637610482096269213.mp3",
+          "audioName": "30_5003_想要了解叶洛亚·其三_en.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其四",
+          "text": "我的老爹尼基塔，同僚们都叫他老爷子。说是这么说，我可一点没觉得他老。各地灯塔的部署情况，他比我记得还清楚，我的事情也从来瞒不过他。不过越是这样我就越忍不住想，要是有一天他真的老了该怎么办呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/93d85219523525f696dde48b064a8b36_8009925342226540641.mp3",
+          "audioName": "31_5004_想要了解叶洛亚·其四_en.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其五",
+          "text": "狂猎到来时，我总能听到狂风中夹杂着逝者的哀鸣。每到这个时候，就仿佛又回到了那个地狱般的战场，回到了被老爹捡回来的那一天。或许只要狂猎还没被彻底消灭，缠绕着我的梦魇就不会离去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/6af36b426ec57a67febf4072bebb8474_8511092103361735166.mp3",
+          "audioName": "32_5005_想要了解叶洛亚·其五_en.mp3"
+        },
+        {
+          "name": "叶洛亚的爱好…",
+          "text": "你这样一说，我的闲暇时间好像也都和同僚们待在一起…最近执灯士中很流行一种叫作「桌上剧团」的游戏，我们还没凑够一起玩的人，你要不要也来参加？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/3c0675b9432803cc22f0d3d4055dfb45_1776384540067772333.mp3",
+          "audioName": "33_6001_叶洛亚的爱好…_en.mp3"
+        },
+        {
+          "name": "叶洛亚的烦恼…",
+          "text": "无辜之人因为突如其来的灾难而莫名其妙地丢掉性命，这种事情我无法原谅。我所做的一切努力，都是为了让这样的事不再发生在其他人身上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/3b4b62dc6326d0bd70c1705c09d021fa_6409504049223707236.mp3",
+          "audioName": "34_6012_叶洛亚的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "食物嘛…我倒是没什么特别的偏好。在我看来，只要能和大家一起围着炉火，热热闹闹地吃上一顿，无论煮的是什么，那都是最好的美食。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/5d00bf9d5f124abdf373c50973b10eb6_554606749538120144.mp3",
+          "audioName": "35_6003_喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "只要是热乎乎的食物都没问题，凉的最好不要…你想想啊，要是等到了冬天，大晚上值夜的时候吃到的饭菜还是凉的，想想都忍不住要说难听的话了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/7c4695fcaf4b602c5546a69dcbbcddf8_4500599415291802774.mp3",
+          "audioName": "36_6004_讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "令人惊艳的味道，能告诉我调味的秘方吗？我也想学学看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d98a908ca69ec0649ff03f87e4e376e0_3657586821433850133.mp3",
+          "audioName": "37_6007_收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错啊，真想让同僚们也尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/9c926b0615cc6c8a3ff214a7c8769c15_737258020898830328.mp3",
+          "audioName": "38_6008_收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "嗯…要不还是让我再多教你几道料理吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/db8c49e3c3fba7ac05a5f9d403cd78b4_7657612816859364248.mp3",
+          "audioName": "39_6009_收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐，亲爱的队员。今天就别管什么委托了，也暂且忘掉那些冒险吧。这么重要的日子，就应该一整天都跟朋友们待在一起，吃饱喝足然后睡个好觉，你说对不对？放心，我会替你守着的。要是有什么烦人的家伙敢来打扰你，我就用我手上的这盏灯把他们都赶走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/eb507c69f5ae6fbc5c1cda2c91ef365b_3146799272475228915.mp3",
+          "audioName": "40_7001_生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "原来还有这种变强的方法，事半功倍了啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/dab1b3be79e868f8dea8f94fb3f70d01_7866250465311716222.mp3",
+          "audioName": "41_8001_突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "力量有所提升，但要用来保护大家还远远不够…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/378b20800c3c32b1558141dbad48477f_8570300716734993916.mp3",
+          "audioName": "42_8002_突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "多谢你教我，这段时间我学到了很多，对自己稍微有些信心了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/63c6ad3a55600651685866c5f2482e5b_3085243884740704496.mp3",
+          "audioName": "43_8003_突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "真是惭愧，一直在麻烦你。不过现在我已经变得足够强大了，所以接下来希望你也能多依赖我一点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/5bfac1ccb45d19e9d16c578485c88d76_5757558874131566665.mp3",
+          "audioName": "44_8004_突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "去吧，阿咚！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/87d2727ac50979770aa9dfbeb78a6321_446285601942358896.mp3",
+          "audioName": "45_100001_元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "趁现在！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/5fa26ae73ad70dd7ad285226ba7cb5d0_2018047039533883338.mp3",
+          "audioName": "46_100002_元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "交给你了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/0db735237f4d709f9028b0afb6e49d2a_644725568553373660.mp3",
+          "audioName": "47_100003_元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "瞄准好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/7ae0c6ec7a40349195645b1f72d61d7f_1769337354376209804.mp3",
+          "audioName": "48_100004_元素战技·其四_en.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "你跑不掉的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/daf4190f0d74694c2ad0161655d647e5_772098457142811103.mp3",
+          "audioName": "49_100005_元素战技·其五_en.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "机不可失。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/f3a21eb4cbe2f4c95ad82d0aabf47024_4811249765545234783.mp3",
+          "audioName": "50_100006_元素战技·其六_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "我的灯下没有阴霾！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/68b170c932da654000d0e6278623b789_4858991071579815256.mp3",
+          "audioName": "51_200001_元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "接受明光的制裁吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/a0543697ffd35e57ef81820f2f0a0dc5_3796477969723174602.mp3",
+          "audioName": "52_200002_元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "迎接黎明的曙光！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/fb784c42eb221c47838336216d8c9809_8786330737065846654.mp3",
+          "audioName": "53_200003_元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "宝藏应该交给需要它们的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/a6adaad412e180577f74a7ac143874c9_744635723664206911.mp3",
+          "audioName": "54_300001_打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "居然不是陷阱，看来是我多虑了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/6f04c43ffd934a5791bac6422b9ac839_6249909292074787914.mp3",
+          "audioName": "55_300002_打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "之前没注意到啊…得加强巡察了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/15eb6e1ae7c66448eac97c6e2d460d5d_5526522286760829457.mp3",
+          "audioName": "56_300003_打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "有种不祥的预感…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/185b2738276275884d763f7b0eaefc3d_3432186087958996214.mp3",
+          "audioName": "57_410001_生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我还是高估自己的实力了啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c6be6902fc227b83a3abda2da658e638_1428670329932162081.mp3",
+          "audioName": "58_410002_生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "现在叫增援还来得及吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/2ed3275e13df033284721202f2e78e32_6782544131256726135.mp3",
+          "audioName": "59_410003_生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别离开我的视野。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d44390195a357a85412c811257b2e4af_9160114909925314610.mp3",
+          "audioName": "60_400001_同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "该轮到我来保护你了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/8e01b7af89a929bef9765058929f154a_9092652152737559789.mp3",
+          "audioName": "61_400002_同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "要是能再努力一点的话…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/eb1ffadb3548277dae096cb0348f4a88_8687367242611370399.mp3",
+          "audioName": "62_500001_倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "至少要将情报带回去…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d7968dc8d6e5ad802f94291ec70322a4_8539936691974499109.mp3",
+          "audioName": "63_500002_倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "还是，没能保护大家…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/ee9725d754f06a72c073fd2fbe30c0fe_2902111190690244084.mp3",
+          "audioName": "64_500003_倒下·其三_en.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "可恶…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/a406b904996a40c908db405e46a6d939_341691457131774974.mp3",
+          "audioName": "65_900001_普通受击·其一_en.mp3"
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "大意了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/e707178830d6fe45d43926f58870f3fb_5600314803361720516.mp3",
+          "audioName": "66_900002_普通受击·其二_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "还能忍受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/ca1ced143adfafc713f500a54e032606_3129134825718081206.mp3",
+          "audioName": "67_910001_重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "再坚持下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/12f804e9ffb299f4564484ec32cb921b_8169592556045289667.mp3",
+          "audioName": "68_910002_重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "明白了，这也是执灯士的职责。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/9cfe4bebd770e1b1605cd66d9606d14d_2759598787495202927.mp3",
+          "audioName": "69_600001_加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "让我来替你掌灯吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/9e6ce8443b169541bd3cd945c8fcaf91_1973332049065072440.mp3",
+          "audioName": "70_600002_加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我会努力不让你失望的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/bfd57a3fcbf7193e8a92d8d6b6477891_980933067980804742.mp3",
+          "audioName": "71_600003_加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好呀，我是叶洛亚，执灯人调查分队的队长。请问是遇上什么麻烦了吗？这也是常有的事，附近的路的确不太好走。不过别担心，跟我来吧，我会帮你照亮前方的路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/f3a486a6cc176976068189a930f29809_7311590832773779815.mp3",
+          "audioName": "01_1006_初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·警惕",
+          "text": "越是平静的地方，就越有可能隐藏着危险…我也不知道这话对不对，但警惕点总没错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/7d7aa1e21d8f9eae930323f01dafa820_8261015323025963488.mp3",
+          "audioName": "02_1101_闲聊·警惕_kr.mp3"
+        },
+        {
+          "name": "闲聊·巡夜",
+          "text": "你是不是觉得冷？巡夜的时候很容易受凉，我煮碗暖汤给你喝吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/3062d4862ae7f1581ad34cf98d5250a5_7242743953238555598.mp3",
+          "audioName": "03_1102_闲聊·巡夜_kr.mp3"
+        },
+        {
+          "name": "闲聊·困难",
+          "text": "只做擅长的事情可不行，只有强迫自己去做困难的事，才能在挣扎中变强嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/80b068480391472703cb0a5fc3689717_808523024574964729.mp3",
+          "audioName": "04_1103_闲聊·困难_kr.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "太阳出来了，看来这次是光明的一方打赢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/09ab46b413e7983af5a3733922edffbe_607245649061217573.mp3",
+          "audioName": "05_1201_雨过天晴…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "老爹说这是天上的神明们在交战，我只希望他们不要殃及无辜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/402c4447edca7d9ee9ee21ebb7dfd3ae_4760828748957976789.mp3",
+          "audioName": "06_1202_打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "难得的好天气啊。要是能一直这么好，我们执灯士的工作也会轻松很多吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/08fca6b64523130cdf62d88975920a78_3289053920332487486.mp3",
+          "audioName": "07_1203_阳光很好…_kr.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "起风了，总感觉会有不好的事情发生…要不我们还是去附近的营地躲躲吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/e1c147a0b528db9e602acd0e27cb7ed0_8499317043763188374.mp3",
+          "audioName": "08_1204_刮大风了…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "夜晚过去了，看来我们又度过了平安的一天。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d5f9b89ef4f78fc6e97d48079eac8540_1739913479796090545.mp3",
+          "audioName": "09_1001_早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "阳光正好，应该趁这个时候观察一下周围有没有什么隐患…唔，不过好像有点困了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/11361159fd35d70381bc1cad1e55592d_1263051704384119371.mp3",
+          "audioName": "10_1002_中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "天黑之后说不定会有魔物出没。走夜路的话，请一定要小心谨慎。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/728ee192e21635d82ce4837e4aee441f_1235081803375365983.mp3",
+          "audioName": "11_1003_晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "嗯，时候不早了，你先休息吧。放心，今晚我会替你守夜的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/a672b052d94359f08fd13e9ea85e8ed6_8689761302959754592.mp3",
+          "audioName": "12_1004_晚安…_kr.mp3"
+        },
+        {
+          "name": "关于叶洛亚自己·执灯人",
+          "text": "加入执灯人的事，是我求了老爷子好几次才说服他同意的。比起一直待在皮拉米达城被前辈们保护，我更想要去到战场的最前方，和大家一起成为阻挡狂猎前进的力量。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c3c7d4512ff39ef4a31f2d11d6089674_5962631776762517817.mp3",
+          "audioName": "13_2001_关于叶洛亚自己·执灯人_kr.mp3"
+        },
+        {
+          "name": "关于叶洛亚自己·分队长",
+          "text": "成为分队长意味着要肩负起同僚的性命，虽然我还是时常怀疑自己是否有这样的资格…但是既然大家都选择了相信我，那我也不可以辜负大家的信任，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/649afcac138a90703e070f03f6e30cf4_7919481363675398574.mp3",
+          "audioName": "14_2005_关于叶洛亚自己·分队长_kr.mp3"
+        },
+        {
+          "name": "关于我们·职责",
+          "text": "为往来的商旅提供保护，是我们执灯人的职责…你问保护对象包不包括冒险家？嗯…虽然理论上这确实超出了我的责任范围，但我可不能允许任何人在我负责巡察的区域里受到伤害。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c4f9878250723f810aed6f55b1c83b66_8328950901685430022.mp3",
+          "audioName": "15_2003_关于我们·职责_kr.mp3"
+        },
+        {
+          "name": "关于我们·队员",
+          "text": "现在你已经算是我们调查分队的队员了，这就意味着，我必须为你的生命安全负责…听他们说你最近又去了危险的地方冒险，现在看到你平安无事，我稍微安心了一点…所以说，下次要不还是让我跟你一起去吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/b5a19bac1879db851f45ce2e1023fced_7693403158076830983.mp3",
+          "audioName": "16_2002_关于我们·队员_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "曾经有人告诉我这只是枚好看的宝石，直到终于有机会将它掂在手里，我才明白其中承载的重量。我想，命运把它交到我的手上并非偶然，我得努力配得上它。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/64c0fea93bb7268c4571193441b11305_232311088971943300.mp3",
+          "audioName": "17_3006_关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "从皮拉米达城的最高处向北眺望，可以看到至冬雪原的一角。据说那里就是我们的初代执灯长，铸灯者索洛维的家乡。失去一切而无法回到家园的人，最后在这里找到了归宿…说不定，这座城堡从一开始就是为了让我们这样的人抱团取暖而存在的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/7401e83944a4eee3e5009d233671b305_2341377139400860639.mp3",
+          "audioName": "18_3002_有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "皮拉米达城附近有许多散发着月矩力的奇妙生物，像是曼陀草、獭懒羊…可不要被它们的表象所欺骗，虽然看上去像是你们见过的动物，但它们其实是拟态成动物模样的植物…不过实话说，它们的味道还不错。不介意的话，下次可以做一份给你尝尝。嗯？你问我为什么会知道这个？巡夜的时候总会有许多不得已的情况嘛…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/4e47961d171c5ca8f7932318451cfa37_1935789437901860501.mp3",
+          "audioName": "19_3003_感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于菲林斯·拜访…",
+          "text": "刚认识菲林斯先生的时候，还以为他是不善交际或者性格乖僻才选择离群索居的呢，但没过多久，我就发现事情与我想的恰恰相反…不过每次我们聊天，他总是在故事最后加入些吊胃口的情节，我在想，这是不是因为…他其实欢迎我多去拜访呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/5092b927894226f7dfe6904a5e0332c0_2217242781705086553.mp3",
+          "audioName": "20_4001_关于菲林斯·拜访…_kr.mp3"
+        },
+        {
+          "name": "关于菲林斯·秘密…",
+          "text": "你是说菲林斯先生身上藏着许多秘密？当然，这在执灯士当中并不稀奇。我的同僚们出身各不相同，谁能没有几个不想告诉别人的秘密呢？就连老爹也很少向我提及他年轻时的往事。至于菲林斯先生嘛…最近发生了那么多事，好歹也是朋友，他的秘密我多少能猜到一点点。我试着求证过，他既没有否认，也没有承认，可能那也是一种表态。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/6a05d9c205a78279ce056acec04b5f22_8201007472571686545.mp3",
+          "audioName": "21_4002_关于菲林斯·秘密…_kr.mp3"
+        },
+        {
+          "name": "关于菈乌玛…",
+          "text": "自铸灯者的时代开始，我们与霜月之子就保持着传统的友谊。这一代的咏月使是位温柔又和善的小姐，每次拜访我都能从她那里学到很多。以如今这个世道，当咏月使不会比做执灯人轻松。她能始终保持这种态度，想必也承受了许多吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/bd9f3cac6ecefe2c6d77184056ebbc4a_3590651622478084714.mp3",
+          "audioName": "22_4003_关于菈乌玛…_kr.mp3"
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "法尔伽先生是位了不起的战士，我们曾并肩对抗过狂猎。听说西风骑士团也和我们执灯人一样，是为了守护家园而建立的组织。或许有一天，等挪德卡莱的狂猎都被消灭干净了，我们也能远赴异域，为更多生活在苦难中的人们而战。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d7c05bc53d274f36ea7f9c3c130fee61_5177135811521513646.mp3",
+          "audioName": "23_4004_关于法尔伽…_kr.mp3"
+        },
+        {
+          "name": "关于奈芙尔…",
+          "text": "多亏了秘闻馆的关照，我们在那夏镇的行动才会如此方便，以前可不是这样的。据说在奈芙尔小姐来到挪德卡莱之前，执灯士们和那些不守规矩的帮派分子经常发生冲突，老爷子还一度为此苦恼…现在真是好多了呢。不过，奈芙尔小姐也和菲林斯先生一样爱拿我寻开心，也让我有些苦恼就是了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/07bd9d454f364e9ae7618fdaebd371e2_2440705412013759980.mp3",
+          "audioName": "24_4005_关于奈芙尔…_kr.mp3"
+        },
+        {
+          "name": "关于爱诺…",
+          "text": "我们执灯人维修复杂机关，一般都会请爱诺小姐来帮忙，不过她看起来好像是真的想教会我们…自从有一次，我被她看到在自己修理机关之后，她就大吵着怎么说也要拉我去上课…嗯？你问我是怎么修的？那我当然是跟老爹学的，机关不灵，只要用力敲两下就好了，谁知道她会这么生气…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/01697a393708ba41b12b0ea9dabdb97c_668601522156595326.mp3",
+          "audioName": "25_4006_关于爱诺…_kr.mp3"
+        },
+        {
+          "name": "关于莉奈娅…",
+          "text": "像莉奈娅这样的妖精小姐，即便在鱼龙混杂的挪德卡莱也很少见。在认识之前，我原本以为她会是更加沉稳的类型。没想到第一次见面，她看到阿咚之后直接两眼放光地扑了上来…阿咚可是面对狂猎都从不退缩的信鸟，但现在每次只要一听到她的声音，就会马上躲进灯里不肯出来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/6a39d19021fb280b30bc822137a0e43b_3213900271881194367.mp3",
+          "audioName": "26_4007_关于莉奈娅…_kr.mp3"
+        },
+        {
+          "name": "关于「月神」…",
+          "text": "挪德卡莱是「人」的乐园，这条道路是由数百年来无数执灯士的血与骨所铺就的。就算如今迎来了一位新的神明，属于挪德卡莱的生存方式也不会因此而改变吧。不是不相信那位「月神」小姐…只是我觉得，比起等待别人来拯救，还是拥有能主动保护身边人的力量更安心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/a8f624b9c491cd22647b04001d721d25_7516018398085358223.mp3",
+          "audioName": "27_4008_关于「月神」…_kr.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其一",
+          "text": "想要了解我的过去？嗯…让我想想…好像没有那种说出来能让人开心的部分啊，你真的想听吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/60338764562044ec4f906c622d18b96a_3022898894709827248.mp3",
+          "audioName": "28_5001_想要了解叶洛亚·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其二",
+          "text": "阿咚是我的信鸟，每次出门巡夜的时候我都会带上它。它不仅会提醒我周围的危险，还能帮我照亮前方的路，是非常可靠的伙伴…嗯？你是说你走过这么多国家也从没见过这种会发光的鸟？等等…该不会它真的不是普通的信鸟吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/10fc814098f648c5469ea7a6995794b4_103806301569586105.mp3",
+          "audioName": "29_5002_想要了解叶洛亚·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其三",
+          "text": "如你所见，我的誓言之灯与大家的制式并不相同。这可不是因为我是分队长就有什么特殊，它是我在后勤分队的时候所用的信号灯。后来执灯人的装备更新换代，就只剩下了我手上这最后一盏…我大概是习惯了吧，每次想到要换掉它就觉得很难受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c72a55a70ca6a94513436f3da7c212f3_4310364891106385957.mp3",
+          "audioName": "30_5003_想要了解叶洛亚·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其四",
+          "text": "我的老爹尼基塔，同僚们都叫他老爷子。说是这么说，我可一点没觉得他老。各地灯塔的部署情况，他比我记得还清楚，我的事情也从来瞒不过他。不过越是这样我就越忍不住想，要是有一天他真的老了该怎么办呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/179f8506f8612b9358206e483b042070_278114639830031508.mp3",
+          "audioName": "31_5004_想要了解叶洛亚·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解叶洛亚·其五",
+          "text": "狂猎到来时，我总能听到狂风中夹杂着逝者的哀鸣。每到这个时候，就仿佛又回到了那个地狱般的战场，回到了被老爹捡回来的那一天。或许只要狂猎还没被彻底消灭，缠绕着我的梦魇就不会离去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/134b2ab0c2242b2480176b5023df308c_1302439031736051703.mp3",
+          "audioName": "32_5005_想要了解叶洛亚·其五_kr.mp3"
+        },
+        {
+          "name": "叶洛亚的爱好…",
+          "text": "你这样一说，我的闲暇时间好像也都和同僚们待在一起…最近执灯士中很流行一种叫作「桌上剧团」的游戏，我们还没凑够一起玩的人，你要不要也来参加？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d12cbef6cfb998b7a41dda90192e0c5e_6313762489947659036.mp3",
+          "audioName": "33_6001_叶洛亚的爱好…_kr.mp3"
+        },
+        {
+          "name": "叶洛亚的烦恼…",
+          "text": "无辜之人因为突如其来的灾难而莫名其妙地丢掉性命，这种事情我无法原谅。我所做的一切努力，都是为了让这样的事不再发生在其他人身上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/47f769f89db2a49bce0ca5e24f67163a_1527367437845773594.mp3",
+          "audioName": "34_6012_叶洛亚的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "食物嘛…我倒是没什么特别的偏好。在我看来，只要能和大家一起围着炉火，热热闹闹地吃上一顿，无论煮的是什么，那都是最好的美食。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/9c7bd035b786f31efc4adb80b959ed59_715331982434561748.mp3",
+          "audioName": "35_6003_喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "只要是热乎乎的食物都没问题，凉的最好不要…你想想啊，要是等到了冬天，大晚上值夜的时候吃到的饭菜还是凉的，想想都忍不住要说难听的话了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/64b15313d0f5a370a87cdf8dc6263c96_6070210989432773064.mp3",
+          "audioName": "36_6004_讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "令人惊艳的味道，能告诉我调味的秘方吗？我也想学学看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/0aae311a208d2deaff9c75e2b8c7224b_2589069383762568970.mp3",
+          "audioName": "37_6007_收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错啊，真想让同僚们也尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c39e00dc4c0c57ae172c9ef1de9d4d4f_5363946255312196117.mp3",
+          "audioName": "38_6008_收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "嗯…要不还是让我再多教你几道料理吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/14925c71fa2ceadbdf8c8f68a010f25c_7371360061258759240.mp3",
+          "audioName": "39_6009_收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐，亲爱的队员。今天就别管什么委托了，也暂且忘掉那些冒险吧。这么重要的日子，就应该一整天都跟朋友们待在一起，吃饱喝足然后睡个好觉，你说对不对？放心，我会替你守着的。要是有什么烦人的家伙敢来打扰你，我就用我手上的这盏灯把他们都赶走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/e4a25b9070b4293fcc88ba565fe5afd2_5974997475114902014.mp3",
+          "audioName": "40_7001_生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "原来还有这种变强的方法，事半功倍了啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/23ba4c2e24ffc7f794fc7cd0dc26c388_7767655340600740395.mp3",
+          "audioName": "41_8001_突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "力量有所提升，但要用来保护大家还远远不够…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/22e043bcd4b32d0c20bd840ec35fc51d_1026953132518199379.mp3",
+          "audioName": "42_8002_突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "多谢你教我，这段时间我学到了很多，对自己稍微有些信心了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/a26dde1ecee2e8932b1d480400ffcbd8_5500668182297845421.mp3",
+          "audioName": "43_8003_突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "真是惭愧，一直在麻烦你。不过现在我已经变得足够强大了，所以接下来希望你也能多依赖我一点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/18252d7b46a7ef7fb8798adb64c0eb89_1507453858815054455.mp3",
+          "audioName": "44_8004_突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "去吧，阿咚！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c3afc61efe363244c3dc4a2eea8f911e_5949139622535996136.mp3",
+          "audioName": "45_100001_元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "趁现在！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/6a88a792a64089596c0dd727550c522d_5137485902559275939.mp3",
+          "audioName": "46_100002_元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "交给你了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/e52ee4ab32dfc5b4e1dc7c7317a546b2_264026261342372464.mp3",
+          "audioName": "47_100003_元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "瞄准好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/2270406c07a30455e84137f55d19ce81_6310426052804619822.mp3",
+          "audioName": "48_100004_元素战技·其四_kr.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "你跑不掉的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/3ab706882d6313b8ca5afabe0c402572_1936099835661912750.mp3",
+          "audioName": "49_100005_元素战技·其五_kr.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "机不可失。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/55c5983252826eb184ac3f628e9c8768_5212216953846799298.mp3",
+          "audioName": "50_100006_元素战技·其六_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "我的灯下没有阴霾！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/133250612d499072d24771d659c38e2a_4724711776464517337.mp3",
+          "audioName": "51_200001_元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "接受明光的制裁吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/6a4d11024e00a2ed153cbd05c78d68c9_3317317250846334331.mp3",
+          "audioName": "52_200002_元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "迎接黎明的曙光！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/42138e19ad522876d6443b964f7d7a8f_565505881714825673.mp3",
+          "audioName": "53_200003_元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "宝藏应该交给需要它们的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/c9aa607ac16fb024ce0443479d0cc53b_1246974101100945942.mp3",
+          "audioName": "54_300001_打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "居然不是陷阱，看来是我多虑了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/74b0eda1e1832fe74324b4d152f5f5f4_769616038712985278.mp3",
+          "audioName": "55_300002_打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "之前没注意到啊…得加强巡察了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/386cba0298815f3e2e8c52e879c27a86_2904920946651351836.mp3",
+          "audioName": "56_300003_打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "有种不祥的预感…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/37f7bcd37c29aa881440e35052b87183_2728241895188381846.mp3",
+          "audioName": "57_410001_生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "我还是高估自己的实力了啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/56b4f0e9f04ff8fd0070b8e33e9e7146_6606245157234334307.mp3",
+          "audioName": "58_410002_生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "现在叫增援还来得及吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/5b22e1258fa9614ef2f3f2bf17be005b_3226854821671028164.mp3",
+          "audioName": "59_410003_生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别离开我的视野。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/7247a072eb8835f34eef1a4bfc353fff_7564570038701606665.mp3",
+          "audioName": "60_400001_同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "该轮到我来保护你了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/fbdbfa34f26112848231b371e82ce8c4_3545470328831076401.mp3",
+          "audioName": "61_400002_同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "要是能再努力一点的话…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/e5b4a14540a73634cdf1c65777d046e0_2580240210703930924.mp3",
+          "audioName": "62_500001_倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "至少要将情报带回去…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/82f36187cd8bc7e5fb5979dd5431794c_4872760833050759690.mp3",
+          "audioName": "63_500002_倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "还是，没能保护大家…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/8829a33be5f995ff4e2bb186346f9732_219906935310490665.mp3",
+          "audioName": "64_500003_倒下·其三_kr.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "可恶…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/4ad9426c691e026ee32c819a3b7f2e3c_4358966009662318297.mp3",
+          "audioName": "65_900001_普通受击·其一_kr.mp3"
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "大意了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/d1186c3e83b2405544acdaee8546d210_2872724167396110746.mp3",
+          "audioName": "66_900002_普通受击·其二_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "还能忍受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/4d2388c90b0ba96fe8363a728f293cf4_2580287684703899753.mp3",
+          "audioName": "67_910001_重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "再坚持下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/b31d930d6663a070463710d3e9d88cf9_8147945778618174455.mp3",
+          "audioName": "68_910002_重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "明白了，这也是执灯士的职责。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/6e121525984ec4aedb2d75c5d38ddeb8_3128407262565434063.mp3",
+          "audioName": "69_600001_加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "让我来替你掌灯吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/70045739edbcf68da4b6af2e4f9e7201_5969984246584835707.mp3",
+          "audioName": "70_600002_加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我会努力不让你失望的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/02/09/16576950/5791604834d9caffeeadaf4f7892e7c1_6902341305243597666.mp3",
+          "audioName": "71_600003_加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1637 @@
+{
+  "id": "505418",
+  "name": "塔利雅",
+  "alias": [
+    "塔利雅"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "初次见面，我是塔利雅，西风教会的助祭，风神巴巴托斯的传道者。如你所见，现在正闲得发慌。你最近遇到了什么麻烦事吗？要不要讲给我听听？我大概率会笑，但我更大概率会帮你解决问题哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/81e5e35ba8717192fdc2532b61b521f3_5130545731902633012.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·风的声音",
+          "text": "你听到了吗？风中的声音…好像有人被石子敲到了头？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ce377eaf4d6b17b6a7a8a345faa63e22_2543579342859971105.mp3",
+          "audioName": "02闲聊·风的声音_cn.mp3"
+        },
+        {
+          "name": "闲聊·无聊",
+          "text": "好闲，真希望能遇到哪位爱找麻烦的糊涂蛋啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/8b3838ef18afb69d721c1cde8759373e_8979174847379839982.mp3",
+          "audioName": "03闲聊·无聊_cn.mp3"
+        },
+        {
+          "name": "闲聊·热闹",
+          "text": "走，看热闹去！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9e3e9e622e6b339822e900f4765028ed_2400644319611467452.mp3",
+          "audioName": "04闲聊·热闹_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "风来雨至，这也是神谕的一种。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/cf190688c2f78ed5be3877d75903b25d_7342536387390196315.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "我听说这是某位神明传达神谕的方式…不是我要说自家神明好话…巴巴托斯温柔多了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e192800a2f17f1a4178c5875a412fb6c_5623973868168088430.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "起风了，开始祷告吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f2703084e9a39d2909c4d08eb2d91d5c_6840772842976579814.mp3",
+          "audioName": "07起风的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好啊，阁下。晨祷刚刚结束，真幸运，我的提问再次得到了风神的解答呢。当然，我也为你祈福了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ebd84f1b1c2470f3008080a4facf7cb5_756183395801131881.mp3",
+          "audioName": "08早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "午安，要不要去酒馆坐一会儿？正常人肯定不会在这个时间买醉。但正因如此，现在去酒馆的话，更有可能遇到一些有趣的人呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6bb0651c79959833c76f9d13255844db_3847998271557349091.mp3",
+          "audioName": "09中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，要不要去城墙上吹吹风？你问为什么是城墙？当然是因为视野好呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/562c7b7e7f09868c952f29b7dede9869_8663888004489721452.mp3",
+          "audioName": "10晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚风带来了神明的劝告——到休息的时间了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7a9bd401346c5a8b8ac0dec84513c390_2498946068251692712.mp3",
+          "audioName": "11晚安…_cn.mp3"
+        },
+        {
+          "name": "关于塔利雅自己·职责",
+          "text": "助祭的职责主要是辅助西风教会完成祝祷仪式，但由于某些过人的天赋，我还负责聆听神明的旨意，并传达神明的谕示。某种意义上说，我算是风神在教会的代行人。另外你可能想不到，我还是教会合唱团的领唱哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/76c6d52cb90377150cf38a7e7fea7aed_8576909879165618120.mp3",
+          "audioName": "12关于塔利雅自己·职责_cn.mp3"
+        },
+        {
+          "name": "关于塔利雅自己·神的偏爱",
+          "text": "每当蒙德人面临重大的难题，就会向风神寻求指示。而这时，维多利亚修女就会邀请我主持晨祷，因为我的提问一定会得到巴巴托斯的回答。哈哈，或许是因为我这个人很讨神明喜欢吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c224734860563800bd8161609ffdb9ff_3936670695369297222.mp3",
+          "audioName": "13关于塔利雅自己·神的偏爱_cn.mp3"
+        },
+        {
+          "name": "关于我们·事迹",
+          "text": "我听说，你无论到什么地方，都能陷入各种各样的麻烦——你看我，我不光擅长制造麻烦，也擅长解决问题哦？怎么样，我们难道不是天生的好搭子吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/099ef9fc57096db4818e8547855e936c_7250015053446334723.mp3",
+          "audioName": "14关于我们·事迹_cn.mp3"
+        },
+        {
+          "name": "关于我们·身份",
+          "text": "我有想过，骑士团的荣誉骑士和教会的助祭，某种意义上职责相通，不是么？我们的岗位看似轻松闲适，可我们经常接触人们心中最沉重的烦恼，并代表风神吹散它们——啊，多么高尚，这杯苹果酿敬我们自己！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/aabbe55c449858d894874947ff0b760b_3944869324402220427.mp3",
+          "audioName": "15关于我们·身份_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我一直以为我会获得风元素的神之眼，但结果就是如此有趣…或许在巴巴托斯眼里，我并不是需要他投下目光的迷途之人？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f39b8c33e108a65c80b7548a79ce5e0d_4792634924194524739.mp3",
+          "audioName": "16关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "你有没有想过，让祈礼牧师芭芭拉担任「偶像」，其实是一种很高明的宣传策略？或许当事人并不知情，这也不是艾莉丝女士的初衷，但它的结果整个蒙德城都喜闻乐见。人们喜欢芭芭拉，天天都有理由走入教堂。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/19f4b45f55f591512b099e1142089c08_7137068293600597579.mp3",
+          "audioName": "17有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "据说风神的子民死后都会化为蒲公英，它们从不甘心停留在自己扎根的土地，每当风起之时，便纷纷奔向天空。即便不能远行，也要把自己酿成最烈的酒，用醉意给无趣的人带来大胆的改变。啊，愿风神保佑，让我死后化为蒲公英。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/24385ca3aa7002a483f02751f23ce1dc_2505188068630945403.mp3",
+          "audioName": "18感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于温迪…",
+          "text": "温迪，我亲爱的朋友。需要请示风神的旨意时，他会主动为我解惑；而一旦遇到他不方便亲自出手的时候，我会出面摆平。嗯…总的来说，我们保持着一种非常良性的合作关系呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/aa00004cd66e08cf086e2f2edfe2544e_5477664077194788712.mp3",
+          "audioName": "19关于温迪…_cn.mp3"
+        },
+        {
+          "name": "关于琴…",
+          "text": "在西风骑士团，我最熟悉的人或许就是琴团长，大概是因为我和她都经常出现在需要处理麻烦的场合？不过，我们解决问题的思路大不一样，我从不吝于和她分享好点子，而她也一直坚持她的做法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/07d940a0f5081e447a31d5675993e667_7777437328226871033.mp3",
+          "audioName": "20关于琴…_cn.mp3"
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉是我的同事，也是我的朋友。每当我需要帮助时，她总是愿意施以援手。作为回报，我会尽量找出更多可以让她帮忙的事，然后继续邀请她帮忙。嗯？哪里奇怪？你知道的，芭芭拉总能在帮助别人的过程中收获快乐，她快乐，我们也都为她感到开心呀？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/903c68ec6c7310d2c9bdcdeb3043414d_2597167246506793804.mp3",
+          "audioName": "21关于芭芭拉…_cn.mp3"
+        },
+        {
+          "name": "关于罗莎莉亚…",
+          "text": "我和罗莎莉亚算是知根知底的好朋友，也早就习惯了她平时不在教堂。不过刚认识的时候，她非常不愿意与我分享她的秘密。后来我找到了一种总是能抓到她的办法，她才和我进行了互利的交易。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c126c40905d7b827cb06fe04625858fb_6264713492899896288.mp3",
+          "audioName": "22关于罗莎莉亚…_cn.mp3"
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "凯亚是我最要好的酒友，能偶尔为温迪提供酒馆包月畅饮服务，还要多亏他从中斡旋。不过，他也没少用这个理由鼓励我请客。好吧好吧，谁让我是深受大家信赖的巴巴托斯传道者呢。以风神的名义，让我们干杯吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/09d07213163881335e8b861773b14969_2910902773707752990.mp3",
+          "audioName": "23关于凯亚…_cn.mp3"
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "迪卢克是一位非常特别的酒馆老板，唯有他能够识破凯亚给我的话术，拒绝我的砍价。除此以外，我对这位前任骑兵队长的了解，也不比档案室记载的多多少呢。这么说来，你对他肯定了解更多吧？怎样，有兴趣去「天使的馈赠」一起聊聊么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/865c7aa3d3f100be7ff29565d8f2b572_5815396067689880969.mp3",
+          "audioName": "24关于迪卢克…_cn.mp3"
+        },
+        {
+          "name": "关于可莉…",
+          "text": "可莉呀~有一次被她撞着我用水史莱姆练习水压剑，她可开心了，说又掌握了一种让蹦蹦炸弹蹦得更高的办法。我也可开心了，记得那几天都陪她玩到很晚，试着把史莱姆和蹦蹦们送到更高的地方——直到我们把城门顶上的砖墙炸塌，被守门的劳伦斯老哥告发，从那以后琴团长就严禁我用水压剑配合蹦蹦炸弹了。呜呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/8e0a5377ef384d297e0d13e935e9b336_2426376884678813050.mp3",
+          "audioName": "25关于可莉…_cn.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其一",
+          "text": "比起呆在教堂里，我更喜欢去人群聚集的地方，人越多越好。作为教会的助祭，聆听信众的烦恼既是我的职责，也是我的爱好。但是，并非所有人都有向他人倾诉的勇气，所以我必须主动出击。长椅上的那位姑娘为什么要叹气呢？墙边的大叔又为何要眉头紧锁？人与人之间的种种，一直吸引着我啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/65134adb3ee6601a984560cc8ce51323_6929477515399334837.mp3",
+          "audioName": "26想要了解塔利雅·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其二",
+          "text": "对于我来说，帮别人处理麻烦更多是兴趣使然。很多人讨厌处理麻烦，那是因为他们没有发现其中的乐趣。想象一下，一对年轻人彼此倾慕，却因为不了解对方的想法而羞于表达心意，为此苦恼许久。你稍加安排，于是某次聆听唱诗班表演时，他们意外地发现对方就坐在身边，偷偷看向对方时视线相交，脸上浮起了红晕…欣赏这样有趣的瞬间，就是我担任助祭的动力之一啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/af3487b6f9e9f3bc0435ed5f969050da_3338806942368797549.mp3",
+          "audioName": "27想要了解塔利雅·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其三",
+          "text": "你是不是很好奇我如何获得风神的偏爱？其实也不难，只要足够了解蒙德城的酒馆，并按时邀请一位特别的客人喝酒就行。哈哈，不要这么惊讶，我确实和你一样知晓风神的秘密，并从未向他人透露过。是伟大的巴巴托斯说服了我，保留秘密才是更有趣的选择。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/de46758d862fa867ac8cba5df963b23e_6605354599314753435.mp3",
+          "audioName": "28想要了解塔利雅·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其四",
+          "text": "我很喜欢助祭这个身份，但我也必须承认身为助祭还是有烦恼的，那就是如何传达神谕。人们面临重大的问题时，巴巴托斯给出的许多指示其实相当直观、简洁。但是为了让人们心悦诚服，更迅速地采取行动，我必须让这种指示更具有「神圣感」。「归风带来了高天的甘露，风神的子民啊，可曾在土地上播撒辛劳，静候恩泽？」其实就是「抓紧播种，马上下雨」的意思，但是前者明显比后者更像是「神圣的谕示」，不是吗？所以，每次请示之后，我都要花费不少心思才发言呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/0cf9f9817299517be235253d880b6c1a_3831825669314908834.mp3",
+          "audioName": "29想要了解塔利雅·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其五",
+          "text": "偷偷告诉你，我一直想离开蒙德城，前往风也吹不到的地方，再卷进各种各样的麻烦里…就像你那样。可是，只要迷茫的人们还需要寻求风神的指引，我就无法忍心脱身吧？嗯…不如多寻找些生活中的「乐趣」作为装点吧！比如风中的音符，佳酿里的气泡…你身上的新故事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/204eb01b38c4fbc5f26966428593938b_6039441078944005961.mp3",
+          "audioName": "30想要了解塔利雅·其五_cn.mp3"
+        },
+        {
+          "name": "塔利雅的爱好…",
+          "text": "请求神明赐予我足够精彩的偶遇，哪怕它本身是麻烦也行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/84aa8638988a18c4675a325295f06b70_1248634693712467745.mp3",
+          "audioName": "31塔利雅的爱好…_cn.mp3"
+        },
+        {
+          "name": "塔利雅的烦恼…",
+          "text": "人生中的绝大部分时间，都只能重复波澜不惊的日常，唉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/00f0d9be676a961f05615304ec879c26_1662100957963974134.mp3",
+          "audioName": "32塔利雅的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "嗯…你听说过变态辣吗？味觉的顶点，不外乎如此吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ec131b90b875578f6e5c185ed7a3d77e_3456943805197561793.mp3",
+          "audioName": "33喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "面包，白粥…没有味道的果腹之物，跟树皮又有什么区别？树皮还有木香呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1e3ff2ee7365a7d041bededc4e169e3b_8410671259967245994.mp3",
+          "audioName": "34讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "感谢你的馈赠，愿风神庇佑你！品味这种料理，最好能配上新酿的蒲公英酒——要不我请客？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7640ffaa5e974bc6bd99ddca2c80d77c_903045073122017871.mp3",
+          "audioName": "35收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "感谢你的馈赠，我会在晨祷的时候为你祈福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/01b4fe6c67081fa8c953dc58d910a7d1_4976981259557088999.mp3",
+          "audioName": "36收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "不好意思，很久之前我收到过来自风神的谕示。身为西风教会的助祭，我被禁止食用这种料理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c6c1ddcaf7ce330131672df9df0c1f50_1601512565012782839.mp3",
+          "audioName": "37收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "愿沃土赐我以丰登的五谷，酿制迎客的美酒。愿归风赐我以初绽的花瓣，装点此刻的相聚。愿我等的神明赐福友人的诞辰，为他(她)降下庇佑…嗯，该吹蜡烛了吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/12ef69879f503802686cf054620f31aa_668812084656823519.mp3",
+          "audioName": "生日…cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我的虔诚得到了回馈，但我仍会继续祷告，因为神明依旧注视着我们。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b148b7749cff0cd2bf946bd201a32e23_9047492690896065049.mp3",
+          "audioName": "39突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "纯净的风拂过人群后，就带上了各种各样的气息。小孩子的懵懂，中年人的慨叹，都藏在这风中。你品味到了吗？这风中的气息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e7b52eb4d42ed40e5011d1558fbb859d_8767215398400985108.mp3",
+          "audioName": "40突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "迈出脚步，踏上你必行的路吧。门外的铃声便是神明的谕示，正在唤你动身。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/cb7eb00af9ee70c07c529aaba0924c00_8762616722030704041.mp3",
+          "audioName": "41突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "祷告完毕，听凭风引。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/475492ce1d376f2f9cde108cdffe8a73_8430647878255606521.mp3",
+          "audioName": "42突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "好玩的来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2e40233ea9b5109787fa5e824ed1a378_8182437122502034974.mp3",
+          "audioName": "43元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "再热闹些！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/13b0ff952223b144391c58fe67eea61a_1429900635262121173.mp3",
+          "audioName": "44元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "水~压~剑！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ac54b7ede1a878b8f8ec64120bdd9362_1482364973513240684.mp3",
+          "audioName": "45元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "愿神明庇佑你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9eaabc00816b1506fed9e1f4784bd6f9_5385975429187075008.mp3",
+          "audioName": "46元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "风神启示！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6ad5349170d6475b31a57ac8df6b063f_1185633209217185965.mp3",
+          "audioName": "47元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "西风，加护我身！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/94f46dd48f82224e43a88dcef77bd39c_635433247263581190.mp3",
+          "audioName": "48元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "感谢风神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/86e705773665286615014638ddf78203_2426523764609102599.mp3",
+          "audioName": "49打开风之翼·其一_cn.mp3"
+        },
+        {
+          "name": "打开风之翼·其二",
+          "text": "没掉下去就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/8ec4463d369dfba493b61e6b04c058b3_7425500331313735961.mp3",
+          "audioName": "50打开风之翼·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "神谕指示你收下这份财物，这是为了防止后来人为此陷入纷争。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/8cf1d334c0acde0179d1cfe073cadc4e_7917228264201159104.mp3",
+          "audioName": "51打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "刚刚有微风吹过，这是来自巴巴托斯的馈赠啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1e64a7ed12ff0626596470c135a1e7fb_5097452064701821034.mp3",
+          "audioName": "52打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "要不把空箱子盖好，留在这里？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/a6a5d359fc4f844dadea02d8f2025fe8_2604584944227948689.mp3",
+          "audioName": "53打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我还得出席明天的晨祷呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f761ab203e1bfcbfa61732f2611ec07b_3448059329154453339.mp3",
+          "audioName": "54生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "治疗人员在哪里？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/269c6232460de1bc5e224ba0e069c047_861496861806811085.mp3",
+          "audioName": "55生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哎呀，不该卷进来的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/67652040b9f2c170c63cf016fbbfd66c_345696207075998892.mp3",
+          "audioName": "56生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "看来战斗相当激烈啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1f744870d508a0632496b11873f6fc07_6434404243167904070.mp3",
+          "audioName": "57同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "要不让我跟对面聊一下，先停战？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/a3e7b24aee9b3f5b0ae7401789ee266b_3005674688408124602.mp3",
+          "audioName": "58同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "巴巴托斯…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4598b04232d5220a9371307c15847297_5489288217341976732.mp3",
+          "audioName": "59倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "闹得…太大了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1dd56e945aae12a67df5f700ab3669fb_2297680966031271941.mp3",
+          "audioName": "60倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "晨祷，可以不去了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f3fbc88bd3894f73a821089c78cdcfc3_7740301959205768832.mp3",
+          "audioName": "61倒下·其三_cn.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "麻烦来了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/188b43929fb4482f3603f350db8b99ab_1671023135012108868.mp3",
+          "audioName": "普通受击·其一cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "稍等一下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/34048e4711ba1819dc25ecb1112de7d9_3110424333253235021.mp3",
+          "audioName": "63重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "神谕没提到啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/a4794f7124d9a896ac8c018cb26dbbbc_8616206171317788487.mp3",
+          "audioName": "64重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "凑个热闹！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3237b720bb5ad8b6a7e417eab45eaac1_6014616162334400053.mp3",
+          "audioName": "65加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "应神谕而来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5ea387d29cee058b8cd7b8eade6c30d3_3909920608029592679.mp3",
+          "audioName": "66加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "开始祷告吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ee2302dfe96cba5672f3591d4219e65b_8709988854987665768.mp3",
+          "audioName": "67加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "初次见面，我是塔利雅，西风教会的助祭，风神巴巴托斯的传道者。如你所见，现在正闲得发慌。你最近遇到了什么麻烦事吗？要不要讲给我听听？我大概率会笑，但我更大概率会帮你解决问题哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3848ed86e24d9aa16ed7cc6abb94f424_7381785470850529139.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·风的声音",
+          "text": "你听到了吗？风中的声音…好像有人被石子敲到了头？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/36ac555995b466a2017b5170ffe5949a_4873711566743383036.mp3",
+          "audioName": "02闲聊·风的声音_jp.mp3"
+        },
+        {
+          "name": "闲聊·无聊",
+          "text": "好闲，真希望能遇到哪位爱找麻烦的糊涂蛋啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c4c7035e718d5b1c043086a470fec0d2_1168529442800455386.mp3",
+          "audioName": "03闲聊·无聊_jp.mp3"
+        },
+        {
+          "name": "闲聊·热闹",
+          "text": "走，看热闹去！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7402321611bb9fb24fa399aca7762f52_8001369746534950725.mp3",
+          "audioName": "04闲聊·热闹_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "风来雨至，这也是神谕的一种。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e4c12ad66dbf5604da69def8f0136392_6239480652081740390.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "我听说这是某位神明传达神谕的方式…不是我要说自家神明好话…巴巴托斯温柔多了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d79027b203800177982856ee1b6e277c_4570482794441556286.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "起风了，开始祷告吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/a12a328dedc991dc03e6b37571a58bf1_1349810528441966489.mp3",
+          "audioName": "07起风的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好啊，阁下。晨祷刚刚结束，真幸运，我的提问再次得到了风神的解答呢。当然，我也为你祈福了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/0b9033043098b05cf303cd5b614c5d03_1775904798543338691.mp3",
+          "audioName": "08早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "午安，要不要去酒馆坐一会儿？正常人肯定不会在这个时间买醉。但正因如此，现在去酒馆的话，更有可能遇到一些有趣的人呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3c996e14d2106ec634d0e3eb43f28ef7_7334623895626277698.mp3",
+          "audioName": "09中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，要不要去城墙上吹吹风？你问为什么是城墙？当然是因为视野好呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/0f729e7e9804c35406c83a2f26007524_7520747602695911585.mp3",
+          "audioName": "10晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚风带来了神明的劝告——到休息的时间了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/939e7fde9e6377e055fe74a8ba1632d7_5766358076948527310.mp3",
+          "audioName": "11晚安…_jp.mp3"
+        },
+        {
+          "name": "关于塔利雅自己·职责",
+          "text": "助祭的职责主要是辅助西风教会完成祝祷仪式，但由于某些过人的天赋，我还负责聆听神明的旨意，并传达神明的谕示。某种意义上说，我算是风神在教会的代行人。另外你可能想不到，我还是教会合唱团的领唱哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/80fe5f894ec9994f7b9c43b6d1302f4d_6160056759482499762.mp3",
+          "audioName": "12关于塔利雅自己·职责_jp.mp3"
+        },
+        {
+          "name": "关于塔利雅自己·神的偏爱",
+          "text": "每当蒙德人面临重大的难题，就会向风神寻求指示。而这时，维多利亚修女就会邀请我主持晨祷，因为我的提问一定会得到巴巴托斯的回答。哈哈，或许是因为我这个人很讨神明喜欢吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d5b82d0c8fe3fb3272bfb10dc18551b5_2602347697963783988.mp3",
+          "audioName": "13关于塔利雅自己·神的偏爱_jp.mp3"
+        },
+        {
+          "name": "关于我们·事迹",
+          "text": "我听说，你无论到什么地方，都能陷入各种各样的麻烦——你看我，我不光擅长制造麻烦，也擅长解决问题哦？怎么样，我们难道不是天生的好搭子吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1965ad50cb3d5ffe37598f41ddb4a222_5636480655122095372.mp3",
+          "audioName": "14关于我们·事迹_jp.mp3"
+        },
+        {
+          "name": "关于我们·身份",
+          "text": "我有想过，骑士团的荣誉骑士和教会的助祭，某种意义上职责相通，不是么？我们的岗位看似轻松闲适，可我们经常接触人们心中最沉重的烦恼，并代表风神吹散它们——啊，多么高尚，这杯苹果酿敬我们自己！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/07b747d6f70390ed800493d06f46642a_4862394568302445410.mp3",
+          "audioName": "15关于我们·身份_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我一直以为我会获得风元素的神之眼，但结果就是如此有趣…或许在巴巴托斯眼里，我并不是需要他投下目光的迷途之人？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/693055a4d02f986cf87ad7e09340b1b6_6411366932415649000.mp3",
+          "audioName": "16关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "你有没有想过，让祈礼牧师芭芭拉担任「偶像」，其实是一种很高明的宣传策略？或许当事人并不知情，这也不是艾莉丝女士的初衷，但它的结果整个蒙德城都喜闻乐见。人们喜欢芭芭拉，天天都有理由走入教堂。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1172e1b0c5ec4d810efe739dde5941e6_2903330888911790287.mp3",
+          "audioName": "17有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "据说风神的子民死后都会化为蒲公英，它们从不甘心停留在自己扎根的土地，每当风起之时，便纷纷奔向天空。即便不能远行，也要把自己酿成最烈的酒，用醉意给无趣的人带来大胆的改变。啊，愿风神保佑，让我死后化为蒲公英。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/95399c544486f287da8fdfe6f3cf679a_7046551247390885448.mp3",
+          "audioName": "18感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于温迪…",
+          "text": "温迪，我亲爱的朋友。需要请示风神的旨意时，他会主动为我解惑；而一旦遇到他不方便亲自出手的时候，我会出面摆平。嗯…总的来说，我们保持着一种非常良性的合作关系呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/0bfe2821a1735c0143e60d9429f0b100_838899460241357609.mp3",
+          "audioName": "19关于温迪…_jp.mp3"
+        },
+        {
+          "name": "关于琴…",
+          "text": "在西风骑士团，我最熟悉的人或许就是琴团长，大概是因为我和她都经常出现在需要处理麻烦的场合？不过，我们解决问题的思路大不一样，我从不吝于和她分享好点子，而她也一直坚持她的做法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/db5e7113642d0f394cd2277384323fda_8478375922580224119.mp3",
+          "audioName": "20关于琴…_jp.mp3"
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉是我的同事，也是我的朋友。每当我需要帮助时，她总是愿意施以援手。作为回报，我会尽量找出更多可以让她帮忙的事，然后继续邀请她帮忙。嗯？哪里奇怪？你知道的，芭芭拉总能在帮助别人的过程中收获快乐，她快乐，我们也都为她感到开心呀？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7a483ff6a1a00c7b99e24803cca77614_8972025889175543064.mp3",
+          "audioName": "21关于芭芭拉…_jp.mp3"
+        },
+        {
+          "name": "关于罗莎莉亚…",
+          "text": "我和罗莎莉亚算是知根知底的好朋友，也早就习惯了她平时不在教堂。不过刚认识的时候，她非常不愿意与我分享她的秘密。后来我找到了一种总是能抓到她的办法，她才和我进行了互利的交易。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e21d434f9d3153f646044b45c58c584a_2686295557517644494.mp3",
+          "audioName": "22关于罗莎莉亚…_jp.mp3"
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "凯亚是我最要好的酒友，能偶尔为温迪提供酒馆包月畅饮服务，还要多亏他从中斡旋。不过，他也没少用这个理由鼓励我请客。好吧好吧，谁让我是深受大家信赖的巴巴托斯传道者呢。以风神的名义，让我们干杯吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f50a4b403dff53542b155535d5310ee3_1226377825833969327.mp3",
+          "audioName": "23关于凯亚…_jp.mp3"
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "迪卢克是一位非常特别的酒馆老板，唯有他能够识破凯亚给我的话术，拒绝我的砍价。除此以外，我对这位前任骑兵队长的了解，也不比档案室记载的多多少呢。这么说来，你对他肯定了解更多吧？怎样，有兴趣去「天使的馈赠」一起聊聊么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/a7d29696af09724d6a222114c925e42c_7162101341516014157.mp3",
+          "audioName": "24关于迪卢克…_jp.mp3"
+        },
+        {
+          "name": "关于可莉…",
+          "text": "可莉呀~有一次被她撞着我用水史莱姆练习水压剑，她可开心了，说又掌握了一种让蹦蹦炸弹蹦得更高的办法。我也可开心了，记得那几天都陪她玩到很晚，试着把史莱姆和蹦蹦们送到更高的地方——直到我们把城门顶上的砖墙炸塌，被守门的劳伦斯老哥告发，从那以后琴团长就严禁我用水压剑配合蹦蹦炸弹了。呜呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e407a3d89b476420b3492dc4f837b311_7267583229917467892.mp3",
+          "audioName": "25关于可莉…_jp.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其一",
+          "text": "比起呆在教堂里，我更喜欢去人群聚集的地方，人越多越好。作为教会的助祭，聆听信众的烦恼既是我的职责，也是我的爱好。但是，并非所有人都有向他人倾诉的勇气，所以我必须主动出击。长椅上的那位姑娘为什么要叹气呢？墙边的大叔又为何要眉头紧锁？人与人之间的种种，一直吸引着我啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f924d2dacc08f39649aa01bc10179bbf_2437071403508948873.mp3",
+          "audioName": "26想要了解塔利雅·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其二",
+          "text": "对于我来说，帮别人处理麻烦更多是兴趣使然。很多人讨厌处理麻烦，那是因为他们没有发现其中的乐趣。想象一下，一对年轻人彼此倾慕，却因为不了解对方的想法而羞于表达心意，为此苦恼许久。你稍加安排，于是某次聆听唱诗班表演时，他们意外地发现对方就坐在身边，偷偷看向对方时视线相交，脸上浮起了红晕…欣赏这样有趣的瞬间，就是我担任助祭的动力之一啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/cd72a10b94e2154e2b47853e7616f28d_3438996885463217944.mp3",
+          "audioName": "27想要了解塔利雅·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其三",
+          "text": "你是不是很好奇我如何获得风神的偏爱？其实也不难，只要足够了解蒙德城的酒馆，并按时邀请一位特别的客人喝酒就行。哈哈，不要这么惊讶，我确实和你一样知晓风神的秘密，并从未向他人透露过。是伟大的巴巴托斯说服了我，保留秘密才是更有趣的选择。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/65d6e665219d5efd1b30e87ed2d4e58d_7273562519774592442.mp3",
+          "audioName": "28想要了解塔利雅·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其四",
+          "text": "我很喜欢助祭这个身份，但我也必须承认身为助祭还是有烦恼的，那就是如何传达神谕。人们面临重大的问题时，巴巴托斯给出的许多指示其实相当直观、简洁。但是为了让人们心悦诚服，更迅速地采取行动，我必须让这种指示更具有「神圣感」。「归风带来了高天的甘露，风神的子民啊，可曾在土地上播撒辛劳，静候恩泽？」其实就是「抓紧播种，马上下雨」的意思，但是前者明显比后者更像是「神圣的谕示」，不是吗？所以，每次请示之后，我都要花费不少心思才发言呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b02ad625049d7e89f445c435bf648c09_2408857567631651966.mp3",
+          "audioName": "29想要了解塔利雅·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其五",
+          "text": "偷偷告诉你，我一直想离开蒙德城，前往风也吹不到的地方，再卷进各种各样的麻烦里…就像你那样。可是，只要迷茫的人们还需要寻求风神的指引，我就无法忍心脱身吧？嗯…不如多寻找些生活中的「乐趣」作为装点吧！比如风中的音符，佳酿里的气泡…你身上的新故事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c198f0c7117b80aed6f6b689e5a65d1a_7336317011147997697.mp3",
+          "audioName": "30想要了解塔利雅·其五_jp.mp3"
+        },
+        {
+          "name": "塔利雅的爱好…",
+          "text": "请求神明赐予我足够精彩的偶遇，哪怕它本身是麻烦也行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/40688d791a468917ab0b29213a939bde_6603520213339605368.mp3",
+          "audioName": "31塔利雅的爱好…_jp.mp3"
+        },
+        {
+          "name": "塔利雅的烦恼…",
+          "text": "人生中的绝大部分时间，都只能重复波澜不惊的日常，唉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/26626f41ca1d44ed8034e2ad546436ba_8176385406902734202.mp3",
+          "audioName": "32塔利雅的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "嗯…你听说过变态辣吗？味觉的顶点，不外乎如此吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4234af476560865f994c7339e9f659a0_1872076092156358682.mp3",
+          "audioName": "33喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "面包，白粥…没有味道的果腹之物，跟树皮又有什么区别？树皮还有木香呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d8391bb95ece0581b7838ab63323e158_4806959718729117029.mp3",
+          "audioName": "34讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "感谢你的馈赠，愿风神庇佑你！品味这种料理，最好能配上新酿的蒲公英酒——要不我请客？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c14bb651a4689f4b8b38744e56d2f81c_1722160840319727857.mp3",
+          "audioName": "35收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "感谢你的馈赠，我会在晨祷的时候为你祈福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ce1efee0311a44af2e9ebaffa5f64523_1302785065461011422.mp3",
+          "audioName": "36收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "不好意思，很久之前我收到过来自风神的谕示。身为西风教会的助祭，我被禁止食用这种料理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ff81ec8279ebfe09e47ea932c94edb52_2244830112613198730.mp3",
+          "audioName": "37收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "愿沃土赐我以丰登的五谷，酿制迎客的美酒。愿归风赐我以初绽的花瓣，装点此刻的相聚。愿我等的神明赐福友人的诞辰，为他(她)降下庇佑…嗯，该吹蜡烛了吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/2dc70ea27e0350e70e6e7372792c64d8_170354831631306004.mp3",
+          "audioName": "生日…jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我的虔诚得到了回馈，但我仍会继续祷告，因为神明依旧注视着我们。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6966bf8c9bc3ec80f38427f5897e8af8_8297499034356654668.mp3",
+          "audioName": "39突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "纯净的风拂过人群后，就带上了各种各样的气息。小孩子的懵懂，中年人的慨叹，都藏在这风中。你品味到了吗？这风中的气息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/94a21255936a2f7d9ee43ae77172ebf2_7600511120400583248.mp3",
+          "audioName": "40突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "迈出脚步，踏上你必行的路吧。门外的铃声便是神明的谕示，正在唤你动身。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ba07bc927a0d107507eb026dbe15b3ae_1848543984276867426.mp3",
+          "audioName": "41突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "祷告完毕，听凭风引。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b60f0bef0f13b0f94aaa3329c3430741_4385284477497312278.mp3",
+          "audioName": "42突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "好玩的来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e4eb95dbb5c8e399fef4b7d490769454_7619380763991102339.mp3",
+          "audioName": "43元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "再热闹些！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6e6c6370b2a3ab434f87e0f98b7a6d3b_6078992870584894945.mp3",
+          "audioName": "44元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "水~压~剑！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5fc56c7db041a4a535b917f20fdec540_4769304894723084621.mp3",
+          "audioName": "45元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "愿神明庇佑你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3bd2244e3ea1d46994f555290f8e4cd5_6211685391727322874.mp3",
+          "audioName": "46元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "风神启示！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e6ec53079b7a8869047b2b82e9857ab0_876769760448049245.mp3",
+          "audioName": "47元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "西风，加护我身！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/0d537512fa52ede4c628314ab299472b_7356912652002854239.mp3",
+          "audioName": "48元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "感谢风神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f8de28cf22d6e122b4ce00e8add42af2_2579427091478046083.mp3",
+          "audioName": "49打开风之翼·其一_jp.mp3"
+        },
+        {
+          "name": "打开风之翼·其二",
+          "text": "没掉下去就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d716b5e5d9e0acaf83effd2b461baefd_1870762063846207006.mp3",
+          "audioName": "50打开风之翼·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "神谕指示你收下这份财物，这是为了防止后来人为此陷入纷争。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d445dd53ffb0bd5db52ca58a990d9f32_169453815011872356.mp3",
+          "audioName": "51打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "刚刚有微风吹过，这是来自巴巴托斯的馈赠啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/8b9937a261d58331c7eac2a03eb31bd2_4105387898576692278.mp3",
+          "audioName": "52打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "要不把空箱子盖好，留在这里？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9ebe82c13cb83396d15387a5a772dec9_7444907590791882915.mp3",
+          "audioName": "53打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我还得出席明天的晨祷呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d31f27e45cd9e0a972a4e68fe565c79d_2223609223324124259.mp3",
+          "audioName": "54生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "治疗人员在哪里？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/fcf136445264d43fbc1e200d06a3a2de_4488206872985821602.mp3",
+          "audioName": "55生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哎呀，不该卷进来的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2c7344492341da6cfd504db786e1b6be_4873285569485592721.mp3",
+          "audioName": "56生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "看来战斗相当激烈啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e186bf0480734321b7a5c12babfc2c21_5934867970541613944.mp3",
+          "audioName": "57同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "要不让我跟对面聊一下，先停战？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/df0500504e1f7c30cc4023a3930ec219_2209186059614797857.mp3",
+          "audioName": "58同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "巴巴托斯…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5be830fb1e2406d393a8df01b5a2dc00_9016596232027364973.mp3",
+          "audioName": "59倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "闹得…太大了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e6303f787ed82517fe929aadc67ff117_9189101472035550247.mp3",
+          "audioName": "60倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "晨祷，可以不去了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b97b90eef3d352f2674d75e86a98295d_6012891505164221541.mp3",
+          "audioName": "61倒下·其三_jp.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "麻烦来了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/653fc521db31c871495784f9421054f0_8289776817831964291.mp3",
+          "audioName": "普通受击·其一jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "稍等一下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f5e5e78bd216dd74e2dfc77d8c5482fc_5831985670450326358.mp3",
+          "audioName": "63重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "神谕没提到啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e740da7f3b9f7f0cebcf07117e69324b_7836938600585495951.mp3",
+          "audioName": "64重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "凑个热闹！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3fcabf033623e8be5ca86f3a6c35e68b_8558601644871629317.mp3",
+          "audioName": "65加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "应神谕而来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/79f8463e64e5af09bc9161c732738575_1721657497957235267.mp3",
+          "audioName": "66加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "开始祷告吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/92aa4af141c519589091493d1376f6e0_3491029489059481749.mp3",
+          "audioName": "67加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "初次见面，我是塔利雅，西风教会的助祭，风神巴巴托斯的传道者。如你所见，现在正闲得发慌。你最近遇到了什么麻烦事吗？要不要讲给我听听？我大概率会笑，但我更大概率会帮你解决问题哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/01484d7fdde24621ee327a206ee8c4ce_8061457794029302222.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·风的声音",
+          "text": "你听到了吗？风中的声音…好像有人被石子敲到了头？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7c2d873b521ef74bea8c4dd8978de1fa_5599155620799933035.mp3",
+          "audioName": "02闲聊·风的声音_en.mp3"
+        },
+        {
+          "name": "闲聊·无聊",
+          "text": "好闲，真希望能遇到哪位爱找麻烦的糊涂蛋啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f27c0789a3ee66a27cf6aef2bd3d4a70_8420319460675634683.mp3",
+          "audioName": "03闲聊·无聊_en.mp3"
+        },
+        {
+          "name": "闲聊·热闹",
+          "text": "走，看热闹去！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f9518aee03a2336b11a3eec6342cdb4d_4255871860537972740.mp3",
+          "audioName": "04闲聊·热闹_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "风来雨至，这也是神谕的一种。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/10e416a6dbb0e9b16af67827b6a1f18f_3653766596652739889.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "我听说这是某位神明传达神谕的方式…不是我要说自家神明好话…巴巴托斯温柔多了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e5185563b2982a49aff4fc448d6c186d_6316387435828141983.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "起风了，开始祷告吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9eb3a495a890201b3aa0f023c996d0cf_8425803182439521768.mp3",
+          "audioName": "07起风的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好啊，阁下。晨祷刚刚结束，真幸运，我的提问再次得到了风神的解答呢。当然，我也为你祈福了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/89e6b75aadf2cd6d1152321f55fd0216_7173825117927689360.mp3",
+          "audioName": "08早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "午安，要不要去酒馆坐一会儿？正常人肯定不会在这个时间买醉。但正因如此，现在去酒馆的话，更有可能遇到一些有趣的人呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b93e7244e3e2a397ffa61b7a3b5b2ba6_1032475882089452741.mp3",
+          "audioName": "09中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，要不要去城墙上吹吹风？你问为什么是城墙？当然是因为视野好呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2ece65df07acdad2797c810105c202b2_584996064684335503.mp3",
+          "audioName": "10晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚风带来了神明的劝告——到休息的时间了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/a57153034cf4e832b2a48cf5dc5b66f6_5937600900664451913.mp3",
+          "audioName": "11晚安…_en.mp3"
+        },
+        {
+          "name": "关于塔利雅自己·职责",
+          "text": "助祭的职责主要是辅助西风教会完成祝祷仪式，但由于某些过人的天赋，我还负责聆听神明的旨意，并传达神明的谕示。某种意义上说，我算是风神在教会的代行人。另外你可能想不到，我还是教会合唱团的领唱哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2a3dc62d0458b43bec91025156971d73_3577636529079973228.mp3",
+          "audioName": "12关于塔利雅自己·职责_en.mp3"
+        },
+        {
+          "name": "关于塔利雅自己·神的偏爱",
+          "text": "每当蒙德人面临重大的难题，就会向风神寻求指示。而这时，维多利亚修女就会邀请我主持晨祷，因为我的提问一定会得到巴巴托斯的回答。哈哈，或许是因为我这个人很讨神明喜欢吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/fbcf24d0576e0a75ea660d3129260181_5259288110453281968.mp3",
+          "audioName": "13关于塔利雅自己·神的偏爱_en.mp3"
+        },
+        {
+          "name": "关于我们·事迹",
+          "text": "我听说，你无论到什么地方，都能陷入各种各样的麻烦——你看我，我不光擅长制造麻烦，也擅长解决问题哦？怎么样，我们难道不是天生的好搭子吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3fc8b5a08180d220d4078acf2639333f_5006511597413421428.mp3",
+          "audioName": "14关于我们·事迹_en.mp3"
+        },
+        {
+          "name": "关于我们·身份",
+          "text": "我有想过，骑士团的荣誉骑士和教会的助祭，某种意义上职责相通，不是么？我们的岗位看似轻松闲适，可我们经常接触人们心中最沉重的烦恼，并代表风神吹散它们——啊，多么高尚，这杯苹果酿敬我们自己！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1ef703e41ec14cc7525835dc88026485_8179415109922118514.mp3",
+          "audioName": "15关于我们·身份_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我一直以为我会获得风元素的神之眼，但结果就是如此有趣…或许在巴巴托斯眼里，我并不是需要他投下目光的迷途之人？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b13fd3d8edfe1dbe03c6b3b4e7c68a49_3430501271715929377.mp3",
+          "audioName": "16关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "你有没有想过，让祈礼牧师芭芭拉担任「偶像」，其实是一种很高明的宣传策略？或许当事人并不知情，这也不是艾莉丝女士的初衷，但它的结果整个蒙德城都喜闻乐见。人们喜欢芭芭拉，天天都有理由走入教堂。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/a9f494637324366f84ddd2100faeae1b_5342557064733872094.mp3",
+          "audioName": "17有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "据说风神的子民死后都会化为蒲公英，它们从不甘心停留在自己扎根的土地，每当风起之时，便纷纷奔向天空。即便不能远行，也要把自己酿成最烈的酒，用醉意给无趣的人带来大胆的改变。啊，愿风神保佑，让我死后化为蒲公英。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/82e84ebef4994d73306e4af65708a6f5_1589400357484591029.mp3",
+          "audioName": "18感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于温迪…",
+          "text": "温迪，我亲爱的朋友。需要请示风神的旨意时，他会主动为我解惑；而一旦遇到他不方便亲自出手的时候，我会出面摆平。嗯…总的来说，我们保持着一种非常良性的合作关系呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/aaa5f933ecaf3bfa6acd4d8e1fb3a2cb_8828384235922456048.mp3",
+          "audioName": "19关于温迪…_en.mp3"
+        },
+        {
+          "name": "关于琴…",
+          "text": "在西风骑士团，我最熟悉的人或许就是琴团长，大概是因为我和她都经常出现在需要处理麻烦的场合？不过，我们解决问题的思路大不一样，我从不吝于和她分享好点子，而她也一直坚持她的做法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ee157338295e91e104656ef162ae339b_2117281603060565501.mp3",
+          "audioName": "20关于琴…_en.mp3"
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉是我的同事，也是我的朋友。每当我需要帮助时，她总是愿意施以援手。作为回报，我会尽量找出更多可以让她帮忙的事，然后继续邀请她帮忙。嗯？哪里奇怪？你知道的，芭芭拉总能在帮助别人的过程中收获快乐，她快乐，我们也都为她感到开心呀？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9a3936f1396dd61d2e8db7fc4ca1e597_1768852640551142876.mp3",
+          "audioName": "21关于芭芭拉…_en.mp3"
+        },
+        {
+          "name": "关于罗莎莉亚…",
+          "text": "我和罗莎莉亚算是知根知底的好朋友，也早就习惯了她平时不在教堂。不过刚认识的时候，她非常不愿意与我分享她的秘密。后来我找到了一种总是能抓到她的办法，她才和我进行了互利的交易。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9b9428697f1140356635d360198a1a0b_1960107032885583320.mp3",
+          "audioName": "22关于罗莎莉亚…_en.mp3"
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "凯亚是我最要好的酒友，能偶尔为温迪提供酒馆包月畅饮服务，还要多亏他从中斡旋。不过，他也没少用这个理由鼓励我请客。好吧好吧，谁让我是深受大家信赖的巴巴托斯传道者呢。以风神的名义，让我们干杯吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/003c89f2aafae830dce120a22385ced4_729083996796479304.mp3",
+          "audioName": "23关于凯亚…_en.mp3"
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "迪卢克是一位非常特别的酒馆老板，唯有他能够识破凯亚给我的话术，拒绝我的砍价。除此以外，我对这位前任骑兵队长的了解，也不比档案室记载的多多少呢。这么说来，你对他肯定了解更多吧？怎样，有兴趣去「天使的馈赠」一起聊聊么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9105139815596c1ea93b20c10ce0b79c_8337975646047021071.mp3",
+          "audioName": "24关于迪卢克…_en.mp3"
+        },
+        {
+          "name": "关于可莉…",
+          "text": "可莉呀~有一次被她撞着我用水史莱姆练习水压剑，她可开心了，说又掌握了一种让蹦蹦炸弹蹦得更高的办法。我也可开心了，记得那几天都陪她玩到很晚，试着把史莱姆和蹦蹦们送到更高的地方——直到我们把城门顶上的砖墙炸塌，被守门的劳伦斯老哥告发，从那以后琴团长就严禁我用水压剑配合蹦蹦炸弹了。呜呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7ed8d0be0cc4b54277b1fc67e5cb6470_8632646742929527316.mp3",
+          "audioName": "25关于可莉…_en.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其一",
+          "text": "比起呆在教堂里，我更喜欢去人群聚集的地方，人越多越好。作为教会的助祭，聆听信众的烦恼既是我的职责，也是我的爱好。但是，并非所有人都有向他人倾诉的勇气，所以我必须主动出击。长椅上的那位姑娘为什么要叹气呢？墙边的大叔又为何要眉头紧锁？人与人之间的种种，一直吸引着我啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3f29a3ccffcb5efb398fe75320ecf6f8_6088899643767103267.mp3",
+          "audioName": "26想要了解塔利雅·其一_en.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其二",
+          "text": "对于我来说，帮别人处理麻烦更多是兴趣使然。很多人讨厌处理麻烦，那是因为他们没有发现其中的乐趣。想象一下，一对年轻人彼此倾慕，却因为不了解对方的想法而羞于表达心意，为此苦恼许久。你稍加安排，于是某次聆听唱诗班表演时，他们意外地发现对方就坐在身边，偷偷看向对方时视线相交，脸上浮起了红晕…欣赏这样有趣的瞬间，就是我担任助祭的动力之一啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/b5b9f412e31e4e1754004c5a52b18b27_6557794669503210482.mp3",
+          "audioName": "27想要了解塔利雅·其二_en.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其三",
+          "text": "你是不是很好奇我如何获得风神的偏爱？其实也不难，只要足够了解蒙德城的酒馆，并按时邀请一位特别的客人喝酒就行。哈哈，不要这么惊讶，我确实和你一样知晓风神的秘密，并从未向他人透露过。是伟大的巴巴托斯说服了我，保留秘密才是更有趣的选择。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6564fa60d2fa876dbbd93be9432bbf1a_4584616145979012058.mp3",
+          "audioName": "28想要了解塔利雅·其三_en.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其四",
+          "text": "我很喜欢助祭这个身份，但我也必须承认身为助祭还是有烦恼的，那就是如何传达神谕。人们面临重大的问题时，巴巴托斯给出的许多指示其实相当直观、简洁。但是为了让人们心悦诚服，更迅速地采取行动，我必须让这种指示更具有「神圣感」。「归风带来了高天的甘露，风神的子民啊，可曾在土地上播撒辛劳，静候恩泽？」其实就是「抓紧播种，马上下雨」的意思，但是前者明显比后者更像是「神圣的谕示」，不是吗？所以，每次请示之后，我都要花费不少心思才发言呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/224e3c92a0f66be0e7f253486941dcf1_4910643296207550505.mp3",
+          "audioName": "29想要了解塔利雅·其四_en.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其五",
+          "text": "偷偷告诉你，我一直想离开蒙德城，前往风也吹不到的地方，再卷进各种各样的麻烦里…就像你那样。可是，只要迷茫的人们还需要寻求风神的指引，我就无法忍心脱身吧？嗯…不如多寻找些生活中的「乐趣」作为装点吧！比如风中的音符，佳酿里的气泡…你身上的新故事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/4f5dd119a33a4d52c87334ca17d907f6_611936803024224112.mp3",
+          "audioName": "30想要了解塔利雅·其五_en.mp3"
+        },
+        {
+          "name": "塔利雅的爱好…",
+          "text": "请求神明赐予我足够精彩的偶遇，哪怕它本身是麻烦也行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ac825596bf35e6e9efe6713a9b2549b5_2022987293961868578.mp3",
+          "audioName": "31塔利雅的爱好…_en.mp3"
+        },
+        {
+          "name": "塔利雅的烦恼…",
+          "text": "人生中的绝大部分时间，都只能重复波澜不惊的日常，唉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6a4415ef0031f247556d954e097c15b8_7008478524046352164.mp3",
+          "audioName": "32塔利雅的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "嗯…你听说过变态辣吗？味觉的顶点，不外乎如此吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/76bb600c69bd2b5abb7feda606ff824f_22441358988056410.mp3",
+          "audioName": "33喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "面包，白粥…没有味道的果腹之物，跟树皮又有什么区别？树皮还有木香呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ad97fc8df4b6e82f790bd5a22b3ac910_247152030839815446.mp3",
+          "audioName": "34讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "感谢你的馈赠，愿风神庇佑你！品味这种料理，最好能配上新酿的蒲公英酒——要不我请客？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d6e93afc7b5db3b94fdcc2e9d1dcc3d3_5860147525750895819.mp3",
+          "audioName": "35收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "感谢你的馈赠，我会在晨祷的时候为你祈福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/825dc81957819bd047c5db1caa44af72_212919556164326483.mp3",
+          "audioName": "36收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "不好意思，很久之前我收到过来自风神的谕示。身为西风教会的助祭，我被禁止食用这种料理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3a5835724134448ce257e92fd435fe14_7669418785770997884.mp3",
+          "audioName": "37收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "愿沃土赐我以丰登的五谷，酿制迎客的美酒。愿归风赐我以初绽的花瓣，装点此刻的相聚。愿我等的神明赐福友人的诞辰，为他(她)降下庇佑…嗯，该吹蜡烛了吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/cd475fa7e5f8a5a03bfa9cfff2463f92_5809369753357268128.mp3",
+          "audioName": "生日…en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我的虔诚得到了回馈，但我仍会继续祷告，因为神明依旧注视着我们。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/3647e1a564cb226b321a204698b5cbe4_4727966418944272568.mp3",
+          "audioName": "39突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "纯净的风拂过人群后，就带上了各种各样的气息。小孩子的懵懂，中年人的慨叹，都藏在这风中。你品味到了吗？这风中的气息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2e607b9744586f22a3493eb990f319b5_9203001293658352174.mp3",
+          "audioName": "40突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "迈出脚步，踏上你必行的路吧。门外的铃声便是神明的谕示，正在唤你动身。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f1d7dc1cc2b00fe1dc746fda691d5a62_5850497739284446338.mp3",
+          "audioName": "41突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "祷告完毕，听凭风引。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/f8a1817daabe8271323d924627451bac_8537517744887365960.mp3",
+          "audioName": "42突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "好玩的来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/df1d717a8f06049623dca6ce8b2689f9_7546599465561374559.mp3",
+          "audioName": "43元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "再热闹些！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ee50cb805a3d0f5c5b49d3546f14ec41_5390375896900789920.mp3",
+          "audioName": "44元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "水~压~剑！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/ca4fef08d17297b806ca516209c1eef1_2910322072486036326.mp3",
+          "audioName": "45元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "愿神明庇佑你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/7cf31573b8f0bed5e66284e9c903fc60_2996349478287424380.mp3",
+          "audioName": "46元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "风神启示！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/0685ee2345dbe67977d55e4d28ac09e6_4290532126647627566.mp3",
+          "audioName": "47元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "西风，加护我身！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/d8627f5b0454b329aeb0e20ed752adf0_342388621522496894.mp3",
+          "audioName": "48元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "感谢风神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/96f02673e90e68f1896ae4315450ff7e_8963140995010333587.mp3",
+          "audioName": "49打开风之翼·其一_en.mp3"
+        },
+        {
+          "name": "打开风之翼·其二",
+          "text": "没掉下去就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/1d0b9df6a41bda5af841bd4a3486fa1a_8784480226815547506.mp3",
+          "audioName": "50打开风之翼·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "神谕指示你收下这份财物，这是为了防止后来人为此陷入纷争。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/9b224e4d78616bf77ac02908163652e2_4963771522207076252.mp3",
+          "audioName": "51打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "刚刚有微风吹过，这是来自巴巴托斯的馈赠啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6bb68e6078e5bff178c5feaa60e79217_5952844106287621430.mp3",
+          "audioName": "52打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "要不把空箱子盖好，留在这里？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/33d17979601829db9e40ee7072c932e1_4428827529585645841.mp3",
+          "audioName": "53打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我还得出席明天的晨祷呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/18750a08c17576ee63d6984fbe9d4fc5_8376454992917270762.mp3",
+          "audioName": "54生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "治疗人员在哪里？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/49c863bb70794130f85d0d0f51720395_1603712484249993067.mp3",
+          "audioName": "55生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哎呀，不该卷进来的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/c4f3b8b6cf85faa29fcb14b98808c25b_3237628093208364977.mp3",
+          "audioName": "56生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "看来战斗相当激烈啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/6a18ff92f0f84f594a75a8408db79acd_8042209540516531661.mp3",
+          "audioName": "57同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "要不让我跟对面聊一下，先停战？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/210f89bde92e7cc37813795358bc4280_3624707136059909533.mp3",
+          "audioName": "58同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "巴巴托斯…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/e0a9ffcdb9b603ddf6767f47d27b8511_5903466857129940233.mp3",
+          "audioName": "59倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "闹得…太大了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2a5b35b4974256bda4ec8e14d0879de2_5770670128896787842.mp3",
+          "audioName": "60倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "晨祷，可以不去了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/2d4e4a2d008492164f63eb7b92bc2731_5077918916169285666.mp3",
+          "audioName": "61倒下·其三_en.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "麻烦来了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/234798480f1faa73e83b3dfe596b184b_6077886280208356665.mp3",
+          "audioName": "普通受击·其一en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "稍等一下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/a62e222c630fed04df2a5975249a8a75_1035273990429127381.mp3",
+          "audioName": "63重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "神谕没提到啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/582b9699637b034589344fcb3b723acd_5590033614123148518.mp3",
+          "audioName": "64重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "凑个热闹！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/51d814575a466cdfb1f6463be6ceb7ca_3572418994706975815.mp3",
+          "audioName": "65加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "应神谕而来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/83389c89c08896bb84628f8b20fd3317_1480057176135426493.mp3",
+          "audioName": "66加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "开始祷告吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/22/16576950/5c101cd69e0a97a2f0c7e5e9d42ddc20_2659782103671060058.mp3",
+          "audioName": "67加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "初次见面，我是塔利雅，西风教会的助祭，风神巴巴托斯的传道者。如你所见，现在正闲得发慌。你最近遇到了什么麻烦事吗？要不要讲给我听听？我大概率会笑，但我更大概率会帮你解决问题哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/49afa404a6d0c1047be54bb369045e01_5970050349118211588.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·风的声音",
+          "text": "你听到了吗？风中的声音…好像有人被石子敲到了头？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/fdb2ce46c8a28e0fbe201576177fa00d_6674622375152717383.mp3",
+          "audioName": "02闲聊·风的声音_kr.mp3"
+        },
+        {
+          "name": "闲聊·无聊",
+          "text": "好闲，真希望能遇到哪位爱找麻烦的糊涂蛋啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/e75a9d320bf5c83a3aaebfb1e6526d2e_2170085091463000805.mp3",
+          "audioName": "03闲聊·无聊_kr.mp3"
+        },
+        {
+          "name": "闲聊·热闹",
+          "text": "走，看热闹去！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/6b13631ee23adc32dbce2cbb8bf2f10d_1827816640102048463.mp3",
+          "audioName": "04闲聊·热闹_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "风来雨至，这也是神谕的一种。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/695546b4563bf4fcb4525a8267fa73db_713844884851985071.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "我听说这是某位神明传达神谕的方式…不是我要说自家神明好话…巴巴托斯温柔多了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/52447d5522793cd317501718b17e115f_8863965204466077598.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "起风了，开始祷告吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/21805e45145a0c5b579ec80549cf3fc5_1344246069620228188.mp3",
+          "audioName": "07起风的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好啊，阁下。晨祷刚刚结束，真幸运，我的提问再次得到了风神的解答呢。当然，我也为你祈福了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/6d1e5929b045f745d614186e9c02a801_8701512639142599670.mp3",
+          "audioName": "08早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "午安，要不要去酒馆坐一会儿？正常人肯定不会在这个时间买醉。但正因如此，现在去酒馆的话，更有可能遇到一些有趣的人呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/9a0318b7c255609df942c00a9509af49_8761783836207040508.mp3",
+          "audioName": "09中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，要不要去城墙上吹吹风？你问为什么是城墙？当然是因为视野好呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/0f77e9f852f1491c6f0f091ed7825c94_644728325324404403.mp3",
+          "audioName": "10晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚风带来了神明的劝告——到休息的时间了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/b70f6440a688e9d6d89bf1bee9970dfd_8069437067935979457.mp3",
+          "audioName": "11晚安…_kr.mp3"
+        },
+        {
+          "name": "关于塔利雅自己·职责",
+          "text": "助祭的职责主要是辅助西风教会完成祝祷仪式，但由于某些过人的天赋，我还负责聆听神明的旨意，并传达神明的谕示。某种意义上说，我算是风神在教会的代行人。另外你可能想不到，我还是教会合唱团的领唱哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/e46ac5da242a51d7aefba1bc0cfb111d_5751753669721448260.mp3",
+          "audioName": "12关于塔利雅自己·职责_kr.mp3"
+        },
+        {
+          "name": "关于塔利雅自己·神的偏爱",
+          "text": "每当蒙德人面临重大的难题，就会向风神寻求指示。而这时，维多利亚修女就会邀请我主持晨祷，因为我的提问一定会得到巴巴托斯的回答。哈哈，或许是因为我这个人很讨神明喜欢吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/f3c0bb49d87f2c6845702cb6083c56c3_524411419313426480.mp3",
+          "audioName": "13关于塔利雅自己·神的偏爱_kr.mp3"
+        },
+        {
+          "name": "关于我们·事迹",
+          "text": "我听说，你无论到什么地方，都能陷入各种各样的麻烦——你看我，我不光擅长制造麻烦，也擅长解决问题哦？怎么样，我们难道不是天生的好搭子吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/eddf6a7d6d5ec89ddcb85f0e5d707a49_731837784387694509.mp3",
+          "audioName": "14关于我们·事迹_kr.mp3"
+        },
+        {
+          "name": "关于我们·身份",
+          "text": "我有想过，骑士团的荣誉骑士和教会的助祭，某种意义上职责相通，不是么？我们的岗位看似轻松闲适，可我们经常接触人们心中最沉重的烦恼，并代表风神吹散它们——啊，多么高尚，这杯苹果酿敬我们自己！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/f36c24f7ce1fe52ec706b343534073a4_53870005447910610.mp3",
+          "audioName": "15关于我们·身份_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我一直以为我会获得风元素的神之眼，但结果就是如此有趣…或许在巴巴托斯眼里，我并不是需要他投下目光的迷途之人？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/d0cf2534086ef0c6e807fdef70362d4a_5270815070124267539.mp3",
+          "audioName": "16关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "你有没有想过，让祈礼牧师芭芭拉担任「偶像」，其实是一种很高明的宣传策略？或许当事人并不知情，这也不是艾莉丝女士的初衷，但它的结果整个蒙德城都喜闻乐见。人们喜欢芭芭拉，天天都有理由走入教堂。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/59f70a56baf7e7206f0ba299e9356863_3149066607995470963.mp3",
+          "audioName": "17有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "据说风神的子民死后都会化为蒲公英，它们从不甘心停留在自己扎根的土地，每当风起之时，便纷纷奔向天空。即便不能远行，也要把自己酿成最烈的酒，用醉意给无趣的人带来大胆的改变。啊，愿风神保佑，让我死后化为蒲公英。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/f0bff1c558527bcd20d3e43722b361b3_4310534780347229278.mp3",
+          "audioName": "18感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于温迪…",
+          "text": "温迪，我亲爱的朋友。需要请示风神的旨意时，他会主动为我解惑；而一旦遇到他不方便亲自出手的时候，我会出面摆平。嗯…总的来说，我们保持着一种非常良性的合作关系呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/c70e18aff97fd65a43ccdd22c5586e8b_7596404145042439389.mp3",
+          "audioName": "19关于温迪…_kr.mp3"
+        },
+        {
+          "name": "关于琴…",
+          "text": "在西风骑士团，我最熟悉的人或许就是琴团长，大概是因为我和她都经常出现在需要处理麻烦的场合？不过，我们解决问题的思路大不一样，我从不吝于和她分享好点子，而她也一直坚持她的做法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/9e4867bb6189f9e5570c167aeb648a89_3344191485129431801.mp3",
+          "audioName": "20关于琴…_kr.mp3"
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉是我的同事，也是我的朋友。每当我需要帮助时，她总是愿意施以援手。作为回报，我会尽量找出更多可以让她帮忙的事，然后继续邀请她帮忙。嗯？哪里奇怪？你知道的，芭芭拉总能在帮助别人的过程中收获快乐，她快乐，我们也都为她感到开心呀？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/23f5c81f4d322cec8e183e9f6d56361f_6515420656825555175.mp3",
+          "audioName": "21关于芭芭拉…_kr.mp3"
+        },
+        {
+          "name": "关于罗莎莉亚…",
+          "text": "我和罗莎莉亚算是知根知底的好朋友，也早就习惯了她平时不在教堂。不过刚认识的时候，她非常不愿意与我分享她的秘密。后来我找到了一种总是能抓到她的办法，她才和我进行了互利的交易。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/4f34826b78000f6b77716c348559c5fa_8672206937273784331.mp3",
+          "audioName": "22关于罗莎莉亚…_kr.mp3"
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "凯亚是我最要好的酒友，能偶尔为温迪提供酒馆包月畅饮服务，还要多亏他从中斡旋。不过，他也没少用这个理由鼓励我请客。好吧好吧，谁让我是深受大家信赖的巴巴托斯传道者呢。以风神的名义，让我们干杯吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/3cc36d803710940bc7f99cc8a8b1c8df_6584457590382451876.mp3",
+          "audioName": "23关于凯亚…_kr.mp3"
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "迪卢克是一位非常特别的酒馆老板，唯有他能够识破凯亚给我的话术，拒绝我的砍价。除此以外，我对这位前任骑兵队长的了解，也不比档案室记载的多多少呢。这么说来，你对他肯定了解更多吧？怎样，有兴趣去「天使的馈赠」一起聊聊么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/fc043eefbf8c83e8e75f92893118162a_855393077388806855.mp3",
+          "audioName": "24关于迪卢克…_kr.mp3"
+        },
+        {
+          "name": "关于可莉…",
+          "text": "可莉呀~有一次被她撞着我用水史莱姆练习水压剑，她可开心了，说又掌握了一种让蹦蹦炸弹蹦得更高的办法。我也可开心了，记得那几天都陪她玩到很晚，试着把史莱姆和蹦蹦们送到更高的地方——直到我们把城门顶上的砖墙炸塌，被守门的劳伦斯老哥告发，从那以后琴团长就严禁我用水压剑配合蹦蹦炸弹了。呜呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/dd10779388483d2f6afad0828e46947c_4609289744894191642.mp3",
+          "audioName": "25关于可莉…_kr.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其一",
+          "text": "比起呆在教堂里，我更喜欢去人群聚集的地方，人越多越好。作为教会的助祭，聆听信众的烦恼既是我的职责，也是我的爱好。但是，并非所有人都有向他人倾诉的勇气，所以我必须主动出击。长椅上的那位姑娘为什么要叹气呢？墙边的大叔又为何要眉头紧锁？人与人之间的种种，一直吸引着我啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/427dff77e681fa6c03f4d1adadcf9e00_5742127997153234104.mp3",
+          "audioName": "26想要了解塔利雅·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其二",
+          "text": "对于我来说，帮别人处理麻烦更多是兴趣使然。很多人讨厌处理麻烦，那是因为他们没有发现其中的乐趣。想象一下，一对年轻人彼此倾慕，却因为不了解对方的想法而羞于表达心意，为此苦恼许久。你稍加安排，于是某次聆听唱诗班表演时，他们意外地发现对方就坐在身边，偷偷看向对方时视线相交，脸上浮起了红晕…欣赏这样有趣的瞬间，就是我担任助祭的动力之一啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/2b16865e7ed7b6e68303c28858bb2158_7645372032748700427.mp3",
+          "audioName": "27想要了解塔利雅·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其三",
+          "text": "你是不是很好奇我如何获得风神的偏爱？其实也不难，只要足够了解蒙德城的酒馆，并按时邀请一位特别的客人喝酒就行。哈哈，不要这么惊讶，我确实和你一样知晓风神的秘密，并从未向他人透露过。是伟大的巴巴托斯说服了我，保留秘密才是更有趣的选择。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/bcfba92ac47377c3da8ab7df4306d04b_6257833453487909880.mp3",
+          "audioName": "28想要了解塔利雅·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其四",
+          "text": "我很喜欢助祭这个身份，但我也必须承认身为助祭还是有烦恼的，那就是如何传达神谕。人们面临重大的问题时，巴巴托斯给出的许多指示其实相当直观、简洁。但是为了让人们心悦诚服，更迅速地采取行动，我必须让这种指示更具有「神圣感」。「归风带来了高天的甘露，风神的子民啊，可曾在土地上播撒辛劳，静候恩泽？」其实就是「抓紧播种，马上下雨」的意思，但是前者明显比后者更像是「神圣的谕示」，不是吗？所以，每次请示之后，我都要花费不少心思才发言呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/94846026134af9861f2b70120b125948_1430679992206099264.mp3",
+          "audioName": "29想要了解塔利雅·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解塔利雅·其五",
+          "text": "偷偷告诉你，我一直想离开蒙德城，前往风也吹不到的地方，再卷进各种各样的麻烦里…就像你那样。可是，只要迷茫的人们还需要寻求风神的指引，我就无法忍心脱身吧？嗯…不如多寻找些生活中的「乐趣」作为装点吧！比如风中的音符，佳酿里的气泡…你身上的新故事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/fb20dc2e0421514fb6eca08da28eddfa_2380427905959207067.mp3",
+          "audioName": "30想要了解塔利雅·其五_kr.mp3"
+        },
+        {
+          "name": "塔利雅的爱好…",
+          "text": "请求神明赐予我足够精彩的偶遇，哪怕它本身是麻烦也行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/8ceb4a24926571d08aab46718867c030_8601417260311257940.mp3",
+          "audioName": "31塔利雅的爱好…_kr.mp3"
+        },
+        {
+          "name": "塔利雅的烦恼…",
+          "text": "人生中的绝大部分时间，都只能重复波澜不惊的日常，唉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/74dcee25246820039d4a90905ee81752_2731240247366129756.mp3",
+          "audioName": "32塔利雅的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "嗯…你听说过变态辣吗？味觉的顶点，不外乎如此吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/18b33d46ddd2029447a5e608ce8b2a67_670160824803693682.mp3",
+          "audioName": "33喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "面包，白粥…没有味道的果腹之物，跟树皮又有什么区别？树皮还有木香呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/7536b716b973c3839ab2d135bee3bd80_4439288701228437296.mp3",
+          "audioName": "34讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "感谢你的馈赠，愿风神庇佑你！品味这种料理，最好能配上新酿的蒲公英酒——要不我请客？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/4398a0de67ee1a5f5eb4afc33ce99b68_1933751652276653092.mp3",
+          "audioName": "35收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "感谢你的馈赠，我会在晨祷的时候为你祈福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/f5e0a732867970513a56eeddb23d6ff1_7221711518589646125.mp3",
+          "audioName": "36收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "不好意思，很久之前我收到过来自风神的谕示。身为西风教会的助祭，我被禁止食用这种料理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/55e9415918c7ae8000fc25a8eba02700_6877881821845989289.mp3",
+          "audioName": "37收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "愿沃土赐我以丰登的五谷，酿制迎客的美酒。愿归风赐我以初绽的花瓣，装点此刻的相聚。愿我等的神明赐福友人的诞辰，为他(她)降下庇佑…嗯，该吹蜡烛了吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/76450066d364c63aee80fc2819872541_6084372873711822004.mp3",
+          "audioName": "普通受击·其一kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我的虔诚得到了回馈，但我仍会继续祷告，因为神明依旧注视着我们。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/e24f9b26251937dd359e08381e894c83_2667292565407893199.mp3",
+          "audioName": "39突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "纯净的风拂过人群后，就带上了各种各样的气息。小孩子的懵懂，中年人的慨叹，都藏在这风中。你品味到了吗？这风中的气息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/6352f4a8e078a8d44fa6ccc3b2ce5bec_1450584628904501791.mp3",
+          "audioName": "40突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "迈出脚步，踏上你必行的路吧。门外的铃声便是神明的谕示，正在唤你动身。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/85d1ee5a20b3ea7dad861a1dc20d1698_5728625110171468885.mp3",
+          "audioName": "41突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "祷告完毕，听凭风引。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/a38dd0f52ac6cff78bee56fe6babbcd1_6794925780297485029.mp3",
+          "audioName": "42突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "好玩的来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/6e636f4938b3b9387baba7711407af08_2525251576847055669.mp3",
+          "audioName": "43元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "再热闹些！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/ff5364e8af0b728db22bdde68f46b67a_3397076659669380559.mp3",
+          "audioName": "44元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "水~压~剑！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/6f2a56c12eba8c17934e5ebcb142df2c_1417230891148566917.mp3",
+          "audioName": "45元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "愿神明庇佑你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/7e87bdefd357fda0b3ca0b372eece8db_8900768683278276266.mp3",
+          "audioName": "46元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "风神启示！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/6b9ef7922bc8ba4d75eb12fcf6d31975_5792066253265442042.mp3",
+          "audioName": "47元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "西风，加护我身！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/091f11fdbfcaca5b460ed35ec9072951_5246261699068113247.mp3",
+          "audioName": "48元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "感谢风神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/05dd676bb9f3447000a6c10cba3f713e_7088324442021871078.mp3",
+          "audioName": "49打开风之翼·其一_kr.mp3"
+        },
+        {
+          "name": "打开风之翼·其二",
+          "text": "没掉下去就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/0ac4011ea380ab273dc80b19e1ae4b9f_8094251334066081694.mp3",
+          "audioName": "50打开风之翼·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "神谕指示你收下这份财物，这是为了防止后来人为此陷入纷争。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/ff28effa0d950929b8c5229c109f80c3_4134535665790221471.mp3",
+          "audioName": "51打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "刚刚有微风吹过，这是来自巴巴托斯的馈赠啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/f96fd14eff6117109cff7b100959cd5c_2024527582688996264.mp3",
+          "audioName": "52打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "要不把空箱子盖好，留在这里？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/d69baee03f4c000d21f88c91d12a48a8_389400423236921071.mp3",
+          "audioName": "53打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我还得出席明天的晨祷呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/c570552bfbfff0e48d36f73a692edf53_7822542576865602176.mp3",
+          "audioName": "54生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "治疗人员在哪里？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/40fd35a7e58f072260ce82452d13960a_5558054080141305825.mp3",
+          "audioName": "55生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哎呀，不该卷进来的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/7335f524133be837f9c4d9b85e2d9d0d_4992855083657400378.mp3",
+          "audioName": "56生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "看来战斗相当激烈啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/df1fc561edd754a82253418c16c6c0e5_5727932256831020310.mp3",
+          "audioName": "57同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "要不让我跟对面聊一下，先停战？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/4ff8bf91cd620e54f99fe5a511c2bcbf_610293699808043345.mp3",
+          "audioName": "58同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "巴巴托斯…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/15234f8194a73c964bd71adb1a239307_3130315168015856689.mp3",
+          "audioName": "59倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "闹得…太大了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/3fc1995acf94483be14b458e097cca3a_6019997990310209297.mp3",
+          "audioName": "60倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "晨祷，可以不去了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/d98c1e0dbb46f328e76eb6757892fcc5_4372237438642492274.mp3",
+          "audioName": "61倒下·其三_kr.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "麻烦来了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/27/50494840/76450066d364c63aee80fc2819872541_632703516133356839.mp3",
+          "audioName": "普通受击·其一kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "稍等一下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/dffb2b79e815bd6e9d417ae499e669ee_3525163529843635881.mp3",
+          "audioName": "63重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "神谕没提到啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/c4f8ec9ada045733269327434bf1b5f6_4216930193810779844.mp3",
+          "audioName": "64重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "凑个热闹！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/b8bf126e49a45624cc8491680ed1473f_5763073220273368664.mp3",
+          "audioName": "65加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "应神谕而来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/4d2d92cd429e582fc5ea1fe99475c1a1_8303985009102417854.mp3",
+          "audioName": "66加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "开始祷告吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/26/16576950/07a9b2384119e67aeacccea362cbaff6_3845476696943584433.mp3",
+          "audioName": "67加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

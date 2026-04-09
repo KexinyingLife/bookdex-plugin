@@ -1,0 +1,536 @@
+{
+  "sets": [
+    {
+      "id": "1636",
+      "name": "被怜爱的少女",
+      "alias": [
+        "被怜爱的少女"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "9eed569960bdef82cb4412261d2a2d7822078672"
+    },
+    {
+      "id": "1629",
+      "name": "冰风迷途的勇士",
+      "alias": [
+        "冰风迷途的勇士"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "4f868de692a58bc5cbdb1b705ee5203d8bf7f529"
+    },
+    {
+      "id": "1983",
+      "name": "苍白之火",
+      "alias": [
+        "苍白之火"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "7a29a54fefc9e90cba092632dd80c3d786a47b19"
+    },
+    {
+      "id": "1628",
+      "name": "沉沦之心",
+      "alias": [
+        "沉沦之心"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "d8129a431b7e6dc79ae500457fb331327e830fcd"
+    },
+    {
+      "id": "3867",
+      "name": "辰砂往生录",
+      "alias": [
+        "辰砂往生录"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "a28d207c046db011974e8d6d5d111867fd6b24e9"
+    },
+    {
+      "id": "507648",
+      "name": "晨星与月的晓歌",
+      "alias": [
+        "晨星与月的晓歌"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "afc420f7cd7ca5512e082a9799c4acdaba4371dc"
+    },
+    {
+      "id": "1563",
+      "name": "炽烈的炎之魔女",
+      "alias": [
+        "炽烈的炎之魔女"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "b7f18618d6ef3dcffe46d48ccb2b545e55a208ec"
+    },
+    {
+      "id": "1630",
+      "name": "翠绿之影",
+      "alias": [
+        "翠绿之影"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "3e72030e47ef9e4920a455b2a61b55c3c6fb4842"
+    },
+    {
+      "id": "1598",
+      "name": "赌徒",
+      "alias": [
+        "赌徒"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "f38ebd26b8707e4ea05c4c1ea7e9756ae649b52d"
+    },
+    {
+      "id": "1602",
+      "name": "渡过烈火的贤人",
+      "alias": [
+        "渡过烈火的贤人"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "2bdcf28702c61fbe3ecec2e2a3cc23e09d200e1d"
+    },
+    {
+      "id": "506172",
+      "name": "纺月的夜歌",
+      "alias": [
+        "纺月的夜歌"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "1edb97422340d1ad2742f969122676d1f55a32b4"
+    },
+    {
+      "id": "507653",
+      "name": "风起之日",
+      "alias": [
+        "风起之日"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "5870dd4aaa9568d398c1ada32be3b853d8ec1189"
+    },
+    {
+      "id": "3157",
+      "name": "海染砗磲",
+      "alias": [
+        "海染砗磲"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "6c3a80a1ca5d04443cb2945ed9af65008affb299"
+    },
+    {
+      "id": "502058",
+      "name": "黑曜秘典",
+      "alias": [
+        "黑曜秘典"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "365202d4e56d07204672c7701eb43bb30de0b1bb"
+    },
+    {
+      "id": "6351",
+      "name": "花海甘露之光",
+      "alias": [
+        "花海甘露之光"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "52bac4d8c11dff525c264ccd39140f54b8888e1a"
+    },
+    {
+      "id": "3158",
+      "name": "华馆梦醒形骸记",
+      "alias": [
+        "华馆梦醒形骸记"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "9b0aa297909f79bdf68a8e922f6dffeb5e01a75c"
+    },
+    {
+      "id": "500036",
+      "name": "黄金剧团",
+      "alias": [
+        "黄金剧团"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "aeba93f806c08c67b3a9b37a25e13701b7463da4"
+    },
+    {
+      "id": "500422",
+      "name": "回声之林夜话",
+      "alias": [
+        "回声之林夜话"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "ce0d6b11d200174cf31b286f66cf261a144d4b5a"
+    },
+    {
+      "id": "1649",
+      "name": "祭冰之人",
+      "alias": [
+        "祭冰之人"
+      ],
+      "pieceCount": 1,
+      "selectorSig": "bb117917269ee86f51d9fa32dcb160d6caf90d21"
+    },
+    {
+      "id": "1647",
+      "name": "祭火之人",
+      "alias": [
+        "祭火之人"
+      ],
+      "pieceCount": 1,
+      "selectorSig": "42cb0697f16bfc26872437db865b2ed698761d39"
+    },
+    {
+      "id": "1646",
+      "name": "祭雷之人",
+      "alias": [
+        "祭雷之人"
+      ],
+      "pieceCount": 1,
+      "selectorSig": "9e920620e4107cb21241c4e1b38f010b8e218572"
+    },
+    {
+      "id": "1648",
+      "name": "祭水之人",
+      "alias": [
+        "祭水之人"
+      ],
+      "pieceCount": 1,
+      "selectorSig": "f0cefc32a6eb3c06c667db9c0a900521f03f7752"
+    },
+    {
+      "id": "1633",
+      "name": "角斗士的终幕礼",
+      "alias": [
+        "角斗士的终幕礼"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "f98dc88a0723bf231c35edd9a8e33a6fec37e645"
+    },
+    {
+      "id": "1606",
+      "name": "教官",
+      "alias": [
+        "教官"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "69e3af5460b74ede794a4a7e1dd76dcc74ec751f"
+    },
+    {
+      "id": "502057",
+      "name": "烬城勇者绘卷",
+      "alias": [
+        "烬城勇者绘卷"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "7372490681300ba5ce241bc27ba92d51761e369e"
+    },
+    {
+      "id": "2322",
+      "name": "绝缘之旗印",
+      "alias": [
+        "绝缘之旗印"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "b6aed1299a6cedeafc387be3cdff1a3ad0b870d8"
+    },
+    {
+      "id": "3866",
+      "name": "来歆余响",
+      "alias": [
+        "来歆余响"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "c76cd28ff3161510fdf127dedf1e7ac34e43cd81"
+    },
+    {
+      "id": "5404",
+      "name": "乐园遗落之花",
+      "alias": [
+        "乐园遗落之花"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "492081ef692ab3177dcef9a267f380cfbc46f30b"
+    },
+    {
+      "id": "1605",
+      "name": "流放者",
+      "alias": [
+        "流放者"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "d98b7ffd896e89e0d320a1d09be8d25ff6c063f9"
+    },
+    {
+      "id": "1638",
+      "name": "流浪大地的乐团",
+      "alias": [
+        "流浪大地的乐团"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "d76c65fa43008e878ace72db7d975d93ec492b32"
+    },
+    {
+      "id": "1644",
+      "name": "冒险家",
+      "alias": [
+        "冒险家"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "33d97919b345776647cf40e2f52cb2625cb42b0e"
+    },
+    {
+      "id": "1601",
+      "name": "逆飞的流星",
+      "alias": [
+        "逆飞的流星"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "b663ece8ff13e668333a6e7ad153b10a54b64c00"
+    },
+    {
+      "id": "1639",
+      "name": "平息鸣雷的尊者",
+      "alias": [
+        "平息鸣雷的尊者"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "a5f943c5f52c7beaa47ad54b75d1a51b17a39027"
+    },
+    {
+      "id": "1597",
+      "name": "奇迹",
+      "alias": [
+        "奇迹"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "eea531ca9d731ad2ad19f2d8aeab07c5980e7487"
+    },
+    {
+      "id": "1984",
+      "name": "千岩牢固",
+      "alias": [
+        "千岩牢固"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "e51325aecac25610abc7a61fd682dcf9fcf255d3"
+    },
+    {
+      "id": "506178",
+      "name": "穹境示现之夜",
+      "alias": [
+        "穹境示现之夜"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "9ec862001e7d84c31347972854007b6694c3bd9f"
+    },
+    {
+      "id": "1637",
+      "name": "染血的骑士道",
+      "alias": [
+        "染血的骑士道"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "3f4aabbdb0f71ec9f311ec195b80ec77fbd563ac"
+    },
+    {
+      "id": "1632",
+      "name": "如雷的盛怒",
+      "alias": [
+        "如雷的盛怒"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "8f04928d971d16a3feda0f3201cb66dc6be786e9"
+    },
+    {
+      "id": "5403",
+      "name": "沙上楼阁史话",
+      "alias": [
+        "沙上楼阁史话"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "171209bdcc394d47eb7e314c6215336660cc3ed4"
+    },
+    {
+      "id": "504793",
+      "name": "深廊终曲",
+      "alias": [
+        "深廊终曲"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "28b686955190ac1da6198e6a033e9bfca5efa467"
+    },
+    {
+      "id": "4341",
+      "name": "深林的记忆",
+      "alias": [
+        "深林的记忆"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "e28984404600c29b9347fe6460a2464a7794b409"
+    },
+    {
+      "id": "4335",
+      "name": "饰金之梦",
+      "alias": [
+        "饰金之梦"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "bbc505416d0fca5b0f3f96045f7866ec5b867fe9"
+    },
+    {
+      "id": "1595",
+      "name": "守护之心",
+      "alias": [
+        "守护之心"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "cf462684eefe82ff8c1e19c5d6f765c2ef515906"
+    },
+    {
+      "id": "6350",
+      "name": "水仙之梦",
+      "alias": [
+        "水仙之梦"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "caac0a76a818a51d7d2c39a19f08a2caeb1800b7"
+    },
+    {
+      "id": "501140",
+      "name": "未竟的遐思",
+      "alias": [
+        "未竟的遐思"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "63dc0cc648731063096c296cac4ef4e610b679c1"
+    },
+    {
+      "id": "1603",
+      "name": "武人",
+      "alias": [
+        "武人"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "8632d24e88b84a3b982026884d819313864c46c0"
+    },
+    {
+      "id": "1631",
+      "name": "昔日宗室之仪",
+      "alias": [
+        "昔日宗室之仪"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "c90927be2e8f20602eae208d02157f1527a0845d"
+    },
+    {
+      "id": "500421",
+      "name": "昔时之歌",
+      "alias": [
+        "昔时之歌"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "856bac6f362182854477e799302aa9812393f314"
+    },
+    {
+      "id": "501139",
+      "name": "谐律异想断章",
+      "alias": [
+        "谐律异想断章"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "f6e0626972caf4e10ad262467abf415a7ad41398"
+    },
+    {
+      "id": "1596",
+      "name": "行者之心",
+      "alias": [
+        "行者之心"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "600087afb04e002fc10978bec77073e851d55948"
+    },
+    {
+      "id": "1645",
+      "name": "幸运儿",
+      "alias": [
+        "幸运儿"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "48f5332e096af914cf6516a618d32ad04fd84643"
+    },
+    {
+      "id": "1599",
+      "name": "学士",
+      "alias": [
+        "学士"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "17c1ce750fdcf361c9d54b6992c115ab055835cb"
+    },
+    {
+      "id": "1607",
+      "name": "勇士之心",
+      "alias": [
+        "勇士之心"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "1e49023a65d2fb97a60aa4feae0bd80d8d1fec01"
+    },
+    {
+      "id": "1600",
+      "name": "悠古的磐岩",
+      "alias": [
+        "悠古的磐岩"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "fa010d31585e1a6c8d464b4bd4fb42ce51e7d2c5"
+    },
+    {
+      "id": "1643",
+      "name": "游医",
+      "alias": [
+        "游医"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "55ac42a5d4a8972169ca6d8155161d4f8de38d6b"
+    },
+    {
+      "id": "1604",
+      "name": "战狂",
+      "alias": [
+        "战狂"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "314353364712ba73cc7452f136e1b4e6148af99a"
+    },
+    {
+      "id": "504792",
+      "name": "长夜之誓",
+      "alias": [
+        "长夜之誓"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "d8dc7d5ad27fb24f6169c5ccf3aa90f655f0c527"
+    },
+    {
+      "id": "500037",
+      "name": "逐影猎人",
+      "alias": [
+        "逐影猎人"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "3ab6cd424026271bf4d23d03fc2fbe28db23d4f9"
+    },
+    {
+      "id": "2321",
+      "name": "追忆之注连",
+      "alias": [
+        "追忆之注连"
+      ],
+      "pieceCount": 5,
+      "selectorSig": "1fd92cf6089cc9cfbdfdafa0faaf89a8c78e1328"
+    }
+  ],
+  "updatedAt": 1774013264096
+}

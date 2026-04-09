@@ -1,0 +1,1781 @@
+{
+  "id": "105",
+  "name": "班尼特",
+  "alias": [
+    "班尼特"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "这就是你的冒险团吗？真好啊…又热闹，又有人情味。啊，我是「班尼冒险团」的团长班尼特！能把我列入你们的合作伙伴吗？拜托了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2c69c7910637225f4a957cd2450d1146_4341760089378024576.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·宝藏",
+          "text": "不如在周围找找看吧，说不定有宝藏呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bf7f6fd9d42549e6219fa631d81a2725_2597165240742441738.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·冒险",
+          "text": "好久没有和别人一起冒险了！我们走吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/39b9b2796f5c8376e59fbb00ac63ae75_4949967046315740466.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·调侃",
+          "text": "俗话说「等在原地是不会有好事发生的」，当然以我的运气来说，往哪里走都一样啦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5ecea4ed36a0ee2c4538b542c37c99d4_664647642378084914.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "我冒险的时候，大多都是这种天气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d40aec73d8cc589e9299173c00cd52c1_2047248225833786736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "啊！别和我站得太近，这样雷就不会劈到你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cdc4e63f56eee9b754e59a0f7016a78e_5357627956626152165.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "今天的天气真不错…啊，糟了，说完这种话多半就要下雨了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c167a52cffc94e0f6fd72f1412420273_4075543258075882811.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "小心点，别被吹过来的石头砸到脑袋了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1573a4ee9de2bb1f5b95a8388155b57e_8591516096296749625.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好！我们今天去哪儿冒险啊？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3a0bc6b5f8fd0f93f5a751d4f09968f8_1381340398920957205.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "我带了三明治，要吃吗？分你一半…唔唔！咳，咳…不好意思，噎到了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7bf913d3615beb4a6eeb9d0fc3a5b555_2039677675798194555.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "要不要陪我去和老爹们聊聊天啊？老冒险家的故事可有意思了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/551b364dedd3c6fc197309c8c1573e15_1709189673892971271.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "要走了吗？能和你一起冒险太开心了，下次记得再叫上我啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/35d9b41a94014fc37457e0d996ab22b2_2657705094882260027.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特自己·冒险团",
+          "text": "我就是「班尼冒险团」的团长，振兴蒙德冒险家协会的希望之星…没见过其他团员？那个…最近他们都请假了，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2c9458241ffe097a69b458280884db9c_1943550854776541591.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特自己·坏运气",
+          "text": "没有传说中那么夸张啦，不过就是走路经常会掉进猎人打猎用的坑里，或者被突然倒下的树干砸到脑袋，都很平常嘛，对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5f4f869dd01de78d9230c332f7e40fa4_508645410665451116.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·搭档",
+          "text": "哈哈，不行的，「班尼冒险团」早就满员了…合适的人选有那么多，没必要找我这个倒霉蛋吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0cc97332b2130867d41384f192267754_2934602500645090416.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·分工",
+          "text": "以后我负责引走怪物和激活陷阱，你就负责带走宝藏。啊，这样不行吗？哎呀，没事没事！不用担心我会受伤啦，这是我最擅长的！而且为了你的话，我愿意！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e566e9324e4b37f9f915d30a618fccba_68450082037922857.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·险境",
+          "text": "我终于明白你为什么找我搭档了，你和我很像，一定也很喜欢置身于险境的那种快感吧！冒险就是因为有危险才让人欲罢不能啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/178cf2128c78894bf586d3b15e09c806_1510199211509321794.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "没想到我这么倒霉的人也可以获得神的认可，既然神都没有放弃我，我又怎么能放弃我自己呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/24712bae569917221da3034654f41859_2426722834726017182.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "有机会要和我一起去俯瞰蒙德的夜景吗？蒙德城灯火通明，果酒湖反射着月光，特别漂亮…你问我在哪里看到的？哈哈，有一次不小心被龙卷风卷到了特别高的地方…什么？不想去啊，哦，好吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2c5d11be9b29131d96c63eb174e4dc15_7965581471761557111.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "其实我很喜欢卷心菜，看上去很普通，却是一般人家必不可少的食物。它能生长在很多地方，也能和很多食材搭配，还从不抢味道。其实普通一点，也挺好的嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e1d2b97f0e88a1dd8326389bee002fbd_5012460443491633461.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "她很擅长唱歌跳舞！我冒险不顺的时候就会去看她的演出，跟着观众一起喊喊口号加加油，心情就变好了，真的很神奇！这就是她为什么这么受欢迎的原因吧…啊，我这个当团长的，要是也这么受欢迎就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c36bfb390f65045f269790af6ecf248b_5334054845528966168.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "那个孩子啊…很可爱，但我必须和她保持距离。只要我陪她玩，她的那些炸弹就会突然爆炸…我倒霉一点无所谓，但要是炸伤了可莉就麻烦了，估计整个骑士团都会跟我没完吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0be4983ed14ce3146ff71f007dd76eb0_2924768559057781907.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔…",
+          "text": "她是异世界来的「断罪皇女」，可厉害了！我不止一次和她说想要去她的家乡冒险，但每次说到这里她就吞吞吐吐的…嗯，一定是担心我的安危吧，看来她的家乡真的是很凶险的地方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/59fb48700c3966689f40405f7aae1501_8471764926572385939.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "我本来想向琴团长要一些对蒙德的冒险家协会的支援，但其实我不太知道要怎么和她说…冒险家协会没有骑士团那么多规矩，我和老爹们成天也嘻嘻哈哈的，但用这种态度和琴团长说话，肯定不行吧…我是不是要学一下骑士团敬礼的方式？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5560a7871360703936b6d1f56b52c0a7_2645129012742797166.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "他是我非常崇拜的人，名副其实的大团长！能领导整个西风骑士团，那该有多厉害啊。不过后来我想了想，冒险团规模太大好像也不行，团里太忙了的话，老爹们就没人照顾了。哈哈，还是现在好啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/62d0638f388e82255e5d3eefb57ebce4_1093038947292435697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷泽…",
+          "text": "你说奔狼领的那个小哥哥啊，他虽然看上去凶巴巴的，也不愿意说话…但是是个有趣的人哦！他和我都特别喜欢吃肉，我给他做肉吃，他教我狼怎么说话，哈哈，你下次要不要一起来？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3aa0c143389ff0ec1e92dfa569b336c2_2475470194517934866.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "哦哦，想起来了，那个女孩子，总横冲直撞的…她和我一样，经常去野外冒险！只不过…只要路边架着锅，就总会飘来浓浓的黑烟，还有什么东西烧糊了的味道…唔，难道她的运气也很差？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/581f9e9a38737d3bead8a9498b97afa1_7715580970012683884.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔…",
+          "text": "你说她啊，其实我注意她很久了。她很有天分，又特别努力，但在骑士团只能当女仆，一直没成为正式的骑士，你不觉得太可惜了吗？唉，要是她肯来冒险家协会，估计早就是个了不起的冒险家了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4454e4af6b733d13c92b4ef1122aa0c4_9037913833789334042.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其一",
+          "text": "什么，想要了解我？哈哈，我只是个普普通通的倒霉冒险家，和你的各种传奇经历相比，简直不值一提啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/74b5b07143cc9ae722e34e7e8b59d0c0_7161866437027169747.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其二",
+          "text": "「老爹们」…这是我对蒙德的老冒险家们的叫法，听说我是他们在非常险恶的绝境中捡到的孤儿。很奇妙对吧？明明我的运气这么差，居然能被人捡到还活到了现在，简直是奇迹啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/690fc1db36d0e42c0438ba6b11e172ad_95165664247061970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其三",
+          "text": "你看出来了啊…呵呵，没错，「班尼冒险团」很久之前就只有我一个人了。因为我很倒霉，无论是多么简单安全的冒险都会变得险象环生，没人愿意跟着这样的团长…你也会这么想吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f461f319b7a312d291e5c78df91ce52c_835951787937316658.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其四",
+          "text": "我的坏运气是与生俱来的，长这么大也差不多习惯了。其实换种想法，「倒霉」其实也是件好事，因为说不定哪天我的坏运气就会害死我，我才会想趁着还活着的时候，去更多的地方冒险，认识更多的人——不然，可能我就没机会认识你了，哈哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e1081e3a3fa044c099588f224c378ae3_7082033255067716278.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其五",
+          "text": "不知不觉，我们已经搭档很长时间了。其实我有一个梦想，等到蒙德城的冒险家协会发展成七国里最壮大的协会，我就要去周游提瓦特大陆！「班尼冒险团」会变成最伟大的冒险团，而我们，就是最伟大的两位冒险家！…你问你什么时候加入的？哎呀，这种细节不用在意嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/35a112d75ed57d38dd1b1e65ea90c700_713879504443862350.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "班尼特的爱好…",
+          "text": "我什么都喜欢，但最喜欢的还是冒险！总有一天我会找到这世界上最珍贵的宝藏，到时候老爹们就都能过上好日子，蒙德的冒险家协会也会热闹起来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a8b004145a2c44d99a1f5d8169246e6a_1444508645917966268.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "班尼特的烦恼…",
+          "text": "硬要说的话…特别倒霉的日子心情会不太好，比如冒险又什么都没找到，或者老爹的身体犯老毛病了之类的，但这些都算不上烦恼，睡一觉就全忘光了。新的一天当然要有新的开始！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab44fde0443ca181c0111e89c08e039f_8774610837079157774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "肉！肉是最能让人精力充沛的食物！野菇鸡肉串，烤肉排，还有甜甜花酿鸡都是我的拿手菜。和我一起冒险，是不会让你饿肚子的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4852621af3e831ab67aa050d40c912e0_4872543379196010686.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "虽然说冒险家不能挑食，但其实我不是很能吃辣，比如绝云椒椒什么的…吃了之后就喘不上气，感觉呼吸都是辣的，而且之后肯定会拉肚子…这种恶魔一样的果子究竟是怎么长出来的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cee14477cd01f44ed88cd5cb2ed23b23_3021406454606032812.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "太幸福了！哈哈…哎呀！会不会把这阵子的好运全部用完了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/06fc9f35889839060215a01f739fd167_3827389167656685006.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "无论做什么都很好吃，真不愧是你啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c22974de1252d962c47dd7e12682d63a_3573994511661762271.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "完了…肚子已经开始疼了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ebc3e23195594d2b23f638429a232c45_9036626654673881306.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！祝你新的一年也能有最好的运气！放心吧放心吧，倒霉是不会传染的，因为只要有我在，它们就不会找上你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0d85c0fe2b63a0c0040f76600b550786_6509115063228662624.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "所有力量都提升了！除了运气，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/80676a92c9b14950bfc09951535e7eed_6455815960716344668.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这样距离你就又近了一步，我会继续努力的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1503c7d1dcb03c01402def0810cc2ea1_7936415796195703488.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "得到了这么强的力量，我要怎么报答你呢？对了，我知道一个藏着无价宝藏的秘境，一起去冒险吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/52468c0b710dc815e1d14833bfd02ab5_5055021137076994965.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "托你的福，现在的我应该有能力保护其他人了，这下子大家都会对我慢慢改观吧——那个倒霉得要命，总是遍体鳞伤的班尼特，终于变成一个可靠的冒险家了！…嘿嘿，但愿吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a56b0360c6d782247e86ba64503029df_2317448733709343041.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "哈——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/89367bbe89e078350e7f35c2ed8efa7e_2099300573343664105.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "烧起来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/537134a9679bf32d84a33e6aa8056dd6_8061339325841726964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "上天去吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a151fa1773a5d80bae9a53f0be327649_7257998766410435362.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "喝啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab299f635baa4fefc643fbc37fffca0f_5113920943195668152.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "炸飞你们！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d636c11ae9ef6b860923e43b884b6a6b_2905249482887742177.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "都闪开！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c05e4d57c22379a17d420d5dc3affe62_8971750845922624061.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "我来保护大家！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/71e818428beaf7d8bbd1d89cc34466af_1609079468267082123.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "该总攻击了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/224681a31e2fb3c4389e8a6bd06d38f2_3067443104422898241.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "有大家在身边，伤口就不会痛！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8191dd688e005f4fdea089b691a2d7bb_8581689504062263887.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "冒险、冒险！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/221c9a39e6e8189d1a09fe446d9a7459_6164500383322744858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "好，出发！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0cc5c65946a6f19f2c237d88240edee6_7168054512956897722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是货真价实的宝藏！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/377b18609f30e2a585e869418527e4e7_4770524791008515545.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "我居然也有这么好运的一天！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b0c10e2e9d016f7b1f4dc60031d37c78_1892916794255806582.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "简直是奇迹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/59474d7ab327d58aaad838a9e3ace0eb_6934468924380215548.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "糟糕…最近绷带在涨价啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/63163d32938f7a37eb10e243fd47b2f1_4716023347882305742.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "别担心…我坚持得住。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd7706707f1a292b163366daf542701d_3901759273438854090.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "绝地反击？这个我熟，让我来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e8d19d4b8ce2571f1a81af789d36be40_2184581035171040714.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别逞强，交给我！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/4d5338c4708861bec893ae380fc73cd5_3486248724466832291.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "有本事冲我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/6015f7bae967c227ddd70d91ec089a5b_1985139108854749570.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "我真是个不称职的团长…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6e36f3e6d202f0fabcffeb6822e80743_6141134042845919130.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "不出意料的…坏运气…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/058a9e52df33f40a11063fff3d76e130_1928615979174700531.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "没能突破…厄运的封锁…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/83ec46623224e96d752a5c6da03d2a32_4979772353579002702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "只是意外。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/86bf68c50d02c015d23707b1a2d81bc4_8531079019169244665.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "痛死了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/78970e859845dffb6fe868f42593005e_4931009340270115113.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "又没躲开…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/206cb9701cee7cc359be326e3b8a3ea5_679119193067505969.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "真、真的在叫我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c48963cb112b214ca2d3fc62e2f023db_3420075125902222454.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "决不拖后腿！…尽量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dd13a7159a5f6a159829b2490ffd077a_7596462351427063839.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "太棒了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/caade446f35ec8ea1ea83e896f273324_9170564778957285711.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "这就是你的冒险团吗？真好啊…又热闹，又有人情味。啊，我是「班尼冒险团」的团长班尼特！能把我列入你们的合作伙伴吗？拜托了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0d9674243b24ed9e6ad82a60984e7b38_6379242018197228167.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·宝藏",
+          "text": "不如在周围找找看吧，说不定有宝藏呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8f1b4d1bcaee5985b3768d9f9d6f4636_7242525606940127113.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·冒险",
+          "text": "好久没有和别人一起冒险了！我们走吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d114c80f0714791395594f8be767a146_7436958237576616946.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·调侃",
+          "text": "俗话说「等在原地是不会有好事发生的」，当然以我的运气来说，往哪里走都一样啦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/772d7cf04b717fbea3e26d225408e5d1_2722563097603844490.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "我冒险的时候，大多都是这种天气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/857acb8083b53f1512af68f454309147_6980941917492373460.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "啊！别和我站得太近，这样雷就不会劈到你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe8fa93092366d5af5382fe9188bc783_7332249174290930637.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "今天的天气真不错…啊，糟了，说完这种话多半就要下雨了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2a8a976eb1831c4b4a1226eec88978ac_8671940326396004322.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "小心点，别被吹过来的石头砸到脑袋了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/390850dc4a71270bcf7918d887311a97_4655971583760638677.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好！我们今天去哪儿冒险啊？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/367a2022597b0cce444515b249bb0eaf_7923082002190079140.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "我带了三明治，要吃吗？分你一半…唔唔！咳，咳…不好意思，噎到了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5576ce1ab1a918c997bf0de8d9e7f009_7746951726034091932.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "要不要陪我去和老爹们聊聊天啊？老冒险家的故事可有意思了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7f8a2bcc62bad98d171350b03adfe97a_6994674297426195282.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "要走了吗？能和你一起冒险太开心了，下次记得再叫上我啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/61efc1a13326dc97c39e5ac64a8d7aae_3723507202127350014.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特自己·冒险团",
+          "text": "我就是「班尼冒险团」的团长，振兴蒙德冒险家协会的希望之星…没见过其他团员？那个…最近他们都请假了，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/653c95ec283491ec4c2a1a7495afa700_7014122524382747324.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特自己·坏运气",
+          "text": "没有传说中那么夸张啦，不过就是走路经常会掉进猎人打猎用的坑里，或者被突然倒下的树干砸到脑袋，都很平常嘛，对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eaee417eeed7acb48c2e078c5aad9261_6175434841068083727.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·搭档",
+          "text": "哈哈，不行的，「班尼冒险团」早就满员了…合适的人选有那么多，没必要找我这个倒霉蛋吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3c02d993da2461b712e624e802f7f834_8043520254434610413.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·分工",
+          "text": "以后我负责引走怪物和激活陷阱，你就负责带走宝藏。啊，这样不行吗？哎呀，没事没事！不用担心我会受伤啦，这是我最擅长的！而且为了你的话，我愿意！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/39856d3531455ebacb3e4116574270cf_2145050506063421665.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·险境",
+          "text": "我终于明白你为什么找我搭档了，你和我很像，一定也很喜欢置身于险境的那种快感吧！冒险就是因为有危险才让人欲罢不能啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1df6620e5d6f2e53bb3c9cec58d73ece_4938426205108891788.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "没想到我这么倒霉的人也可以获得神的认可，既然神都没有放弃我，我又怎么能放弃我自己呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e9f5a4f542ed0d4e10ff5d4b0dbfc5b4_5495324663749993995.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "有机会要和我一起去俯瞰蒙德的夜景吗？蒙德城灯火通明，果酒湖反射着月光，特别漂亮…你问我在哪里看到的？哈哈，有一次不小心被龙卷风卷到了特别高的地方…什么？不想去啊，哦，好吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5ad7df3ceb6df89a3a01ae594ca05175_7482410165910953596.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "其实我很喜欢卷心菜，看上去很普通，却是一般人家必不可少的食物。它能生长在很多地方，也能和很多食材搭配，还从不抢味道。其实普通一点，也挺好的嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/13217e7c2f71816e568d1507e8f28c92_6834370642342517319.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "她很擅长唱歌跳舞！我冒险不顺的时候就会去看她的演出，跟着观众一起喊喊口号加加油，心情就变好了，真的很神奇！这就是她为什么这么受欢迎的原因吧…啊，我这个当团长的，要是也这么受欢迎就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1a97952c7b5d59d96de134f3dc4795ef_9194783301649875695.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "那个孩子啊…很可爱，但我必须和她保持距离。只要我陪她玩，她的那些炸弹就会突然爆炸…我倒霉一点无所谓，但要是炸伤了可莉就麻烦了，估计整个骑士团都会跟我没完吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2f7c3788798eccafd4bea1b8e9cd1b77_3344927824525339176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔…",
+          "text": "她是异世界来的「断罪皇女」，可厉害了！我不止一次和她说想要去她的家乡冒险，但每次说到这里她就吞吞吐吐的…嗯，一定是担心我的安危吧，看来她的家乡真的是很凶险的地方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f7133f4aea42393205041512dc20c26b_1119633574059174882.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "我本来想向琴团长要一些对蒙德的冒险家协会的支援，但其实我不太知道要怎么和她说…冒险家协会没有骑士团那么多规矩，我和老爹们成天也嘻嘻哈哈的，但用这种态度和琴团长说话，肯定不行吧…我是不是要学一下骑士团敬礼的方式？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f6c51957782da7e190c3debc202aa894_2337067135867005197.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "他是我非常崇拜的人，名副其实的大团长！能领导整个西风骑士团，那该有多厉害啊。不过后来我想了想，冒险团规模太大好像也不行，团里太忙了的话，老爹们就没人照顾了。哈哈，还是现在好啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/857a7ce3ec646087b00b8b19465ee1aa_2820058497769921919.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷泽…",
+          "text": "你说奔狼领的那个小哥哥啊，他虽然看上去凶巴巴的，也不愿意说话…但是是个有趣的人哦！他和我都特别喜欢吃肉，我给他做肉吃，他教我狼怎么说话，哈哈，你下次要不要一起来？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f9abaaf252aadf0ce682b9894b073c03_8818465365976167718.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "哦哦，想起来了，那个女孩子，总横冲直撞的…她和我一样，经常去野外冒险！只不过…只要路边架着锅，就总会飘来浓浓的黑烟，还有什么东西烧糊了的味道…唔，难道她的运气也很差？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/464659cfcfe5ab3795c99e014896765c_8671610292061575988.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔…",
+          "text": "你说她啊，其实我注意她很久了。她很有天分，又特别努力，但在骑士团只能当女仆，一直没成为正式的骑士，你不觉得太可惜了吗？唉，要是她肯来冒险家协会，估计早就是个了不起的冒险家了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ebc933862c452146b7f30c019cc2dd14_1730058980842352117.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其一",
+          "text": "什么，想要了解我？哈哈，我只是个普普通通的倒霉冒险家，和你的各种传奇经历相比，简直不值一提啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe433fa5bd96d5c8f0804efd05b4e0c9_6700503746736646278.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其二",
+          "text": "「老爹们」…这是我对蒙德的老冒险家们的叫法，听说我是他们在非常险恶的绝境中捡到的孤儿。很奇妙对吧？明明我的运气这么差，居然能被人捡到还活到了现在，简直是奇迹啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/612def3fe156d1ca08871d9620919476_7911303265503231472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其三",
+          "text": "你看出来了啊…呵呵，没错，「班尼冒险团」很久之前就只有我一个人了。因为我很倒霉，无论是多么简单安全的冒险都会变得险象环生，没人愿意跟着这样的团长…你也会这么想吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a5eadd31daca0ac0e866fdcbf11d2932_8908436010541370168.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其四",
+          "text": "我的坏运气是与生俱来的，长这么大也差不多习惯了。其实换种想法，「倒霉」其实也是件好事，因为说不定哪天我的坏运气就会害死我，我才会想趁着还活着的时候，去更多的地方冒险，认识更多的人——不然，可能我就没机会认识你了，哈哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0b8dc5698c9f239abede2e8180cc4b1f_689477716034444628.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其五",
+          "text": "不知不觉，我们已经搭档很长时间了。其实我有一个梦想，等到蒙德城的冒险家协会发展成七国里最壮大的协会，我就要去周游提瓦特大陆！「班尼冒险团」会变成最伟大的冒险团，而我们，就是最伟大的两位冒险家！…你问你什么时候加入的？哎呀，这种细节不用在意嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6eee2ca3d84bf0029ae52cec75ec0eec_638819103200036381.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "班尼特的爱好…",
+          "text": "我什么都喜欢，但最喜欢的还是冒险！总有一天我会找到这世界上最珍贵的宝藏，到时候老爹们就都能过上好日子，蒙德的冒险家协会也会热闹起来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f598d5504d5d731a4caa2716c31aa236_4302184507653980937.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "班尼特的烦恼…",
+          "text": "硬要说的话…特别倒霉的日子心情会不太好，比如冒险又什么都没找到，或者老爹的身体犯老毛病了之类的，但这些都算不上烦恼，睡一觉就全忘光了。新的一天当然要有新的开始！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e78fe774354767ae91bdcdd193a9f5c6_2731680608235234966.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "肉！肉是最能让人精力充沛的食物！野菇鸡肉串，烤肉排，还有甜甜花酿鸡都是我的拿手菜。和我一起冒险，是不会让你饿肚子的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3dc07d451e39f8e73fe5edf0a39fa4fb_1363407039503453517.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "虽然说冒险家不能挑食，但其实我不是很能吃辣，比如绝云椒椒什么的…吃了之后就喘不上气，感觉呼吸都是辣的，而且之后肯定会拉肚子…这种恶魔一样的果子究竟是怎么长出来的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b3cb53efb41e8b0a89ea9098fa8a2b45_2238962767423978165.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "太幸福了！哈哈…哎呀！会不会把这阵子的好运全部用完了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f37d0edbb8b142dc3615493032f7d31a_8363775109115840879.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "无论做什么都很好吃，真不愧是你啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a92f18a677811e60360971d12e1a31be_7342315209198944094.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "完了…肚子已经开始疼了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/b0334cb5729ba9498ce1f05f2ec8cb9e_4414719403023737460.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！祝你新的一年也能有最好的运气！放心吧放心吧，倒霉是不会传染的，因为只要有我在，它们就不会找上你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c846dcd40cbf171e1181ea066d7e2185_3630344687891658770.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "所有力量都提升了！除了运气，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9e8b3274f9893c7211bfea719e0fe186_6842987912959881276.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这样距离你就又近了一步，我会继续努力的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/518c997abf81449d62bfbc4c8e64877e_2823964198951683799.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "得到了这么强的力量，我要怎么报答你呢？对了，我知道一个藏着无价宝藏的秘境，一起去冒险吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fdabdefed34fc8702030906aa0e38fdb_7998273120390040185.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "托你的福，现在的我应该有能力保护其他人了，这下子大家都会对我慢慢改观吧——那个倒霉得要命，总是遍体鳞伤的班尼特，终于变成一个可靠的冒险家了！…嘿嘿，但愿吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0f23f02accc56932666b82f17218eddc_6358688997554794901.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "哈——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/531906ea9e7dc8c97117927ba83d5f63_3715597719143352654.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "烧起来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5dc1e8f8d3ad2d9e2ff8c24320744387_3970960982135061540.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "上天去吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0d8dfb32563f44d8236c919ea2d97d47_1722812454688480821.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "喝啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0086eac598c086605fbc81d049915a63_7564435963360971894.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "炸飞你们！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3b21b752df2a66119d8e3b038eb46f31_5598464223454671261.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "都闪开！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6d6e531f64d6840b83996825a7baed75_4185288321549141624.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "我来保护大家！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bbbc27307c58815892f374de0090afb7_2012149348849656568.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "该总攻击了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2357a215aa4cd2f44708d8fa7726673a_8104235385562185163.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "有大家在身边，伤口就不会痛！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4a50578e7085dbada641270ad6321e39_4784942072568183981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "冒险、冒险！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/abdb92d569d68940adf4c26f312dad62_7480307235024992854.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "好，出发！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f1b4d59e31bfd9d659577c7f99f420d2_8326204165686040090.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是货真价实的宝藏！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8fdd03db1e722b4e889b5458c3150b19_7694649803030470423.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "我居然也有这么好运的一天！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eeb815287e703ec2aa360940daf27b94_3927780303063404824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "简直是奇迹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d14823d41b3215b6004ef67e662036b_2215283317421987187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "糟糕…最近绷带在涨价啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e141f44f8e9539c68b7ce75209ef947d_4798003944348993591.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "别担心…我坚持得住。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/53c891ca703df7fb457999bb43656bfb_5801855727411108562.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "绝地反击？这个我熟，让我来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6a876ce5b9adc86693c6df54178daf75_4245767352280306426.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别逞强，交给我！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f7a0e6b479349ea949a1b15fa03a8e71_5059403668033346443.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "有本事冲我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/56348f461da9441d9208a0b508552537_8938929479955412413.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "我真是个不称职的团长…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/500b00100f3bfa2c7961c51c654c8e48_3577255537369639767.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "不出意料的…坏运气…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/73228bcd53d90bfdf5ddad1ff455d8f3_7685377816707692549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "没能突破…厄运的封锁…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/674717d004cddf49f10a6a8e73fcd4cc_5411260369712903754.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "只是意外。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a36eb84c0f69497c18b16590f553f8eb_1625825234416103740.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "痛死了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2d819e271d1cd15382a658178af4d335_5256814363731447172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "又没躲开…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4791636df13e8c1dd300266f0c0df9ed_1013206058334961003.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "真、真的在叫我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c193e3ea18919d6ac90d856d3a5fd327_1518287644736584857.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "决不拖后腿！…尽量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4877f22da057a960e2f4d78d87b976f1_7730450217632600904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "太棒了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9174f54aa46748b95ecd63dd83624b29_8005873606633146599.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "这就是你的冒险团吗？真好啊…又热闹，又有人情味。啊，我是「班尼冒险团」的团长班尼特！能把我列入你们的合作伙伴吗？拜托了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d61084569e7b0457cb7407a39794cf63_4959000805920956185.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·宝藏",
+          "text": "不如在周围找找看吧，说不定有宝藏呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b6beca63f851b3448cbec85daa81794a_274961294429833995.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·冒险",
+          "text": "好久没有和别人一起冒险了！我们走吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d040fa2f06fafc72ac4930ece7cd000a_8824765695072190331.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·调侃",
+          "text": "俗话说「等在原地是不会有好事发生的」，当然以我的运气来说，往哪里走都一样啦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/76f6f1231efd9df0a10fdd00bae366ca_3984642419228911980.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "我冒险的时候，大多都是这种天气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aa1aad30c0853933b3d4be87cbf1f5f1_8598628734984264567.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "啊！别和我站得太近，这样雷就不会劈到你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9e18dc5b4f546ca4b432f245ee3f7e76_4317506051220726030.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "今天的天气真不错…啊，糟了，说完这种话多半就要下雨了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d1ee6fc9d9fd696471478d558ed1482d_2775805525235100568.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "小心点，别被吹过来的石头砸到脑袋了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2ef5fefdf9908c4ccb028b96065e566f_2362628023168466475.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好！我们今天去哪儿冒险啊？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/759b677706de930e80c29991a016ad8f_7949622409980092553.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "我带了三明治，要吃吗？分你一半…唔唔！咳，咳…不好意思，噎到了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b4b6059dc9d60d8dfbfe8f085d4d781_5384428933768578849.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "要不要陪我去和老爹们聊聊天啊？老冒险家的故事可有意思了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea17c7584a7d4bd9fa18af79d8b9a380_6203087845501305852.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "要走了吗？能和你一起冒险太开心了，下次记得再叫上我啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bba0078d6ff24b916111d31945ced90b_6576265864084539090.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特自己·冒险团",
+          "text": "我就是「班尼冒险团」的团长，振兴蒙德冒险家协会的希望之星…没见过其他团员？那个…最近他们都请假了，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a0c7b34288a2c1ab9f54641e336b76cb_1678036785302542956.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特自己·坏运气",
+          "text": "没有传说中那么夸张啦，不过就是走路经常会掉进猎人打猎用的坑里，或者被突然倒下的树干砸到脑袋，都很平常嘛，对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6e9e63eb98295ffaf5243188ed6a460e_5954869442729726374.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·搭档",
+          "text": "哈哈，不行的，「班尼冒险团」早就满员了…合适的人选有那么多，没必要找我这个倒霉蛋吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3d03e11d92b178c19afd923f67722d90_5853351202514962744.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·分工",
+          "text": "以后我负责引走怪物和激活陷阱，你就负责带走宝藏。啊，这样不行吗？哎呀，没事没事！不用担心我会受伤啦，这是我最擅长的！而且为了你的话，我愿意！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/75857d0838d2d544553967bd90b65d40_4445583581831901398.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·险境",
+          "text": "我终于明白你为什么找我搭档了，你和我很像，一定也很喜欢置身于险境的那种快感吧！冒险就是因为有危险才让人欲罢不能啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5b5b4788662e175b76adc3e0c32652dd_8735129379504656757.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "没想到我这么倒霉的人也可以获得神的认可，既然神都没有放弃我，我又怎么能放弃我自己呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cf5f467ca52efeb32cbedf4a7660542a_6511683931466766297.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "有机会要和我一起去俯瞰蒙德的夜景吗？蒙德城灯火通明，果酒湖反射着月光，特别漂亮…你问我在哪里看到的？哈哈，有一次不小心被龙卷风卷到了特别高的地方…什么？不想去啊，哦，好吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3da8ebf08af1d1975aa5cda4cb4b9169_7918873220756067458.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "其实我很喜欢卷心菜，看上去很普通，却是一般人家必不可少的食物。它能生长在很多地方，也能和很多食材搭配，还从不抢味道。其实普通一点，也挺好的嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c15bee9f5e8a8a7ac0632d98f71b1887_4093584513692100547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "她很擅长唱歌跳舞！我冒险不顺的时候就会去看她的演出，跟着观众一起喊喊口号加加油，心情就变好了，真的很神奇！这就是她为什么这么受欢迎的原因吧…啊，我这个当团长的，要是也这么受欢迎就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7bf05e799ddc46ee1576d00021c4a784_6328994418773327975.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "那个孩子啊…很可爱，但我必须和她保持距离。只要我陪她玩，她的那些炸弹就会突然爆炸…我倒霉一点无所谓，但要是炸伤了可莉就麻烦了，估计整个骑士团都会跟我没完吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/74895052e5099247490097817a3a2f16_4728076807670556794.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔…",
+          "text": "她是异世界来的「断罪皇女」，可厉害了！我不止一次和她说想要去她的家乡冒险，但每次说到这里她就吞吞吐吐的…嗯，一定是担心我的安危吧，看来她的家乡真的是很凶险的地方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/46053b757b555f6addfcd04a4150b119_8910188330404982483.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "我本来想向琴团长要一些对蒙德的冒险家协会的支援，但其实我不太知道要怎么和她说…冒险家协会没有骑士团那么多规矩，我和老爹们成天也嘻嘻哈哈的，但用这种态度和琴团长说话，肯定不行吧…我是不是要学一下骑士团敬礼的方式？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5293b07bc82f0d1e546f81ecfbcc5f09_388471835033530446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "他是我非常崇拜的人，名副其实的大团长！能领导整个西风骑士团，那该有多厉害啊。不过后来我想了想，冒险团规模太大好像也不行，团里太忙了的话，老爹们就没人照顾了。哈哈，还是现在好啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1a2cc446fbad3c1040c37e1ea1246fd8_1196753346872559630.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷泽…",
+          "text": "你说奔狼领的那个小哥哥啊，他虽然看上去凶巴巴的，也不愿意说话…但是是个有趣的人哦！他和我都特别喜欢吃肉，我给他做肉吃，他教我狼怎么说话，哈哈，你下次要不要一起来？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a1de820fd1a0c2f69461953646867b1d_5602955137402715741.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "哦哦，想起来了，那个女孩子，总横冲直撞的…她和我一样，经常去野外冒险！只不过…只要路边架着锅，就总会飘来浓浓的黑烟，还有什么东西烧糊了的味道…唔，难道她的运气也很差？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a4479500000d15a8cb89897a69da696_7534093897198086515.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔…",
+          "text": "你说她啊，其实我注意她很久了。她很有天分，又特别努力，但在骑士团只能当女仆，一直没成为正式的骑士，你不觉得太可惜了吗？唉，要是她肯来冒险家协会，估计早就是个了不起的冒险家了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/251708264cda53c30ac1eefe9284636f_8981375417944490476.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其一",
+          "text": "什么，想要了解我？哈哈，我只是个普普通通的倒霉冒险家，和你的各种传奇经历相比，简直不值一提啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/689a8ee876f489e2e609d71ab6949d02_3029087175515007483.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其二",
+          "text": "「老爹们」…这是我对蒙德的老冒险家们的叫法，听说我是他们在非常险恶的绝境中捡到的孤儿。很奇妙对吧？明明我的运气这么差，居然能被人捡到还活到了现在，简直是奇迹啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ebdb1f47855a83b4cfb963003beab4f7_3181957571599846199.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其三",
+          "text": "你看出来了啊…呵呵，没错，「班尼冒险团」很久之前就只有我一个人了。因为我很倒霉，无论是多么简单安全的冒险都会变得险象环生，没人愿意跟着这样的团长…你也会这么想吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5a77588b04ccc6a4ab925cbb248969c1_4999796073896910309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其四",
+          "text": "我的坏运气是与生俱来的，长这么大也差不多习惯了。其实换种想法，「倒霉」其实也是件好事，因为说不定哪天我的坏运气就会害死我，我才会想趁着还活着的时候，去更多的地方冒险，认识更多的人——不然，可能我就没机会认识你了，哈哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/76b7fc7c1f9e80b06d794a8b376c8ef7_8587946246827557850.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其五",
+          "text": "不知不觉，我们已经搭档很长时间了。其实我有一个梦想，等到蒙德城的冒险家协会发展成七国里最壮大的协会，我就要去周游提瓦特大陆！「班尼冒险团」会变成最伟大的冒险团，而我们，就是最伟大的两位冒险家！…你问你什么时候加入的？哎呀，这种细节不用在意嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a1056299db2f9584d03e435642dd8ff5_213811729500765856.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "班尼特的爱好…",
+          "text": "我什么都喜欢，但最喜欢的还是冒险！总有一天我会找到这世界上最珍贵的宝藏，到时候老爹们就都能过上好日子，蒙德的冒险家协会也会热闹起来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f43225a96b6e5a795aa47794ec416ada_3699299237507136217.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "班尼特的烦恼…",
+          "text": "硬要说的话…特别倒霉的日子心情会不太好，比如冒险又什么都没找到，或者老爹的身体犯老毛病了之类的，但这些都算不上烦恼，睡一觉就全忘光了。新的一天当然要有新的开始！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a6ffbf0c6e2eb0f9981a83fb8f9ab33e_3292696929632834041.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "肉！肉是最能让人精力充沛的食物！野菇鸡肉串，烤肉排，还有甜甜花酿鸡都是我的拿手菜。和我一起冒险，是不会让你饿肚子的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea3a87c00a313beb211bd05f370853cb_8532154876408058296.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "虽然说冒险家不能挑食，但其实我不是很能吃辣，比如绝云椒椒什么的…吃了之后就喘不上气，感觉呼吸都是辣的，而且之后肯定会拉肚子…这种恶魔一样的果子究竟是怎么长出来的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3e6975392d29e81094c86a5c46f0a938_7085313638726386100.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "太幸福了！哈哈…哎呀！会不会把这阵子的好运全部用完了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8b0902c1f70999f1e8fa47eb6fa5ad2f_2040728362959360540.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "无论做什么都很好吃，真不愧是你啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1953ee0cdb6c353fb66e2497249d5f75_901596259459025970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "完了…肚子已经开始疼了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8518bf261dc43ba3fe3ca33f1ae4b573_9202316188009178992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！祝你新的一年也能有最好的运气！放心吧放心吧，倒霉是不会传染的，因为只要有我在，它们就不会找上你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5c4f787af2f85d856225567716966f4f_2574856712156119989.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "所有力量都提升了！除了运气，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f41d25999b586fcf2d2c668fcf6f8e32_3023793247751112302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这样距离你就又近了一步，我会继续努力的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6971945cedfec6e3cebd01142a44f095_4053047529703973324.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "得到了这么强的力量，我要怎么报答你呢？对了，我知道一个藏着无价宝藏的秘境，一起去冒险吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/36fbaa6e9c6291bc8aac34a5ccaf758d_1081126016506549594.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "托你的福，现在的我应该有能力保护其他人了，这下子大家都会对我慢慢改观吧——那个倒霉得要命，总是遍体鳞伤的班尼特，终于变成一个可靠的冒险家了！…嘿嘿，但愿吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/39bfae0ece148e6b3a0fb6e076f15c0b_9004793690123420224.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "哈——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2cd69feec747a6e0a6ea07e656471edc_6676500174832279542.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "烧起来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/44e73599fbba3d58a818eb7fe67e732d_6347331266658474227.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "上天去吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/03314e05f6677079f85cd6b79802ace5_6483739698556582538.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "喝啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/50736445bc9c3f2041a7d9c9b3e4bd2a_3053408822750116012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "炸飞你们！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4570a9a6d2d38c8cb13ee67a12660a18_4350313444009425514.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "都闪开！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cac55e06209798450a692d684b2c678e_1985619850298930215.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "我来保护大家！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a3a3a670053dc670bd18b85aa4da31cc_8277521720090634751.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "该总攻击了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bfc7891cc8d6e471aff291cccd5d3e5d_1987065673067552634.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "有大家在身边，伤口就不会痛！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dd064caebd79d6650bf387abb678dc8b_5206787856943861525.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "冒险、冒险！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/52b93d259ec60d2489d01160897c0cbd_5885860076021001866.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "好，出发！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0fab681c79bfbda8f4102879f013fa7d_1805751295134375252.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是货真价实的宝藏！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6ccbc3403dfbd81ff07be326e91f2f8d_2402595333995918310.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "我居然也有这么好运的一天！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dfde608ea52e595219a6c8be8e023d13_6384508816420850317.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "简直是奇迹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c12bf459daf7f5c4cc8d9e69b3683277_4566377652686446912.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "糟糕…最近绷带在涨价啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bc022fe02bafdf63c7a4f4781b7da367_3022137793191358926.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "别担心…我坚持得住。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5b719073635f53dc8cd356dd8f6ceefe_6338557464134161718.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "绝地反击？这个我熟，让我来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/518148d280ea80c93a2575d1aa612179_3302263890178938336.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别逞强，交给我！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/7dca3917ef9914632a01fe0a191280f3_4140905422615121529.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "有本事冲我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8ba041b9c8bfc2c78bce7724e228bee4_566704955644416072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "我真是个不称职的团长…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b1aa3aa9d5bf63c95a7fcb896edfcb2b_4224014384366396106.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "不出意料的…坏运气…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c57b69a2779f24c3cd0bf746551fd3f_4764944970701166135.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "没能突破…厄运的封锁…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a3ffd030df3477f7cec435b908b41ee7_995597771748497273.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "只是意外。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2de6ac2c90dcc81e219ea1e61defaf5d_7716586665515916341.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "痛死了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c65066c5926e316253f26f42184d6f23_7688863163764964762.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "又没躲开…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7c95ffc7c4d1efabf012fe64cdf39e88_2901798142243360778.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "真、真的在叫我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0cd2c20092893e6a610ae2a5a54f0af9_2079381165221321267.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "决不拖后腿！…尽量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/161ae817307fd4cf5d4ea8f4227900ba_4871225413679992199.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "太棒了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c022cfa6d04e03eb2e697b86630d4d93_8083978022910640653.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "这就是你的冒险团吗？真好啊…又热闹，又有人情味。啊，我是「班尼冒险团」的团长班尼特！能把我列入你们的合作伙伴吗？拜托了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4cda13f09c5d32fafc91a3cdfe574f7f_5357722503381267322.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·宝藏",
+          "text": "不如在周围找找看吧，说不定有宝藏呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/abaddaf6c6b09e53f54d396da3b30be1_5287423078294088906.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·冒险",
+          "text": "好久没有和别人一起冒险了！我们走吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c80d30b38c32b82a0a65fed0aaa28312_5748750771289747700.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·调侃",
+          "text": "俗话说「等在原地是不会有好事发生的」，当然以我的运气来说，往哪里走都一样啦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/42e222dab97c1c197e86d4935c924e61_7246881522260035159.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "我冒险的时候，大多都是这种天气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5fcbc87b5f90dd47121d131a909fda52_7855398392184947274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "啊！别和我站得太近，这样雷就不会劈到你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fcb30f4b5dd6313399efcdeb2038d2ac_7847590635821410810.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "今天的天气真不错…啊，糟了，说完这种话多半就要下雨了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/763408faec0839ed02c6d8077fec4a68_5294964475246053706.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "小心点，别被吹过来的石头砸到脑袋了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f89b6a79e559a09702a8d9fc1281f18a_892894948705733531.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好！我们今天去哪儿冒险啊？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/33dfd04c95a38a07d0e631631d221237_7013614150641565399.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "我带了三明治，要吃吗？分你一半…唔唔！咳，咳…不好意思，噎到了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/99ce582359bc7fc43dd61eb431b59697_1813340948329337518.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "要不要陪我去和老爹们聊聊天啊？老冒险家的故事可有意思了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bb68f0c86faef86af37c1f0c49c938e0_7469842006015692495.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "要走了吗？能和你一起冒险太开心了，下次记得再叫上我啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a00a6eb8382dfc37ea690c79ab0a02c5_5631471400624414309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特自己·冒险团",
+          "text": "我就是「班尼冒险团」的团长，振兴蒙德冒险家协会的希望之星…没见过其他团员？那个…最近他们都请假了，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d018196ee18cc75d155d25adbe1c4bb6_4037932278072995562.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特自己·坏运气",
+          "text": "没有传说中那么夸张啦，不过就是走路经常会掉进猎人打猎用的坑里，或者被突然倒下的树干砸到脑袋，都很平常嘛，对吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dd276c2d17dbbc4bd0cae1da65b1389f_9195734398596046892.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·搭档",
+          "text": "哈哈，不行的，「班尼冒险团」早就满员了…合适的人选有那么多，没必要找我这个倒霉蛋吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6310184ff1537760f3a7eba062e0908a_473018885389791290.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·分工",
+          "text": "以后我负责引走怪物和激活陷阱，你就负责带走宝藏。啊，这样不行吗？哎呀，没事没事！不用担心我会受伤啦，这是我最擅长的！而且为了你的话，我愿意！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2923475ccb801378adecee3e1560aaa6_1312292463771419632.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·险境",
+          "text": "我终于明白你为什么找我搭档了，你和我很像，一定也很喜欢置身于险境的那种快感吧！冒险就是因为有危险才让人欲罢不能啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/094fa40ec3a24435802101720de4ade3_8626903396246512480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "没想到我这么倒霉的人也可以获得神的认可，既然神都没有放弃我，我又怎么能放弃我自己呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/493e021edfc8694d3c1fb788b298c4ce_7049584965838865869.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "有机会要和我一起去俯瞰蒙德的夜景吗？蒙德城灯火通明，果酒湖反射着月光，特别漂亮…你问我在哪里看到的？哈哈，有一次不小心被龙卷风卷到了特别高的地方…什么？不想去啊，哦，好吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bb8b07f565891eb9022b26c6e904c018_1313352217594104565.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "其实我很喜欢卷心菜，看上去很普通，却是一般人家必不可少的食物。它能生长在很多地方，也能和很多食材搭配，还从不抢味道。其实普通一点，也挺好的嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cec9434f1c54655490b4e8792df60550_8828144589309705974.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "她很擅长唱歌跳舞！我冒险不顺的时候就会去看她的演出，跟着观众一起喊喊口号加加油，心情就变好了，真的很神奇！这就是她为什么这么受欢迎的原因吧…啊，我这个当团长的，要是也这么受欢迎就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/99856790339fea44b85714417163b27a_6178034953974287.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "那个孩子啊…很可爱，但我必须和她保持距离。只要我陪她玩，她的那些炸弹就会突然爆炸…我倒霉一点无所谓，但要是炸伤了可莉就麻烦了，估计整个骑士团都会跟我没完吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab610e99679de5c5ab9c72643141b4f7_52294833126298194.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔…",
+          "text": "她是异世界来的「断罪皇女」，可厉害了！我不止一次和她说想要去她的家乡冒险，但每次说到这里她就吞吞吐吐的…嗯，一定是担心我的安危吧，看来她的家乡真的是很凶险的地方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dee9757391103e4a678f948c2046e545_8514519017298597715.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "我本来想向琴团长要一些对蒙德的冒险家协会的支援，但其实我不太知道要怎么和她说…冒险家协会没有骑士团那么多规矩，我和老爹们成天也嘻嘻哈哈的，但用这种态度和琴团长说话，肯定不行吧…我是不是要学一下骑士团敬礼的方式？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4f1b5d3ad9a6a2311895c3c8b4fb3990_4241773370759111839.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "他是我非常崇拜的人，名副其实的大团长！能领导整个西风骑士团，那该有多厉害啊。不过后来我想了想，冒险团规模太大好像也不行，团里太忙了的话，老爹们就没人照顾了。哈哈，还是现在好啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a0deccf059aab110f0c1081657d369d8_141100941243862586.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷泽…",
+          "text": "你说奔狼领的那个小哥哥啊，他虽然看上去凶巴巴的，也不愿意说话…但是是个有趣的人哦！他和我都特别喜欢吃肉，我给他做肉吃，他教我狼怎么说话，哈哈，你下次要不要一起来？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e9ef89e3c3a608da2da46f8004a94915_7938610116212765316.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "哦哦，想起来了，那个女孩子，总横冲直撞的…她和我一样，经常去野外冒险！只不过…只要路边架着锅，就总会飘来浓浓的黑烟，还有什么东西烧糊了的味道…唔，难道她的运气也很差？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c4212995843b727caa30dddc6fdc96bb_5510425707713131809.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔…",
+          "text": "你说她啊，其实我注意她很久了。她很有天分，又特别努力，但在骑士团只能当女仆，一直没成为正式的骑士，你不觉得太可惜了吗？唉，要是她肯来冒险家协会，估计早就是个了不起的冒险家了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/05afc97d658b13ecd6e4c7c295b7cdb6_2219829728920939388.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其一",
+          "text": "什么，想要了解我？哈哈，我只是个普普通通的倒霉冒险家，和你的各种传奇经历相比，简直不值一提啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8109bc38013d02cdf0e83b334afd5373_3300096599103784450.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其二",
+          "text": "「老爹们」…这是我对蒙德的老冒险家们的叫法，听说我是他们在非常险恶的绝境中捡到的孤儿。很奇妙对吧？明明我的运气这么差，居然能被人捡到还活到了现在，简直是奇迹啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6c10d6e7ccfc76587d4103b5d82c806f_5551754226232528160.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其三",
+          "text": "你看出来了啊…呵呵，没错，「班尼冒险团」很久之前就只有我一个人了。因为我很倒霉，无论是多么简单安全的冒险都会变得险象环生，没人愿意跟着这样的团长…你也会这么想吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9fb62779b7071505144ea5026105dda9_5305664494355845268.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其四",
+          "text": "我的坏运气是与生俱来的，长这么大也差不多习惯了。其实换种想法，「倒霉」其实也是件好事，因为说不定哪天我的坏运气就会害死我，我才会想趁着还活着的时候，去更多的地方冒险，认识更多的人——不然，可能我就没机会认识你了，哈哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/01c82be24bad41130f7b407cc4947edb_339719737096242529.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解班尼特·其五",
+          "text": "不知不觉，我们已经搭档很长时间了。其实我有一个梦想，等到蒙德城的冒险家协会发展成七国里最壮大的协会，我就要去周游提瓦特大陆！「班尼冒险团」会变成最伟大的冒险团，而我们，就是最伟大的两位冒险家！…你问你什么时候加入的？哎呀，这种细节不用在意嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/492b189eb5f708e4970acc65f4da7b92_1555979282013094776.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "班尼特的爱好…",
+          "text": "我什么都喜欢，但最喜欢的还是冒险！总有一天我会找到这世界上最珍贵的宝藏，到时候老爹们就都能过上好日子，蒙德的冒险家协会也会热闹起来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/104979911274c32c27a5e90d453b5178_7332182534440146550.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "班尼特的烦恼…",
+          "text": "硬要说的话…特别倒霉的日子心情会不太好，比如冒险又什么都没找到，或者老爹的身体犯老毛病了之类的，但这些都算不上烦恼，睡一觉就全忘光了。新的一天当然要有新的开始！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b7bfc7d3c185649388ef2746edf797eb_1369048703439633512.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "肉！肉是最能让人精力充沛的食物！野菇鸡肉串，烤肉排，还有甜甜花酿鸡都是我的拿手菜。和我一起冒险，是不会让你饿肚子的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/24927b2fe85211d795ac14f11d6dbc60_7291013673159417918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "虽然说冒险家不能挑食，但其实我不是很能吃辣，比如绝云椒椒什么的…吃了之后就喘不上气，感觉呼吸都是辣的，而且之后肯定会拉肚子…这种恶魔一样的果子究竟是怎么长出来的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/768e78aad6212cfc9708509ad78c1ff6_7537007139536181141.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "太幸福了！哈哈…哎呀！会不会把这阵子的好运全部用完了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a7cbbb57deb0316af39400ff6a71acd1_3293022545829481681.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "无论做什么都很好吃，真不愧是你啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1c09037400e281a44997a17f2bf21a40_2878337622017616962.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "完了…肚子已经开始疼了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/bf91105ef5d7a9ac970be28c01797a78_3723050696049134333.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！祝你新的一年也能有最好的运气！放心吧放心吧，倒霉是不会传染的，因为只要有我在，它们就不会找上你了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a6aca11e3fc26d47793088adfe1a4c6_2849234098204256897.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "所有力量都提升了！除了运气，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2f03f3e705887818249fb4b763df8206_8070795857979256946.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这样距离你就又近了一步，我会继续努力的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a31487cb942aacb58d43b8890828ceb1_4583063270369870929.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "得到了这么强的力量，我要怎么报答你呢？对了，我知道一个藏着无价宝藏的秘境，一起去冒险吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/17eb4b2df6ed4a2ae15922124f835163_6521510750546234833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "托你的福，现在的我应该有能力保护其他人了，这下子大家都会对我慢慢改观吧——那个倒霉得要命，总是遍体鳞伤的班尼特，终于变成一个可靠的冒险家了！…嘿嘿，但愿吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4e04942f2e0b927ceb91b446a748bd21_8284558724920143016.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "哈——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/745912ff2bca3e3b8c5c3c9fa0fdd36a_9031296735619422042.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "烧起来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/afaafb96519fd986bba097e8a1242acf_747067300472111854.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "上天去吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b266ed30b13c207ef9418375008fd395_5704714862488096536.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "喝啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4a8a5ac09062c6edf0c0878c1c04dc25_8841767778620745574.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "炸飞你们！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5a94dd947de030f6d297cd4523502e20_4617210451348851328.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "都闪开！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/521957eb4b37f0d52cc2dc964745ce1d_8063753772510785705.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "我来保护大家！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7f732c2998c0c3f2306f10cc3e5c0852_2200487715944426745.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "该总攻击了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/82d337d882e80f963eac8be2dea9955f_242973835468639765.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "有大家在身边，伤口就不会痛！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/67952f8fb44a0e07ad1d0310a696a136_2596161924343790975.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "冒险、冒险！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/73483fc17e455da90bdd7064f028d4fc_7704029018136532661.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "好，出发！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a54100d52d676fa0471697ae019455d1_5740790213436902999.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是货真价实的宝藏！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ec3703fa5920f02a5135eb22517bfb99_7282317926222346507.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "我居然也有这么好运的一天！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/630a99c35307026c2a80cdbdfdd64506_6371947416941471562.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "简直是奇迹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c5ab6a94a136d1e77ddac04aaef9353f_7570754607064178488.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "糟糕…最近绷带在涨价啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3080f64543d82053925c0b43333b6fa2_1199257082694252547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "别担心…我坚持得住。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8a31f1da5e729d5c83700143f3669239_4886817227771408238.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "绝地反击？这个我熟，让我来吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/08623888fdd288955926cff58c04b48a_2595342560253170652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别逞强，交给我！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/06/16576950/a513d905681d3ce587cee408a6246bda_1610516207744554024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "有本事冲我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/06/16576950/0a97cc369f0c6bc4a8caf67b7fa95924_4409532630888857688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "我真是个不称职的团长…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f6af06fa76502d32042ead8b73fe1e02_6510235304273150175.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "不出意料的…坏运气…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bc21624654d3e09fabf77ed1ea963480_1139751496038894099.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "没能突破…厄运的封锁…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cbd6e47ead84d12ceb7c7d8a027d4163_5389531650223669097.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "只是意外。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b8104ca57b52228226aa3602cd6fbb46_7954818066457626120.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "痛死了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/23ae0d136db67d22a3bd7b8d7daacb90_4896632546962271268.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "又没躲开…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f5f25881ce8d9f4692268bf982cee988_4884136580418565130.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "真、真的在叫我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fa0407bbd2c8926a86b9e7126d2e8f05_5442308407804947031.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "决不拖后腿！…尽量。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a0d0edf2d6373c3a3dfbb499ac957262_9100853285753995199.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "太棒了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c5b3bf4c5ad8d40d319caa6001dd19dc_7731917010869750140.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

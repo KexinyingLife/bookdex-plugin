@@ -1264,6 +1264,9 @@ ${item.text || ''}`
     if (!raw || raw.length < 2) return false
     if (/^书籍(帮助\d*|导入)$/.test(raw)) return false
 
+    // 避免拦截喵喵面板变换类命令（如：#五郎面板换莉奈娅101010）
+    if (/(面板|面版).*[换变改]|[换变改].*(面板|面版)/.test(raw)) return false
+
     const { wantImage } = this.outputMode(raw)
     const title = this.trimOutputSuffix(raw)
     const norm = normalizeRoleName(title)

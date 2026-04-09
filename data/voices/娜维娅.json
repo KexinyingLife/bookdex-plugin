@@ -1,0 +1,1829 @@
+{
+  "id": "500419",
+  "name": "娜维娅",
+  "alias": [
+    "娜维娅"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "大名鼎鼎的刺玫会现任会长、领导者、总指挥、话事人、老板娜维娅，很高兴认识你！看你才貌出众、气度不凡，我有种预感，我们的缘分会像我的名号一样长呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/f3af84cd48a2c40def289f42af4b4b8e_1866235722714079778.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·旅行",
+          "text": "好想去旅游呀——！去哪无所谓啦，主要是想跟朋友们一起玩，嘿嘿。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d46c262f8e99180f31c44b6cb2ab6876_1468421675655748999.mp3",
+          "audioName": "02闲聊·旅行_cn.mp3"
+        },
+        {
+          "name": "闲聊·经验之谈",
+          "text": "多年的帮派经验告诉我，身边有一把不称手的武器会比没有更危险。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/effcdf04716ad38a0abb5d121c6c7f19_4708297814214044192.mp3",
+          "audioName": "03闲聊·经验之谈_cn.mp3"
+        },
+        {
+          "name": "闲聊·会标",
+          "text": "刺玫会的标志是母亲设计的，我非常喜欢。你看，轮廓像颗心脏一样呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/9a77c0b45bfb483848bdd9f735e4d089_4468706448506839212.mp3",
+          "audioName": "04闲聊·会标_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊…又是雨天…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/ee9a24c7aabdf3ceb654ad8d0f07156d_7586556861184749166.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎呀！刚才看到闪电就该捂住耳朵的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/3c744cc742c7909da3a12b177a01504c_8147814427971739187.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "是不是应该摘掉帽子，让雪花落在脸上？感觉一定很清爽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/0880f6701e7348c0cf720f005663a87f_9047240442248571729.mp3",
+          "audioName": "07下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "就是现在，立刻，马上，抬头！你看天上，是不是烈日炎炎，骄阳似火！知道这说明什么吗？说明我们现在应当立刻，马上，去买最大号的超级冰冰凉甜筒，然后比赛谁能在它融化前全部吃完！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b4f49f4aa4a0e92ac62f090ec678d7ab_2892380823581912713.mp3",
+          "audioName": "08阳光很好…_cn.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "太好了，雨停了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/62e59361791809239589ef3528f2fea6_5686330270124759372.mp3",
+          "audioName": "09雨过天晴…_cn.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "帽子和裙摆…好难取舍！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/179b56bcf986bb192960e4cfe5e83297_8311967455431066502.mp3",
+          "audioName": "10刮大风了…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "戴上墨镜就不会被沙子迷住眼睛了！但天黑时会看不清路…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/c5564ee1b9943d6a7399362e028d6a92_2083453951684680618.mp3",
+          "audioName": "11在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好！想好今天要做什么了吗？没想好的话，要不要跟我来？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/57c175fd9a582a34fb6629bf497578c4_5341428627113625659.mp3",
+          "audioName": "12早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "听说最近出了一种新口味的千层面，你有没有兴趣？感觉一定不会好吃，但我还是想去试试！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/89e1b6c7c30ed105d121b3fd8f278ea4_6923583067135694971.mp3",
+          "audioName": "13中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚间新闻播报：「今天的刺玫会会长也和她的好搭档度过了完美的一天。」真棒！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1189bddeefc370cee3148e90c9435dec_3927989662356123066.mp3",
+          "audioName": "14晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "快，速速清空大脑，睡个好觉！明天见。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/0eef4b0fc2f77234d68ded8bf574dfea_130440369675197649.mp3",
+          "audioName": "15晚安…_cn.mp3"
+        },
+        {
+          "name": "关于娜维娅自己·乐观",
+          "text": "盲目乐观可不行，幸福的生活要靠自己的双手去争取！所以，来，握住我的双手，左右摇晃几下——怎么样，是不是很开心？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/45a2192532a6ad7e83132a274f322121_1655085819113474385.mp3",
+          "audioName": "16关于娜维娅自己·乐观_cn.mp3"
+        },
+        {
+          "name": "关于娜维娅自己·运气",
+          "text": "了解我经历的人可能会觉得我运气不好吧，但我不这么认为哦。能得到这么多的爱，是我一生最幸运的事情了吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/3caf87b8bc588352a939f479109612dc_6917604304411328134.mp3",
+          "audioName": "17关于娜维娅自己·运气_cn.mp3"
+        },
+        {
+          "name": "关于我们·搭档",
+          "text": "他们有人叫我老板，有人叫我大小姐，我都无所谓啦。最开心的还是你称呼我为「搭档」的时候，所以请多叫几次，满足我的虚荣心吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/f81d274a6450c236154de27657b643b5_8232833196383511618.mp3",
+          "audioName": "18关于我们·搭档_cn.mp3"
+        },
+        {
+          "name": "关于我们·保密",
+          "text": "有人说秘密一旦说出口就不是秘密了，但能和朋友分享的秘密不是更加珍贵吗？…什么啊，我不是在威胁你啦！虽然身为刺玫会的会长，我当然知道很多让人保守秘密的诀窍，但我是不会用在你身上的，安心啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/fcc2708ec325040448968907cf7fc5f7_8735518543189924002.mp3",
+          "audioName": "19关于我们·保密_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "给你看，这就是我的神之眼！亮晶晶，很称我衣服的颜色吧？不过还是你比较厉害，不需要神之眼就能使用很多种元素，应该不是靠练习就能做到的吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/0987509bb48f29ce11b52f49a08522f4_8954894592712457137.mp3",
+          "audioName": "20关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享·狗狗",
+          "text": "在所有的品种里，我最喜欢深栗猎犬。你看它们眼睛上方的花纹，是不是很像眉毛？所以它们总是一副憨厚又认真的样子呢。不过这件事还请帮我保密，千万不要告诉别的狗狗！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/98af4cc2cc76884c5499ce87cba08d2c_5922127341276509863.mp3",
+          "audioName": "21有什么想要分享·狗狗_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享·可靠的刺玫会",
+          "text": "假如你在灰河待过一段时间，应该会发现枫丹还是有不少其他帮派的。他们的目的不一，并不都像刺玫会那样友善，你可要多加留心。如有必要，可以向酒保泰托先生求助。若是对方不愿意坐下来谈的话…嗯，那就只好请我们可靠的白手套先生出马咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/11c9e3616e6ee442e37ab3e26b4b9617_3658371195225209196.mp3",
+          "audioName": "22有什么想要分享·可靠的刺玫会_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "久雨莲的颜色真好看啊。而且当你看到它们纷纷绽放的时候，就说明漫长的雨季终于过去了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/4824dd9891c089ff389d11d7c70da101_4051106863313879811.mp3",
+          "audioName": "23感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "她平时话不多，表情也不多，但还是能看出来喜怒哀乐的。之前老爹的事卡在我们之间，唔…有些隔阂吧，就算是那段日子，我也不爱她小心翼翼的样子…还是现在这样比较好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/e4c55bc496a7f4962bd7f553ee5476a8_647237028524826710.mp3",
+          "audioName": "24关于克洛琳德…_cn.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "比起跑新闻时的热情和速度，夏洛蒂的拍照技术更让我惊讶。她之前随手给我拍过一张半身照，光影效果好像精心绘制的油画一样。既能写出意想不到的报道，又能拍出最能抓人眼球的画片，她大概天生就是要做记者的吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/aba476c82cf9fd0546a8144aac63b319_7482094478821584287.mp3",
+          "audioName": "25关于夏洛蒂…_cn.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "这位为枫丹时尚带来异国风情的服装设计师，私下里帮过刺玫会不少忙呢。她说我的奇思妙想给她提供了好多创作灵感，以我对她的了解来看，应该不是客气话。但当我请她做一个十米高的礼帽时，她却严词拒绝了。唉，要是能摆在店门前，应该是很惹眼的宣传手段呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/fbadb8afa7151e6d787aa33ebfce596e_8651030148169868393.mp3",
+          "audioName": "26关于千织…_cn.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "小时候有幸观看过一次芙宁娜大人参与义演的歌剧，票可难买了！虽然扮演的是别的角色，但她看起来反而比平常站在高处演讲时更自然些…现在回想起来，竟然不是错觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b42d097eb28277b019de2a2dcfde79ed_4686829784921577291.mp3",
+          "audioName": "27关于芙宁娜…_cn.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "那维莱特先生啊，既复杂又简单。怎么说呢…就像海里的礁石，磕磕绊绊的，但假如理解了其中的规律，也不是完全没法观测。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/2ad3046d22604fc6033458799ac5a85f_3263705816265125811.mp3",
+          "audioName": "28关于那维莱特…_cn.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "想和他谈点东西可费劲了。克洛琳德说在既定的合约基础上可以放心与他合作，但千万不要相信他说的每一句话。怪不得老爹以前从不插手水下的事，保险起见，还是维持原样吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/9cce92f55f7cb2e640133e8319f8312f_2458672715635919787.mp3",
+          "audioName": "29关于莱欧斯利…_cn.mp3"
+        },
+        {
+          "name": "关于「仆人」…",
+          "text": "她是一位威严却又慈爱的领导者，有「一家之主」的风范。不过能成为愚人众的执行官，她一定也有手段狠厉的一面。所以放心吧，我会永远记得她帮助过白淞镇的恩情，但在其他方面也会留心的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/2b5d3073ab2d368c30a21fd7eb56d63e_9099565589895929755.mp3",
+          "audioName": "30关于「仆人」…_cn.mp3"
+        },
+        {
+          "name": "关于林尼和琳妮特…",
+          "text": "我知道大魔术师说话总会有些浮夸啦，但能看出，林尼是真心对待身边亲友的。有时候他表现出的责任感，可比他的年纪大多了…哦对了，他之前免费给白淞镇的小朋友们变过魔术呢！有机会的话，下次也请他和琳妮特小姐一起来吃马卡龙吧。琳妮特小姐经常凭空变出茶杯来喝茶，那应该不会讨厌甜点吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b2bd763c15107d824c37c058644460a5_7649340799277384172.mp3",
+          "audioName": "31关于林尼和琳妮特…_cn.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "我的好朋友爱可菲呀，她总算是结束闭关了。听说，她在开发超越「德波大蛋糕」的新品，一直闷在自己的专属厨房里。再这样下去，眼睛都要畏光了吧？不如，我们约上她，找个时间出门野餐吧？阳伞和墨镜随她选。和爱可菲出行，普普通通的郊游都会变成一场美食之旅哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/93c0f45aba84c5077ff6126f92bc2aa8_2530871747980669683.mp3",
+          "audioName": "娜维娅关于爱可菲cn.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其一",
+          "text": "刺玫会的工作嘛，杂七杂八的什么都有吧，不过核心目的都是帮助大家解决各种麻烦。这里的「麻烦」只用来指代问题本身，不代表我觉得这些事情烦心哦。相反，能帮到大家会让我觉得神清气爽呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/5336bfbc59abadf2a59cd965948740b7_5280100841203735901.mp3",
+          "audioName": "32想要了解娜维娅·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其二",
+          "text": "人还是要有些浪漫情怀才行。春天的花，夏天的海，还有朋友的笑容，都不该是被忽略的景色。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/5862cc9a9a3f0e12440531140fd705b1_969889916469496951.mp3",
+          "audioName": "33想要了解娜维娅·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其三",
+          "text": "有时我会找个人迹罕至的野外，摆一些物件作为目标，然后练习打靶。很解压的！你想试试吗？我来手把手教你。虽然你是我的第一个学生，但我觉得我会成为一名好老师的。老爹还有布莱卡利奶奶教我的东西我都还没忘呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1e39ed79861dd74e366b3a9e7c3012d0_8203719566843608874.mp3",
+          "audioName": "34想要了解娜维娅·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其四",
+          "text": "我不会变成和老爹一样的人。有刺玫会里的老干部觉得我和老爹越来越像了，但我认为那只是很小的倾斜，要归因为有些问题只能用固定的几种办法来解决。刺玫会已经不是当年的样子了，那么会长也不会相同。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/58e91f1abeb1e6c41db6cc1f6ea70b31_318877267677831441.mp3",
+          "audioName": "35想要了解娜维娅·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其五",
+          "text": "我觉得我也不会变成和母亲一样的人。虽然很多人都说我性格和她很像，我也大约能想象到她当年做出很多选择的理由，但是…哎，突然很想去坐一次克莱门汀线。就现在，可以陪我吗？倒也没什么特别的目的，就当是我邀请你去城里闲逛吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/a03a19d92772a5418c3831d57b1ccefd_3092808625689151349.mp3",
+          "audioName": "36想要了解娜维娅·其五_cn.mp3"
+        },
+        {
+          "name": "娜维娅的爱好…",
+          "text": "我从小就喜欢烘焙。看着一堆零散的食材按照比例融合在一起，就能在烘烤的过程中一点点膨胀、定型，变成香喷喷的样子，是不是很神奇？对了，有机会一起来烤姜饼吧？比比看谁能用饼干搭出最高最漂亮的小屋！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/65afb444817bf781539b9c7e6b960074_3349383627342265824.mp3",
+          "audioName": "37娜维娅的爱好…_cn.mp3"
+        },
+        {
+          "name": "娜维娅的烦恼…",
+          "text": "呃，烤完蛋糕以后散落的面粉好难收拾啊，还有粘在容器里的蛋清和奶油…我、我去叫帮手来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/df1e66646dc079c3941c012bc1da9fc2_5565262494944012532.mp3",
+          "audioName": "38娜维娅的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢能带来惊喜的食物，但请不要怀疑我的味觉。我只是欣赏其中包含的创意，但这也不会改变很多菜品难吃的事实就是了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/62c63b50a5222bf0130ce90c5d818fce_5604568711411993141.mp3",
+          "audioName": "39喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我不喜欢存放了很久的剩菜，感觉辜负了新鲜食材的一生…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/048d50eead473e31534219427dc07593_6675670343075884484.mp3",
+          "audioName": "40讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "惊人的厨艺！跟你出门的话，我才是应该带着食材和厨具的那个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/e694c39e9e7ff96ec7e44e7990d876a1_6089684955452817326.mp3",
+          "audioName": "41收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道真不错，再让我加些摆盘艺术就更完美了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/962f07e7de0bcceee7144997b02467e9_3534751809549014773.mp3",
+          "audioName": "42收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "不要气馁，世界需要这种创新精神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/02a80283c2cc1b180565251f0f94d6d0_3818540862019626586.mp3",
+          "audioName": "43收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "你相信许愿吗？向泉水中丢一枚摩拉，然后等待好运降临在头上。我想，只要摩拉丢得够多，其中总有一个愿望能够实现吧？所以与其寄希望于这样的随机事件，我决定直接用一袋摩拉为你实现今天的愿望。只要是我娜维娅力所能及的，一定都帮你办到！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/819e746047acf6b638efc843ca07fa3f_1207369044868694395.mp3",
+          "audioName": "44生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "这种感觉…好像柠檬乳酪蛋糕！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/0cbc5541fa6321b8ad76a76fafde66bd_8216388619524777306.mp3",
+          "audioName": "45突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "奶油融化在舌尖，压力也跟着消散了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/700a2f75b3e5ecc6762ebebe37951bc9_5947512209200185188.mp3",
+          "audioName": "46突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你知道有一种子弹形状的巧克力糖吗？它的甜度能瞬间让你全身充满力量，就像我现在的感受一样！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/6aa8ba22e00edf6b7122d268c4585c1e_5540230758431452154.mp3",
+          "audioName": "47突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "最后再来一壶熨帖的奶茶，属于你我的茶歇时间就可以开始了。不过你为我做了这么多，用一顿茶点作为感谢还是不太够呀。以后你在枫丹要是有什么需要帮忙的，就来找刺玫会吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/173e56f64dd460dd6664a6b3e8ccba7e_531831321333026530.mp3",
+          "audioName": "48突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "小心咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b7565e1a3b559a7d2f7539ad18985edb_8715858827394358266.mp3",
+          "audioName": "49元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "正面偷袭！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/ed94ba9a2c8347a55a621c9ca2075236_7485273482662851707.mp3",
+          "audioName": "50元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "你好呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d8302e9487633d7d47ba6fec4e44fd36_4191143234796890292.mp3",
+          "audioName": "51元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "试着躲躲看？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/a5607c07b53f3ec924b68e012eb1762a_3644150143340718003.mp3",
+          "audioName": "52元素战技·其四_cn.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "猜我还有几颗子弹？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1d6490879035af513729d83e5c41f230_373575940931342483.mp3",
+          "audioName": "53元素战技·其五_cn.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "是…伞弹枪？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/570087105d040a9f45fbec151867fb00_576400955532909543.mp3",
+          "audioName": "54元素战技·其六_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "开火！虽然是岩元素啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d1727f0dbc8bcccf4b5df5e3e40e1ba1_4205708194864435379.mp3",
+          "audioName": "55元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "玫瑰礼花！刺玫会特别定制版。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/6b958563396b8a2e22b30af825a62d03_1131566875408464881.mp3",
+          "audioName": "56元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "持续打击！嗯嗯，就是这样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/004cbc093845fef25277d81ae1dcc76f_556674630551459794.mp3",
+          "audioName": "57元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "喔！好运连连！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/2945ffe2a08a391e3109d1ded32740a1_8413193008821516102.mp3",
+          "audioName": "58打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "快，快收好！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/7201d3464d4f139f2f2f141e4cabb3e7_5015730349130565978.mp3",
+          "audioName": "59打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "寻宝大成功！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d5d302f3797f2927a7abaf386b2dd6d8_5562566801005615927.mp3",
+          "audioName": "60打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "再…再撑一会儿！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/9850c2024b820c5f3e9e1369a1d2327f_80775716627563745.mp3",
+          "audioName": "61生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "…得尽到责任！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/eeade8b54df1c491981887d79b05ccb9_7544212966464613887.mp3",
+          "audioName": "62生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "注意力集中。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/5306b309f600178dd77e8d3b5dd1bc75_5830825272928344706.mp3",
+          "audioName": "63生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "交给会长吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/be980d0461eef3a79788c5ecc9d6de30_1254602347649127023.mp3",
+          "audioName": "64同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "增援到了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/88eb8be98d56855591f21e7d00c3ff93_1238096294759940405.mp3",
+          "audioName": "65同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "就当是…回家了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/ac51cec86ca8a11032d48c777b08a55a_9004259418500032881.mp3",
+          "audioName": "66倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "是我的错吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/ba49bd6fc08dfb1b7828647591d5d58d_8383736651210059758.mp3",
+          "audioName": "67倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "就连我也…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/06cd32824a3a3624917c417aa5d0681e_7108785582366939598.mp3",
+          "audioName": "68倒下·其三_cn.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "怎么了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/8c6f2bce04845dbdc71aae120ad361b0_4265444927885130972.mp3",
+          "audioName": "69普通受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "哪来的？！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/cad6354aaa53da4eda94d0a2b34a8d85_7247676380133950161.mp3",
+          "audioName": "70重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "啊…不算什么！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/9cc23f3b88653f2d88b803f403a474de_1708641334650092704.mp3",
+          "audioName": "71重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "说走就走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/50874638d5a575ffd1f7bb05d68d9226_2437674013879910420.mp3",
+          "audioName": "72加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "刺玫会出马！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/46015fe1e158c1346ba0c25e83ea15be_1790604372474637123.mp3",
+          "audioName": "73加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "今天我带路！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/97bdc71ac9280c024d28a8d131a65288_8273476118385596877.mp3",
+          "audioName": "74加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "大名鼎鼎的刺玫会现任会长、领导者、总指挥、话事人、老板娜维娅，很高兴认识你！看你才貌出众、气度不凡，我有种预感，我们的缘分会像我的名号一样长呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1f7cd6b741366bc544d57f0bff3d1d59_1217841241510781458.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·旅行",
+          "text": "好想去旅游呀——！去哪无所谓啦，主要是想跟朋友们一起玩，嘿嘿。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/8084851cb51c2003fb31b99468b5fdec_1022669012491291989.mp3",
+          "audioName": "02闲聊·旅行_jp.mp3"
+        },
+        {
+          "name": "闲聊·经验之谈",
+          "text": "多年的帮派经验告诉我，身边有一把不称手的武器会比没有更危险。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/08f6fc4ab34562d598183621c67059d4_6405699910480938457.mp3",
+          "audioName": "03闲聊·经验之谈_jp.mp3"
+        },
+        {
+          "name": "闲聊·会标",
+          "text": "刺玫会的标志是母亲设计的，我非常喜欢。你看，轮廓像颗心脏一样呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1e4a94bca9d781202f708deb61f3dbd2_7616446064765561989.mp3",
+          "audioName": "04闲聊·会标_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊…又是雨天…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/00e92032e5b32bed223edc1bb76acc3d_1010256586643190894.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎呀！刚才看到闪电就该捂住耳朵的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/c7756177e0f79a741f3bc9f4f46b25e1_122195533454277742.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "是不是应该摘掉帽子，让雪花落在脸上？感觉一定很清爽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/39a76ce9fdc5a8222aee52cc97f0a376_2119329393223404795.mp3",
+          "audioName": "07下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "就是现在，立刻，马上，抬头！你看天上，是不是烈日炎炎，骄阳似火！知道这说明什么吗？说明我们现在应当立刻，马上，去买最大号的超级冰冰凉甜筒，然后比赛谁能在它融化前全部吃完！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/fcf2e8f5af7ff5841acd370161a73813_3316521475599908481.mp3",
+          "audioName": "08阳光很好…_jp.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "太好了，雨停了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/ef8d3e1bfe806a0627d11b0835b958fe_4988106373958536515.mp3",
+          "audioName": "09雨过天晴…_jp.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "帽子和裙摆…好难取舍！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/8a79bb17135c999cc043dfcc55e46f7c_9097143656536152206.mp3",
+          "audioName": "10刮大风了…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "戴上墨镜就不会被沙子迷住眼睛了！但天黑时会看不清路…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/f8172ca232e623d5df3f1ebf3e242eb9_6467957220174064165.mp3",
+          "audioName": "11在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好！想好今天要做什么了吗？没想好的话，要不要跟我来？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/6e60aec926ebff1da3779f24415f7877_6396888216982498283.mp3",
+          "audioName": "12早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "听说最近出了一种新口味的千层面，你有没有兴趣？感觉一定不会好吃，但我还是想去试试！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/0bb9d9450300763998b05f8cd5ec3212_1241658651460392561.mp3",
+          "audioName": "13中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚间新闻播报：「今天的刺玫会会长也和她的好搭档度过了完美的一天。」真棒！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/c8eb81d0d43f9d1dc779baa7ce529470_6193428869979036456.mp3",
+          "audioName": "14晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "快，速速清空大脑，睡个好觉！明天见。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/18014ece08d1b476569fd79c1022261c_4921531687795554497.mp3",
+          "audioName": "15晚安…_jp.mp3"
+        },
+        {
+          "name": "关于娜维娅自己·乐观",
+          "text": "盲目乐观可不行，幸福的生活要靠自己的双手去争取！所以，来，握住我的双手，左右摇晃几下——怎么样，是不是很开心？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/7ea0e72be0d1e9b0ee3543247f4ab88a_4905389566818966446.mp3",
+          "audioName": "16关于娜维娅自己·乐观_jp.mp3"
+        },
+        {
+          "name": "关于娜维娅自己·运气",
+          "text": "了解我经历的人可能会觉得我运气不好吧，但我不这么认为哦。能得到这么多的爱，是我一生最幸运的事情了吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/a6dda00469548164b7013c866f65a7bf_7549997694442851103.mp3",
+          "audioName": "17关于娜维娅自己·运气_jp.mp3"
+        },
+        {
+          "name": "关于我们·搭档",
+          "text": "他们有人叫我老板，有人叫我大小姐，我都无所谓啦。最开心的还是你称呼我为「搭档」的时候，所以请多叫几次，满足我的虚荣心吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/18601a7dac855d9d8d481fdd619f7a9d_7052246884383324876.mp3",
+          "audioName": "18关于我们·搭档_jp.mp3"
+        },
+        {
+          "name": "关于我们·保密",
+          "text": "有人说秘密一旦说出口就不是秘密了，但能和朋友分享的秘密不是更加珍贵吗？…什么啊，我不是在威胁你啦！虽然身为刺玫会的会长，我当然知道很多让人保守秘密的诀窍，但我是不会用在你身上的，安心啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b6811e87c7b3dfa5d40d879525519612_7919514247418599005.mp3",
+          "audioName": "19关于我们·保密_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "给你看，这就是我的神之眼！亮晶晶，很称我衣服的颜色吧？不过还是你比较厉害，不需要神之眼就能使用很多种元素，应该不是靠练习就能做到的吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/cb439d5ef855fcb965ffd5bbb2f2234f_8771096410485434147.mp3",
+          "audioName": "20关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享·狗狗",
+          "text": "在所有的品种里，我最喜欢深栗猎犬。你看它们眼睛上方的花纹，是不是很像眉毛？所以它们总是一副憨厚又认真的样子呢。不过这件事还请帮我保密，千万不要告诉别的狗狗！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/f225eaada7b82e0226c5967d65f32676_676458010249442506.mp3",
+          "audioName": "21有什么想要分享·狗狗_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享·可靠的刺玫会",
+          "text": "假如你在灰河待过一段时间，应该会发现枫丹还是有不少其他帮派的。他们的目的不一，并不都像刺玫会那样友善，你可要多加留心。如有必要，可以向酒保泰托先生求助。若是对方不愿意坐下来谈的话…嗯，那就只好请我们可靠的白手套先生出马咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b98d37f6dc0a383e30b736322152c29d_6081522998496315364.mp3",
+          "audioName": "22有什么想要分享·可靠的刺玫会_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "久雨莲的颜色真好看啊。而且当你看到它们纷纷绽放的时候，就说明漫长的雨季终于过去了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b5547b85b4817cc9b621191c6028dca1_7102152444788798727.mp3",
+          "audioName": "23感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "她平时话不多，表情也不多，但还是能看出来喜怒哀乐的。之前老爹的事卡在我们之间，唔…有些隔阂吧，就算是那段日子，我也不爱她小心翼翼的样子…还是现在这样比较好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/fb0b7c85db88711a30c057af662082b9_5538237085176590524.mp3",
+          "audioName": "24关于克洛琳德…_jp.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "比起跑新闻时的热情和速度，夏洛蒂的拍照技术更让我惊讶。她之前随手给我拍过一张半身照，光影效果好像精心绘制的油画一样。既能写出意想不到的报道，又能拍出最能抓人眼球的画片，她大概天生就是要做记者的吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/8dee5d27ed7dfe0448484078b81bba22_6510862142651909060.mp3",
+          "audioName": "25关于夏洛蒂…_jp.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "这位为枫丹时尚带来异国风情的服装设计师，私下里帮过刺玫会不少忙呢。她说我的奇思妙想给她提供了好多创作灵感，以我对她的了解来看，应该不是客气话。但当我请她做一个十米高的礼帽时，她却严词拒绝了。唉，要是能摆在店门前，应该是很惹眼的宣传手段呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/5ddb30d4bb762ee505d6f0de5fdb3e34_855342977825331117.mp3",
+          "audioName": "26关于千织…_jp.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "小时候有幸观看过一次芙宁娜大人参与义演的歌剧，票可难买了！虽然扮演的是别的角色，但她看起来反而比平常站在高处演讲时更自然些…现在回想起来，竟然不是错觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/e7da7cdd3938d65fedced4ad409791cf_5882777062475271033.mp3",
+          "audioName": "27关于芙宁娜…_jp.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "那维莱特先生啊，既复杂又简单。怎么说呢…就像海里的礁石，磕磕绊绊的，但假如理解了其中的规律，也不是完全没法观测。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/97943823f43a25ad41d7b7351c696ada_1337470980524698490.mp3",
+          "audioName": "28关于那维莱特…_jp.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "想和他谈点东西可费劲了。克洛琳德说在既定的合约基础上可以放心与他合作，但千万不要相信他说的每一句话。怪不得老爹以前从不插手水下的事，保险起见，还是维持原样吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1da3905abe50e0027e0d0a63e8438eb6_6361668826600350582.mp3",
+          "audioName": "29关于莱欧斯利…_jp.mp3"
+        },
+        {
+          "name": "关于「仆人」…",
+          "text": "她是一位威严却又慈爱的领导者，有「一家之主」的风范。不过能成为愚人众的执行官，她一定也有手段狠厉的一面。所以放心吧，我会永远记得她帮助过白淞镇的恩情，但在其他方面也会留心的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/ca814742b5d1ddd6af7e03b58e6e01a6_2896862317063727246.mp3",
+          "audioName": "30关于「仆人」…_jp.mp3"
+        },
+        {
+          "name": "关于林尼和琳妮特…",
+          "text": "我知道大魔术师说话总会有些浮夸啦，但能看出，林尼是真心对待身边亲友的。有时候他表现出的责任感，可比他的年纪大多了…哦对了，他之前免费给白淞镇的小朋友们变过魔术呢！有机会的话，下次也请他和琳妮特小姐一起来吃马卡龙吧。琳妮特小姐经常凭空变出茶杯来喝茶，那应该不会讨厌甜点吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/e6a34e6db06e9354cc5ddf08f92b0905_4451443309906532863.mp3",
+          "audioName": "31关于林尼和琳妮特…_jp.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "我的好朋友爱可菲呀，她总算是结束闭关了。听说，她在开发超越「德波大蛋糕」的新品，一直闷在自己的专属厨房里。再这样下去，眼睛都要畏光了吧？不如，我们约上她，找个时间出门野餐吧？阳伞和墨镜随她选。和爱可菲出行，普普通通的郊游都会变成一场美食之旅哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/908721e261eee290cc526a140be98601_7962823422777528452.mp3",
+          "audioName": "娜维娅关于爱可菲jp.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其一",
+          "text": "刺玫会的工作嘛，杂七杂八的什么都有吧，不过核心目的都是帮助大家解决各种麻烦。这里的「麻烦」只用来指代问题本身，不代表我觉得这些事情烦心哦。相反，能帮到大家会让我觉得神清气爽呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/425cf06e883050c7d319988145e05b5c_4592306633569279136.mp3",
+          "audioName": "32想要了解娜维娅·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其二",
+          "text": "人还是要有些浪漫情怀才行。春天的花，夏天的海，还有朋友的笑容，都不该是被忽略的景色。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/13b48c477e9079c1409cbf235f88c4b6_4022777237301491156.mp3",
+          "audioName": "33想要了解娜维娅·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其三",
+          "text": "有时我会找个人迹罕至的野外，摆一些物件作为目标，然后练习打靶。很解压的！你想试试吗？我来手把手教你。虽然你是我的第一个学生，但我觉得我会成为一名好老师的。老爹还有布莱卡利奶奶教我的东西我都还没忘呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d5ad2896fab21085b3da6174eacc6d15_1977518327190108348.mp3",
+          "audioName": "34想要了解娜维娅·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其四",
+          "text": "我不会变成和老爹一样的人。有刺玫会里的老干部觉得我和老爹越来越像了，但我认为那只是很小的倾斜，要归因为有些问题只能用固定的几种办法来解决。刺玫会已经不是当年的样子了，那么会长也不会相同。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/7371bdf69f8d59ddcb14e9b4a453fc8e_4782442598620478481.mp3",
+          "audioName": "35想要了解娜维娅·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其五",
+          "text": "我觉得我也不会变成和母亲一样的人。虽然很多人都说我性格和她很像，我也大约能想象到她当年做出很多选择的理由，但是…哎，突然很想去坐一次克莱门汀线。就现在，可以陪我吗？倒也没什么特别的目的，就当是我邀请你去城里闲逛吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/f1ad0660e639b6afdfc8a4af48d3e5cb_2071943258997696977.mp3",
+          "audioName": "36想要了解娜维娅·其五_jp.mp3"
+        },
+        {
+          "name": "娜维娅的爱好…",
+          "text": "我从小就喜欢烘焙。看着一堆零散的食材按照比例融合在一起，就能在烘烤的过程中一点点膨胀、定型，变成香喷喷的样子，是不是很神奇？对了，有机会一起来烤姜饼吧？比比看谁能用饼干搭出最高最漂亮的小屋！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/c7d015850acccad9fc7bda34ee7a5b45_2275179112118881262.mp3",
+          "audioName": "37娜维娅的爱好…_jp.mp3"
+        },
+        {
+          "name": "娜维娅的烦恼…",
+          "text": "呃，烤完蛋糕以后散落的面粉好难收拾啊，还有粘在容器里的蛋清和奶油…我、我去叫帮手来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/fdf6327a9c1e6371b8b0d277b65d4103_5480069123387003612.mp3",
+          "audioName": "38娜维娅的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢能带来惊喜的食物，但请不要怀疑我的味觉。我只是欣赏其中包含的创意，但这也不会改变很多菜品难吃的事实就是了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/0bedde2a6dc05a7c7596db3c391afb9b_5824102159388396014.mp3",
+          "audioName": "39喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我不喜欢存放了很久的剩菜，感觉辜负了新鲜食材的一生…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/8e9def7251b2a7cfbb29c16bca52fea9_2683451503646593138.mp3",
+          "audioName": "40讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "惊人的厨艺！跟你出门的话，我才是应该带着食材和厨具的那个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/7262f8b11a48e54ea715a49f73a292b1_3830717542920454672.mp3",
+          "audioName": "41收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道真不错，再让我加些摆盘艺术就更完美了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/f289b7aab8a65d5eaa23b1a581e88127_2572379652935568433.mp3",
+          "audioName": "42收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "不要气馁，世界需要这种创新精神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/4306723c62862c2872d3b24c9e9578a7_6616003862461931624.mp3",
+          "audioName": "43收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "你相信许愿吗？向泉水中丢一枚摩拉，然后等待好运降临在头上。我想，只要摩拉丢得够多，其中总有一个愿望能够实现吧？所以与其寄希望于这样的随机事件，我决定直接用一袋摩拉为你实现今天的愿望。只要是我娜维娅力所能及的，一定都帮你办到！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d127175e9776f6de4f74a3a7213636a4_2303358091216936697.mp3",
+          "audioName": "44生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "这种感觉…好像柠檬乳酪蛋糕！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/27af54a99fc3f353470ca565b0ec43da_8269533606385591384.mp3",
+          "audioName": "45突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "奶油融化在舌尖，压力也跟着消散了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/05c938c20a014a121023870b70f1374d_1805421621888306608.mp3",
+          "audioName": "46突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你知道有一种子弹形状的巧克力糖吗？它的甜度能瞬间让你全身充满力量，就像我现在的感受一样！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/41d3724b9bf615886e9453b01fdb4c99_1458234005690609024.mp3",
+          "audioName": "47突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "最后再来一壶熨帖的奶茶，属于你我的茶歇时间就可以开始了。不过你为我做了这么多，用一顿茶点作为感谢还是不太够呀。以后你在枫丹要是有什么需要帮忙的，就来找刺玫会吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/3742526870f9e625c0d37f28ab82138c_1172672924746891463.mp3",
+          "audioName": "48突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "小心咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/c6486cea409853bf1487ea747f2b46f1_1349259307111686657.mp3",
+          "audioName": "49元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "正面偷袭！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/f228eb007fbecc2cee24716fccbde740_5810303308238813113.mp3",
+          "audioName": "50元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "你好呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d32da7d3ac5be5a319819e9e35dbfc09_5913086100788694035.mp3",
+          "audioName": "51元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "试着躲躲看？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/8532580a1c6ec607ff59420448594f89_2410794002337000483.mp3",
+          "audioName": "52元素战技·其四_jp.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "猜我还有几颗子弹？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/4c1910ba5c847c9fa137b1f7dca60f6d_3421075469599857495.mp3",
+          "audioName": "53元素战技·其五_jp.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "是…伞弹枪？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/c31fd7a2c579688b122fc4fadedadab1_2030604027935976752.mp3",
+          "audioName": "54元素战技·其六_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "开火！虽然是岩元素啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1f5021a8070ac51f3aea6b42a4eeaa31_3142836586711495642.mp3",
+          "audioName": "55元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "玫瑰礼花！刺玫会特别定制版。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/a9fabac1c201233306c5e984de827f23_2781365378291189080.mp3",
+          "audioName": "56元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "持续打击！嗯嗯，就是这样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/6ce899215ab490f985dbc31d1ff8aab4_2808912932570257394.mp3",
+          "audioName": "57元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "喔！好运连连！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/c8feb4d466ddb014ae2d790c4c908c8e_5899068213110029823.mp3",
+          "audioName": "58打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "快，快收好！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/4a895c70da6145655ab888eb25136d7e_3395242982607659695.mp3",
+          "audioName": "59打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "寻宝大成功！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/86a4530d981c48dbe971edee0dde244c_7975927913774411312.mp3",
+          "audioName": "60打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "再…再撑一会儿！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d4fef69da1a2e619a28dc26cb6cf7cc3_812385124239394325.mp3",
+          "audioName": "61生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "…得尽到责任！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b4572d2b3278633863eac01787e27345_3027644890734497375.mp3",
+          "audioName": "62生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "注意力集中。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/3f4e572fd7d02754ecfbe9739b2c0259_134158605455033580.mp3",
+          "audioName": "63生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "交给会长吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/850cd589288c33fd550ac19269a0c0c9_3101984971360104564.mp3",
+          "audioName": "64同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "增援到了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/242894228ea4d1ff3374b4dca4862f2a_6739787547941657735.mp3",
+          "audioName": "65同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "就当是…回家了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/bfb9ebfed91d13563da490086f8d42dd_6595589588554434927.mp3",
+          "audioName": "66倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "是我的错吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/a8e23a4c391a639dd6279d00dca1b647_7916431547642700374.mp3",
+          "audioName": "67倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "就连我也…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/db05b493e66bbdc2525c4078cf78e7a7_9097328286000123823.mp3",
+          "audioName": "68倒下·其三_jp.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "怎么了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/66803ac718cdf394385048ad78f7013c_2841476445475522255.mp3",
+          "audioName": "69普通受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "哪来的？！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/124ddd97863433ab1306236c1f34675e_5542381168518301063.mp3",
+          "audioName": "70重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "啊…不算什么！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/e1c520b9655cd1c416df884358909d93_5910595120631117314.mp3",
+          "audioName": "71重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "说走就走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/594a786130704631842156c720d49888_1918937170706264467.mp3",
+          "audioName": "72加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "刺玫会出马！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/ac363707e38c9aa6ad3b2193a0928eda_4175673201207685815.mp3",
+          "audioName": "73加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "今天我带路！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/61597ea703ba2ad04f2d0b7e3e914e26_6536477831030635171.mp3",
+          "audioName": "74加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "大名鼎鼎的刺玫会现任会长、领导者、总指挥、话事人、老板娜维娅，很高兴认识你！看你才貌出众、气度不凡，我有种预感，我们的缘分会像我的名号一样长呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/fd9a3d7cf12d3b9a06c137a4141fef3d_7243839167024615196.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·旅行",
+          "text": "好想去旅游呀——！去哪无所谓啦，主要是想跟朋友们一起玩，嘿嘿。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/fe1e46f64d873950257d8006efbae0d5_173221759608240943.mp3",
+          "audioName": "02闲聊·旅行_en.mp3"
+        },
+        {
+          "name": "闲聊·经验之谈",
+          "text": "多年的帮派经验告诉我，身边有一把不称手的武器会比没有更危险。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/44af81c3cd36b0adb156ce5997a0c103_7781368693074053842.mp3",
+          "audioName": "03闲聊·经验之谈_en.mp3"
+        },
+        {
+          "name": "闲聊·会标",
+          "text": "刺玫会的标志是母亲设计的，我非常喜欢。你看，轮廓像颗心脏一样呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/0a538f145c80b40f351ebf779a894c17_2183144780801161113.mp3",
+          "audioName": "04闲聊·会标_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊…又是雨天…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b9368a529eb4210ca00299518ec73821_7840973766150140304.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎呀！刚才看到闪电就该捂住耳朵的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/46e6532043eee6904b1974b3432e03bd_4992276024425440836.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "是不是应该摘掉帽子，让雪花落在脸上？感觉一定很清爽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/12398dca72a61ae25d6fe4d214d125f7_911190613442729267.mp3",
+          "audioName": "07下雪的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "就是现在，立刻，马上，抬头！你看天上，是不是烈日炎炎，骄阳似火！知道这说明什么吗？说明我们现在应当立刻，马上，去买最大号的超级冰冰凉甜筒，然后比赛谁能在它融化前全部吃完！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/8bfba7c719280a217281b5139195ed12_7684948092233199746.mp3",
+          "audioName": "08阳光很好…_en.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "太好了，雨停了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/16063207f743acf20ddb6ae62f1bda9f_4990714779938472422.mp3",
+          "audioName": "09雨过天晴…_en.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "帽子和裙摆…好难取舍！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/a981d10ba43996b12261f30c35bc9669_1527099450071542692.mp3",
+          "audioName": "10刮大风了…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "戴上墨镜就不会被沙子迷住眼睛了！但天黑时会看不清路…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/c997c297404cabfaea98dfaa3a5e7bd4_2827237527095996230.mp3",
+          "audioName": "11在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好！想好今天要做什么了吗？没想好的话，要不要跟我来？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/161e4e76616ec2d1920c990dcdb205b1_2537550710337129548.mp3",
+          "audioName": "12早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "听说最近出了一种新口味的千层面，你有没有兴趣？感觉一定不会好吃，但我还是想去试试！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/c1300f2b323060e843dd06e1f5e04a2d_2445969428976614682.mp3",
+          "audioName": "13中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚间新闻播报：「今天的刺玫会会长也和她的好搭档度过了完美的一天。」真棒！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/dc041146e474ac92fac052ac4d767e90_6430513184669989582.mp3",
+          "audioName": "14晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "快，速速清空大脑，睡个好觉！明天见。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/3d20e4d7289173862e0582e5ebc5f003_8843400398024406067.mp3",
+          "audioName": "15晚安…_en.mp3"
+        },
+        {
+          "name": "关于娜维娅自己·乐观",
+          "text": "盲目乐观可不行，幸福的生活要靠自己的双手去争取！所以，来，握住我的双手，左右摇晃几下——怎么样，是不是很开心？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/63eb6371ae50a516d678d0d37b975a9c_7470503662070745953.mp3",
+          "audioName": "16关于娜维娅自己·乐观_en.mp3"
+        },
+        {
+          "name": "关于娜维娅自己·运气",
+          "text": "了解我经历的人可能会觉得我运气不好吧，但我不这么认为哦。能得到这么多的爱，是我一生最幸运的事情了吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/298a9542574cc0631861089fa15688f6_1433058097974526600.mp3",
+          "audioName": "17关于娜维娅自己·运气_en.mp3"
+        },
+        {
+          "name": "关于我们·搭档",
+          "text": "他们有人叫我老板，有人叫我大小姐，我都无所谓啦。最开心的还是你称呼我为「搭档」的时候，所以请多叫几次，满足我的虚荣心吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/98762e4b233553b6c03dfad9aeb7a816_2960002878992900858.mp3",
+          "audioName": "18关于我们·搭档_en.mp3"
+        },
+        {
+          "name": "关于我们·保密",
+          "text": "有人说秘密一旦说出口就不是秘密了，但能和朋友分享的秘密不是更加珍贵吗？…什么啊，我不是在威胁你啦！虽然身为刺玫会的会长，我当然知道很多让人保守秘密的诀窍，但我是不会用在你身上的，安心啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d3fe8b148f665c54db7002342535a38d_2410350483028385569.mp3",
+          "audioName": "19关于我们·保密_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "给你看，这就是我的神之眼！亮晶晶，很称我衣服的颜色吧？不过还是你比较厉害，不需要神之眼就能使用很多种元素，应该不是靠练习就能做到的吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/8d0501a6e1d92964eba4bc9da47584bb_3033992082947052512.mp3",
+          "audioName": "20关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享·狗狗",
+          "text": "在所有的品种里，我最喜欢深栗猎犬。你看它们眼睛上方的花纹，是不是很像眉毛？所以它们总是一副憨厚又认真的样子呢。不过这件事还请帮我保密，千万不要告诉别的狗狗！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d0a9978acf1ef65c1c72d94502e10080_4696139504287346749.mp3",
+          "audioName": "21有什么想要分享·狗狗_en.mp3"
+        },
+        {
+          "name": "有什么想要分享·可靠的刺玫会",
+          "text": "假如你在灰河待过一段时间，应该会发现枫丹还是有不少其他帮派的。他们的目的不一，并不都像刺玫会那样友善，你可要多加留心。如有必要，可以向酒保泰托先生求助。若是对方不愿意坐下来谈的话…嗯，那就只好请我们可靠的白手套先生出马咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/22927172c152c5bbc7aafb8acb18b515_6153037563113025037.mp3",
+          "audioName": "22有什么想要分享·可靠的刺玫会_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "久雨莲的颜色真好看啊。而且当你看到它们纷纷绽放的时候，就说明漫长的雨季终于过去了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1921c111dc9eab1b2a35267504920713_5722235615882872569.mp3",
+          "audioName": "23感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "她平时话不多，表情也不多，但还是能看出来喜怒哀乐的。之前老爹的事卡在我们之间，唔…有些隔阂吧，就算是那段日子，我也不爱她小心翼翼的样子…还是现在这样比较好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/9dd09cc70cf0e9749f725407b0f2c9ab_6519251647870067900.mp3",
+          "audioName": "24关于克洛琳德…_en.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "比起跑新闻时的热情和速度，夏洛蒂的拍照技术更让我惊讶。她之前随手给我拍过一张半身照，光影效果好像精心绘制的油画一样。既能写出意想不到的报道，又能拍出最能抓人眼球的画片，她大概天生就是要做记者的吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/e42c981c5f6bce70a2caea4121d5c366_7909089058084091282.mp3",
+          "audioName": "25关于夏洛蒂…_en.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "这位为枫丹时尚带来异国风情的服装设计师，私下里帮过刺玫会不少忙呢。她说我的奇思妙想给她提供了好多创作灵感，以我对她的了解来看，应该不是客气话。但当我请她做一个十米高的礼帽时，她却严词拒绝了。唉，要是能摆在店门前，应该是很惹眼的宣传手段呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/7a92e12c555b73dbeb0a8af435493ec6_7088093458175303779.mp3",
+          "audioName": "26关于千织…_en.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "小时候有幸观看过一次芙宁娜大人参与义演的歌剧，票可难买了！虽然扮演的是别的角色，但她看起来反而比平常站在高处演讲时更自然些…现在回想起来，竟然不是错觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/6a702189a14e4730808fa385f94ee363_1347853133331494719.mp3",
+          "audioName": "27关于芙宁娜…_en.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "那维莱特先生啊，既复杂又简单。怎么说呢…就像海里的礁石，磕磕绊绊的，但假如理解了其中的规律，也不是完全没法观测。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/a1751dfa2ea4d139f1ab627a9d9cda6d_5966555913237965702.mp3",
+          "audioName": "28关于那维莱特…_en.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "想和他谈点东西可费劲了。克洛琳德说在既定的合约基础上可以放心与他合作，但千万不要相信他说的每一句话。怪不得老爹以前从不插手水下的事，保险起见，还是维持原样吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/dea0725db248f811a5c9cea679d984d2_6716866164418115394.mp3",
+          "audioName": "29关于莱欧斯利…_en.mp3"
+        },
+        {
+          "name": "关于「仆人」…",
+          "text": "她是一位威严却又慈爱的领导者，有「一家之主」的风范。不过能成为愚人众的执行官，她一定也有手段狠厉的一面。所以放心吧，我会永远记得她帮助过白淞镇的恩情，但在其他方面也会留心的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1065ff75ecc1cd16817251beaa8743ea_3170415275066359811.mp3",
+          "audioName": "30关于「仆人」…_en.mp3"
+        },
+        {
+          "name": "关于林尼和琳妮特…",
+          "text": "我知道大魔术师说话总会有些浮夸啦，但能看出，林尼是真心对待身边亲友的。有时候他表现出的责任感，可比他的年纪大多了…哦对了，他之前免费给白淞镇的小朋友们变过魔术呢！有机会的话，下次也请他和琳妮特小姐一起来吃马卡龙吧。琳妮特小姐经常凭空变出茶杯来喝茶，那应该不会讨厌甜点吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/e839d18e68d0da002c9c5de3a1dd3726_3659391087330498089.mp3",
+          "audioName": "31关于林尼和琳妮特…_en.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "我的好朋友爱可菲呀，她总算是结束闭关了。听说，她在开发超越「德波大蛋糕」的新品，一直闷在自己的专属厨房里。再这样下去，眼睛都要畏光了吧？不如，我们约上她，找个时间出门野餐吧？阳伞和墨镜随她选。和爱可菲出行，普普通通的郊游都会变成一场美食之旅哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/5ac8a4fe02bd4c9731a367cc13dad7d2_6503720976037090340.mp3",
+          "audioName": "娜维娅关于爱可菲en.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其一",
+          "text": "刺玫会的工作嘛，杂七杂八的什么都有吧，不过核心目的都是帮助大家解决各种麻烦。这里的「麻烦」只用来指代问题本身，不代表我觉得这些事情烦心哦。相反，能帮到大家会让我觉得神清气爽呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/fe2f4b547ae6657797294061e5f45d08_606440496278456822.mp3",
+          "audioName": "32想要了解娜维娅·其一_en.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其二",
+          "text": "人还是要有些浪漫情怀才行。春天的花，夏天的海，还有朋友的笑容，都不该是被忽略的景色。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/e27a8839e43fb81401f8938d6084275a_6783494149216236750.mp3",
+          "audioName": "33想要了解娜维娅·其二_en.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其三",
+          "text": "有时我会找个人迹罕至的野外，摆一些物件作为目标，然后练习打靶。很解压的！你想试试吗？我来手把手教你。虽然你是我的第一个学生，但我觉得我会成为一名好老师的。老爹还有布莱卡利奶奶教我的东西我都还没忘呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d5b30ba3c30ba10a0b9cbce851ce446b_1222190830635685189.mp3",
+          "audioName": "34想要了解娜维娅·其三_en.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其四",
+          "text": "我不会变成和老爹一样的人。有刺玫会里的老干部觉得我和老爹越来越像了，但我认为那只是很小的倾斜，要归因为有些问题只能用固定的几种办法来解决。刺玫会已经不是当年的样子了，那么会长也不会相同。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d234a1186294a57133e5ea107604d3dd_4807932463663907787.mp3",
+          "audioName": "35想要了解娜维娅·其四_en.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其五",
+          "text": "我觉得我也不会变成和母亲一样的人。虽然很多人都说我性格和她很像，我也大约能想象到她当年做出很多选择的理由，但是…哎，突然很想去坐一次克莱门汀线。就现在，可以陪我吗？倒也没什么特别的目的，就当是我邀请你去城里闲逛吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/a9079882d0cc79184737767a9947968f_989489753572748373.mp3",
+          "audioName": "36想要了解娜维娅·其五_en.mp3"
+        },
+        {
+          "name": "娜维娅的爱好…",
+          "text": "我从小就喜欢烘焙。看着一堆零散的食材按照比例融合在一起，就能在烘烤的过程中一点点膨胀、定型，变成香喷喷的样子，是不是很神奇？对了，有机会一起来烤姜饼吧？比比看谁能用饼干搭出最高最漂亮的小屋！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/10b5da9ebb2f01cff10bb04f1fbfc1ac_8318323378900854946.mp3",
+          "audioName": "37娜维娅的爱好…_en.mp3"
+        },
+        {
+          "name": "娜维娅的烦恼…",
+          "text": "呃，烤完蛋糕以后散落的面粉好难收拾啊，还有粘在容器里的蛋清和奶油…我、我去叫帮手来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/40d5996a394fbec508b8a492fa291af2_8294899452227657108.mp3",
+          "audioName": "38娜维娅的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢能带来惊喜的食物，但请不要怀疑我的味觉。我只是欣赏其中包含的创意，但这也不会改变很多菜品难吃的事实就是了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/c51bad88121f9084627a2164ec15d3ec_4107122419637697051.mp3",
+          "audioName": "39喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我不喜欢存放了很久的剩菜，感觉辜负了新鲜食材的一生…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/2faead771527ee8fe560ebc54dd246b9_6696758862608057253.mp3",
+          "audioName": "40讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "惊人的厨艺！跟你出门的话，我才是应该带着食材和厨具的那个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b98cae54de5c3dd75b706fa5b9a50b64_5262453452385630094.mp3",
+          "audioName": "41收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道真不错，再让我加些摆盘艺术就更完美了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/601f9ef3433c193b9fc9ad9741c5c8a4_5876783429498892108.mp3",
+          "audioName": "42收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "不要气馁，世界需要这种创新精神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/7a3d00fda8c4d755a7dd11a32c7c3328_1765319931201924584.mp3",
+          "audioName": "43收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "你相信许愿吗？向泉水中丢一枚摩拉，然后等待好运降临在头上。我想，只要摩拉丢得够多，其中总有一个愿望能够实现吧？所以与其寄希望于这样的随机事件，我决定直接用一袋摩拉为你实现今天的愿望。只要是我娜维娅力所能及的，一定都帮你办到！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/5ac231e23820c3f7204a204bf02abe16_4554181800662678381.mp3",
+          "audioName": "44生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "这种感觉…好像柠檬乳酪蛋糕！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/80b28644a325c7cf57340e8c626bf5f0_8996197915437935956.mp3",
+          "audioName": "45突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "奶油融化在舌尖，压力也跟着消散了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/700286935c36bc2de6fe8cab8e3fe9bb_4945980568220050619.mp3",
+          "audioName": "46突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你知道有一种子弹形状的巧克力糖吗？它的甜度能瞬间让你全身充满力量，就像我现在的感受一样！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/fb442b6ca8de663ca543d7b051e98685_4620929408691558556.mp3",
+          "audioName": "47突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "最后再来一壶熨帖的奶茶，属于你我的茶歇时间就可以开始了。不过你为我做了这么多，用一顿茶点作为感谢还是不太够呀。以后你在枫丹要是有什么需要帮忙的，就来找刺玫会吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/14bb6109802253cd2ea5817ef77bf2ea_2952211270290376761.mp3",
+          "audioName": "48突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "小心咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/a9793665860689f9ab8fef7d244bf5da_6362859396582751267.mp3",
+          "audioName": "49元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "正面偷袭！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/8e4a34b3a60dca14e8e9ba00cc6d5a76_2444785647773116265.mp3",
+          "audioName": "50元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "你好呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/357a576af731f572f3ff05f002337ca0_5494546693420917274.mp3",
+          "audioName": "51元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "试着躲躲看？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/235eb39a39f5fdbc6209bd7583b6133f_898249133172057927.mp3",
+          "audioName": "52元素战技·其四_en.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "猜我还有几颗子弹？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/6acd8452a99802db9d498efc239801e6_2475519934589311982.mp3",
+          "audioName": "53元素战技·其五_en.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "是…伞弹枪？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/0bd488a514af9dfa296b13393ed538f0_4249838706446463908.mp3",
+          "audioName": "54元素战技·其六_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "开火！虽然是岩元素啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b54e373b5576a07df6356439ed6e0907_8847488384878567229.mp3",
+          "audioName": "55元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "玫瑰礼花！刺玫会特别定制版。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1a98ff3728ef3e8547aa23da40685d60_1515300748030803983.mp3",
+          "audioName": "56元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "持续打击！嗯嗯，就是这样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/73d9fe6b9e3e729cfef8c5539ea246ec_4072015158740063384.mp3",
+          "audioName": "57元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "喔！好运连连！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/013226dc5d2364095f70cf673bc87071_4267879301514763117.mp3",
+          "audioName": "58打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "快，快收好！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/bd39a04ed564b1b7bcbee2526daf2cf3_8037579750044760015.mp3",
+          "audioName": "59打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "寻宝大成功！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/bbaa556bd8b8dde08a25589f4d0c83e0_6172767184995116350.mp3",
+          "audioName": "60打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "再…再撑一会儿！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/c42e83aa7ad8d7108a270769e376172e_1015254210878461766.mp3",
+          "audioName": "61生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "…得尽到责任！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/eed688978768591260794736f7da255e_6207272004015020184.mp3",
+          "audioName": "62生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "注意力集中。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/5cea267ca5d8e0f2ee2a6da5d0d3522e_7692297436613544007.mp3",
+          "audioName": "63生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "交给会长吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/7bee2f2951cf71be1004a0673702b5f6_6061498325604248525.mp3",
+          "audioName": "64同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "增援到了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/06b23bdc3ded600c9a61c5c4c6a0e10a_1435534978913477274.mp3",
+          "audioName": "65同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "就当是…回家了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/5465ef4b44f06c33106ff27da080f87d_8154788473070662485.mp3",
+          "audioName": "66倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "是我的错吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/e68d9e29dbf352fa410723c247e60bab_7465017204450998862.mp3",
+          "audioName": "67倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "就连我也…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/8ca11f9f57e5a4d924002c4e450733c7_3623858323916435855.mp3",
+          "audioName": "68倒下·其三_en.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "怎么了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/46992d270508cbc42e5f085dc5f32cd2_5537130180576392053.mp3",
+          "audioName": "69普通受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "哪来的？！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/3a13b2c1bcfebb335705e7f8d6d0a216_2446179889117163819.mp3",
+          "audioName": "70重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "啊…不算什么！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/f920ac816d022e2119f665ed1e0f3c3c_9111563044594625849.mp3",
+          "audioName": "71重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "说走就走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/a246ce17a4c7ba625ef39475c3f0969e_3663569893770622793.mp3",
+          "audioName": "72加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "刺玫会出马！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1104a00c17bcd3e6b4bfb03f561f24e7_1631079217310830582.mp3",
+          "audioName": "73加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "今天我带路！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/66355dea80d903aead68b5f4561d29e1_824991490059436228.mp3",
+          "audioName": "74加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "大名鼎鼎的刺玫会现任会长、领导者、总指挥、话事人、老板娜维娅，很高兴认识你！看你才貌出众、气度不凡，我有种预感，我们的缘分会像我的名号一样长呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/9ea48c3166e188ca3b5581818d32fbff_2385786252202448452.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·旅行",
+          "text": "好想去旅游呀——！去哪无所谓啦，主要是想跟朋友们一起玩，嘿嘿。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/236078dad9a02725b90d5068c378c9a0_1233195453507547967.mp3",
+          "audioName": "02闲聊·旅行_kr.mp3"
+        },
+        {
+          "name": "闲聊·经验之谈",
+          "text": "多年的帮派经验告诉我，身边有一把不称手的武器会比没有更危险。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/cc79f648e13cf9fc7f2bcac5b4aa7407_3425961428552021072.mp3",
+          "audioName": "03闲聊·经验之谈_kr.mp3"
+        },
+        {
+          "name": "闲聊·会标",
+          "text": "刺玫会的标志是母亲设计的，我非常喜欢。你看，轮廓像颗心脏一样呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b2f9585635c188f3b139cd677b45d1a3_4240446323866105654.mp3",
+          "audioName": "04闲聊·会标_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊…又是雨天…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/136814b743d4477d23a95ff850415255_2938258916358296397.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎呀！刚才看到闪电就该捂住耳朵的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/612cc990cc15fa9672b03cce97ca56a2_129512907671423956.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "是不是应该摘掉帽子，让雪花落在脸上？感觉一定很清爽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/eaabdca7def63b17acf2fb57a312b06a_7931819359334707981.mp3",
+          "audioName": "07下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "就是现在，立刻，马上，抬头！你看天上，是不是烈日炎炎，骄阳似火！知道这说明什么吗？说明我们现在应当立刻，马上，去买最大号的超级冰冰凉甜筒，然后比赛谁能在它融化前全部吃完！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/a66bb89536a419cc75ae96df6847cd3e_8889776142554356524.mp3",
+          "audioName": "08阳光很好…_kr.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "太好了，雨停了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/919ead9fc88e1a2b892b599c91871ebc_1980684696452816266.mp3",
+          "audioName": "09雨过天晴…_kr.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "帽子和裙摆…好难取舍！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/a650d111324ceee50f1e0879d87cc5c4_7828568519383412270.mp3",
+          "audioName": "10刮大风了…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "戴上墨镜就不会被沙子迷住眼睛了！但天黑时会看不清路…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d74398d83a2e32da3057d494209465bd_1741346811155261625.mp3",
+          "audioName": "11在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好！想好今天要做什么了吗？没想好的话，要不要跟我来？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/17b483c4ba3c32aaf02b3716f6ae5ac1_6722997058373254622.mp3",
+          "audioName": "12早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "听说最近出了一种新口味的千层面，你有没有兴趣？感觉一定不会好吃，但我还是想去试试！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/774ccdfc7a064c390f23fac618578c69_6159194514711076252.mp3",
+          "audioName": "13中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚间新闻播报：「今天的刺玫会会长也和她的好搭档度过了完美的一天。」真棒！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/15c95bc49991527595d8ea5f5146bd56_7443483306559792349.mp3",
+          "audioName": "14晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "快，速速清空大脑，睡个好觉！明天见。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/562a4902363e415bd90312b8f1b65515_2804232873187519696.mp3",
+          "audioName": "15晚安…_kr.mp3"
+        },
+        {
+          "name": "关于娜维娅自己·乐观",
+          "text": "盲目乐观可不行，幸福的生活要靠自己的双手去争取！所以，来，握住我的双手，左右摇晃几下——怎么样，是不是很开心？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/5b5f7e0e920369fef3b7787d9bfe67db_2807157288021955131.mp3",
+          "audioName": "16关于娜维娅自己·乐观_kr.mp3"
+        },
+        {
+          "name": "关于娜维娅自己·运气",
+          "text": "了解我经历的人可能会觉得我运气不好吧，但我不这么认为哦。能得到这么多的爱，是我一生最幸运的事情了吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b6365792d7b215fc47eecbb12cc85850_7262252321058677776.mp3",
+          "audioName": "17关于娜维娅自己·运气_kr.mp3"
+        },
+        {
+          "name": "关于我们·搭档",
+          "text": "他们有人叫我老板，有人叫我大小姐，我都无所谓啦。最开心的还是你称呼我为「搭档」的时候，所以请多叫几次，满足我的虚荣心吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/ccb5d0390c865312f15ca64f38a4a921_2745724273994731320.mp3",
+          "audioName": "18关于我们·搭档_kr.mp3"
+        },
+        {
+          "name": "关于我们·保密",
+          "text": "有人说秘密一旦说出口就不是秘密了，但能和朋友分享的秘密不是更加珍贵吗？…什么啊，我不是在威胁你啦！虽然身为刺玫会的会长，我当然知道很多让人保守秘密的诀窍，但我是不会用在你身上的，安心啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/8c49b87a255168ca8251a913197319b8_7920810164684604714.mp3",
+          "audioName": "19关于我们·保密_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "给你看，这就是我的神之眼！亮晶晶，很称我衣服的颜色吧？不过还是你比较厉害，不需要神之眼就能使用很多种元素，应该不是靠练习就能做到的吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/efb073e6eef0474c5c3126b428995224_2610683961961926071.mp3",
+          "audioName": "20关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享·狗狗",
+          "text": "在所有的品种里，我最喜欢深栗猎犬。你看它们眼睛上方的花纹，是不是很像眉毛？所以它们总是一副憨厚又认真的样子呢。不过这件事还请帮我保密，千万不要告诉别的狗狗！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/3458197987bf97d339b0ed08d7b84e3a_6286099367105244262.mp3",
+          "audioName": "21有什么想要分享·狗狗_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享·可靠的刺玫会",
+          "text": "假如你在灰河待过一段时间，应该会发现枫丹还是有不少其他帮派的。他们的目的不一，并不都像刺玫会那样友善，你可要多加留心。如有必要，可以向酒保泰托先生求助。若是对方不愿意坐下来谈的话…嗯，那就只好请我们可靠的白手套先生出马咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1c383dc30cbadf3a6118c9638d92d7a8_89780501617094996.mp3",
+          "audioName": "22有什么想要分享·可靠的刺玫会_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "久雨莲的颜色真好看啊。而且当你看到它们纷纷绽放的时候，就说明漫长的雨季终于过去了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/7f441aeb63959e884c5fb48bf410d9de_1228111572096479267.mp3",
+          "audioName": "23感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "她平时话不多，表情也不多，但还是能看出来喜怒哀乐的。之前老爹的事卡在我们之间，唔…有些隔阂吧，就算是那段日子，我也不爱她小心翼翼的样子…还是现在这样比较好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/f752f5dba22fd54d2baa2cbf3126f26a_6694715864349455690.mp3",
+          "audioName": "24关于克洛琳德…_kr.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "比起跑新闻时的热情和速度，夏洛蒂的拍照技术更让我惊讶。她之前随手给我拍过一张半身照，光影效果好像精心绘制的油画一样。既能写出意想不到的报道，又能拍出最能抓人眼球的画片，她大概天生就是要做记者的吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1fa35d0bec73b883cf034f9db1b0db2c_204211998097851125.mp3",
+          "audioName": "25关于夏洛蒂…_kr.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "这位为枫丹时尚带来异国风情的服装设计师，私下里帮过刺玫会不少忙呢。她说我的奇思妙想给她提供了好多创作灵感，以我对她的了解来看，应该不是客气话。但当我请她做一个十米高的礼帽时，她却严词拒绝了。唉，要是能摆在店门前，应该是很惹眼的宣传手段呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b195c1b403f567108a0de5d29e4537cb_5774574863272411897.mp3",
+          "audioName": "26关于千织…_kr.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "小时候有幸观看过一次芙宁娜大人参与义演的歌剧，票可难买了！虽然扮演的是别的角色，但她看起来反而比平常站在高处演讲时更自然些…现在回想起来，竟然不是错觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/e5ea21d21e5b4dcc226975248fd9a4af_8667805265755574897.mp3",
+          "audioName": "27关于芙宁娜…_kr.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "那维莱特先生啊，既复杂又简单。怎么说呢…就像海里的礁石，磕磕绊绊的，但假如理解了其中的规律，也不是完全没法观测。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/64c4bce6c16dbf19d64945e690a2ed5f_5851183109429112052.mp3",
+          "audioName": "28关于那维莱特…_kr.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "想和他谈点东西可费劲了。克洛琳德说在既定的合约基础上可以放心与他合作，但千万不要相信他说的每一句话。怪不得老爹以前从不插手水下的事，保险起见，还是维持原样吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/a4c9d34d177b9184686eacd54f63a9a5_2710526638662187944.mp3",
+          "audioName": "29关于莱欧斯利…_kr.mp3"
+        },
+        {
+          "name": "关于「仆人」…",
+          "text": "她是一位威严却又慈爱的领导者，有「一家之主」的风范。不过能成为愚人众的执行官，她一定也有手段狠厉的一面。所以放心吧，我会永远记得她帮助过白淞镇的恩情，但在其他方面也会留心的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/37c72b77b2a401c14c5caa6e96dbfb49_8706865932572427469.mp3",
+          "audioName": "30关于「仆人」…_kr.mp3"
+        },
+        {
+          "name": "关于林尼和琳妮特…",
+          "text": "我知道大魔术师说话总会有些浮夸啦，但能看出，林尼是真心对待身边亲友的。有时候他表现出的责任感，可比他的年纪大多了…哦对了，他之前免费给白淞镇的小朋友们变过魔术呢！有机会的话，下次也请他和琳妮特小姐一起来吃马卡龙吧。琳妮特小姐经常凭空变出茶杯来喝茶，那应该不会讨厌甜点吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/f515201816c5e33bf78f7f9e39b4cc31_8765861861987069862.mp3",
+          "audioName": "31关于林尼和琳妮特…_kr.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "我的好朋友爱可菲呀，她总算是结束闭关了。听说，她在开发超越「德波大蛋糕」的新品，一直闷在自己的专属厨房里。再这样下去，眼睛都要畏光了吧？不如，我们约上她，找个时间出门野餐吧？阳伞和墨镜随她选。和爱可菲出行，普普通通的郊游都会变成一场美食之旅哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/b4a86a59365450831cddd403300c8a17_6424447557964821022.mp3",
+          "audioName": "娜维娅关于爱可菲kr.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其一",
+          "text": "刺玫会的工作嘛，杂七杂八的什么都有吧，不过核心目的都是帮助大家解决各种麻烦。这里的「麻烦」只用来指代问题本身，不代表我觉得这些事情烦心哦。相反，能帮到大家会让我觉得神清气爽呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/27226e432c3040700e40d3a8d069fcb6_8647064728533228111.mp3",
+          "audioName": "32想要了解娜维娅·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其二",
+          "text": "人还是要有些浪漫情怀才行。春天的花，夏天的海，还有朋友的笑容，都不该是被忽略的景色。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/7ba88e0dfe7a855421ffd17884dfb399_2436971689473429659.mp3",
+          "audioName": "33想要了解娜维娅·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其三",
+          "text": "有时我会找个人迹罕至的野外，摆一些物件作为目标，然后练习打靶。很解压的！你想试试吗？我来手把手教你。虽然你是我的第一个学生，但我觉得我会成为一名好老师的。老爹还有布莱卡利奶奶教我的东西我都还没忘呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/e1d390c8193e15d7ac0fadd7ebcdb48a_5060441849243091175.mp3",
+          "audioName": "34想要了解娜维娅·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其四",
+          "text": "我不会变成和老爹一样的人。有刺玫会里的老干部觉得我和老爹越来越像了，但我认为那只是很小的倾斜，要归因为有些问题只能用固定的几种办法来解决。刺玫会已经不是当年的样子了，那么会长也不会相同。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/8a9cbbd19854712407ddc6bb5e99a8c7_2208962632762808192.mp3",
+          "audioName": "35想要了解娜维娅·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解娜维娅·其五",
+          "text": "我觉得我也不会变成和母亲一样的人。虽然很多人都说我性格和她很像，我也大约能想象到她当年做出很多选择的理由，但是…哎，突然很想去坐一次克莱门汀线。就现在，可以陪我吗？倒也没什么特别的目的，就当是我邀请你去城里闲逛吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/82c13f65fde6a0ec5ff0ba01fc66e654_3940308908102518446.mp3",
+          "audioName": "36想要了解娜维娅·其五_kr.mp3"
+        },
+        {
+          "name": "娜维娅的爱好…",
+          "text": "我从小就喜欢烘焙。看着一堆零散的食材按照比例融合在一起，就能在烘烤的过程中一点点膨胀、定型，变成香喷喷的样子，是不是很神奇？对了，有机会一起来烤姜饼吧？比比看谁能用饼干搭出最高最漂亮的小屋！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/cf0b100cb2d57e6b73c8f8641bcdb86a_1027640572712699663.mp3",
+          "audioName": "37娜维娅的爱好…_kr.mp3"
+        },
+        {
+          "name": "娜维娅的烦恼…",
+          "text": "呃，烤完蛋糕以后散落的面粉好难收拾啊，还有粘在容器里的蛋清和奶油…我、我去叫帮手来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/248b85e7a0a1e03b371ec22c26b7c1db_6575267636044200202.mp3",
+          "audioName": "38娜维娅的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢能带来惊喜的食物，但请不要怀疑我的味觉。我只是欣赏其中包含的创意，但这也不会改变很多菜品难吃的事实就是了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/c9db15aa97f1f79007984196494c1909_2664580518994833890.mp3",
+          "audioName": "39喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我不喜欢存放了很久的剩菜，感觉辜负了新鲜食材的一生…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/5ec0d8b932c42b0552f2738ddf4141c0_7146161022399274843.mp3",
+          "audioName": "40讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "惊人的厨艺！跟你出门的话，我才是应该带着食材和厨具的那个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/4dd72b531e09f677dbf2ecce2c3f4ffc_1404812663841068062.mp3",
+          "audioName": "41收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道真不错，再让我加些摆盘艺术就更完美了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/e4fe6b001992df41ac8e0703e7d55860_2462569186057038495.mp3",
+          "audioName": "42收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "不要气馁，世界需要这种创新精神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/845929c4ff81ac210022330790467039_7919072979002318086.mp3",
+          "audioName": "43收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "你相信许愿吗？向泉水中丢一枚摩拉，然后等待好运降临在头上。我想，只要摩拉丢得够多，其中总有一个愿望能够实现吧？所以与其寄希望于这样的随机事件，我决定直接用一袋摩拉为你实现今天的愿望。只要是我娜维娅力所能及的，一定都帮你办到！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/c3306dc76d61ad1e13c120785f320b6e_3566496558597317195.mp3",
+          "audioName": "44生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "这种感觉…好像柠檬乳酪蛋糕！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/6e9bd85e12dd01f4ae9922759caa5ecc_3142742392005248868.mp3",
+          "audioName": "45突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "奶油融化在舌尖，压力也跟着消散了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d79f436e1b8d6db1048160aa4e5df30b_3437964129262238944.mp3",
+          "audioName": "46突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你知道有一种子弹形状的巧克力糖吗？它的甜度能瞬间让你全身充满力量，就像我现在的感受一样！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1d0932529f43bf28ab0db3e323bac915_5836881674831359421.mp3",
+          "audioName": "47突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "最后再来一壶熨帖的奶茶，属于你我的茶歇时间就可以开始了。不过你为我做了这么多，用一顿茶点作为感谢还是不太够呀。以后你在枫丹要是有什么需要帮忙的，就来找刺玫会吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b8b086a6642b793b6e864af81c5670fa_2676650951034771035.mp3",
+          "audioName": "48突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "小心咯！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/d202f38c181cd9c9707d01703775aa93_5172076863890411862.mp3",
+          "audioName": "49元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "正面偷袭！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/abb3e63411255beb0489dce85236ccd5_3151397639716766020.mp3",
+          "audioName": "50元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "你好呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/10079c2ebfdc8eed3a79e7050f281ad2_1512402766149425223.mp3",
+          "audioName": "51元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "试着躲躲看？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/e26f78c5c0e6681b98e3b927e8ee483a_1832488711681714367.mp3",
+          "audioName": "52元素战技·其四_kr.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "猜我还有几颗子弹？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/ff9c121d5fdfa53784281b0f85bb7bb7_4323118581912685531.mp3",
+          "audioName": "53元素战技·其五_kr.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "是…伞弹枪？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/17db94764b941f2cf375ac347feda6ee_1436822579332993302.mp3",
+          "audioName": "54元素战技·其六_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "开火！虽然是岩元素啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/1fb8dad4606531985df1230a1ca826da_4872496776692586980.mp3",
+          "audioName": "55元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "玫瑰礼花！刺玫会特别定制版。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/57454411d06ca62e8a074631063181da_8949091139681769447.mp3",
+          "audioName": "56元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "持续打击！嗯嗯，就是这样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/f1c1e4828e20773c834403f57289fe1b_3880099096005475700.mp3",
+          "audioName": "57元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "喔！好运连连！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/ff959acb14c60faa4bc345843c5c2fea_7594693193167802118.mp3",
+          "audioName": "58打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "快，快收好！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/27a09a8061689bed1305ba3ff4aa5de5_5438856550375446430.mp3",
+          "audioName": "59打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "寻宝大成功！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/bc88a6638d58ded49fa1021402598e7f_2891198315297449385.mp3",
+          "audioName": "60打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "再…再撑一会儿！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/ee418ac419769f1d7ac8aa4058c3a4ef_6683431579304342555.mp3",
+          "audioName": "61生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "…得尽到责任！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/3c2c56f2901bfeb083a8f9d4178adffc_7753268211983251919.mp3",
+          "audioName": "62生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "注意力集中。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/ab78806ad96e29f11b092ec424a0f0b2_6985391159727282361.mp3",
+          "audioName": "63生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "交给会长吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/816c3fc54c47e54b84e422ad90ad8651_8366874591955182640.mp3",
+          "audioName": "64同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "增援到了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/3da258bc097be9b729a15fe5a7ffd014_8081267614592657222.mp3",
+          "audioName": "65同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "就当是…回家了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b8e5f6faa3485de0a815e4dbbb4249d0_7959032191348218277.mp3",
+          "audioName": "66倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "是我的错吗…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/b6849067d3f8f31b9c97af841d2d30a9_3722159419989968127.mp3",
+          "audioName": "67倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "就连我也…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/3ba3ac784b5d14ddfa9d8eb99cb11f3f_1268975155276484036.mp3",
+          "audioName": "68倒下·其三_kr.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "怎么了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/db757b73996998005845e40e4afa0c99_8316476130682058340.mp3",
+          "audioName": "69普通受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "哪来的？！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/3356099189a5cdff80759370e9fbc01d_8531687108864460641.mp3",
+          "audioName": "70重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "啊…不算什么！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/4fe27eb3d0597d4d92b5e8b2d13bc1fb_696453594004214460.mp3",
+          "audioName": "71重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "说走就走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/9726fb5ea8b6af57fbde27656159b574_7026973028003056325.mp3",
+          "audioName": "72加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "刺玫会出马！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/4b70725be0bacb20372096fd5084b310_7783373822329567944.mp3",
+          "audioName": "73加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "今天我带路！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/12/21/16576950/66a0cd99201fa60fa3aea10fe1a09537_8858708844988813791.mp3",
+          "audioName": "74加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

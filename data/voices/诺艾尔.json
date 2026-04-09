@@ -1,0 +1,1685 @@
+{
+  "id": "111",
+  "name": "诺艾尔",
+  "alias": [
+    "诺艾尔"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是诺艾尔，西风骑士团的女仆，从今天起会陪你一起去冒险。如果遇到任何困扰或者麻烦，不用担心，我都会尽全力帮你解决的。嗯，现在就可以哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/56fda65b842ed7a1260f41c5864dc5ce_2623504341860928571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·帮忙",
+          "text": "交给我吧！什么都可以交给我！——对了，你要拜托我做什么来着？我还没来得及听…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/92715a73ddcf767af3f62c52862c4367_3156087019277794133.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·休息",
+          "text": "有点累了吗？那就在这里休息吧，我去为你沏茶，要全糖、半糖，还是无糖？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c9852331d1b1646a0fc3cec04ff4f39e_8281003574601229559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·可靠",
+          "text": "只要你需要我，我随时都会出现在你的身边。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/76e7a106f68d728577da2ca7b876fdb0_1454970812189940587.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "糟了，大家的衣服还晾在外面！我能不能现在回去收拾一下？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0e7746d7d54e1fd9fe74e0ab3b8087bb_6254134968181118187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "遇到打雷还是待在屋子里比较好哦，如果有非出门不可的事，就交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de498f390cc64a4f1631c928c508addc_5324860025408616455.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气晴朗，不如做一些和「阳光」有关的事吧。欸？具体一点…只要能让你的心情也变得晴朗的事，都可以。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e87cc60b70681f53193b63f875ffc91d_3438400547957102925.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "听见了吗？是风神的声音。每到我心烦意乱的时候，听见风声就能平静下来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/19b6f255d0a6a229185f717b4754f4fd_7091898928792131678.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，早餐已经做好了哦。我就待在你身边，如果哪里不合口味，请随时告诉我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1eb953df3875bcafbf2e2b0b6b29dc5e_1636834517873359879.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "想要坐下来喝杯茶吗？我去为你准备。对了，我还顺手准备了厚云朵松饼，是我的拿手菜哦，请一定要尝一尝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/382b7ded3a14fc064649224010dc728f_7598477504376434942.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上是大家的休息时间，也是我最忙的时候…安柏洗好的发带放在哪了？凯亚新买的眼罩有几套？我会全部记住的，这是女仆的责任。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e2ef3198c0e8c0b702c62b26d10373db_957539976795029489.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "今天的冒险辛苦你了，请去休息吧。我还要回骑士团一趟…欸？要我守候你入睡吗？…唔…倒是没什么问题，不过…不是在捉弄我吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/90f01e591366ef3aaa283eec8639a347_3438014062086587599.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔自己·自律",
+          "text": "我只是每天都做同样的事，和真正的骑士比起来还差远了…但这是通往骑士之路的修行，修行可不能只是嘴上说说而已啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/67372f200dc021646dda6eca4b96600d_462922141142923810.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔自己·分歧",
+          "text": "我有点不太擅长和别人争辩，很多时候说不清道理，还会惹别人生气，所以我就会先按我的想法去做，结果又被人说是「固执」了…我只是想用结果说服他而已，这也是「固执」吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f95f3b7cf88df7d30764074bcef376b4_7368502291355844005.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·身份",
+          "text": "我的奉献是出于自由的奉献，「女仆」在我看来就是最自由的身份。厨师、园丁、战士、向导…你需要我是什么，我就是什么！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9e89551698edd2329bdac8e3d7306159_4218438319585489426.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·叮嘱",
+          "text": "就算再怎么仓促，一日三餐也不能应付，不可以吃来历不明的东西，也不能光吃肉不吃蔬菜。对了，尽量不要喝冷水，对胃不好…唔，你不会在想「因为太麻烦所以还是交给诺艾尔」吧？唔唔…如果你真的这么想…好吧，还是交给我来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b66b7809baaacb40399d6257828a437b_1369477742762533516.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·欢迎会",
+          "text": "我听说了，你成为了西风骑士团的荣誉骑士，真是羡慕啊…那今后你就是我的前辈了。对了，应该为你举办一场热闹的欢迎会！我现在就去准备！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/403f3546ecc35e161d21b49eca958a30_5347294241888255048.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "说实话，有些失望…虽然这「神之眼」象征神明对我的肯定，但为什么不是「风」，而是与风的性质相差最远的「岩」呢？我觉得最适合西风骑士团的元素，毕竟还是…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/48c598e374f85bfc1b3c68a29e3c2946_3156672733338863196.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "其实我很喜欢闻酒的味道，可是现在的我还没到喝酒的年纪…虽然不止一次有偷偷尝的机会，但我都忍住了，还是把这份神秘感保留到我成年的那一天吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b4856fc607eaec6891aa9214571ee6d8_3129315611133661495.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "女仆要严守秘密，所以我很喜欢玫瑰，玫瑰在蒙德就代表「守口如瓶」，它总是能提醒我…欸？在你的家乡，玫瑰代表「爱情」吗？…居、居然还有这么火热的含义啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f6ce4770a710af2d97db4fcaa1d7901_2465629399226233770.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "她是我非常尊敬的前辈，实力很强不说，对人也很亲切。她还教我怎么做「兔兔伯爵」，你看，我会把它当成护身符带在身边，做得不错吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1e60c83a547174f96d5b0722bc425cb2_7827368005852690275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "我一直很想知道，她还这么小，是怎么正式成为骑士的。有一次向她请教经验，她还没听完我的话，就拉着我去骑士团外面玩炸弹…我以为这是什么修行，结果最后我和她都被琴团长关了禁闭…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5832d1b3671a7abf0d953a264293e9ea_8701422752754494818.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴团长一直都是我的榜样，我的实力和认真程度完全比不上她。她对别人就像对自己一样严格，所以如果有一天我能得到她的认可，那也是对我一直以来努力的最大肯定了。在那之前，我都是不会松懈的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7ff92ef304c8bc0a66dd10e625714622_3694934017618401115.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "本来我想跟着他的队伍一起去冒险，履行女仆的责任，但大团长说我留在蒙德他才不会有后顾之忧…大团长这么器重我，我特别开心！虽然后来我知道大团长不只对我一个人说了这句话，不过…器重就是器重嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f516ef054c4a1f14a4eddc70b597a861_909092930603423674.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "他很神秘，来如影，去如风，每天都有很重要的任务要去处理。他还经常会给我安排一些小任务，就好像我已经是他的小队成员了一样…嗯？只是跑腿？不不不，虽然确实是跑腿，可是我很珍惜的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a93bffd8a07597deca660fec10443760_3815439113176136913.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特…",
+          "text": "他不止一次来邀请我，说什么比起骑士团，还是冒险家协会更适合我…虽然我是会像一个普通的冒险家一样，帮他照顾他的老爹们，但…骑士团对我来说有特别的意义，而且我也不想认输…嗯，果然还是没法答应。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d7bf3c6e76f45d40ae27bb6b572000a_8685892458601937322.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔·茶点",
+          "text": "她好像是从别的世界来的，其他的我也不清楚…不过她好像很喜欢骑士团的图书馆，总是在那里看书。我打扫的时候会送去一些热乎乎的茶点，她每次都会感谢我，还会说很多听不明白，但都很夸张的话…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a5c8b6d5bae0146018ecd14ec4f1bec1_4766340003495534513.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔·身世",
+          "text": "以前我打扫图书馆的时候，记得有本书叫《菲谢尔皇女夜谭》，我还以为只是幻想小说…但没想到，里面的主人公居然真的存在！能有一本自己的传记，她一定很厉害吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fa07badb99aec2ed5f7eb30e9cb397be_92105126696509076.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "我们经常在一起喝茶，有时候她会轻轻哼出很好听的调子，告诉我灵感来了。虽然我对音乐给不出什么实用的建议…但能跟芭芭拉享受这样的时光，我真的非常高兴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/68cd41f6a98e4e0ffb0e4214317de7fa_6132456225121621197.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其一",
+          "text": "是需要我帮忙吗？哦…只是想和我聊聊天，好吧，如果这就算帮上了你的忙，那想聊多久都可以。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/11f9821da5714a820a85f56365d210f8_2623869739080512345.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其二",
+          "text": "没关系，什么样的事都可以交给我，不用照顾我的感受的…欸？那不是「女仆」而是「工具」？唔…工具做了很多事也不一定会开心吧，但我为你做的每件事，我都很有成就感哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7adbd95e4fc2cfa780155da5951a38ef_7986499587417684147.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其三",
+          "text": "这、这些点心是送给我的吗？不不不，这怎么好意思呢？那…那我也要做很多点心作为回报！我现在就去，马上就去！半个小时…呜，最多一个小时就做好了。你可以先去做别的事，茶点很快就会热乎乎地端到你的面前！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/06bc16f39f794c9ab49925e12038e8ef_8414118252058087269.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其四",
+          "text": "我每天做的都是一些琐碎的小事，但只要这些小事能帮到你的冒险、你的生活，我就会很开心…因为你的道谢，会让我觉得这些小事，也都有小小的意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3ba2ffd0c86fdc4b3e7b3e5f116edf2d_2480555210639650550.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其五",
+          "text": "我是为骑士团服务的女仆，也一直想要帮到更多人的忙。但不知不觉，用在你身上的时间已经变得越来越多了…唉，像我这样自私的做法，是不是…不太好？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/53ecaccbdaf11c79cc8025f332396b4f_7704192538986770434.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "诺艾尔的爱好…",
+          "text": "爱好吗？我最喜欢洗各种各样的东西，洗衣服，洗地板，洗窗户，看到脏东西变干净我就会特别有成就感…欸？是指「休息时的爱好」？我想想…嗯，果然还是洗东西！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/27ede467c68a8adb83975d301148a09f_3507495529545527894.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "诺艾尔的烦恼…",
+          "text": "该怎么用最少的预算、采购到最多最好的物资呢…我试过一个人跑去璃月比对所有商铺的价格、再一个人把东西全都搬回来…但那次花的时间太长，琴团长差点以为我在路上被风魔龙吃掉了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5a315f3d698017b2e0e7bf899c545499_4747111600097787227.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "当然是「满足沙拉」，蒙德的自然水土汇于一盘，营养均衡，热量也不会超标…你问吃不腻吗？当然不会，很好吃的！我已经吃了十年了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6e066559757a5179f9084a24fd587577_3743720844387476140.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我不挑食！但有一种情况会让我比较头疼…宴会上的一大桌菜，作为女仆，每一道菜都必须自己先尝一尝。但这样一口接一口…唉，太罪恶了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/489f64188049d186b039210b50717216_782010086139223607.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "能把普通的菜肴做得那么好吃…我对你的钦佩，又多了一些！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/58dc326a168c4b3c9ca225a3a536cedc_5817608314199600749.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道真好。我也要向你学习！再怎么说，这也是女仆的职责…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c28919d647c0ea6fd0899696541bc0bd_2588102228789927062.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "热量…会不会已经超过一整天的份额了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e71adad797d264d5ee29dc130e5f6232_8953264411372428938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "每天都忙于冒险，是不是积压了很多琐事来不及处理？今天我就是你的专属女仆，全都交给我吧！还有…在这最棒的一天，祝你生日快乐！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bda230d69accba4608164b0f35240c02_6836084449709130546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "这就是…新的力量？谢谢你，这样我就能帮到更多人了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de650643f565741f9df087f21da692ed_2477799543531960870.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "还不能满足，在成为正式的西风骑士之前，我都要加倍努力。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cbb14d3e5b9445e03cc9591385fe621e_3059878745961371840.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "多亏了能和你一起冒险，我才获得了这么多的成长。明明女仆的职责是为你排忧解难，结果反倒是让你为我花了这么多心思…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c66df6b395162b77d089f170d4f3c5b5_6493711818428822233.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "蒙德城的大家都说我变得比以前更可靠了，还说我马上就能成为真正的西风骑士了，但其实我…什么？你也这么觉得？呃…谢谢你能这么说，这是对我最好的夸奖！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c690c7f75672234d537bd5931adb0ae8_3516977438435050745.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "岩石的重量，令人安心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/84a230370609d819b604a966d3dbdb69_626232139472719491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "一定要干净利落。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4be7a9209c513c6c3090b6d8ad6c8406_1786623052382822571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/13c346f0f6fedf87938e09949728437a_5948736691497164860.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "该打扫战场了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b85f8dc85068b90f3764b765a3410a16_2927329377008446725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "我会注意骑士的风度。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/79afbf28535a5914b0e28a0c24a047c3_3745460191754318515.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "我会注意女仆的礼仪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/707822608e268728073feac55cea5774_4023285225878568714.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "应该赶得上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/131652d87bae85d95d811962989199b4_6967692351082376472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "还有人需要帮忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2367c1cc9fe0e70055deadb1c6e81c89_3266004713496255237.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "心满意足。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c3f0a0b477bb684337b73ac0627142ca_2193788792701754353.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真高兴…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b93838dfaaea1b1ee2e3e2021e9272de_4399054342066016907.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这些宝藏积灰了，先清洗一下！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7ccb885295d57e92dbceedf6125df209_1125580046273049906.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "没关系，轻伤而已。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/95b6b98211ee456a3b3fa118dcc96305_6965389415404034154.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "唔，衣服都弄脏了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0f6f358ab8f3dd50aaf1eb391c99de7e_4276050619605763764.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我不会退缩的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d83d0003e80af4d3b66a2eabd7de0d34_8767961097740523647.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别动，小心伤口，我来治疗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/bec84df16b616f3f7a60cf7fd37c25f5_8761079573804349685.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "交给我吧！换我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/dad1f2361d4a54ec1c278323f0db856c_6690244695407045172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "让骑士团…蒙羞了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/442c6c9a8a7b0fa800447d6598edcebb_6702079302957919506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我还想…保护大家…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c7701b44bf8ae7539be54947918a67ba_4744055423449136796.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "再见了…主人…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/08797a5b3effb4d3c5d9812ff4e3ed3e_7764524257413061939.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "唔…失态了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b00c743e914e8eed2de1976bb7b66c08_1674545970315843267.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "真高兴…啊、嗯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/be0bfda6980db52538deb7310ab8fdb6_2318452589507378155.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "一定会保护你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fca58beb9b0d8adf57e297a403c492e1_700407912316443547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "嗯，如你所愿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0e56e1b7dfc335f7b8c89cf7fb8c09e7_8120131949583579143.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是诺艾尔，西风骑士团的女仆，从今天起会陪你一起去冒险。如果遇到任何困扰或者麻烦，不用担心，我都会尽全力帮你解决的。嗯，现在就可以哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e2d2b5507d91b401594ac7f4746abf7d_448896956419744078.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·帮忙",
+          "text": "交给我吧！什么都可以交给我！——对了，你要拜托我做什么来着？我还没来得及听…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/265ddea2b19ce701f16719206c79086d_2635562462873931786.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·休息",
+          "text": "有点累了吗？那就在这里休息吧，我去为你沏茶，要全糖、半糖，还是无糖？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0223308f62410a517c83ab8130e61d07_4649567816280840732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·可靠",
+          "text": "只要你需要我，我随时都会出现在你的身边。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/31237d5c68bac45befec4eb500444f68_7828847568017099519.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "糟了，大家的衣服还晾在外面！我能不能现在回去收拾一下？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d0b710fc4d0ac3789cb658a5916bdea2_289741109935925140.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "遇到打雷还是待在屋子里比较好哦，如果有非出门不可的事，就交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/26aa3c3a9dfed54f0a5a798434c2762c_8195766598828823843.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气晴朗，不如做一些和「阳光」有关的事吧。欸？具体一点…只要能让你的心情也变得晴朗的事，都可以。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9673608fb4706ab54790a790d7d7ba77_2117085525886961100.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "听见了吗？是风神的声音。每到我心烦意乱的时候，听见风声就能平静下来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e44e6abc5a485fd66767b6170aeb3ce6_766123877670559378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，早餐已经做好了哦。我就待在你身边，如果哪里不合口味，请随时告诉我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bdb623a11a79147fd253c0a3d3933cf4_2203328424920180789.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "想要坐下来喝杯茶吗？我去为你准备。对了，我还顺手准备了厚云朵松饼，是我的拿手菜哦，请一定要尝一尝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e4c31b042ffdb4ea98b994cb291e0e0f_2423156101774130729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上是大家的休息时间，也是我最忙的时候…安柏洗好的发带放在哪了？凯亚新买的眼罩有几套？我会全部记住的，这是女仆的责任。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea922889719dd0893e946e4c740ade49_5160532869978652843.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "今天的冒险辛苦你了，请去休息吧。我还要回骑士团一趟…欸？要我守候你入睡吗？…唔…倒是没什么问题，不过…不是在捉弄我吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6382b2d82f1ec36b963ed6240e49bdb8_939359975756123169.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔自己·自律",
+          "text": "我只是每天都做同样的事，和真正的骑士比起来还差远了…但这是通往骑士之路的修行，修行可不能只是嘴上说说而已啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/116d9195dca483a499dc4322313e8240_2364291339298481861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔自己·分歧",
+          "text": "我有点不太擅长和别人争辩，很多时候说不清道理，还会惹别人生气，所以我就会先按我的想法去做，结果又被人说是「固执」了…我只是想用结果说服他而已，这也是「固执」吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7442e76a61c67233f1c1a89e33960596_2020945145484772135.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·身份",
+          "text": "我的奉献是出于自由的奉献，「女仆」在我看来就是最自由的身份。厨师、园丁、战士、向导…你需要我是什么，我就是什么！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f97a2cac63233476f30f5e171ce2b2e8_956700238814462224.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·叮嘱",
+          "text": "就算再怎么仓促，一日三餐也不能应付，不可以吃来历不明的东西，也不能光吃肉不吃蔬菜。对了，尽量不要喝冷水，对胃不好…唔，你不会在想「因为太麻烦所以还是交给诺艾尔」吧？唔唔…如果你真的这么想…好吧，还是交给我来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/23a50a5275b0f74e8c12767eddf6807e_6873430740919887420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·欢迎会",
+          "text": "我听说了，你成为了西风骑士团的荣誉骑士，真是羡慕啊…那今后你就是我的前辈了。对了，应该为你举办一场热闹的欢迎会！我现在就去准备！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d56fdd60a539001b784733957aeccc1a_6854088016854490159.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "说实话，有些失望…虽然这「神之眼」象征神明对我的肯定，但为什么不是「风」，而是与风的性质相差最远的「岩」呢？我觉得最适合西风骑士团的元素，毕竟还是…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1f9dfe861c8216c0c77c499e95b7369b_7445656681276236356.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "其实我很喜欢闻酒的味道，可是现在的我还没到喝酒的年纪…虽然不止一次有偷偷尝的机会，但我都忍住了，还是把这份神秘感保留到我成年的那一天吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1515e346edb3f025b6ccb547e164a8bd_6274433318091413963.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "女仆要严守秘密，所以我很喜欢玫瑰，玫瑰在蒙德就代表「守口如瓶」，它总是能提醒我…欸？在你的家乡，玫瑰代表「爱情」吗？…居、居然还有这么火热的含义啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/952a1d2951bb97c1717685874453586d_6577337466946860029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "她是我非常尊敬的前辈，实力很强不说，对人也很亲切。她还教我怎么做「兔兔伯爵」，你看，我会把它当成护身符带在身边，做得不错吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e6bc506b1da88149fb23ca05fdf6268a_4832206562072969057.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "我一直很想知道，她还这么小，是怎么正式成为骑士的。有一次向她请教经验，她还没听完我的话，就拉着我去骑士团外面玩炸弹…我以为这是什么修行，结果最后我和她都被琴团长关了禁闭…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/890a6983bcfbae2f09e6b7a89386a441_5946284379112558919.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴团长一直都是我的榜样，我的实力和认真程度完全比不上她。她对别人就像对自己一样严格，所以如果有一天我能得到她的认可，那也是对我一直以来努力的最大肯定了。在那之前，我都是不会松懈的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/10bc7723bc9788e7a9ea7437ee3ebe5b_3104732209614451723.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "本来我想跟着他的队伍一起去冒险，履行女仆的责任，但大团长说我留在蒙德他才不会有后顾之忧…大团长这么器重我，我特别开心！虽然后来我知道大团长不只对我一个人说了这句话，不过…器重就是器重嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4cb921b7619f6496dcbbfb20b3dfd4ed_4222713283875699065.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "他很神秘，来如影，去如风，每天都有很重要的任务要去处理。他还经常会给我安排一些小任务，就好像我已经是他的小队成员了一样…嗯？只是跑腿？不不不，虽然确实是跑腿，可是我很珍惜的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3a1d64bbcdad9bc0746acd70833eaf23_5396364807583463532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特…",
+          "text": "他不止一次来邀请我，说什么比起骑士团，还是冒险家协会更适合我…虽然我是会像一个普通的冒险家一样，帮他照顾他的老爹们，但…骑士团对我来说有特别的意义，而且我也不想认输…嗯，果然还是没法答应。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7408fc09b41bc916b77b26f68133b22e_4972958009566135268.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔·茶点",
+          "text": "她好像是从别的世界来的，其他的我也不清楚…不过她好像很喜欢骑士团的图书馆，总是在那里看书。我打扫的时候会送去一些热乎乎的茶点，她每次都会感谢我，还会说很多听不明白，但都很夸张的话…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/606e8893e096d6a2e803b96fd3530d11_7505160918989665034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔·身世",
+          "text": "以前我打扫图书馆的时候，记得有本书叫《菲谢尔皇女夜谭》，我还以为只是幻想小说…但没想到，里面的主人公居然真的存在！能有一本自己的传记，她一定很厉害吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5507add6674a0e04e23eb27fab7504e5_3712079424987926836.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "我们经常在一起喝茶，有时候她会轻轻哼出很好听的调子，告诉我灵感来了。虽然我对音乐给不出什么实用的建议…但能跟芭芭拉享受这样的时光，我真的非常高兴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/04fc2b1e9df5560b8441d7969c80f1ae_689630523317986464.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其一",
+          "text": "是需要我帮忙吗？哦…只是想和我聊聊天，好吧，如果这就算帮上了你的忙，那想聊多久都可以。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2e70ff1efc7629881a3192c235ea8906_2013239823640845882.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其二",
+          "text": "没关系，什么样的事都可以交给我，不用照顾我的感受的…欸？那不是「女仆」而是「工具」？唔…工具做了很多事也不一定会开心吧，但我为你做的每件事，我都很有成就感哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/72b2a835496be1df1a63785f817f04ba_6047078987680853823.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其三",
+          "text": "这、这些点心是送给我的吗？不不不，这怎么好意思呢？那…那我也要做很多点心作为回报！我现在就去，马上就去！半个小时…呜，最多一个小时就做好了。你可以先去做别的事，茶点很快就会热乎乎地端到你的面前！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/790d2b5cef799a66f964d9ab9f7553de_4074923986177977535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其四",
+          "text": "我每天做的都是一些琐碎的小事，但只要这些小事能帮到你的冒险、你的生活，我就会很开心…因为你的道谢，会让我觉得这些小事，也都有小小的意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6408fc11469ee82f5d82c12116d261a3_2844791124442176694.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其五",
+          "text": "我是为骑士团服务的女仆，也一直想要帮到更多人的忙。但不知不觉，用在你身上的时间已经变得越来越多了…唉，像我这样自私的做法，是不是…不太好？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/47c51d5ad539ca8f95865d58448607e8_1894280178004279338.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "诺艾尔的爱好…",
+          "text": "爱好吗？我最喜欢洗各种各样的东西，洗衣服，洗地板，洗窗户，看到脏东西变干净我就会特别有成就感…欸？是指「休息时的爱好」？我想想…嗯，果然还是洗东西！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea79ea07efabfce85107ccc7785375b3_388799499225336783.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "诺艾尔的烦恼…",
+          "text": "该怎么用最少的预算、采购到最多最好的物资呢…我试过一个人跑去璃月比对所有商铺的价格、再一个人把东西全都搬回来…但那次花的时间太长，琴团长差点以为我在路上被风魔龙吃掉了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af4c2c16a0a7efe882a6343514284fbd_1978265347431482256.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "当然是「满足沙拉」，蒙德的自然水土汇于一盘，营养均衡，热量也不会超标…你问吃不腻吗？当然不会，很好吃的！我已经吃了十年了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c455ccbf4b4355bd369529d4a96f1c57_5550528318638375084.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我不挑食！但有一种情况会让我比较头疼…宴会上的一大桌菜，作为女仆，每一道菜都必须自己先尝一尝。但这样一口接一口…唉，太罪恶了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dcb08fbb05c5d51b74f1542b230c4390_7917665097290223674.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "能把普通的菜肴做得那么好吃…我对你的钦佩，又多了一些！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c936ca43df56dceb593fb0f6d034a662_4414719403023737460.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道真好。我也要向你学习！再怎么说，这也是女仆的职责…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f270ab0d4d701632de1a3ccb2e6b9f07_7342315209198944094.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "热量…会不会已经超过一整天的份额了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/0088fcbd64aefd1990aeddb47a4f3672_8781380830145970981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "每天都忙于冒险，是不是积压了很多琐事来不及处理？今天我就是你的专属女仆，全都交给我吧！还有…在这最棒的一天，祝你生日快乐！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b28291261dbd0528cbc04fb711d6b72_5495370342186986207.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "这就是…新的力量？谢谢你，这样我就能帮到更多人了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/028d26a8032c2b2858a68c8534bf43c6_2307977928261768744.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "还不能满足，在成为正式的西风骑士之前，我都要加倍努力。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/939599b7f3decb9b24aacd05898323b5_657547524128577925.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "多亏了能和你一起冒险，我才获得了这么多的成长。明明女仆的职责是为你排忧解难，结果反倒是让你为我花了这么多心思…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/35a87ebd331e9fb15ea5f64b14a21553_5291953561894288704.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "蒙德城的大家都说我变得比以前更可靠了，还说我马上就能成为真正的西风骑士了，但其实我…什么？你也这么觉得？呃…谢谢你能这么说，这是对我最好的夸奖！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8615c4d931b8bca71364e4527c5c47e_2185807714502073212.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "岩石的重量，令人安心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d9025d2a22774a77844f7bd26d2bd939_2154671759632556274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "一定要干净利落。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/07f8970b512698bdb3c4a7e461184fea_3341478025352834320.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/620c993fb0b72dee90a026f58c9c4c04_8628296754193823964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "该打扫战场了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c39011db303bf3d749f36b220d315cc1_3565065868739843442.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "我会注意骑士的风度。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b161163e1e0b50b66958eb98869e23a1_7598277909286821309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "我会注意女仆的礼仪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0189018b28fc74d6eb2d29ad1229d0b0_3811016548913106804.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "应该赶得上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/323a943ab5525edef2c7a8cb0643e2d3_4971835891637864549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "还有人需要帮忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cff398c4c709716bb9c9bcd2315921e1_7391140741794282725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "心满意足。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c679533c139105b7c4647f36cef0c67f_9164661963099739682.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真高兴…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b83d690be93ab485cdc2cffbde5c53fa_2298783236156375323.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这些宝藏积灰了，先清洗一下！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fd3242b45d2317df1f5414405eb2f1cf_572415875135980455.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "没关系，轻伤而已。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2b01ddd60709a64e1da5d6f59609f23c_3519763087223378588.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "唔，衣服都弄脏了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/46b5d2d4387d0022104845cf7f6ba780_3785499498091794482.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我不会退缩的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e1726c432e9ec82490e6d5f983e592aa_3394391004669302810.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别动，小心伤口，我来治疗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c566daa3aeeee6b2818be72c7397eda8_5110178362145830870.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "交给我吧！换我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/49eee0178d8628f44b0d6cf1868a228c_5811641191912056065.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "让骑士团…蒙羞了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8d0ea5aa29fef4fae30643c1b832259b_9060132267954896304.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我还想…保护大家…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/28b5ef475e4a06e2dca7f44456159f5d_4172218367587868626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "再见了…主人…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab0a6a018c26ee51e46e4b974b24ba9f_3096521469757572938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "唔…失态了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7c70f757b871949670e68ca2f63a80f1_2953477917562555021.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "真高兴…啊、嗯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af77b8f1e116ac2ca6600bd1e9ae988e_2699156023785474252.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "一定会保护你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/694736aa168ab16b2cd6cfe4c9eed814_2960205482187277395.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "嗯，如你所愿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/190ef81e6fb6f1ae33879366efc6a347_5234720073864636854.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是诺艾尔，西风骑士团的女仆，从今天起会陪你一起去冒险。如果遇到任何困扰或者麻烦，不用担心，我都会尽全力帮你解决的。嗯，现在就可以哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/db8df42fc9cd2a733691ee4f3d59d18f_6453167420553303589.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·帮忙",
+          "text": "交给我吧！什么都可以交给我！——对了，你要拜托我做什么来着？我还没来得及听…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/87531363fefcd927a8dcaa95171cf3bb_8525536825474639865.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·休息",
+          "text": "有点累了吗？那就在这里休息吧，我去为你沏茶，要全糖、半糖，还是无糖？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c6f43fbbd50091d84a0c5063315483e4_7910254313394745755.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·可靠",
+          "text": "只要你需要我，我随时都会出现在你的身边。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/42c6fecd22aa16643e299a56b62c35f0_851100594303270184.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "糟了，大家的衣服还晾在外面！我能不能现在回去收拾一下？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/97e5c35dbd8588657841da0cc64e283b_845462708832013737.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "遇到打雷还是待在屋子里比较好哦，如果有非出门不可的事，就交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/47925ccb8a1ceb68d4aa7fa7b25a15c9_6922262122068116645.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气晴朗，不如做一些和「阳光」有关的事吧。欸？具体一点…只要能让你的心情也变得晴朗的事，都可以。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ef89c49beda7aa871842e1975ffd58ed_372253269139488491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "听见了吗？是风神的声音。每到我心烦意乱的时候，听见风声就能平静下来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/be380e716e485a4e86dc2f807ef2f4fc_115241122987949124.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，早餐已经做好了哦。我就待在你身边，如果哪里不合口味，请随时告诉我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/703688de2335e11dc2a3e9730fb879c0_5744427742267231184.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "想要坐下来喝杯茶吗？我去为你准备。对了，我还顺手准备了厚云朵松饼，是我的拿手菜哦，请一定要尝一尝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d85f7b6e2f35ba83ba9450473324bc86_8450124042612899342.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上是大家的休息时间，也是我最忙的时候…安柏洗好的发带放在哪了？凯亚新买的眼罩有几套？我会全部记住的，这是女仆的责任。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c1d275a6efac13b80cfb8091984d5aee_4893319464601849574.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "今天的冒险辛苦你了，请去休息吧。我还要回骑士团一趟…欸？要我守候你入睡吗？…唔…倒是没什么问题，不过…不是在捉弄我吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/03ccdfbf1b6db8a0ff472357a7635b34_1764240431227933300.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔自己·自律",
+          "text": "我只是每天都做同样的事，和真正的骑士比起来还差远了…但这是通往骑士之路的修行，修行可不能只是嘴上说说而已啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/647d7c479bc3f22b4e381aabf1c1d4aa_498793774994632000.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔自己·分歧",
+          "text": "我有点不太擅长和别人争辩，很多时候说不清道理，还会惹别人生气，所以我就会先按我的想法去做，结果又被人说是「固执」了…我只是想用结果说服他而已，这也是「固执」吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5d6d609ef8db4992fb340b98ab57c335_5658498085987303722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·身份",
+          "text": "我的奉献是出于自由的奉献，「女仆」在我看来就是最自由的身份。厨师、园丁、战士、向导…你需要我是什么，我就是什么！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d4148548599d461678225633df77d99c_1140177093894149276.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·叮嘱",
+          "text": "就算再怎么仓促，一日三餐也不能应付，不可以吃来历不明的东西，也不能光吃肉不吃蔬菜。对了，尽量不要喝冷水，对胃不好…唔，你不会在想「因为太麻烦所以还是交给诺艾尔」吧？唔唔…如果你真的这么想…好吧，还是交给我来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6adc139ba411b566c2dcfe279731f83e_6395737401376481332.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·欢迎会",
+          "text": "我听说了，你成为了西风骑士团的荣誉骑士，真是羡慕啊…那今后你就是我的前辈了。对了，应该为你举办一场热闹的欢迎会！我现在就去准备！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6f3aaae7c415f415945d162a0408c776_6007454330865950213.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "说实话，有些失望…虽然这「神之眼」象征神明对我的肯定，但为什么不是「风」，而是与风的性质相差最远的「岩」呢？我觉得最适合西风骑士团的元素，毕竟还是…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7844c7c74bd338bc30554a4b44461cd6_4946725950004570940.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "其实我很喜欢闻酒的味道，可是现在的我还没到喝酒的年纪…虽然不止一次有偷偷尝的机会，但我都忍住了，还是把这份神秘感保留到我成年的那一天吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b8a3c66908dc8897c560ca6632c24b1e_1797324774061291251.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "女仆要严守秘密，所以我很喜欢玫瑰，玫瑰在蒙德就代表「守口如瓶」，它总是能提醒我…欸？在你的家乡，玫瑰代表「爱情」吗？…居、居然还有这么火热的含义啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b84e890bb51b9d5516df7c4b2fbafd5d_2161072333487671636.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "她是我非常尊敬的前辈，实力很强不说，对人也很亲切。她还教我怎么做「兔兔伯爵」，你看，我会把它当成护身符带在身边，做得不错吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7a307960843c5bbb60804449e243c22c_7941842197326898207.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "我一直很想知道，她还这么小，是怎么正式成为骑士的。有一次向她请教经验，她还没听完我的话，就拉着我去骑士团外面玩炸弹…我以为这是什么修行，结果最后我和她都被琴团长关了禁闭…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e7a1ac8274f35a874c6e951e13e1824f_9021106263972028140.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴团长一直都是我的榜样，我的实力和认真程度完全比不上她。她对别人就像对自己一样严格，所以如果有一天我能得到她的认可，那也是对我一直以来努力的最大肯定了。在那之前，我都是不会松懈的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7613d5b019f73cf835cd6b9fc7da4d2e_7541986803497162352.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "本来我想跟着他的队伍一起去冒险，履行女仆的责任，但大团长说我留在蒙德他才不会有后顾之忧…大团长这么器重我，我特别开心！虽然后来我知道大团长不只对我一个人说了这句话，不过…器重就是器重嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/821470173f178cf955b105f37fb442f9_5578091020056974420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "他很神秘，来如影，去如风，每天都有很重要的任务要去处理。他还经常会给我安排一些小任务，就好像我已经是他的小队成员了一样…嗯？只是跑腿？不不不，虽然确实是跑腿，可是我很珍惜的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cc4601402e8d4a0744ac36d0c05409dd_5868256933188411964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特…",
+          "text": "他不止一次来邀请我，说什么比起骑士团，还是冒险家协会更适合我…虽然我是会像一个普通的冒险家一样，帮他照顾他的老爹们，但…骑士团对我来说有特别的意义，而且我也不想认输…嗯，果然还是没法答应。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/453ccb3fa7e8407b449704535c4fce62_2585697618059686849.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔·茶点",
+          "text": "她好像是从别的世界来的，其他的我也不清楚…不过她好像很喜欢骑士团的图书馆，总是在那里看书。我打扫的时候会送去一些热乎乎的茶点，她每次都会感谢我，还会说很多听不明白，但都很夸张的话…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3a3afa8adc87a6f4b739622d85e0f7a3_5135474690583288401.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔·身世",
+          "text": "以前我打扫图书馆的时候，记得有本书叫《菲谢尔皇女夜谭》，我还以为只是幻想小说…但没想到，里面的主人公居然真的存在！能有一本自己的传记，她一定很厉害吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bfa2c6a565887c8d4e847ec7fa537a7c_7517672675933345631.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "我们经常在一起喝茶，有时候她会轻轻哼出很好听的调子，告诉我灵感来了。虽然我对音乐给不出什么实用的建议…但能跟芭芭拉享受这样的时光，我真的非常高兴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/98ae28bab3a5a945f9920bfee241b75f_505128529205120273.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其一",
+          "text": "是需要我帮忙吗？哦…只是想和我聊聊天，好吧，如果这就算帮上了你的忙，那想聊多久都可以。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/68cd9a5f38f03bb48d80ec2f840b6cfc_4371625728014594855.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其二",
+          "text": "没关系，什么样的事都可以交给我，不用照顾我的感受的…欸？那不是「女仆」而是「工具」？唔…工具做了很多事也不一定会开心吧，但我为你做的每件事，我都很有成就感哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/68881ba20cc7c7d116d653af8a4504c4_6370934384834438336.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其三",
+          "text": "这、这些点心是送给我的吗？不不不，这怎么好意思呢？那…那我也要做很多点心作为回报！我现在就去，马上就去！半个小时…呜，最多一个小时就做好了。你可以先去做别的事，茶点很快就会热乎乎地端到你的面前！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9fff130c9b0018adc7c5208e475bf5ef_2595217730861768105.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其四",
+          "text": "我每天做的都是一些琐碎的小事，但只要这些小事能帮到你的冒险、你的生活，我就会很开心…因为你的道谢，会让我觉得这些小事，也都有小小的意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1dd648a960d01fab7ea6405acb7f05c5_223661603545733851.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其五",
+          "text": "我是为骑士团服务的女仆，也一直想要帮到更多人的忙。但不知不觉，用在你身上的时间已经变得越来越多了…唉，像我这样自私的做法，是不是…不太好？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/baead91fb873680b92ea4ef740d5db77_1879908641593752975.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "诺艾尔的爱好…",
+          "text": "爱好吗？我最喜欢洗各种各样的东西，洗衣服，洗地板，洗窗户，看到脏东西变干净我就会特别有成就感…欸？是指「休息时的爱好」？我想想…嗯，果然还是洗东西！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7a56676151bbbc243678e8abd7116449_1381851144500416360.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "诺艾尔的烦恼…",
+          "text": "该怎么用最少的预算、采购到最多最好的物资呢…我试过一个人跑去璃月比对所有商铺的价格、再一个人把东西全都搬回来…但那次花的时间太长，琴团长差点以为我在路上被风魔龙吃掉了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/51e71dc09fd59e73af4364118ebb7119_3069490344486613451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "当然是「满足沙拉」，蒙德的自然水土汇于一盘，营养均衡，热量也不会超标…你问吃不腻吗？当然不会，很好吃的！我已经吃了十年了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/28ad0de746c36d48e98d1abb572dc9a9_8486229588753136950.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我不挑食！但有一种情况会让我比较头疼…宴会上的一大桌菜，作为女仆，每一道菜都必须自己先尝一尝。但这样一口接一口…唉，太罪恶了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4861fae423f60ac27541d87d287e1614_5184212726871683914.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "能把普通的菜肴做得那么好吃…我对你的钦佩，又多了一些！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c7d8b55247448c548604334393d0343c_1821024015676113885.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道真好。我也要向你学习！再怎么说，这也是女仆的职责…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1df72150b8cd863d186d76429f604508_2040728362959360540.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "热量…会不会已经超过一整天的份额了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ee906aa6296c2d11df60915ac20452d0_901596259459025970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "每天都忙于冒险，是不是积压了很多琐事来不及处理？今天我就是你的专属女仆，全都交给我吧！还有…在这最棒的一天，祝你生日快乐！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/81bad69256c6ed4189ff7f7a1f4090f3_7942422382242937703.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "这就是…新的力量？谢谢你，这样我就能帮到更多人了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d4e758cae79ff5b89db6373bde0f6651_1339218098466879186.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "还不能满足，在成为正式的西风骑士之前，我都要加倍努力。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/715410aaf592a7dd14f966a6fcdb0e68_8137632852845524742.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "多亏了能和你一起冒险，我才获得了这么多的成长。明明女仆的职责是为你排忧解难，结果反倒是让你为我花了这么多心思…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/17428cb104c47b3f1bbd1230da13bfc1_6124507612629660882.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "蒙德城的大家都说我变得比以前更可靠了，还说我马上就能成为真正的西风骑士了，但其实我…什么？你也这么觉得？呃…谢谢你能这么说，这是对我最好的夸奖！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fb778b7efa275d57cb2bf5351d9afbf7_1034746755255316532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "岩石的重量，令人安心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/abaf620bbd22d6e74098b8f09960ff8c_5500862992045985853.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "一定要干净利落。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/abfcaaf04d61afe9fa8bc4929ba53768_216905490716510096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/42be423f1ecd5b371a0f35f1925656be_5930703804785312660.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "该打扫战场了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a8b73e62febf17e51fc2aa4eef32c147_6337051812904273692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "我会注意骑士的风度。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f09e138b210011a9631df430cf5cfa9c_3950898714142089263.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "我会注意女仆的礼仪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3283a2c41619a4abbbd7b38c0a1d8cd8_2304618599645053694.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "应该赶得上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8075e7eacf864450741a9aff73bdc9af_6809214611674445326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "还有人需要帮忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bf9f02fc9b66362c1d583148e81ebc81_8634427958813113824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "心满意足。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/325c1a59bb748f4f96ec7500542e1279_7046870578384306248.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真高兴…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/72efe364e4b375c8adb6fe9fc8fc8dcc_2171205710746155910.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这些宝藏积灰了，先清洗一下！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3e0786bfd6eb719a8bbc6e1828288d79_7515853693824106234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "没关系，轻伤而已。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0e50aa88f7680467737d9a1144925e96_2734995576015481878.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "唔，衣服都弄脏了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3fe8c36bbefae84f5e1ca47cc78a5fe3_4396632980195424983.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我不会退缩的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/02d4beaa060e34867f418c57996baedf_5846387684205479913.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别动，小心伤口，我来治疗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/5dfde4449e494352f631b3e73d384527_433552345359068148.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "交给我吧！换我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a51b9aa2f3b6268fc4b9c6ec6083aea3_6303611906499922396.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "让骑士团…蒙羞了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/971e33db747861b273d8196a88b3fa11_1723725811318309510.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我还想…保护大家…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f279957d314943a40045f19a93675851_6441579691371872071.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "再见了…主人…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4528706f5fa5a153dab7aa8ad3c1643e_7266952274082963725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "唔…失态了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ebb9126ff3d20a0af254e82c9b036e17_8206100362119012013.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "真高兴…啊、嗯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5a61f060f11552b549d42df6eea60e69_1411541105276147507.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "一定会保护你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a14f6edc4a27480c3f99425fa8ae2a77_1999274651409588400.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "嗯，如你所愿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9d0bd25d6a9da57243c0b3f9e30641fb_6410757307845385275.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是诺艾尔，西风骑士团的女仆，从今天起会陪你一起去冒险。如果遇到任何困扰或者麻烦，不用担心，我都会尽全力帮你解决的。嗯，现在就可以哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bdf0ce3f51910c0bc2cc5ca62cd12c6a_1382819165890860343.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·帮忙",
+          "text": "交给我吧！什么都可以交给我！——对了，你要拜托我做什么来着？我还没来得及听…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e90d53e187f0934e2b5f0422ff424bba_9122303110083547187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·休息",
+          "text": "有点累了吗？那就在这里休息吧，我去为你沏茶，要全糖、半糖，还是无糖？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/347c2bb9298376cc8d16b65b2f965797_120067945875739439.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·可靠",
+          "text": "只要你需要我，我随时都会出现在你的身边。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a97d9c3556a5a62843635a44d9a201c2_4309441592532359231.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "糟了，大家的衣服还晾在外面！我能不能现在回去收拾一下？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0ae12ea049028d58138b9a93ed0b07fe_2330233723572008201.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "遇到打雷还是待在屋子里比较好哦，如果有非出门不可的事，就交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7634dda0b141f03dcb42316800b236c0_2985980208299930695.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气晴朗，不如做一些和「阳光」有关的事吧。欸？具体一点…只要能让你的心情也变得晴朗的事，都可以。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/916a85b785190be8fa20b6bc1d2b4026_2929623338381690029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "听见了吗？是风神的声音。每到我心烦意乱的时候，听见风声就能平静下来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fc5d679d65cc51238bde9be435de31e5_2688875966266837.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，早餐已经做好了哦。我就待在你身边，如果哪里不合口味，请随时告诉我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/859fe2dfb164059ff6b70569712e9677_4738101803749815538.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "想要坐下来喝杯茶吗？我去为你准备。对了，我还顺手准备了厚云朵松饼，是我的拿手菜哦，请一定要尝一尝。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9896e1617faf756ebaf70d7224810ba6_7857539075634186533.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上是大家的休息时间，也是我最忙的时候…安柏洗好的发带放在哪了？凯亚新买的眼罩有几套？我会全部记住的，这是女仆的责任。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7015c902f80047c273bbb2f047bec3e2_4837325589962543456.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "今天的冒险辛苦你了，请去休息吧。我还要回骑士团一趟…欸？要我守候你入睡吗？…唔…倒是没什么问题，不过…不是在捉弄我吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4307e79cd7fc6a25621d8e9c0db51104_6330496480492332901.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔自己·自律",
+          "text": "我只是每天都做同样的事，和真正的骑士比起来还差远了…但这是通往骑士之路的修行，修行可不能只是嘴上说说而已啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/35ed7ee60357738cd3fafee016e6fac4_8785972702172612791.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔自己·分歧",
+          "text": "我有点不太擅长和别人争辩，很多时候说不清道理，还会惹别人生气，所以我就会先按我的想法去做，结果又被人说是「固执」了…我只是想用结果说服他而已，这也是「固执」吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f281ccd8eb660f01f8580c121ed71ef1_8326158252833371221.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·身份",
+          "text": "我的奉献是出于自由的奉献，「女仆」在我看来就是最自由的身份。厨师、园丁、战士、向导…你需要我是什么，我就是什么！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aec8376f4102085cd79e7d940bb8ec20_5367564401645138600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·叮嘱",
+          "text": "就算再怎么仓促，一日三餐也不能应付，不可以吃来历不明的东西，也不能光吃肉不吃蔬菜。对了，尽量不要喝冷水，对胃不好…唔，你不会在想「因为太麻烦所以还是交给诺艾尔」吧？唔唔…如果你真的这么想…好吧，还是交给我来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cbc223c5b2a531bd20a477e4801a5390_1805803897759046225.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·欢迎会",
+          "text": "我听说了，你成为了西风骑士团的荣誉骑士，真是羡慕啊…那今后你就是我的前辈了。对了，应该为你举办一场热闹的欢迎会！我现在就去准备！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/849d14d677f3b86ca13b2392bf5de03c_3149259579358114799.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "说实话，有些失望…虽然这「神之眼」象征神明对我的肯定，但为什么不是「风」，而是与风的性质相差最远的「岩」呢？我觉得最适合西风骑士团的元素，毕竟还是…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/43dac544fc3d4c2657c3a2d282434ce4_7716291316049140315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "其实我很喜欢闻酒的味道，可是现在的我还没到喝酒的年纪…虽然不止一次有偷偷尝的机会，但我都忍住了，还是把这份神秘感保留到我成年的那一天吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a4ed3685e1b25d69af7a4812de7c3432_126439976636903503.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "女仆要严守秘密，所以我很喜欢玫瑰，玫瑰在蒙德就代表「守口如瓶」，它总是能提醒我…欸？在你的家乡，玫瑰代表「爱情」吗？…居、居然还有这么火热的含义啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b014b6913330705a914b4f9ad1afed5e_5302253025225135480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "她是我非常尊敬的前辈，实力很强不说，对人也很亲切。她还教我怎么做「兔兔伯爵」，你看，我会把它当成护身符带在身边，做得不错吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/756cd560eac4239c132d9341e9aae22c_3481551243144815984.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "我一直很想知道，她还这么小，是怎么正式成为骑士的。有一次向她请教经验，她还没听完我的话，就拉着我去骑士团外面玩炸弹…我以为这是什么修行，结果最后我和她都被琴团长关了禁闭…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8483a9103151f834c3df356640261a8f_4804728535218532765.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴团长一直都是我的榜样，我的实力和认真程度完全比不上她。她对别人就像对自己一样严格，所以如果有一天我能得到她的认可，那也是对我一直以来努力的最大肯定了。在那之前，我都是不会松懈的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b38e449b3bc3b0b510409f9b484b8974_4566722691757639759.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "本来我想跟着他的队伍一起去冒险，履行女仆的责任，但大团长说我留在蒙德他才不会有后顾之忧…大团长这么器重我，我特别开心！虽然后来我知道大团长不只对我一个人说了这句话，不过…器重就是器重嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cd1663b0904fce78758d887c042faccb_1451508726454575063.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "他很神秘，来如影，去如风，每天都有很重要的任务要去处理。他还经常会给我安排一些小任务，就好像我已经是他的小队成员了一样…嗯？只是跑腿？不不不，虽然确实是跑腿，可是我很珍惜的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/daf8cfc81747d981039096e241b45f4f_825320889133697726.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特…",
+          "text": "他不止一次来邀请我，说什么比起骑士团，还是冒险家协会更适合我…虽然我是会像一个普通的冒险家一样，帮他照顾他的老爹们，但…骑士团对我来说有特别的意义，而且我也不想认输…嗯，果然还是没法答应。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9fd700bd3c6b5741119f32eba6b191b0_4177578153461110129.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔·茶点",
+          "text": "她好像是从别的世界来的，其他的我也不清楚…不过她好像很喜欢骑士团的图书馆，总是在那里看书。我打扫的时候会送去一些热乎乎的茶点，她每次都会感谢我，还会说很多听不明白，但都很夸张的话…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae0875fa85f5ee7c284c09ded022d7f0_2404815417628980181.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔·身世",
+          "text": "以前我打扫图书馆的时候，记得有本书叫《菲谢尔皇女夜谭》，我还以为只是幻想小说…但没想到，里面的主人公居然真的存在！能有一本自己的传记，她一定很厉害吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d0e9b4bce2cabf78a95e0690818b8322_2163214453522095027.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "我们经常在一起喝茶，有时候她会轻轻哼出很好听的调子，告诉我灵感来了。虽然我对音乐给不出什么实用的建议…但能跟芭芭拉享受这样的时光，我真的非常高兴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9559d2f5da5e8ceeacfdc67ff2f3c933_2623216188533947234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其一",
+          "text": "是需要我帮忙吗？哦…只是想和我聊聊天，好吧，如果这就算帮上了你的忙，那想聊多久都可以。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bfd96164c1301ca04c1963afbea96ed3_8963473645094527470.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其二",
+          "text": "没关系，什么样的事都可以交给我，不用照顾我的感受的…欸？那不是「女仆」而是「工具」？唔…工具做了很多事也不一定会开心吧，但我为你做的每件事，我都很有成就感哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fa274aa99aa34ced46154f460734cb43_7223396506269965977.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其三",
+          "text": "这、这些点心是送给我的吗？不不不，这怎么好意思呢？那…那我也要做很多点心作为回报！我现在就去，马上就去！半个小时…呜，最多一个小时就做好了。你可以先去做别的事，茶点很快就会热乎乎地端到你的面前！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7f23476fd5a2693aebcdd9833838c5b6_8559736177772958380.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其四",
+          "text": "我每天做的都是一些琐碎的小事，但只要这些小事能帮到你的冒险、你的生活，我就会很开心…因为你的道谢，会让我觉得这些小事，也都有小小的意义。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6af95a5769da807d4c3496868e3e0c9f_6355640221838411062.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解诺艾尔·其五",
+          "text": "我是为骑士团服务的女仆，也一直想要帮到更多人的忙。但不知不觉，用在你身上的时间已经变得越来越多了…唉，像我这样自私的做法，是不是…不太好？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae3c64f708c6f4a92e484a1a2574d134_5657597851315647787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "诺艾尔的爱好…",
+          "text": "爱好吗？我最喜欢洗各种各样的东西，洗衣服，洗地板，洗窗户，看到脏东西变干净我就会特别有成就感…欸？是指「休息时的爱好」？我想想…嗯，果然还是洗东西！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ca18a2e622657b8a3b925b0c0bdf7c1f_7640902483626106531.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "诺艾尔的烦恼…",
+          "text": "该怎么用最少的预算、采购到最多最好的物资呢…我试过一个人跑去璃月比对所有商铺的价格、再一个人把东西全都搬回来…但那次花的时间太长，琴团长差点以为我在路上被风魔龙吃掉了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cb724a81f83d0b87280d25964b7d1be8_6279843808455206184.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "当然是「满足沙拉」，蒙德的自然水土汇于一盘，营养均衡，热量也不会超标…你问吃不腻吗？当然不会，很好吃的！我已经吃了十年了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/007a983b128c4aff0aedccf326699d82_8288022011304055228.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我不挑食！但有一种情况会让我比较头疼…宴会上的一大桌菜，作为女仆，每一道菜都必须自己先尝一尝。但这样一口接一口…唉，太罪恶了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ee28ff9cf0eb82264bf76a078695de8d_7248797530893494875.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "能把普通的菜肴做得那么好吃…我对你的钦佩，又多了一些！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/48e941eda9237cd5913c7662ad5946f4_558813251806801207.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道真好。我也要向你学习！再怎么说，这也是女仆的职责…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/09f5b90a226877b63902f88fbe2c88dc_3895653874154688900.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "热量…会不会已经超过一整天的份额了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/eb8fe2ee0145d6ddf9e7b4bd14f2e13c_4487101888334966184.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "每天都忙于冒险，是不是积压了很多琐事来不及处理？今天我就是你的专属女仆，全都交给我吧！还有…在这最棒的一天，祝你生日快乐！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ceccf484d284bd70fe162009d174488c_3454674037711109390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "这就是…新的力量？谢谢你，这样我就能帮到更多人了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/16fef0ea2037334728027e5b72dfa853_7286044129414786283.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "还不能满足，在成为正式的西风骑士之前，我都要加倍努力。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/53d8afcf0396dbfb4fd1a386d0b4a353_3053512317247825285.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "多亏了能和你一起冒险，我才获得了这么多的成长。明明女仆的职责是为你排忧解难，结果反倒是让你为我花了这么多心思…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/427c442bd8b09192ca0dbaa40b2e5f94_177223300000253987.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "蒙德城的大家都说我变得比以前更可靠了，还说我马上就能成为真正的西风骑士了，但其实我…什么？你也这么觉得？呃…谢谢你能这么说，这是对我最好的夸奖！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/32576b0aeb87e3e9ca48a7cf09c5ae7c_2003510493272247560.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "岩石的重量，令人安心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b03362b2c2fa4413d57f9b708517fbbd_3851952454858307068.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "一定要干净利落。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4a6cf6b819bf6de719e15fbcadc0b2b5_4390969464803342799.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4494a57e89509f731f5955e9888d5232_4432311547258383901.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "该打扫战场了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8b5ced518972f3e01494df4c89f28ed_4250678844799980773.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "我会注意骑士的风度。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/540163f1d637389cec3a14ff5c18bafb_5233641698619189277.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "我会注意女仆的礼仪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b5a2fedab2ee428572d0c70e0634e2cc_7427000946455738124.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "应该赶得上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d8b304ebc8d2ec6f76cbd177e013741a_975144777362982391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "还有人需要帮忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/03ad3c2ac9085f766424cfb5dc110675_6939549632012964858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "心满意足。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/83aa81e7a9efbb1fe47eee26efbc64c3_8209098906830353808.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真高兴…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/261b61ddee71fed4e1162a5e5afa0176_2048472400322154566.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这些宝藏积灰了，先清洗一下！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/da3e3b0e913a42002c519d8425f335f8_4626273936976193648.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "没关系，轻伤而已。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2acdfae3d5fde4d3567997e373517c6e_1806986400993478276.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "唔，衣服都弄脏了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c8fe5766480290a00cfd1d53576bb28f_6884132712388380927.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我不会退缩的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9c796f76ace87e5989fa29d76dd6c93c_6812474727529102292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别动，小心伤口，我来治疗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/90c4f59fc2310b1d423912c37141db4f_9031647330480858959.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "交给我吧！换我来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/91d104eb310ed15def293e2da78f641c_6499996801132422671.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "让骑士团…蒙羞了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a057a06e401bad51a7581bb19be6409e_5042955207383781771.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我还想…保护大家…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cd5e236d802651437881904223d7b992_1225796637728044217.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "再见了…主人…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2515723dbcfb6bd9a3a0617bff8ff78c_7924146571344812353.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "唔…失态了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0691aa3cade05d1b55d1567f83a523de_3278151557512029970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "真高兴…啊、嗯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ef471482f94d2cbbec948e9087457b0f_1086928093611590549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "一定会保护你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e70b390d8171f76b9b3c0e2607e8c7ae_3884242697657468284.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "嗯，如你所愿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/68fdfb3f81f7d04595f5670c758a4cec_9125649286477289092.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

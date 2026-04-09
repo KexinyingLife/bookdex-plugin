@@ -1,0 +1,1877 @@
+{
+  "id": "2125",
+  "name": "早柚",
+  "alias": [
+    "早柚"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "「终末番」早柚，参上。呼——如果没有什么事情的话，我先去睡觉了。对了，不准趁我睡觉的时候偷偷摸我的头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/97f5927458d55ed3552933e546e69baa_2376977111631952276.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·睡着",
+          "text": "呼啊…呼噜呼噜——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/727b972bc56410ba13a9ff417e150501_5911623779693316246.mp3",
+          "audioName": "02闲聊·睡着_cn.mp3"
+        },
+        {
+          "name": "闲聊·工作",
+          "text": "工作还不如睡觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/568cfd47bbefefbdabd1f9d5fd77bdb2_3658243506517677178.mp3",
+          "audioName": "03闲聊·工作_cn.mp3"
+        },
+        {
+          "name": "闲聊·长高",
+          "text": "什么时候才能长高呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/5616bef11a1ac387aea7542488846f1e_2864717482407416961.mp3",
+          "audioName": "04闲聊·长高_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "快躲雨，被雨淋到就长不高了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/e7dcddb55a9cf12fbc76f09d1c054e1c_7286792679443512788.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "好大的动静，不过只要整个人都钻到被子里就能安稳睡觉了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/b36566163ebe1c86eca30cddf8971140_3247596212050603290.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪天很方便躲藏。比如说「雪降之隐」这种忍术，借助飘雪隐去身形，等别人察觉的时候，对方的眼前就只剩下飘落的雪花了。啊，你千万不要把这些告诉巫女姐姐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/2613002451df997f92662ef172e75a67_3992964031647099118.mp3",
+          "audioName": "07下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "舒舒服服的好天气，啊——好困哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/100fd403cbd6f489df55304a59b355c0_1567123025420706861.mp3",
+          "audioName": "08阳光很好…_cn.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "风起之时，便是开溜的好时机。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/d85827134716736de5c84bc0c0c0e79e_2735019313478750755.mp3",
+          "audioName": "09起风的时候…_cn.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风吹得眼睛睁不开了，不如就这样，闭起眼睛睡一觉吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/ccec9b6159c5cc4da614a92161e289f2_2497216396258176714.mp3",
+          "audioName": "10刮大风了…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "已经…已经早上了吗？再睡10分钟…就10分钟嘛…那、那5分钟也行…呼…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/996b716ed736c68728c9af5ffe3ee8f6_3852851629893972373.mp3",
+          "audioName": "11早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "好困，午睡时间还没到吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/91d0d2d105fccb9330c78eb19b5b3d21_4585467935609018123.mp3",
+          "audioName": "12中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "确认完毕，方圆十里内没有巫女姐姐的踪影。今晚可以睡个好觉啦~",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/921c68a6ed03aed886ec086822501d77_7006429738981509471.mp3",
+          "audioName": "13晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "终于…可以睡觉了…晚…晚安…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/4180cac6dc24381ab7c98873ba1064e0_2786158951343861328.mp3",
+          "audioName": "14晚安…_cn.mp3"
+        },
+        {
+          "name": "关于早柚自己·终末番",
+          "text": "我虽然属于「终末番」，但交给我的工作无非就是些情报收集、偷取物品之类的琐事。所以…所以不做也没有什么关系嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/d2874fda3dfc1a16454762c220d0d53b_1356786196321848256.mp3",
+          "audioName": "15关于早柚自己·终末番_cn.mp3"
+        },
+        {
+          "name": "关于早柚自己·旷工",
+          "text": "「终末番」的工作本来就没什么意义嘛，一直拖着不做，就会有更合适的人去做。但是睡觉不一样啊，只要睡得够久，说不定哪天就能长高了，这可是意义非凡的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/c45fd0271dc6e14afb69163e63e21d6b_3706980116004839000.mp3",
+          "audioName": "16关于早柚自己·旷工_cn.mp3"
+        },
+        {
+          "name": "关于我们·帮个忙",
+          "text": "如果巫女姐姐来了，记得告诉我一声哦，我稍微睡…啊不，休息会儿。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/32165f23a063ef59471255461a5dec57_6543362235488998253.mp3",
+          "audioName": "17关于我们·帮个忙_cn.mp3"
+        },
+        {
+          "name": "关于我们·摸摸头",
+          "text": "摸摸头？唔，如果是你的话…那好吧，我不会咬你的，但是不能摸太久了，否则会长不高的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/c5bdbfef9e663b7c76947316da04a8cc_5600637594339516167.mp3",
+          "audioName": "18关于我们·摸摸头_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "双手剑真的很重，光靠忍术的话，我肯定举不起来。但是有了「神之眼」就不一样了，所以不管怎么说，「神之眼」对我帮助很大。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/76efa792cd32ac3c7f3fcef740fb2233_2203912273426607403.mp3",
+          "audioName": "19关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "老师说我是我们流派最后一代传人了。毕竟也不是什么特别适合战斗的流派，我学的也都是些逃跑和隐蔽气息用的忍术，这也是没办法的事情吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/4415bade3a82c319733f9c5d69a94f24_6459897315685663463.mp3",
+          "audioName": "20有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你知道貉吗？一种比狸猫可爱得多的小动物，下次带你一起去看看吧~",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/00a12727d3018926ea738301adcc50e5_2342579224109794921.mp3",
+          "audioName": "21感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "神里家的大小姐优雅又端庄，但是她专门任命了一位巫女姐姐来监督我，不让我偷懒…怎会如此…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/7d45f11eb6f2dd85ca48b9d090f497c9_4167199488329111895.mp3",
+          "audioName": "22关于神里绫华…_cn.mp3"
+        },
+        {
+          "name": "关于神里绫人…",
+          "text": "我在树上休息的时候，经常会听到巫女姐姐们在聊他，似乎是一位工作很忙的大人。真是奇怪，工作什么的明明旷掉就好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/0f39e8add26a861ee645b5119e22d0a4_8577914610761517235.mp3",
+          "audioName": "23关于神里绫人…_cn.mp3"
+        },
+        {
+          "name": "关于托马…",
+          "text": "明明都有神之眼了，他每次出现还是缠着我说想要学忍术，真是搞不懂。而且我睡觉的时间都不够，哪有时间教他嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/1ada0fd80a2440eb5c8ca824d58f1b91_5189406573809795138.mp3",
+          "audioName": "24关于托马…_cn.mp3"
+        },
+        {
+          "name": "关于宵宫…",
+          "text": "她每次碰到我就说什么，小狸猫我们一起去祭典玩之类的话。我才不是狸猫，也不想去祭典。说是一起去玩，其实就是想着在祭典上让我配合她的烟火表演忍术，但是这和「终末番」的工作有什么关联嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/8eb8b06806b9ce400e7b3cd79a3dc8fb_8396062466608310772.mp3",
+          "audioName": "25关于宵宫…_cn.mp3"
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "那位大人…不是我能见到的人物。想知道更多事情的话，或许问问绫华大小姐比较好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/3e1cfe989e81695eb2b60f8827b2e832_2409523822667099344.mp3",
+          "audioName": "26关于雷电将军…_cn.mp3"
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "她总喜欢摸我的头，可是我不敢咬她，也不敢反抗，总感觉如果拒绝了她会发生很可怕的事情。但是，再这样被摸下去，我会不会真的长不高了？怎么办呀…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/26e5dc014f5d261af3a52fa7b2236b14_2520762960293970512.mp3",
+          "audioName": "27关于八重神子…_cn.mp3"
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "怎么会有这么吵吵嚷嚷的人，而且他还能长这么高！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/b3bbaf2795e0460ef4a3f49c3d700ad8_9146799935972030172.mp3",
+          "audioName": "28关于荒泷一斗…_cn.mp3"
+        },
+        {
+          "name": "关于久岐忍…",
+          "text": "没什么印象的名字，让我想想…欸？她是荒泷一斗的小弟吗？那肯定也是干扰睡眠的人，毕竟有个词叫做一丘之貉，啊不对，是一丘之狸！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/3e48b95dd20c575f0fab820670b6c553_6856972864491311541.mp3",
+          "audioName": "29关于久岐忍…_cn.mp3"
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "有次我午觉睡醒，感觉身后暖和和的，一转头就看见有只猫正蜷着睡觉，关键是有一对毛茸茸的尾巴！吓得我差点从树枝上掉下去。这，这也是变身术吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/3488ed2d5675b7ae7b65dde7330939b7_356706626615923296.mp3",
+          "audioName": "30关于绮良良…_cn.mp3"
+        },
+        {
+          "name": "关于梦见月瑞希…",
+          "text": "奇怪的紫色妖怪…被她盯着的时候，感觉好像要被吃掉一样…唔！惹不起，我还是躲着她走吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/12/50494840/74cb9c64b7be3c1fbcddb858014b473f_8601713556402705808.mp3",
+          "audioName": "汉语.mp3"
+        },
+        {
+          "name": "想要了解早柚·其一",
+          "text": "呼——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/4f7ae5a4290e60c29dd71430188fd707_1131230609919875857.mp3",
+          "audioName": "31想要了解早柚·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解早柚·其二",
+          "text": "呃…你是问我忍术流派的名字吗？那个…想不起来了啦，我还没睡醒，我再去睡一觉，睡醒后说不定就能想起来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/24cf906ba796c11f5b0f8f977812c819_307057519196889080.mp3",
+          "audioName": "32想要了解早柚·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解早柚·其三",
+          "text": "好吧，告诉你也行。你先答应我不准笑，不然我就再也不理你了。我们流派叫做——呜呼流…说是因为我们流派的忍术以戏弄敌人为长而取的名字，可是，可是…唉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/bb7bb20aeb22043c574e1c87533c3b7e_4081358327513295067.mp3",
+          "audioName": "33想要了解早柚·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解早柚·其四",
+          "text": "你会爬树吗？我非常擅长这个，可以教你哦。还有，神社那边有棵树特别适合偷…啊不，特别适合小憩。下次你想睡午觉的时候，记得来找我，我们一起爬上去午睡吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/0887092217cbc638dac7baf0ebedd403_4817987619322511910.mp3",
+          "audioName": "34想要了解早柚·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解早柚·其五",
+          "text": "其实这套衣服是老师给我的，说是以貉为原型做的，还有助于我逃跑什么的…然后又说我已经长大了可以独当一面了，但也要保护好自己，说完老师就离开了我。可我这个身高，真的能独当一面吗…唔…欸？你是说你会陪着我吗？你真的不会离开我吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/8c105e2a4b91efe98cc0ad12b5d4e39e_6793818638374668653.mp3",
+          "audioName": "35想要了解早柚·其五_cn.mp3"
+        },
+        {
+          "name": "早柚的爱好…",
+          "text": "套上衣服上的帽子，不用担心会被巫女姐姐找到，然后睡个天昏地暗，这应该是世界上最幸福的事情了吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/1ca741b770b054af62ebe7566a915d4c_5898750829474441222.mp3",
+          "audioName": "36早柚的爱好…_cn.mp3"
+        },
+        {
+          "name": "早柚的烦恼·误会",
+          "text": "很多人第一次见到我的时候，都会大呼小叫，还把我当成狸猫。可早柚就是早柚，才不是狸猫。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/222ccffb99ad7f878044fe3f3b64543e_5250908443837557954.mp3",
+          "audioName": "37早柚的烦恼·误会_cn.mp3"
+        },
+        {
+          "name": "早柚的烦恼·身高",
+          "text": "什么时候才能长高呢？跟我同年的人身高都快是我的两倍了，可我还…不行，再睡久一点一定能长高的！我要睡觉了，晚安。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/4046d8d8bb22df0c74b7695f4c0ab5bb_7007345827597012384.mp3",
+          "audioName": "38早柚的烦恼·身高_cn.mp3"
+        },
+        {
+          "name": "早柚的烦恼·死循环",
+          "text": "我上次听人说，烦恼太多也会长不高…呜，我该怎么办才好…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f4446609854180ad4fa4f540f18be5ee_1418004751151560508.mp3",
+          "audioName": "39早柚的烦恼·死循环_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "能一下子提供很多能量的食物吧，比如说饭团。睡醒了吃一个就不会头晕眼花，然后又能继续睡觉了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/5928436d00c48197e06cde7570520977_2198045413817535207.mp3",
+          "audioName": "40喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "想要长高的话，就不能挑食！说来最近好像身高也没有变化，是不是因为蔬菜吃少了，但是沙拉真的没有办法提供饱腹感，而且还苦苦的，呜欸——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/cebbfb6116dff704b4cce6a5a558b6ef_7071655108097245386.mp3",
+          "audioName": "41讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "肚子好饱。这下可以安心睡觉啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/9ae392eb404f8295056cb37bbae2f675_1957504117866748931.mp3",
+          "audioName": "42收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "吃着吃着…就困了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/abbdd1cebf481a77aabd45c0a97cf695_4841644946930418386.mp3",
+          "audioName": "43收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "要想个办法…逃走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/02281df79d8d5bf62240c9a876c249da_6622602930505496707.mp3",
+          "audioName": "44收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "你有什么想学的忍术吗？我可以教你！当然仅限于我会的。呃？你问我为什么不睡觉？嗯…我还不困，而且，而且今天是特别的日子，我不可以睡过去，因为我想亲口对你说——生日快乐呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/64025888779d26bb833f532a6781eda7_3593910213386531584.mp3",
+          "audioName": "45生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我有长高一点点吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/7cc8b0ac0f51cb7131cff045c60b1630_8194933231501091545.mp3",
+          "audioName": "46突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "太好了，能溜得更快了，这下子肯定不会被抓住了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/809c2dd03dee9704ff6deae269b409d0_5440279708731505318.mp3",
+          "audioName": "47突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "谢谢你帮我收集了那么多材料，要是我自己来的话…肯定在路上就会睡着了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/8d2db4ca4c86753e3cba141ca03cde30_1311435300164904188.mp3",
+          "audioName": "48突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我好像确实像老师说的那样，可以独当一面了。这样子长不长高或许对我来说也没有那么重要了，因为现在重要的是…有你陪在我身边。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/08d3e4cf54e1c66bcb1edb7cbe1a72e8_7384382357748628697.mp3",
+          "audioName": "49突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "走啦…唔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/d77ba2c6a6a6b8f9409e1aeeeb1ac586_3265815813993194063.mp3",
+          "audioName": "50元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "溜咯…啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/3f6cca0fb887419b12445a8fe312d2fa_2467530950022166657.mp3",
+          "audioName": "51元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "咕噜，哈！…嘿呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/80fe1daa1602eade5c308c06c7f99ad5_5942479178904163920.mp3",
+          "audioName": "52元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "极意遁走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/abb627474062af128a3b6047316e989b_6641494373500767598.mp3",
+          "audioName": "53元素战技·其四_cn.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "抓不住我…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/177461cae55d1b8cb37732867cf3d64d_4037419995515618555.mp3",
+          "audioName": "54元素战技·其五_cn.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "随风而遁…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/7f8c3f7cb19ef0b41bccc18f1f6e6a27_4361447989931321102.mp3",
+          "audioName": "55元素战技·其六_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "分身之术。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/12a341d8ccfb0b68f8dab09c00fb72f0_2025357436212097010.mp3",
+          "audioName": "56元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "出来吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/c23eabb58e48cca0e11433f430198a44_2553436698987691697.mp3",
+          "audioName": "57元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "嘿咻…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/edf8ae3d0ccf573300ebc6f3907ec26b_18103243542812444.mp3",
+          "audioName": "58元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "疾风遁术。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/1025f0461e96f767c5dfa4fd9251792f_3826095097993036940.mp3",
+          "audioName": "59冲刺开始·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这个箱子…好像可以睡进去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/31d094956ee58bb7800b323ff4a80ff7_7464916275112287125.mp3",
+          "audioName": "60打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "大丰收！可以睡觉了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/dab3ee00f4e3c98b25a5074191d2c9ed_4709694309607779215.mp3",
+          "audioName": "61打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "是对长高有帮助的东西吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/d8057790ca2e93192f6b58a1273ddf84_2892996011130110333.mp3",
+          "audioName": "62打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "逃跑的话，该用…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/b262070d54add7e613f151f58f8bff9a_802420534495047231.mp3",
+          "audioName": "63生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "头晕乎乎的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6e5a3ba20f214afd223af1ffaafc5d5b_3247442581029211688.mp3",
+          "audioName": "64生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "呼，好累。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/48fb7a815c1bf31520a33758f5e24cef_8277035778573103817.mp3",
+          "audioName": "65生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "我来掩护。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/d5406e316eb6aaa65b6ad37c69e32be4_3857396448181949080.mp3",
+          "audioName": "66同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "先退下休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/dc3855aba6d3bec5e4e3998f14649970_8169690533473063167.mp3",
+          "audioName": "67同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "没能…逃掉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/c91726eafd8a3a68b310f67c9179441c_2549698906962368381.mp3",
+          "audioName": "68倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "…晚、晚安了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/c9a3dfcc9d7087c9433d29495dcd26e0_6216598801946182573.mp3",
+          "audioName": "69倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "不该偷懒的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/31b3050d3ffcddd04857e8d4186df8bf_8269275645806787055.mp3",
+          "audioName": "70倒下·其三_cn.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "痛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/37884e6cadcda931641db8173748af7a_6902511162198358356.mp3",
+          "audioName": "71普通受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "没躲开。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/fc9f15ee4cb6abe4c87965ac90a67775_6506840610950991310.mp3",
+          "audioName": "72重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "呜，要晕倒了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/5b84721eb722e31095ba72208d552923_4514519798916868866.mp3",
+          "audioName": "73重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "好困。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6b26ec5ccc0694c2eac5baab6523677b_4994374806091799686.mp3",
+          "audioName": "74加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "可以睡觉吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/596d3c038c91654a0fb996252dba6487_4909407101409583168.mp3",
+          "audioName": "75加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "呜，居然被抓住了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/73566136fdaec123de7d834b19cae2a9_4006557809635330195.mp3",
+          "audioName": "76加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "「终末番」早柚，参上。呼——如果没有什么事情的话，我先去睡觉了。对了，不准趁我睡觉的时候偷偷摸我的头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/3f864e056db610dc20dc86f14f6e6601_8987618717170954359.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·睡着",
+          "text": "呼啊…呼噜呼噜——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/cdbf8b44240ee191a38c08c27c0cbbb0_3585346631647441523.mp3",
+          "audioName": "02闲聊·睡着_jp.mp3"
+        },
+        {
+          "name": "闲聊·工作",
+          "text": "工作还不如睡觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/99cb6c1e24db12c2c41dcfe0cc212b0e_2991973342593342795.mp3",
+          "audioName": "03闲聊·工作_jp.mp3"
+        },
+        {
+          "name": "闲聊·长高",
+          "text": "什么时候才能长高呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/afa5bd63ab6e04fb5c0ddb79472e9f58_4641043744516812199.mp3",
+          "audioName": "04闲聊·长高_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "快躲雨，被雨淋到就长不高了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/fac85d0959f45673aa88071a704b1d4d_6537652458774016455.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "好大的动静，不过只要整个人都钻到被子里就能安稳睡觉了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/60341c04bb1422ed6cba6ff3d859d1d2_541098420971903189.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪天很方便躲藏。比如说「雪降之隐」这种忍术，借助飘雪隐去身形，等别人察觉的时候，对方的眼前就只剩下飘落的雪花了。啊，你千万不要把这些告诉巫女姐姐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/4cdf2feb7e9c36c90475c362d1df36e0_1552012215229817707.mp3",
+          "audioName": "07下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "舒舒服服的好天气，啊——好困哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/679e96288fb6fa111798d31e7aaeb302_1215852592128931081.mp3",
+          "audioName": "08阳光很好…_jp.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "风起之时，便是开溜的好时机。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/278e6f60aefedbb49b8a37f2f5ed367a_5613973026222071589.mp3",
+          "audioName": "09起风的时候…_jp.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风吹得眼睛睁不开了，不如就这样，闭起眼睛睡一觉吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/54020c009be7250b7c715fae2c6dc76d_4184631835280524841.mp3",
+          "audioName": "10刮大风了…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "已经…已经早上了吗？再睡10分钟…就10分钟嘛…那、那5分钟也行…呼…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/0f782d55998cadc0d879e69fff0916a4_6972967088620421853.mp3",
+          "audioName": "11早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "好困，午睡时间还没到吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/47030adea5b2f53ac186f3771ddf4d6f_4444406829423473227.mp3",
+          "audioName": "12中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "确认完毕，方圆十里内没有巫女姐姐的踪影。今晚可以睡个好觉啦~",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/e4adfb9bec3a5bde103e93994ec6dc26_6248319131193205168.mp3",
+          "audioName": "13晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "终于…可以睡觉了…晚…晚安…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/1da050e8f5b9d27c7713f9e484fc359d_2769837358868548379.mp3",
+          "audioName": "14晚安…_jp.mp3"
+        },
+        {
+          "name": "关于早柚自己·终末番",
+          "text": "我虽然属于「终末番」，但交给我的工作无非就是些情报收集、偷取物品之类的琐事。所以…所以不做也没有什么关系嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/c610e4e5588da780c5e8815f194ad3c7_2754197074226668161.mp3",
+          "audioName": "15关于早柚自己·终末番_jp.mp3"
+        },
+        {
+          "name": "关于早柚自己·旷工",
+          "text": "「终末番」的工作本来就没什么意义嘛，一直拖着不做，就会有更合适的人去做。但是睡觉不一样啊，只要睡得够久，说不定哪天就能长高了，这可是意义非凡的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/ad94ea7c2f756065b4aa56dd63d27bac_8219185376517085291.mp3",
+          "audioName": "16关于早柚自己·旷工_jp.mp3"
+        },
+        {
+          "name": "关于我们·帮个忙",
+          "text": "如果巫女姐姐来了，记得告诉我一声哦，我稍微睡…啊不，休息会儿。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/af4b1dd07c1a2af86414686c8b934f48_2271465683165367946.mp3",
+          "audioName": "17关于我们·帮个忙_jp.mp3"
+        },
+        {
+          "name": "关于我们·摸摸头",
+          "text": "摸摸头？唔，如果是你的话...那好吧，我不会咬你的，但是不能摸太久了，否则会长不高的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/2519f70c210304510474b8ea6541aa4a_7463110816110094291.mp3",
+          "audioName": "18关于我们·摸摸头_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "双手剑真的很重，光靠忍术的话，我肯定举不起来。但是有了「神之眼」就不一样了，所以不管怎么说，「神之眼」对我帮助很大。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/3e898adf3b3697c70b7dcbac06be5797_1043227487950353660.mp3",
+          "audioName": "19关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "老师说我是我们流派最后一代传人了。毕竟也不是什么特别适合战斗的流派，我学的也都是些逃跑和隐蔽气息用的忍术，这也是没办法的事情吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/afcd2914d50b2397a7efaf36cb5d2bed_700499075985702221.mp3",
+          "audioName": "20有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你知道貉吗？一种比狸猫可爱得多的小动物，下次带你一起去看看吧~",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/bd4ede1017aa2f2c58d25b9ec3b3fb18_2967836710681357689.mp3",
+          "audioName": "21感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "神里家的大小姐优雅又端庄，但是她专门任命了一位巫女姐姐来监督我，不让我偷懒…怎会如此…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/c292c0e4e2c360ae05f024523fc4bcb4_867793715791416455.mp3",
+          "audioName": "22关于神里绫华…_jp.mp3"
+        },
+        {
+          "name": "关于神里绫人…",
+          "text": "我在树上休息的时候，经常会听到巫女姐姐们在聊他，似乎是一位工作很忙的大人。真是奇怪，工作什么的明明旷掉就好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/31709439a400992ebe1dc9c7fb55b753_3798752870544242742.mp3",
+          "audioName": "23关于神里绫人…_jp.mp3"
+        },
+        {
+          "name": "关于托马…",
+          "text": "明明都有神之眼了，他每次出现还是缠着我说想要学忍术，真是搞不懂。而且我睡觉的时间都不够，哪有时间教他嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/2d2da181324326b27585697b3bdbe0e1_2221865856447508499.mp3",
+          "audioName": "24关于托马…_jp.mp3"
+        },
+        {
+          "name": "关于宵宫…",
+          "text": "她每次碰到我就说什么，小狸猫我们一起去祭典玩之类的话。我才不是狸猫，也不想去祭典。说是一起去玩，其实就是想着在祭典上让我配合她的烟火表演忍术，但是这和「终末番」的工作有什么关联嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/9280d1a8b92e2bb554ec1ce97fd106ca_1800786936115392704.mp3",
+          "audioName": "25关于宵宫…_jp.mp3"
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "那位大人…不是我能见到的人物。想知道更多事情的话，或许问问绫华大小姐比较好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/50dae7c9ad3b97f12d0af8c5fe01c61f_8296628890127136014.mp3",
+          "audioName": "26关于雷电将军…_jp.mp3"
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "她总喜欢摸我的头，可是我不敢咬她，也不敢反抗，总感觉如果拒绝了她会发生很可怕的事情。但是，再这样被摸下去，我会不会真的长不高了？怎么办呀…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f4f556785b9af852b01a70d982130c48_6402276949385369514.mp3",
+          "audioName": "27关于八重神子…_jp.mp3"
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "怎么会有这么吵吵嚷嚷的人，而且他还能长这么高！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/de65c7d9932efd26a3373388f5f3c222_2117617563060365771.mp3",
+          "audioName": "28关于荒泷一斗…_jp.mp3"
+        },
+        {
+          "name": "关于久岐忍…",
+          "text": "没什么印象的名字，让我想想…欸？她是荒泷一斗的小弟吗？那肯定也是干扰睡眠的人，毕竟有个词叫做一丘之貉，啊不对，是一丘之狸！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/b191490701a76f6d85961c4ac0b22a85_1169784476412446383.mp3",
+          "audioName": "29关于久岐忍…_jp.mp3"
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "有次我午觉睡醒，感觉身后暖和和的，一转头就看见有只猫正蜷着睡觉，关键是有一对毛茸茸的尾巴！吓得我差点从树枝上掉下去。这，这也是变身术吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/14e540beda74e4775dab04035aed1935_4852779197557822637.mp3",
+          "audioName": "30关于绮良良…_jp.mp3"
+        },
+        {
+          "name": "关于梦见月瑞希…",
+          "text": "奇怪的紫色妖怪…被她盯着的时候，感觉好像要被吃掉一样…唔！惹不起，我还是躲着她走吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/12/50494840/d3efe0014c881bddefc10811d53fa839_3382563319100445398.mp3",
+          "audioName": "日语.mp3"
+        },
+        {
+          "name": "想要了解早柚·其一",
+          "text": "呼——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/d236b833f1ee52403dea39f5d59ef242_1123755444379847271.mp3",
+          "audioName": "31想要了解早柚·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解早柚·其二",
+          "text": "呃…你是问我忍术流派的名字吗？那个…想不起来了啦，我还没睡醒，我再去睡一觉，睡醒后说不定就能想起来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/2241fa7a96f84ba98cb994039ab3a53a_7273106791200145011.mp3",
+          "audioName": "32想要了解早柚·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解早柚·其三",
+          "text": "好吧，告诉你也行。你先答应我不准笑，不然我就再也不理你了。我们流派叫做——呜呼流…说是因为我们流派的忍术以戏弄敌人为长而取的名字，可是，可是…唉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/715254d4c1b864200aed3468e6aa4b69_8953141517854057772.mp3",
+          "audioName": "33想要了解早柚·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解早柚·其四",
+          "text": "你会爬树吗？我非常擅长这个，可以教你哦。还有，神社那边有棵树特别适合偷…啊不，特别适合小憩。下次你想睡午觉的时候，记得来找我，我们一起爬上去午睡吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/a4d04db4ac5b671e41c863713132464b_4553936915179939666.mp3",
+          "audioName": "34想要了解早柚·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解早柚·其五",
+          "text": "其实这套衣服是老师给我的，说是以貉为原型做的，还有助于我逃跑什么的…然后又说我已经长大了可以独当一面了，但也要保护好自己，说完老师就离开了我。可我这个身高，真的能独当一面吗…唔…欸？你是说你会陪着我吗？你真的不会离开我吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/febb2e87e97bf8526749fd0651194415_5220075124193283929.mp3",
+          "audioName": "35想要了解早柚·其五_jp.mp3"
+        },
+        {
+          "name": "早柚的爱好…",
+          "text": "套上衣服上的帽子，不用担心会被巫女姐姐找到，然后睡个天昏地暗，这应该是世界上最幸福的事情了吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/e71ebb91dd9e9efebaae443f337cf629_8094932315237177785.mp3",
+          "audioName": "36早柚的爱好…_jp.mp3"
+        },
+        {
+          "name": "早柚的烦恼·误会",
+          "text": "很多人第一次见到我的时候，都会大呼小叫，还把我当成狸猫。可早柚就是早柚，才不是狸猫。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/19ff3f634cea5df61ecbb4938c5b949c_133156662919230022.mp3",
+          "audioName": "37早柚的烦恼·误会_jp.mp3"
+        },
+        {
+          "name": "早柚的烦恼·身高",
+          "text": "什么时候才能长高呢？跟我同年的人身高都快是我的两倍了，可我还…不行，再睡久一点一定能长高的！我要睡觉了，晚安。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/fc467683e6180268c9240e1f839ca2e7_3906124648229642394.mp3",
+          "audioName": "38早柚的烦恼·身高_jp.mp3"
+        },
+        {
+          "name": "早柚的烦恼·死循环",
+          "text": "我上次听人说，烦恼太多也会长不高…呜，我该怎么办才好…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/c890d5f51e11da01faa2d885cfd990fc_3987626173609914110.mp3",
+          "audioName": "39早柚的烦恼·死循环_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "能一下子提供很多能量的食物吧，比如说饭团。睡醒了吃一个就不会头晕眼花，然后又能继续睡觉了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/e4c12253507f5f8a883d238eac2ff29a_6866267526399939302.mp3",
+          "audioName": "40喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "想要长高的话，就不能挑食！说来最近好像身高也没有变化，是不是因为蔬菜吃少了，但是沙拉真的没有办法提供饱腹感，而且还苦苦的，呜欸——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/4b10abca8a2cb511b44cdead6fae7891_653878657002475335.mp3",
+          "audioName": "41讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "肚子好饱。这下可以安心睡觉啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f5acabe83e630dcf4b23f7433c3bf6d7_4659277290205702893.mp3",
+          "audioName": "42收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "吃着吃着…就困了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/98ce08d47df192829d746c234658c100_3955791609495519632.mp3",
+          "audioName": "43收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "要想个办法…逃走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/95008db77ac66f2322f9f9c99c4e8e0a_2374281077649519773.mp3",
+          "audioName": "44收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "你有什么想学的忍术吗？我可以教你！当然仅限于我会的。呃？你问我为什么不睡觉？嗯…我还不困，而且，而且今天是特别的日子，我不可以睡过去，因为我想亲口对你说——生日快乐呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/df5e3a10022ff9fd213610f37ab4a0d6_2998427962648746422.mp3",
+          "audioName": "45生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我有长高一点点吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/798a087736757b5fe1623c3eb25a1795_7082992667351326507.mp3",
+          "audioName": "46突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "太好了，能溜得更快了，这下子肯定不会被抓住了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/faae60b6d572f0536aacb017fc132d87_7145944801905542438.mp3",
+          "audioName": "47突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "谢谢你帮我收集了那么多材料，要是我自己来的话…肯定在路上就会睡着了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/e3a611ad8ed417ee27a540e770109f11_8036840255868914302.mp3",
+          "audioName": "48突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我好像确实像老师说的那样，可以独当一面了。这样子长不长高或许对我来说也没有那么重要了，因为现在重要的是…有你陪在我身边。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/04c8a8faa426433f3a4af3754e941ee3_2328023052068000792.mp3",
+          "audioName": "49突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "走啦…唔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/13d39fccd4aed3a5dd5143db09b29e08_7943584541469037738.mp3",
+          "audioName": "50元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "溜咯…啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/63b1374a8dc3e0359bd12f54c24e891f_6820067472430266548.mp3",
+          "audioName": "51元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "咕噜，哈！…嘿呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/3d991849b0ec1013510a47af6a1111c1_1890853153512366742.mp3",
+          "audioName": "52元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "极意遁走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/4f6599e0ca0ad1999cd81bc659f4662b_5487721931501945479.mp3",
+          "audioName": "53元素战技·其四_jp.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "抓不住我…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/d8eaac8dd3b002ed831cd89ab42c8005_4134780322256125758.mp3",
+          "audioName": "54元素战技·其五_jp.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "随风而遁…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6ee979ead4d43b8a59a74844e9b70bea_2279700178779373012.mp3",
+          "audioName": "55元素战技·其六_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "分身之术。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/b15120c18fbe1432bf97dce6ade2edd4_5584827414941632753.mp3",
+          "audioName": "56元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "出来吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/43bf9d1239c0f532c6b299672147c553_4102566403817542923.mp3",
+          "audioName": "57元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "嘿咻…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/786b4571224256103e71dc0f11ce8c80_5713358072245903139.mp3",
+          "audioName": "58元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "疾风遁术。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/90873b122fa0864074d7b4c61116874f_1533657381995597700.mp3",
+          "audioName": "59冲刺开始·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这个箱子…好像可以睡进去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/96b428dbe5f050221e59f8e5cb05e62c_7994773199676954771.mp3",
+          "audioName": "60打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "大丰收！可以睡觉了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/1963d67001c2123ee199671f4facd39e_1160952020587267362.mp3",
+          "audioName": "61打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "是对长高有帮助的东西吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/fca5ffa703d5272c94acb80543c3d73c_1933345035130556059.mp3",
+          "audioName": "62打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "逃跑的话，该用…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/aab5b15485323875f5ec19202395815f_9135943160480432192.mp3",
+          "audioName": "63生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "头晕乎乎的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/cf5577e4ea902ef9e51af08860c00eda_1461228589430073027.mp3",
+          "audioName": "64生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "呼，好累。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/da14e6db9dfbe280d5888bd53a33579a_6634861113370817830.mp3",
+          "audioName": "65生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "我来掩护。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/09bd670d0f0fc137b7a87f539bca9537_4601721220392398950.mp3",
+          "audioName": "66同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "先退下休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/cf967aa56825c25c76b37285d4b7eec8_5770807181505137091.mp3",
+          "audioName": "67同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "没能...逃掉...",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/92db46813f8063a2591d2fa42cef508f_8261715850461254490.mp3",
+          "audioName": "68倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "…晚、晚安了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6ad1138ddd6946a2eb83b5c240d41886_1711151403471063985.mp3",
+          "audioName": "69倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "不该偷懒的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/7282376cde235832d4ee410b995ca185_5272874490776060911.mp3",
+          "audioName": "70倒下·其三_jp.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "痛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/b5acf6d3fe6c67c977868e2c25835a36_3124586590788916642.mp3",
+          "audioName": "71普通受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "没躲开。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/687204d72115882d00fe128079b655f4_6355428884066033436.mp3",
+          "audioName": "72重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "呜，要晕倒了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/1b777026dad24654cccd2b4d8ecb2f6e_3457717239309325820.mp3",
+          "audioName": "73重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "好困。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/9d7386cc2b9a044645785944636627c5_6916853976219865091.mp3",
+          "audioName": "74加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "可以睡觉吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f47be4de9de80861eafc559a88fb2705_52742326992120341.mp3",
+          "audioName": "75加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "呜，居然被抓住了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/157363cdb07889230856340b1e5bdd24_4488642526754342424.mp3",
+          "audioName": "76加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "「终末番」早柚，参上。呼——如果没有什么事情的话，我先去睡觉了。对了，不准趁我睡觉的时候偷偷摸我的头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/b8ccfc12c0fc70281770e410916a9d48_6052724141620036811.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·睡着",
+          "text": "呼啊…呼噜呼噜——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/7f321e590cd4017ec3b9383dc7a28b51_6436730249662117072.mp3",
+          "audioName": "02闲聊·睡着_en.mp3"
+        },
+        {
+          "name": "闲聊·工作",
+          "text": "工作还不如睡觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/3316871c38808d8c998fb75ff7d7a595_1853142194516216257.mp3",
+          "audioName": "03闲聊·工作_en.mp3"
+        },
+        {
+          "name": "闲聊·长高",
+          "text": "什么时候才能长高呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/7d31e6f78e2da8bd9015b7ef10de2519_6347149113138560662.mp3",
+          "audioName": "04闲聊·长高_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "快躲雨，被雨淋到就长不高了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/99d1e7923511a1ec15beebd7800d1128_4869807217469530686.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "好大的动静，不过只要整个人都钻到被子里就能安稳睡觉了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6e46bad6baee4ee9d7482f9ed47e6092_1902546522335942242.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪天很方便躲藏。比如说「雪降之隐」这种忍术，借助飘雪隐去身形，等别人察觉的时候，对方的眼前就只剩下飘落的雪花了。啊，你千万不要把这些告诉巫女姐姐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/d061206df5511c50d5c7bfe896ef8603_1510027134606008641.mp3",
+          "audioName": "07下雪的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "舒舒服服的好天气，啊——好困哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/300ace652ae48c48f7a295389f457cc7_8774411818042209728.mp3",
+          "audioName": "08阳光很好…_en.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "风起之时，便是开溜的好时机。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/a9fc3b8b95d47b20fcd855e56c6c0efd_461927714911491995.mp3",
+          "audioName": "09起风的时候…_en.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风吹得眼睛睁不开了，不如就这样，闭起眼睛睡一觉吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/867a8bc45533cbe13a854b909f2babaf_1001671844670120492.mp3",
+          "audioName": "10刮大风了…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "已经…已经早上了吗？再睡10分钟…就10分钟嘛…那、那5分钟也行…呼…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/3ce1dfad91b90140800c8a718706f025_7334734858782182193.mp3",
+          "audioName": "11早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "好困，午睡时间还没到吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/1108708f76d43a35986678c7c83f6bf7_944058166264000537.mp3",
+          "audioName": "12中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "确认完毕，方圆十里内没有巫女姐姐的踪影。今晚可以睡个好觉啦~",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/1cca4d3c84c057b8111634cbf5c0db6a_7681731532482639916.mp3",
+          "audioName": "13晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "终于…可以睡觉了…晚…晚安…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/3145b212ee60336bcfdc7699e6f6f55a_6685369641247759090.mp3",
+          "audioName": "14晚安…_en.mp3"
+        },
+        {
+          "name": "关于早柚自己·终末番",
+          "text": "我虽然属于「终末番」，但交给我的工作无非就是些情报收集、偷取物品之类的琐事。所以…所以不做也没有什么关系嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/593c79f4c91ea3a2cd1cdc0b17e56223_8227805956244456988.mp3",
+          "audioName": "15关于早柚自己·终末番_en.mp3"
+        },
+        {
+          "name": "关于早柚自己·旷工",
+          "text": "「终末番」的工作本来就没什么意义嘛，一直拖着不做，就会有更合适的人去做。但是睡觉不一样啊，只要睡得够久，说不定哪天就能长高了，这可是意义非凡的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6c1ff193fd8777fcdcf0d588b5550f75_4565800522111408994.mp3",
+          "audioName": "16关于早柚自己·旷工_en.mp3"
+        },
+        {
+          "name": "关于我们·帮个忙",
+          "text": "如果巫女姐姐来了，记得告诉我一声哦，我稍微睡…啊不，休息会儿。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/726901c00d7edfd757e27dd09af8f036_3564523992355410314.mp3",
+          "audioName": "17关于我们·帮个忙_en.mp3"
+        },
+        {
+          "name": "关于我们·摸摸头",
+          "text": "摸摸头？唔，如果是你的话...那好吧，我不会咬你的，但是不能摸太久了，否则会长不高的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/e73eecc29906e4c928ca941dc6ac9576_2054562508583592730.mp3",
+          "audioName": "18关于我们·摸摸头_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "双手剑真的很重，光靠忍术的话，我肯定举不起来。但是有了「神之眼」就不一样了，所以不管怎么说，「神之眼」对我帮助很大。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6fa30b656960dbbf2df82c2316ca0fdd_6666547867526276523.mp3",
+          "audioName": "19关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "老师说我是我们流派最后一代传人了。毕竟也不是什么特别适合战斗的流派，我学的也都是些逃跑和隐蔽气息用的忍术，这也是没办法的事情吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/2a5afb99cd80dad71b031539dcc2b019_5726979171738237987.mp3",
+          "audioName": "20有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你知道貉吗？一种比狸猫可爱得多的小动物，下次带你一起去看看吧~",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/fa0856ae86275110bfd3635d353c6fe9_2077352131657650340.mp3",
+          "audioName": "21感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "神里家的大小姐优雅又端庄，但是她专门任命了一位巫女姐姐来监督我，不让我偷懒…怎会如此…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f8f94e2c0fcc44868f7d2a3ac93b7ba4_2654910067156434005.mp3",
+          "audioName": "22关于神里绫华…_en.mp3"
+        },
+        {
+          "name": "关于神里绫人…",
+          "text": "我在树上休息的时候，经常会听到巫女姐姐们在聊他，似乎是一位工作很忙的大人。真是奇怪，工作什么的明明旷掉就好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/cc7083c93f4ba240ae49d4549b7bc097_6981843340308536060.mp3",
+          "audioName": "23关于神里绫人…_en.mp3"
+        },
+        {
+          "name": "关于托马…",
+          "text": "明明都有神之眼了，他每次出现还是缠着我说想要学忍术，真是搞不懂。而且我睡觉的时间都不够，哪有时间教他嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6657ff8aa3aff295ee278d647709e941_3586437590217675114.mp3",
+          "audioName": "24关于托马…_en.mp3"
+        },
+        {
+          "name": "关于宵宫…",
+          "text": "她每次碰到我就说什么，小狸猫我们一起去祭典玩之类的话。我才不是狸猫，也不想去祭典。说是一起去玩，其实就是想着在祭典上让我配合她的烟火表演忍术，但是这和「终末番」的工作有什么关联嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/522c36939948d1f23f4d6b97878aea89_4086729234286153534.mp3",
+          "audioName": "25关于宵宫…_en.mp3"
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "那位大人…不是我能见到的人物。想知道更多事情的话，或许问问绫华大小姐比较好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/e02b141b77cd20efb8c13f6fca0c02f9_8021300253852348102.mp3",
+          "audioName": "26关于雷电将军…_en.mp3"
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "她总喜欢摸我的头，可是我不敢咬她，也不敢反抗，总感觉如果拒绝了她会发生很可怕的事情。但是，再这样被摸下去，我会不会真的长不高了？怎么办呀…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/e5d44aefe025099d11a25206aa737606_2962268907315114281.mp3",
+          "audioName": "27关于八重神子…_en.mp3"
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "怎么会有这么吵吵嚷嚷的人，而且他还能长这么高！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/bd230ef2bc2d705b85b170f4308bb8ad_2361024796723841346.mp3",
+          "audioName": "28关于荒泷一斗…_en.mp3"
+        },
+        {
+          "name": "关于久岐忍…",
+          "text": "没什么印象的名字，让我想想…欸？她是荒泷一斗的小弟吗？那肯定也是干扰睡眠的人，毕竟有个词叫做一丘之貉，啊不对，是一丘之狸！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/4b3d8506f0f34211ddc6f39024b10703_8804355019175112359.mp3",
+          "audioName": "29关于久岐忍…_en.mp3"
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "有次我午觉睡醒，感觉身后暖和和的，一转头就看见有只猫正蜷着睡觉，关键是有一对毛茸茸的尾巴！吓得我差点从树枝上掉下去。这，这也是变身术吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/36c1d15e42df6e1c386981fd3a8d4389_5291883568514698241.mp3",
+          "audioName": "30关于绮良良…_en.mp3"
+        },
+        {
+          "name": "关于梦见月瑞希…",
+          "text": "奇怪的紫色妖怪…被她盯着的时候，感觉好像要被吃掉一样…唔！惹不起，我还是躲着她走吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/12/50494840/4802668be04522a72bb89f6b71f10cce_7731713070718527404.mp3",
+          "audioName": "英语.mp3"
+        },
+        {
+          "name": "想要了解早柚·其一",
+          "text": "呼——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/3962a604565685a0886e6979e7d90735_8552070720652699946.mp3",
+          "audioName": "31想要了解早柚·其一_en.mp3"
+        },
+        {
+          "name": "想要了解早柚·其二",
+          "text": "呃…你是问我忍术流派的名字吗？那个…想不起来了啦，我还没睡醒，我再去睡一觉，睡醒后说不定就能想起来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/4c0247cb96389fd73533e2dff831d87c_864849801610288771.mp3",
+          "audioName": "32想要了解早柚·其二_en.mp3"
+        },
+        {
+          "name": "想要了解早柚·其三",
+          "text": "好吧，告诉你也行。你先答应我不准笑，不然我就再也不理你了。我们流派叫做——呜呼流…说是因为我们流派的忍术以戏弄敌人为长而取的名字，可是，可是…唉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/804f6be6279bbf05658df4fa7752badd_1542650459625737232.mp3",
+          "audioName": "33想要了解早柚·其三_en.mp3"
+        },
+        {
+          "name": "想要了解早柚·其四",
+          "text": "你会爬树吗？我非常擅长这个，可以教你哦。还有，神社那边有棵树特别适合偷…啊不，特别适合小憩。下次你想睡午觉的时候，记得来找我，我们一起爬上去午睡吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/2eea7d797ef74a2b0f5df80fe43f6ca8_7669088193083447565.mp3",
+          "audioName": "34想要了解早柚·其四_en.mp3"
+        },
+        {
+          "name": "想要了解早柚·其五",
+          "text": "其实这套衣服是老师给我的，说是以貉为原型做的，还有助于我逃跑什么的…然后又说我已经长大了可以独当一面了，但也要保护好自己，说完老师就离开了我。可我这个身高，真的能独当一面吗…唔…欸？你是说你会陪着我吗？你真的不会离开我吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/824843c1d6215a8fbbe23358407b013e_6009622346802103183.mp3",
+          "audioName": "35想要了解早柚·其五_en.mp3"
+        },
+        {
+          "name": "早柚的爱好…",
+          "text": "套上衣服上的帽子，不用担心会被巫女姐姐找到，然后睡个天昏地暗，这应该是世界上最幸福的事情了吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/da1c968a2acfce6e18d760eff51486d3_591945040476962606.mp3",
+          "audioName": "36早柚的爱好…_en.mp3"
+        },
+        {
+          "name": "早柚的烦恼·误会",
+          "text": "很多人第一次见到我的时候，都会大呼小叫，还把我当成狸猫。可早柚就是早柚，才不是狸猫。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/c76f343db76de80e670c5b2372d5daf6_3922594646450739090.mp3",
+          "audioName": "37早柚的烦恼·误会_en.mp3"
+        },
+        {
+          "name": "早柚的烦恼·身高",
+          "text": "什么时候才能长高呢？跟我同年的人身高都快是我的两倍了，可我还…不行，再睡久一点一定能长高的！我要睡觉了，晚安。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f2a51caf302fc0b9c508a5476b0f39b0_9023618996280862406.mp3",
+          "audioName": "38早柚的烦恼·身高_en.mp3"
+        },
+        {
+          "name": "早柚的烦恼·死循环",
+          "text": "我上次听人说，烦恼太多也会长不高…呜，我该怎么办才好…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/9f98e3d05b5a2bc3da9e718b7761a51f_7011037015564193052.mp3",
+          "audioName": "39早柚的烦恼·死循环_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "能一下子提供很多能量的食物吧，比如说饭团。睡醒了吃一个就不会头晕眼花，然后又能继续睡觉了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/c974aff4a12f2f8b109c8edbac2926b1_2117293960110589470.mp3",
+          "audioName": "40喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "想要长高的话，就不能挑食！说来最近好像身高也没有变化，是不是因为蔬菜吃少了，但是沙拉真的没有办法提供饱腹感，而且还苦苦的，呜欸——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/141e1514a5eed5ca0d20a7a611269549_1062661745833768928.mp3",
+          "audioName": "41讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "肚子好饱。这下可以安心睡觉啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/2d33c2d0bf3ebe3466f717b1588e38f5_8702335533349076198.mp3",
+          "audioName": "42收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "吃着吃着…就困了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/537150ac8c8b5206529b16fc727aa2ec_1711534305136709325.mp3",
+          "audioName": "43收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "要想个办法…逃走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/33c24189b181d43cefb8e5f4f78de016_762300348895064231.mp3",
+          "audioName": "44收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "你有什么想学的忍术吗？我可以教你！当然仅限于我会的。呃？你问我为什么不睡觉？嗯…我还不困，而且，而且今天是特别的日子，我不可以睡过去，因为我想亲口对你说——生日快乐呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/02cbdb8541b0f5fe9425dce23cfc5bd2_3597287116812234744.mp3",
+          "audioName": "45生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我有长高一点点吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/36399e75f857266c5822f54849b9ae9b_2110044440674179497.mp3",
+          "audioName": "46突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "太好了，能溜得更快了，这下子肯定不会被抓住了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/db67498853e9ceeb61a05f6649db3f44_6954682021451277026.mp3",
+          "audioName": "47突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "谢谢你帮我收集了那么多材料，要是我自己来的话…肯定在路上就会睡着了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6f6a86946749bcb032115a8560e83092_7921859803836586372.mp3",
+          "audioName": "48突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我好像确实像老师说的那样，可以独当一面了。这样子长不长高或许对我来说也没有那么重要了，因为现在重要的是…有你陪在我身边。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/97c781817b0482f4511747e2cb6fe6f7_4256495357671102849.mp3",
+          "audioName": "49突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "走啦…唔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/1a998287def353a925f0f86892de5e09_1544474323073687570.mp3",
+          "audioName": "50元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "溜咯…啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/8871d4014b6de773ed0f76500d873c76_8152896180991303529.mp3",
+          "audioName": "51元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "咕噜，哈！…嘿呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/351bc5e802252a50bfcd46196af7345b_1721545742125221305.mp3",
+          "audioName": "52元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "极意遁走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/cc764dc66eef405e7c1fcb0cda36494a_5698981039581579355.mp3",
+          "audioName": "53元素战技·其四_en.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "抓不住我…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/59e11178a7ed2259abac819cab8950bb_8704779764350800940.mp3",
+          "audioName": "54元素战技·其五_en.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "随风而遁…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/af9d8fc308b100780d6a90b1c11d43b9_1298059046477602802.mp3",
+          "audioName": "55元素战技·其六_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "分身之术。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/0b98bcd494684612806cae82b8ab72f3_4957729928412305043.mp3",
+          "audioName": "56元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "出来吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/9b2793b089be88819f955f06fcfd1f15_4728788027563946450.mp3",
+          "audioName": "57元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "嘿咻…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/5247b1c1e237f6180a9b141d92c0c463_6190541969905005339.mp3",
+          "audioName": "58元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "疾风遁术。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/4ef4d919c995349b85ba462c84d12082_3320151222628520629.mp3",
+          "audioName": "59冲刺开始·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这个箱子…好像可以睡进去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/a214118be1179a8a7fdc7a4a80770444_2096900695277888629.mp3",
+          "audioName": "60打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "大丰收！可以睡觉了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/8d411f6f9899d5f28fee54c477e24599_6034595629267697128.mp3",
+          "audioName": "61打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "是对长高有帮助的东西吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/a5f4a4bd8952bbd6992bec2c6315b601_5575722830118625778.mp3",
+          "audioName": "62打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "逃跑的话，该用…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/d945b1f1c66823f189da54d89201f64e_3533681688693931470.mp3",
+          "audioName": "63生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "头晕乎乎的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/9731bd1758a06ac2433129b4111a1c46_6739349131727171775.mp3",
+          "audioName": "64生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "呼，好累。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/fc49a2657f63e4eed9cba130c90cb377_5678997547299998698.mp3",
+          "audioName": "65生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "我来掩护。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f0b4eba5fade3d8e2e814afebe59b7ae_5611850570185475875.mp3",
+          "audioName": "66同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "先退下休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/8f99199e19555eb98bfc33ddc239f85a_2788422701223712547.mp3",
+          "audioName": "67同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "没能...逃掉...",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/ddbf8a19ea5154f2bf7fd134d2875c73_1567830241609074137.mp3",
+          "audioName": "68倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "…晚、晚安了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/0755cd06e46697c197bd3d0509afc31b_1303902836671647855.mp3",
+          "audioName": "69倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "不该偷懒的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/9f5956e8ae0fa7e9f7e34c9bae0d6437_7187015342163470236.mp3",
+          "audioName": "70倒下·其三_en.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "痛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/43148bbafe78454233b77a03a4432d54_8466534761223663221.mp3",
+          "audioName": "71普通受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "没躲开。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/b1f7369970744a4eebb190893b84d5d1_3446930979022408619.mp3",
+          "audioName": "72重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "呜，要晕倒了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/aa213551b89e2e066cdeca68750473b8_6981996051560371186.mp3",
+          "audioName": "73重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "好困。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/74502017f824f3a9ef4ae3aeee92ee5c_3234517134595129223.mp3",
+          "audioName": "74加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "可以睡觉吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/028d0a57d5242c9271417cb04c63c247_2900564468277896947.mp3",
+          "audioName": "75加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "呜，居然被抓住了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/0a981c4083f81ba8074ea3407347308a_5136041338997168228.mp3",
+          "audioName": "76加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "「终末番」早柚，参上。呼——如果没有什么事情的话，我先去睡觉了。对了，不准趁我睡觉的时候偷偷摸我的头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/973d57d0c2281073ff818f2127dca149_6348866868692590923.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·睡着",
+          "text": "呼啊…呼噜呼噜——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/907939349aa236e44ef5846d60bf968e_148687152605429285.mp3",
+          "audioName": "02闲聊·睡着_kr.mp3"
+        },
+        {
+          "name": "闲聊·工作",
+          "text": "工作还不如睡觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/aacb2e8e48c60e2c3c12148f14dda86a_5514598919437481244.mp3",
+          "audioName": "03闲聊·工作_kr.mp3"
+        },
+        {
+          "name": "闲聊·长高",
+          "text": "什么时候才能长高呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/62230da8f3a87070a6f9c7d5fdf54b98_1141642908229446247.mp3",
+          "audioName": "04闲聊·长高_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "快躲雨，被雨淋到就长不高了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/0f684c3c7ed2e4c7ff87fee6bf10b387_6652061217115635374.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "好大的动静，不过只要整个人都钻到被子里就能安稳睡觉了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/82b45597aad8f9c6ed688e731d8ac237_930835503730625905.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪天很方便躲藏。比如说「雪降之隐」这种忍术，借助飘雪隐去身形，等别人察觉的时候，对方的眼前就只剩下飘落的雪花了。啊，你千万不要把这些告诉巫女姐姐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/71ef1ae1e03881b84b4a1e1dac1e56e3_2438551539696027106.mp3",
+          "audioName": "07下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "舒舒服服的好天气，啊——好困哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/bd328160e6406952a8827a88b4b871a9_2888282981326177408.mp3",
+          "audioName": "08阳光很好…_kr.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "风起之时，便是开溜的好时机。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/024c8c2a61d5abb5377e1dcb311e37ae_8098301666501150813.mp3",
+          "audioName": "09起风的时候…_kr.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风吹得眼睛睁不开了，不如就这样，闭起眼睛睡一觉吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/715ca2943d8e48598b7cfd96d3e9163b_2358829391084040976.mp3",
+          "audioName": "10刮大风了…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "已经…已经早上了吗？再睡10分钟…就10分钟嘛…那、那5分钟也行…呼…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/0771ce62d55b1ee41402616c73dc2de3_1398950801573722647.mp3",
+          "audioName": "11早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "好困，午睡时间还没到吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/86123948bdc3d0778a68a9b2f3685fb5_5720413318063422049.mp3",
+          "audioName": "12中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "确认完毕，方圆十里内没有巫女姐姐的踪影。今晚可以睡个好觉啦~",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/91fc58d08e5fd4f6c0b7ea5ea6918e2e_4560942202731377122.mp3",
+          "audioName": "13晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "终于…可以睡觉了…晚…晚安…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/67b162754ca587f9047c723746b87443_2917494352625306873.mp3",
+          "audioName": "14晚安…_kr.mp3"
+        },
+        {
+          "name": "关于早柚自己·终末番",
+          "text": "我虽然属于「终末番」，但交给我的工作无非就是些情报收集、偷取物品之类的琐事。所以…所以不做也没有什么关系嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/0c12010383a9a7741846e62fb59f928b_6746149994079498936.mp3",
+          "audioName": "15关于早柚自己·终末番_kr.mp3"
+        },
+        {
+          "name": "关于早柚自己·旷工",
+          "text": "「终末番」的工作本来就没什么意义嘛，一直拖着不做，就会有更合适的人去做。但是睡觉不一样啊，只要睡得够久，说不定哪天就能长高了，这可是意义非凡的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f2224a7e828926e6bc631d4111176987_5335872182872754683.mp3",
+          "audioName": "16关于早柚自己·旷工_kr.mp3"
+        },
+        {
+          "name": "关于我们·帮个忙",
+          "text": "如果巫女姐姐来了，记得告诉我一声哦，我稍微睡…啊不，休息会儿。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/b71dcde3913cc7eca2f513b9953ec68b_8965641064995918153.mp3",
+          "audioName": "17关于我们·帮个忙_kr.mp3"
+        },
+        {
+          "name": "关于我们·摸摸头",
+          "text": "摸摸头？唔，如果是你的话...那好吧，我不会咬你的，但是不能摸太久了，否则会长不高的！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/9e6a68af1f1a90bc89a1f4a8ff02b397_1626104975443421311.mp3",
+          "audioName": "18关于我们·摸摸头_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "双手剑真的很重，光靠忍术的话，我肯定举不起来。但是有了「神之眼」就不一样了，所以不管怎么说，「神之眼」对我帮助很大。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6ca167b711cc941604bee1465415ecac_3180126027065763305.mp3",
+          "audioName": "19关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "老师说我是我们流派最后一代传人了。毕竟也不是什么特别适合战斗的流派，我学的也都是些逃跑和隐蔽气息用的忍术，这也是没办法的事情吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/c4fa6d9a7b4fe83e473c21d90377bc82_1265391470644891149.mp3",
+          "audioName": "20有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你知道貉吗？一种比狸猫可爱得多的小动物，下次带你一起去看看吧~",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/4765be3b88888b62721ff71cc3dac7ac_2187875386233323886.mp3",
+          "audioName": "21感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "神里家的大小姐优雅又端庄，但是她专门任命了一位巫女姐姐来监督我，不让我偷懒…怎会如此…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/4557c6db112c6eb3ccb649b8d670f247_1637062718485437040.mp3",
+          "audioName": "22关于神里绫华…_kr.mp3"
+        },
+        {
+          "name": "关于神里绫人…",
+          "text": "我在树上休息的时候，经常会听到巫女姐姐们在聊他，似乎是一位工作很忙的大人。真是奇怪，工作什么的明明旷掉就好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/e68c60fd2a2bba16671f6d7121f26f02_3841749989505737025.mp3",
+          "audioName": "23关于神里绫人…_kr.mp3"
+        },
+        {
+          "name": "关于托马…",
+          "text": "明明都有神之眼了，他每次出现还是缠着我说想要学忍术，真是搞不懂。而且我睡觉的时间都不够，哪有时间教他嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/18aade110de3c24ad9a9c992f592df17_1088557048993086224.mp3",
+          "audioName": "24关于托马…_kr.mp3"
+        },
+        {
+          "name": "关于宵宫…",
+          "text": "她每次碰到我就说什么，小狸猫我们一起去祭典玩之类的话。我才不是狸猫，也不想去祭典。说是一起去玩，其实就是想着在祭典上让我配合她的烟火表演忍术，但是这和「终末番」的工作有什么关联嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/06ee6fae0cacdab2c39d5cc8a2b1492c_392206924784593352.mp3",
+          "audioName": "25关于宵宫…_kr.mp3"
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "那位大人…不是我能见到的人物。想知道更多事情的话，或许问问绫华大小姐比较好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f4e0680538e977eb4dcee9c1b97d835c_8279234744593181546.mp3",
+          "audioName": "26关于雷电将军…_kr.mp3"
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "她总喜欢摸我的头，可是我不敢咬她，也不敢反抗，总感觉如果拒绝了她会发生很可怕的事情。但是，再这样被摸下去，我会不会真的长不高了？怎么办呀…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/e5f498baca25fe209326fea23690365c_6288699886881754558.mp3",
+          "audioName": "27关于八重神子…_kr.mp3"
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "怎么会有这么吵吵嚷嚷的人，而且他还能长这么高！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f35bedb120603903ee65a1e79ecee385_6603505072183875745.mp3",
+          "audioName": "28关于荒泷一斗…_kr.mp3"
+        },
+        {
+          "name": "关于久岐忍…",
+          "text": "没什么印象的名字，让我想想…欸？她是荒泷一斗的小弟吗？那肯定也是干扰睡眠的人，毕竟有个词叫做一丘之貉，啊不对，是一丘之狸！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/832fc4836ec2f7bcceaddc4e6acb2ced_8307076484919756247.mp3",
+          "audioName": "29关于久岐忍…_kr.mp3"
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "有次我午觉睡醒，感觉身后暖和和的，一转头就看见有只猫正蜷着睡觉，关键是有一对毛茸茸的尾巴！吓得我差点从树枝上掉下去。这，这也是变身术吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/953a9111b8b23311256b9ba762292c61_812232673568209983.mp3",
+          "audioName": "30关于绮良良…_kr.mp3"
+        },
+        {
+          "name": "关于梦见月瑞希…",
+          "text": "奇怪的紫色妖怪…被她盯着的时候，感觉好像要被吃掉一样…唔！惹不起，我还是躲着她走吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/12/50494840/75d816c957384b1d1794aac8e0c29a84_2072018690248925704.mp3",
+          "audioName": "韩语.mp3"
+        },
+        {
+          "name": "想要了解早柚·其一",
+          "text": "呼——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/9bbb107c933ce6928c5f36ede74163ad_6733655863366172750.mp3",
+          "audioName": "31想要了解早柚·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解早柚·其二",
+          "text": "呃…你是问我忍术流派的名字吗？那个…想不起来了啦，我还没睡醒，我再去睡一觉，睡醒后说不定就能想起来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/d85ee366ebf9a9da56e454b4ca4eac4a_5798240847305665655.mp3",
+          "audioName": "32想要了解早柚·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解早柚·其三",
+          "text": "好吧，告诉你也行。你先答应我不准笑，不然我就再也不理你了。我们流派叫做——呜呼流…说是因为我们流派的忍术以戏弄敌人为长而取的名字，可是，可是…唉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/344c6b17c3a402c4d441588e419dbfb6_5172310501310849824.mp3",
+          "audioName": "33想要了解早柚·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解早柚·其四",
+          "text": "你会爬树吗？我非常擅长这个，可以教你哦。还有，神社那边有棵树特别适合偷…啊不，特别适合小憩。下次你想睡午觉的时候，记得来找我，我们一起爬上去午睡吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/70c72c6c8591f1c174331a4d54281da3_5130557064114659937.mp3",
+          "audioName": "34想要了解早柚·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解早柚·其五",
+          "text": "其实这套衣服是老师给我的，说是以貉为原型做的，还有助于我逃跑什么的…然后又说我已经长大了可以独当一面了，但也要保护好自己，说完老师就离开了我。可我这个身高，真的能独当一面吗…唔…欸？你是说你会陪着我吗？你真的不会离开我吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6ab71b5f2cf10de5fbad092fbb78a74b_6003235607542124261.mp3",
+          "audioName": "35想要了解早柚·其五_kr.mp3"
+        },
+        {
+          "name": "早柚的爱好…",
+          "text": "套上衣服上的帽子，不用担心会被巫女姐姐找到，然后睡个天昏地暗，这应该是世界上最幸福的事情了吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/71afe2e8fc970e3e178e5c35f66e2690_7810638816043627783.mp3",
+          "audioName": "36早柚的爱好…_kr.mp3"
+        },
+        {
+          "name": "早柚的烦恼·误会",
+          "text": "很多人第一次见到我的时候，都会大呼小叫，还把我当成狸猫。可早柚就是早柚，才不是狸猫。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f254287d8f91d87f6902b0dcc35647e6_8172516981383223082.mp3",
+          "audioName": "37早柚的烦恼·误会_kr.mp3"
+        },
+        {
+          "name": "早柚的烦恼·身高",
+          "text": "什么时候才能长高呢？跟我同年的人身高都快是我的两倍了，可我还…不行，再睡久一点一定能长高的！我要睡觉了，晚安。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/ca1713b03798d71dc8e0bcc966e1a952_6707103874591448289.mp3",
+          "audioName": "38早柚的烦恼·身高_kr.mp3"
+        },
+        {
+          "name": "早柚的烦恼·死循环",
+          "text": "我上次听人说，烦恼太多也会长不高…呜，我该怎么办才好…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/7f72c5705fade70e7a7dc3985957593b_3514998795670517035.mp3",
+          "audioName": "39早柚的烦恼·死循环_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "能一下子提供很多能量的食物吧，比如说饭团。睡醒了吃一个就不会头晕眼花，然后又能继续睡觉了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/bf8fe6a2c0b6adc5d82303bff5341c3d_8267911776028323776.mp3",
+          "audioName": "40喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "想要长高的话，就不能挑食！说来最近好像身高也没有变化，是不是因为蔬菜吃少了，但是沙拉真的没有办法提供饱腹感，而且还苦苦的，呜欸——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/19479acfe80e53d7fb1bc756b61a16d1_2702409274718927125.mp3",
+          "audioName": "41讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "肚子好饱。这下可以安心睡觉啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/dc54f7a01990b1f51ac9c9d8fcbc71c3_8460635785819132603.mp3",
+          "audioName": "42收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "吃着吃着…就困了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/90b3b89b1917e90b631d94cb28510614_8068198294442305918.mp3",
+          "audioName": "43收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "要想个办法…逃走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/5a4e6c1dc6359e1938e74f27c97edf43_6982180178766929804.mp3",
+          "audioName": "44收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "你有什么想学的忍术吗？我可以教你！当然仅限于我会的。呃？你问我为什么不睡觉？嗯…我还不困，而且，而且今天是特别的日子，我不可以睡过去，因为我想亲口对你说——生日快乐呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/66b5349747aacb93a0631eac350a383c_8033535920534219208.mp3",
+          "audioName": "45生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我有长高一点点吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/4e0dd4cf33a2cee35c543147f79118a1_4717290674805161695.mp3",
+          "audioName": "46突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "太好了，能溜得更快了，这下子肯定不会被抓住了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/0e76909833eb0071025b7225d9e8d6a0_8825527603849501063.mp3",
+          "audioName": "47突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "谢谢你帮我收集了那么多材料，要是我自己来的话…肯定在路上就会睡着了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/cbe24a2159a1af139f05dc7b5306770b_2794713255218199565.mp3",
+          "audioName": "48突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我好像确实像老师说的那样，可以独当一面了。这样子长不长高或许对我来说也没有那么重要了，因为现在重要的是…有你陪在我身边。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/3c2bb5fcfd8eabc9a2919e7dc4a66dbf_5773962907876637057.mp3",
+          "audioName": "49突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "走啦…唔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/381c2fc3eb4ae33237178a71c38655b1_6807775751005454871.mp3",
+          "audioName": "50元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "溜咯…啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f807a784ff7b9aea65f020b605a7e64e_8568255743711172985.mp3",
+          "audioName": "51元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "咕噜，哈！…嘿呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/fac45174436ffd2a965c89f61972a589_2894097626242917423.mp3",
+          "audioName": "52元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "极意遁走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/b0346036be61908af3f03dfae5bbe28e_4875866867772834012.mp3",
+          "audioName": "53元素战技·其四_kr.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "抓不住我…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/fa2323a73ee6b2caf62bdc3037c4fcbe_5278390848229708719.mp3",
+          "audioName": "54元素战技·其五_kr.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "随风而遁…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/aedaa90090f0434f444b304f4df5b740_5448458705688789671.mp3",
+          "audioName": "55元素战技·其六_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "分身之术。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/d68e9d789710800fba3d5f5eb7631b0d_3962283401906303212.mp3",
+          "audioName": "56元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "出来吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/193451f8a16fede35b4ed8b5b2804812_1288197391078320631.mp3",
+          "audioName": "57元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "嘿咻…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/abf61708f59f41163eabb277c4849c3f_5642033721994466054.mp3",
+          "audioName": "58元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "疾风遁术。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6d57f213532f1757311bad901e50d61e_6875487377482471602.mp3",
+          "audioName": "59冲刺开始·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这个箱子…好像可以睡进去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/d9bc7b796ab0c51ef504812c0285168a_7777951933205048431.mp3",
+          "audioName": "60打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "大丰收！可以睡觉了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f46479070a5aaf00f84b8508f956d042_6030757816806069434.mp3",
+          "audioName": "61打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "是对长高有帮助的东西吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/78346f7c70d8ff499c9941c39727aab2_6352347409834671519.mp3",
+          "audioName": "62打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "逃跑的话，该用…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/52b3448bdd537e606beeb87f740f1bc4_5415538920039283256.mp3",
+          "audioName": "63生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "头晕乎乎的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/b7abed8251db61d048a86c7eca646a8f_5209539475211542971.mp3",
+          "audioName": "64生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "呼，好累。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/948a7d32ce97b373849b1f7d362b0ba4_7762307821500601305.mp3",
+          "audioName": "65生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "我来掩护。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6b1b2f96f842b8461105b9fa91c2161a_9054243740769407082.mp3",
+          "audioName": "66同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "先退下休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/6ccc375a394e13951787eac2644a18c1_7302738360408006778.mp3",
+          "audioName": "67同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "没能...逃掉...",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/f88745efef9feac62144084f71f8cc02_7567601017877730036.mp3",
+          "audioName": "68倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "…晚、晚安了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/9581525954b32f53f9af83db90a77fd5_9130985610890260152.mp3",
+          "audioName": "69倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "不该偷懒的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/a30d3f4a282f5e4ac83b515f20e62c72_2578094568273086655.mp3",
+          "audioName": "70倒下·其三_kr.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "痛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/66193458c9b61b37c43d6059c8f3e4e5_4018079844514880269.mp3",
+          "audioName": "71普通受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "没躲开。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/2fadbe262576559c260e205c826cccd3_7037378766166163486.mp3",
+          "audioName": "72重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "呜，要晕倒了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/bea277ff9c707f91dd1e462ae1b99afc_538013808664854081.mp3",
+          "audioName": "73重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "好困。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/3a9505147313712f3b4674bebd44963d_8544338317284193340.mp3",
+          "audioName": "74加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "可以睡觉吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/37ca477e5a0e25710becea0b3d58ae8b_4627981879096853782.mp3",
+          "audioName": "75加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "呜，居然被抓住了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/04/16576950/15f577d050a4c40ddbe406c147ba50e1_2467614153829107705.mp3",
+          "audioName": "76加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

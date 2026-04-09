@@ -1,0 +1,1270 @@
+{
+  "roles": [
+    {
+      "id": "1360",
+      "name": "阿贝多",
+      "alias": [
+        "阿贝多"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "aac58bb325eb6bf818811e4c182bc4355c5d0d37",
+      "schemaVersion": 2
+    },
+    {
+      "id": "501157",
+      "name": "阿蕾奇诺",
+      "alias": [
+        "阿蕾奇诺"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "0ff51aa3df18d33ad27824dac42ae9438c3b6be9",
+      "schemaVersion": 2
+    },
+    {
+      "id": "2415",
+      "name": "埃洛伊",
+      "alias": [
+        "埃洛伊"
+      ],
+      "storyCount": 5,
+      "otherCount": 0,
+      "selectorSig": "54d970728369fad9e7f7d54a01d6237967a71538",
+      "schemaVersion": 2
+    },
+    {
+      "id": "5865",
+      "name": "艾尔海森",
+      "alias": [
+        "艾尔海森"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "314bdb2e83279f228cf0dd73d3a59a518b608d3a",
+      "schemaVersion": 2
+    },
+    {
+      "id": "501441",
+      "name": "艾梅莉埃",
+      "alias": [
+        "艾梅莉埃"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "7b0a085f9e74429da3b5a96a73a9b20a74dd327f",
+      "schemaVersion": 2
+    },
+    {
+      "id": "504976",
+      "name": "爱可菲",
+      "alias": [
+        "爱可菲"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "2661e04a3fbfbda7ff2e0fac4dd30e5e0d5b9143",
+      "schemaVersion": 2
+    },
+    {
+      "id": "505972",
+      "name": "爱诺",
+      "alias": [
+        "爱诺"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "edc4cccf9442e43d528e71b35a4d3a9b4ebd1bb9",
+      "schemaVersion": 2
+    },
+    {
+      "id": "54",
+      "name": "安柏",
+      "alias": [
+        "安柏"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "9598abfc560d99c69435001d43c5e61eeafc513a",
+      "schemaVersion": 2
+    },
+    {
+      "id": "3564",
+      "name": "八重神子",
+      "alias": [
+        "八重神子"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "500c565f44a75dcf674b6cb88930294f0ed6b11e",
+      "schemaVersion": 2
+    },
+    {
+      "id": "61",
+      "name": "芭芭拉",
+      "alias": [
+        "芭芭拉"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "66200eeecc6335ad2bb8f6fa5b78d668a9d3c7af",
+      "schemaVersion": 2
+    },
+    {
+      "id": "6489",
+      "name": "白术",
+      "alias": [
+        "白术"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "8f82e23580bf9bc23e1cd64e42433b73ab5799fc",
+      "schemaVersion": 2
+    },
+    {
+      "id": "105",
+      "name": "班尼特",
+      "alias": [
+        "班尼特"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "ca0b9d64d69a7fcd68738d9e343308c2c78b5067",
+      "schemaVersion": 2
+    },
+    {
+      "id": "79",
+      "name": "北斗",
+      "alias": [
+        "北斗"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "10bb95fecc244a0928ccd9cd4b8a8899b09ca3b9",
+      "schemaVersion": 2
+    },
+    {
+      "id": "1220",
+      "name": "达达利亚",
+      "alias": [
+        "达达利亚"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "cdd5598d7913da78f61ab652ba43afc49aec58c2",
+      "schemaVersion": 2
+    },
+    {
+      "id": "1221",
+      "name": "迪奥娜",
+      "alias": [
+        "迪奥娜"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "3d261e6ec84ce4101c03151d12c2e0dd8d1163b5",
+      "schemaVersion": 2
+    },
+    {
+      "id": "75",
+      "name": "迪卢克",
+      "alias": [
+        "迪卢克"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "5ff4c10be1fce9d29df0bd86a6bf80f6cfc12b80",
+      "schemaVersion": 2
+    },
+    {
+      "id": "6180",
+      "name": "迪希雅",
+      "alias": [
+        "迪希雅"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "63086baea8abd1324d77cd9971b1cca812a7b22f",
+      "schemaVersion": 2
+    },
+    {
+      "id": "507241",
+      "name": "杜林",
+      "alias": [
+        "杜林"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "272febad39327c5bc6e828fb8668503b0582e86d",
+      "schemaVersion": 2
+    },
+    {
+      "id": "4736",
+      "name": "多莉",
+      "alias": [
+        "多莉"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "c4cb587f6dab92dffcfbd135d260fef49258bb5d",
+      "schemaVersion": 2
+    },
+    {
+      "id": "507995",
+      "name": "法尔伽",
+      "alias": [
+        "法尔伽"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "ea114bf8a2572e180d69facff65408a329245b6d",
+      "schemaVersion": 2
+    },
+    {
+      "id": "5493",
+      "name": "珐露珊",
+      "alias": [
+        "珐露珊"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "175debecb1ead40111713fb41bad5c9a738b5f4c",
+      "schemaVersion": 2
+    },
+    {
+      "id": "505971",
+      "name": "菲林斯",
+      "alias": [
+        "菲林斯"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "00c08831177542544b0c916ea28a68a5fdf66778",
+      "schemaVersion": 2
+    },
+    {
+      "id": "7257",
+      "name": "菲米尼",
+      "alias": [
+        "菲米尼"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "0d1b6690ac38f97b3953c311750fcaaf5effb5f2",
+      "schemaVersion": 2
+    },
+    {
+      "id": "382",
+      "name": "菲谢尔",
+      "alias": [
+        "菲谢尔"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "7c698b19e6eaf72671d35fc4e72c44fc0cb7fee0",
+      "schemaVersion": 2
+    },
+    {
+      "id": "2142",
+      "name": "枫原万叶",
+      "alias": [
+        "枫原万叶"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "5c25246847a1ea628b11040e7813dcfa11ae0d90",
+      "schemaVersion": 2
+    },
+    {
+      "id": "500291",
+      "name": "芙宁娜",
+      "alias": [
+        "芙宁娜"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "4b6176309c3b5da6d1fa38cf920d828b774be0db",
+      "schemaVersion": 2
+    },
+    {
+      "id": "1433",
+      "name": "甘雨",
+      "alias": [
+        "甘雨"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "9effb60fdb1c90d64b388fbc0ec2b6030b9593ac",
+      "schemaVersion": 2
+    },
+    {
+      "id": "507505",
+      "name": "哥伦比娅",
+      "alias": [
+        "哥伦比娅"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "fdad1399c85c7da945ebf556fba8128545bd41aa",
+      "schemaVersion": 2
+    },
+    {
+      "id": "1627",
+      "name": "胡桃",
+      "alias": [
+        "胡桃"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "64b939b47dead6675018cd13d0f64b62cfea111e",
+      "schemaVersion": 2
+    },
+    {
+      "id": "3276",
+      "name": "荒泷一斗",
+      "alias": [
+        "荒泷一斗"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "bd3703c8299cff7c4277a9943928f861660899fc",
+      "schemaVersion": 2
+    },
+    {
+      "id": "501624",
+      "name": "基尼奇",
+      "alias": [
+        "基尼奇"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "9ba1758d556ccc5b8ff47ad88f9f4be58e714c17",
+      "schemaVersion": 2
+    },
+    {
+      "id": "500672",
+      "name": "嘉明",
+      "alias": [
+        "嘉明"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "68b2c77c53e3cc6afc863fe04ad995e4a92c4033",
+      "schemaVersion": 2
+    },
+    {
+      "id": "2402",
+      "name": "九条裟罗",
+      "alias": [
+        "九条裟罗"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "9cac8083f4f645678d0a493dfa9fc1e71218b162",
+      "schemaVersion": 2
+    },
+    {
+      "id": "4148",
+      "name": "久岐忍",
+      "alias": [
+        "久岐忍"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "678bad0df6a7f3895691931314398b3700f50c00",
+      "schemaVersion": 2
+    },
+    {
+      "id": "501626",
+      "name": "卡齐娜",
+      "alias": [
+        "卡齐娜"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "5f3b2f9bfccd1b292faecea4c2d73fc80893788a",
+      "schemaVersion": 2
+    },
+    {
+      "id": "6490",
+      "name": "卡维",
+      "alias": [
+        "卡维"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "effe6b8d745b8262f29afe0ef74158e531ec4da3",
+      "schemaVersion": 2
+    },
+    {
+      "id": "76",
+      "name": "凯亚",
+      "alias": [
+        "凯亚"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "bd653e4b3dd6d6c0c0a52e1fb664b42c9e2b0f60",
+      "schemaVersion": 2
+    },
+    {
+      "id": "4781",
+      "name": "坎蒂丝",
+      "alias": [
+        "坎蒂丝"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "6a4c10768eca00ab36c8d67a6388dec325f2d311",
+      "schemaVersion": 2
+    },
+    {
+      "id": "4333",
+      "name": "柯莱",
+      "alias": [
+        "柯莱"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "d493ae672235338a70403540ef597e17282723c3",
+      "schemaVersion": 2
+    },
+    {
+      "id": "55",
+      "name": "可莉",
+      "alias": [
+        "可莉"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "b276a4331c9af49f83739a706f62adf35e99de33",
+      "schemaVersion": 2
+    },
+    {
+      "id": "501213",
+      "name": "克洛琳德",
+      "alias": [
+        "克洛琳德"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "ca88a9a7d8f9efd8c625e161a16f0c36e7794052",
+      "schemaVersion": 2
+    },
+    {
+      "id": "1058",
+      "name": "刻晴",
+      "alias": [
+        "刻晴"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "4aaa5d712e09e2328403e444756a0c6bf0616d71",
+      "schemaVersion": 2
+    },
+    {
+      "id": "505973",
+      "name": "菈乌玛",
+      "alias": [
+        "菈乌玛"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "f399a2572c26c07b347606ea17039a4d15a5b085",
+      "schemaVersion": 2
+    },
+    {
+      "id": "500286",
+      "name": "莱欧斯利",
+      "alias": [
+        "莱欧斯利"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "48744d7a0fee7d90a4bdaeb928fb571bbdc96dc4",
+      "schemaVersion": 2
+    },
+    {
+      "id": "5297",
+      "name": "莱依拉",
+      "alias": [
+        "莱依拉"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "980d6fccc36eaf52eb60a14de952379c62fd9c6b",
+      "schemaVersion": 2
+    },
+    {
+      "id": "503614",
+      "name": "蓝砚",
+      "alias": [
+        "蓝砚"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "6ebda2b2cf58e700ec7bf4b0e3eea833cc18f288",
+      "schemaVersion": 2
+    },
+    {
+      "id": "2404",
+      "name": "雷电将军",
+      "alias": [
+        "雷电将军"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "84f76658cae2c89d9fdf89c1880d9a78f6b666f0",
+      "schemaVersion": 2
+    },
+    {
+      "id": "56",
+      "name": "雷泽",
+      "alias": [
+        "雷泽"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "c8b8f3fc449aa8ccd1b2233ebdefae9fa461070b",
+      "schemaVersion": 2
+    },
+    {
+      "id": "92",
+      "name": "丽莎",
+      "alias": [
+        "丽莎"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "4536b56b5b061d071f762a808ba51e57e44b4282",
+      "schemaVersion": 2
+    },
+    {
+      "id": "508198",
+      "name": "莉奈娅",
+      "alias": [
+        "莉奈娅"
+      ],
+      "storyCount": 0,
+      "otherCount": 0,
+      "selectorSig": "bfcb09461e23dffad62e94aa8bb29944be301fff",
+      "schemaVersion": 2
+    },
+    {
+      "id": "6937",
+      "name": "林尼",
+      "alias": [
+        "林尼"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "c7fd9dfd2046d0aba30b395648171b56a3bbf1f1",
+      "schemaVersion": 2
+    },
+    {
+      "id": "6938",
+      "name": "琳妮特",
+      "alias": [
+        "琳妮特"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "2c8154d1e24561797676d2689dec550c47b675cb",
+      "schemaVersion": 2
+    },
+    {
+      "id": "5494",
+      "name": "流浪者",
+      "alias": [
+        "流浪者"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "d435c8e4384930982232719059a56e46dd1fa4b0",
+      "schemaVersion": 2
+    },
+    {
+      "id": "4197",
+      "name": "鹿野院平藏",
+      "alias": [
+        "鹿野院平藏"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "21f1a1cce1ffa6af21606cfa0a504c80f836873d",
+      "schemaVersion": 2
+    },
+    {
+      "id": "4074",
+      "name": "旅行者·火",
+      "alias": [
+        "旅行者·火"
+      ],
+      "storyCount": 3,
+      "otherCount": 2,
+      "selectorSig": "5ea772a8803a37e25f5718ecb8034698a19ad460",
+      "schemaVersion": 2
+    },
+    {
+      "id": "1744",
+      "name": "罗莎莉亚",
+      "alias": [
+        "罗莎莉亚"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "1a1eaccfb09ef11f154d54c17c062b10f02a726d",
+      "schemaVersion": 2
+    },
+    {
+      "id": "501625",
+      "name": "玛拉妮",
+      "alias": [
+        "玛拉妮"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "ceecf6ada93da121acb2373e84ee51f9249150a9",
+      "schemaVersion": 2
+    },
+    {
+      "id": "503613",
+      "name": "玛薇卡",
+      "alias": [
+        "玛薇卡"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "21fdef40b8d774bee1a1c60bc1410a052306985c",
+      "schemaVersion": 2
+    },
+    {
+      "id": "504440",
+      "name": "梦见月瑞希",
+      "alias": [
+        "梦见月瑞希"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "a80a945feeaa8e62649e8307bdd0a978293bb07b",
+      "schemaVersion": 2
+    },
+    {
+      "id": "6285",
+      "name": "米卡",
+      "alias": [
+        "米卡"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "3b68de99fccf131345d5e54ab9d0626c47266e83",
+      "schemaVersion": 2
+    },
+    {
+      "id": "1057",
+      "name": "莫娜",
+      "alias": [
+        "莫娜"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "271a6c7e5339a7768275a60d478dd6b809fd3a74",
+      "schemaVersion": 2
+    },
+    {
+      "id": "500207",
+      "name": "那维莱特",
+      "alias": [
+        "那维莱特"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "0cad7717d0d151363190db1ead69392e82b1e467",
+      "schemaVersion": 2
+    },
+    {
+      "id": "5111",
+      "name": "纳西妲",
+      "alias": [
+        "纳西妲"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "bf615589a1e2b166c2bc7f28506d4f4d17acc760",
+      "schemaVersion": 2
+    },
+    {
+      "id": "500419",
+      "name": "娜维娅",
+      "alias": [
+        "娜维娅"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "9bb98947a6d3db804033d74cfc649e240f29360a",
+      "schemaVersion": 2
+    },
+    {
+      "id": "506676",
+      "name": "奈芙尔",
+      "alias": [
+        "奈芙尔"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "88929d33c5f8d503c57025cbee418dcf5e025c39",
+      "schemaVersion": 2
+    },
+    {
+      "id": "5020",
+      "name": "妮露",
+      "alias": [
+        "妮露"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "eb439b3b19372989bc462487da3a330937b83a60",
+      "schemaVersion": 2
+    },
+    {
+      "id": "78",
+      "name": "凝光",
+      "alias": [
+        "凝光"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "80d957cbc2ca0e749e04fea512a466d25ef20d1b",
+      "schemaVersion": 2
+    },
+    {
+      "id": "111",
+      "name": "诺艾尔",
+      "alias": [
+        "诺艾尔"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "b3aac1cbb450c907e6230d8d84799135e0f28be2",
+      "schemaVersion": 2
+    },
+    {
+      "id": "502927",
+      "name": "欧洛伦",
+      "alias": [
+        "欧洛伦"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "ef621fc4e444c39b2093026537ed462f8e6fa702",
+      "schemaVersion": 2
+    },
+    {
+      "id": "1056",
+      "name": "七七",
+      "alias": [
+        "七七"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "d3c36ded4ba0ea86966990efddbd3af6d1b549ef",
+      "schemaVersion": 2
+    },
+    {
+      "id": "506960",
+      "name": "奇偶·男性",
+      "alias": [
+        "奇偶·男性"
+      ],
+      "storyCount": 0,
+      "otherCount": 1,
+      "selectorSig": "6ca51e3defb6fe94fa1c1ae300b13770babf9c0c",
+      "schemaVersion": 2
+    },
+    {
+      "id": "506961",
+      "name": "奇偶·女性",
+      "alias": [
+        "奇偶·女性"
+      ],
+      "storyCount": 0,
+      "otherCount": 1,
+      "selectorSig": "3c5ae7144558c29e3f1c7838a92abd1dbe8e83a6",
+      "schemaVersion": 2
+    },
+    {
+      "id": "6594",
+      "name": "绮良良",
+      "alias": [
+        "绮良良"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "ddc4acaa7ba2b94826b4a0bd14c1ce02b028eff0",
+      "schemaVersion": 2
+    },
+    {
+      "id": "502928",
+      "name": "恰斯卡",
+      "alias": [
+        "恰斯卡"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "d6df525e4ebe93e14eba120ad258e93bab161232",
+      "schemaVersion": 2
+    },
+    {
+      "id": "500987",
+      "name": "千织",
+      "alias": [
+        "千织"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "342edee13964f7a5755fed4f9fbd489dd995c438",
+      "schemaVersion": 2
+    },
+    {
+      "id": "503612",
+      "name": "茜特菈莉",
+      "alias": [
+        "茜特菈莉"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "e341961c22fd243b0a541256d0cb0322ae04e184",
+      "schemaVersion": 2
+    },
+    {
+      "id": "59",
+      "name": "琴",
+      "alias": [
+        "琴"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "e6af90f4b467724083df9f6aab02a9d117958cea",
+      "schemaVersion": 2
+    },
+    {
+      "id": "4780",
+      "name": "赛诺",
+      "alias": [
+        "赛诺"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "f408216c7b11f7a212dddc8f89255ce6bc3a2b30",
+      "schemaVersion": 2
+    },
+    {
+      "id": "501212",
+      "name": "赛索斯",
+      "alias": [
+        "赛索斯"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "f0b0a12e8f6792374085f75231d4e3709442f6f5",
+      "schemaVersion": 2
+    },
+    {
+      "id": "1055",
+      "name": "砂糖",
+      "alias": [
+        "砂糖"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "0cb6a09dd09d36b4e0d3b1734a48aed1817ae13d",
+      "schemaVersion": 2
+    },
+    {
+      "id": "2403",
+      "name": "珊瑚宫心海",
+      "alias": [
+        "珊瑚宫心海"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "2f244fcda9899cf845c23a0c2401b8792a9a60ab",
+      "schemaVersion": 2
+    },
+    {
+      "id": "3386",
+      "name": "申鹤",
+      "alias": [
+        "申鹤"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "bc48c61653da5aa886792055b71b6c95a22a84c4",
+      "schemaVersion": 2
+    },
+    {
+      "id": "2123",
+      "name": "神里绫华",
+      "alias": [
+        "神里绫华"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "6ad170709fd0865a13b8b443c788b27aa4dc6614",
+      "schemaVersion": 2
+    },
+    {
+      "id": "3875",
+      "name": "神里绫人",
+      "alias": [
+        "神里绫人"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "8ba138162b7bb20746d9dad37d2c16193c5c7fbe",
+      "schemaVersion": 2
+    },
+    {
+      "id": "505417",
+      "name": "丝柯克",
+      "alias": [
+        "丝柯克"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "8beba6051a3e74752d224810c5eba924153d2b77",
+      "schemaVersion": 2
+    },
+    {
+      "id": "505418",
+      "name": "塔利雅",
+      "alias": [
+        "塔利雅"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "38ceca91cabcd8956077328fb841b70bc61182d7",
+      "schemaVersion": 2
+    },
+    {
+      "id": "4334",
+      "name": "提纳里",
+      "alias": [
+        "提纳里"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "0f58872775855d06e946105f6fb61d58b26bd93e",
+      "schemaVersion": 2
+    },
+    {
+      "id": "2606",
+      "name": "托马",
+      "alias": [
+        "托马"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "a467e7f4abbe97f5afe67fb0637f73533fd0c459",
+      "schemaVersion": 2
+    },
+    {
+      "id": "504570",
+      "name": "瓦雷莎",
+      "alias": [
+        "瓦雷莎"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "1ee275dbc3665895b301f01c5b30e03a79bb5f6d",
+      "schemaVersion": 2
+    },
+    {
+      "id": "57",
+      "name": "温迪",
+      "alias": [
+        "温迪"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "7d35b88e1eec5bc1b54f4754eec22b4c2c3220ef",
+      "schemaVersion": 2
+    },
+    {
+      "id": "3275",
+      "name": "五郎",
+      "alias": [
+        "五郎"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "502db689339889f9d32db5cc2b769557e48ce2e2",
+      "schemaVersion": 2
+    },
+    {
+      "id": "501214",
+      "name": "希格雯",
+      "alias": [
+        "希格雯"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "1e2312b477e345718f21d01b2c1ed42a803149e7",
+      "schemaVersion": 2
+    },
+    {
+      "id": "502306",
+      "name": "希诺宁",
+      "alias": [
+        "希诺宁"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "7e72672eb3da7869a62cd01e8ea7271d73bf6933",
+      "schemaVersion": 2
+    },
+    {
+      "id": "500292",
+      "name": "夏洛蒂",
+      "alias": [
+        "夏洛蒂"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "d6384b85f0e63cce3d97e1a9b36f39243ec0320b",
+      "schemaVersion": 2
+    },
+    {
+      "id": "500605",
+      "name": "夏沃蕾",
+      "alias": [
+        "夏沃蕾"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "f2e72188019482d18cd480acfd27aaa142d7c572",
+      "schemaVersion": 2
+    },
+    {
+      "id": "500673",
+      "name": "闲云",
+      "alias": [
+        "闲云"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "25e659c017482bdb5802e15fc47ddd9e44b1afd2",
+      "schemaVersion": 2
+    },
+    {
+      "id": "112",
+      "name": "香菱",
+      "alias": [
+        "香菱"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "83be68a99566c394590c0753628bdca190ac0131",
+      "schemaVersion": 2
+    },
+    {
+      "id": "2124",
+      "name": "宵宫",
+      "alias": [
+        "宵宫"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "76608d44bc6f83da25b7e9048da65d30d268c9ab",
+      "schemaVersion": 2
+    },
+    {
+      "id": "1498",
+      "name": "魈",
+      "alias": [
+        "魈"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "4fc79503ea01ad3c5e2ae119fe5521ac6b1be3f1",
+      "schemaVersion": 2
+    },
+    {
+      "id": "1291",
+      "name": "辛焱",
+      "alias": [
+        "辛焱"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "163ebc04c192855af2ff63ec37db96c2fc165db9",
+      "schemaVersion": 2
+    },
+    {
+      "id": "241",
+      "name": "行秋",
+      "alias": [
+        "行秋"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "e3298f7c3feeb1a776d0d843eba993f08c54b984",
+      "schemaVersion": 2
+    },
+    {
+      "id": "507287",
+      "name": "雅珂达",
+      "alias": [
+        "雅珂达"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "4f9855ecb6bde37d7fe22cf550aa63aa6a65d69e",
+      "schemaVersion": 2
+    },
+    {
+      "id": "1795",
+      "name": "烟绯",
+      "alias": [
+        "烟绯"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "48c876c1f90b82e6c47f5e098b44724372be95c3",
+      "schemaVersion": 2
+    },
+    {
+      "id": "5866",
+      "name": "瑶瑶",
+      "alias": [
+        "瑶瑶"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "a04dbcb80a88e5f899b25bb50906b668a547f4be",
+      "schemaVersion": 2
+    },
+    {
+      "id": "507504",
+      "name": "叶洛亚",
+      "alias": [
+        "叶洛亚"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "4da45e1bfa3c8d0becda907450c3b1f51fbbce7e",
+      "schemaVersion": 2
+    },
+    {
+      "id": "4081",
+      "name": "夜兰",
+      "alias": [
+        "夜兰"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "47c04512a85a020bf71e8ce49a06b122926ea61e",
+      "schemaVersion": 2
+    },
+    {
+      "id": "504621",
+      "name": "伊安珊",
+      "alias": [
+        "伊安珊"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "9247a7ff10c5ee3c2808d626fa8ba5af9a146826",
+      "schemaVersion": 2
+    },
+    {
+      "id": "504977",
+      "name": "伊法",
+      "alias": [
+        "伊法"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "7424e8178f25af1f4f3a572044567bd523637d39",
+      "schemaVersion": 2
+    },
+    {
+      "id": "505631",
+      "name": "伊涅芙",
+      "alias": [
+        "伊涅芙"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "c8eaafa25fcac3d42d291a9190e4c49ea78c4c40",
+      "schemaVersion": 2
+    },
+    {
+      "id": "2040",
+      "name": "优菈",
+      "alias": [
+        "优菈"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "447875e908a444a324ccfc6aaf1c193c685eed82",
+      "schemaVersion": 2
+    },
+    {
+      "id": "3387",
+      "name": "云堇",
+      "alias": [
+        "云堇"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "21cdba43306346992c3b22f6fca79773fceba095",
+      "schemaVersion": 2
+    },
+    {
+      "id": "2125",
+      "name": "早柚",
+      "alias": [
+        "早柚"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "43bb3a8519dd6952dd6457db5114f4ca996dabf0",
+      "schemaVersion": 2
+    },
+    {
+      "id": "1290",
+      "name": "钟离",
+      "alias": [
+        "钟离"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "cccb169ff22eecffbff0863b44ad87d6bd26442d",
+      "schemaVersion": 2
+    },
+    {
+      "id": "644",
+      "name": "重云",
+      "alias": [
+        "重云"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "e50ca36131c23be92102f32f37f5300ca90e0663",
+      "schemaVersion": 2
+    },
+    {
+      "id": "507503",
+      "name": "兹白",
+      "alias": [
+        "兹白"
+      ],
+      "storyCount": 5,
+      "otherCount": 2,
+      "selectorSig": "75419dd8cfe18a54837d6566beebcf29b6e9834d",
+      "schemaVersion": 2
+    }
+  ],
+  "updatedAt": 1775664002920
+}

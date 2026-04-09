@@ -1,0 +1,1829 @@
+{
+  "id": "500207",
+  "name": "那维莱特",
+  "alias": [
+    "那维莱特"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "您好，我是枫丹的最高审判官，称呼我的姓氏那维莱特就可以。并不是想要疏远您的意思，但太过亲近会被人怀疑司法体系的不公。有什么诉求的话——当然，合法范围内——我们可以坐下来谈一谈，一起品尝一下翘英庄运来的水。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/5cb73e5230bc8252ef84d28b76201aa6_7366088802061761662.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·审判",
+          "text": "我既认可我自身工作的价值，也认同枫丹大众所作所为的意义。我想，我还是会以我的责任为荣的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/13051587bfb69f27ed8b7192d9541803_6264735898418322760.mp3",
+          "audioName": "02闲聊·审判_cn.mp3"
+        },
+        {
+          "name": "闲聊·品水",
+          "text": "水的味道是很有讲究的。蒙德的水清冽，璃月的水回味悠长，稻妻的水口味幽邃深远，须弥的水味道虽然丰富但需要细品。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/139cb60251b514d5cdf52903f10379a2_8268095695735532734.mp3",
+          "audioName": "03闲聊·品水_cn.mp3"
+        },
+        {
+          "name": "闲聊·美露莘",
+          "text": "美露莘是枫丹引以为傲的美丽生灵。你一定要和她们做好朋友，也不要伤害她们。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/14b2fdc9b699ede672e8ff4ac27a409e_5533395153312884577.mp3",
+          "audioName": "04闲聊·美露莘_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊，抱歉。雨这么大，对你来说想必是个麻烦吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/5f423a2de775a7d28b738406f66c3525_2487489575898917830.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "结束了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/409624895e6f3cf036d9098abcc8d120_5749209439010449207.mp3",
+          "audioName": "06雨过天晴…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "对你们来说，是不是有句话叫晴天霹雳？对我来说就是这个感觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4035744906c83f62fc907ebc2cd61de3_1705167130619099855.mp3",
+          "audioName": "07打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪本身也是一种水的自洁手段。但是人类活动让雪不那么干净了，不要吃。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/f9af21c20336a0915a238d59395ac2e6_8639972759272378108.mp3",
+          "audioName": "08下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "这种天气最适合在室内窗边，嗯，欣赏阳光。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/fbf69143fb0ef791151d24241f2dda34_8000721909815093228.mp3",
+          "audioName": "09阳光很好…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "这是…您对我谋杀计划的一环吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/e17f368897b87cfe9680bd5f6811d5c0_6487641586750042892.mp3",
+          "audioName": "10在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。希望你今天过得愉快。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/173ab0f8e5fa59135e67fa6107d70b2a_3848582599197797016.mp3",
+          "audioName": "11早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "午安。你一定很期待红茶或者咖啡的时间吧，我也是。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/f4664845ea87e0a38bc286a7cde8e8b2_4923868199122294682.mp3",
+          "audioName": "12中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。希望今天你没有遇到什么难以释怀的坏事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/b7706eea00c4301c312abfc93a1d2d62_9102228933426945541.mp3",
+          "audioName": "13晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。对我来说平静的水面是美好的意象，所以我祝你今夜收获无梦的安眠。不要有任何梦的涟漪撩拨你的心绪。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/1b15ec25b2cc8d3b9c15aff5d3706b7b_2203887986273962578.mp3",
+          "audioName": "14晚安…_cn.mp3"
+        },
+        {
+          "name": "关于那维莱特自己·审判",
+          "text": "我又不是什么狂热的审判爱好者。「审判」只是我职责所在，是我被委任的目的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/055231461a8431b83674bce170389a8a_202610321768193031.mp3",
+          "audioName": "15关于那维莱特自己·审判_cn.mp3"
+        },
+        {
+          "name": "关于那维莱特自己·哭泣的水龙",
+          "text": "你也听说过枫丹的这句民谣是吗？唉，这是谁教你的，又是谁让它流传开的…嗯，没什么。我觉得水龙不会哭，他只是品尝到了在大地之心里汇聚的泪水与所有的情绪，所以有所触动而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/311c526a662de2c96030035d8f559e0e_8734197529123747254.mp3",
+          "audioName": "16关于那维莱特自己·哭泣的水龙_cn.mp3"
+        },
+        {
+          "name": "关于那维莱特自己·审判的意义",
+          "text": "这是一个说烂的话题了。并非我要把自己置身人类之外，但是你看，「正义」、「公平」、「平等」、「法律」，这几个概念互相之间其实无法等同。水天然有「如水之平」的本性。前代水神厄歌莉娅希望以爱来联系众生，实现平等。如今这位选择了平等的「法律」，最后却因为种种外因扭曲成了一切只为「审判」的遗憾结果。不过这也另有原因，不该谴责。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a1a23d8c6cc7a6ef1734e5986e08f9ee_5615928381254872058.mp3",
+          "audioName": "17关于那维莱特自己·审判的意义_cn.mp3"
+        },
+        {
+          "name": "关于我们·见证者",
+          "text": "既然你是天地外之人，那就由你见证吧，我对于这个倒错世界的审判。「本应由天父统治的雄邦，如今王位上坐的却是雉鸡。时代已然错乱脱节，而我就是为了扭整乾坤而生」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/40f6d5265b39d8e02cabd993a66481af_2198679663428464378.mp3",
+          "audioName": "18关于我们·见证者_cn.mp3"
+        },
+        {
+          "name": "关于我们·人间",
+          "text": "与枫丹人民长久的相处以及与你的同行早已让我改观。再加上我早已赦免了人的罪，我可以与你约定，接下来的审判不会危害到普通人。但是我与僭主尚有未结清的恩怨，还有未得偿还的血仇。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a6e3cb239aba2de1efc9677a0ea2a173_3910573942978001794.mp3",
+          "audioName": "19关于我们·人间_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」·其一",
+          "text": "曾经有人建议我佩戴一个假的玻璃珠，这样方便危急时刻出手。说实话这个提议让我很不愉快，行使自己的力量却要带着假的面具去伪装。不过和持有神之眼的人相处久了，也明白他们的渴望与意志也是如此难能可贵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/8d977f9db3813d8a237eabe7cc133472_1273979583870740800.mp3",
+          "audioName": "20关于「神之眼」·其一_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」·其二",
+          "text": "什么，你说最古老的七神有几个也得带着假玻璃珠行走在人间吗？噗。对不起失态了，这件事有些好笑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4a7525fddb33138377be37569b16bdf9_821897098773613625.mp3",
+          "audioName": "21关于「神之眼」·其二_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享·法律",
+          "text": "枫丹确实有很多奇妙的法律，比如「每个月前三天不能放飞飞行物」、「枯水期搁浅的双壳贝类都属于水神，螺贝则属于人民」、「禁止给家养动物取名『芙宁娜』」、「禁止在食堂与餐厅单吃番茄酱」、「对美露莘称呼必须使用人格意味的『她』，不能用『它』」…最后一条是我推动立法的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/05c61caf8e4ad6964c10888fdf927d95_3920820699951862884.mp3",
+          "audioName": "22有什么想要分享·法律_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享·雨天",
+          "text": "时常在想，什么时候可以走入一场雨中。啊，你误会了，并不是压力太大。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/41b5b1b912af1fd535f095f5220bbe9d_7723102716089418813.mp3",
+          "audioName": "23有什么想要分享·雨天_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻·龙蜥",
+          "text": "正是因它们同为原海所出之嫡系，所以对于进化之事十分擅长。我想起曾经龙中的风俗：我们啜饮一口早夭族类的血。当月与星的运行搅扰潮汐，我们水族体内的水也向上行去，我们便知道逝去的族人正在复活。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/57841d8e698b46c21c127890a689a028_1885107030457110722.mp3",
+          "audioName": "24感兴趣的见闻·龙蜥_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻·人类",
+          "text": "就我的观察而言，人习惯将自己与自然对立。此时总会有人出来呼吁人也是自然的一部分。但在知道些许真相的我看来，人类的文明世界和这个星球的自然，应该算是需要寻求共处之道吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/d981bbf301d21da8566ddacaf12d6c42_9009690889632326562.mp3",
+          "audioName": "25感兴趣的见闻·人类_cn.mp3"
+        },
+        {
+          "name": "关于岩之神…",
+          "text": "我将对诸神行使裁决，没有任何事情可以改变这点。贵金之神赢取了岩之大权，他自然也在受审者之列。如果有谁不希望看到我们发生争执，也不必担心，我还需要在枫丹停留很久，说不定就要四百多年呢。而且最后的判决也不一定会导致兵戎相见。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/af612860566f45cb01619892ffeb33b2_812647555279235137.mp3",
+          "audioName": "26关于岩之神…_cn.mp3"
+        },
+        {
+          "name": "关于风之神…",
+          "text": "纵使天地翻覆，也无法停止我对于僭位七神的巡游审判。微风与希望之神获赠了风之大权，他也需要列席候审。你说他大部分时间都只是个醉汉，没有什么危险的了？那也得先见见吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/675357634e7c6db2231cf2e6fb902ca3_7998264430382660873.mp3",
+          "audioName": "27关于风之神…_cn.mp3"
+        },
+        {
+          "name": "关于雷之神…",
+          "text": "我作为重获全龙之格的孑遗，就算是让大海所有的水逆行回天，也需要履行我的誓言与责任。鸣神赢取了雷之大权，注定留名于僭权者之列。嗯，你说她现在蛰居于心成净土之中，极少现身？那我过几百年再去吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3cee584caddcccdf926f4bf207021a10_6590207813584642570.mp3",
+          "audioName": "28关于雷之神…_cn.mp3"
+        },
+        {
+          "name": "关于草之神…",
+          "text": "即便将来会有审判她的一天，我也认可草木之神的责任感。世间难有完美的人与事，可专注和溺爱也证明了一个责任者不断前行。听说她曾遭到约五百年的冷遇，我很为她的经历遗憾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c2641bb2df8f52c5d77ddd2ed280bd9c_212976124684966916.mp3",
+          "audioName": "29关于草之神…_cn.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "莱欧斯利确实是一个值得信赖的人。他的头衔和名誉都是我给他争取的。是不是觉得我被他的话术和向上经营欺骗了？稻妻有句话叫「不说即是花」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/288c526c36f322acbeea280435cc3bc0_8639365961693041629.mp3",
+          "audioName": "30关于莱欧斯利…_cn.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德凭借其超群实力成为了现任决斗代理人中的实力巅峰。她是逐影猎人这一行业的后继者，有她在，审判庭的公正更有保障。另外她会比外观看上去更有人情味一些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/5e0ce7d3a29adb101314fe64238279b8_2730213465682021793.mp3",
+          "audioName": "31关于克洛琳德…_cn.mp3"
+        },
+        {
+          "name": "关于林尼和琳妮特…",
+          "text": "很有意思的演出，不是吗？这就是林尼和琳妮特的魔术世界，一切都假得出奇，但是只要你愿意相信，一切都可以成真。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/ff2c2eb260b3c1fe849e8fb47c590ed4_2843562498366193438.mp3",
+          "audioName": "32关于林尼和琳妮特…_cn.mp3"
+        },
+        {
+          "name": "关于希格雯…",
+          "text": "希格雯不知道过得好不好。要是她受欺负了我一定要把莱欧斯利喊进城里质问。她是那么脆弱，又那么的善良。上次她回来还给我带了留影机底片，还说想要听我继续点评纳塔的水…距离她下一个假期还要多久？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/85e8ec4899f2b9084c0dd447b632884f_6121406483538590534.mp3",
+          "audioName": "33关于希格雯…_cn.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "时至今日，她的「演出」终于落幕。「表演」是想象的产物，但芙宁娜却凭此完成了自己的职责…怯懦之人用疯癫让自己勇敢，一直以来辛苦她了。\n有机会的话，应当为她的舞台献上掌声…嗯，一旦有机会的话。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d518282fe31aecf786697af09ce9a297_248009963171776200.mp3",
+          "audioName": "34关于芙宁娜…_cn.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "虽然这么说很对不起她，但无论是当时无意的触怒她、接受她的道歉还是我此时感受到的内疚，全部有种疏离的感觉，仿佛沉卧湖底看星星。我并不是有意的，我也知道很难有机会弥补。情绪并不像是水，能迅速地修复自己，恢复平静。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/fca9973a53f717be5935993363406af8_4413052665127316186.mp3",
+          "audioName": "35关于娜维娅…_cn.mp3"
+        },
+        {
+          "name": "关于火之神…",
+          "text": "以规则与传承击退深渊，此为值得称颂之义举，然权柄乃是从龙类手中夺得，亦是罪无可逭。只不过纳塔元气大伤，确实也不必急于前往。嗯，你说根据史料那一战应该判定为正式决斗，并且希巴拉克也善待了被害者家属？虽然乱七八糟的，但是也有些道理…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/380d1ddc0804b5b0363eb6894fc0d506_4822496620019026195.mp3",
+          "audioName": "36关于火之神…_cn.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其一",
+          "text": "我会尽量避免与他人有私交以及有流程外的协作。不过阁下的品行值得信任，与枫丹的势力也没有什么纠缠。很乐意与你同行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/7950a9e438decb9fc431d5f6b82d4929_75238889929307251.mp3",
+          "audioName": "36想要了解那维莱特·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其二",
+          "text": "这话只能私下说，公共场合我绝对无法做此表态。枫达这个东西，能流行起来对我来说有点莫名其妙。不过人们很喜欢它也不是不能理解：你看，一边喝水一边补充糖分，而且它还价格低廉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/f62a67cf2f44670f5016fb1a538830f4_2646946687125454029.mp3",
+          "audioName": "37想要了解那维莱特·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其三",
+          "text": "最近看过一出戏剧。一个已经逝去的夫人凭借个人魅力与恶意的安排，如同无法驱散的鬼魅一般笼罩着她已不在其中的豪宅。演员无可挑剔，故事也很精巧，而且让我想到了世界的现状。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4fc38fcedc484952f61e2a4bf6f8c112_7144216972838496497.mp3",
+          "audioName": "38想要了解那维莱特·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其四",
+          "text": "出于某些原因，我离开枫丹的次数屈指可数，因此，我所品尝的名泉虽是来自世界各地，但都是从外地送来，而非我亲临当地。至于不同饮用水里面的细微味道，我自然能够区分出来。言已至此，还不相信我吗？我是最高审判官，不骗人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/589d15a33c990d8572a666e2229ea880_6253329989435354936.mp3",
+          "audioName": "39想要了解那维莱特·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其五",
+          "text": "不得不说，我时常遇到一些令人无奈的事，例如坐下的时候踩到衣摆，偶尔压到头发，往后靠头部也可能被座椅装饰品卡住。为了维持最高审判官的威严，我保持这类装束，自然要忍受它带来的麻烦。世间几乎也遵循着如此的道理——接受一种身份，忍耐它，理解它，与它共存。这正是我一直在做的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/d416821cf0d9e9b11bd5be75bdbdd4c6_8548202007019353592.mp3",
+          "audioName": "40想要了解那维莱特·其五_cn.mp3"
+        },
+        {
+          "name": "那维莱特的爱好…",
+          "text": "品水是一门学问。用火元素加热的水味道就是自然界最标准的味道，而木炭烧开的水则有田园的味道。同理，冰元素处理的水是一种平淡无奇的清冽，但是至冬积冰所化之水就完全不一样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/8945dd8295eae4a0ee269119c8eb2c0e_4487367076522239241.mp3",
+          "audioName": "41那维莱特的爱好…_cn.mp3"
+        },
+        {
+          "name": "那维莱特的烦恼…",
+          "text": "下雨天不打伞是不是看起来有些奇怪…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/30aa3caf4afc61298280919271e667a1_7161350886376997393.mp3",
+          "audioName": "42那维莱特的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "动物不进食尚能活些时日，不喝水可活不了几天。什么美食都比不过纯净的水。所以汤水多的食物就是第二好的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/e57ad5909afc030572e9a1564a4f09b2_8950600186775704920.mp3",
+          "audioName": "43喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "油炸或者无酱烤制的食物真的能吃吗？我想点名批评须弥椰炭饼，往人胃里塞干燥剂也不过如此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/ac60f0e6543ea72e0e185c0ef7e8fe66_1155649201837737087.mp3",
+          "audioName": "44讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "美味。菜肴最重要的汁水不仅很多，而且处理得很好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/bb4acc121ffa2d5e049134b8d911a8b9_5145540923278223989.mp3",
+          "audioName": "45收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错的尝试。只不过这道菜是不是可以多加点汤汁，再滤一点油脂出来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/5848019e0e452a9ca2a571b488f10b85_8324706203450724132.mp3",
+          "audioName": "46收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "太干了。没有汁水的菜品尝不出厨师的心情。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/bf88f6c74d6daaaffe5d5a3eb319d75b_8095769986722237846.mp3",
+          "audioName": "47收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你的生日啊，祝你生日快乐。不知道今天下不下雨，我会想想办法的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/1f9f5c3c354e75d8da9bf178b4151ea9_3033908557198159729.mp3",
+          "audioName": "48生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "稍微熟悉些了。我可以配合你的动作。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/c66c433b4e37bf7a9986e28e87abdbe7_1735527270875829958.mp3",
+          "audioName": "49突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "看来需要拿出些真的本事了。没想到你这么容易身处险境。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/78f25c8757a4518ecc7385233fd8ecc7_3094603054772215250.mp3",
+          "audioName": "50突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你的真正实力居然有如此地步吗？看来我不认真的话还无法跟上你了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/5c8fe11d3260ff646fb3ccdc55ffb218_2576206430459034094.mp3",
+          "audioName": "51突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "从僭位者那里回收了七之大权一角，这才是我本来的身姿。我已是「完全之龙」，足以审判其余众神。我的命运将是审判高天的僭位之王。但在那之前，我就将力量借与你吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/32cf9501f0eca6f45c6f8d8042b63afe_373503338468240930.mp3",
+          "audioName": "52突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "肃静！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4249263f941fbdac60cd2765e85efdbc_3486525539595930589.mp3",
+          "audioName": "53元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "低头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/0aecf50f626508d28143461503063d93_2813224060978112170.mp3",
+          "audioName": "54元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "不得喧哗。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/ca4151fdc69e8e4943dd3d2d821ee976_947443707716073722.mp3",
+          "audioName": "55元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "潮水啊，我已归来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/c8a444a1e6b25245419567bd1b8a6a57_6801262202173070789.mp3",
+          "audioName": "56元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "化作，浮沫吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/205c10467f869feb28a1fe81c5aff6fc_6162886600872156464.mp3",
+          "audioName": "57元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "凡高大者，我无不蔑视。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/f0aa4085575598cd1b9c3497ff9bad29_2913046266016705262.mp3",
+          "audioName": "58元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "当你第一个找到无主的它时，它就属于你了。嗯，合法的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4f1ae1ed91246ccb4dbb046113cd3e56_3338347969704793350.mp3",
+          "audioName": "59打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "是不错的东西吗？至少打开它那一瞬的期待是不错的心绪吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/f6bf0c9755097512679e6d6b0207ca55_5405984730818477502.mp3",
+          "audioName": "60打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我以口头约定的方式将这些让渡与你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/26e2f697a72292ba8d1e706c3309a076_4453609694147406471.mp3",
+          "audioName": "61打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "并无妨害，不必担心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4a345c35e639bcaae3ebafcc5a89a9f5_9164651942813081513.mp3",
+          "audioName": "62生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "风险渐涨，不过我没什么问题。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/40f6de9de127914525aeeba9bda1d9ca_3667142413249937001.mp3",
+          "audioName": "63生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哼，衣服似乎刮坏了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/dd02eb687929f911e83f2f81852a2e1d_347955924472318038.mp3",
+          "audioName": "64生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "让我来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/f89751748b4aef03122f00e01f9dcf2a_7432423647005266177.mp3",
+          "audioName": "65同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "你先休息一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/b9e3765a08d2576b624bf713b1ca6a49_5852959442604611998.mp3",
+          "audioName": "66同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "潮汐再起时，我必将归来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/68cde27ccba7b0904fddaab042525c74_5745346973950947178.mp3",
+          "audioName": "67倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "看到了…我诞生前的温暖之海…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/3de49878eb14bb99dc3543ebb16b6058_6640981303206448685.mp3",
+          "audioName": "68倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "万籁…俱静…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/8d20528e70433a1fbb8e31363d4fe3e3_1573391318018798284.mp3",
+          "audioName": "69倒下·其三_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "角度意外啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/08ea1d373499df8e20ec8b2f1e340030_5648734249323998189.mp3",
+          "audioName": "70重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "是我疏忽了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/2f68d9aa92d6c7181f88c62c63f2d600_4643918746947793845.mp3",
+          "audioName": "71重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "感谢你许可…嗯，邀请我同行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/581eb1d63e13ed794326b7ad2c33f1da_856297852738569473.mp3",
+          "audioName": "72加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "十分乐意。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/f80f10fe3aaa875e3141263445acd3c1_5000538542839042017.mp3",
+          "audioName": "73加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "一起走走吧，去水畔之类的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/1081fa6b04e122e55fc2abbed3b5c84a_5476285633494512684.mp3",
+          "audioName": "74加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "您好，我是枫丹的最高审判官，称呼我的姓氏那维莱特就可以。并不是想要疏远您的意思，但太过亲近会被人怀疑司法体系的不公。有什么诉求的话——当然，合法范围内——我们可以坐下来谈一谈，一起品尝一下翘英庄运来的水。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/a9527eec19737bf6bd37e8d76df7fbb5_4596270239799202735.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·审判",
+          "text": "我既认可我自身工作的价值，也认同枫丹大众所作所为的意义。我想，我还是会以我的责任为荣的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4de738a0be10ee82f4c3ff6d22dc06b2_7316961645569717707.mp3",
+          "audioName": "02闲聊·审判_jp.mp3"
+        },
+        {
+          "name": "闲聊·品水",
+          "text": "水的味道是很有讲究的。蒙德的水清冽，璃月的水回味悠长，稻妻的水口味幽邃深远，须弥的水味道虽然丰富但需要细品。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/3d3f8a33e63acc329f3090466ed7a9b2_1512217147523608466.mp3",
+          "audioName": "03闲聊·品水_jp.mp3"
+        },
+        {
+          "name": "闲聊·美露莘",
+          "text": "美露莘是枫丹引以为傲的美丽生灵。你一定要和她们做好朋友，也不要伤害她们。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/96b543acceb02aaca3466b7160619224_7854396853237765648.mp3",
+          "audioName": "04闲聊·美露莘_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊，抱歉。雨这么大，对你来说想必是个麻烦吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/00df3d5627db0eb9cc63a07998ef59db_2880358790802927121.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "结束了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/9389d423508f0424b6c731ddbe2470cb_7402373516656198756.mp3",
+          "audioName": "06雨过天晴…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "对你们来说，是不是有句话叫晴天霹雳？对我来说就是这个感觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/5e975dbaa72fb10945e3f0260a8a3294_731916747874355287.mp3",
+          "audioName": "07打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪本身也是一种水的自洁手段。但是人类活动让雪不那么干净了，不要吃。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/704199c204d8a1f6daa7b51f431733b7_5775790968195980061.mp3",
+          "audioName": "08下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "这种天气最适合在室内窗边，嗯，欣赏阳光。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/b965776950a38ff58bebc0e80ca18933_6095578707775032820.mp3",
+          "audioName": "09阳光很好…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "这是…您对我谋杀计划的一环吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/8fd91985502580a4fc86a1609e48d30f_6382259831939996690.mp3",
+          "audioName": "10在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。希望你今天过得愉快。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/c655de8e9c709ab21bcc1f68fbab5bc0_6268165735184330813.mp3",
+          "audioName": "11早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "午安。你一定很期待红茶或者咖啡的时间吧，我也是。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/e9fddf0ec59e9412f7a78ade2b5a5cb6_6621207547949913290.mp3",
+          "audioName": "12中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。希望今天你没有遇到什么难以释怀的坏事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/0c6de53dc071a562c9e6a0d3ac2cc9a6_2287437160494753693.mp3",
+          "audioName": "13晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。对我来说平静的水面是美好的意象，所以我祝你今夜收获无梦的安眠。不要有任何梦的涟漪撩拨你的心绪。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/6f14a3206d0be607469cf68b59bbe1e9_2428655430277125614.mp3",
+          "audioName": "14晚安…_jp.mp3"
+        },
+        {
+          "name": "关于那维莱特自己·审判",
+          "text": "我又不是什么狂热的审判爱好者。「审判」只是我职责所在，是我被委任的目的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/38572ceb4d2a780efd145a3faa94952c_7701570837909152427.mp3",
+          "audioName": "15关于那维莱特自己·审判_jp.mp3"
+        },
+        {
+          "name": "关于那维莱特自己·哭泣的水龙",
+          "text": "你也听说过枫丹的这句民谣是吗？唉，这是谁教你的，又是谁让它流传开的…嗯，没什么。我觉得水龙不会哭，他只是品尝到了在大地之心里汇聚的泪水与所有的情绪，所以有所触动而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/f23fd818c65ca14a65f734d4b4cf8aaa_1049999101051266508.mp3",
+          "audioName": "16关于那维莱特自己·哭泣的水龙_jp.mp3"
+        },
+        {
+          "name": "关于那维莱特自己·审判的意义",
+          "text": "这是一个说烂的话题了。并非我要把自己置身人类之外，但是你看，「正义」、「公平」、「平等」、「法律」，这几个概念互相之间其实无法等同。水天然有「如水之平」的本性。前代水神厄歌莉娅希望以爱来联系众生，实现平等。如今这位选择了平等的「法律」，最后却因为种种外因扭曲成了一切只为「审判」的遗憾结果。不过这也另有原因，不该谴责。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/dbefddfd1ced6701d523c1f6e8f83614_8463872671083503369.mp3",
+          "audioName": "17关于那维莱特自己·审判的意义_jp.mp3"
+        },
+        {
+          "name": "关于我们·见证者",
+          "text": "既然你是天地外之人，那就由你见证吧，我对于这个倒错世界的审判。「本应由天父统治的雄邦，如今王位上坐的却是雉鸡。时代已然错乱脱节，而我就是为了扭整乾坤而生」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/cc74defb25777d62edae5e80243af0dd_1167729233244973108.mp3",
+          "audioName": "18关于我们·见证者_jp.mp3"
+        },
+        {
+          "name": "关于我们·人间",
+          "text": "与枫丹人民长久的相处以及与你的同行早已让我改观。再加上我早已赦免了人的罪，我可以与你约定，接下来的审判不会危害到普通人。但是我与僭主尚有未结清的恩怨，还有未得偿还的血仇。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5f69c4a429c61a81128651059308a0d0_7209363781351624506.mp3",
+          "audioName": "19关于我们·人间_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」·其一",
+          "text": "曾经有人建议我佩戴一个假的玻璃珠，这样方便危急时刻出手。说实话这个提议让我很不愉快，行使自己的力量却要带着假的面具去伪装。不过和持有神之眼的人相处久了，也明白他们的渴望与意志也是如此难能可贵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/5edf32533da709ac96a0ac854223cc56_6892370797899158892.mp3",
+          "audioName": "20关于「神之眼」·其一_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」·其二",
+          "text": "什么，你说最古老的七神有几个也得带着假玻璃珠行走在人间吗？噗。对不起失态了，这件事有些好笑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/6433eb7b3c360e07dd43078e145f40ae_3320238697039274725.mp3",
+          "audioName": "21关于「神之眼」·其二_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享·法律",
+          "text": "枫丹确实有很多奇妙的法律，比如「每个月前三天不能放飞飞行物」、「枯水期搁浅的双壳贝类都属于水神，螺贝则属于人民」、「禁止给家养动物取名『芙宁娜』」、「禁止在食堂与餐厅单吃番茄酱」、「对美露莘称呼必须使用人格意味的『她』，不能用『它』」…最后一条是我推动立法的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/3eae1d2cf6b94f9d98bd7d3dd0105e57_7817372518682900213.mp3",
+          "audioName": "22有什么想要分享·法律_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享·雨天",
+          "text": "时常在想，什么时候可以走入一场雨中。啊，你误会了，并不是压力太大。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/ced3f11f6ddefbb50b1f76548856ddeb_8800897026663640448.mp3",
+          "audioName": "23有什么想要分享·雨天_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻·龙蜥",
+          "text": "正是因它们同为原海所出之嫡系，所以对于进化之事十分擅长。我想起曾经龙中的风俗：我们啜饮一口早夭族类的血。当月与星的运行搅扰潮汐，我们水族体内的水也向上行去，我们便知道逝去的族人正在复活。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/33e5116d7bfcea64499d6c97d1e71ecf_524971633232339962.mp3",
+          "audioName": "24感兴趣的见闻·龙蜥_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻·人类",
+          "text": "就我的观察而言，人习惯将自己与自然对立。此时总会有人出来呼吁人也是自然的一部分。但在知道些许真相的我看来，人类的文明世界和这个星球的自然，应该算是需要寻求共处之道吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/bb91c5b2dba2d9026e2a4b67976d9b43_4133590317965099137.mp3",
+          "audioName": "25感兴趣的见闻·人类_jp.mp3"
+        },
+        {
+          "name": "关于岩之神…",
+          "text": "我将对诸神行使裁决，没有任何事情可以改变这点。贵金之神赢取了岩之大权，他自然也在受审者之列。如果有谁不希望看到我们发生争执，也不必担心，我还需要在枫丹停留很久，说不定就要四百多年呢。而且最后的判决也不一定会导致兵戎相见。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/43ba171a05b5f77aae2795da0de8028a_3137276305628560961.mp3",
+          "audioName": "26关于岩之神…_jp.mp3"
+        },
+        {
+          "name": "关于风之神…",
+          "text": "纵使天地翻覆，也无法停止我对于僭位七神的巡游审判。微风与希望之神获赠了风之大权，他也需要列席候审。你说他大部分时间都只是个醉汉，没有什么危险的了？那也得先见见吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a371bfd778200c1418a7b78eca034006_7096362028573231922.mp3",
+          "audioName": "27关于风之神…_jp.mp3"
+        },
+        {
+          "name": "关于雷之神…",
+          "text": "我作为重获全龙之格的孑遗，就算是让大海所有的水逆行回天，也需要履行我的誓言与责任。鸣神赢取了雷之大权，注定留名于僭权者之列。嗯，你说她现在蛰居于心成净土之中，极少现身？那我过几百年再去吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/cf2dff8ca01aa1d8c06e9e1c904f1ef1_8111997008343950334.mp3",
+          "audioName": "28关于雷之神…_jp.mp3"
+        },
+        {
+          "name": "关于草之神…",
+          "text": "即便将来会有审判她的一天，我也认可草木之神的责任感。世间难有完美的人与事，可专注和溺爱也证明了一个责任者不断前行。听说她曾遭到约五百年的冷遇，我很为她的经历遗憾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ad7893183492b073bf5227352bc4f841_6264260196221076245.mp3",
+          "audioName": "29关于草之神…_jp.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "莱欧斯利确实是一个值得信赖的人。他的头衔和名誉都是我给他争取的。是不是觉得我被他的话术和向上经营欺骗了？稻妻有句话叫「不说即是花」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/6aa80a40db60d109db176ef71bcc9972_7101399853248369803.mp3",
+          "audioName": "30关于莱欧斯利…_jp.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德凭借其超群实力成为了现任决斗代理人中的实力巅峰。她是逐影猎人这一行业的后继者，有她在，审判庭的公正更有保障。另外她会比外观看上去更有人情味一些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/fb0a0daff21097245d3f681f3590d468_2162621068221631995.mp3",
+          "audioName": "31关于克洛琳德…_jp.mp3"
+        },
+        {
+          "name": "关于林尼和琳妮特…",
+          "text": "很有意思的演出，不是吗？这就是林尼和琳妮特的魔术世界，一切都假得出奇，但是只要你愿意相信，一切都可以成真。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/27a114279740f855b7baf78c78b03b08_7831069951413344449.mp3",
+          "audioName": "32关于林尼和琳妮特…_jp.mp3"
+        },
+        {
+          "name": "关于希格雯…",
+          "text": "希格雯不知道过得好不好。要是她受欺负了我一定要把莱欧斯利喊进城里质问。她是那么脆弱，又那么的善良。上次她回来还给我带了留影机底片，还说想要听我继续点评纳塔的水…距离她下一个假期还要多久？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4a77b3b4660c7af8200e91ff66858bae_995086914201686671.mp3",
+          "audioName": "33关于希格雯…_jp.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "时至今日，她的「演出」终于落幕。「表演」是想象的产物，但芙宁娜却凭此完成了自己的职责…怯懦之人用疯癫让自己勇敢，一直以来辛苦她了。\n有机会的话，应当为她的舞台献上掌声…嗯，一旦有机会的话。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d44ac4d800527ea0399fe2d05335a995_642534686676807447.mp3",
+          "audioName": "34关于芙宁娜…_jp.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "虽然这么说很对不起她，但无论是当时无意的触怒她、接受她的道歉还是我此时感受到的内疚，全部有种疏离的感觉，仿佛沉卧湖底看星星。我并不是有意的，我也知道很难有机会弥补。情绪并不像是水，能迅速地修复自己，恢复平静。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/8dba8c315969cbb28bcbc920731c764a_2728661471487944365.mp3",
+          "audioName": "35关于娜维娅…_jp.mp3"
+        },
+        {
+          "name": "关于火之神…",
+          "text": "以规则与传承击退深渊，此为值得称颂之义举，然权柄乃是从龙类手中夺得，亦是罪无可逭。只不过纳塔元气大伤，确实也不必急于前往。嗯，你说根据史料那一战应该判定为正式决斗，并且希巴拉克也善待了被害者家属？虽然乱七八糟的，但是也有些道理…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/3899b8e8d379e2066fda92212778195b_1267160933678478494.mp3",
+          "audioName": "36关于火之神…_jp.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其一",
+          "text": "我会尽量避免与他人有私交以及有流程外的协作。不过阁下的品行值得信任，与枫丹的势力也没有什么纠缠。很乐意与你同行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/8a320171d462ceddfd3c29a5c8fda444_6131501829727473364.mp3",
+          "audioName": "36想要了解那维莱特·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其二",
+          "text": "这话只能私下说，公共场合我绝对无法做此表态。枫达这个东西，能流行起来对我来说有点莫名其妙。不过人们很喜欢它也不是不能理解：你看，一边喝水一边补充糖分，而且它还价格低廉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/44092ff8194d288a7cda4eeddaa73dd2_3579929968175130074.mp3",
+          "audioName": "37想要了解那维莱特·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其三",
+          "text": "最近看过一出戏剧。一个已经逝去的夫人凭借个人魅力与恶意的安排，如同无法驱散的鬼魅一般笼罩着她已不在其中的豪宅。演员无可挑剔，故事也很精巧，而且让我想到了世界的现状。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/2a34ac14a4379a2db5f6e25a47bb766e_9204482071200468931.mp3",
+          "audioName": "38想要了解那维莱特·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其四",
+          "text": "出于某些原因，我离开枫丹的次数屈指可数，因此，我所品尝的名泉虽是来自世界各地，但都是从外地送来，而非我亲临当地。至于不同饮用水里面的细微味道，我自然能够区分出来。言已至此，还不相信我吗？我是最高审判官，不骗人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/36913a7d5f60cb9ab2e3387d8f540659_8742854661593219548.mp3",
+          "audioName": "39想要了解那维莱特·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其五",
+          "text": "不得不说，我时常遇到一些令人无奈的事，例如坐下的时候踩到衣摆，偶尔压到头发，往后靠头部也可能被座椅装饰品卡住。为了维持最高审判官的威严，我保持这类装束，自然要忍受它带来的麻烦。世间几乎也遵循着如此的道理——接受一种身份，忍耐它，理解它，与它共存。这正是我一直在做的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/0f918851aeacce34f2594029f1a0d002_1658916030283153830.mp3",
+          "audioName": "40想要了解那维莱特·其五_jp.mp3"
+        },
+        {
+          "name": "那维莱特的爱好…",
+          "text": "品水是一门学问。用火元素加热的水味道就是自然界最标准的味道，而木炭烧开的水则有田园的味道。同理，冰元素处理的水是一种平淡无奇的清冽，但是至冬积冰所化之水就完全不一样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/e93c1ae7f7455a0516338c3c2e6492dc_7086453522421788834.mp3",
+          "audioName": "41那维莱特的爱好…_jp.mp3"
+        },
+        {
+          "name": "那维莱特的烦恼…",
+          "text": "下雨天不打伞是不是看起来有些奇怪…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4766b9160daae84e0449b273103fc410_3305646100897733201.mp3",
+          "audioName": "42那维莱特的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "动物不进食尚能活些时日，不喝水可活不了几天。什么美食都比不过纯净的水。所以汤水多的食物就是第二好的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/0d942b17420cb76813efd5c8e638a21e_1273079060776051382.mp3",
+          "audioName": "43喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "油炸或者无酱烤制的食物真的能吃吗？我想点名批评须弥椰炭饼，往人胃里塞干燥剂也不过如此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/5eb5f6ee470ca3c9abb4323fb2fd9827_6326083105451894540.mp3",
+          "audioName": "44讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "美味。菜肴最重要的汁水不仅很多，而且处理得很好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/e05be2d38f20834d24fe8d595f8d537e_4818433967352812394.mp3",
+          "audioName": "45收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错的尝试。只不过这道菜是不是可以多加点汤汁，再滤一点油脂出来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/0270c92b5e0cf700a49128586cda0846_2718206713264843750.mp3",
+          "audioName": "46收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "太干了。没有汁水的菜品尝不出厨师的心情。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/2f8cfd440a6b2eafc53df510ff5a9977_7235982263400298400.mp3",
+          "audioName": "47收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你的生日啊，祝你生日快乐。不知道今天下不下雨，我会想想办法的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/120a5c12439637e6bd0501164ba7168f_409316231901275865.mp3",
+          "audioName": "48生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "稍微熟悉些了。我可以配合你的动作。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/aa4892a907c63a7f658d1cea2b9343d8_2709293857034999067.mp3",
+          "audioName": "49突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "看来需要拿出些真的本事了。没想到你这么容易身处险境。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/77ad5dc94269add10a23ad577c1a41de_5714470690561231433.mp3",
+          "audioName": "50突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你的真正实力居然有如此地步吗？看来我不认真的话还无法跟上你了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/a1b6b44ab3b885a5ed7d288a2b27df94_1633464215111565007.mp3",
+          "audioName": "51突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "从僭位者那里回收了七之大权一角，这才是我本来的身姿。我已是「完全之龙」，足以审判其余众神。我的命运将是审判高天的僭位之王。但在那之前，我就将力量借与你吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/6ed92c2aa53bf596802f91b1d20900bf_5941473216736177824.mp3",
+          "audioName": "52突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "肃静！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/dc84e34f9e7fd70421ad2a7e552fc5ba_8217398156309852531.mp3",
+          "audioName": "53元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "低头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/a715142451d3acecc49495bfe22be9f2_4391580153305659152.mp3",
+          "audioName": "54元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "不得喧哗。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/bb88b25899f50c1e8be450b403bef2cc_4696663574058361532.mp3",
+          "audioName": "55元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "潮水啊，我已归来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/fee245b104baf103f8b639f5dd66939e_3503522896495909879.mp3",
+          "audioName": "56元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "化作，浮沫吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/6ce3142fcfbfa3cca181ccc24af2f796_293895501490642156.mp3",
+          "audioName": "57元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "凡高大者，我无不蔑视。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/ef822f16f4095ae7d5aa774fa468979d_1680531075263730502.mp3",
+          "audioName": "58元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "当你第一个找到无主的它时，它就属于你了。嗯，合法的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/ddd22ef0cfe92cc014ae1229c003e1e8_54049442904537192.mp3",
+          "audioName": "59打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "是不错的东西吗？至少打开它那一瞬的期待是不错的心绪吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/47ccf9ab9dc849bb06285f4cf08a4f96_8782172775280111755.mp3",
+          "audioName": "60打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我以口头约定的方式将这些让渡与你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/dcdc7815189e74a006b6087e87d3177d_8699337518315950939.mp3",
+          "audioName": "61打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "并无妨害，不必担心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/b9f426ce917714aef115dd8354b6f258_7080053071675557709.mp3",
+          "audioName": "62生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "风险渐涨，不过我没什么问题。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/c05070213051d69d7ccec824ca623735_9010734461197869208.mp3",
+          "audioName": "63生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哼，衣服似乎刮坏了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/203ed1e247055d337feb4e1f2381aa83_5512585406935146576.mp3",
+          "audioName": "64生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "让我来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/3f579ad64a736cbedf08ad62020532bf_6123233286819995996.mp3",
+          "audioName": "65同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "你先休息一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/ac2f9348381e248bfe12a6bc83759bb8_2250265238906962727.mp3",
+          "audioName": "66同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "潮汐再起时，我必将归来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/0d423c2aa1737fed545bd09686616723_264124076901140117.mp3",
+          "audioName": "67倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "看到了…我诞生前的温暖之海…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/67d38140fa30f7ef86ff19bc892015da_2065740776630820648.mp3",
+          "audioName": "68倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "万籁…俱静…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/27f3355b54fe8bdeb06d10856f1f87c6_2128768480299073016.mp3",
+          "audioName": "69倒下·其三_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "角度意外啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/785a0db540d612c9d8b3fc83aa10e7ba_1376310009785407755.mp3",
+          "audioName": "70重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "是我疏忽了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/2280d706b798ea4c54df115009dd3c11_3668227136695549415.mp3",
+          "audioName": "71重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "感谢你许可…嗯，邀请我同行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/e824e6639e94e2cab2bd817fbff280c1_1606098417740449603.mp3",
+          "audioName": "72加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "十分乐意。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/88f5e0274949948f9dd5c169c96d48af_7031847670802049877.mp3",
+          "audioName": "73加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "一起走走吧，去水畔之类的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4cd80d7f9cd2123bc3dcd0a1614bd779_7067152293522094107.mp3",
+          "audioName": "74加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "您好，我是枫丹的最高审判官，称呼我的姓氏那维莱特就可以。并不是想要疏远您的意思，但太过亲近会被人怀疑司法体系的不公。有什么诉求的话——当然，合法范围内——我们可以坐下来谈一谈，一起品尝一下翘英庄运来的水。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/6295b73a57617107a73b5ca10256364b_6070111432743767412.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·审判",
+          "text": "我既认可我自身工作的价值，也认同枫丹大众所作所为的意义。我想，我还是会以我的责任为荣的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/e28fa89a0faea873f91f20ba98c0c228_1327278633528337707.mp3",
+          "audioName": "02闲聊·审判_en.mp3"
+        },
+        {
+          "name": "闲聊·品水",
+          "text": "水的味道是很有讲究的。蒙德的水清冽，璃月的水回味悠长，稻妻的水口味幽邃深远，须弥的水味道虽然丰富但需要细品。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/39fb4e5edfd6f47b4ca48a2aaac267a9_7361939443313650513.mp3",
+          "audioName": "03闲聊·品水_en.mp3"
+        },
+        {
+          "name": "闲聊·美露莘",
+          "text": "美露莘是枫丹引以为傲的美丽生灵。你一定要和她们做好朋友，也不要伤害她们。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/a0529ec1c92e7df410f920a5ef88da5b_7333820170440319872.mp3",
+          "audioName": "04闲聊·美露莘_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊，抱歉。雨这么大，对你来说想必是个麻烦吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/51de8f4bd688c05c697742b3637a3faf_7308886117441930581.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "结束了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/8f908b47fc5d51a621a98586185855c2_4465125142093056117.mp3",
+          "audioName": "06雨过天晴…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "对你们来说，是不是有句话叫晴天霹雳？对我来说就是这个感觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/6b54b9913c19ace4bbba56108c776681_4213269859784704901.mp3",
+          "audioName": "07打雷的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪本身也是一种水的自洁手段。但是人类活动让雪不那么干净了，不要吃。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/b8642e086de17efddbf6a03d8d7dbf03_4518198465952574848.mp3",
+          "audioName": "08下雪的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "这种天气最适合在室内窗边，嗯，欣赏阳光。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/fef9fe6b92f6236985d8a835da437e20_7159029673755664667.mp3",
+          "audioName": "09阳光很好…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "这是…您对我谋杀计划的一环吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/61ad236cdf99ebff609ff367aa443514_7416269350620610312.mp3",
+          "audioName": "10在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。希望你今天过得愉快。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/ea8dc2a85b3bfeed1d0978f014e54d31_1381145453968885795.mp3",
+          "audioName": "11早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "午安。你一定很期待红茶或者咖啡的时间吧，我也是。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/37f85019243fd33c634e2e21e6af45d3_4748784886898967951.mp3",
+          "audioName": "12中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。希望今天你没有遇到什么难以释怀的坏事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/f248dbb7bc4e7c520473266b1ea127e8_4701864686591819250.mp3",
+          "audioName": "13晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。对我来说平静的水面是美好的意象，所以我祝你今夜收获无梦的安眠。不要有任何梦的涟漪撩拨你的心绪。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/6dfb78d89565ae200f6f95a4f64c14c3_545891566509352283.mp3",
+          "audioName": "14晚安…_en.mp3"
+        },
+        {
+          "name": "关于那维莱特自己·审判",
+          "text": "我又不是什么狂热的审判爱好者。「审判」只是我职责所在，是我被委任的目的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/83bf0ea13752a9efd4a284578358fbf2_4797854140462499528.mp3",
+          "audioName": "15关于那维莱特自己·审判_en.mp3"
+        },
+        {
+          "name": "关于那维莱特自己·哭泣的水龙",
+          "text": "你也听说过枫丹的这句民谣是吗？唉，这是谁教你的，又是谁让它流传开的…嗯，没什么。我觉得水龙不会哭，他只是品尝到了在大地之心里汇聚的泪水与所有的情绪，所以有所触动而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/1bd8b33ff6099fd95dc4d4e0d7f88d9f_4819085669828709440.mp3",
+          "audioName": "16关于那维莱特自己·哭泣的水龙_en.mp3"
+        },
+        {
+          "name": "关于那维莱特自己·审判的意义",
+          "text": "这是一个说烂的话题了。并非我要把自己置身人类之外，但是你看，「正义」、「公平」、「平等」、「法律」，这几个概念互相之间其实无法等同。水天然有「如水之平」的本性。前代水神厄歌莉娅希望以爱来联系众生，实现平等。如今这位选择了平等的「法律」，最后却因为种种外因扭曲成了一切只为「审判」的遗憾结果。不过这也另有原因，不该谴责。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/38fbd3a77e6970c7fbedd818ba7a5e32_5018969781871587628.mp3",
+          "audioName": "17关于那维莱特自己·审判的意义_en.mp3"
+        },
+        {
+          "name": "关于我们·见证者",
+          "text": "既然你是天地外之人，那就由你见证吧，我对于这个倒错世界的审判。「本应由天父统治的雄邦，如今王位上坐的却是雉鸡。时代已然错乱脱节，而我就是为了扭整乾坤而生」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/538d0c8830faf67c017178884798382c_4836281177772113193.mp3",
+          "audioName": "18关于我们·见证者_en.mp3"
+        },
+        {
+          "name": "关于我们·人间",
+          "text": "与枫丹人民长久的相处以及与你的同行早已让我改观。再加上我早已赦免了人的罪，我可以与你约定，接下来的审判不会危害到普通人。但是我与僭主尚有未结清的恩怨，还有未得偿还的血仇。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/a285b78a49a51d1ff2aff658ee6cccb5_5750915591405154373.mp3",
+          "audioName": "19关于我们·人间_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」·其一",
+          "text": "曾经有人建议我佩戴一个假的玻璃珠，这样方便危急时刻出手。说实话这个提议让我很不愉快，行使自己的力量却要带着假的面具去伪装。不过和持有神之眼的人相处久了，也明白他们的渴望与意志也是如此难能可贵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/a811427691c6e3bbb69bf523a2fb1a44_4240746129050722458.mp3",
+          "audioName": "20关于「神之眼」·其一_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」·其二",
+          "text": "什么，你说最古老的七神有几个也得带着假玻璃珠行走在人间吗？噗。对不起失态了，这件事有些好笑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/7c541a1138c5e9321221dd43699191d8_1157472043584392282.mp3",
+          "audioName": "21关于「神之眼」·其二_en.mp3"
+        },
+        {
+          "name": "有什么想要分享·法律",
+          "text": "枫丹确实有很多奇妙的法律，比如「每个月前三天不能放飞飞行物」、「枯水期搁浅的双壳贝类都属于水神，螺贝则属于人民」、「禁止给家养动物取名『芙宁娜』」、「禁止在食堂与餐厅单吃番茄酱」、「对美露莘称呼必须使用人格意味的『她』，不能用『它』」…最后一条是我推动立法的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/62d4f9655de55ac3156711bd920e3f58_2936424320210593358.mp3",
+          "audioName": "22有什么想要分享·法律_en.mp3"
+        },
+        {
+          "name": "有什么想要分享·雨天",
+          "text": "时常在想，什么时候可以走入一场雨中。啊，你误会了，并不是压力太大。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/6c185084a08cb10eeea3c7ed91a636da_23343974091945207.mp3",
+          "audioName": "23有什么想要分享·雨天_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻·龙蜥",
+          "text": "正是因它们同为原海所出之嫡系，所以对于进化之事十分擅长。我想起曾经龙中的风俗：我们啜饮一口早夭族类的血。当月与星的运行搅扰潮汐，我们水族体内的水也向上行去，我们便知道逝去的族人正在复活。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/d9ace5a1bca0c2f92ed06e30bc73bde2_1466011650477136859.mp3",
+          "audioName": "24感兴趣的见闻·龙蜥_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻·人类",
+          "text": "就我的观察而言，人习惯将自己与自然对立。此时总会有人出来呼吁人也是自然的一部分。但在知道些许真相的我看来，人类的文明世界和这个星球的自然，应该算是需要寻求共处之道吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/6ebec686fe14525d77da68222b0b68e3_8494924923553915443.mp3",
+          "audioName": "25感兴趣的见闻·人类_en.mp3"
+        },
+        {
+          "name": "关于岩之神…",
+          "text": "我将对诸神行使裁决，没有任何事情可以改变这点。贵金之神赢取了岩之大权，他自然也在受审者之列。如果有谁不希望看到我们发生争执，也不必担心，我还需要在枫丹停留很久，说不定就要四百多年呢。而且最后的判决也不一定会导致兵戎相见。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/93e9e29021f4273f8421bd11370199d7_4667273833902051789.mp3",
+          "audioName": "26关于岩之神…_en.mp3"
+        },
+        {
+          "name": "关于风之神…",
+          "text": "纵使天地翻覆，也无法停止我对于僭位七神的巡游审判。微风与希望之神获赠了风之大权，他也需要列席候审。你说他大部分时间都只是个醉汉，没有什么危险的了？那也得先见见吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/7621ff5d6e921510a0bb0a18f3915500_1856782396907702109.mp3",
+          "audioName": "27关于风之神…_en.mp3"
+        },
+        {
+          "name": "关于雷之神…",
+          "text": "我作为重获全龙之格的孑遗，就算是让大海所有的水逆行回天，也需要履行我的誓言与责任。鸣神赢取了雷之大权，注定留名于僭权者之列。嗯，你说她现在蛰居于心成净土之中，极少现身？那我过几百年再去吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/037143416ad45901dec138427226e485_6054907231561130577.mp3",
+          "audioName": "28关于雷之神…_en.mp3"
+        },
+        {
+          "name": "关于草之神…",
+          "text": "即便将来会有审判她的一天，我也认可草木之神的责任感。世间难有完美的人与事，可专注和溺爱也证明了一个责任者不断前行。听说她曾遭到约五百年的冷遇，我很为她的经历遗憾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/5a186d6a8185ebd3825db796c16832a5_2462748621768213630.mp3",
+          "audioName": "29关于草之神…_en.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "莱欧斯利确实是一个值得信赖的人。他的头衔和名誉都是我给他争取的。是不是觉得我被他的话术和向上经营欺骗了？稻妻有句话叫「不说即是花」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/10361985ae4a696f8c67dbf576950881_7975238892946411725.mp3",
+          "audioName": "30关于莱欧斯利…_en.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德凭借其超群实力成为了现任决斗代理人中的实力巅峰。她是逐影猎人这一行业的后继者，有她在，审判庭的公正更有保障。另外她会比外观看上去更有人情味一些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/25e9c5a53fea248e73e87d602584ccb6_8049171666823521175.mp3",
+          "audioName": "31关于克洛琳德…_en.mp3"
+        },
+        {
+          "name": "关于林尼和琳妮特…",
+          "text": "很有意思的演出，不是吗？这就是林尼和琳妮特的魔术世界，一切都假得出奇，但是只要你愿意相信，一切都可以成真。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/0fd68011d634c77b64ae490cb7b0770e_280711770301267979.mp3",
+          "audioName": "32关于林尼和琳妮特…_en.mp3"
+        },
+        {
+          "name": "关于希格雯…",
+          "text": "希格雯不知道过得好不好。要是她受欺负了我一定要把莱欧斯利喊进城里质问。她是那么脆弱，又那么的善良。上次她回来还给我带了留影机底片，还说想要听我继续点评纳塔的水…距离她下一个假期还要多久？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/7ee46755eedcbf8de9226aac12726c6e_4242744288066013847.mp3",
+          "audioName": "33关于希格雯…_en.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "时至今日，她的「演出」终于落幕。「表演」是想象的产物，但芙宁娜却凭此完成了自己的职责…怯懦之人用疯癫让自己勇敢，一直以来辛苦她了。\n有机会的话，应当为她的舞台献上掌声…嗯，一旦有机会的话。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/153d2ba84a3348dbc7b20071bd0711c8_6294047082077402416.mp3",
+          "audioName": "34关于芙宁娜…_en.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "虽然这么说很对不起她，但无论是当时无意的触怒她、接受她的道歉还是我此时感受到的内疚，全部有种疏离的感觉，仿佛沉卧湖底看星星。我并不是有意的，我也知道很难有机会弥补。情绪并不像是水，能迅速地修复自己，恢复平静。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/300c31c1f9ae1fef254e1b0bb77f36eb_1736033624895040991.mp3",
+          "audioName": "35关于娜维娅…_en.mp3"
+        },
+        {
+          "name": "关于火之神…",
+          "text": "以规则与传承击退深渊，此为值得称颂之义举，然权柄乃是从龙类手中夺得，亦是罪无可逭。只不过纳塔元气大伤，确实也不必急于前往。嗯，你说根据史料那一战应该判定为正式决斗，并且希巴拉克也善待了被害者家属？虽然乱七八糟的，但是也有些道理…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/b4c4ebb0dfdb80c963128bfeda0c7483_8772106435805004923.mp3",
+          "audioName": "36关于火之神…_en.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其一",
+          "text": "我会尽量避免与他人有私交以及有流程外的协作。不过阁下的品行值得信任，与枫丹的势力也没有什么纠缠。很乐意与你同行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/2cc71e9d9b0ee026af8ea49a2ae4973f_5665152671316385637.mp3",
+          "audioName": "36想要了解那维莱特·其一_en.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其二",
+          "text": "这话只能私下说，公共场合我绝对无法做此表态。枫达这个东西，能流行起来对我来说有点莫名其妙。不过人们很喜欢它也不是不能理解：你看，一边喝水一边补充糖分，而且它还价格低廉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4b7e2738aa7b2edd892a5b612ca47e46_2819720125178134263.mp3",
+          "audioName": "37想要了解那维莱特·其二_en.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其三",
+          "text": "最近看过一出戏剧。一个已经逝去的夫人凭借个人魅力与恶意的安排，如同无法驱散的鬼魅一般笼罩着她已不在其中的豪宅。演员无可挑剔，故事也很精巧，而且让我想到了世界的现状。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/9e57352fc126793d3833f3bdc877fa06_7488072960839940774.mp3",
+          "audioName": "38想要了解那维莱特·其三_en.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其四",
+          "text": "出于某些原因，我离开枫丹的次数屈指可数，因此，我所品尝的名泉虽是来自世界各地，但都是从外地送来，而非我亲临当地。至于不同饮用水里面的细微味道，我自然能够区分出来。言已至此，还不相信我吗？我是最高审判官，不骗人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/8237ad26689268a40c64ce1cd39246bb_7066698887375617243.mp3",
+          "audioName": "39想要了解那维莱特·其四_en.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其五",
+          "text": "不得不说，我时常遇到一些令人无奈的事，例如坐下的时候踩到衣摆，偶尔压到头发，往后靠头部也可能被座椅装饰品卡住。为了维持最高审判官的威严，我保持这类装束，自然要忍受它带来的麻烦。世间几乎也遵循着如此的道理——接受一种身份，忍耐它，理解它，与它共存。这正是我一直在做的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/f7d8f352ee16806843bfba062d1f25a4_206827591927992895.mp3",
+          "audioName": "40想要了解那维莱特·其五_en.mp3"
+        },
+        {
+          "name": "那维莱特的爱好…",
+          "text": "品水是一门学问。用火元素加热的水味道就是自然界最标准的味道，而木炭烧开的水则有田园的味道。同理，冰元素处理的水是一种平淡无奇的清冽，但是至冬积冰所化之水就完全不一样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/b084247b981e82ae06d8fc5e8fb52c6f_7566397360924006664.mp3",
+          "audioName": "41那维莱特的爱好…_en.mp3"
+        },
+        {
+          "name": "那维莱特的烦恼…",
+          "text": "下雨天不打伞是不是看起来有些奇怪…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/85bc6dec355d60728e30994e5ceb1b9b_892792437591110838.mp3",
+          "audioName": "42那维莱特的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "动物不进食尚能活些时日，不喝水可活不了几天。什么美食都比不过纯净的水。所以汤水多的食物就是第二好的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/9e21b226e2a024a895425f93b0a21627_4836576501599867292.mp3",
+          "audioName": "43喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "油炸或者无酱烤制的食物真的能吃吗？我想点名批评须弥椰炭饼，往人胃里塞干燥剂也不过如此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/cf3431bc95dce599009cee929ac2e760_7532946970453955883.mp3",
+          "audioName": "44讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "美味。菜肴最重要的汁水不仅很多，而且处理得很好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/6d107efb020cb4d4379fea9fbbe9ec43_7997001631843982454.mp3",
+          "audioName": "45收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错的尝试。只不过这道菜是不是可以多加点汤汁，再滤一点油脂出来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/5689dae427d12232c11ba027c8fafcab_4680495501621055987.mp3",
+          "audioName": "46收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "太干了。没有汁水的菜品尝不出厨师的心情。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/42a8020103facb4550a401d02a284ee7_8169888893841307467.mp3",
+          "audioName": "47收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你的生日啊，祝你生日快乐。不知道今天下不下雨，我会想想办法的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/213706f2f28bf2c2dc95470859dc4e74_7747574939635152369.mp3",
+          "audioName": "48生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "稍微熟悉些了。我可以配合你的动作。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/d901d0a9a72277b15a564e193b522139_2373313627581830599.mp3",
+          "audioName": "49突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "看来需要拿出些真的本事了。没想到你这么容易身处险境。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/da8a6f3a77d0ed758361f420a0816f54_4071030109684454409.mp3",
+          "audioName": "50突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你的真正实力居然有如此地步吗？看来我不认真的话还无法跟上你了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/e15fa0e447b19810f7139a65de0e478b_5198907907864982697.mp3",
+          "audioName": "51突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "从僭位者那里回收了七之大权一角，这才是我本来的身姿。我已是「完全之龙」，足以审判其余众神。我的命运将是审判高天的僭位之王。但在那之前，我就将力量借与你吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/c69af6ad800ea5a878671bf62adb5657_1073308813200283766.mp3",
+          "audioName": "52突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "肃静！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/e538d70cd2bea297fb82ba945bff8130_8517448031429673912.mp3",
+          "audioName": "53元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "低头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/52dffca868ff6cba5cd79852b9affdc4_8657492058818475353.mp3",
+          "audioName": "54元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "不得喧哗。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/64f4ecbf6ff7892c4704e49364039ff7_1622756050396407307.mp3",
+          "audioName": "55元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "潮水啊，我已归来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/a27e24f3b4d29aba804c0995d6974f21_4093116935732843550.mp3",
+          "audioName": "56元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "化作，浮沫吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/0d6c8ce30b109cdd8ffb49a14a57bd05_4369772150642093259.mp3",
+          "audioName": "57元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "凡高大者，我无不蔑视。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/06411d590ca55c2888f6d73325c70d1d_336315514202525241.mp3",
+          "audioName": "58元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "当你第一个找到无主的它时，它就属于你了。嗯，合法的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/c9dd7881fd5638074cc865151220474e_1186611079327932960.mp3",
+          "audioName": "59打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "是不错的东西吗？至少打开它那一瞬的期待是不错的心绪吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/91eaa55557db9b2c9597dc4716e34a94_5586056391039146986.mp3",
+          "audioName": "60打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我以口头约定的方式将这些让渡与你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/f309bc2ea5f8991536d3e8de930943da_1826721187278483592.mp3",
+          "audioName": "61打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "并无妨害，不必担心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/22b28fc2cce720c5b996f46e3c00427b_1381626944790989844.mp3",
+          "audioName": "62生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "风险渐涨，不过我没什么问题。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/599d543d53b04670970b2f5a134bf083_3224407730474610436.mp3",
+          "audioName": "63生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哼，衣服似乎刮坏了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/acd970fd912cebc9590504b2bb4ce8bf_9150792341007473343.mp3",
+          "audioName": "64生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "让我来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/2f1debef72c2e04fca47a40c25a3fb54_4021449668217870031.mp3",
+          "audioName": "65同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "你先休息一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/babb06c9934328e593ec0b40c95e6c1a_7427371142906467056.mp3",
+          "audioName": "66同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "潮汐再起时，我必将归来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/2d9192b59fe2d3ecf066c02add6552e7_7810410822945596921.mp3",
+          "audioName": "67倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "看到了…我诞生前的温暖之海…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/a4546e5a9f8dd712f58554fc76bb98b9_2600808912818369115.mp3",
+          "audioName": "68倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "万籁…俱静…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/edc048e19e55b63e6a7c6f834ed8da1a_4945162850119881023.mp3",
+          "audioName": "69倒下·其三_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "角度意外啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/c131d84c47529e6e9b31ccba8487f33c_6015130137693151547.mp3",
+          "audioName": "70重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "是我疏忽了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/64fe2a0ac5014b63242d34c104d293aa_1274460304235640343.mp3",
+          "audioName": "71重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "感谢你许可…嗯，邀请我同行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/2fb51dc88be5cdb7404c21cc89dea81a_8807112909094447486.mp3",
+          "audioName": "72加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "十分乐意。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/69857d4eb240e0176d1b3bcd4df1e793_9095035010529196406.mp3",
+          "audioName": "73加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "一起走走吧，去水畔之类的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/67153877f31136a0f63353820e3b4516_7590773826044273269.mp3",
+          "audioName": "74加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "您好，我是枫丹的最高审判官，称呼我的姓氏那维莱特就可以。并不是想要疏远您的意思，但太过亲近会被人怀疑司法体系的不公。有什么诉求的话——当然，合法范围内——我们可以坐下来谈一谈，一起品尝一下翘英庄运来的水。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/659a380c556be5bebb570b5782270bbf_2434873948968628023.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·审判",
+          "text": "我既认可我自身工作的价值，也认同枫丹大众所作所为的意义。我想，我还是会以我的责任为荣的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/27946b5a515627e0339153a28e904fe7_1910179077632851015.mp3",
+          "audioName": "02闲聊·审判_kr.mp3"
+        },
+        {
+          "name": "闲聊·品水",
+          "text": "水的味道是很有讲究的。蒙德的水清冽，璃月的水回味悠长，稻妻的水口味幽邃深远，须弥的水味道虽然丰富但需要细品。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/641834c3f58cfcad6d0c5be0f4a39b1d_8610101560694837614.mp3",
+          "audioName": "03闲聊·品水_kr.mp3"
+        },
+        {
+          "name": "闲聊·美露莘",
+          "text": "美露莘是枫丹引以为傲的美丽生灵。你一定要和她们做好朋友，也不要伤害她们。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4fee429c16347bfa4e06a45d7c48cb19_8408544604931166073.mp3",
+          "audioName": "04闲聊·美露莘_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊，抱歉。雨这么大，对你来说想必是个麻烦吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/c56e1380bfc13cdfc24e5899d6661a0d_2285211418651301920.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "结束了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/edd70fed3ecb20c73518d79d7ec05bb5_8763248605733756801.mp3",
+          "audioName": "06雨过天晴…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "对你们来说，是不是有句话叫晴天霹雳？对我来说就是这个感觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/23b51eb627d03a27b3812e41f82e3a3f_559250356794597285.mp3",
+          "audioName": "07打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪本身也是一种水的自洁手段。但是人类活动让雪不那么干净了，不要吃。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/46dcfd458ff1b49a2ec420c137a173f4_4779584419007007015.mp3",
+          "audioName": "08下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "这种天气最适合在室内窗边，嗯，欣赏阳光。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/85f4b5fe4dec8cb07e2085860cd66713_3271608109729974696.mp3",
+          "audioName": "09阳光很好…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "这是…您对我谋杀计划的一环吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/5e46b939ee4c7e6666476d5262df2615_209432195317763499.mp3",
+          "audioName": "10在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。希望你今天过得愉快。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4cb2d8d7616dfd194f515c338bcf3786_7193804908157357399.mp3",
+          "audioName": "11早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "午安。你一定很期待红茶或者咖啡的时间吧，我也是。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/fb5bb6207c683f5de806b6dcc6ab1266_6222589101896845392.mp3",
+          "audioName": "12中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。希望今天你没有遇到什么难以释怀的坏事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/43f1070d70dfa1f0b9132ad3a1567ede_8409010585943278378.mp3",
+          "audioName": "13晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。对我来说平静的水面是美好的意象，所以我祝你今夜收获无梦的安眠。不要有任何梦的涟漪撩拨你的心绪。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4adfc513000cc9cd36fba55b6762a8a3_5702359479316540124.mp3",
+          "audioName": "14晚安…_kr.mp3"
+        },
+        {
+          "name": "关于那维莱特自己·审判",
+          "text": "我又不是什么狂热的审判爱好者。「审判」只是我职责所在，是我被委任的目的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/af82a3c40442992c98bc446f1ada38fa_8831379236507784200.mp3",
+          "audioName": "15关于那维莱特自己·审判_kr.mp3"
+        },
+        {
+          "name": "关于那维莱特自己·哭泣的水龙",
+          "text": "你也听说过枫丹的这句民谣是吗？唉，这是谁教你的，又是谁让它流传开的…嗯，没什么。我觉得水龙不会哭，他只是品尝到了在大地之心里汇聚的泪水与所有的情绪，所以有所触动而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/db515e33931761b646541286f3b47f7b_4021126983444636433.mp3",
+          "audioName": "16关于那维莱特自己·哭泣的水龙_kr.mp3"
+        },
+        {
+          "name": "关于那维莱特自己·审判的意义",
+          "text": "这是一个说烂的话题了。并非我要把自己置身人类之外，但是你看，「正义」、「公平」、「平等」、「法律」，这几个概念互相之间其实无法等同。水天然有「如水之平」的本性。前代水神厄歌莉娅希望以爱来联系众生，实现平等。如今这位选择了平等的「法律」，最后却因为种种外因扭曲成了一切只为「审判」的遗憾结果。不过这也另有原因，不该谴责。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1810e7c8cf8695cb9517f5defb06cec2_2940248135107549845.mp3",
+          "audioName": "17关于那维莱特自己·审判的意义_kr.mp3"
+        },
+        {
+          "name": "关于我们·见证者",
+          "text": "既然你是天地外之人，那就由你见证吧，我对于这个倒错世界的审判。「本应由天父统治的雄邦，如今王位上坐的却是雉鸡。时代已然错乱脱节，而我就是为了扭整乾坤而生」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8630ed6e818af102a1d11f7e6a0a0df6_1124660118889541019.mp3",
+          "audioName": "18关于我们·见证者_kr.mp3"
+        },
+        {
+          "name": "关于我们·人间",
+          "text": "与枫丹人民长久的相处以及与你的同行早已让我改观。再加上我早已赦免了人的罪，我可以与你约定，接下来的审判不会危害到普通人。但是我与僭主尚有未结清的恩怨，还有未得偿还的血仇。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/71dc8b8c36c7ec7189c2fe22272e0deb_8354463601583963100.mp3",
+          "audioName": "19关于我们·人间_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」·其一",
+          "text": "曾经有人建议我佩戴一个假的玻璃珠，这样方便危急时刻出手。说实话这个提议让我很不愉快，行使自己的力量却要带着假的面具去伪装。不过和持有神之眼的人相处久了，也明白他们的渴望与意志也是如此难能可贵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/cb5d8d6e0db26c8e36f5725c2f0ba170_8660471118542111456.mp3",
+          "audioName": "20关于「神之眼」·其一_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」·其二",
+          "text": "什么，你说最古老的七神有几个也得带着假玻璃珠行走在人间吗？噗。对不起失态了，这件事有些好笑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/9dfd2ded84e875984f9effa8b81865fe_5718744453939579333.mp3",
+          "audioName": "21关于「神之眼」·其二_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享·法律",
+          "text": "枫丹确实有很多奇妙的法律，比如「每个月前三天不能放飞飞行物」、「枯水期搁浅的双壳贝类都属于水神，螺贝则属于人民」、「禁止给家养动物取名『芙宁娜』」、「禁止在食堂与餐厅单吃番茄酱」、「对美露莘称呼必须使用人格意味的『她』，不能用『它』」…最后一条是我推动立法的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/07fcc272ccf92bf4989e68d7bd078114_829788542502754471.mp3",
+          "audioName": "22有什么想要分享·法律_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享·雨天",
+          "text": "时常在想，什么时候可以走入一场雨中。啊，你误会了，并不是压力太大。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/7b8fde423ea440c98f6197f9397dff09_3095866386794799120.mp3",
+          "audioName": "23有什么想要分享·雨天_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻·龙蜥",
+          "text": "正是因它们同为原海所出之嫡系，所以对于进化之事十分擅长。我想起曾经龙中的风俗：我们啜饮一口早夭族类的血。当月与星的运行搅扰潮汐，我们水族体内的水也向上行去，我们便知道逝去的族人正在复活。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/02a700a4806d3fabab6c6d39bad45ac5_4477454822241292378.mp3",
+          "audioName": "24感兴趣的见闻·龙蜥_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻·人类",
+          "text": "就我的观察而言，人习惯将自己与自然对立。此时总会有人出来呼吁人也是自然的一部分。但在知道些许真相的我看来，人类的文明世界和这个星球的自然，应该算是需要寻求共处之道吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4b6365167f54c7b4c38943bfeb81c646_4494236094725099045.mp3",
+          "audioName": "25感兴趣的见闻·人类_kr.mp3"
+        },
+        {
+          "name": "关于岩之神…",
+          "text": "我将对诸神行使裁决，没有任何事情可以改变这点。贵金之神赢取了岩之大权，他自然也在受审者之列。如果有谁不希望看到我们发生争执，也不必担心，我还需要在枫丹停留很久，说不定就要四百多年呢。而且最后的判决也不一定会导致兵戎相见。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a16b36a6eae97aaa35c8fb522b0743c4_7554758795612849566.mp3",
+          "audioName": "26关于岩之神…_kr.mp3"
+        },
+        {
+          "name": "关于风之神…",
+          "text": "纵使天地翻覆，也无法停止我对于僭位七神的巡游审判。微风与希望之神获赠了风之大权，他也需要列席候审。你说他大部分时间都只是个醉汉，没有什么危险的了？那也得先见见吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e29e69b20ec8f8f90199f46a1a599d4e_3873983722252164045.mp3",
+          "audioName": "27关于风之神…_kr.mp3"
+        },
+        {
+          "name": "关于雷之神…",
+          "text": "我作为重获全龙之格的孑遗，就算是让大海所有的水逆行回天，也需要履行我的誓言与责任。鸣神赢取了雷之大权，注定留名于僭权者之列。嗯，你说她现在蛰居于心成净土之中，极少现身？那我过几百年再去吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/638c5f38f815ce4fcca431fa3fb9f0b2_7812820748461827676.mp3",
+          "audioName": "28关于雷之神…_kr.mp3"
+        },
+        {
+          "name": "关于草之神…",
+          "text": "即便将来会有审判她的一天，我也认可草木之神的责任感。世间难有完美的人与事，可专注和溺爱也证明了一个责任者不断前行。听说她曾遭到约五百年的冷遇，我很为她的经历遗憾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/807162ea186991fbfc969fd3eacf7603_6714114492726095353.mp3",
+          "audioName": "29关于草之神…_kr.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "莱欧斯利确实是一个值得信赖的人。他的头衔和名誉都是我给他争取的。是不是觉得我被他的话术和向上经营欺骗了？稻妻有句话叫「不说即是花」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/07584e653a79800b8ac292aa24156cfa_6745078577604095855.mp3",
+          "audioName": "30关于莱欧斯利…_kr.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德凭借其超群实力成为了现任决斗代理人中的实力巅峰。她是逐影猎人这一行业的后继者，有她在，审判庭的公正更有保障。另外她会比外观看上去更有人情味一些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/cfea83b79db2e3ac8b9d8430cd18c469_6056455550720896478.mp3",
+          "audioName": "31关于克洛琳德…_kr.mp3"
+        },
+        {
+          "name": "关于林尼和琳妮特…",
+          "text": "很有意思的演出，不是吗？这就是林尼和琳妮特的魔术世界，一切都假得出奇，但是只要你愿意相信，一切都可以成真。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/2f45f6830a5365c5120b037b1dbe6819_3721427727328212089.mp3",
+          "audioName": "32关于林尼和琳妮特…_kr.mp3"
+        },
+        {
+          "name": "关于希格雯…",
+          "text": "希格雯不知道过得好不好。要是她受欺负了我一定要把莱欧斯利喊进城里质问。她是那么脆弱，又那么的善良。上次她回来还给我带了留影机底片，还说想要听我继续点评纳塔的水…距离她下一个假期还要多久？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4a7830121c3389957ece1238d4443643_2458151023115350144.mp3",
+          "audioName": "33关于希格雯…_kr.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "时至今日，她的「演出」终于落幕。「表演」是想象的产物，但芙宁娜却凭此完成了自己的职责…怯懦之人用疯癫让自己勇敢，一直以来辛苦她了。\n有机会的话，应当为她的舞台献上掌声…嗯，一旦有机会的话。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/9db72a4b4950967a31aa2a0c2d919e87_620960124869756884.mp3",
+          "audioName": "34关于芙宁娜…_kr.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "虽然这么说很对不起她，但无论是当时无意的触怒她、接受她的道歉还是我此时感受到的内疚，全部有种疏离的感觉，仿佛沉卧湖底看星星。我并不是有意的，我也知道很难有机会弥补。情绪并不像是水，能迅速地修复自己，恢复平静。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/b438442c40387d1cccf55d9e6e187c6f_289180290466494465.mp3",
+          "audioName": "35关于娜维娅…_kr.mp3"
+        },
+        {
+          "name": "关于火之神…",
+          "text": "以规则与传承击退深渊，此为值得称颂之义举，然权柄乃是从龙类手中夺得，亦是罪无可逭。只不过纳塔元气大伤，确实也不必急于前往。嗯，你说根据史料那一战应该判定为正式决斗，并且希巴拉克也善待了被害者家属？虽然乱七八糟的，但是也有些道理…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/09/16576950/c666e32acb37f03e7070bb85b5765602_8134473007352864654.mp3",
+          "audioName": "36关于火之神…_kr.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其一",
+          "text": "我会尽量避免与他人有私交以及有流程外的协作。不过阁下的品行值得信任，与枫丹的势力也没有什么纠缠。很乐意与你同行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/e7fdc1605a9f2ffaabbcefd562d00fdd_6918838254504269183.mp3",
+          "audioName": "36想要了解那维莱特·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其二",
+          "text": "这话只能私下说，公共场合我绝对无法做此表态。枫达这个东西，能流行起来对我来说有点莫名其妙。不过人们很喜欢它也不是不能理解：你看，一边喝水一边补充糖分，而且它还价格低廉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/a7585bb35e265138791d3a5d2e890fc5_8446040491134860090.mp3",
+          "audioName": "37想要了解那维莱特·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其三",
+          "text": "最近看过一出戏剧。一个已经逝去的夫人凭借个人魅力与恶意的安排，如同无法驱散的鬼魅一般笼罩着她已不在其中的豪宅。演员无可挑剔，故事也很精巧，而且让我想到了世界的现状。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/8447df0d9e0ff91504ae050615d37eda_1711529461820854015.mp3",
+          "audioName": "38想要了解那维莱特·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其四",
+          "text": "出于某些原因，我离开枫丹的次数屈指可数，因此，我所品尝的名泉虽是来自世界各地，但都是从外地送来，而非我亲临当地。至于不同饮用水里面的细微味道，我自然能够区分出来。言已至此，还不相信我吗？我是最高审判官，不骗人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/7433d5bd5643c56ad75c30d817d02f38_7750567064119229986.mp3",
+          "audioName": "39想要了解那维莱特·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解那维莱特·其五",
+          "text": "不得不说，我时常遇到一些令人无奈的事，例如坐下的时候踩到衣摆，偶尔压到头发，往后靠头部也可能被座椅装饰品卡住。为了维持最高审判官的威严，我保持这类装束，自然要忍受它带来的麻烦。世间几乎也遵循着如此的道理——接受一种身份，忍耐它，理解它，与它共存。这正是我一直在做的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4ac66486d22392d0c7d38819a9a8c481_6194393980891909294.mp3",
+          "audioName": "40想要了解那维莱特·其五_kr.mp3"
+        },
+        {
+          "name": "那维莱特的爱好…",
+          "text": "品水是一门学问。用火元素加热的水味道就是自然界最标准的味道，而木炭烧开的水则有田园的味道。同理，冰元素处理的水是一种平淡无奇的清冽，但是至冬积冰所化之水就完全不一样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/aeaecd205c0fa7256ae77197805ed598_1230554515006835791.mp3",
+          "audioName": "41那维莱特的爱好…_kr.mp3"
+        },
+        {
+          "name": "那维莱特的烦恼…",
+          "text": "下雨天不打伞是不是看起来有些奇怪…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/c7ed0051215c1817189948975c1aa593_9166502665208900011.mp3",
+          "audioName": "42那维莱特的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "动物不进食尚能活些时日，不喝水可活不了几天。什么美食都比不过纯净的水。所以汤水多的食物就是第二好的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/7ad45a194e8106291b276dbb1df29c7c_8868723332974674917.mp3",
+          "audioName": "43喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "油炸或者无酱烤制的食物真的能吃吗？我想点名批评须弥椰炭饼，往人胃里塞干燥剂也不过如此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/8dada1929fe608cf0e23f675226c0da0_7805428710365215157.mp3",
+          "audioName": "44讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "美味。菜肴最重要的汁水不仅很多，而且处理得很好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/8418c7485063b1705270d5ca45931dc2_5508744891594547343.mp3",
+          "audioName": "45收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错的尝试。只不过这道菜是不是可以多加点汤汁，再滤一点油脂出来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/99b2ded194cbf568cf93c2fd0499b90c_2133654105633914240.mp3",
+          "audioName": "46收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "太干了。没有汁水的菜品尝不出厨师的心情。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/a70f7b1d7f899928c7ae9abb00a5fcc9_5058818933059142687.mp3",
+          "audioName": "47收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你的生日啊，祝你生日快乐。不知道今天下不下雨，我会想想办法的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/54af36b1c60e22cd8c1f7a5d145c5d0e_821988718139327129.mp3",
+          "audioName": "48生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "稍微熟悉些了。我可以配合你的动作。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/c90e1d40df5438b56409f8f98e974484_3510395218747353936.mp3",
+          "audioName": "49突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "看来需要拿出些真的本事了。没想到你这么容易身处险境。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/f29e86aed508991a09c4418407e07e5f_3551198745542932066.mp3",
+          "audioName": "50突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你的真正实力居然有如此地步吗？看来我不认真的话还无法跟上你了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/49bfcd333296702639556ced13fa06da_7993300021169453230.mp3",
+          "audioName": "51突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "从僭位者那里回收了七之大权一角，这才是我本来的身姿。我已是「完全之龙」，足以审判其余众神。我的命运将是审判高天的僭位之王。但在那之前，我就将力量借与你吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/03d24bfa5d14c558ff4520df66bbebbb_9102415629876422712.mp3",
+          "audioName": "52突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "肃静！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/ad738379c09899740f77d1730aebdcc8_733370539811946806.mp3",
+          "audioName": "53元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "低头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/53e1cdc78443da63ce7c5b80b8782e90_7049762483155578649.mp3",
+          "audioName": "54元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "不得喧哗。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/0031f687df5556c855596cc652235572_774134200214502647.mp3",
+          "audioName": "55元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "潮水啊，我已归来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/7756cc1f5f8dc6e19d18adcdcc9d0c98_175838145564945411.mp3",
+          "audioName": "56元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "化作，浮沫吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/f62cc12dde181829a01fc11381bc2394_6608966303328147919.mp3",
+          "audioName": "57元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "凡高大者，我无不蔑视。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/48bd513374937102b94b5b1ba2569fca_3952041082872611587.mp3",
+          "audioName": "58元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "当你第一个找到无主的它时，它就属于你了。嗯，合法的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/3186d7cbafdeed39d99e7af87ec4be54_6444437218520774752.mp3",
+          "audioName": "59打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "是不错的东西吗？至少打开它那一瞬的期待是不错的心绪吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/2cd6a56a7b547a06c8df57fe6d78fb31_6992516866542499592.mp3",
+          "audioName": "60打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我以口头约定的方式将这些让渡与你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/4bf58bb220241b60c50fb60a9a6ac3e3_4376160368381052516.mp3",
+          "audioName": "61打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "并无妨害，不必担心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/54fa2320916cb90219b55b56244088e8_6951967738604682057.mp3",
+          "audioName": "62生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "风险渐涨，不过我没什么问题。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/895986e8678a18e96e1967f744351658_7127879665130429750.mp3",
+          "audioName": "63生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "哼，衣服似乎刮坏了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/30145f8db3c6d53af045a4a62cabfbfc_1566588464084121072.mp3",
+          "audioName": "64生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "让我来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/e29d27969d5d5e99ab3696e8abce5e32_5303964852799236659.mp3",
+          "audioName": "65同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "你先休息一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/02c297bc847457f88d906c74bd6a498e_347962712830274983.mp3",
+          "audioName": "66同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "潮汐再起时，我必将归来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/362f67ba59a5d24657a4e89573dc0fb6_6104100856086179282.mp3",
+          "audioName": "67倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "看到了…我诞生前的温暖之海…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/22de463919879f19640965eaa3ec81d4_7155780541552168655.mp3",
+          "audioName": "68倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "万籁…俱静…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/40cbf7afcd6bfab2b912ac5429c830a3_8218544031835866074.mp3",
+          "audioName": "69倒下·其三_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "角度意外啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/80b4fa8e7b51ce7e9555295ea0974be0_367939002753874724.mp3",
+          "audioName": "70重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "是我疏忽了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/0a361d211952112d1fbc346ce06494ea_8066254212248510203.mp3",
+          "audioName": "71重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "感谢你许可…嗯，邀请我同行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/fc51da8fda0f323c11f36d5aa0b2a842_5474645629743171921.mp3",
+          "audioName": "72加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "十分乐意。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/a83e3d1d218df67a56bfe98c05087ce6_4140011149007618625.mp3",
+          "audioName": "73加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "一起走走吧，去水畔之类的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/12/16576950/761cf275a289bcbbd523a7090e2d76de_5152844047019337237.mp3",
+          "audioName": "74加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

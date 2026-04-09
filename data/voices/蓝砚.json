@@ -1,0 +1,1661 @@
+{
+  "id": "503614",
+  "name": "蓝砚",
+  "alias": [
+    "蓝砚"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我是沉玉谷手工艺工会的蓝砚。是想做点摆件、篮子还是花瓶、家具之类的呢？呃，备用的藤枝藤条不多了，得先去山里采一趟…你也想帮忙？嘻嘻，你人真好，我多送你一顶藤编遮阳帽可好？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/5c5b0c7d4f18fdd601fa684ac3f2dddf_1601913573539800143.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·每日计划",
+          "text": "今天的计划？嗯…听随当下的心意而动。明天也是，每天都是，嘻嘻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/98660f0a7e0d7a0f5ecf9a5ebce8080e_4716642393252047127.mp3",
+          "audioName": "02闲聊·每日计划_cn.mp3"
+        },
+        {
+          "name": "闲聊·传家宝",
+          "text": "好的藤器经篾薄如绸，纬条细若丝，经久不坏…说它能跟银器一样当传家宝一点都不夸张。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b704c1e44aaf1462a91a5a1b03166fae_3657252695928088414.mp3",
+          "audioName": "03闲聊·传家宝_cn.mp3"
+        },
+        {
+          "name": "闲聊·燕子",
+          "text": "天暖燕子么搭窝窝，升雷扯闪么我家躲。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/516d8bd61233672cb706058ee93489d8_525339030534888011.mp3",
+          "audioName": "04闲聊·燕子_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "赶不及躲雨了，那——安心淋雨吧，还省了跑步的力气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/efbcb36835fcd63dd181191ba69a73bb_6685150892736786968.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "呜哇！借、借你手握一会！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/77d7683573809d10db98d42261272401_4467602525331314027.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "看，阳光扫到的地方都镀上了一层金欸",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/a68f3ee393e6850ceeb6e4c47559bfb0_3982350163795647661.mp3",
+          "audioName": "07阳光很好…_cn.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "听见吗？我头上的银饰叮铃…叮铃…风很温柔呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/f0f1b8110bb99c686d259a42d34941d8_3915226186010974237.mp3",
+          "audioName": "08起风的时候…_cn.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "叮叮叮叮叮——风有点生气了啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/8d91ea99de887115eb6d2e8b8ce3059b_1839164655939083526.mp3",
+          "audioName": "09刮大风了…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "喝点水吗？尝尝我瓶子里的吧，泡薄荷叶子果然是明智的选择呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c1fd324168ed41925be30e58d4bb322d_623626301914055427.mp3",
+          "audioName": "10在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "被鸟叫吵醒了？哈哈，我去跟它们商量商量，但不一定奏效哦，它们有时也不听我的话。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b045260a452c614c8c5ae307f5377c73_3697054044107614536.mp3",
+          "audioName": "11早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "采了些很新鲜的花，我这就带回去给妈妈做好吃的…你也来嘛，我家里人见到你肯定高兴！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/e0a710207d570789a89450e3c6a1c8df_1222004909857495564.mp3",
+          "audioName": "12中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "夜市里有碳烤小昆虫！想一起去尝尝吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/af3d7543186265493de7e367cd4533f0_4465006930579752791.mp3",
+          "audioName": "13晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "我好困…先睡了先睡了，就不陪你熬夜了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/f79c2667d2eb62f083cf95ef15d88d2d_1752701039537959157.mp3",
+          "audioName": "14晚安…_cn.mp3"
+        },
+        {
+          "name": "关于蓝砚自己·幸福感",
+          "text": "幸福感就是…每一口都细嚼慢咽直到吃完碗里最后一粒米，躺在草地上听着耳边的呼呼风声睡午觉，不被打扰地看完整整十册的志怪连载小说！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/65d4aedef1e8ba10d86d4c7b2e64c250_261757416077999185.mp3",
+          "audioName": "15关于蓝砚自己·幸福感_cn.mp3"
+        },
+        {
+          "name": "关于蓝砚自己·奇门世家",
+          "text": "那位万象风角灵官在蓝氏的族谱中确有记载，可我家这一脉早已从宗家分枝散叶了。奇门术法纷繁复杂，我也只是学了个皮毛而已，有很多难题我还要向前辈们请教呢…但唯独扎藤人的手艺就连爷爷都要向我看齐，哈哈…这能算一种「独当一面」吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/d7948d0f265f3ed02ab5fe160a71496d_4319603351992746492.mp3",
+          "audioName": "16关于蓝砚自己·奇门世家_cn.mp3"
+        },
+        {
+          "name": "关于我们·握手？",
+          "text": "坐好。朋友。握手~啊不不，我是让小动物们看我，不是叫你坐下啦！快请起来…这句话的意思是「大家看过来哦，今天有一位新朋友跟我们一起玩！」有点难懂吗？唔…「坐好」可以是「先别动」或者「听我说」，也可以是「停下来」…规律吗？哎呀总之你多来山里跟我们玩，自然就懂啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/0cef00a9267df169e2a26dde4509f847_4965844022927528934.mp3",
+          "audioName": "17关于我们·握手？_cn.mp3"
+        },
+        {
+          "name": "关于我们·握手！",
+          "text": "来呀，握个手，抱一个吧。嗯…？来握手呀？哈哈，这回真的是我想要跟你握手的意思啦！好朋友之间不是这样相互鼓励的吗？对不起哦，怪我没有事先说清楚。但也没关系，我会多去找你玩，这样自然你也懂我我也懂你啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c05d38c3a1910218cc9d35b1d4ccc0e2_8235705197750363649.mp3",
+          "audioName": "18关于我们·握手！_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "感谢神之眼的助力，我居然能毫不费力地将环刃抛起又稳稳接住…啊，环刃非常锋利，小朋友切勿模仿！但如果是你…要上手试试吗？身要定，臂要稳，手要疾，你的话一定能做到！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/4a189ed4429ff1d88f610fe2c78715b4_5007785332999027995.mp3",
+          "audioName": "19关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "想吃野蕈真的不能马虎，许多有毒的蕈子根本吃不得。另一些，则必须在处理的时候加工到位，用油炒熟！如果一顿吃不完，第二顿也要再次炒熟炒透，很多人就是在第二次中的招！如果吃两口后看到家里的鸡来找你借火，或者院子里的狗喊你去收衣服了，那么不要犹豫，赶快叫它们带你去看医生吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/ed2d386e7e012600bca85a9724321bb4_3703274177414655088.mp3",
+          "audioName": "20有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有一回，我坐在树上编小摆件，伸个懒腰的功夫，刚编的藤制松果就被小松鼠全偷走了！还好后来我用双倍数量的真松果跟它们换回来了…东西被拿走是小事，但破坏小松鼠一天的好心情就不好了！忙活了一天采松果，回家发现是假的！唔…说不定还会被别的小松鼠嘲笑呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/e5522254a5e96213acb043a8938b1a83_418367707784506189.mp3",
+          "audioName": "21感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于香菱…",
+          "text": "都说第一印象很重要，在万民堂吃过在璃月港的第一顿饭后，我就后悔了。后悔怎么没有早点来璃月港，这样说不定能早点认识香菱！她听说我老家山里有许多罕见食材后，忙不迭就开始计划来沉玉谷的行程了，到时我一定得让她满载而归。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/894d7b2e97f8e5a6951b5b16856c19a3_2455015970460068346.mp3",
+          "audioName": "22关于香菱…_cn.mp3"
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "胡堂主给人感觉总是嘻嘻哈哈的，哪怕在危急的困境中她都没有忘记说玩笑话来安抚我…我跟她认识的时间不长，她一直都这样乐观积极吗？嗯…不管怎样，至少从今天开始，祝愿她笑的时候是真的很开心，而不是为了不让身边的人担心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/db6722d8994936225aed55e092f39bf0_4784938871486304916.mp3",
+          "audioName": "23关于胡桃…_cn.mp3"
+        },
+        {
+          "name": "关于刻晴…",
+          "text": "玉衡大人什么时候能闲下来呢？海灯节期间看她东奔西跑忙个不停，也没能找到机会请她吃顿饭，好好感谢她的招待…我还想拜托她帮我梳一对跟她一样的猫猫耳朵呢…会不会很僭越？但直觉告诉我她不会介意欸…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/9cba116c9a7f071894c37de8fcf2554f_5356235746712978213.mp3",
+          "audioName": "24关于刻晴…_cn.mp3"
+        },
+        {
+          "name": "关于行秋…",
+          "text": "我曾在山林里偶遇过行秋少爷几回，他身边没有飞云商会的伙计跟着，看起来不像在办公事…在那以后他时不时会给我送几本最新出版的志怪小说，请我帮他保守秘密。完了…我是不是不小心说出来了…这下请你帮我们俩都保守住秘密啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/62d032825bbc174d9cdae4e2845c29ca_4397311851880346326.mp3",
+          "audioName": "25关于行秋…_cn.mp3"
+        },
+        {
+          "name": "关于重云…",
+          "text": "有一次我跟着爷爷上门占卦，正巧碰到他从事主家中沮丧离开…我本以为屋里头的情况不容乐观，就连他也无计可施了。可我进屋后并没有感受到任何不妙的气息，爷爷这边得出的也是吉卦…兴许是他费了大功夫，累到没力气说话了。你说他很可能什么都没做？那我就更不懂了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/bd2dd07640419a9d243da1c5ce3de9ca_7325840505542365331.mp3",
+          "audioName": "26关于重云…_cn.mp3"
+        },
+        {
+          "name": "关于嘉明…",
+          "text": "我跟嘉明从小就认识，还记得他小时候是家喻户晓的淘气大魔王，现在完全看不出来？哈哈，也许这就是成长吧，我也跟小时候不太一样呢。但有一点他始终没变——就是走到哪总会带点好吃的在身上，每次回来都不会忘记给家乡朋友带些外地的点心。当然，更不会忘记打包一堆家乡小吃带走…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/d88b1eef5f392fbc9cd19f4373fa8469_7340384780849109287.mp3",
+          "audioName": "27关于嘉明…_cn.mp3"
+        },
+        {
+          "name": "关于七七…",
+          "text": "七七姑娘喜欢小团雀对吗？想用藤皮编一只送给她…你知道她喜欢什么颜色吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/0d55c9aad5f16331e2afef6f47ec189c_6753898733735897679.mp3",
+          "audioName": "28关于七七…_cn.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其一",
+          "text": "先别说话！稍等一下…马上…编完这个把手就好…呼…搞定！嘻嘻别见怪，我脑筋比较简单，一时只能干一件事。但现在可以专心跟你聊天啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/5792a4d634f28790bae0a7d75f374e1e_4965083461832003135.mp3",
+          "audioName": "29想要了解蓝砚·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其二",
+          "text": "要来山里面玩吗？可以和柔柔羊玩躲避头槌，或者让朱喙鹈鹕扮演大嘴巴强盗，在限定时间内从它嘴里解救可怜的玉玉心羽鲈…想玩风行迷踪？你当猎手？哼哼，很自信嘛。好吧，要是你急得打转，我会摇响银铃给你提示的，摸到我的发尖就算你赢，我也是很自信的哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/5f4913a0ed2bda82b2a39e1df4bc086b_4774099064600402503.mp3",
+          "audioName": "30想要了解蓝砚·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其三",
+          "text": "我头上的银饰是「银翎翦玉玄鸟」，是家中祖传的宝贝。银簪、银项圈、胸兜坠是爸爸妈妈给我的庆生礼物…噢，银手镯是有一年海灯节爷爷送的，银耳坠好像是逐月节的礼物…还有庆祝我学会用风之翼送的、庆祝我拿到神之眼送的、庆祝我吃了满满三大碗米饭送的…呵呵，在我们家族的传统里，银器有避邪解毒，护佑平安的作用，所以家人们总会想着法子给我添置…一套行头下来确实很沉呢…是沉甸甸又令人安心的爱哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/82bf259f371c9f5d16a5442f8a7076da_2705255088370561673.mp3",
+          "audioName": "31想要了解蓝砚·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其四",
+          "text": "小时候，家里放的藤人常常让我发怵，该怎么描述好呢…黑黑灰灰的枯草随便一扎，是小孩子看了就会做噩梦的程度！当时我觉得爷爷一定是中邪了，才把我送去跟宗家的姐姐学害人的法术呢！于是半夜壮着胆子，把能找到的藤人统统烧掉了。好在吸收了病气的藤人本来就是要被焚毁的，算是没捅大篓子…从那时我就开始思考，如果把藤人做得可爱一些，是不是就不容易被人误解成歪门邪术了呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/9fa2f4d10bd1258ccafa882e616944a1_2245525459644773790.mp3",
+          "audioName": "32想要了解蓝砚·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其五",
+          "text": "藤编不难的，我真没骗你！再怎么复杂精妙的工艺，也离不开最简单的一行一竖，一经一纬，只要稍微有点耐心都能编出东西来！比起手艺，更难的是「细心」，再难一些，是要有「恒心」…但在我看来这些都不是最关键的，要我说，最最重要的，是「开心」。要是做起来不开心，什么事情都做不好的，我讲的不止是藤编…总之，要开心呀！我也是，你也是！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/6d3fe1fa1fec5443b3ab5985cf1ffaa4_6534596923545150239.mp3",
+          "audioName": "33想要了解蓝砚·其五_cn.mp3"
+        },
+        {
+          "name": "蓝砚的爱好…",
+          "text": "之前我特别想要求证溺鬼的传说，就用棍子伸进闹水鬼的湖里…结果棍子真的被拽住了！水下面全是水草！要是下去游泳不被缠住才怪了…我还听说，日落后不要吃日落果，半夜时分不能对着镜子削苹果，这里头到底有什么依据呢…唔…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/eb0e923fcb3f31a3318cec3f3e1647fe_6022036174969237144.mp3",
+          "audioName": "34蓝砚的爱好…_cn.mp3"
+        },
+        {
+          "name": "蓝砚的烦恼…",
+          "text": "剪毛刺可真累人啊，既费眼睛又费手…把我十个指头都扎了个遍…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/5b20ee04a160966afef05a154c60eced_2982266537259712413.mp3",
+          "audioName": "35蓝砚的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "新鲜的花不仅好看好闻，做成糕饼还很好吃！清新不甜腻，再泡上一壶花茶…唔…走吧，一起去采花？不用找花篮啦，去到山里我现编一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/47eab3ca78d7d316de3edaa01e127895_3002806604470701191.mp3",
+          "audioName": "36喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "「糖也只在开心的时候吃才甜」，没心情的话吃什么都觉得差点意思…嘻嘻，好在这种情况很少发生。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/be2985c2747214eb14c93be91ac951f5_1223183491739848731.mp3",
+          "audioName": "37讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃欸！稍等，我去把珍藏的纯银餐具拿出来，这才配得上这道菜嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/712c47c3f466e6e997c264f568ab7f9f_3970388173687186789.mp3",
+          "audioName": "38收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "噢，谢谢。这里有蘸水哦，蘸着吃更美味。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/e3f7731facd5c69ab9ba1d0830a12dc0_3657548869869259258.mp3",
+          "audioName": "39收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你尝过了？肚子疼吗？眼前有小人在打转吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/0b68f51df9ef1f4d6a5d6de58f6cb7b3_467224329865049511.mp3",
+          "audioName": "40收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "按照家里的传统，生日嘛，总得收点银器傍傍身的。喏，这两个小藤人送你，头上有银燕的是我，拿着小银剑的是你(戴着花的是你)，嘻嘻，像不像？藤草我提前熏制过，挂在背包上可以帮你驱蚊除虫。小银饰样式也是我自己设计的，从银匠师傅手里拿回来后又仔细打磨了边角，绝对不会刮手。那么，祝你生辰快乐，愿福气运气常伴你左右！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/0c22dfca53e04b084c2a9b1912047f70_3593299655377322373.mp3",
+          "audioName": "41生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "等等，我才编了两个结你怎么就…是你太快了还是我太慢了呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b9f9ffc83aa4075509f7fd6f843a9a46_4122402344905315259.mp3",
+          "audioName": "42突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "银器要时常擦拭才能焕发光亮，人果然也要不断磨练才能「身轻如燕」呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/63bb7c7c52c73d44a7e84bb1c23a83f5_3249095365080012797.mp3",
+          "audioName": "43突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "握手~握手~握手~还记得吗？意思是表示开心，表示感谢，表示一切好的事情好的心情。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/61985be6605e76c6edbdc18c5782b6ee_3337837381918382953.mp3",
+          "audioName": "44突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "「燕衔泥，莫与齐」…别小瞧我哟，我的实力一路增长，如今要保护你也算绰绰有余了吧。哎呀，我知道这有不少你的功劳在里头…很感谢你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/8fbccbb85ffb24770aecbc158dfe3279_5740560330461659143.mp3",
+          "audioName": "45突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "翻飞。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/e8cfb9db9221d382ab440efeb6d72493_2535585095163696603.mp3",
+          "audioName": "46元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "穿织。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/324f74a6645562354666c60540c3a75f_2433915891610236963.mp3",
+          "audioName": "47元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "跃风。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/e9a687a54e66f80a23879bee53a3cdc9_7178808807500231693.mp3",
+          "audioName": "48元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "搬疾运厄。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c2e8b6cf68e564da3b27d9642bea302a_4497637295540456144.mp3",
+          "audioName": "49元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "玄燕传喜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/7a0cb047cc3b9ba0bf1c5ddb320b2cb9_103597556396673305.mp3",
+          "audioName": "50元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "漫卷翩翩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/99077d9e1f38c280e76a0c2f37f2ff98_5560133325023713414.mp3",
+          "audioName": "51元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "可以分我一些吗？沾沾喜气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/0c3bd193ac7fa6ceb8d0e428136a43d2_7163419264688125353.mp3",
+          "audioName": "52打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "好消息！你快看里面有什么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/3fd182096c7bc32e8b76a127c5567653_5430530044924393650.mp3",
+          "audioName": "53打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "别急，我来数数…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/ec90df8f7d47cd0897a5d6f26089fc74_3428797324993768153.mp3",
+          "audioName": "54打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "给我点时间…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/1e619a7595f0fe8163c5f14bf0817d5c_1726385527954560054.mp3",
+          "audioName": "55生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "有人帮忙吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/ab0404fb9963476d17ba81a0a30008a0_4932912164720584255.mp3",
+          "audioName": "56生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "难办了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b5ac1d763197ba00103de409233a315d_3177404135092933697.mp3",
+          "audioName": "57生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "不能硬撑了，快撤下来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/f8b52bb65a09327f35fca2355c1476f8_1095765218064808713.mp3",
+          "audioName": "58同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换我来吧，它们抓不住我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/d7b93fdb188e4697d6c29d97440e14dc_1935305706688650509.mp3",
+          "audioName": "59同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "唯独现在…不能倒下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/fc1c686b0a06bfa21065269e15ae26d1_6088481875922037338.mp3",
+          "audioName": "60倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "银铃…不响了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c8224d1fab7b6e3b0b08edab0404f26f_7964053581074678390.mp3",
+          "audioName": "61倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "飞不起来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/27ca2ecc05ffba20fe06f5643965b466_1380508076235833676.mp3",
+          "audioName": "62倒下·其三_cn.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "别。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/68ef9462be5cd7d754b783b0cc29e210_7959287295637408296.mp3",
+          "audioName": "63普通受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不对头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/801f31b7e92839fb9ef2ef2e2d39e5b5_8557776845641130430.mp3",
+          "audioName": "64重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "脾气真差！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/779cf94e2c708f7dd79275a2425d6000_8146375667069337994.mp3",
+          "audioName": "65重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "去哪都行，不去也行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/3637593c2a5ea9a4cf1b3af59245de17_778919931241119147.mp3",
+          "audioName": "66加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "赶街子去喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/9211fd40c568c5f6b330591e68c3b199_5518335986552871422.mp3",
+          "audioName": "67加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "来啦来啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/13a344080193bc2be4c525e148ec8c9a_4253327255964924023.mp3",
+          "audioName": "68加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我是沉玉谷手工艺工会的蓝砚。是想做点摆件、篮子还是花瓶、家具之类的呢？呃，备用的藤枝藤条不多了，得先去山里采一趟…你也想帮忙？嘻嘻，你人真好，我多送你一顶藤编遮阳帽可好？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/d6376731b4501be111b31a9a4be91e59_8428722167224132514.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·每日计划",
+          "text": "今天的计划？嗯…听随当下的心意而动。明天也是，每天都是，嘻嘻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/90f81efde0f12fc4d74ecc453da4eeb6_7506260453209906147.mp3",
+          "audioName": "02闲聊·每日计划_jp.mp3"
+        },
+        {
+          "name": "闲聊·传家宝",
+          "text": "好的藤器经篾薄如绸，纬条细若丝，经久不坏…说它能跟银器一样当传家宝一点都不夸张。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/647d619899e6c0efb1ebf11fe9fba336_8327264932880837671.mp3",
+          "audioName": "03闲聊·传家宝_jp.mp3"
+        },
+        {
+          "name": "闲聊·燕子",
+          "text": "天暖燕子么搭窝窝，升雷扯闪么我家躲。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/99ccffd2fbd2bcf6d458c96025c7c5e0_730383427956835269.mp3",
+          "audioName": "04闲聊·燕子_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "赶不及躲雨了，那——安心淋雨吧，还省了跑步的力气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/19a3e855bc7112da9652e767d5d5b2a7_4578445860527345883.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "呜哇！借、借你手握一会！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/57326bdd2ba26cced2a10ca26aac8ddc_5252139354957957873.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "看，阳光扫到的地方都镀上了一层金欸",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/1dc62fb302ae6f3d1253f9ec2478753f_1102157022857376206.mp3",
+          "audioName": "07阳光很好…_jp.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "听见吗？我头上的银饰叮铃…叮铃…风很温柔呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/380b639c18aaead679798b20f9697cea_7414160847810854965.mp3",
+          "audioName": "08起风的时候…_jp.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "叮叮叮叮叮——风有点生气了啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/577baf4bdd4bd7b2fffbb56f45a049dd_9008084063600837969.mp3",
+          "audioName": "09刮大风了…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "喝点水吗？尝尝我瓶子里的吧，泡薄荷叶子果然是明智的选择呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c980606d11638b68edba107ff8e62347_6023139583623166687.mp3",
+          "audioName": "10在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "被鸟叫吵醒了？哈哈，我去跟它们商量商量，但不一定奏效哦，它们有时也不听我的话。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/07c9c70befb43e8df0389ff46ce7f3a7_2486084604744618996.mp3",
+          "audioName": "11早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "采了些很新鲜的花，我这就带回去给妈妈做好吃的…你也来嘛，我家里人见到你肯定高兴！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/0e33e2b019b2953a159558c8acee2365_8036859599092384506.mp3",
+          "audioName": "12中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "夜市里有碳烤小昆虫！想一起去尝尝吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/f1c1df03ace8d493b792891e02a5c2d5_7766228698007707791.mp3",
+          "audioName": "13晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "我好困…先睡了先睡了，就不陪你熬夜了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/fa64031545d827e7870efa81877992a5_5757624708930619424.mp3",
+          "audioName": "14晚安…_jp.mp3"
+        },
+        {
+          "name": "关于蓝砚自己·幸福感",
+          "text": "幸福感就是…每一口都细嚼慢咽直到吃完碗里最后一粒米，躺在草地上听着耳边的呼呼风声睡午觉，不被打扰地看完整整十册的志怪连载小说！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/508a5a9431759d6a68c260ce4265b218_1393341623384220768.mp3",
+          "audioName": "15关于蓝砚自己·幸福感_jp.mp3"
+        },
+        {
+          "name": "关于蓝砚自己·奇门世家",
+          "text": "那位万象风角灵官在蓝氏的族谱中确有记载，可我家这一脉早已从宗家分枝散叶了。奇门术法纷繁复杂，我也只是学了个皮毛而已，有很多难题我还要向前辈们请教呢…但唯独扎藤人的手艺就连爷爷都要向我看齐，哈哈…这能算一种「独当一面」吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/775d6510d77aa9ae16219769d09ba481_8819445963754121230.mp3",
+          "audioName": "16关于蓝砚自己·奇门世家_jp.mp3"
+        },
+        {
+          "name": "关于我们·握手？",
+          "text": "坐好。朋友。握手~啊不不，我是让小动物们看我，不是叫你坐下啦！快请起来…这句话的意思是「大家看过来哦，今天有一位新朋友跟我们一起玩！」有点难懂吗？唔…「坐好」可以是「先别动」或者「听我说」，也可以是「停下来」…规律吗？哎呀总之你多来山里跟我们玩，自然就懂啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/316f075cefcb850772096a3e5cfc4d19_8908369863346732078.mp3",
+          "audioName": "17关于我们·握手？_jp.mp3"
+        },
+        {
+          "name": "关于我们·握手！",
+          "text": "来呀，握个手，抱一个吧。嗯…？来握手呀？哈哈，这回真的是我想要跟你握手的意思啦！好朋友之间不是这样相互鼓励的吗？对不起哦，怪我没有事先说清楚。但也没关系，我会多去找你玩，这样自然你也懂我我也懂你啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/0ecec83510648db6b67358d6ad97a057_4531514363877562169.mp3",
+          "audioName": "18关于我们·握手！_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "感谢神之眼的助力，我居然能毫不费力地将环刃抛起又稳稳接住…啊，环刃非常锋利，小朋友切勿模仿！但如果是你…要上手试试吗？身要定，臂要稳，手要疾，你的话一定能做到！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/ac4d196f2580e618c1c754b8d111d839_4004913768839210315.mp3",
+          "audioName": "19关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "想吃野蕈真的不能马虎，许多有毒的蕈子根本吃不得。另一些，则必须在处理的时候加工到位，用油炒熟！如果一顿吃不完，第二顿也要再次炒熟炒透，很多人就是在第二次中的招！如果吃两口后看到家里的鸡来找你借火，或者院子里的狗喊你去收衣服了，那么不要犹豫，赶快叫它们带你去看医生吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c306fbe30c2c9e9878ed3f59c9028e97_8138204189973001897.mp3",
+          "audioName": "20有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有一回，我坐在树上编小摆件，伸个懒腰的功夫，刚编的藤制松果就被小松鼠全偷走了！还好后来我用双倍数量的真松果跟它们换回来了…东西被拿走是小事，但破坏小松鼠一天的好心情就不好了！忙活了一天采松果，回家发现是假的！唔…说不定还会被别的小松鼠嘲笑呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/15634c6669eeea64fc23616f2d97c48f_8584971132841517890.mp3",
+          "audioName": "21感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于香菱…",
+          "text": "都说第一印象很重要，在万民堂吃过在璃月港的第一顿饭后，我就后悔了。后悔怎么没有早点来璃月港，这样说不定能早点认识香菱！她听说我老家山里有许多罕见食材后，忙不迭就开始计划来沉玉谷的行程了，到时我一定得让她满载而归。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/d46065aa193ba5927c4cf2fad2b0b0da_5195788334337584712.mp3",
+          "audioName": "22关于香菱…_jp.mp3"
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "胡堂主给人感觉总是嘻嘻哈哈的，哪怕在危急的困境中她都没有忘记说玩笑话来安抚我…我跟她认识的时间不长，她一直都这样乐观积极吗？嗯…不管怎样，至少从今天开始，祝愿她笑的时候是真的很开心，而不是为了不让身边的人担心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/9f728d709fa86ed9dd40395ad60b7c64_1278746088057109559.mp3",
+          "audioName": "23关于胡桃…_jp.mp3"
+        },
+        {
+          "name": "关于刻晴…",
+          "text": "玉衡大人什么时候能闲下来呢？海灯节期间看她东奔西跑忙个不停，也没能找到机会请她吃顿饭，好好感谢她的招待…我还想拜托她帮我梳一对跟她一样的猫猫耳朵呢…会不会很僭越？但直觉告诉我她不会介意欸…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/e0ac240d06af1bb6ad17a400f882dec7_8874685453856160093.mp3",
+          "audioName": "24关于刻晴…_jp.mp3"
+        },
+        {
+          "name": "关于行秋…",
+          "text": "我曾在山林里偶遇过行秋少爷几回，他身边没有飞云商会的伙计跟着，看起来不像在办公事…在那以后他时不时会给我送几本最新出版的志怪小说，请我帮他保守秘密。完了…我是不是不小心说出来了…这下请你帮我们俩都保守住秘密啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/ea98a27f17f37e92c49e7dc19df7663b_8817592705375274499.mp3",
+          "audioName": "25关于行秋…_jp.mp3"
+        },
+        {
+          "name": "关于重云…",
+          "text": "有一次我跟着爷爷上门占卦，正巧碰到他从事主家中沮丧离开…我本以为屋里头的情况不容乐观，就连他也无计可施了。可我进屋后并没有感受到任何不妙的气息，爷爷这边得出的也是吉卦…兴许是他费了大功夫，累到没力气说话了。你说他很可能什么都没做？那我就更不懂了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/1780118dbb67970d77d949accc139ce2_3213747837853084448.mp3",
+          "audioName": "26关于重云…_jp.mp3"
+        },
+        {
+          "name": "关于嘉明…",
+          "text": "我跟嘉明从小就认识，还记得他小时候是家喻户晓的淘气大魔王，现在完全看不出来？哈哈，也许这就是成长吧，我也跟小时候不太一样呢。但有一点他始终没变——就是走到哪总会带点好吃的在身上，每次回来都不会忘记给家乡朋友带些外地的点心。当然，更不会忘记打包一堆家乡小吃带走…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/dd969a46277b6700d5e84e840882d329_6368512921579773390.mp3",
+          "audioName": "27关于嘉明…_jp.mp3"
+        },
+        {
+          "name": "关于七七…",
+          "text": "七七姑娘喜欢小团雀对吗？想用藤皮编一只送给她…你知道她喜欢什么颜色吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/cf76b1b32f73a3e3fbdca169ba03f5a0_1858602286859044574.mp3",
+          "audioName": "28关于七七…_jp.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其一",
+          "text": "先别说话！稍等一下…马上…编完这个把手就好…呼…搞定！嘻嘻别见怪，我脑筋比较简单，一时只能干一件事。但现在可以专心跟你聊天啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/8e76a3b7efdbdfc977c2ec9e070e471a_3064141272418733803.mp3",
+          "audioName": "29想要了解蓝砚·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其二",
+          "text": "要来山里面玩吗？可以和柔柔羊玩躲避头槌，或者让朱喙鹈鹕扮演大嘴巴强盗，在限定时间内从它嘴里解救可怜的玉玉心羽鲈…想玩风行迷踪？你当猎手？哼哼，很自信嘛。好吧，要是你急得打转，我会摇响银铃给你提示的，摸到我的发尖就算你赢，我也是很自信的哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/4d4677712e011c555cf7b7bf0f2b9df5_7266343129379894244.mp3",
+          "audioName": "30想要了解蓝砚·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其三",
+          "text": "我头上的银饰是「银翎翦玉玄鸟」，是家中祖传的宝贝。银簪、银项圈、胸兜坠是爸爸妈妈给我的庆生礼物…噢，银手镯是有一年海灯节爷爷送的，银耳坠好像是逐月节的礼物…还有庆祝我学会用风之翼送的、庆祝我拿到神之眼送的、庆祝我吃了满满三大碗米饭送的…呵呵，在我们家族的传统里，银器有避邪解毒，护佑平安的作用，所以家人们总会想着法子给我添置…一套行头下来确实很沉呢…是沉甸甸又令人安心的爱哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/f2c6c4a61d55e29d6a665bd250604b8c_4498935923284465628.mp3",
+          "audioName": "31想要了解蓝砚·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其四",
+          "text": "小时候，家里放的藤人常常让我发怵，该怎么描述好呢…黑黑灰灰的枯草随便一扎，是小孩子看了就会做噩梦的程度！当时我觉得爷爷一定是中邪了，才把我送去跟宗家的姐姐学害人的法术呢！于是半夜壮着胆子，把能找到的藤人统统烧掉了。好在吸收了病气的藤人本来就是要被焚毁的，算是没捅大篓子…从那时我就开始思考，如果把藤人做得可爱一些，是不是就不容易被人误解成歪门邪术了呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c1087eca836d37310b6b588abe00c4e2_1008542281334358502.mp3",
+          "audioName": "32想要了解蓝砚·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其五",
+          "text": "藤编不难的，我真没骗你！再怎么复杂精妙的工艺，也离不开最简单的一行一竖，一经一纬，只要稍微有点耐心都能编出东西来！比起手艺，更难的是「细心」，再难一些，是要有「恒心」…但在我看来这些都不是最关键的，要我说，最最重要的，是「开心」。要是做起来不开心，什么事情都做不好的，我讲的不止是藤编…总之，要开心呀！我也是，你也是！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b172d86dea0ae7b6efd9722073ecaba3_4381101328682989648.mp3",
+          "audioName": "33想要了解蓝砚·其五_jp.mp3"
+        },
+        {
+          "name": "蓝砚的爱好…",
+          "text": "之前我特别想要求证溺鬼的传说，就用棍子伸进闹水鬼的湖里…结果棍子真的被拽住了！水下面全是水草！要是下去游泳不被缠住才怪了…我还听说，日落后不要吃日落果，半夜时分不能对着镜子削苹果，这里头到底有什么依据呢…唔…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/9fb43000e76c09759634469e979a5d9c_8638001078385750518.mp3",
+          "audioName": "34蓝砚的爱好…_jp.mp3"
+        },
+        {
+          "name": "蓝砚的烦恼…",
+          "text": "剪毛刺可真累人啊，既费眼睛又费手…把我十个指头都扎了个遍…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/dac6de3a823150c7baef1e0a7d190b80_579066085677044283.mp3",
+          "audioName": "35蓝砚的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "新鲜的花不仅好看好闻，做成糕饼还很好吃！清新不甜腻，再泡上一壶花茶…唔…走吧，一起去采花？不用找花篮啦，去到山里我现编一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b20457e2ec8540a012f682080b2151c4_5382890954421797104.mp3",
+          "audioName": "36喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "「糖也只在开心的时候吃才甜」，没心情的话吃什么都觉得差点意思…嘻嘻，好在这种情况很少发生。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/a41f9cf65b1b9ab34816669e268fdcf5_3052669503993551206.mp3",
+          "audioName": "37讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃欸！稍等，我去把珍藏的纯银餐具拿出来，这才配得上这道菜嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/cb9d5a5a4fb46cd0bac3c1d9ab9b6414_4088745440653677234.mp3",
+          "audioName": "38收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "噢，谢谢。这里有蘸水哦，蘸着吃更美味。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b082994152e20c1fdfa045c77f06ce29_5642553540185558771.mp3",
+          "audioName": "39收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你尝过了？肚子疼吗？眼前有小人在打转吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b32fc47a82c46cfbf296a5b0bee757d3_2557959062105849624.mp3",
+          "audioName": "40收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "按照家里的传统，生日嘛，总得收点银器傍傍身的。喏，这两个小藤人送你，头上有银燕的是我，拿着小银剑的是你(戴着花的是你)，嘻嘻，像不像？藤草我提前熏制过，挂在背包上可以帮你驱蚊除虫。小银饰样式也是我自己设计的，从银匠师傅手里拿回来后又仔细打磨了边角，绝对不会刮手。那么，祝你生辰快乐，愿福气运气常伴你左右！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/74da49d33b8e1150deaa0428092179f9_6561573783030351209.mp3",
+          "audioName": "41生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "等等，我才编了两个结你怎么就…是你太快了还是我太慢了呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/1158479cc5c72c7666c8f038dfd9d8fd_839330508980143232.mp3",
+          "audioName": "42突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "银器要时常擦拭才能焕发光亮，人果然也要不断磨练才能「身轻如燕」呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c39e2af23229f2c747b6543ebbf9bdd7_886775778267380266.mp3",
+          "audioName": "43突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "握手~握手~握手~还记得吗？意思是表示开心，表示感谢，表示一切好的事情好的心情。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/8082e8f9180c69e84e97e6375cd83eca_7214194055371822.mp3",
+          "audioName": "44突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "「燕衔泥，莫与齐」…别小瞧我哟，我的实力一路增长，如今要保护你也算绰绰有余了吧。哎呀，我知道这有不少你的功劳在里头…很感谢你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c3721cb01b0c279d88b108c2c83719a6_5074113559517933505.mp3",
+          "audioName": "45突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "翻飞。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/566f1ed509c75df0c9b4aa6aed9a548a_224929970408321342.mp3",
+          "audioName": "46元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "穿织。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/6a940f7fc0ec962de7716bf5ed526166_6556758861343974001.mp3",
+          "audioName": "47元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "跃风。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/368ade0661b18302ced8fc45bf20f059_8121263747618186930.mp3",
+          "audioName": "48元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "搬疾运厄。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/87596ec2f482249fd6b802ade3c9e70f_9091868859039063592.mp3",
+          "audioName": "49元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "玄燕传喜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c50c18e673a54867928b861c00da4910_7191565762543314561.mp3",
+          "audioName": "50元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "漫卷翩翩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/91b0cded6b2952d7ba636f0f4d5bacf1_6551388604511066030.mp3",
+          "audioName": "51元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "可以分我一些吗？沾沾喜气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/e953e4b18430ee6ac13e9c52e666bea5_1579324857202534232.mp3",
+          "audioName": "52打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "好消息！你快看里面有什么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/aebd1887bb000c5f7123571f4b9ab962_8475544054466357547.mp3",
+          "audioName": "53打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "别急，我来数数…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/444a603094fed091969310f52371fdec_6184619737728237298.mp3",
+          "audioName": "54打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "给我点时间…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/3034eaee21283ea911e3d6340cb8c16b_1648767841838431172.mp3",
+          "audioName": "55生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "有人帮忙吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/cc2d906a051a41935b595127c5518bf0_3119932888458018034.mp3",
+          "audioName": "56生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "难办了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/f26b3c5ff18c7ac31bb48faf0128a954_7867165390809671892.mp3",
+          "audioName": "57生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "不能硬撑了，快撤下来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/683270a04a3635e03a105f3925682b58_340632321381738602.mp3",
+          "audioName": "58同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换我来吧，它们抓不住我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/feb10a750ef5f6ec96b7f513f7d2fbfd_1819200277536682710.mp3",
+          "audioName": "59同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "唯独现在…不能倒下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/a69afc118b328157b8828810ab8c7c0b_359685935824964617.mp3",
+          "audioName": "60倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "银铃…不响了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/4b83e9dd0ee6c5f241ab522295bc57b1_4361773831499154796.mp3",
+          "audioName": "61倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "飞不起来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/d52b58b5c1f5e27586be3f4762c38b07_4619500013993107357.mp3",
+          "audioName": "62倒下·其三_jp.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "别。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/3034d81c2d962c5424136aa80587a573_9053761664482773459.mp3",
+          "audioName": "63普通受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不对头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/153bfa74183d7067f300b27172103b0c_937888244278832147.mp3",
+          "audioName": "64重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "脾气真差！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/7f94cf6d9f965b59ba5d359ed08c8970_5711328198164446418.mp3",
+          "audioName": "65重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "去哪都行，不去也行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/f23a9b1b4f125b8b630cb2ba0b166563_5888041656734545375.mp3",
+          "audioName": "66加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "赶街子去喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/e45f22f00d50cebd161cc96255f5c003_5095877392523647738.mp3",
+          "audioName": "67加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "来啦来啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/a6284878f5472ebc80c0a79aeb6c1f61_4874047597872498835.mp3",
+          "audioName": "68加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我是沉玉谷手工艺工会的蓝砚。是想做点摆件、篮子还是花瓶、家具之类的呢？呃，备用的藤枝藤条不多了，得先去山里采一趟…你也想帮忙？嘻嘻，你人真好，我多送你一顶藤编遮阳帽可好？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/89fadce4e2bd0fbe9632702d51d4fc26_2594311533343067837.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·每日计划",
+          "text": "今天的计划？嗯…听随当下的心意而动。明天也是，每天都是，嘻嘻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/10889bf8124c72e85b6ce27a1483698c_8441223087750777380.mp3",
+          "audioName": "02闲聊·每日计划_en.mp3"
+        },
+        {
+          "name": "闲聊·传家宝",
+          "text": "好的藤器经篾薄如绸，纬条细若丝，经久不坏…说它能跟银器一样当传家宝一点都不夸张。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/39ea0a9db3160f5deb76ba13923b421a_888569881625765892.mp3",
+          "audioName": "03闲聊·传家宝_en.mp3"
+        },
+        {
+          "name": "闲聊·燕子",
+          "text": "天暖燕子么搭窝窝，升雷扯闪么我家躲。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/5c6dc23de996090c557a3e9e5bf87a40_5285519613084689933.mp3",
+          "audioName": "04闲聊·燕子_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "赶不及躲雨了，那——安心淋雨吧，还省了跑步的力气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/aca94f33cede294d3b628eecf9f03ee6_2673827937365935113.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "呜哇！借、借你手握一会！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c9297e89fb2263b4ac7fe8fa98c8c4bb_837173059415800251.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "看，阳光扫到的地方都镀上了一层金欸",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/8c371d7447347a7f31fc5df65effadcc_4876197643228119026.mp3",
+          "audioName": "07阳光很好…_en.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "听见吗？我头上的银饰叮铃…叮铃…风很温柔呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/4290a4b6675bc83411a5114c59ceaced_7158629202931980588.mp3",
+          "audioName": "08起风的时候…_en.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "叮叮叮叮叮——风有点生气了啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/cfb5b2787d710e13256779affbf23f2e_4925256346301385712.mp3",
+          "audioName": "09刮大风了…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "喝点水吗？尝尝我瓶子里的吧，泡薄荷叶子果然是明智的选择呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/7961e09e83b8cd18b7a25f76f0344d03_741508605560474598.mp3",
+          "audioName": "10在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "被鸟叫吵醒了？哈哈，我去跟它们商量商量，但不一定奏效哦，它们有时也不听我的话。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b9b333caa70b1f86783c5dd33265abb3_4595744319830174565.mp3",
+          "audioName": "11早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "采了些很新鲜的花，我这就带回去给妈妈做好吃的…你也来嘛，我家里人见到你肯定高兴！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/8782f368e2c05ec621b3fa2e7dbafbbc_1858951367713347730.mp3",
+          "audioName": "12中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "夜市里有碳烤小昆虫！想一起去尝尝吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/bbb7dd0ecc5266170455bb3def7d3410_2339195810105788616.mp3",
+          "audioName": "13晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "我好困…先睡了先睡了，就不陪你熬夜了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/22fa261b15fddc17f5c2c0e8a1c2348f_9216375635679803296.mp3",
+          "audioName": "14晚安…_en.mp3"
+        },
+        {
+          "name": "关于蓝砚自己·幸福感",
+          "text": "幸福感就是…每一口都细嚼慢咽直到吃完碗里最后一粒米，躺在草地上听着耳边的呼呼风声睡午觉，不被打扰地看完整整十册的志怪连载小说！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/2222aa1cfd0ec9f94d8b5ddeec689cf0_3769533121038376952.mp3",
+          "audioName": "15关于蓝砚自己·幸福感_en.mp3"
+        },
+        {
+          "name": "关于蓝砚自己·奇门世家",
+          "text": "那位万象风角灵官在蓝氏的族谱中确有记载，可我家这一脉早已从宗家分枝散叶了。奇门术法纷繁复杂，我也只是学了个皮毛而已，有很多难题我还要向前辈们请教呢…但唯独扎藤人的手艺就连爷爷都要向我看齐，哈哈…这能算一种「独当一面」吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/7fe027f495078368fb2f5c83a100bb7b_4269112602610389253.mp3",
+          "audioName": "16关于蓝砚自己·奇门世家_en.mp3"
+        },
+        {
+          "name": "关于我们·握手？",
+          "text": "坐好。朋友。握手~啊不不，我是让小动物们看我，不是叫你坐下啦！快请起来…这句话的意思是「大家看过来哦，今天有一位新朋友跟我们一起玩！」有点难懂吗？唔…「坐好」可以是「先别动」或者「听我说」，也可以是「停下来」…规律吗？哎呀总之你多来山里跟我们玩，自然就懂啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/2131e5d4a1d2ceaa1a5563cadadc7532_6166481808955607994.mp3",
+          "audioName": "17关于我们·握手？_en.mp3"
+        },
+        {
+          "name": "关于我们·握手！",
+          "text": "来呀，握个手，抱一个吧。嗯…？来握手呀？哈哈，这回真的是我想要跟你握手的意思啦！好朋友之间不是这样相互鼓励的吗？对不起哦，怪我没有事先说清楚。但也没关系，我会多去找你玩，这样自然你也懂我我也懂你啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/3c7620f17e3cd237ad376e200f2b9d6f_2446290083093389531.mp3",
+          "audioName": "18关于我们·握手！_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "感谢神之眼的助力，我居然能毫不费力地将环刃抛起又稳稳接住…啊，环刃非常锋利，小朋友切勿模仿！但如果是你…要上手试试吗？身要定，臂要稳，手要疾，你的话一定能做到！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/4d02642de10fd6bad4dfd0bbae4dd637_80830139575934950.mp3",
+          "audioName": "19关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "想吃野蕈真的不能马虎，许多有毒的蕈子根本吃不得。另一些，则必须在处理的时候加工到位，用油炒熟！如果一顿吃不完，第二顿也要再次炒熟炒透，很多人就是在第二次中的招！如果吃两口后看到家里的鸡来找你借火，或者院子里的狗喊你去收衣服了，那么不要犹豫，赶快叫它们带你去看医生吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/2c6944611afe5ef94db72618c27dcf95_5490951726953925411.mp3",
+          "audioName": "20有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有一回，我坐在树上编小摆件，伸个懒腰的功夫，刚编的藤制松果就被小松鼠全偷走了！还好后来我用双倍数量的真松果跟它们换回来了…东西被拿走是小事，但破坏小松鼠一天的好心情就不好了！忙活了一天采松果，回家发现是假的！唔…说不定还会被别的小松鼠嘲笑呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/a8564b865e2e6226232f4f4d111c7070_8956117957710826862.mp3",
+          "audioName": "21感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于香菱…",
+          "text": "都说第一印象很重要，在万民堂吃过在璃月港的第一顿饭后，我就后悔了。后悔怎么没有早点来璃月港，这样说不定能早点认识香菱！她听说我老家山里有许多罕见食材后，忙不迭就开始计划来沉玉谷的行程了，到时我一定得让她满载而归。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/e4f53183a5aadd435f86142f75f4a501_5948713244539180035.mp3",
+          "audioName": "22关于香菱…_en.mp3"
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "胡堂主给人感觉总是嘻嘻哈哈的，哪怕在危急的困境中她都没有忘记说玩笑话来安抚我…我跟她认识的时间不长，她一直都这样乐观积极吗？嗯…不管怎样，至少从今天开始，祝愿她笑的时候是真的很开心，而不是为了不让身边的人担心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/ff7f1a8a4a70f2eff5b16eb6bf256e73_2383975223905179400.mp3",
+          "audioName": "23关于胡桃…_en.mp3"
+        },
+        {
+          "name": "关于刻晴…",
+          "text": "玉衡大人什么时候能闲下来呢？海灯节期间看她东奔西跑忙个不停，也没能找到机会请她吃顿饭，好好感谢她的招待…我还想拜托她帮我梳一对跟她一样的猫猫耳朵呢…会不会很僭越？但直觉告诉我她不会介意欸…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/4435085a668140e658eaca412299e8a2_4112311438328894576.mp3",
+          "audioName": "24关于刻晴…_en.mp3"
+        },
+        {
+          "name": "关于行秋…",
+          "text": "我曾在山林里偶遇过行秋少爷几回，他身边没有飞云商会的伙计跟着，看起来不像在办公事…在那以后他时不时会给我送几本最新出版的志怪小说，请我帮他保守秘密。完了…我是不是不小心说出来了…这下请你帮我们俩都保守住秘密啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/a2e5efa9c6633eaabb60f79edec0a01c_8872632193371095214.mp3",
+          "audioName": "25关于行秋…_en.mp3"
+        },
+        {
+          "name": "关于重云…",
+          "text": "有一次我跟着爷爷上门占卦，正巧碰到他从事主家中沮丧离开…我本以为屋里头的情况不容乐观，就连他也无计可施了。可我进屋后并没有感受到任何不妙的气息，爷爷这边得出的也是吉卦…兴许是他费了大功夫，累到没力气说话了。你说他很可能什么都没做？那我就更不懂了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/635689da615eab142de255a65a9146ca_6405104922411835711.mp3",
+          "audioName": "26关于重云…_en.mp3"
+        },
+        {
+          "name": "关于嘉明…",
+          "text": "我跟嘉明从小就认识，还记得他小时候是家喻户晓的淘气大魔王，现在完全看不出来？哈哈，也许这就是成长吧，我也跟小时候不太一样呢。但有一点他始终没变——就是走到哪总会带点好吃的在身上，每次回来都不会忘记给家乡朋友带些外地的点心。当然，更不会忘记打包一堆家乡小吃带走…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/44b9c3ad9f225180624c4a7e96641a29_9128102270721760049.mp3",
+          "audioName": "27关于嘉明…_en.mp3"
+        },
+        {
+          "name": "关于七七…",
+          "text": "七七姑娘喜欢小团雀对吗？想用藤皮编一只送给她…你知道她喜欢什么颜色吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/56694b52f832e24a3a7da790febf5b6b_8031766592354142453.mp3",
+          "audioName": "28关于七七…_en.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其一",
+          "text": "先别说话！稍等一下…马上…编完这个把手就好…呼…搞定！嘻嘻别见怪，我脑筋比较简单，一时只能干一件事。但现在可以专心跟你聊天啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/68e0ddfd76bd2e0f2bfdd56f1e698746_6492605053138550375.mp3",
+          "audioName": "29想要了解蓝砚·其一_en.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其二",
+          "text": "要来山里面玩吗？可以和柔柔羊玩躲避头槌，或者让朱喙鹈鹕扮演大嘴巴强盗，在限定时间内从它嘴里解救可怜的玉玉心羽鲈…想玩风行迷踪？你当猎手？哼哼，很自信嘛。好吧，要是你急得打转，我会摇响银铃给你提示的，摸到我的发尖就算你赢，我也是很自信的哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/6e6ae991b5bd5d58ba79999ec3d66582_2895494481868392046.mp3",
+          "audioName": "30想要了解蓝砚·其二_en.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其三",
+          "text": "我头上的银饰是「银翎翦玉玄鸟」，是家中祖传的宝贝。银簪、银项圈、胸兜坠是爸爸妈妈给我的庆生礼物…噢，银手镯是有一年海灯节爷爷送的，银耳坠好像是逐月节的礼物…还有庆祝我学会用风之翼送的、庆祝我拿到神之眼送的、庆祝我吃了满满三大碗米饭送的…呵呵，在我们家族的传统里，银器有避邪解毒，护佑平安的作用，所以家人们总会想着法子给我添置…一套行头下来确实很沉呢…是沉甸甸又令人安心的爱哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/1f615945721d137cf1335a305072c545_8393943679997554898.mp3",
+          "audioName": "31想要了解蓝砚·其三_en.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其四",
+          "text": "小时候，家里放的藤人常常让我发怵，该怎么描述好呢…黑黑灰灰的枯草随便一扎，是小孩子看了就会做噩梦的程度！当时我觉得爷爷一定是中邪了，才把我送去跟宗家的姐姐学害人的法术呢！于是半夜壮着胆子，把能找到的藤人统统烧掉了。好在吸收了病气的藤人本来就是要被焚毁的，算是没捅大篓子…从那时我就开始思考，如果把藤人做得可爱一些，是不是就不容易被人误解成歪门邪术了呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c8fc9eb072ea37ee0de0a16e3c88e143_8824233155873085476.mp3",
+          "audioName": "32想要了解蓝砚·其四_en.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其五",
+          "text": "藤编不难的，我真没骗你！再怎么复杂精妙的工艺，也离不开最简单的一行一竖，一经一纬，只要稍微有点耐心都能编出东西来！比起手艺，更难的是「细心」，再难一些，是要有「恒心」…但在我看来这些都不是最关键的，要我说，最最重要的，是「开心」。要是做起来不开心，什么事情都做不好的，我讲的不止是藤编…总之，要开心呀！我也是，你也是！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b21112ec7a587f3a3fc803fc0fbb788e_5128132497592888004.mp3",
+          "audioName": "33想要了解蓝砚·其五_en.mp3"
+        },
+        {
+          "name": "蓝砚的爱好…",
+          "text": "之前我特别想要求证溺鬼的传说，就用棍子伸进闹水鬼的湖里…结果棍子真的被拽住了！水下面全是水草！要是下去游泳不被缠住才怪了…我还听说，日落后不要吃日落果，半夜时分不能对着镜子削苹果，这里头到底有什么依据呢…唔…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/d85f82429c8e48baea5f015438b4f418_3201687824033942739.mp3",
+          "audioName": "34蓝砚的爱好…_en.mp3"
+        },
+        {
+          "name": "蓝砚的烦恼…",
+          "text": "剪毛刺可真累人啊，既费眼睛又费手…把我十个指头都扎了个遍…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/6a7103f339f28e92146a53c613faa0a7_1846209310008177298.mp3",
+          "audioName": "35蓝砚的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "新鲜的花不仅好看好闻，做成糕饼还很好吃！清新不甜腻，再泡上一壶花茶…唔…走吧，一起去采花？不用找花篮啦，去到山里我现编一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/42d0baae265dc34a79a57ba2ab8c439d_8372171600132126761.mp3",
+          "audioName": "36喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "「糖也只在开心的时候吃才甜」，没心情的话吃什么都觉得差点意思…嘻嘻，好在这种情况很少发生。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/0317033c9910a6b154536b0e140badf0_6298560426889598299.mp3",
+          "audioName": "37讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃欸！稍等，我去把珍藏的纯银餐具拿出来，这才配得上这道菜嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/4b3c18aca1534581dfb7e6de9c5a0501_8947861259836383847.mp3",
+          "audioName": "38收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "噢，谢谢。这里有蘸水哦，蘸着吃更美味。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/153fe5213cd93a4bd53256b9f7a9683d_3972140959716388300.mp3",
+          "audioName": "39收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你尝过了？肚子疼吗？眼前有小人在打转吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/098962329f0e77c8ee89ebd28e0808e4_2046580611383899722.mp3",
+          "audioName": "40收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "按照家里的传统，生日嘛，总得收点银器傍傍身的。喏，这两个小藤人送你，头上有银燕的是我，拿着小银剑的是你(戴着花的是你)，嘻嘻，像不像？藤草我提前熏制过，挂在背包上可以帮你驱蚊除虫。小银饰样式也是我自己设计的，从银匠师傅手里拿回来后又仔细打磨了边角，绝对不会刮手。那么，祝你生辰快乐，愿福气运气常伴你左右！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/808c4f0ae41d53d5ef44f543bd4ef75a_6299973611091969932.mp3",
+          "audioName": "41生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "等等，我才编了两个结你怎么就…是你太快了还是我太慢了呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/36e4247b4ff405100285a17a4ffdaf06_3856336278901510685.mp3",
+          "audioName": "42突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "银器要时常擦拭才能焕发光亮，人果然也要不断磨练才能「身轻如燕」呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/7b3913a87e3aedc8b2cb43a9957c1d02_2672180841033246031.mp3",
+          "audioName": "43突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "握手~握手~握手~还记得吗？意思是表示开心，表示感谢，表示一切好的事情好的心情。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/f911022e67183b882dc5dafed60d6362_2562252334064241349.mp3",
+          "audioName": "44突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "「燕衔泥，莫与齐」…别小瞧我哟，我的实力一路增长，如今要保护你也算绰绰有余了吧。哎呀，我知道这有不少你的功劳在里头…很感谢你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/51489893072c5da0dcfd4b50f00d1104_1839221198343542796.mp3",
+          "audioName": "45突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "翻飞。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/347c85d8a292d3778f54119f390fbc55_3273299609088428612.mp3",
+          "audioName": "46元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "穿织。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/cb2a4bdcc13f242762f4773b8d6dfac7_8883578521266844752.mp3",
+          "audioName": "47元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "跃风。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/a6f8cda0d76dde19fa96c57d3a788c17_2638781304020863237.mp3",
+          "audioName": "48元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "搬疾运厄。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/1f57a2cce8c5f2606f5ec6be8b873893_3326596323439992948.mp3",
+          "audioName": "49元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "玄燕传喜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/a3e336c3f6266f2c869b87b411d9854f_1366655165220673421.mp3",
+          "audioName": "50元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "漫卷翩翩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/d50d9d8ee0fe209804a12b17bf494416_1009364160774796390.mp3",
+          "audioName": "51元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "可以分我一些吗？沾沾喜气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/2e1c6ee243dfa13ef9f24d52a2feed87_4624162012322755753.mp3",
+          "audioName": "52打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "好消息！你快看里面有什么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/012331a6bcc0e80bcab5057d129aebe2_4837851002022112811.mp3",
+          "audioName": "53打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "别急，我来数数…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/7729021d7cf79c403f3a9e34c17cdf7d_8515574360417661280.mp3",
+          "audioName": "54打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "给我点时间…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/e1bb3b1006aebe2d05d06e5661d16db3_1882298545816875159.mp3",
+          "audioName": "55生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "有人帮忙吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/902c0e8a0cc68c782273e7962d02c1a1_9100342878877579042.mp3",
+          "audioName": "56生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "难办了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/02ec32c3a5db70ad4d2a557d8a0d82a6_6757380304299296405.mp3",
+          "audioName": "57生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "不能硬撑了，快撤下来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/f56004a5353ed51ef88ede57abde85b9_5067421485073330691.mp3",
+          "audioName": "58同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换我来吧，它们抓不住我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/502f8560b69001b160d40cf7c93ee2e3_9170346259717326142.mp3",
+          "audioName": "59同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "唯独现在…不能倒下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/9fa88f09ad9087a3b21f74b2a355743b_3135547020986297344.mp3",
+          "audioName": "60倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "银铃…不响了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/58175bd26d1203ec648176c0a76b5d32_4599846996595300445.mp3",
+          "audioName": "61倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "飞不起来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/06a8f7c1f32bfb71070310582b268296_1629764267811777416.mp3",
+          "audioName": "62倒下·其三_en.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "别。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c8100e190dd961187f06982ddf28a5ce_2790106427455753096.mp3",
+          "audioName": "63普通受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不对头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/20934bb6ef990b32e59e42578694fd4b_2821056173933162278.mp3",
+          "audioName": "64重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "脾气真差！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/0004a3753cee180a6374b1a8a0145655_1663125693624944238.mp3",
+          "audioName": "65重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "去哪都行，不去也行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/af3363cbd67c86c25d19caf58dbd252f_4958303242202997860.mp3",
+          "audioName": "66加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "赶街子去喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/72c5c0983bccb83ae46d4f133a87bde9_869816153827240715.mp3",
+          "audioName": "67加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "来啦来啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/e8b9dddb55d636cb0715ab4ec33d2342_2599208616386398170.mp3",
+          "audioName": "68加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我是沉玉谷手工艺工会的蓝砚。是想做点摆件、篮子还是花瓶、家具之类的呢？呃，备用的藤枝藤条不多了，得先去山里采一趟…你也想帮忙？嘻嘻，你人真好，我多送你一顶藤编遮阳帽可好？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/aed96701beb4e5ed86a35c86a473a2ce_8173896270943236816.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·每日计划",
+          "text": "今天的计划？嗯…听随当下的心意而动。明天也是，每天都是，嘻嘻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/178568fab91bcfbfa45f5d7d689b9301_1672350668167506564.mp3",
+          "audioName": "02闲聊·每日计划_kr.mp3"
+        },
+        {
+          "name": "闲聊·传家宝",
+          "text": "好的藤器经篾薄如绸，纬条细若丝，经久不坏…说它能跟银器一样当传家宝一点都不夸张。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b2b8576a79064a61b3e86f5b2d04800f_8138171247049405409.mp3",
+          "audioName": "03闲聊·传家宝_kr.mp3"
+        },
+        {
+          "name": "闲聊·燕子",
+          "text": "天暖燕子么搭窝窝，升雷扯闪么我家躲。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/0f0915416552b0997b71358fe6bac6b3_3709115549872733925.mp3",
+          "audioName": "04闲聊·燕子_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "赶不及躲雨了，那——安心淋雨吧，还省了跑步的力气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/3294f19f7dd8179056b83c38ab051383_1427216990424398071.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "呜哇！借、借你手握一会！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/f7d2e927be66b51be06734aeabac101a_7850619181283922467.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "看，阳光扫到的地方都镀上了一层金欸",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/a0a466c4ca76da0eab6ca951522fbf01_3844125228741575852.mp3",
+          "audioName": "07阳光很好…_kr.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "听见吗？我头上的银饰叮铃…叮铃…风很温柔呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/f2a38cde8a1c966f72b210cf10abd5c9_118049297799651218.mp3",
+          "audioName": "08起风的时候…_kr.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "叮叮叮叮叮——风有点生气了啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/65a1481849020632f9906bf321fe08b1_2578967902411294323.mp3",
+          "audioName": "09刮大风了…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "喝点水吗？尝尝我瓶子里的吧，泡薄荷叶子果然是明智的选择呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/4a5d77d7654d2799a793947940df8548_5908940203611805879.mp3",
+          "audioName": "10在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "被鸟叫吵醒了？哈哈，我去跟它们商量商量，但不一定奏效哦，它们有时也不听我的话。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/9e12c90ba1b4cb50013bcc07df87696b_146747948421578304.mp3",
+          "audioName": "11早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "采了些很新鲜的花，我这就带回去给妈妈做好吃的…你也来嘛，我家里人见到你肯定高兴！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b76ba2da38c7c604a598a16d1554905e_2077453037378804743.mp3",
+          "audioName": "12中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "夜市里有碳烤小昆虫！想一起去尝尝吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/7235d65355d436dac288a4763463f817_2267079967743465410.mp3",
+          "audioName": "13晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "我好困…先睡了先睡了，就不陪你熬夜了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/a862550e03abbc1f5591e5d416bc62a4_8550795900065638461.mp3",
+          "audioName": "14晚安…_kr.mp3"
+        },
+        {
+          "name": "关于蓝砚自己·幸福感",
+          "text": "幸福感就是…每一口都细嚼慢咽直到吃完碗里最后一粒米，躺在草地上听着耳边的呼呼风声睡午觉，不被打扰地看完整整十册的志怪连载小说！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/d2a79f7162cd0f5d70499cf1684a8f94_4173779449721930402.mp3",
+          "audioName": "15关于蓝砚自己·幸福感_kr.mp3"
+        },
+        {
+          "name": "关于蓝砚自己·奇门世家",
+          "text": "那位万象风角灵官在蓝氏的族谱中确有记载，可我家这一脉早已从宗家分枝散叶了。奇门术法纷繁复杂，我也只是学了个皮毛而已，有很多难题我还要向前辈们请教呢…但唯独扎藤人的手艺就连爷爷都要向我看齐，哈哈…这能算一种「独当一面」吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/2b29680d3a89a41f2404f96270c7a2a8_1142123108516002406.mp3",
+          "audioName": "16关于蓝砚自己·奇门世家_kr.mp3"
+        },
+        {
+          "name": "关于我们·握手？",
+          "text": "坐好。朋友。握手~啊不不，我是让小动物们看我，不是叫你坐下啦！快请起来…这句话的意思是「大家看过来哦，今天有一位新朋友跟我们一起玩！」有点难懂吗？唔…「坐好」可以是「先别动」或者「听我说」，也可以是「停下来」…规律吗？哎呀总之你多来山里跟我们玩，自然就懂啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/4ddc44d80752da57fcd07fd9ac9b6b01_6164126828905518528.mp3",
+          "audioName": "17关于我们·握手？_kr.mp3"
+        },
+        {
+          "name": "关于我们·握手！",
+          "text": "来呀，握个手，抱一个吧。嗯…？来握手呀？哈哈，这回真的是我想要跟你握手的意思啦！好朋友之间不是这样相互鼓励的吗？对不起哦，怪我没有事先说清楚。但也没关系，我会多去找你玩，这样自然你也懂我我也懂你啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/3adb12ad73375b0c9f7c23ad751d8691_6465722006909016086.mp3",
+          "audioName": "18关于我们·握手！_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "感谢神之眼的助力，我居然能毫不费力地将环刃抛起又稳稳接住…啊，环刃非常锋利，小朋友切勿模仿！但如果是你…要上手试试吗？身要定，臂要稳，手要疾，你的话一定能做到！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/54d4bd3bcdb78eeb8eb5e6fe9089f19a_2330263503428125826.mp3",
+          "audioName": "19关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "想吃野蕈真的不能马虎，许多有毒的蕈子根本吃不得。另一些，则必须在处理的时候加工到位，用油炒熟！如果一顿吃不完，第二顿也要再次炒熟炒透，很多人就是在第二次中的招！如果吃两口后看到家里的鸡来找你借火，或者院子里的狗喊你去收衣服了，那么不要犹豫，赶快叫它们带你去看医生吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/fe7971a53d55d5d0aa353331e9e380f4_8550981989907150474.mp3",
+          "audioName": "20有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有一回，我坐在树上编小摆件，伸个懒腰的功夫，刚编的藤制松果就被小松鼠全偷走了！还好后来我用双倍数量的真松果跟它们换回来了…东西被拿走是小事，但破坏小松鼠一天的好心情就不好了！忙活了一天采松果，回家发现是假的！唔…说不定还会被别的小松鼠嘲笑呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/6324c4a811acfbf7eefbda6959211a44_104413874801779219.mp3",
+          "audioName": "21感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于香菱…",
+          "text": "都说第一印象很重要，在万民堂吃过在璃月港的第一顿饭后，我就后悔了。后悔怎么没有早点来璃月港，这样说不定能早点认识香菱！她听说我老家山里有许多罕见食材后，忙不迭就开始计划来沉玉谷的行程了，到时我一定得让她满载而归。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/f755a785870e9806fc47b22b340b055f_8525385287137017332.mp3",
+          "audioName": "22关于香菱…_kr.mp3"
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "胡堂主给人感觉总是嘻嘻哈哈的，哪怕在危急的困境中她都没有忘记说玩笑话来安抚我…我跟她认识的时间不长，她一直都这样乐观积极吗？嗯…不管怎样，至少从今天开始，祝愿她笑的时候是真的很开心，而不是为了不让身边的人担心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/35efb4a2519945da4cf85f90b6106401_3563853882486253356.mp3",
+          "audioName": "23关于胡桃…_kr.mp3"
+        },
+        {
+          "name": "关于刻晴…",
+          "text": "玉衡大人什么时候能闲下来呢？海灯节期间看她东奔西跑忙个不停，也没能找到机会请她吃顿饭，好好感谢她的招待…我还想拜托她帮我梳一对跟她一样的猫猫耳朵呢…会不会很僭越？但直觉告诉我她不会介意欸…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/edf48cb7e7306f646272f49e2a852947_645396079987142026.mp3",
+          "audioName": "24关于刻晴…_kr.mp3"
+        },
+        {
+          "name": "关于行秋…",
+          "text": "我曾在山林里偶遇过行秋少爷几回，他身边没有飞云商会的伙计跟着，看起来不像在办公事…在那以后他时不时会给我送几本最新出版的志怪小说，请我帮他保守秘密。完了…我是不是不小心说出来了…这下请你帮我们俩都保守住秘密啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b15783a885a21db55b201cfb3fbf8125_4790251603930378955.mp3",
+          "audioName": "25关于行秋…_kr.mp3"
+        },
+        {
+          "name": "关于重云…",
+          "text": "有一次我跟着爷爷上门占卦，正巧碰到他从事主家中沮丧离开…我本以为屋里头的情况不容乐观，就连他也无计可施了。可我进屋后并没有感受到任何不妙的气息，爷爷这边得出的也是吉卦…兴许是他费了大功夫，累到没力气说话了。你说他很可能什么都没做？那我就更不懂了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/90e1bb6ec3bd36839cfabf2587900add_7096591177672616154.mp3",
+          "audioName": "26关于重云…_kr.mp3"
+        },
+        {
+          "name": "关于嘉明…",
+          "text": "我跟嘉明从小就认识，还记得他小时候是家喻户晓的淘气大魔王，现在完全看不出来？哈哈，也许这就是成长吧，我也跟小时候不太一样呢。但有一点他始终没变——就是走到哪总会带点好吃的在身上，每次回来都不会忘记给家乡朋友带些外地的点心。当然，更不会忘记打包一堆家乡小吃带走…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/334c87317fb9dac157086474aaff45fc_6684034881377491429.mp3",
+          "audioName": "27关于嘉明…_kr.mp3"
+        },
+        {
+          "name": "关于七七…",
+          "text": "七七姑娘喜欢小团雀对吗？想用藤皮编一只送给她…你知道她喜欢什么颜色吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/b26e8fc2deb9b9da416c8ac45cc3cc23_7248640962321520825.mp3",
+          "audioName": "28关于七七…_kr.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其一",
+          "text": "先别说话！稍等一下…马上…编完这个把手就好…呼…搞定！嘻嘻别见怪，我脑筋比较简单，一时只能干一件事。但现在可以专心跟你聊天啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/bfbf3ccf28f6c83a3723a173f1d72f07_2674316760438355896.mp3",
+          "audioName": "29想要了解蓝砚·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其二",
+          "text": "要来山里面玩吗？可以和柔柔羊玩躲避头槌，或者让朱喙鹈鹕扮演大嘴巴强盗，在限定时间内从它嘴里解救可怜的玉玉心羽鲈…想玩风行迷踪？你当猎手？哼哼，很自信嘛。好吧，要是你急得打转，我会摇响银铃给你提示的，摸到我的发尖就算你赢，我也是很自信的哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c26ed05dd1ca243387e06a875015483d_5281084414725601471.mp3",
+          "audioName": "30想要了解蓝砚·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其三",
+          "text": "我头上的银饰是「银翎翦玉玄鸟」，是家中祖传的宝贝。银簪、银项圈、胸兜坠是爸爸妈妈给我的庆生礼物…噢，银手镯是有一年海灯节爷爷送的，银耳坠好像是逐月节的礼物…还有庆祝我学会用风之翼送的、庆祝我拿到神之眼送的、庆祝我吃了满满三大碗米饭送的…呵呵，在我们家族的传统里，银器有避邪解毒，护佑平安的作用，所以家人们总会想着法子给我添置…一套行头下来确实很沉呢…是沉甸甸又令人安心的爱哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/8926672e3f8469913c1c891faaa04a98_4527762260813811786.mp3",
+          "audioName": "31想要了解蓝砚·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其四",
+          "text": "小时候，家里放的藤人常常让我发怵，该怎么描述好呢…黑黑灰灰的枯草随便一扎，是小孩子看了就会做噩梦的程度！当时我觉得爷爷一定是中邪了，才把我送去跟宗家的姐姐学害人的法术呢！于是半夜壮着胆子，把能找到的藤人统统烧掉了。好在吸收了病气的藤人本来就是要被焚毁的，算是没捅大篓子…从那时我就开始思考，如果把藤人做得可爱一些，是不是就不容易被人误解成歪门邪术了呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/d9f293f5b22750ad7f7e6b659f58b692_1788368750948036526.mp3",
+          "audioName": "32想要了解蓝砚·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解蓝砚·其五",
+          "text": "藤编不难的，我真没骗你！再怎么复杂精妙的工艺，也离不开最简单的一行一竖，一经一纬，只要稍微有点耐心都能编出东西来！比起手艺，更难的是「细心」，再难一些，是要有「恒心」…但在我看来这些都不是最关键的，要我说，最最重要的，是「开心」。要是做起来不开心，什么事情都做不好的，我讲的不止是藤编…总之，要开心呀！我也是，你也是！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c394e1ff809e35025d14de4e8e7a2c88_3251086916957981878.mp3",
+          "audioName": "33想要了解蓝砚·其五_kr.mp3"
+        },
+        {
+          "name": "蓝砚的爱好…",
+          "text": "之前我特别想要求证溺鬼的传说，就用棍子伸进闹水鬼的湖里…结果棍子真的被拽住了！水下面全是水草！要是下去游泳不被缠住才怪了…我还听说，日落后不要吃日落果，半夜时分不能对着镜子削苹果，这里头到底有什么依据呢…唔…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/bfb2214e9f71fe977182c6a937a3fdd4_3546218460259124027.mp3",
+          "audioName": "34蓝砚的爱好…_kr.mp3"
+        },
+        {
+          "name": "蓝砚的烦恼…",
+          "text": "剪毛刺可真累人啊，既费眼睛又费手…把我十个指头都扎了个遍…呜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/66013c6a37a05afdcc0774afed6248c4_4993193737615052611.mp3",
+          "audioName": "35蓝砚的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "新鲜的花不仅好看好闻，做成糕饼还很好吃！清新不甜腻，再泡上一壶花茶…唔…走吧，一起去采花？不用找花篮啦，去到山里我现编一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/5d7c186326dc2068edb7cc1712697242_4187312674404901407.mp3",
+          "audioName": "36喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "「糖也只在开心的时候吃才甜」，没心情的话吃什么都觉得差点意思…嘻嘻，好在这种情况很少发生。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/1d725bd3f96cc84152f7fec5392e0f01_699430971066673047.mp3",
+          "audioName": "37讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃欸！稍等，我去把珍藏的纯银餐具拿出来，这才配得上这道菜嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/6ab9bdeefb1e6b60fa2c497aa8ec8594_1325527053184073560.mp3",
+          "audioName": "38收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "噢，谢谢。这里有蘸水哦，蘸着吃更美味。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/bc99d0339ad15c30a44bea9d90d9fd48_940873400210493567.mp3",
+          "audioName": "39收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你尝过了？肚子疼吗？眼前有小人在打转吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c9ba5f24f8bb93f14b3eaf346a0e511b_6913970395024362805.mp3",
+          "audioName": "40收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "按照家里的传统，生日嘛，总得收点银器傍傍身的。喏，这两个小藤人送你，头上有银燕的是我，拿着小银剑的是你(戴着花的是你)，嘻嘻，像不像？藤草我提前熏制过，挂在背包上可以帮你驱蚊除虫。小银饰样式也是我自己设计的，从银匠师傅手里拿回来后又仔细打磨了边角，绝对不会刮手。那么，祝你生辰快乐，愿福气运气常伴你左右！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/7189e9dbedf75e5e81433205e07bc247_5534319062647529551.mp3",
+          "audioName": "41生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "等等，我才编了两个结你怎么就…是你太快了还是我太慢了呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/42d19240d05d88fafd30d4d755e16b1e_4820997032537361954.mp3",
+          "audioName": "42突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "银器要时常擦拭才能焕发光亮，人果然也要不断磨练才能「身轻如燕」呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c2af295a883288e9d26753c99c368d33_1370852852129131053.mp3",
+          "audioName": "43突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "握手~握手~握手~还记得吗？意思是表示开心，表示感谢，表示一切好的事情好的心情。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/07f83f504661fe7f24812b7cd32e5323_6725120310949976320.mp3",
+          "audioName": "44突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "「燕衔泥，莫与齐」…别小瞧我哟，我的实力一路增长，如今要保护你也算绰绰有余了吧。哎呀，我知道这有不少你的功劳在里头…很感谢你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/00e47b74c74086dc337a53ea75c37761_1271445505925230372.mp3",
+          "audioName": "45突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "翻飞。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/18bd1cce36341d0a8a200146d0ddbcc9_1926663499259083815.mp3",
+          "audioName": "46元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "穿织。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/06ec98c57bf6d1a1fd2694428b723e03_1010407364001435007.mp3",
+          "audioName": "47元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "跃风。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/8a51ffa36323eccadbdb306d753b4be9_3879763194611062983.mp3",
+          "audioName": "48元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "搬疾运厄。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/cfeea540eeda203265b9cad256984fff_1876788915513009068.mp3",
+          "audioName": "49元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "玄燕传喜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/05b8832650a5c8dfb3230b2b2c9d3fbe_6025404349743473984.mp3",
+          "audioName": "50元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "漫卷翩翩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/daf39d00b3ea209333aec6e7e9f1e4c0_1650372115863385182.mp3",
+          "audioName": "51元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "可以分我一些吗？沾沾喜气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/fbaaf96e65f9e045d7467787f7d1261a_8294130710953731142.mp3",
+          "audioName": "52打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "好消息！你快看里面有什么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/41f58ccb1bff9b1397738ad1e4127bc4_3895250273514974833.mp3",
+          "audioName": "53打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "别急，我来数数…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/154f9d3cffe247339575851a071b1ee3_6444339738238765384.mp3",
+          "audioName": "54打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "给我点时间…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/ea177a01bf24c83cc41d5552fdd56b24_6281891111832535194.mp3",
+          "audioName": "55生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "有人帮忙吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/ae73063c02567d9b6df45d2ea686ece6_2236891135802202982.mp3",
+          "audioName": "56生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "难办了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/2e236a168c1bdca5e3546f99a0be3311_6604678193033674870.mp3",
+          "audioName": "57生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "不能硬撑了，快撤下来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/c0965fb7f519a9efc67b641d1df9e734_3752092007680733606.mp3",
+          "audioName": "58同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换我来吧，它们抓不住我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/3bd138457ebdd61678ed8ec2ac30b737_7778594273812943858.mp3",
+          "audioName": "59同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "唯独现在…不能倒下…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/36a4eecea7a88da810eddc85123b530e_8802916471832564387.mp3",
+          "audioName": "60倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "银铃…不响了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/59887ddf5f1bcea6fba976bf44abaf9d_6946265480663955721.mp3",
+          "audioName": "61倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "飞不起来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/8ae1a2da031a98f04bfa11e72aff6f96_7522019467330882606.mp3",
+          "audioName": "62倒下·其三_kr.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "别。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/62fc46a984123eb5b2554814a73f6e16_8013514398123357483.mp3",
+          "audioName": "63普通受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不对头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/12bef1b7a69feae13566ec19cea713d5_1419721259552842689.mp3",
+          "audioName": "64重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "脾气真差！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/7358e194805110817c0856a06a0cd890_7390354254235386188.mp3",
+          "audioName": "65重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "去哪都行，不去也行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/04b504d8bd2c5e6a0ffdb56d4788f284_5564405602456275436.mp3",
+          "audioName": "66加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "赶街子去喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/1fe4cf59de84906597ba0b6a605c8ecb_5155487258592530661.mp3",
+          "audioName": "67加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "来啦来啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/24/16576950/9b15ac6fa10fff50d55a3b4893582581_2730404016934738844.mp3",
+          "audioName": "68加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

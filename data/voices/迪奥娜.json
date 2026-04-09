@@ -1,0 +1,1949 @@
+{
+  "id": "1221",
+  "name": "迪奥娜",
+  "alias": [
+    "迪奥娜"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "「猫尾酒馆」的招牌调酒师，迪奥娜，我的出场费可是很贵的。唔？你居然…不是为了酒才来的？哼，那你的邀请…我就勉为其难地接受了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b97d77a74e3165ea1299da2d1ed4b281_7524635538492759122.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·放松",
+          "text": "哈~~好舒服，身体都变得更柔软了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f3cd1d3ef73b165338dd17c8e91139a5_8737047332265467574.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·思考",
+          "text": "蜥蜴尾巴、胡椒、星螺…还差点什么才能调出「难喝到头脑炸裂的酒」呢？呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6909c8b3e12c6531da95b9722c70539b_7558146913384068931.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·等待",
+          "text": "才，才没有在等你。我只是，正好在休息而已！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/97da8f63ae98f2ac0785041b7b37f44f_857157649985978477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "呜呜…讨厌下雨…去屋子里吧。唔，只是因为弄干衣服很麻烦！才不是什么怕水呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af1f97d1eba2da0ff6d718e1bb1d8001_4471183749957627733.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "欸？！…我没有在发抖！没有！…呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6b57ab882bbaef31ca44700cee569fab_6321935859457411165.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候·玩雪",
+          "text": "这个凉飕飕的触感，哇…好棒，好有趣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/28c0214e1008a9f23850ac7dcc020f03_4146023545322484918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候·观雪",
+          "text": "白茫茫的雪在风里跳舞，真好看呢。嗯…我旁边的座位还空着，没人坐哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/17b4e527e0ddafae7132ce8d2144c213_819293689167563200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "走喽，晒太阳…你不去我可就自己去了哦…唔，最后一次机会！走不走！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a7bfa5d0b56e03ad5ae10138bb98a6ee_5917360353073943213.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早，把橱柜里那罐腌泥鳅递给我一下——好咧，我要开始摧毁蒙德酒业啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/259577e23889fae974695d02a3b68802_8543735477817357751.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好·异响",
+          "text": "咕噜噜…嗯？没有！你什么都没有听到！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/644486e28ad2a49c34cff25ccd10bfe8_6132175315672799261.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好·罐头",
+          "text": "这个鱼肉罐头是我好不容易省下来的，别，别看啦！最多…最多只能给你尝一口。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dc3db4ff2dc55b7d8d7f1b91c7e349f2_5452314678826503162.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "失败了…又失败了…大家都喝得好开心，呜…别安慰我，我才不需要安慰…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c15720cb0b8f770f54f317970ea324fa_3060349672821824908.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你没有猫的夜视能力，走夜路不要紧吧？要我护送你的话…欸，有灯啊？…谁，谁要护送你啦，快点走快点走。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9dede144cca85d1681f23bca91a8d716_5457371443767491628.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪奥娜自己…",
+          "text": "耳朵和尾巴才不是什么装饰，是「凯茨莱茵家族」血统的象征，真是少见多怪。呃…你、你把手伸过来干什么？这个…唔…好吧，耳朵的话可以让你摸一下…但是尾巴、尾巴绝对不可以！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a6d6bd0c153f240ee1c1074803a99a2e_4287832909764086989.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·饮料",
+          "text": "想喝无酒精饮料？难倒是不难，但是没有意义！无论成功还是失败，都和摧毁蒙德酒业的目标没有关联。我才不会做呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2f55f7ffa2a2737a2c12480c3f19ca49_1374285550037116537.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·贵宾渠道",
+          "text": "喏，这个是「了不起的夏日梦幻忧郁珊瑚气泡茶」，只是因为最近无聊才做的。热门产品？排队抢购？你在说什么呢，我可没听见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/404ead1e47a55c2e092da50a4a88d18a_7502315670482353366.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·聊天需要",
+          "text": "唔…要是，要是你感觉孤单了，我可以随便陪你聊聊天。我还是知道很多事情的哦！也是很好的…那个叫什么，说话对象哦。没错没错！来跟我，多说说话吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/225888f3edf8d76551f6f9a14bfcc8d1_618751536240045498.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·好奇心",
+          "text": "是什么是什么？你拿着的是什么？快给我看看！说不定丢到酒里能做出相当难喝的…啊，什么嘛，原来只是长得奇怪了点的蘑菇而已呀，真无趣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ce779a7808b859c5d9a3bd6a36d8bd80_114468642059547961.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·遗传",
+          "text": "问我的「神之眼」是怎么来的？哼，是、呃…是凯茨莱茵的家族遗传！唔？杜拉夫先生根本没有神之眼？欸——露馅了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/79e08e43d1e032305b1574a4cfed8eb2_7240491368548008293.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·来历",
+          "text": "为什么非得告诉你啦，哼！算了，看在你一直追问的份上，看在…看在我们是朋友的份上。那次我爸爸外出打猎，差点出大事，在大雨中，我脑袋里想的全部事情就是要找到他，救出他…好了啦，满意了吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d0ebb35bb9d1875df510cd253993c615_1760230548771081952.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "龙脊雪山上，会不会长着奇珍异草呢。「拥有致命的苦味」或者「沾到一点就嘴巴发麻」这样？要拔好多下来！然后…嘿嘿嘿…嚯嚯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c2dfe6faf66d301d07a48771739e41b0_8991978412074125707.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我扑…捕捉蝴蝶的技巧可是一流的。喂，不是啦！抓蝴蝶是为了加进酒里做出难吃的味道，不要把我当成猫啦！喵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/22ac66b4ff0976a56dd50de5fb425c4a_6897022049411742029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "那个…迪卢克，是我最讨厌的人！没有迪卢克就不会有蒙德酒业，没有蒙德酒业爸爸就不会喝酒，爸爸不喝酒就…就会陪我了，哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/801f0ecd8c417261024b402a35820ab5_1663684667447263880.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "为什么连我的「护卫队长」也是个令人讨厌的酒鬼啦！就是那个，说起话来总是笑盈盈的家伙！喝起酒来一杯接一杯的，没完没了。呼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e6a663a50e1fb80ae84e23311b98c66e_3199752159761058798.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "温迪？不太熟的样子。但说到吟游诗人，就是那伙会给酒鬼们唱歌助兴的人吧。那就不喜欢！不喜欢不喜欢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/70b5dcd721df03cfd750111cb850084d_1033975988465469336.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉小姐的粉丝们，都是大哥哥大姐姐…好羡慕，为什么我的粉丝都是一群大叔呢。呜…可恶，哼，不想了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e50de566b2183031d99002677ff0557e_3326598760389609778.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴啊，骑士团的代理团长，嗯…难得一个不喝酒的成熟大人…但总感觉认真过了头，骑士团的大家对我有些过度保护了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cb6cf3f4dc79d7056d4df015b0c4d4cf_4111612201172665819.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "首席炼金术士大人？唔…我这种一直调出好酒的体质，他会知道破解的方法么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9693b4d264a389f221ca577ff0d6c7a3_2441299000339748454.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎姐姐，很和善对吧，很温柔对吧？但是，这样的姐姐也经常喝酒！呜呜呜…这是为什么啦…蒙德城已经没救了吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/39a095a00dd00dcbd4a9881b61423e06_5433868384030395084.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "我向香菱讨过一份「口感搭配特别糟糕的食物组合」，据说是她亲自实践下来的，绝对难吃什么的…没用，完全没用。「续杯」两个字已经听到猫耳朵都生茧了！呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e8dc6c986d39a00269c9002ec026d649_8693407154390949933.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "可莉每次来找我玩的时候，我都只好把她带去离酒馆远一点的地方。酒和炸弹…实在是太危险了！就算我想摧毁蒙德酒业，也得用堂堂正正的方式。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c12fb54b40ef7729738eaec6a8765fd6_7976187585138607589.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于父亲…",
+          "text": "爸爸是我最尊敬的人！爸爸是最厉害的人！但是…喝了酒的爸爸，唔——果然还是要早点终结蒙德的酒业！没时间闲聊啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c4c8a1618be1e197e29401d66c313a10_7837325430860967012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其一",
+          "text": "「调酒师」可是很忙的！即使不在酒馆工作，也要抽出时间来收集配方。所以，所以没有要紧事情的话，就不要来打搅我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/abfbb2dd9fc49c33447c7dc6af2dfb1c_7148690783278786415.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其二",
+          "text": "你不会…也像那些讨厌的酒鬼一样要我学猫咪叫吧？不会的，绝对不会的！我才不是什么抖抖耳朵伸伸懒腰的宠物！我可是…可是…「酒业杀手」！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3123923eaa8b20417c8081046a90301a_5965990571211438652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其三",
+          "text": "你问我…为什么「酒业杀手」变成了「猫尾酒馆」的招牌…？你，你是故意这样问的吧！就是想看我的笑话。呜，坏人！再也不给你调喝的了，水也不给！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cf9d3cc7d66c87d1c40bba44c48e9296_102990664162996649.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其四",
+          "text": "别再惹我了啊，我宽容大度，但也不好欺负！我警告你，我生起气来可是会咬人的！喵！虽然不一定舍得咬你…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7c553a141698deb4a14b76f3f51cd34b_990505768500769073.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其五",
+          "text": "我和你…已经成为好朋友了，对吧。我隐约记得…我以前也有过这样一个朋友，但我不确定那是不是梦…\n\n把你的手给我。啊呜，唔…暖和的。这样就好，不要变成梦走了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/63c50e772ff0cebfe1f4b4b42f95ab4a_5334716858154855225.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪奥娜的爱好…",
+          "text": "我喜欢打猎，追捕猎物可是我的强项！但爸爸说野外情况瞬息万变，只有跟着可靠的大人一起，才能深入森林。你…算是可靠的大人吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/51d2af5021e9c197340e2a3d4b3cc619_8693449526688272750.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪奥娜的烦恼…",
+          "text": "嗯…到底怎样才能调出难喝的酒呢…连我给予厚望的噩梦搭配——「酱油牛奶绝云椒椒配蒲公英籽特调」都被说成是「小迪奥娜又有进步了」，呜…我不会认输的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/488e5a4b67d4eefd4faff1f1cb17e0e8_3893980647861675454.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢吃鱼！作为主食的鱼…爸爸做的鱼！但是…不要作为下酒菜，那是对鱼的亵渎！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af7295512198781ab8963d32b129e5c9_7105262620827139907.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "胡萝卜、土豆、洋葱、番茄…这些味道都不太喜欢。我，我可不是吃素的啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/846045fedf209133226ffc573d82e7fc_463113783320000683.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃…我，我就随便问一下哦，下次还有吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/193184494a684f494f0dde4f21fde54d_5577693008725271638.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你可别指望我尝了点甜头，就会来蹭你…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/7229aaf2c510990ab787ccf6ed375a8a_1648599710991229067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "喂…你是把我当成路边的野猫了吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8ffb0c58866189e78a2664e444bb99cf_8899531688340322456.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "炸鱼，配上这个我特别调制的酱料，给你。\n\n…没有加奇怪的东西！我认真调味的手艺才不会差呢，先尝过才可以说话。\n\n哼…这才对嘛…唔，那个，生日快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8dd2384f51245b4877e278850e8cadd_4683502984995824482.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "猫的眼睛，看得见黑暗中的一切猎物！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3ad2f8f2efb7d8623d71c61beea44ed3_4083414758529615878.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "猫的耳朵，听得见地上最细微的脚步声。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5664bcf47eb5d0b8a8e04fb2896d446_1840779030779343160.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "猫的四肢，爬得上全提瓦特最高的树。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0e4e24ffc44bf2b7acf6bd0749fb1261_5868480629626385012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "猫的鼻子，闻得出熟悉的、喜欢的人的…唔？！是你听错了！我怎么可能说出那种话…呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0703f9cc73128b6d912f5787fe39b6ca_2820101774725408273.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "嘿…呀！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c8957da6bdb00e4cc9214c4196896d6e_8909463390919842781.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "咻咻——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/35377e6fd74bec736cb5b6a340a40cf1_1354787969362394355.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "目标确认。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/16ae79522421ff06147793dc765868ef_2705103321544410812.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "攻守兼备。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7ca2b2764de15dfd420596f94912e4e5_2852573879330184521.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "抓到你了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a713940ec30c0fc183a665f2df6e611e_2527807126549937680.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "我可不好欺负！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5e79a39696abd2053403c31d28e8133_1638052640656164646.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "迪奥娜特调！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cfd8ba633281fb2dec321b4a14c1c794_8605718590608111118.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "贪杯的下场…哼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cfb471d6a861dee60de4709fc3fff7fa_4265724225113063086.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "反省吧，酒鬼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dbe9513339d856acdaeb6abdb83ea66a_3755366477316496403.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "唔，来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f3dcc1bb2f4d94639031ce57103882ad_7501515480847206013.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "出发，出发！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/25e06272b32276d7084e9eb940aee996_8275694336587495873.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺结束·其一",
+          "text": "呼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4aa5a2bfac4429267ecf66fcdb69d88d_6864393286576139677.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺结束·其二",
+          "text": "哈唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2a54f74f2907cb9cb4a8aebfec049b98_35997208684437493.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "飞起来喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b295f325f04d8ff5a29bd7170789ace3_7577177808263442050.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "让酒变难喝的材料啊，出现吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/31be04de2dfc084e3497e2bed5d1c0fb_2746588498394718276.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "亮晶晶的…想要…扑过去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3b062e25464059898cc0567c14e930bc_3457365089863590476.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "宝箱里有些什么，我很好奇！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ceeee05a40051c737e260501228dd9e3_8919173799501545697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我不会认输…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ca9dbb405a6954ab234318a5593b5772_2056355320668086163.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "喵…喵…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/718bec2ca482fd49ab594973f4006e8e_2381459100141942783.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "胜负还没分呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f505e31198dc99bc5bbc96279e51bf6e_8699092804429839669.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "太乱来啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/821e2418f74171ccd3e1ef4e74421e4f_2674196127613485817.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "去休息去休息！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8aeb9dca98e22465eb2e9920fcc4d5fa_6052150688389467435.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "酒的味道…好臭…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/63ca2ed4b2150bcfa43eb208dd7058b3_8737163725469198135.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "泉水精灵…不要走…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1f41aade1cbe20be8371057c78a0460c_8422882501412628524.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "眼睛…睁不开了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e2cddaf215a8018bd7bd6c558c91727b_4249195626198424027.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "没躲开…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c06c82bd62aa89b8f1f2488f70e7fe7f_1783777336024158997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "从哪里来的？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/759798ba4385f74a6a00b9726471a06a_8729471017844809947.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "狩猎开始！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/25fe3616eefcb3ae249efcb594781d1c_2204481721290218203.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "果然需要我出手嘛！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9e7cbe3a462d788fc9cb8eb618962827_5764198785886772777.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "哼，就包在我身上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/10b56b174d00388c4af360fc64db56d9_1209807533034358053.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "「猫尾酒馆」的招牌调酒师，迪奥娜，我的出场费可是很贵的。唔？你居然…不是为了酒才来的？哼，那你的邀请…我就勉为其难地接受了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ce4165de32f8b66f154b37c00ee5efcf_659197835465336054.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·放松",
+          "text": "哈~~好舒服，身体都变得更柔软了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6711665f7b49a73097e4dec87c34606c_7200977453296595631.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·思考",
+          "text": "蜥蜴尾巴、胡椒、星螺…还差点什么才能调出「难喝到头脑炸裂的酒」呢？呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0f9167d3b8e23263883f05ad5fa35f20_3045845480285407088.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·等待",
+          "text": "才，才没有在等你。我只是，正好在休息而已！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/732823e0b7508a11e8ff4af74dfbde88_2484480471837538833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "呜呜…讨厌下雨…去屋子里吧。唔，只是因为弄干衣服很麻烦！才不是什么怕水呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e8e27c19292543b11904e159dd262245_5164930632638338232.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "欸？！…我没有在发抖！没有！…呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1a9c4835bd0b168a89dc2491d889f498_4991551425390261633.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候·玩雪",
+          "text": "这个凉飕飕的触感，哇…好棒，好有趣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/87952345f39d0a6e03fb6bb96331f3ec_6456349440647084373.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候·观雪",
+          "text": "白茫茫的雪在风里跳舞，真好看呢。嗯…我旁边的座位还空着，没人坐哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1786bedd27e0a08949924f4d5a45757a_3375615908549939986.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "走喽，晒太阳…你不去我可就自己去了哦…唔，最后一次机会！走不走！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/698a2970ccfff918fc8072942e3a8b17_4705505734573869115.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早，把橱柜里那罐腌泥鳅递给我一下——好咧，我要开始摧毁蒙德酒业啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/65ea02d73f765a52446c9576c17ccd8f_8613270222383169404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好·异响",
+          "text": "咕噜噜…嗯？没有！你什么都没有听到！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1279ed4e4e3ce7d18b94b80eda2eae62_5036704432242499390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好·罐头",
+          "text": "这个鱼肉罐头是我好不容易省下来的，别，别看啦！最多…最多只能给你尝一口。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/57e1b00fe6d8e254b033e65d2d112b2d_6515647535497290486.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "失败了…又失败了…大家都喝得好开心，呜…别安慰我，我才不需要安慰…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2ca12106b090f983c2c68de3994fd499_6575627117455621382.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你没有猫的夜视能力，走夜路不要紧吧？要我护送你的话…欸，有灯啊？…谁，谁要护送你啦，快点走快点走。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af918a6d14c1778fd4983635543c059a_8719105177864846978.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪奥娜自己…",
+          "text": "耳朵和尾巴才不是什么装饰，是「凯茨莱茵家族」血统的象征，真是少见多怪。呃…你、你把手伸过来干什么？这个…唔…好吧，耳朵的话可以让你摸一下…但是尾巴、尾巴绝对不可以！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0515c6dbaaf0fb44a5070e85fcc922e2_3124622343493432833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·饮料",
+          "text": "想喝无酒精饮料？难倒是不难，但是没有意义！无论成功还是失败，都和摧毁蒙德酒业的目标没有关联。我才不会做呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/375dd6951675d503774c901bebda2d77_122104412913672367.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·贵宾渠道",
+          "text": "喏，这个是「了不起的夏日梦幻忧郁珊瑚气泡茶」，只是因为最近无聊才做的。热门产品？排队抢购？你在说什么呢，我可没听见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eda65f6c75c69faa7c7de0573e2345a5_5472483926004494813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·聊天需要",
+          "text": "唔…要是，要是你感觉孤单了，我可以随便陪你聊聊天。我还是知道很多事情的哦！也是很好的…那个叫什么，说话对象哦。没错没错！来跟我，多说说话吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4fe4c5a48cb07b01b76499764dee508c_7925031068413579441.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·好奇心",
+          "text": "是什么是什么？你拿着的是什么？快给我看看！说不定丢到酒里能做出相当难喝的…啊，什么嘛，原来只是长得奇怪了点的蘑菇而已呀，真无趣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/385be3ecfcf5a765091a1d97ed37064a_6913770234076878702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·遗传",
+          "text": "问我的「神之眼」是怎么来的？哼，是、呃…是凯茨莱茵的家族遗传！唔？杜拉夫先生根本没有神之眼？欸——露馅了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9e0741978def9d1724f8a2c32a5a15f4_9178455236722199317.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·来历",
+          "text": "为什么非得告诉你啦，哼！算了，看在你一直追问的份上，看在…看在我们是朋友的份上。那次我爸爸外出打猎，差点出大事，在大雨中，我脑袋里想的全部事情就是要找到他，救出他…好了啦，满意了吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/acf50014d885fbe6aeb6b2cb0b14db0a_1554231171488215458.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "龙脊雪山上，会不会长着奇珍异草呢。「拥有致命的苦味」或者「沾到一点就嘴巴发麻」这样？要拔好多下来！然后…嘿嘿嘿…嚯嚯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5e18aaf28be85cb64307905f26390c6a_3312618205709246797.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我扑…捕捉蝴蝶的技巧可是一流的。喂，不是啦！抓蝴蝶是为了加进酒里做出难吃的味道，不要把我当成猫啦！喵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/79d1265ff1b305a1bc3e5ce297dd8c8e_9064395872290680692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "那个…迪卢克，是我最讨厌的人！没有迪卢克就不会有蒙德酒业，没有蒙德酒业爸爸就不会喝酒，爸爸不喝酒就…就会陪我了，哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/97d023fbb4e10fc340dcbd808f8cad2a_6842628416497938331.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "为什么连我的「护卫队长」也是个令人讨厌的酒鬼啦！就是那个，说起话来总是笑盈盈的家伙！喝起酒来一杯接一杯的，没完没了。呼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c14e0416181da87c66bc61d301a40038_667110782886151463.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "温迪？不太熟的样子。但说到吟游诗人，就是那伙会给酒鬼们唱歌助兴的人吧。那就不喜欢！不喜欢不喜欢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e99c7fd4f7bef0481b6047961cd87aa8_8760937894705665718.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉小姐的粉丝们，都是大哥哥大姐姐…好羡慕，为什么我的粉丝都是一群大叔呢。呜…可恶，哼，不想了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d30b6f3c89653523cc13590b9aa5baf0_7046309404037297272.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴啊，骑士团的代理团长，嗯…难得一个不喝酒的成熟大人…但总感觉认真过了头，骑士团的大家对我有些过度保护了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f3162a60c38ac53416f9b64133d8fa9c_4343090051340959891.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "首席炼金术士大人？唔…我这种一直调出好酒的体质，他会知道破解的方法么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a0471c5328e8bae99a081193ea950d5_3478566771287350045.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎姐姐，很和善对吧，很温柔对吧？但是，这样的姐姐也经常喝酒！呜呜呜…这是为什么啦…蒙德城已经没救了吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/092f5604b19663749f84fa582329c5ec_6382239737098704742.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "我向香菱讨过一份「口感搭配特别糟糕的食物组合」，据说是她亲自实践下来的，绝对难吃什么的…没用，完全没用。「续杯」两个字已经听到猫耳朵都生茧了！呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de1fa081b5e6b625f1fbf51ec9eb3e1b_8664064138920785898.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "可莉每次来找我玩的时候，我都只好把她带去离酒馆远一点的地方。酒和炸弹…实在是太危险了！就算我想摧毁蒙德酒业，也得用堂堂正正的方式。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fc5088c803d517f27d4f42203c641bcc_7346011729499790561.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于父亲…",
+          "text": "爸爸是我最尊敬的人！爸爸是最厉害的人！但是…喝了酒的爸爸，唔——果然还是要早点终结蒙德的酒业！没时间闲聊啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ad323f02e67a85a2730500fce74b259d_4842157219055158087.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其一",
+          "text": "「调酒师」可是很忙的！即使不在酒馆工作，也要抽出时间来收集配方。所以，所以没有要紧事情的话，就不要来打搅我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5d4728d6a5e8be9b2b0a7cf821a1d660_1987580359505740616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其二",
+          "text": "你不会…也像那些讨厌的酒鬼一样要我学猫咪叫吧？不会的，绝对不会的！我才不是什么抖抖耳朵伸伸懒腰的宠物！我可是…可是…「酒业杀手」！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7794a25cea8f876e1779b4a2889d69ea_128912218249064262.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其三",
+          "text": "你问我…为什么「酒业杀手」变成了「猫尾酒馆」的招牌…？你，你是故意这样问的吧！就是想看我的笑话。呜，坏人！再也不给你调喝的了，水也不给！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/563f1c13a26694ca9bb7d4604b6829cc_3569687941090221923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其四",
+          "text": "别再惹我了啊，我宽容大度，但也不好欺负！我警告你，我生起气来可是会咬人的！喵！虽然不一定舍得咬你…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7c6a87aa84344dc3efce34ac973ca672_5535561547153998019.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其五",
+          "text": "我和你…已经成为好朋友了，对吧。我隐约记得…我以前也有过这样一个朋友，但我不确定那是不是梦…\n\n把你的手给我。啊呜，唔…暖和的。这样就好，不要变成梦走了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eccedd9f73fc6f6c8a26d563e9d99bed_4095218585989038498.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪奥娜的爱好…",
+          "text": "我喜欢打猎，追捕猎物可是我的强项！但爸爸说野外情况瞬息万变，只有跟着可靠的大人一起，才能深入森林。你…算是可靠的大人吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c2468f5e1542e9e3ab66d28e7fdd1382_6844755394234968997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪奥娜的烦恼…",
+          "text": "嗯…到底怎样才能调出难喝的酒呢…连我给予厚望的噩梦搭配——「酱油牛奶绝云椒椒配蒲公英籽特调」都被说成是「小迪奥娜又有进步了」，呜…我不会认输的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d9f55fc710fb69930fe2f7c2f2c58483_5982328917081866868.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢吃鱼！作为主食的鱼…爸爸做的鱼！但是…不要作为下酒菜，那是对鱼的亵渎！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7adadb70daa961c9f90200ee1a43b49b_368640885891035028.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "胡萝卜、土豆、洋葱、番茄…这些味道都不太喜欢。我，我可不是吃素的啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/61ec05b143253263b62f83e99022b6c1_4370610325824404484.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃…我，我就随便问一下哦，下次还有吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/dae6c5ff8c1c4f518e9110bd9f0e8d35_7976337265546259302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你可别指望我尝了点甜头，就会来蹭你…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2c3edd76c595a420aa64909c34ace88c_5482835814539574919.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "喂…你是把我当成路边的野猫了吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/4beb0a083d6780282f5f7948468707ac_5026738808993864091.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "炸鱼，配上这个我特别调制的酱料，给你。\n\n…没有加奇怪的东西！我认真调味的手艺才不会差呢，先尝过才可以说话。\n\n哼…这才对嘛…唔，那个，生日快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e7d335ffa231c6a6f01698cbb3d2aff7_671972998069212813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "猫的眼睛，看得见黑暗中的一切猎物！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0d16c4b8736ba94a4abbb5c0728121f6_2353297501856612195.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "猫的耳朵，听得见地上最细微的脚步声。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/99a58ec08a2866503e85becda412399d_6632804173050812461.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "猫的四肢，爬得上全提瓦特最高的树。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a4e2141617ab49196dd2729294e38875_6668064110069406904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "猫的鼻子，闻得出熟悉的、喜欢的人的…唔？！是你听错了！我怎么可能说出那种话…呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9a3696a9b3a7767896d38d537981d896_4897144988160905040.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "嘿…呀！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/199b8171a1811a21354e301982388f7f_5864537350732343833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "咻咻——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eea319eb9557166d8dd590ca359cac7e_580080683953942472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "目标确认。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0d5028bd14024b977500c32514132eb4_3205286805307190733.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "攻守兼备。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f02f07bd4aebc1d4a716098412cb8467_8256258271228201956.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "抓到你了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b248196044409b938b9d07cdbc27978_7421520784893178956.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "我可不好欺负！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/917f28b526260930d9836e7b2b1bb9aa_5041779586906394244.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "迪奥娜特调！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d133393b64571f06ed1d98f896d3253f_2789158285933266652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "贪杯的下场…哼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bfdfb2bf6caab65c010297ee9015df44_7283410389139867308.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "反省吧，酒鬼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5f1d20e06ad16a4bbdd357ec1ac3eba0_5316512278307112911.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "唔，来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/48b13a1e7124d68df5abbd33e2341f61_5529266667087948578.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "出发，出发！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/10fd723f969ed21354b070cb294bb8a2_6323393776630231854.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺结束·其一",
+          "text": "呼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/82991d9a634d1c4d3e07c1efb0b09aea_8124440208372122984.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺结束·其二",
+          "text": "哈唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2be3084c3eea02dd6bb5939b5a242659_9195620044650943841.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "飞起来喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/87a2658dbb18ca4a0f25006007472393_2607922260346139667.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "让酒变难喝的材料啊，出现吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/40ada38373e663730ed04cb7bf2157d6_4785242008744201945.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "亮晶晶的…想要…扑过去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5cc2f3716ba3afbf0a17e91e81e4d293_6972012455418975480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "宝箱里有些什么，我很好奇！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9d02d184db6a8766427e207d7f49b326_6068255959278067574.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我不会认输…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/657d8bc789f7a5a65c6f226cd214848f_829832727561318055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "喵…喵…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/96f784302a3cdd8dd5528fb7fe2c1a37_7853550132548244378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "胜负还没分呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1864a907e95dad13725653402b992c1d_6257415292567229587.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "太乱来啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e0395a9562ba3e6fc3c18b4659d0c858_6905720935800083977.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "去休息去休息！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d1661eb55251605a4b6da059d0d7e60c_1878940622453709610.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "酒的味道…好臭…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2a9e3cc0a19058678e4d8df1c3915c3f_4992633224472269521.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "泉水精灵…不要走…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e49f3e783bf217983ca140b007a007a8_5559620109394758147.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "眼睛…睁不开了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bcbecf43fdb76ac8643f18af5c446f43_664596288458801291.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "没躲开…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f762efb318c35668ccf258a51aba18cd_1460012497428997124.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "从哪里来的？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/928d8c8de485df531ced3eb43188306f_823714242116922463.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "狩猎开始！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fbf80dd098e0c9420851274387a889dc_3608152989802066174.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "果然需要我出手嘛！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5fdb446ae2b46ba66040eef773b4506_174500501814111934.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "哼，就包在我身上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/86df0668cfa1841bf558387912427e9c_7017112277169119817.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "「猫尾酒馆」的招牌调酒师，迪奥娜，我的出场费可是很贵的。唔？你居然…不是为了酒才来的？哼，那你的邀请…我就勉为其难地接受了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3850265a50ff8a74cefd60405cea6fab_9140852608898290024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·放松",
+          "text": "哈~~好舒服，身体都变得更柔软了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e6438fbd15b991203b4d03838e2f9292_1558493100263066976.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·思考",
+          "text": "蜥蜴尾巴、胡椒、星螺…还差点什么才能调出「难喝到头脑炸裂的酒」呢？呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/118620ed8605a902b6d8cedb46cf8517_4946076400492660160.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·等待",
+          "text": "才，才没有在等你。我只是，正好在休息而已！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a6f42039262d98f6562e36fbbe94a66c_7557138550587334601.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "呜呜…讨厌下雨…去屋子里吧。唔，只是因为弄干衣服很麻烦！才不是什么怕水呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/49d1b42b724e978b8338b732f9d61fd0_8246690070911573378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "欸？！…我没有在发抖！没有！…呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b2848c2d03729da29f6cb801b4ddea40_2324722368616849331.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候·玩雪",
+          "text": "这个凉飕飕的触感，哇…好棒，好有趣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/067de3fedc55d823f410b343e7ee292e_2533410309486068723.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候·观雪",
+          "text": "白茫茫的雪在风里跳舞，真好看呢。嗯…我旁边的座位还空着，没人坐哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3c7ffd3b0d25f8d9bf6f3299262c4408_1166738085729771962.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "走喽，晒太阳…你不去我可就自己去了哦…唔，最后一次机会！走不走！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/476f679de49da104596a03bd3c3c8317_5797267267296819414.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早，把橱柜里那罐腌泥鳅递给我一下——好咧，我要开始摧毁蒙德酒业啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/20fe663e2ea3ac1a7cd0636be81485bf_7181496261911281412.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好·异响",
+          "text": "咕噜噜…嗯？没有！你什么都没有听到！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/24ebdb7441a4d4ffe11b67a380b69f09_8269330609238891858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好·罐头",
+          "text": "这个鱼肉罐头是我好不容易省下来的，别，别看啦！最多…最多只能给你尝一口。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b79f1d27c3ba9f34447c4f706901af3_4317801163772716330.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "失败了…又失败了…大家都喝得好开心，呜…别安慰我，我才不需要安慰…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/733862d4c37213f515d2201b430166f7_7191417785495525833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你没有猫的夜视能力，走夜路不要紧吧？要我护送你的话…欸，有灯啊？…谁，谁要护送你啦，快点走快点走。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4f4936f9d8587580238bb1f532431a4b_8523674257801498457.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪奥娜自己…",
+          "text": "耳朵和尾巴才不是什么装饰，是「凯茨莱茵家族」血统的象征，真是少见多怪。呃…你、你把手伸过来干什么？这个…唔…好吧，耳朵的话可以让你摸一下…但是尾巴、尾巴绝对不可以！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9c6dd6f245f0c03be36cd8267e2122e4_2707237525016902446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·饮料",
+          "text": "想喝无酒精饮料？难倒是不难，但是没有意义！无论成功还是失败，都和摧毁蒙德酒业的目标没有关联。我才不会做呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2a4d897d46c5a5a0b1af88738dede054_9080742477881688261.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·贵宾渠道",
+          "text": "喏，这个是「了不起的夏日梦幻忧郁珊瑚气泡茶」，只是因为最近无聊才做的。热门产品？排队抢购？你在说什么呢，我可没听见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0e88479fe36c0df9235adac9f52f4cd2_7210895822295317751.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·聊天需要",
+          "text": "唔…要是，要是你感觉孤单了，我可以随便陪你聊聊天。我还是知道很多事情的哦！也是很好的…那个叫什么，说话对象哦。没错没错！来跟我，多说说话吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/189c915f765ed3d963b48a632c13c29c_7824322908428248412.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·好奇心",
+          "text": "是什么是什么？你拿着的是什么？快给我看看！说不定丢到酒里能做出相当难喝的…啊，什么嘛，原来只是长得奇怪了点的蘑菇而已呀，真无趣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7ec9bb6185d6d8e89c0a734ee28bcd07_461811713116021273.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·遗传",
+          "text": "问我的「神之眼」是怎么来的？哼，是、呃…是凯茨莱茵的家族遗传！唔？杜拉夫先生根本没有神之眼？欸——露馅了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4a64ca1dd000f927ef6b27b41cb920f1_6320192696133318295.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·来历",
+          "text": "为什么非得告诉你啦，哼！算了，看在你一直追问的份上，看在…看在我们是朋友的份上。那次我爸爸外出打猎，差点出大事，在大雨中，我脑袋里想的全部事情就是要找到他，救出他…好了啦，满意了吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b532e0c6aebc713e387e7d7e5f220119_2688332971220449938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "龙脊雪山上，会不会长着奇珍异草呢。「拥有致命的苦味」或者「沾到一点就嘴巴发麻」这样？要拔好多下来！然后…嘿嘿嘿…嚯嚯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/159b5086050423774d0dca7b64979472_8956515095815257713.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我扑…捕捉蝴蝶的技巧可是一流的。喂，不是啦！抓蝴蝶是为了加进酒里做出难吃的味道，不要把我当成猫啦！喵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0584c622556b4e40bfcc3d4e707eb6e0_8824415372713550805.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "那个…迪卢克，是我最讨厌的人！没有迪卢克就不会有蒙德酒业，没有蒙德酒业爸爸就不会喝酒，爸爸不喝酒就…就会陪我了，哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/29f979af92343d10bca88f930e4fbe5c_6375695014402470506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "为什么连我的「护卫队长」也是个令人讨厌的酒鬼啦！就是那个，说起话来总是笑盈盈的家伙！喝起酒来一杯接一杯的，没完没了。呼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c333271648fd13da94f199a0669ad5f2_7437408981543931741.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "温迪？不太熟的样子。但说到吟游诗人，就是那伙会给酒鬼们唱歌助兴的人吧。那就不喜欢！不喜欢不喜欢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8fbce081995297569a9b7eeeaca13c08_8803350380397512914.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉小姐的粉丝们，都是大哥哥大姐姐…好羡慕，为什么我的粉丝都是一群大叔呢。呜…可恶，哼，不想了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d0494a9fb2e56b0b65c393e3750299ff_4601051872015548899.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴啊，骑士团的代理团长，嗯…难得一个不喝酒的成熟大人…但总感觉认真过了头，骑士团的大家对我有些过度保护了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bea1eea0d2f0423bd9c9891d5480b9f2_3883188270858412280.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "首席炼金术士大人？唔…我这种一直调出好酒的体质，他会知道破解的方法么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/df123191e1875fbaa0c4c8030e248a59_1130229145687712420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎姐姐，很和善对吧，很温柔对吧？但是，这样的姐姐也经常喝酒！呜呜呜…这是为什么啦…蒙德城已经没救了吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bcde988b1ae35fa11675cf53b67a684f_4631098110808476480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "我向香菱讨过一份「口感搭配特别糟糕的食物组合」，据说是她亲自实践下来的，绝对难吃什么的…没用，完全没用。「续杯」两个字已经听到猫耳朵都生茧了！呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/322ce46860976c3dcdc0f013937e87ae_7827925998771462615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "可莉每次来找我玩的时候，我都只好把她带去离酒馆远一点的地方。酒和炸弹…实在是太危险了！就算我想摧毁蒙德酒业，也得用堂堂正正的方式。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8b91c350f6306b3f7c5f30d84bc3a97f_8608006218738099320.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于父亲…",
+          "text": "爸爸是我最尊敬的人！爸爸是最厉害的人！但是…喝了酒的爸爸，唔——果然还是要早点终结蒙德的酒业！没时间闲聊啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2ea85a2b6f4683f9c4996cd92ba89e82_8497287896008410078.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其一",
+          "text": "「调酒师」可是很忙的！即使不在酒馆工作，也要抽出时间来收集配方。所以，所以没有要紧事情的话，就不要来打搅我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8c44df8b60ec9320a7208c8d6c7574de_1211983158231947030.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其二",
+          "text": "你不会…也像那些讨厌的酒鬼一样要我学猫咪叫吧？不会的，绝对不会的！我才不是什么抖抖耳朵伸伸懒腰的宠物！我可是…可是…「酒业杀手」！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5be7a47db98e0b55560d87eb056ca06c_4560727779149095583.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其三",
+          "text": "你问我…为什么「酒业杀手」变成了「猫尾酒馆」的招牌…？你，你是故意这样问的吧！就是想看我的笑话。呜，坏人！再也不给你调喝的了，水也不给！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b99b42b051ade7b3111ddd5c0f40429_2286460681601880546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其四",
+          "text": "别再惹我了啊，我宽容大度，但也不好欺负！我警告你，我生起气来可是会咬人的！喵！虽然不一定舍得咬你…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4bb8b82779bc4f1d363e2616410d5c99_2800975816557147354.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其五",
+          "text": "我和你…已经成为好朋友了，对吧。我隐约记得…我以前也有过这样一个朋友，但我不确定那是不是梦…\n\n把你的手给我。啊呜，唔…暖和的。这样就好，不要变成梦走了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4ce656302105588d0a9ea057b26459eb_416614635561568251.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪奥娜的爱好…",
+          "text": "我喜欢打猎，追捕猎物可是我的强项！但爸爸说野外情况瞬息万变，只有跟着可靠的大人一起，才能深入森林。你…算是可靠的大人吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b8b8ea6355375a6eba15e27626369319_5881869587314103309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪奥娜的烦恼…",
+          "text": "嗯…到底怎样才能调出难喝的酒呢…连我给予厚望的噩梦搭配——「酱油牛奶绝云椒椒配蒲公英籽特调」都被说成是「小迪奥娜又有进步了」，呜…我不会认输的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/500be7a0d3d44f1a5f28a10dc1e50433_2694212087700841555.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢吃鱼！作为主食的鱼…爸爸做的鱼！但是…不要作为下酒菜，那是对鱼的亵渎！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/75b1d9107fd4c2ec1fb40de09596b45c_5463945214245260869.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "胡萝卜、土豆、洋葱、番茄…这些味道都不太喜欢。我，我可不是吃素的啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7289fbc0692ff55cebc01e838bcec3e5_399819838102974271.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃…我，我就随便问一下哦，下次还有吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/9c14c13b474f01878b0401ea96cde17c_1207714175881693141.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你可别指望我尝了点甜头，就会来蹭你…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f4c31d1406e7f2a68259f4e2cba4650e_8785198095111547664.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "喂…你是把我当成路边的野猫了吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/074fe8a7115120229ad5e3d8c0baaff4_2729603579117879491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "炸鱼，配上这个我特别调制的酱料，给你。\n\n…没有加奇怪的东西！我认真调味的手艺才不会差呢，先尝过才可以说话。\n\n哼…这才对嘛…唔，那个，生日快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2b7a8a636582bb405df5e9c61fa15717_2842968074762329666.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "猫的眼睛，看得见黑暗中的一切猎物！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/62ed7f01d302f2b92872d9d943296e1f_1167602210961027551.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "猫的耳朵，听得见地上最细微的脚步声。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4a4c96f2780a25c9f4e7f0fad3ccbb47_634975325710726721.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "猫的四肢，爬得上全提瓦特最高的树。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/01262549aa6dccbc08c962dcd39a478d_151481123845160527.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "猫的鼻子，闻得出熟悉的、喜欢的人的…唔？！是你听错了！我怎么可能说出那种话…呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d887372392704ce48e035ab54613674c_3742667310628665605.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "嘿…呀！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ecdef4ca06b2e39c6ece2b56d6ceff19_3089656524761593814.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "咻咻——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/12a768b23fbbad75df9a669790dfb704_6876527791237828976.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "目标确认。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5524546292093402a65a07f13bf9dc55_6158040283289450656.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "攻守兼备。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a4368209ac01d08539221008e606e20b_8172758252755666966.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "抓到你了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7e178b857b904c1e2d66b32a11068d80_2646410517311624295.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "我可不好欺负！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d81e882eb75c3d09fad0a05006649ddb_6101747820686759433.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "迪奥娜特调！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aedadc0916005a1299ce7d41163c78f2_7399992569172391297.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "贪杯的下场…哼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2bbee0fc0e5d1b78bd3b5e1d516cf157_9175408836111814904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "反省吧，酒鬼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b94b4f31b25365c332883e4ed56280c6_6295244263272460116.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "唔，来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1ff29a365b7c5d2121aad8289fc03a4b_4513474022476797546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "出发，出发！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b90f8cfe111ad22f164483a45de7bc65_668985752450090137.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺结束·其一",
+          "text": "呼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/75d7b018388323f691a75c6bdcaa79fb_8495248801453693254.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺结束·其二",
+          "text": "哈唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3b7dc14494a3c0d90d6e83f0f6eb6c0d_9030080597474292431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "飞起来喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bb6a9464be2044beeaf8c647516ef0d7_5975182828588246880.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "让酒变难喝的材料啊，出现吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9fd1da5f1175b362d24751b23bb0316d_8044436280156810689.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "亮晶晶的…想要…扑过去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eaee5fe64bc9fd1a69588885a52cc4c0_7826104755034537830.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "宝箱里有些什么，我很好奇！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bb59644a6291ae9005da838c79742cce_2038434210446059166.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我不会认输…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ba456bc0b7b0f8887e169a6cd51ac000_2161122472981427886.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "喵…喵…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/67a77c2aaac184157a28662a91622de0_8039421464651837975.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "胜负还没分呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/70242c403dd7b1e6357398688f8961a9_5893866052075367189.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "太乱来啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/10f3f3e527bfcd4dd54eff4bec7d26e1_2616990321622304113.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "去休息去休息！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/49eba47924bf0852a05959e07a454ebf_7995958527830316928.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "酒的味道…好臭…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/15311ceb00de12c20629c81bdee3a10a_3827100273256602671.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "泉水精灵…不要走…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d067fc62284c823107b571fbf502c90a_5031339098539826415.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "眼睛…睁不开了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ed24a50ed3f7e082a4bf54b763f1521f_2960824822227277425.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "没躲开…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe5b6f5471d73eb21dac933db78317d0_4009183065229082067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "从哪里来的？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/40f99ccb3abfdef6b9b48299ddba8ded_304424557288701344.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "狩猎开始！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/71a17630861c46bfeb4f313fac81c258_8342043291416813344.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "果然需要我出手嘛！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f01b2548573ba0b02cff055aee47fe39_4117219790752973083.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "哼，就包在我身上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b483c66fc3f92d3dbd3a429b98ccaf71_6432261780406348916.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "「猫尾酒馆」的招牌调酒师，迪奥娜，我的出场费可是很贵的。唔？你居然…不是为了酒才来的？哼，那你的邀请…我就勉为其难地接受了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fb4547b9f3e6a67a18bffcc85762bc0c_4113973569910644999.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·放松",
+          "text": "哈~~好舒服，身体都变得更柔软了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cb578d482abdc8240961e946e9a163b4_484027472318925243.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·思考",
+          "text": "蜥蜴尾巴、胡椒、星螺…还差点什么才能调出「难喝到头脑炸裂的酒」呢？呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/48b7ec5fb1f8c70d5ba01df73e18c680_6144517460773087079.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·等待",
+          "text": "才，才没有在等你。我只是，正好在休息而已！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8bccb5362095405c0d2b2c375b26603c_3129531933064812595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "呜呜…讨厌下雨…去屋子里吧。唔，只是因为弄干衣服很麻烦！才不是什么怕水呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0efeac86f172ed2db052843dc7a919d8_3492203460255248979.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "欸？！…我没有在发抖！没有！…呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b4ddf4bd420d2dee2c1c43cc29483149_2390189159235279231.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候·玩雪",
+          "text": "这个凉飕飕的触感，哇…好棒，好有趣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7ed662a7f53338b1c021add63f9c78ab_6911963949397541411.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候·观雪",
+          "text": "白茫茫的雪在风里跳舞，真好看呢。嗯…我旁边的座位还空着，没人坐哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f57a6c11829ebaea312294125d262e3f_2860065594144884429.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "走喽，晒太阳…你不去我可就自己去了哦…唔，最后一次机会！走不走！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a26cef50567be52b55e7019eaf0ccb84_3121820266288535455.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早，把橱柜里那罐腌泥鳅递给我一下——好咧，我要开始摧毁蒙德酒业啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f99a142f0d0668d14f832a2a409dbfa4_4364311230968303517.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好·异响",
+          "text": "咕噜噜…嗯？没有！你什么都没有听到！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/15fac3353d6e2b64678ef39623d37513_640623016780860293.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好·罐头",
+          "text": "这个鱼肉罐头是我好不容易省下来的，别，别看啦！最多…最多只能给你尝一口。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4784a92a053051bac7f694ff33380e2c_1346213962434089031.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "失败了…又失败了…大家都喝得好开心，呜…别安慰我，我才不需要安慰…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/488c415e554c3a8c4745147e908610d6_5318612010354353614.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你没有猫的夜视能力，走夜路不要紧吧？要我护送你的话…欸，有灯啊？…谁，谁要护送你啦，快点走快点走。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/220260ff4df7eb85e179ff116b3b0c97_746076879939201274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪奥娜自己…",
+          "text": "耳朵和尾巴才不是什么装饰，是「凯茨莱茵家族」血统的象征，真是少见多怪。呃…你、你把手伸过来干什么？这个…唔…好吧，耳朵的话可以让你摸一下…但是尾巴、尾巴绝对不可以！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/84a2305f0f1de1444307077e7ac16067_6601727239351136126.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·饮料",
+          "text": "想喝无酒精饮料？难倒是不难，但是没有意义！无论成功还是失败，都和摧毁蒙德酒业的目标没有关联。我才不会做呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3deca89f4e4025cfb5c5d39fd67dfc15_9215698098040124528.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·贵宾渠道",
+          "text": "喏，这个是「了不起的夏日梦幻忧郁珊瑚气泡茶」，只是因为最近无聊才做的。热门产品？排队抢购？你在说什么呢，我可没听见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f043e8e88fd53e6748c47cb9f41228cb_3259863484860937822.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·聊天需要",
+          "text": "唔…要是，要是你感觉孤单了，我可以随便陪你聊聊天。我还是知道很多事情的哦！也是很好的…那个叫什么，说话对象哦。没错没错！来跟我，多说说话吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/223470ad1793bd079fb63b6e6c688bda_9027949004795852324.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·好奇心",
+          "text": "是什么是什么？你拿着的是什么？快给我看看！说不定丢到酒里能做出相当难喝的…啊，什么嘛，原来只是长得奇怪了点的蘑菇而已呀，真无趣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/832df08bc97d426694b3e4af5b0b04a7_3788306437434461440.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·遗传",
+          "text": "问我的「神之眼」是怎么来的？哼，是、呃…是凯茨莱茵的家族遗传！唔？杜拉夫先生根本没有神之眼？欸——露馅了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b7eadf4c0d6df5009c1f82f95344c258_3978823817342383743.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·来历",
+          "text": "为什么非得告诉你啦，哼！算了，看在你一直追问的份上，看在…看在我们是朋友的份上。那次我爸爸外出打猎，差点出大事，在大雨中，我脑袋里想的全部事情就是要找到他，救出他…好了啦，满意了吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b2bba14a51e3d7fd08b4c4af4eb37259_435242877677413333.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "龙脊雪山上，会不会长着奇珍异草呢。「拥有致命的苦味」或者「沾到一点就嘴巴发麻」这样？要拔好多下来！然后…嘿嘿嘿…嚯嚯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f756bdf15497db490c9bb8c53fa67c6e_9101152845410729758.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我扑…捕捉蝴蝶的技巧可是一流的。喂，不是啦！抓蝴蝶是为了加进酒里做出难吃的味道，不要把我当成猫啦！喵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/23e7c5f6baf5095010f0aeffb3bbb995_1761824750623863088.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "那个…迪卢克，是我最讨厌的人！没有迪卢克就不会有蒙德酒业，没有蒙德酒业爸爸就不会喝酒，爸爸不喝酒就…就会陪我了，哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/96b70336939788ffce1aaa455133686d_1418413889244042625.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "为什么连我的「护卫队长」也是个令人讨厌的酒鬼啦！就是那个，说起话来总是笑盈盈的家伙！喝起酒来一杯接一杯的，没完没了。呼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/20974636493acf2cb2ee8b05f7120a04_2506735798598501539.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "温迪？不太熟的样子。但说到吟游诗人，就是那伙会给酒鬼们唱歌助兴的人吧。那就不喜欢！不喜欢不喜欢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c8264ff87733947a1f7527a728bb26a3_3614365084307082081.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于芭芭拉…",
+          "text": "芭芭拉小姐的粉丝们，都是大哥哥大姐姐…好羡慕，为什么我的粉丝都是一群大叔呢。呜…可恶，哼，不想了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/78a2a43afa74129bd4efa078f4a39514_8521162750109706745.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴啊，骑士团的代理团长，嗯…难得一个不喝酒的成熟大人…但总感觉认真过了头，骑士团的大家对我有些过度保护了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c6b5f15d36e2fb5ec071ace3cd2a12b7_330103032080707845.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "首席炼金术士大人？唔…我这种一直调出好酒的体质，他会知道破解的方法么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4be5bdb485600c1dc91f91c623502791_7095615198754770224.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎姐姐，很和善对吧，很温柔对吧？但是，这样的姐姐也经常喝酒！呜呜呜…这是为什么啦…蒙德城已经没救了吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d825b1537d8c6ce591963b146f4d053f_7579438760316436064.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "我向香菱讨过一份「口感搭配特别糟糕的食物组合」，据说是她亲自实践下来的，绝对难吃什么的…没用，完全没用。「续杯」两个字已经听到猫耳朵都生茧了！呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/70a12af96f8e92a3a4476f4385ef5a93_838999554019480692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "可莉每次来找我玩的时候，我都只好把她带去离酒馆远一点的地方。酒和炸弹…实在是太危险了！就算我想摧毁蒙德酒业，也得用堂堂正正的方式。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/869c73caed74e88083c58db0500e84fe_6715424996305394753.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于父亲…",
+          "text": "爸爸是我最尊敬的人！爸爸是最厉害的人！但是…喝了酒的爸爸，唔——果然还是要早点终结蒙德的酒业！没时间闲聊啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e24be4046ad08639e14af577767992e7_6867768711250792285.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其一",
+          "text": "「调酒师」可是很忙的！即使不在酒馆工作，也要抽出时间来收集配方。所以，所以没有要紧事情的话，就不要来打搅我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/48626e240858197d3b7913041cb64d75_4409641142486000662.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其二",
+          "text": "你不会…也像那些讨厌的酒鬼一样要我学猫咪叫吧？不会的，绝对不会的！我才不是什么抖抖耳朵伸伸懒腰的宠物！我可是…可是…「酒业杀手」！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d86141142a94f415ade03410526b38bb_7234345860724480723.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其三",
+          "text": "你问我…为什么「酒业杀手」变成了「猫尾酒馆」的招牌…？你，你是故意这样问的吧！就是想看我的笑话。呜，坏人！再也不给你调喝的了，水也不给！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a5da8d87130faf7941df6951e4baa4da_5681511000848596330.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其四",
+          "text": "别再惹我了啊，我宽容大度，但也不好欺负！我警告你，我生起气来可是会咬人的！喵！虽然不一定舍得咬你…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2d080d124cdb44e80c9bf61fba2f2855_1864162946623880291.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解迪奥娜·其五",
+          "text": "我和你…已经成为好朋友了，对吧。我隐约记得…我以前也有过这样一个朋友，但我不确定那是不是梦…\n\n把你的手给我。啊呜，唔…暖和的。这样就好，不要变成梦走了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3ee4689e45edd74ec207319a64bfb5ec_3129697543816031864.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪奥娜的爱好…",
+          "text": "我喜欢打猎，追捕猎物可是我的强项！但爸爸说野外情况瞬息万变，只有跟着可靠的大人一起，才能深入森林。你…算是可靠的大人吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/47c41a348429ad921613c9eaeeb411ed_7315747781420493877.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "迪奥娜的烦恼…",
+          "text": "嗯…到底怎样才能调出难喝的酒呢…连我给予厚望的噩梦搭配——「酱油牛奶绝云椒椒配蒲公英籽特调」都被说成是「小迪奥娜又有进步了」，呜…我不会认输的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0dfa856398a724934af56f66c12d187d_3564325146050434819.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢吃鱼！作为主食的鱼…爸爸做的鱼！但是…不要作为下酒菜，那是对鱼的亵渎！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5a59392827cd3121f108505f094f8161_2906955806241482284.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "胡萝卜、土豆、洋葱、番茄…这些味道都不太喜欢。我，我可不是吃素的啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dd2a45fafbca019838457b06d341599f_2571047492180507466.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃…我，我就随便问一下哦，下次还有吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/69ed5c077299065cdbde5e7a8cd799ad_1260817727309121533.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你可别指望我尝了点甜头，就会来蹭你…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/dae1ca53dd7396e4a9249f9f82e1440e_5357590286998029691.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "喂…你是把我当成路边的野猫了吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/92e007055023978782858558572387e1_3896157717021116507.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "炸鱼，配上这个我特别调制的酱料，给你。\n\n…没有加奇怪的东西！我认真调味的手艺才不会差呢，先尝过才可以说话。\n\n哼…这才对嘛…唔，那个，生日快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/517a4ac3cd9075121ba73459e22a0511_7733419220192126452.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "猫的眼睛，看得见黑暗中的一切猎物！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/817152bc65479517e61ebf732a13a8cc_6902621737893385978.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "猫的耳朵，听得见地上最细微的脚步声。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/100299fc9d2537e5178f40ebceb2984a_1622541219711538766.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "猫的四肢，爬得上全提瓦特最高的树。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/785c957bc60de262f3ac59e518567c6f_1905215957699109105.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "猫的鼻子，闻得出熟悉的、喜欢的人的…唔？！是你听错了！我怎么可能说出那种话…呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/47482264f0ec44262c2dc1d0bc55c804_3661277854517486873.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "嘿…呀！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3c309f590fbb377ef56bf745bcea01bf_6315445130411577092.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "咻咻——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e664ff5818ecc423c8f4b003d1c19544_6015594847901173057.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "目标确认。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/08696b2e9f79a4a509c2a1804c0daef5_1759569808282507946.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "攻守兼备。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/99ad6bbf2bafce5394444cc22e6756f3_7509671901499957571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "抓到你了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2066e214130a344c6adbf3cde97d4beb_6947345315891820294.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "我可不好欺负！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5ae853add768c9c135d3217ffde49eb9_8650579214227017432.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "迪奥娜特调！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b0c0c76fcfc29bb112d5e2faf44c0135_4363054277185658002.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "贪杯的下场…哼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5e86b485d1f608f16f525209787f4ed6_1290113500001926853.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "反省吧，酒鬼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af2512fd57afa3e6eedd7391a7543ee8_5739334068315684436.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "唔，来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7694ad3e056f15b2ba136e2592725f26_343377507680099029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "出发，出发！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/afb00c242c0d3688dc3b5140035b63c7_6412190219310490186.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺结束·其一",
+          "text": "呼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/51ca6ff1d2e1ae60f49046e022b5ca62_2548165641691364086.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺结束·其二",
+          "text": "哈唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a5808cf9652fddcfc3f0d44895dc33c1_5559689761374474200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "飞起来喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6477e7f2be3c1bb5936276afd4f85369_4479042157272300419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "让酒变难喝的材料啊，出现吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/293e8c62fd472357aa8f8fa9641ff1ac_5660212954942141603.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "亮晶晶的…想要…扑过去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dc357e5f5d3ca74f2e8e7816569b5c09_7157279476676310794.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "宝箱里有些什么，我很好奇！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de5c0bb92f6a045a77daf0f656bc4214_4184178543059638057.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我不会认输…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/484483c9211592c9656f7e6716517291_3693638981591738427.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "喵…喵…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/16507678adbae214cb5dd806b1b07397_3542530758959033122.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "胜负还没分呢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c7c1298aab98d957b6133d765ff808eb_8242877212356569689.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "太乱来啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/840d51ad0453cadce11a2e6211f73002_7829471265318807997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "去休息去休息！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/d69745cff42e9213d5b11ff0bb077789_7757280743857064197.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "酒的味道…好臭…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6e13fbba4ef1fcc8d7f6d603a7556566_1807782805196731147.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "泉水精灵…不要走…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6de32ea6bbf8d81d626973331a6ac093_5148895207464470521.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "眼睛…睁不开了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1f1a4173a4fc1e3842989daa6ede8c8a_3211655431468316625.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "没躲开…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af1fc554dd8bf8578a4d483ac5119016_1873786961926015209.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "从哪里来的？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/58f2dde956a3c817c11386523f472b45_7898150627183678348.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "狩猎开始！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7cd02c6482e6f1680f97a64c4464eb42_1669669764602692156.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "果然需要我出手嘛！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3a15b553b5905f7d1aa68f92a9bccccc_4649524380090792666.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "哼，就包在我身上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/94c2756559d2763cf0ed7b34534b4693_9150748253425642259.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

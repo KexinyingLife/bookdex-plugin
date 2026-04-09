@@ -1,0 +1,1613 @@
+{
+  "id": "5297",
+  "name": "莱依拉",
+  "alias": [
+    "莱依拉"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "哈…你好，我是梨多梵谛学院的在读学生莱依拉。…嗯？对不起，昨天没睡好我现在精神有点差，你刚才是在说「想和我组队」吗？没有没有，我不是不愿意，只是怕你不习惯我的作息方式…那、那个…请多关照！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d70b91ada27cbb1dfdb5dae6413045be_1059314131526931846.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·注视",
+          "text": "就算我们不抬头仰望，星空，也永远注视着我们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/6454d3ed347aa62ec368bafefdca95ac_3943454212375297890.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·梦游",
+          "text": "腿好酸…唉，大概昨天晚上又梦游了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/de15cf150679f0b24377bad2009c3bd2_3944832558537452691.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·哀叹",
+          "text": "…为什么报告和论文永远写不完？为什么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/df7ee873899e9a855a572e2921522da9_50131164358505477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "天气好差，今晚没法观测星空的话…唉，我的星图课作业真的不能再拖了啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/68fece013e067483ea15a2ca1b0edcd3_4790914243404175672.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪地看起来亮晶晶的，很像天上的星星。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/002219c97380fd3d4308b10e4fbccdeb_2236920489457451632.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "太阳晒着…好困…对，保持这个感觉，赶快找个枕头睡一觉…我已经两天、两天没有…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d41011d65509d5f9255396a22cc3399c_7102578859708955871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "白天晒，晚上冷，我、我要不行了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/72f929551f2d2350b254e059b19b44cb_7100235500941373261.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "你睡得饱吗？要是还困就回去再睡会儿吧…我？我…习惯了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/2910c36f95b1f23eb753ad4861bdb2dd_5464943608064316506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "我在计算星轨呢，刚算到一半，午饭你就先吃好了…这里的角度不太对劲吧…不、不会吧…我是从哪儿开始算错了呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/88901539a3b0cedd99fc6c3790091bd2_6770048560268488457.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "今晚我要早早躺到床上去，争取早点睡着。伟大的智慧之神啊，求您庇护我的睡眠。好，我要闭上眼睛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/068a4cae0e6c5b145de2b0d086721f6e_6878700622989457202.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "…哈，让我看看她又被什么难住了。嗯…要整理三年份的旧星表，中期报告的附录还缺几张星图没画…好吧，从这份开始。嗯，你怎么来了？现在可是最重要的睡眠时间。我？我当然是在梦游了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/7e6f42aad9fed9da4cf7547ac7997adb_708889876298459795.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉自己·理论星相学",
+          "text": "按照教科书上的说法：「利用理论星相学知识解决具体生活中的麻烦，这不是我们该关心的问题。」其实我觉得还有一个重要原因…就是…嗯，成本太高。我们测算的时候，一般会动用好多台星象仪，至少要查阅一年份的星图，才好给出一套…严谨的答案。但如果是为了算明天香料会不会涨价，怎么想都不太划算吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/28d28870d68d5144c8c9d800715438a9_8267216217177695001.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉自己·理由",
+          "text": "既然有了自己喜欢又能做得好的事，就得坚持下去，哪怕这条道路特别艰辛，哪怕一路上竞争极其激烈，哪怕不一定能顺利毕业，哪怕没能顺利毕业的话，就要把所有的奖学金还回去…啊，要不我还是回家吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/2b6d20738ad88fbb5e5eea556b3c2370_8056147503201098759.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·陪伴",
+          "text": "嗯哼，我也不想熬夜补课题进度，可谁叫她总有那么多做不完的事。没办法，我当然得帮帮她咯。…你想陪我一起吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/4833ef5f70678c7f6a0afdd0ba4f1a0e_7442757360568557183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·漫游世界",
+          "text": "如果毕业之后，我没有留在教令院工作，就和你一起去漫游世界吧。你觉得怎么样？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ef8b8cc2d4828f4c9e7fbd9c535fef95_663842252958868991.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "哈…是什么在亮？我睡觉的时候忘了关灯吗…哦，是神之眼啊，我说呢…欸，不对，我睡觉之前…把它放在床头了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/41591d8dca7f7c4474ee0dc1cf937a2f_56838115133012735.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "我们学院主编的星表汇聚了所有生灵的命运，毫无疑问是占星知识的顶峰，第一次看到的时候我整个人都被吓得说不出话了！欸？你感兴趣吗？只是简单看看的话…我帮你提交申请吧，应该能被批准，应该…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/c6e905b84cb9917cb487741421c8ffc2_187732506710309792.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有没有什么能捕虫的植物啊，快救救我吧。晚上本来就睡不着，房间里还有小飞虫，一直嗡嗡响个不停，但我、我怎么找都找不到它在哪里…呜呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/68cdfe87f14469a7d52501690f265a44_7995823022242388101.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜…",
+          "text": "在明论派学者的小圈子里，阿斯托洛吉斯·莫娜·梅姬斯图斯发表在《蒸汽鸟报》上的星相学文章名气不小。那些文章专业性都很强，但却能被学者之外的群体喜欢，要做到这点还是挺不容易的…欸？我把她的名字念得很流利？因为…厉害的人…得多多尊敬。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/719f85c8009a1a3cf877bf48078121c1_6506011081459729544.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "啊，我知道你在说谁了。丽莎·敏兹，传说中只用了两年就学成毕业的素论派天才，要是我也能有这样的头脑…你在蒙德的时候见过她本人？真、真的吗？她平时都是怎么学习的？看些什么书，做些什么工作？我…我该从哪里向她学起？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/c629f670d6bc0452670c410f6c0e2ccd_2396822356628434685.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "多、莉、吗…我咬着牙、攥着拳头在她那里买过一次东西，她看我结账很痛快，好像误以为我是什么有钱人，后来还一直寄商品宣传单给我，唔…真是天大的误会！那次购物的代价…不仅把我的奖学金垫进去了，接下来的大半年里，我吃饭都不敢多要肉，买书还得等打折…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/f8969cc1789144b3a50f65f46d87a0a2_4404015929351230431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "「大风纪官」大人很擅长「七圣召唤」吗…啊我是在想，有机会的话，说不定可以和他打一局。像「七圣召唤」这种牌类游戏，熟练掌握运算技巧的人玩起来总是简单一点，我反而…不一定…或许不会输给他。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/498af04e348b13a4ce6bef84e9586add_2894135924035145708.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于坎蒂丝…",
+          "text": "我第一次梦游醒来的时候，曾经见到过你描述的这个人，原来她叫坎蒂丝啊。我还记得自己醒来的那一刻…所有报告和文章都被完成了。当时的感觉就好像…好像我每天对着星空念叨，终于被星星听见了，它们派了一位使者来帮助我，呜呜…太感动了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/17f98d622763989925264af1dece4376_1091057548315163359.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "职务达到书记官这种高度的人，应该就不用发愁能不能立项、能不能成功了吧。不对，既然都当了书记官，应该连项目都不用做了。真好啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/5cffae9e2811a61a0d42a768b0f32bae_5821031000562332871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "伟大的智慧之神，我最近每晚都在熬夜复习，考试就请让我通过吧！拜托了拜托了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/1421890801bfb0b24bdb728eb44fd0b7_1932729554458591725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "珐露珊老师招到学生了吗？听知论派的人说，她的项目申请经费一直很难，招不到学生也很正常。唉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/769ff0a1e19ef3c2fc34ac44bf2d4964_3386981242829892349.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其一",
+          "text": "我算不上有天赋，领悟力也不太够…拼命读书通过考试这才进了教令院。对不起，我…我先不跟你闲聊了，一说到教令院我就想起来，我的课题进度报告…到现在为止还没有进度呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/c34321438f8db00dc6ac7a03c841f676_2713546381578051002.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其二",
+          "text": "我和导师的关系吗？嗯…怎么说呢…啊，你不要误会了，其实导师对我挺好的，我入学的时候还得到了她的推荐呢。每次我觉得自己要撑不住了，她都会鼓励我，然后顺便多要求一篇论文…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/0a22ccf943b7aa10a8167092155b2042_6390959118543698893.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其三",
+          "text": "整个须弥最有才能的人几乎都到教令院来了，而且这儿还有那么多聪明得让人发抖的外国学者，你想想，这里的竞争该有多大！和这些人一起学习…我真的够格吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/3c95d5c2c05b6cf99bcc77579657edcb_4137895751731863201.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其四",
+          "text": "嘘，小声点，不要吵醒她，就让她安心睡上一觉吧。你问我嘴里的「她」是谁？哦，当然是每天为课业抓耳挠腮的莱依拉呀。那我是谁？呵呵，我也是莱依拉呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/094d62c412a15cd129e77f74f6d37e28_5473758521127390685.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其五",
+          "text": "我听别人提过，她好像以为所有写不完的课业总能在一场梦之后自动完成，都是「星空的赐福」。她呀，完全搞错了哦。…不过，你可别告诉她哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ab25f369fdf7ef7f90b1030a985683fc_7024632632417482218.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莱依拉的爱好…",
+          "text": "画星图真的是件累人的事，如果不是因为喜欢，我恐怕也坚持不下来。一会儿要用尺、一会儿要拿纸算、一会儿要查历年的星象…不知不觉一天时间就过去了。但看着画得整整齐齐的巨大星图，总是很有成就感。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/2c957966ea0958453a0dcdc3a89c72dc_7593849130959225616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莱依拉的烦恼…",
+          "text": "从前我还没进入教令院念书的时候，睡眠质量还算过得去。但自从在这里学习之后…唔，压力实在是太恐怖了…我真的很想每天安安稳稳一觉到天亮，呜呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/7fbc3b8e98ca3000c88cfa7379d3692a_3209814047034717266.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "每晚我躺上床之前，都会为自己热一杯牛奶喝，希望夜里能有个好觉，希望夜里能有个好觉，希望夜里能有个好觉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8b7f2d2d480589cf3afa012ab9bd0476_5951264118430472714.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "有一次，我听人说，有个神奇商人在卖的「睡眠软糖」很有效。我花光了奖学金和攒下的零花钱试了试，确实有效，那阵子我也睡得很好。但一盒卖二十万摩拉…实在太贵了，我、我绝对不会再买了，买一送一也不行，买一送二的话…我就再考虑考虑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/1c12b0c2f4740811c6f0d3649759294a_5194754508824415480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好厉害，好羡慕，你还真是什么都会呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/3c8e0610628c75320cd4756e4b3d4d54_4623937388482240511.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "…嗯，味道还算不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/64aa1cb77b67bcfd734390ed91ae04f9_7530692588504482389.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "要不…我们还是去店里买外带吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/0c6b984a5f3d8c57002dabf4d35f8298_724815427077663933.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐，我把这个袖珍星盘送给你。希望从过去到未来，见证了我们所有人类命运的星星能把目光分给你，伴随你走过沙漠、穿过海洋，到达你所探寻的终点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/5b839fdab91a9b94cf54ee949dfc5f6d_9032762509788658804.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "莱依拉啊莱依拉，你还要更勤奋。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/adf66ffecdfc27a5b16930e230cf5737_1286836435523657206.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "莱依拉啊莱依拉，你已经很勤奋了，不过你的知识还不够全面。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e34a3d671868d28c9808d0befd53cbb0_3483651105169028879.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "莱依拉啊莱依拉，你读书又勤奋又广博，这很好。但你可千万不能松懈，一时懈怠，就会落后于人，最后悲惨延毕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/f379ab6d4d0a9c4819eaff219b22569c_3273954771399046017.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "莱依拉啊莱依拉，要相信自己，也要相信帮了你那么多的那个人。你们一起，什么问题都能解决！呼…好了，所有担心我都抛到脑后了，咱们出发吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/681eb54b5a1a2581b3bcfd0505f84056_6454679132717089185.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "寒星！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/20451ea6fff313b1c2127010d0832e1c_5722179954627305483.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "拒绝打扰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/bdf25120b2a621f2b8f9cce42e291af1_9186452889056526202.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "星星的加护。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/6afa5ecb928e407d5baa0ebdef4c8d93_7344148942248577669.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "星辰，为我降下。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/f1da5a64949a2d2e8ae3e3c79f4b1901_7703159943473556263.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "极寒，任我驱使。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/a4ee3f81106b6ab3f935156bc9301cbd_5520095385142629125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "别害怕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/76a7c9969965db3b6fbb2572365049a4_8328013513745945973.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "性价比不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8840097705a2dcaa807789e1f7db8773_3652504391168841765.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "还是你眼睛尖。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/fb6678baf5b4f09652eed088d7f70f2f_2611678980621996371.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇！突然感觉不困了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e9fce4b6ff36213785e930b1f8d3c2d2_1059314131526931846.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我好困…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/014eb293fa32655805191ee4a8c25f5f_50131164358505477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "完了完了完了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/6b420620b2f811227639346ffc76d213_4719078675196779988.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "现在逃还来得及吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/082218f41012c4d4b319f5e5e6e94813_4929144292291881859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "醒醒，别昏过去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/218ed43350f9911a1dcf457482ac44ea_1996358257543184579.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "糟了糟了，你、你受伤了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8f55d11389d0f12c888ef94ffe3f0bf7_4790914243404175672.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "永恒的睡眠…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e504a1f96e5c87db087cc4e7c4db1e25_3795351210044910033.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "老师，对不起…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/cbc0f8aefcc6f0d50d1b4bce00eb23e5_1066665575444483199.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "拜托了，这是个…梦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/90cf0a5adf44c648eb9b7801741b4f79_2236920489457451632.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "你不讲理！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e4d331284a2a863679d2f50c9a664c59_956362567190654820.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "这是违反规定的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/3156e916f6e0f376796ed8ff9ac4b4a1_3925882744019021102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "睡不着就四处走走吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/a46f7540ee0a8a4572d10a1aaf495dec_1895855497115325548.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "请好假了…没有忘的吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/0f631a3b2263d80a8f00a1e0d3b4fb1b_5464943608064316506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "唉，脑袋空空，出去放松。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/476b856b255297ba521f161210d9b3f3_7964301115710853652.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "哈…你好，我是梨多梵谛学院的在读学生莱依拉。…嗯？对不起，昨天没睡好我现在精神有点差，你刚才是在说「想和我组队」吗？没有没有，我不是不愿意，只是怕你不习惯我的作息方式…那、那个…请多关照！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/b0260b8c237e168b6f80768bf259a378_8491595623758952681.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·注视",
+          "text": "就算我们不抬头仰望，星空，也永远注视着我们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/221bbe44d50f3b41e187e487f7dd234b_4936122285105692315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·梦游",
+          "text": "腿好酸…唉，大概昨天晚上又梦游了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/152fc3b4f5a6f6698d400b94705fe70c_6770048560268488457.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·哀叹",
+          "text": "…为什么报告和论文永远写不完？为什么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/fa8b83e3eed85d7a692b346dd3c721ea_663842252958868991.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "天气好差，今晚没法观测星空的话…唉，我的星图课作业真的不能再拖了啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ea8cc7eb18420ffab56387daed752949_7059997538045009546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪地看起来亮晶晶的，很像天上的星星。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e7a8d3058e9923dce10c7585595f4791_56838115133012735.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "太阳晒着…好困…对，保持这个感觉，赶快找个枕头睡一觉…我已经两天、两天没有…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/91d529bb130399ab89dc2bab92875370_384742810812944815.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "白天晒，晚上冷，我、我要不行了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/173ffcd7aacf208c71f41d4c8dcd457a_3603974795995455713.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "你睡得饱吗？要是还困就回去再睡会儿吧…我？我…习惯了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/725d2487bdce668febc5e10999bcf46d_187732506710309792.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "我在计算星轨呢，刚算到一半，午饭你就先吃好了…这里的角度不太对劲吧…不、不会吧…我是从哪儿开始算错了呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/10fe2c13df0488144e22b7b7af3947ad_4863883232662239614.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "今晚我要早早躺到床上去，争取早点睡着。伟大的智慧之神啊，求您庇护我的睡眠。好，我要闭上眼睛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ca48b731511768a04d922e57d84907aa_7995823022242388101.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "…哈，让我看看她又被什么难住了。嗯…要整理三年份的旧星表，中期报告的附录还缺几张星图没画…好吧，从这份开始。嗯，你怎么来了？现在可是最重要的睡眠时间。我？我当然是在梦游了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/a5b0716dd0ef88bac0e7e50ada7669a3_2396822356628434685.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉自己·理论星相学",
+          "text": "按照教科书上的说法：「利用理论星相学知识解决具体生活中的麻烦，这不是我们该关心的问题。」其实我觉得还有一个重要原因…就是…嗯，成本太高。我们测算的时候，一般会动用好多台星象仪，至少要查阅一年份的星图，才好给出一套…严谨的答案。但如果是为了算明天香料会不会涨价，怎么想都不太划算吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/dab3918aa5cac19301f3150002fb2c30_8407431979858093191.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉自己·理由",
+          "text": "既然有了自己喜欢又能做得好的事，就得坚持下去，哪怕这条道路特别艰辛，哪怕一路上竞争极其激烈，哪怕不一定能顺利毕业，哪怕没能顺利毕业的话，就要把所有的奖学金还回去…啊，要不我还是回家吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/62aa9cf588a3d3f80155a3349e78bc09_6961991722892899717.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·陪伴",
+          "text": "嗯哼，我也不想熬夜补课题进度，可谁叫她总有那么多做不完的事。没办法，我当然得帮帮她咯。…你想陪我一起吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/50018530b29269e9269305d52b195d73_2370940320471198696.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·漫游世界",
+          "text": "如果毕业之后，我没有留在教令院工作，就和你一起去漫游世界吧。你觉得怎么样？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d109ae80591b977cdb5cfbf6751aa376_4404015929351230431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "哈…是什么在亮？我睡觉的时候忘了关灯吗…哦，是神之眼啊，我说呢…欸，不对，我睡觉之前…把它放在床头了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/3cca0e8250581e66bc02ad8f75377f99_5218039806555524669.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "我们学院主编的星表汇聚了所有生灵的命运，毫无疑问是占星知识的顶峰，第一次看到的时候我整个人都被吓得说不出话了！欸？你感兴趣吗？只是简单看看的话…我帮你提交申请吧，应该能被批准，应该…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/2a71d1ce935b8f8792e2a087a7bd216c_2894135924035145708.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有没有什么能捕虫的植物啊，快救救我吧。晚上本来就睡不着，房间里还有小飞虫，一直嗡嗡响个不停，但我、我怎么找都找不到它在哪里…呜呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/f3570629447e75aaded0c21b92bde94c_5821031000562332871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜…",
+          "text": "在明论派学者的小圈子里，阿斯托洛吉斯·莫娜·梅姬斯图斯发表在《蒸汽鸟报》上的星相学文章名气不小。那些文章专业性都很强，但却能被学者之外的群体喜欢，要做到这点还是挺不容易的…欸？我把她的名字念得很流利？因为…厉害的人…得多多尊敬。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/83140abef3166552bc009baecffdf9ec_1932729554458591725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "啊，我知道你在说谁了。丽莎·敏兹，传说中只用了两年就学成毕业的素论派天才，要是我也能有这样的头脑…你在蒙德的时候见过她本人？真、真的吗？她平时都是怎么学习的？看些什么书，做些什么工作？我…我该从哪里向她学起？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d352df86bce3f07d55d6905ad7df3b89_5823233059788588839.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "多、莉、吗…我咬着牙、攥着拳头在她那里买过一次东西，她看我结账很痛快，好像误以为我是什么有钱人，后来还一直寄商品宣传单给我，唔…真是天大的误会！那次购物的代价…不仅把我的奖学金垫进去了，接下来的大半年里，我吃饭都不敢多要肉，买书还得等打折…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/997db2a30794b73d4348219c3b965735_4901647324001634947.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "「大风纪官」大人很擅长「七圣召唤」吗…啊我是在想，有机会的话，说不定可以和他打一局。像「七圣召唤」这种牌类游戏，熟练掌握运算技巧的人玩起来总是简单一点，我反而…不一定…或许不会输给他。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8873612fa836f97a4ed7dfadacdbabf1_3386981242829892349.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于坎蒂丝…",
+          "text": "我第一次梦游醒来的时候，曾经见到过你描述的这个人，原来她叫坎蒂丝啊。我还记得自己醒来的那一刻…所有报告和文章都被完成了。当时的感觉就好像…好像我每天对着星空念叨，终于被星星听见了，它们派了一位使者来帮助我，呜呜…太感动了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/32caa52a797e6f72cbda5c667c4032ff_7024632632417482218.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "职务达到书记官这种高度的人，应该就不用发愁能不能立项、能不能成功了吧。不对，既然都当了书记官，应该连项目都不用做了。真好啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/13f76edd8e98590752208586d29683e0_7593849130959225616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "伟大的智慧之神，我最近每晚都在熬夜复习，考试就请让我通过吧！拜托了拜托了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/dc98c90214c91539f7b8ed5e70fa70c1_5194754508824415480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "珐露珊老师招到学生了吗？听知论派的人说，她的项目申请经费一直很难，招不到学生也很正常。唉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/7fbd2da98f311ec659766569374be9ad_4139134961097022557.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其一",
+          "text": "我算不上有天赋，领悟力也不太够…拼命读书通过考试这才进了教令院。对不起，我…我先不跟你闲聊了，一说到教令院我就想起来，我的课题进度报告…到现在为止还没有进度呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8e9dcf0a5df555906bac6c4555d5c866_2670402350214999406.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其二",
+          "text": "我和导师的关系吗？嗯…怎么说呢…啊，你不要误会了，其实导师对我挺好的，我入学的时候还得到了她的推荐呢。每次我觉得自己要撑不住了，她都会鼓励我，然后顺便多要求一篇论文…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ee5c95885ce6914f292276bbda0d9333_710812043573496200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其三",
+          "text": "整个须弥最有才能的人几乎都到教令院来了，而且这儿还有那么多聪明得让人发抖的外国学者，你想想，这里的竞争该有多大！和这些人一起学习…我真的够格吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e5654a1c1708a7bb888a4b00d69cca17_7530692588504482389.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其四",
+          "text": "嘘，小声点，不要吵醒她，就让她安心睡上一觉吧。你问我嘴里的「她」是谁？哦，当然是每天为课业抓耳挠腮的莱依拉呀。那我是谁？呵呵，我也是莱依拉呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/c34be9af17d356d17c8625de2afe21b6_3773961758006415903.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其五",
+          "text": "我听别人提过，她好像以为所有写不完的课业总能在一场梦之后自动完成，都是「星空的赐福」。她呀，完全搞错了哦。…不过，你可别告诉她哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8b28655eeeb274a97cbb3bdb0112769e_1286836435523657206.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莱依拉的爱好…",
+          "text": "画星图真的是件累人的事，如果不是因为喜欢，我恐怕也坚持不下来。一会儿要用尺、一会儿要拿纸算、一会儿要查历年的星象…不知不觉一天时间就过去了。但看着画得整整齐齐的巨大星图，总是很有成就感。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/97e3781eb5e298bf1d98465dc44bcbca_3483651105169028879.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莱依拉的烦恼…",
+          "text": "从前我还没进入教令院念书的时候，睡眠质量还算过得去。但自从在这里学习之后…唔，压力实在是太恐怖了…我真的很想每天安安稳稳一觉到天亮，呜呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/75b22f7e0cc583a353bdd65b29bb52c9_6110508502121980043.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "每晚我躺上床之前，都会为自己热一杯牛奶喝，希望夜里能有个好觉，希望夜里能有个好觉，希望夜里能有个好觉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/b9a25e0b10801ffed91d3397ea298dd9_6454679132717089185.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "有一次，我听人说，有个神奇商人在卖的「睡眠软糖」很有效。我花光了奖学金和攒下的零花钱试了试，确实有效，那阵子我也睡得很好。但一盒卖二十万摩拉…实在太贵了，我、我绝对不会再买了，买一送一也不行，买一送二的话…我就再考虑考虑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/7febd5ee49a2ae5da63e0875e5a2572d_5365205105207104547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好厉害，好羡慕，你还真是什么都会呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e464d366e8016a2aa86e321119af811a_2895572130284768573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "…嗯，味道还算不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/f4e05ff111908870c783ade43d168835_7703159943473556263.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "要不…我们还是去店里买外带吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/7ef963aa3a3fab26b90c14e8ff3352d2_3938286840888751672.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐，我把这个袖珍星盘送给你。希望从过去到未来，见证了我们所有人类命运的星星能把目光分给你，伴随你走过沙漠、穿过海洋，到达你所探寻的终点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/2b0fae0adbba8a438fdf3f325a668b6a_2611678980621996371.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "莱依拉啊莱依拉，你还要更勤奋。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/725e276d32ffac2c322d8fe99a63a1f4_4929144292291881859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "莱依拉啊莱依拉，你已经很勤奋了，不过你的知识还不够全面。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e646abe6e873b17952a8f7a0aebef56e_6229754759345868690.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "莱依拉啊莱依拉，你读书又勤奋又广博，这很好。但你可千万不能松懈，一时懈怠，就会落后于人，最后悲惨延毕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/00bc4463670d3e1a00f8e337f7ac4887_3354860778022517732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "莱依拉啊莱依拉，要相信自己，也要相信帮了你那么多的那个人。你们一起，什么问题都能解决！呼…好了，所有担心我都抛到脑后了，咱们出发吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/7b38df063312d0a9486125f6055ae7a2_3795351210044910033.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "寒星！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/bc03963c8db282282889955a7502a9cc_3914800462275868205.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "拒绝打扰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/2ad98e1148fca351bcc61ed3cf3b89af_1738623019414976860.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "星星的加护。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/c94ed4d3a1028ff0c45437ba2fc942f0_1895855497115325548.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "星辰，为我降下。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/a7fa4af4e4544acfeaedece88f505d55_4012670621142037531.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "极寒，任我驱使。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/a64af44f68f73778c3293d5540e58c10_7964301115710853652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "别害怕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/49ba4930bc39b514c4ee8da3e87fa485_8812072879303895767.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "性价比不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/1aa31b40d46074a59f8fbe058b63b003_6981557253769005226.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "还是你眼睛尖。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/fc807d2034c787dfff013327cfbf6557_6023071652891493833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇！突然感觉不困了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/34f21946f40d98dc7f19856280c1e1c1_977829344296836953.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我好困…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/2505e31762b7dae6c78fe71f99d8e8b9_1066665575444483199.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "完了完了完了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/2ec54dab27fa34b9dc9710e8324af4aa_3049107923056271512.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "现在逃还来得及吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/5eaedb183a87c80380ec0ba0654e4e3e_1721419183085211220.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "醒醒，别昏过去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/aed178ca65fac08081bb761f9c86ffd8_4809470942360825840.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "糟了糟了，你、你受伤了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/90867799586a403546d5bf0b04516b65_2748312778144460527.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "永恒的睡眠…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/93de949ee129f423f9a4b50177f5e1d2_1411440175154537352.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "老师，对不起…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/c5d5a420f45bd35e06cbb874593238e8_4936122285105692315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "拜托了，这是个…梦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/44185820fba223948b824dd9197099be_7059997538045009546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "你不讲理！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/7e08927695a4f8a482746fb4793d9586_384742810812944815.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "这是违反规定的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/55591026a9953942c9e6bf3e3674cebb_3416101770148789297.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "睡不着就四处走走吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d10abdc11365984a48c6d87ebc7714e7_5901893183449851961.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "请好假了…没有忘的吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/01784ee5d5287996f0729b08fc5d7ec3_7483834524050826018.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "唉，脑袋空空，出去放松。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d957467ce70f7faf0ae9a7401b360872_3603974795995455713.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "哈…你好，我是梨多梵谛学院的在读学生莱依拉。…嗯？对不起，昨天没睡好我现在精神有点差，你刚才是在说「想和我组队」吗？没有没有，我不是不愿意，只是怕你不习惯我的作息方式…那、那个…请多关照！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/5b3c11350bf0c2ffd6af46ccf931d4bb_4863883232662239614.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·注视",
+          "text": "就算我们不抬头仰望，星空，也永远注视着我们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/82b6a12458935459647f03ab10a79674_7618689827051898874.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·梦游",
+          "text": "腿好酸…唉，大概昨天晚上又梦游了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/29eb0005cd7626a64f05e3c5f2fb5ba6_2875673711250655865.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·哀叹",
+          "text": "…为什么报告和论文永远写不完？为什么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/188edcfb081637e7cb9d421b23e52d5b_6961991722892899717.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "天气好差，今晚没法观测星空的话…唉，我的星图课作业真的不能再拖了啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/cf3c0cc2b5fd17c72a5ab7fd9b309017_5421363676129945668.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪地看起来亮晶晶的，很像天上的星星。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/f9c1aacc09f32e382d8fc203a80f282d_2370940320471198696.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "太阳晒着…好困…对，保持这个感觉，赶快找个枕头睡一觉…我已经两天、两天没有…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/5d9340ede5e703ded2440e795353baf4_1207349244460880415.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "白天晒，晚上冷，我、我要不行了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ba4026fe06c17bc44f43ce410f53a6cc_4901647324001634947.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "你睡得饱吗？要是还困就回去再睡会儿吧…我？我…习惯了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ca6aac18a6893ee9d592598cc0294b61_4139134961097022557.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "我在计算星轨呢，刚算到一半，午饭你就先吃好了…这里的角度不太对劲吧…不、不会吧…我是从哪儿开始算错了呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/1dd169c6de199ff5cf9a00bd12912be9_6329209362385875864.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "今晚我要早早躺到床上去，争取早点睡着。伟大的智慧之神啊，求您庇护我的睡眠。好，我要闭上眼睛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e4a9bc0a87ffa87606f87996ae4b13d9_5795172415037967603.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "…哈，让我看看她又被什么难住了。嗯…要整理三年份的旧星表，中期报告的附录还缺几张星图没画…好吧，从这份开始。嗯，你怎么来了？现在可是最重要的睡眠时间。我？我当然是在梦游了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/9148805446bdc63496595f6561029b9d_1462150730120056240.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉自己·理论星相学",
+          "text": "按照教科书上的说法：「利用理论星相学知识解决具体生活中的麻烦，这不是我们该关心的问题。」其实我觉得还有一个重要原因…就是…嗯，成本太高。我们测算的时候，一般会动用好多台星象仪，至少要查阅一年份的星图，才好给出一套…严谨的答案。但如果是为了算明天香料会不会涨价，怎么想都不太划算吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/0df9fe399bd6fdb8edafee4c14b929fa_710812043573496200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉自己·理由",
+          "text": "既然有了自己喜欢又能做得好的事，就得坚持下去，哪怕这条道路特别艰辛，哪怕一路上竞争极其激烈，哪怕不一定能顺利毕业，哪怕没能顺利毕业的话，就要把所有的奖学金还回去…啊，要不我还是回家吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/a065b34b119ed4bac7ffa76a5984f859_4770702485481796923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·陪伴",
+          "text": "嗯哼，我也不想熬夜补课题进度，可谁叫她总有那么多做不完的事。没办法，我当然得帮帮她咯。…你想陪我一起吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/7212aaf991377a47dff73247c2c430fe_8732978227056807019.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·漫游世界",
+          "text": "如果毕业之后，我没有留在教令院工作，就和你一起去漫游世界吧。你觉得怎么样？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/2a1653864fcbea05f4d93aff6663372c_3075247957235214650.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "哈…是什么在亮？我睡觉的时候忘了关灯吗…哦，是神之眼啊，我说呢…欸，不对，我睡觉之前…把它放在床头了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/1722e362815e816d3d22db3dfccde411_4223419206788376824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "我们学院主编的星表汇聚了所有生灵的命运，毫无疑问是占星知识的顶峰，第一次看到的时候我整个人都被吓得说不出话了！欸？你感兴趣吗？只是简单看看的话…我帮你提交申请吧，应该能被批准，应该…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d981d17590caf475f07d32d33e71fd71_8211042794018970221.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有没有什么能捕虫的植物啊，快救救我吧。晚上本来就睡不着，房间里还有小飞虫，一直嗡嗡响个不停，但我、我怎么找都找不到它在哪里…呜呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/3bf735c3a411ee7d5e1413f2c645bdeb_3773961758006415903.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜…",
+          "text": "在明论派学者的小圈子里，阿斯托洛吉斯·莫娜·梅姬斯图斯发表在《蒸汽鸟报》上的星相学文章名气不小。那些文章专业性都很强，但却能被学者之外的群体喜欢，要做到这点还是挺不容易的…欸？我把她的名字念得很流利？因为…厉害的人…得多多尊敬。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/422a19ef2c9d36ac4d76bd395b1a825e_5730302681048446857.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "啊，我知道你在说谁了。丽莎·敏兹，传说中只用了两年就学成毕业的素论派天才，要是我也能有这样的头脑…你在蒙德的时候见过她本人？真、真的吗？她平时都是怎么学习的？看些什么书，做些什么工作？我…我该从哪里向她学起？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/9a7ee4cdc9d08b10c889b9cdc22f1803_4693723644659156951.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "多、莉、吗…我咬着牙、攥着拳头在她那里买过一次东西，她看我结账很痛快，好像误以为我是什么有钱人，后来还一直寄商品宣传单给我，唔…真是天大的误会！那次购物的代价…不仅把我的奖学金垫进去了，接下来的大半年里，我吃饭都不敢多要肉，买书还得等打折…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/de75a5cb6ad00ba578e01800faef2c6d_2813790979967915979.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "「大风纪官」大人很擅长「七圣召唤」吗…啊我是在想，有机会的话，说不定可以和他打一局。像「七圣召唤」这种牌类游戏，熟练掌握运算技巧的人玩起来总是简单一点，我反而…不一定…或许不会输给他。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/634fc3e224dbce0d81551c9dd0005efe_2012117567232600177.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于坎蒂丝…",
+          "text": "我第一次梦游醒来的时候，曾经见到过你描述的这个人，原来她叫坎蒂丝啊。我还记得自己醒来的那一刻…所有报告和文章都被完成了。当时的感觉就好像…好像我每天对着星空念叨，终于被星星听见了，它们派了一位使者来帮助我，呜呜…太感动了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/5888af1452e471af4645ab62b0670795_6110508502121980043.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "职务达到书记官这种高度的人，应该就不用发愁能不能立项、能不能成功了吧。不对，既然都当了书记官，应该连项目都不用做了。真好啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/819187672dde728123186fb53fbd5191_3619941451863618860.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "伟大的智慧之神，我最近每晚都在熬夜复习，考试就请让我通过吧！拜托了拜托了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/be5e1c5d33be433dd3197abdbe33b294_5365205105207104547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "珐露珊老师招到学生了吗？听知论派的人说，她的项目申请经费一直很难，招不到学生也很正常。唉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d6be216ddc61926fa0f25afab756dae8_2895572130284768573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其一",
+          "text": "我算不上有天赋，领悟力也不太够…拼命读书通过考试这才进了教令院。对不起，我…我先不跟你闲聊了，一说到教令院我就想起来，我的课题进度报告…到现在为止还没有进度呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e0700400c87a8f1ba7882a69ec8e8ed5_3938286840888751672.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其二",
+          "text": "我和导师的关系吗？嗯…怎么说呢…啊，你不要误会了，其实导师对我挺好的，我入学的时候还得到了她的推荐呢。每次我觉得自己要撑不住了，她都会鼓励我，然后顺便多要求一篇论文…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/7c19fa945fc4274eccef8148a7cf1f8b_7216915700422887233.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其三",
+          "text": "整个须弥最有才能的人几乎都到教令院来了，而且这儿还有那么多聪明得让人发抖的外国学者，你想想，这里的竞争该有多大！和这些人一起学习…我真的够格吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ae5206a6bb7d47a1dbb81872615dfaf8_8839896916874657368.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其四",
+          "text": "嘘，小声点，不要吵醒她，就让她安心睡上一觉吧。你问我嘴里的「她」是谁？哦，当然是每天为课业抓耳挠腮的莱依拉呀。那我是谁？呵呵，我也是莱依拉呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/f374a768e06b78924577d006f8488943_6229754759345868690.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其五",
+          "text": "我听别人提过，她好像以为所有写不完的课业总能在一场梦之后自动完成，都是「星空的赐福」。她呀，完全搞错了哦。…不过，你可别告诉她哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/039c53d7e2c8a4a6e3d215fd18375f58_3354860778022517732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莱依拉的爱好…",
+          "text": "画星图真的是件累人的事，如果不是因为喜欢，我恐怕也坚持不下来。一会儿要用尺、一会儿要拿纸算、一会儿要查历年的星象…不知不觉一天时间就过去了。但看着画得整整齐齐的巨大星图，总是很有成就感。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/92469c4271dc4d786443a6846ca24ef9_7443507043030248741.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莱依拉的烦恼…",
+          "text": "从前我还没进入教令院念书的时候，睡眠质量还算过得去。但自从在这里学习之后…唔，压力实在是太恐怖了…我真的很想每天安安稳稳一觉到天亮，呜呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/dba4538a880e9d8ee1a9c9e8dd0e8aa6_3914800462275868205.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "每晚我躺上床之前，都会为自己热一杯牛奶喝，希望夜里能有个好觉，希望夜里能有个好觉，希望夜里能有个好觉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/33113af492e9da30be1dd745015cf1d8_4012670621142037531.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "有一次，我听人说，有个神奇商人在卖的「睡眠软糖」很有效。我花光了奖学金和攒下的零花钱试了试，确实有效，那阵子我也睡得很好。但一盒卖二十万摩拉…实在太贵了，我、我绝对不会再买了，买一送一也不行，买一送二的话…我就再考虑考虑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8d0dbb12f433885ac66769caf94b494c_5255733086173495517.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好厉害，好羡慕，你还真是什么都会呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/85ef76178f0ec0edb497d99a383be1f9_2899793169536189812.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "…嗯，味道还算不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/861128ad8a7a40a23c43efbb9bd1b010_7898026074311640368.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "要不…我们还是去店里买外带吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/21c1f52eb867893dbf3c00588d07f015_8812072879303895767.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐，我把这个袖珍星盘送给你。希望从过去到未来，见证了我们所有人类命运的星星能把目光分给你，伴随你走过沙漠、穿过海洋，到达你所探寻的终点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/0cd661f55514043b0010ac985c17eabd_480560367097885787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "莱依拉啊莱依拉，你还要更勤奋。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d0fba79884d2753b6473f8d535cc234c_6981557253769005226.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "莱依拉啊莱依拉，你已经很勤奋了，不过你的知识还不够全面。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/b03947d399f9ab5957706b3fafa7f288_243139026471179912.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "莱依拉啊莱依拉，你读书又勤奋又广博，这很好。但你可千万不能松懈，一时懈怠，就会落后于人，最后悲惨延毕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/3c8a28b147e9bb2842271c7174e515e8_7941711464185907294.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "莱依拉啊莱依拉，要相信自己，也要相信帮了你那么多的那个人。你们一起，什么问题都能解决！呼…好了，所有担心我都抛到脑后了，咱们出发吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/44200c5ab0a3c75fd2f63f0087e754fb_3049107923056271512.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "寒星！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/fff9a3c84c406ca60702bd5da13bd576_2537796928959517072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "拒绝打扰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/82e82b39c30fe23724bc6255c6f845de_4809470942360825840.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "星星的加护。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/9d7f74e74de2c29c752046695d19fb36_2183984013094390414.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "星辰，为我降下。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/9f51023e49aba014a501ea6477314bdd_2748312778144460527.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "极寒，任我驱使。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/9f688bd33274024c69830ee6f43d386c_3641955719349779597.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "别害怕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/95bf009c25305e0659e3cdb06d0fa84f_479338153651892742.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "性价比不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d949d74c58cae48ab8790f149158a47e_1967143020935187473.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "还是你眼睛尖。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/70656343075924a2161faec1a5ffe1d9_3416101770148789297.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇！突然感觉不困了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d467b68201ae5226016f830b79497ca5_7483834524050826018.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我好困…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d90cdb7e10319122a1b61222e98f7759_1947000806289728902.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "完了完了完了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/0707e47ccc378fa6f44c9d27f801cafe_2778711241382326081.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "现在逃还来得及吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/dff5afc905c741efdb9dbc407d8c1424_5421363676129945668.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "醒醒，别昏过去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/525b3e57026b49eabb6df8e7ff8621c3_2227968015711547763.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "糟了糟了，你、你受伤了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/54f22c79e2a45645453c33ba6702c171_738660629879820472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "永恒的睡眠…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/318e820e9ad98127c960e338118f6b39_6037307644062796534.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "老师，对不起…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/2ae5903ad7cdbb1adcf7f1e33fa56e16_3914332638738934096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "拜托了，这是个…梦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/c22c2a43d8498104b526ff99eb320527_2040364666774088977.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "你不讲理！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e17a7f73283e2a49e0883bb914574db8_1207349244460880415.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "这是违反规定的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ac76016b218fe7af7d849a7f9dd8722d_6329209362385875864.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "睡不着就四处走走吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/79174e0a371a33d419d329463eecfbd9_5818187480672177344.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "请好假了…没有忘的吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/42e59d21270a4310703f7e53215b872f_5243875988794356009.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "唉，脑袋空空，出去放松。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/5317fa4425e80e7e65b4645ef63dfaa0_4351108582137645436.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "哈…你好，我是梨多梵谛学院的在读学生莱依拉。…嗯？对不起，昨天没睡好我现在精神有点差，你刚才是在说「想和我组队」吗？没有没有，我不是不愿意，只是怕你不习惯我的作息方式…那、那个…请多关照！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/3be750c9db43cb1516ee1587e6a10781_1174997965912035691.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·注视",
+          "text": "就算我们不抬头仰望，星空，也永远注视着我们。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/3f10ba42b349efb1155fe2b9e6b0bb4b_4055189280218684729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·梦游",
+          "text": "腿好酸…唉，大概昨天晚上又梦游了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/9790498bcdd3843dea1f3447089d69d0_5255733086173495517.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·哀叹",
+          "text": "…为什么报告和论文永远写不完？为什么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/befb3262e8339b9529a93dd37add8a0d_7221711743416092883.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "天气好差，今晚没法观测星空的话…唉，我的星图课作业真的不能再拖了啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/788a533b4af4462ceace7dcaff48f65e_2899793169536189812.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "雪地看起来亮晶晶的，很像天上的星星。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ae555a3695db2eaa69cc556ba5faf739_7898026074311640368.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "太阳晒着…好困…对，保持这个感觉，赶快找个枕头睡一觉…我已经两天、两天没有…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/045a3a1b2d561011e6eeacfeac58987b_7580978931992740447.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "白天晒，晚上冷，我、我要不行了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/7540bf432140d59ea0bf3eabd395f915_480560367097885787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "你睡得饱吗？要是还困就回去再睡会儿吧…我？我…习惯了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/f3fdfc80444f8802c4c355882868137b_8811156274251211244.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "我在计算星轨呢，刚算到一半，午饭你就先吃好了…这里的角度不太对劲吧…不、不会吧…我是从哪儿开始算错了呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/baa5927d71457d3ffba274908eab51bc_4462711154230544296.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "今晚我要早早躺到床上去，争取早点睡着。伟大的智慧之神啊，求您庇护我的睡眠。好，我要闭上眼睛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/067d75c91f26873723f25679f691f7c7_1882105935890193207.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "…哈，让我看看她又被什么难住了。嗯…要整理三年份的旧星表，中期报告的附录还缺几张星图没画…好吧，从这份开始。嗯，你怎么来了？现在可是最重要的睡眠时间。我？我当然是在梦游了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/9e4e4fc582e0f39dd38e256989618b93_7641455994635980633.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉自己·理论星相学",
+          "text": "按照教科书上的说法：「利用理论星相学知识解决具体生活中的麻烦，这不是我们该关心的问题。」其实我觉得还有一个重要原因…就是…嗯，成本太高。我们测算的时候，一般会动用好多台星象仪，至少要查阅一年份的星图，才好给出一套…严谨的答案。但如果是为了算明天香料会不会涨价，怎么想都不太划算吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/894c3266db63add33ad22d577671ad4e_5678205039543810571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉自己·理由",
+          "text": "既然有了自己喜欢又能做得好的事，就得坚持下去，哪怕这条道路特别艰辛，哪怕一路上竞争极其激烈，哪怕不一定能顺利毕业，哪怕没能顺利毕业的话，就要把所有的奖学金还回去…啊，要不我还是回家吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/020e2cce818c18d8cc176e656de7659f_7941711464185907294.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·陪伴",
+          "text": "嗯哼，我也不想熬夜补课题进度，可谁叫她总有那么多做不完的事。没办法，我当然得帮帮她咯。…你想陪我一起吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/40223fb2c356ff033d3001cedefe0749_4074252872592484827.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·漫游世界",
+          "text": "如果毕业之后，我没有留在教令院工作，就和你一起去漫游世界吧。你觉得怎么样？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/297b543c5d6744533d6bedc068068b31_2537796928959517072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "哈…是什么在亮？我睡觉的时候忘了关灯吗…哦，是神之眼啊，我说呢…欸，不对，我睡觉之前…把它放在床头了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/9679ebc52f53d6cee35dd7fc6ce7ea1e_8471113312911982018.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "我们学院主编的星表汇聚了所有生灵的命运，毫无疑问是占星知识的顶峰，第一次看到的时候我整个人都被吓得说不出话了！欸？你感兴趣吗？只是简单看看的话…我帮你提交申请吧，应该能被批准，应该…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/bc7714fa1016d52bbadb4c771796bf92_5262854290028663443.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有没有什么能捕虫的植物啊，快救救我吧。晚上本来就睡不着，房间里还有小飞虫，一直嗡嗡响个不停，但我、我怎么找都找不到它在哪里…呜呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/bbabd7d195464687b002e198628c3635_7256064137424127753.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜…",
+          "text": "在明论派学者的小圈子里，阿斯托洛吉斯·莫娜·梅姬斯图斯发表在《蒸汽鸟报》上的星相学文章名气不小。那些文章专业性都很强，但却能被学者之外的群体喜欢，要做到这点还是挺不容易的…欸？我把她的名字念得很流利？因为…厉害的人…得多多尊敬。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/5cf80a023c74c138a5b1a3a95264b2b3_1706743343569809907.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "啊，我知道你在说谁了。丽莎·敏兹，传说中只用了两年就学成毕业的素论派天才，要是我也能有这样的头脑…你在蒙德的时候见过她本人？真、真的吗？她平时都是怎么学习的？看些什么书，做些什么工作？我…我该从哪里向她学起？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/0a1bbd3af2f5c62a3e3e787694a3abce_3641955719349779597.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "多、莉、吗…我咬着牙、攥着拳头在她那里买过一次东西，她看我结账很痛快，好像误以为我是什么有钱人，后来还一直寄商品宣传单给我，唔…真是天大的误会！那次购物的代价…不仅把我的奖学金垫进去了，接下来的大半年里，我吃饭都不敢多要肉，买书还得等打折…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d70a49f9f2c7711f82c7ec47dc96347c_479338153651892742.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "「大风纪官」大人很擅长「七圣召唤」吗…啊我是在想，有机会的话，说不定可以和他打一局。像「七圣召唤」这种牌类游戏，熟练掌握运算技巧的人玩起来总是简单一点，我反而…不一定…或许不会输给他。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/4ab96bc2866c502e84063fc57c00706a_7437471501640127773.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于坎蒂丝…",
+          "text": "我第一次梦游醒来的时候，曾经见到过你描述的这个人，原来她叫坎蒂丝啊。我还记得自己醒来的那一刻…所有报告和文章都被完成了。当时的感觉就好像…好像我每天对着星空念叨，终于被星星听见了，它们派了一位使者来帮助我，呜呜…太感动了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/f84d433cdab40413cdafbf408796f14a_6010620006895226430.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "职务达到书记官这种高度的人，应该就不用发愁能不能立项、能不能成功了吧。不对，既然都当了书记官，应该连项目都不用做了。真好啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/a3fb76ff417b107f8e1b06f93f929823_1947000806289728902.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "伟大的智慧之神，我最近每晚都在熬夜复习，考试就请让我通过吧！拜托了拜托了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/200c4726b4775470ce8ceab8ac6b7dbb_3214308079058730238.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "珐露珊老师招到学生了吗？听知论派的人说，她的项目申请经费一直很难，招不到学生也很正常。唉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/39b781800ac1e26baf972348943f04af_7997458075297923726.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其一",
+          "text": "我算不上有天赋，领悟力也不太够…拼命读书通过考试这才进了教令院。对不起，我…我先不跟你闲聊了，一说到教令院我就想起来，我的课题进度报告…到现在为止还没有进度呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8a8f563e9f204f1b1bc298f113104b40_5618498327625028828.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其二",
+          "text": "我和导师的关系吗？嗯…怎么说呢…啊，你不要误会了，其实导师对我挺好的，我入学的时候还得到了她的推荐呢。每次我觉得自己要撑不住了，她都会鼓励我，然后顺便多要求一篇论文…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/5f4303d39bce163c80f9c25de2d3d1d5_738660629879820472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其三",
+          "text": "整个须弥最有才能的人几乎都到教令院来了，而且这儿还有那么多聪明得让人发抖的外国学者，你想想，这里的竞争该有多大！和这些人一起学习…我真的够格吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/d3f7a6885b9e1d5a20cb3fa9501f49a2_6037307644062796534.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其四",
+          "text": "嘘，小声点，不要吵醒她，就让她安心睡上一觉吧。你问我嘴里的「她」是谁？哦，当然是每天为课业抓耳挠腮的莱依拉呀。那我是谁？呵呵，我也是莱依拉呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/bf904f6fed7de72096c08f63f0ec4c01_3914332638738934096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莱依拉·其五",
+          "text": "我听别人提过，她好像以为所有写不完的课业总能在一场梦之后自动完成，都是「星空的赐福」。她呀，完全搞错了哦。…不过，你可别告诉她哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ca1b804de3ce544fddc2921f1b4fad40_2394168648379161676.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莱依拉的爱好…",
+          "text": "画星图真的是件累人的事，如果不是因为喜欢，我恐怕也坚持不下来。一会儿要用尺、一会儿要拿纸算、一会儿要查历年的星象…不知不觉一天时间就过去了。但看着画得整整齐齐的巨大星图，总是很有成就感。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/1d45737cc82620f7b8d79aaea78b1fd4_5243875988794356009.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莱依拉的烦恼…",
+          "text": "从前我还没进入教令院念书的时候，睡眠质量还算过得去。但自从在这里学习之后…唔，压力实在是太恐怖了…我真的很想每天安安稳稳一觉到天亮，呜呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/7e024ee4919454274c9648ea762f10fc_2713796818551690406.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "每晚我躺上床之前，都会为自己热一杯牛奶喝，希望夜里能有个好觉，希望夜里能有个好觉，希望夜里能有个好觉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8ecf9e668da27d557af2487a727cc9bc_4623892166783300817.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "有一次，我听人说，有个神奇商人在卖的「睡眠软糖」很有效。我花光了奖学金和攒下的零花钱试了试，确实有效，那阵子我也睡得很好。但一盒卖二十万摩拉…实在太贵了，我、我绝对不会再买了，买一送一也不行，买一送二的话…我就再考虑考虑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/77ac5145ebdc3d943c6c09f87124d9bd_8630379671643747130.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好厉害，好羡慕，你还真是什么都会呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/67c15178337bde2f45737b6d927bc378_824493605093079497.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "…嗯，味道还算不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8d239887c0818178b19c80e260abe4a7_1174997965912035691.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "要不…我们还是去店里买外带吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/f07655862b09286ecb807c05a7c20764_7763932024690952339.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐，我把这个袖珍星盘送给你。希望从过去到未来，见证了我们所有人类命运的星星能把目光分给你，伴随你走过沙漠、穿过海洋，到达你所探寻的终点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/49711553cac9b63d4d08b43769cb45b2_2347362526616392152.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "莱依拉啊莱依拉，你还要更勤奋。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/23045f6ff513655551d7952f61a5554d_1366264392620872264.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "莱依拉啊莱依拉，你已经很勤奋了，不过你的知识还不够全面。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/721d2dc1e4c189b2073ed1a84f8731ce_4279380579458440510.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "莱依拉啊莱依拉，你读书又勤奋又广博，这很好。但你可千万不能松懈，一时懈怠，就会落后于人，最后悲惨延毕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8aebc5d794d334026e826bfc317eeca2_2984784000520801763.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "莱依拉啊莱依拉，要相信自己，也要相信帮了你那么多的那个人。你们一起，什么问题都能解决！呼…好了，所有担心我都抛到脑后了，咱们出发吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ee30e368927962536b39e21a0ce671e5_8647894510203860096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "寒星！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/1a9833d82e16c981dde3896c133ad8ae_4437301215749959387.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "拒绝打扰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/4694dfaaac2ab1f7342a68936f5388a3_6888338623004009979.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "星星的加护。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8a95cc8b95f0074477feb2a4719db15b_5668136060750621264.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "星辰，为我降下。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/f287392071ffbf879d8d41a705b7ef5f_5731937305899651347.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "极寒，任我驱使。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/9bc7fe8309247b0b12c2fcd4945700db_2016326009211073923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "别害怕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/4792e8efd4fb41d7cdd87b98bacf1efd_725756173635845537.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "性价比不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ed943c54f9e22ea712143f4668199b54_8328035091070667656.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "还是你眼睛尖。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/c1299a4b33cecdc5e5c99ef473a9f9c3_4256305077939645052.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇！突然感觉不困了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8cf61cf10215acac3ab5524de2596869_2042992584907667236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我好困…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/a7c66303c909035a8d1e48b5806282e4_2596968517605755932.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "完了完了完了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/75f540ff293b05b6746954766b12e4dd_1198551469507616034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "现在逃还来得及吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e49bd48d4a5919619b7924898495b552_6154580105685976854.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "醒醒，别昏过去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/49b8081893c8540d3e6e143e394cf083_7221711743416092883.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "糟了糟了，你、你受伤了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/cdfa2d7cc510fe7705c3c662794eb7b5_7691794656982052562.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "永恒的睡眠…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/79d98261e3db8dbafb9b053008dc08cd_5428775691954657121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "老师，对不起…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e0e5b1d421da2515de333743f4ef3ce7_5871435395076977173.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "拜托了，这是个…梦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/e000790cf8793dc9052d59db968860a4_8811156274251211244.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "你不讲理！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/ef186b9bd9989a39f3973640dab68191_2989575150753653977.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "这是违反规定的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/5466624d6890a53abcb1f572e5933d9b_6855889614996088031.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "睡不着就四处走走吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/4c82c645912f6436361e50fa39220ccb_1882105935890193207.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "请好假了…没有忘的吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/63e6e52a1ce3d3474897b9c8b6483edb_5851944202799928144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "唉，脑袋空空，出去放松。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/18/16576950/8a2e1c48dcae16d42673038f697b0b7e_7641455994635980633.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

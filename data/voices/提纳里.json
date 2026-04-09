@@ -1,0 +1,1853 @@
+{
+  "id": "4334",
+  "name": "提纳里",
+  "alias": [
+    "提纳里"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我叫提纳里，是道成林的巡林官，负责维护雨林生态与行人安全。若你初入此地，我的建议是先通读《道成林生存指南》，并重点阅读「如何分辨可食用蕈与有毒蕈类」一章。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/390ea198acd1c0248063ead661e9fe44_149318912958511807.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·叶片书签",
+          "text": "将树叶夹在干燥的纸页之间简单压制，就能做成好看又好用的书签了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0c4a79186981bc8612f57ae728f6778d_1756603633429229768.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·犯错",
+          "text": "不要害怕犯错，犯错也是学习过程中的一环。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/62bb660c255f4ff848540339052d1e21_3627117752469548901.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·知识的价值",
+          "text": "知识的价值，是不能用金钱简单衡量的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5551b69fa0d138f06ff4443375d34da3_6955951633879253651.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "这种天气我已经习惯了，但你最好还是打个伞哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/dcf2dff718476a2db5a9e3eeaaeb7ae5_6223762190958656755.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "我的尾巴涂过用来防水的植物精油，甩甩就干啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/25e096433279c2adf0dd5bfb0fc6e1c9_9088790374436287375.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎呦，好响的雷！呜…震得脑瓜疼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/42a1bc38583cc5b57c18e769ab50f966_8181989823803147327.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "这种天气可真少见！哎，你冷吗？冷的话可以把手埋进我的尾巴毛里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0b410ac111711b9c7e3ae5a997a43c64_1170053686742976275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "耳朵！…耳朵要吹翻过去了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2e497c98cf58c82e3b8d9cab3f748f01_2426976058031463654.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "…好热啊…这么毒的太阳下，哪怕是冰雾花也会融化的吧…啊，仔细想想，其实不会啦，啊哈哈…唉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9dc68e3b5b105db3ae3efdf6814b6204_1721843838711872823.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "听！是晨露滴落叶梢的声音。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/48c87f8d008531699ec8abc61401e17d_779353106914253418.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午休的时候我喜欢坐在树上，盯着从树枝缝隙间漏下来的阳光发呆，一不留神就会睡着…哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/43b33227743c13c93a1df5eef73f9627_784850685251487453.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。我正准备去观察夜光植被，要一起来吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/90ca03c14e92f7f47874339f1ea1326a_1391399934454667242.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你睡吧，我来守夜，顺便记录下今天的巡林日志。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4b6813278cc73798deb224c85c73853a_2207323787662684632.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里自己·专业",
+          "text": "我以前上学时从属生论派，主攻植物学。本来导师想让我毕业后留校任教，但说实话，我喜欢更自由一些的研究环境，而且就我的观察，教令院的某些行事作风令人不敢恭维。还好当时导师没有强求——…他强求也没用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4ecc7bca9c4c068145ab7c4682d81d91_5015225857604977975.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里自己·族人",
+          "text": "确实有不少人觉得我这一族性格孤僻，也不怪他们这样想。我的族人确实数量很少，还大多是学者，总是为了研究到处跑，一年也见不到一根尾巴毛。像我爸就是昆虫学家，最近好像在沙漠里研究甲虫的古今演化过程，啊我就不跟着去凑热闹了。说来惭愧，我不擅长应付烈日。晒久了脑袋里就一团浆糊，晃晃荡荡的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/77f6d07cefbe9c7710e8dfe52a4b988a_5316298955387116430.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·相处",
+          "text": "我认为人与人之间相互了解的最好办法就是多花时间相处，其他的都不实际。所以不必急着自我介绍，时间会沉淀一切。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/6f9adcf1940b514457937dc0a4c04cd4_5223134033548816609.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·朋友",
+          "text": "你问我们算是朋友吗？怎么，原来这种事情是需要官方认证的吗？那赶紧把你的「朋友证书」拿出来，我必须在上面签字。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9357b9673eeddab9986dfbc08c2bcf1b_2134114870532131862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我记得自己小时候曾经祈祷过，如果能有幸拥有「神之眼」，可一定得是草元素呀。不过那时的原因不是为了搞研究，而是想要制造藤蔓梯子，爬上去摘高处的果子吃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/018a55bbbb782d0dd10e8673c4eef2fa_8819575052392464808.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·兰那罗",
+          "text": "我对这种生物早有耳闻，却一直没有亲眼见过。有时树林深处会有一些窸窸窣窣的响动，等我靠近时却又消失不见。这样也好，至少它们懂得如何保护自己，比那些碰见丛林豹还要上去亲切慰问的笨蛋冒险家们强多了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/01f85d2029f97ec294c7ae1afe67c3d0_4509174871456898989.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·卡卡塔",
+          "text": "卡卡塔的事情你不必担心。我已经跟认识的风纪官打过招呼，说卡卡塔是我研究工作中的助手，要动它的话得先找我过问——嗯怎么，看你还挺惦记它的，要不要去素论派选些课程学学？那样就算有一天我不在了，你也能继续照管它。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8702533150c671aa7d07cd80e13c26bd_20364202075229170.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你知道吗？植物会伪装术。有些会拟态成昆虫或者鸟类，恐吓天敌；有些会制造诱饵，吸引其他生物为自己传播花粉；还有一些则是纯粹的捕食者，用香味或蜜糖吸引猎物上门…嗯，说到这里，感觉已经不只是植物会这样了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0f477c37348e6fd055d8777fa41cf9cb_1756603633429229768.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱…",
+          "text": "这孩子刚被带过来的时候，可以说是大字不识一个。不过问题不大。她学习勤奋，态度也认真，进步很快。只是，距离她习得精湛医术的目标还有很远的路要走。她有时会给自己很大的压力…噢，你有机会的话也多帮帮她吧？就当是我这个做师父的拜托你啦，多谢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9e70a0f6ab60cb448a35f54a568ab221_4437200529654785903.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺·大风纪官",
+          "text": "你想见赛诺？那我丑话说在前头，被他因为公事追在屁股后面可是要倒大霉的。大风纪官毕竟位高权重，平日里还真不好找。不过他偶尔会到化城郭附近偷偷看望柯莱，就算他不想让人看见，我也能听出是他。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/5e4502a368b4c155a8ea8574afffde0b_3233313297841096668.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺·为什么呢",
+          "text": "在导师被救出来后，我给他写了一封问候信，但没想到导师说已经有人以我的名义拜访过他了，并在回信的结尾附上了一个问题：「为什么大风纪官说要靠须弥『强威』重振贤者们的名望？」…问得好，到底是为什么呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/71056031a64b5a008ff24e247a531da6_741177521273551323.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "小心艾尔海森。啊，倒不是说他是什么坏蛋啦，但他做事始终被理性主导，总会有让常人觉得无法接受的地方。不信的话可以去看看他的室友，经常被他气得比风史莱姆还鼓。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9b6dd20deafc2fef114fb04eb204235e_2373252776400383641.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "卡维是须弥著名的建筑师，代表作就是那座醒目的卡萨扎莱宫。当初在设计建造的时候，他还来找我咨询过有没有合适的观赏植物推荐。但不知是怎么搞的，他在宫殿完工后却给自己欠了一屁股的债，目前正被学弟艾尔海森接济，借住在他家。这个…该说是幸，还是不幸呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c07568dbc105600d3f300884a5a0415a_1155744180403923952.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "大名鼎鼎的桑歌玛哈巴依老爷——就是多莉啦。我能认识她，还是因为有次研究需要用到很稀有的材料，只有进货渠道成谜的多莉才能搞得到。啊那个…别问我找她买了什么，也别问我当时在研究什么，嗯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/75a0929715be366592e99dce92ef33d5_779353106914253418.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉…",
+          "text": "我听说过她，远近闻名的「梦游怪人」。关于她「梦游」的传闻真是千奇百怪，什么怪力千斤顶啦，夜闯阿如村啦，徒手翻越防沙壁啦…甚至还有说她能边睡边写完十万字论文的！这都什么跟什么，哪也不挨哪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/13310d48dd6653e23585721b4ebff3fd_3992636672784570485.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "我听赛诺说过他的这位师姐，是难得一见的天才，博学多闻，才华横溢，只可惜早早就回到了蒙德。难道她在进修的过程中，见到了「知识」令人畏惧的一面吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b139ace47aa49c81ce145c2925f0f754_1188389918387402074.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "我在上学的时候曾听过这样的说法：「植物的历史，便是草之国的历史。」也许说者无心，但我总觉得此话另有深意。如果我有一天能见到小草神大人，她会给我解释吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0547442ac56a9ea443902e8d8e3e3a70_1795003937209496405.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "之前情况危急，都没来得及好好向她道谢。能有这样强大又可靠的同伴是件非常幸运的事情，想要拉拢她的人一定不少。不过迪希雅看上去不像是愿意加入教令院或者巡林队的样子，我就不去自讨没趣了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/0e9c0ab1cc0deed6de4473c5860c3eba_5417332671588498888.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "珐露珊前辈见识广博，我经常邀请她来检查雨林里的机关…只是希望下次她来化城郭的时候，不要再给柯莱偷偷塞吃的了——营养就跟药剂一样得均衡适量，过剩了可没好处。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/6727a9eaa13d34a800b17c38810dc205_1562037975095905778.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛索斯…",
+          "text": "你说赛索斯？他很有意思，有点像赛诺的远房亲戚，而且很好相处。上次他来化城郭作客，抢着要秀一手搭帐篷的技术，还跟赛诺争着捞鱼，柯莱觉得自己的工作被替代了，很郁闷呢。\n\n大家都说赛索斯很擅长逗自己开心，过得很快活，工作起来又很认真。噢，说工作好像不太贴切，缄默之殿的事对他而言，比起工作更像是义务。如果你在沙漠需要帮助，可以找他。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/82503813/7a5552981b5d7a2cb6109034861222c8_1360346643395195017.mp3",
+          "audioName": "关于赛索斯…_cn (1).mp3"
+        },
+        {
+          "name": "想要了解提纳里·其一",
+          "text": "雨林生活还过得习惯吗？建议眼观六路，耳听八方，注意安全，有事记得找巡林员。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ba6ba170ef8c9ed72da0893c5ac1b853_100764150925847864.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其二",
+          "text": "哎，有时还挺羡慕那些什么都搞不清楚，还敢到处乱摸乱吃的家伙——在他们的世界里，一定处处都有「奇迹」发生吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3755c970237c3255a79dd5af0a3ff248_5316298955387116430.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其三",
+          "text": "为了更好地管理道成林，我时不时会给巡林员们开设「培训」课程。要是逐字逐句深究的话，这些课程其实都算是在「传播知识」。不过教令院又能怎样呢？有本事就把我关起来，看看「健康之家」每天要多收多少千奇百怪的病患吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b61bf54ede5fa7b6cfa93bba0fca160d_5984469697226222266.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其四",
+          "text": "悄悄跟你说啊，其实我很喜欢城里大巴扎的氛围。买卖兴旺，生活热闹，还有人在剧场里唱歌跳舞。但是很遗憾，嘈杂的声音对我的耳朵太不友好了。嗯？你说可以在背后帮我捂住？哈哈，那也太难走路了，但是心意我领啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a4c57fecbb66716b667cb293c01ee712_8454006002705817896.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其五",
+          "text": "我小时候做过许多美妙又奇幻的梦，但它们在我长大后的某一天，永远地消散在了记忆中。你还可以做梦吗？给我讲讲你的梦吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/31149d00d93fe2d48f1fd91e1d3ba27f_6762581608056421066.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "提纳里的爱好…",
+          "text": "道成林里经常有掉在地上的树叶和花朵，有些在掉落的时候还很完整，就这么扔在地上太可惜了…我总是忍不住把它们捡回来做成标本。既可以变成培训巡林员的教具，还可以当作漂亮的装饰品，一举多得。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/385b068016261a4417ae58d00a98d03b_8819575052392464808.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "提纳里的烦恼…",
+          "text": "烦恼吗？嗯，我想想…道成林中出现的污染、经常惹麻烦的冒险家、总是想要扑我尾巴的救援犬…但这些问题总有解决的办法。要说大的烦恼，还真没有。这么一看，巡林官的生活还挺简单的呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/1f7bd6b6ac8b14a91d0157b2e63ea51d_2907920681556194538.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "说来稀奇，我身体里虽然流淌着食肉动物的血脉，但最无法割舍的食物却是蘑菇。可食用的蘑菇种类繁多，无论是新鲜的还是晾干的，都会散发独特的香味。与肉类一起炖煮时，就连肉香也要为它们让步。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a727be4dc56c1a37710f7be6682e233a_3251739656925320947.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "因为嗅觉太灵敏，我无福享受添加了太多香料的佳肴。唉，这在须弥可以说是重大遗憾了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7ad7bfa7a9e036093d2ad3860528a549_4437200529654785903.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "食材优质，调味精妙，简而言之——非常好吃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/72a0344ebcfe03cc84d3300383d0d679_8970309936321626357.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错的搭配。可以请你抄份食谱给我吗？我想把它加入巡林小队下次聚餐的菜单里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9049f717d62544242b61642f9f5f727d_9059763443206854344.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…需要我教你一些新菜吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/462016a7ef6fd0c68fac03318d5c0a2c_2313982676862650794.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！我选了一盆今日花期正盛的盆栽给你，另附养花指南。万一它之后出现任何问题，都请不要客气，随时找我，它有「巡林官终生保育凭证」。你知道吗，在你生日时开的花可多了，我挑了好久呢。等到明年，再送你新的品种吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c51fe207fcc8d674c6feab5c9e67bc39_5649865453838269106.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "种籽萌发，破土生根。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4a0157ee5bc874802e6a9c0a1e6959bf_1188389918387402074.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "幼苗拔高，开枝展叶。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4eb666ba744b73b484059b81706bff36_8303327172143423337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "花蕾满枝，杏雨梨云。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/dca3280919d615a1a626b6fcecfc59ec_8101031221535436920.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "硕果丰熟，来日更盛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4db8fcaac90c3825cb6deca115f409ba_1817724745280357805.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "一叶障目。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/1a9e2d2a42869240e21c1b1a474f3abc_100764150925847864.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "障眼法！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/279fee7cb13132153fa81fcbc0f424cf_3644570232007665329.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "看不清了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/98c4f35ddfd2c730b82027b5fad5282d_8670426150653818362.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "斩草除根！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/33259c5c98e1e10121ec9d14dd39a7ea_5984469697226222266.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "蔓引株连！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d547e5a72acdcc9183c88094f499eceb_7783358098463798166.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "声音，我听见了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a45ec47c69a546603df762507fb96783_8072344314045704153.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "跟紧了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/da1c315e4fe8ef9799fb65370361eb15_2907920681556194538.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这里怎么会有宝箱？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/51b2ed6d754ec8731fe59364307532b1_6355939068484004366.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这个，应该不用写失物招领吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0f521b31f4955a0e11db9b2acf8b5535_8195192432822159802.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "闻起来有好东西哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2ef40b09cc0667d12b281c001b819ab2_3251739656925320947.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "唉，真是麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b430561d3dce519bdcddff41f2c18b0c_8970309936321626357.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "尾巴毛都乱了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5da52e910eefc1e86ef93d327885077f_720613282297206729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "该清杂草了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7789ce379965ac3ee01348927e8cc578_4657340975821323549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "快去疗伤。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2f3ee86ca607cf1d93aa95e80fbb4c47_7070345323647496350.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "救人要紧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0d3d30742eca2e99c2d5e94df31afc35_8012424996847495336.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "叶落…归根…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7b09a7b50f98df5ce6f56d8a990f0d03_2411329187052946669.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "还有未完成的研究…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a27d232a18e609ff39582b6532028001_1817724745280357805.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "没能等到花开…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/81ae351f5b1341870b6ae7da82b88e4d_5019288287455758974.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "哎呦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d99e5939e485abede105e2c67dc022b5_7957801503886218312.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "行啊？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/36bbd1cc4fb96736647921bf6bd1f1ec_8072344314045704153.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "没完没了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4fb390536acb980c815f9250312cf048_3018598897621301774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "等着入土吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b0c130853dbd0bf072f5399d5777909b_8883161784740044868.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "我来领路。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/61d314264c9d676c61acb8b1308a15fe_8868745954645809370.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "唉！有谁又吃毒蘑菇了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/af14b6336346abd63c9458710f11b675_8069993257418871774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "走，去采些样本！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f223a62748af630be98ded5a97ec3448_6868086434429158824.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我叫提纳里，是道成林的巡林官，负责维护雨林生态与行人安全。若你初入此地，我的建议是先通读《道成林生存指南》，并重点阅读「如何分辨可食用蕈与有毒蕈类」一章。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/94fa8a1397e960d2f81bb2093680a7ea_8000276662560120275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·叶片书签",
+          "text": "将树叶夹在干燥的纸页之间简单压制，就能做成好看又好用的书签了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2bbe0f6fb6e23d52993b6cf2a54d9392_4440653756059223792.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·犯错",
+          "text": "不要害怕犯错，犯错也是学习过程中的一环。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a968d94521691e296eb858dc23c66056_412311611843383151.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·知识的价值",
+          "text": "知识的价值，是不能用金钱简单衡量的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/79f6a32e3e58879385fb5cf066e9c505_1219021420032352626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "这种天气我已经习惯了，但你最好还是打个伞哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f4d827b26dc1501467d1d50398d9ca33_4176101568593018328.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "我的尾巴涂过用来防水的植物精油，甩甩就干啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/75fb4b7e831c23603922336ca2c6baed_12380579561304141.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎呦，好响的雷！呜…震得脑瓜疼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/af8865c4cb2cbd926897298efeda33f8_7070345323647496350.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "这种天气可真少见！哎，你冷吗？冷的话可以把手埋进我的尾巴毛里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/588967c4b1afab909436e146dd6620e4_2411329187052946669.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "耳朵！…耳朵要吹翻过去了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/db844212b101c232a778e252a4293776_1365065088002914195.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "…好热啊…这么毒的太阳下，哪怕是冰雾花也会融化的吧…啊，仔细想想，其实不会啦，啊哈哈…唉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/22f233741a6023765d0fa5c8f2690265_3005383177582016010.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "听！是晨露滴落叶梢的声音。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/950968e79ca34272c72bc6365f470e4c_5070912966209967098.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午休的时候我喜欢坐在树上，盯着从树枝缝隙间漏下来的阳光发呆，一不留神就会睡着…哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8ce7df9bbc37b0b5270273c19e6739e1_7930465716847618996.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。我正准备去观察夜光植被，要一起来吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b4b0201047357dab7b3ae8e1b0247153_7238908009803790333.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你睡吧，我来守夜，顺便记录下今天的巡林日志。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/15078bbe3eb1d0223f606bdd1decb22f_7957801503886218312.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里自己·专业",
+          "text": "我以前上学时从属生论派，主攻植物学。本来导师想让我毕业后留校任教，但说实话，我喜欢更自由一些的研究环境，而且就我的观察，教令院的某些行事作风令人不敢恭维。还好当时导师没有强求——…他强求也没用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8fe10cd1f76ca81c69ef7ee12da1fb0d_5193890369902350717.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里自己·族人",
+          "text": "确实有不少人觉得我这一族性格孤僻，也不怪他们这样想。我的族人确实数量很少，还大多是学者，总是为了研究到处跑，一年也见不到一根尾巴毛。像我爸就是昆虫学家，最近好像在沙漠里研究甲虫的古今演化过程，啊我就不跟着去凑热闹了。说来惭愧，我不擅长应付烈日。晒久了脑袋里就一团浆糊，晃晃荡荡的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/afb29ba47c72e1750ff8de23699358f2_7498474336474893159.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·相处",
+          "text": "我认为人与人之间相互了解的最好办法就是多花时间相处，其他的都不实际。所以不必急着自我介绍，时间会沉淀一切。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/32f65abb744f0f99ba33644dde41b2a9_3689638588715943277.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·朋友",
+          "text": "你问我们算是朋友吗？怎么，原来这种事情是需要官方认证的吗？那赶紧把你的「朋友证书」拿出来，我必须在上面签字。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a529126d4e8a79949f4fc6f8e115059f_8868745954645809370.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我记得自己小时候曾经祈祷过，如果能有幸拥有「神之眼」，可一定得是草元素呀。不过那时的原因不是为了搞研究，而是想要制造藤蔓梯子，爬上去摘高处的果子吃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/6fc6bfa2924266d99c4209d9de92c19d_6868086434429158824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·兰那罗",
+          "text": "我对这种生物早有耳闻，却一直没有亲眼见过。有时树林深处会有一些窸窸窣窣的响动，等我靠近时却又消失不见。这样也好，至少它们懂得如何保护自己，比那些碰见丛林豹还要上去亲切慰问的笨蛋冒险家们强多了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/30a91cbf6ff1e389f1f1b8fcdd8950e5_1692358822137672075.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·卡卡塔",
+          "text": "卡卡塔的事情你不必担心。我已经跟认识的风纪官打过招呼，说卡卡塔是我研究工作中的助手，要动它的话得先找我过问——嗯怎么，看你还挺惦记它的，要不要去素论派选些课程学学？那样就算有一天我不在了，你也能继续照管它。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0c010e94f22ec66369487abda5fe4ec9_2924105433119091302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你知道吗？植物会伪装术。有些会拟态成昆虫或者鸟类，恐吓天敌；有些会制造诱饵，吸引其他生物为自己传播花粉；还有一些则是纯粹的捕食者，用香味或蜜糖吸引猎物上门…嗯，说到这里，感觉已经不只是植物会这样了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/10ad744a89bcea5f70f19c5b60862ea8_7744651224584414117.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱…",
+          "text": "这孩子刚被带过来的时候，可以说是大字不识一个。不过问题不大。她学习勤奋，态度也认真，进步很快。只是，距离她习得精湛医术的目标还有很远的路要走。她有时会给自己很大的压力…噢，你有机会的话也多帮帮她吧？就当是我这个做师父的拜托你啦，多谢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7b6a950b30b22bb8a47114c20722ee50_8000276662560120275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺·大风纪官",
+          "text": "你想见赛诺？那我丑话说在前头，被他因为公事追在屁股后面可是要倒大霉的。大风纪官毕竟位高权重，平日里还真不好找。不过他偶尔会到化城郭附近偷偷看望柯莱，就算他不想让人看见，我也能听出是他。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/f447abc5774ccc4e0120c4baf087c032_2047908412143299480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺·为什么呢",
+          "text": "在导师被救出来后，我给他写了一封问候信，但没想到导师说已经有人以我的名义拜访过他了，并在回信的结尾附上了一个问题：「为什么大风纪官说要靠须弥『强威』重振贤者们的名望？」…问得好，到底是为什么呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/24d29ba6ef098d74ed36b6100373bd8e_9115452610537807780.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "小心艾尔海森。啊，倒不是说他是什么坏蛋啦，但他做事始终被理性主导，总会有让常人觉得无法接受的地方。不信的话可以去看看他的室友，经常被他气得比风史莱姆还鼓。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/946465eae88340569986d7da66792d0c_5364657134990697934.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "卡维是须弥著名的建筑师，代表作就是那座醒目的卡萨扎莱宫。当初在设计建造的时候，他还来找我咨询过有没有合适的观赏植物推荐。但不知是怎么搞的，他在宫殿完工后却给自己欠了一屁股的债，目前正被学弟艾尔海森接济，借住在他家。这个…该说是幸，还是不幸呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ed2edad8e246f8f34e4603a18e293d2d_1219021420032352626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "大名鼎鼎的桑歌玛哈巴依老爷——就是多莉啦。我能认识她，还是因为有次研究需要用到很稀有的材料，只有进货渠道成谜的多莉才能搞得到。啊那个…别问我找她买了什么，也别问我当时在研究什么，嗯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7ad3e0df825ae9ef5724773d9bc4edca_5506886705460499471.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉…",
+          "text": "我听说过她，远近闻名的「梦游怪人」。关于她「梦游」的传闻真是千奇百怪，什么怪力千斤顶啦，夜闯阿如村啦，徒手翻越防沙壁啦…甚至还有说她能边睡边写完十万字论文的！这都什么跟什么，哪也不挨哪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/9e7df778cce54e3b6b57fb29af5596dc_1296848948620461481.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "我听赛诺说过他的这位师姐，是难得一见的天才，博学多闻，才华横溢，只可惜早早就回到了蒙德。难道她在进修的过程中，见到了「知识」令人畏惧的一面吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/00d8ac2f700920df6acc68863bccec69_2750018196634334082.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "我在上学的时候曾听过这样的说法：「植物的历史，便是草之国的历史。」也许说者无心，但我总觉得此话另有深意。如果我有一天能见到小草神大人，她会给我解释吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e8bd78cbe6b2c47071f817685c846afb_5309036992263608278.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "之前情况危急，都没来得及好好向她道谢。能有这样强大又可靠的同伴是件非常幸运的事情，想要拉拢她的人一定不少。不过迪希雅看上去不像是愿意加入教令院或者巡林队的样子，我就不去自讨没趣了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/2ca88651c8a379928bde8dd28514a685_3603042687514924021.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "珐露珊前辈见识广博，我经常邀请她来检查雨林里的机关…只是希望下次她来化城郭的时候，不要再给柯莱偷偷塞吃的了——营养就跟药剂一样得均衡适量，过剩了可没好处。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/b89ffae4b636a39f686d918e23df7529_7829976109452589500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛索斯…",
+          "text": "你说赛索斯？他很有意思，有点像赛诺的远房亲戚，而且很好相处。上次他来化城郭作客，抢着要秀一手搭帐篷的技术，还跟赛诺争着捞鱼，柯莱觉得自己的工作被替代了，很郁闷呢。\n\n大家都说赛索斯很擅长逗自己开心，过得很快活，工作起来又很认真。噢，说工作好像不太贴切，缄默之殿的事对他而言，比起工作更像是义务。如果你在沙漠需要帮助，可以找他。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/82503813/9be58b5338cea660fc532d41f876af85_8966464125324551056.mp3",
+          "audioName": "关于赛索斯…_en (1).mp3"
+        },
+        {
+          "name": "想要了解提纳里·其一",
+          "text": "雨林生活还过得习惯吗？建议眼观六路，耳听八方，注意安全，有事记得找巡林员。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/36759d93675aa063642cd9dd23349957_7311793512658087696.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其二",
+          "text": "哎，有时还挺羡慕那些什么都搞不清楚，还敢到处乱摸乱吃的家伙——在他们的世界里，一定处处都有「奇迹」发生吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ec2b6a8a555adfab14fe57aa88de9e4b_8142544269628512564.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其三",
+          "text": "为了更好地管理道成林，我时不时会给巡林员们开设「培训」课程。要是逐字逐句深究的话，这些课程其实都算是在「传播知识」。不过教令院又能怎样呢？有本事就把我关起来，看看「健康之家」每天要多收多少千奇百怪的病患吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b3d714fffd81f041382f36e107a14523_5070912966209967098.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其四",
+          "text": "悄悄跟你说啊，其实我很喜欢城里大巴扎的氛围。买卖兴旺，生活热闹，还有人在剧场里唱歌跳舞。但是很遗憾，嘈杂的声音对我的耳朵太不友好了。嗯？你说可以在背后帮我捂住？哈哈，那也太难走路了，但是心意我领啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8153617bc32645db33baf8d0656f7cc2_7696046896929604042.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其五",
+          "text": "我小时候做过许多美妙又奇幻的梦，但它们在我长大后的某一天，永远地消散在了记忆中。你还可以做梦吗？给我讲讲你的梦吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9a13924e22d01584aeb8e97af07184ce_2313962641588411137.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "提纳里的爱好…",
+          "text": "道成林里经常有掉在地上的树叶和花朵，有些在掉落的时候还很完整，就这么扔在地上太可惜了…我总是忍不住把它们捡回来做成标本。既可以变成培训巡林员的教具，还可以当作漂亮的装饰品，一举多得。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/461665380a9fd41168a8267377f44f39_2807983202616281326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "提纳里的烦恼…",
+          "text": "烦恼吗？嗯，我想想…道成林中出现的污染、经常惹麻烦的冒险家、总是想要扑我尾巴的救援犬…但这些问题总有解决的办法。要说大的烦恼，还真没有。这么一看，巡林官的生活还挺简单的呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/260dbcd89badfc1e4796b249300f0130_5193890369902350717.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "说来稀奇，我身体里虽然流淌着食肉动物的血脉，但最无法割舍的食物却是蘑菇。可食用的蘑菇种类繁多，无论是新鲜的还是晾干的，都会散发独特的香味。与肉类一起炖煮时，就连肉香也要为它们让步。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d374aed818bd8fd4e2d7323c2c75a65d_2622406352994005412.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "因为嗅觉太灵敏，我无福享受添加了太多香料的佳肴。唉，这在须弥可以说是重大遗憾了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4fac3ec39c00372ef9c49dd3ef235267_8582170616390128585.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "食材优质，调味精妙，简而言之——非常好吃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/75217cc0f04e7c0f3093d3621f2b9a31_7033399458452396116.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错的搭配。可以请你抄份食谱给我吗？我想把它加入巡林小队下次聚餐的菜单里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/680d7f5de138cb0e9cb281324b7dace2_5077617846956650292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…需要我教你一些新菜吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/914402d87f503716d28a859c64690030_6933663145986670616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！我选了一盆今日花期正盛的盆栽给你，另附养花指南。万一它之后出现任何问题，都请不要客气，随时找我，它有「巡林官终生保育凭证」。你知道吗，在你生日时开的花可多了，我挑了好久呢。等到明年，再送你新的品种吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/59fc833306225979d91c475c00551d94_494299960006405267.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "种籽萌发，破土生根。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/104639aed0ab697e40731e8af4cbe1d9_476972355916989324.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "幼苗拔高，开枝展叶。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8ada443289f836c6b454130768cc1326_9072203192488832090.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "花蕾满枝，杏雨梨云。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/6f1c6bb25786dbe83844256847979994_7374833858813556509.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "硕果丰熟，来日更盛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3a0257c2f8b1157e6405920db7ed3bf4_7014628585783866336.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "一叶障目。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/71dc4d8c4e0e34c2218c80d6ee237e62_6087198377543480787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "障眼法！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7702288cb69b0f54a27572c0d09d3bcc_5364657134990697934.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "看不清了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/31ecc115f5b98f077e8b884cefa0fad0_2750018196634334082.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "斩草除根！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2206ef7af0aa76714fb71b4af5f63ad9_6677539713410928060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "蔓引株连！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/129f6e4e0bf71512f1f8dc3720e7542a_2215860244117737950.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "声音，我听见了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5cd372f6029533510f8e2847379fecb7_3960871843696993080.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "跟紧了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/70c92ca55b39f6de396fbd7a7c7c9c17_5995608039177111438.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这里怎么会有宝箱？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/1db85c416ee541aa01bea6cd1f6ecfc0_1680891851838164398.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这个，应该不用写失物招领吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/dec253af3f12de1119cf90d1af8b5fb8_4889380727886016717.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "闻起来有好东西哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b6c4a590a904b6c3ff743f2400e54e59_2807983202616281326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "唉，真是麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c7e276095d507584c66d24565cf7d5e7_5817863132539187156.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "尾巴毛都乱了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8f4059ef26cc1bc3ec9833e67e85fcce_7709243096721842423.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "该清杂草了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f4aab43f553b5e8ebe810cd61507e31d_8582170616390128585.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "快去疗伤。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0645067bc00f261d195f64aebe57c4b5_8075851061765248505.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "救人要紧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c57806236a3033d0194b193fb1b3a548_4131262158035593936.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "叶落…归根…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b855b46333e90fdd6861f75f3055cc15_9133211826739499713.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "还有未完成的研究…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d91171e8a44436aec74d9acf9900add9_5077617846956650292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "没能等到花开…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/6e2d9893593fd181832efd539eb6f1c2_2417659805731660035.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "哎呦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8ed2185a65e130dd97e7f67d20b455c0_476972355916989324.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "行啊？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b0bb4f3b69b72d091889ac069a186554_7372735099897819586.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "没完没了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ef884908bc15bd80a94570585fa6af21_4099288559691562005.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "等着入土吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/eea5c10f7d1532e41b7d853e0eee25b0_1985161433232819780.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "我来领路。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/bddc365d316ba51438c93225bbf5ffff_6426106913835409563.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "唉！有谁又吃毒蘑菇了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/6aabbc6665007f7dcfc1bb5b23d62e79_5129886330778131996.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "走，去采些样本！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d67fca3d195f0729d951a9c00de01b54_7298396801936417585.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我叫提纳里，是道成林的巡林官，负责维护雨林生态与行人安全。若你初入此地，我的建议是先通读《道成林生存指南》，并重点阅读「如何分辨可食用蕈与有毒蕈类」一章。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3794b952aaa31a5b4f89b7a4f13e320b_2215860244117737950.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·叶片书签",
+          "text": "将树叶夹在干燥的纸页之间简单压制，就能做成好看又好用的书签了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/01798a6b36191d0d176e9faf5faeb21b_3960871843696993080.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·犯错",
+          "text": "不要害怕犯错，犯错也是学习过程中的一环。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/23438e74fbfc5ef5055fd0a7c3ef4ead_7684318978731098829.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·知识的价值",
+          "text": "知识的价值，是不能用金钱简单衡量的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c596ed6bbd94de2785c3a6867eabefa1_1763534363750686937.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "这种天气我已经习惯了，但你最好还是打个伞哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/784b775ec0554709fad0a8ff6e1e19a1_3503637987482563357.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "我的尾巴涂过用来防水的植物精油，甩甩就干啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e0bb6d3b6e658d7212cf9fea261c142d_5629634477150581723.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎呦，好响的雷！呜…震得脑瓜疼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/bb0a049da61690ca4d612e81f7417130_4889380727886016717.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "这种天气可真少见！哎，你冷吗？冷的话可以把手埋进我的尾巴毛里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/1809be9498762a8421d18742c1528e40_179523630396481431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "耳朵！…耳朵要吹翻过去了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/520d41e8195d773f142eada54c7507f1_5237662510147967556.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "…好热啊…这么毒的太阳下，哪怕是冰雾花也会融化的吧…啊，仔细想想，其实不会啦，啊哈哈…唉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5ecfd83a56cc07f9a5e4cafb31301c0f_9151693849939416833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "听！是晨露滴落叶梢的声音。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8278f76d564a07e18c5c1220aba6914e_5089112352655804599.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午休的时候我喜欢坐在树上，盯着从树枝缝隙间漏下来的阳光发呆，一不留神就会睡着…哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/cedb6afd23d7c8fa3f89e2592e2e38c1_9050527842667711102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。我正准备去观察夜光植被，要一起来吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/38fb15479768a88347f4c83229bd1163_4251571474716022688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你睡吧，我来守夜，顺便记录下今天的巡林日志。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/24584188ed1dead524e0c7baca1eab7c_7360040544768802089.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里自己·专业",
+          "text": "我以前上学时从属生论派，主攻植物学。本来导师想让我毕业后留校任教，但说实话，我喜欢更自由一些的研究环境，而且就我的观察，教令院的某些行事作风令人不敢恭维。还好当时导师没有强求——…他强求也没用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/67637556e0eed8da064798df0a9f5a91_2949955483488893152.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里自己·族人",
+          "text": "确实有不少人觉得我这一族性格孤僻，也不怪他们这样想。我的族人确实数量很少，还大多是学者，总是为了研究到处跑，一年也见不到一根尾巴毛。像我爸就是昆虫学家，最近好像在沙漠里研究甲虫的古今演化过程，啊我就不跟着去凑热闹了。说来惭愧，我不擅长应付烈日。晒久了脑袋里就一团浆糊，晃晃荡荡的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2e68653082b5bd2eeb5db1a602ed8416_4131262158035593936.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·相处",
+          "text": "我认为人与人之间相互了解的最好办法就是多花时间相处，其他的都不实际。所以不必急着自我介绍，时间会沉淀一切。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/97a71cf9bd50ad9867cd791a12f42231_5229038233104641292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·朋友",
+          "text": "你问我们算是朋友吗？怎么，原来这种事情是需要官方认证的吗？那赶紧把你的「朋友证书」拿出来，我必须在上面签字。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ab260c5a01f926dd977013feab4ba734_2667071580455227761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我记得自己小时候曾经祈祷过，如果能有幸拥有「神之眼」，可一定得是草元素呀。不过那时的原因不是为了搞研究，而是想要制造藤蔓梯子，爬上去摘高处的果子吃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4ef892b3b9801cd62ebdfb4048697bc7_1082968038789802432.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·兰那罗",
+          "text": "我对这种生物早有耳闻，却一直没有亲眼见过。有时树林深处会有一些窸窸窣窣的响动，等我靠近时却又消失不见。这样也好，至少它们懂得如何保护自己，比那些碰见丛林豹还要上去亲切慰问的笨蛋冒险家们强多了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3bc283640ca027fa518695415bd06458_1985161433232819780.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·卡卡塔",
+          "text": "卡卡塔的事情你不必担心。我已经跟认识的风纪官打过招呼，说卡卡塔是我研究工作中的助手，要动它的话得先找我过问——嗯怎么，看你还挺惦记它的，要不要去素论派选些课程学学？那样就算有一天我不在了，你也能继续照管它。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/64e787dd52600adb3f8a58015c02b6c9_3106195570719226183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你知道吗？植物会伪装术。有些会拟态成昆虫或者鸟类，恐吓天敌；有些会制造诱饵，吸引其他生物为自己传播花粉；还有一些则是纯粹的捕食者，用香味或蜜糖吸引猎物上门…嗯，说到这里，感觉已经不只是植物会这样了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/2a20a19ec5e818d8386168cfb9c7e3df_5129886330778131996.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱…",
+          "text": "这孩子刚被带过来的时候，可以说是大字不识一个。不过问题不大。她学习勤奋，态度也认真，进步很快。只是，距离她习得精湛医术的目标还有很远的路要走。她有时会给自己很大的压力…噢，你有机会的话也多帮帮她吧？就当是我这个做师父的拜托你啦，多谢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/6e63068cec15743fb1976eaf7b6b5232_2511350839253010828.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺·大风纪官",
+          "text": "你想见赛诺？那我丑话说在前头，被他因为公事追在屁股后面可是要倒大霉的。大风纪官毕竟位高权重，平日里还真不好找。不过他偶尔会到化城郭附近偷偷看望柯莱，就算他不想让人看见，我也能听出是他。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/fd359e3823bd4629603b3bde8f445c68_3363804540933232600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺·为什么呢",
+          "text": "在导师被救出来后，我给他写了一封问候信，但没想到导师说已经有人以我的名义拜访过他了，并在回信的结尾附上了一个问题：「为什么大风纪官说要靠须弥『强威』重振贤者们的名望？」…问得好，到底是为什么呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/58295485ba51bc731d5f93447adae82b_3058970421156842818.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "小心艾尔海森。啊，倒不是说他是什么坏蛋啦，但他做事始终被理性主导，总会有让常人觉得无法接受的地方。不信的话可以去看看他的室友，经常被他气得比风史莱姆还鼓。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3046fb8fee12beb443e5af655b582501_7274526099495305569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "卡维是须弥著名的建筑师，代表作就是那座醒目的卡萨扎莱宫。当初在设计建造的时候，他还来找我咨询过有没有合适的观赏植物推荐。但不知是怎么搞的，他在宫殿完工后却给自己欠了一屁股的债，目前正被学弟艾尔海森接济，借住在他家。这个…该说是幸，还是不幸呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f79a9d062b5689d1cfe7ac814e3613f3_4164453353955292342.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "大名鼎鼎的桑歌玛哈巴依老爷——就是多莉啦。我能认识她，还是因为有次研究需要用到很稀有的材料，只有进货渠道成谜的多莉才能搞得到。啊那个…别问我找她买了什么，也别问我当时在研究什么，嗯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ceff39d14f618548f5fbd24161e79765_1763534363750686937.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉…",
+          "text": "我听说过她，远近闻名的「梦游怪人」。关于她「梦游」的传闻真是千奇百怪，什么怪力千斤顶啦，夜闯阿如村啦，徒手翻越防沙壁啦…甚至还有说她能边睡边写完十万字论文的！这都什么跟什么，哪也不挨哪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/5be682be8191f6334848f132a1503a57_3548528974179336259.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "我听赛诺说过他的这位师姐，是难得一见的天才，博学多闻，才华横溢，只可惜早早就回到了蒙德。难道她在进修的过程中，见到了「知识」令人畏惧的一面吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4271489a18fbc09e59679395774d8a9d_8360917406254561285.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "我在上学的时候曾听过这样的说法：「植物的历史，便是草之国的历史。」也许说者无心，但我总觉得此话另有深意。如果我有一天能见到小草神大人，她会给我解释吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/55758e4ba69c53eaac908b564df5defd_179523630396481431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "之前情况危急，都没来得及好好向她道谢。能有这样强大又可靠的同伴是件非常幸运的事情，想要拉拢她的人一定不少。不过迪希雅看上去不像是愿意加入教令院或者巡林队的样子，我就不去自讨没趣了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/5d6f925cf8c5cf2354ffdda5c96c0c94_5866675625569070469.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "珐露珊前辈见识广博，我经常邀请她来检查雨林里的机关…只是希望下次她来化城郭的时候，不要再给柯莱偷偷塞吃的了——营养就跟药剂一样得均衡适量，过剩了可没好处。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e2bec1d399474970dc816d0ed6f53ef7_3638771663993431583.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛索斯…",
+          "text": "你说赛索斯？他很有意思，有点像赛诺的远房亲戚，而且很好相处。上次他来化城郭作客，抢着要秀一手搭帐篷的技术，还跟赛诺争着捞鱼，柯莱觉得自己的工作被替代了，很郁闷呢。\n\n大家都说赛索斯很擅长逗自己开心，过得很快活，工作起来又很认真。噢，说工作好像不太贴切，缄默之殿的事对他而言，比起工作更像是义务。如果你在沙漠需要帮助，可以找他。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/82503813/80216bb517f06ea8c6d85373d7d9488a_1090483736613951595.mp3",
+          "audioName": "关于赛索斯…_jp (1).mp3"
+        },
+        {
+          "name": "想要了解提纳里·其一",
+          "text": "雨林生活还过得习惯吗？建议眼观六路，耳听八方，注意安全，有事记得找巡林员。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/efb01c7f5e6514b02b77ddc63f8c4866_1341582661406834964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其二",
+          "text": "哎，有时还挺羡慕那些什么都搞不清楚，还敢到处乱摸乱吃的家伙——在他们的世界里，一定处处都有「奇迹」发生吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a12926dbbcacb75a5ab8d324d5610bed_5237662510147967556.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其三",
+          "text": "为了更好地管理道成林，我时不时会给巡林员们开设「培训」课程。要是逐字逐句深究的话，这些课程其实都算是在「传播知识」。不过教令院又能怎样呢？有本事就把我关起来，看看「健康之家」每天要多收多少千奇百怪的病患吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/75b3f3666298689e72495482bb08383c_2367875921376512706.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其四",
+          "text": "悄悄跟你说啊，其实我很喜欢城里大巴扎的氛围。买卖兴旺，生活热闹，还有人在剧场里唱歌跳舞。但是很遗憾，嘈杂的声音对我的耳朵太不友好了。嗯？你说可以在背后帮我捂住？哈哈，那也太难走路了，但是心意我领啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/00fbaad2806ebbb0337d5053a6222d7c_7891625433865140844.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其五",
+          "text": "我小时候做过许多美妙又奇幻的梦，但它们在我长大后的某一天，永远地消散在了记忆中。你还可以做梦吗？给我讲讲你的梦吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c54ed68efb08a3a65e8ee3489a406496_5089112352655804599.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "提纳里的爱好…",
+          "text": "道成林里经常有掉在地上的树叶和花朵，有些在掉落的时候还很完整，就这么扔在地上太可惜了…我总是忍不住把它们捡回来做成标本。既可以变成培训巡林员的教具，还可以当作漂亮的装饰品，一举多得。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/94db2dff36e87e667cf8df9e8475b903_4251571474716022688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "提纳里的烦恼…",
+          "text": "烦恼吗？嗯，我想想…道成林中出现的污染、经常惹麻烦的冒险家、总是想要扑我尾巴的救援犬…但这些问题总有解决的办法。要说大的烦恼，还真没有。这么一看，巡林官的生活还挺简单的呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/86e76dc12403016d94cf8b37cce705f4_3170147554333293596.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "说来稀奇，我身体里虽然流淌着食肉动物的血脉，但最无法割舍的食物却是蘑菇。可食用的蘑菇种类繁多，无论是新鲜的还是晾干的，都会散发独特的香味。与肉类一起炖煮时，就连肉香也要为它们让步。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4e8df4fd7c13442fee977aa345b21764_1945796521145284758.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "因为嗅觉太灵敏，我无福享受添加了太多香料的佳肴。唉，这在须弥可以说是重大遗憾了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/fbcca968bd6faf4e35f132e345032e25_2063120415956191792.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "食材优质，调味精妙，简而言之——非常好吃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/37ba8b1fa013523c9d8b6b1d20e73aaa_2667071580455227761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错的搭配。可以请你抄份食谱给我吗？我想把它加入巡林小队下次聚餐的菜单里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c7cec14dab2cb1220796cb7e809b587d_3202432102504851053.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…需要我教你一些新菜吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7f1c33b889a05c70a4d60c91f550cf81_1082968038789802432.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！我选了一盆今日花期正盛的盆栽给你，另附养花指南。万一它之后出现任何问题，都请不要客气，随时找我，它有「巡林官终生保育凭证」。你知道吗，在你生日时开的花可多了，我挑了好久呢。等到明年，再送你新的品种吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/508c4c6f7ed28c6a197b8354308fc2f4_1769274166948027900.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "种籽萌发，破土生根。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/11a704c62dd460f2b747aa79e8807e2e_3012185142720489762.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "幼苗拔高，开枝展叶。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/71765b98dc7f9c285ec6c813cdcc5223_3084407526717685379.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "花蕾满枝，杏雨梨云。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b8fbefc712c66c48b194356dab3b1a61_5832706882868709431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "硕果丰熟，来日更盛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b8e40cd36a738f965f5faf9cef9c0551_256377709910885118.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "一叶障目。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/568549b464b5de9e065f56d24a3bc784_4040535941027144762.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "障眼法！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9c5e2c252e7cb0662efeb30170aa0982_8279903209171406585.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "看不清了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5d1213dd902fdaf55ab0a34a1b372ed6_4164453353955292342.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "斩草除根！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/64caa85c035114aebe117c4cb13e3e46_8242433350582138301.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "蔓引株连！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5f17f396f22c66cc5b9ca26e20f5d766_8872602984403868934.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "声音，我听见了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/411503dc8d86af1864e2da71e2b8c760_8460868119581493569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "跟紧了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/64744e562af00b08143ef2856320bd40_8360917406254561285.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这里怎么会有宝箱？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f89553dca9d347d70f2f262364d9fab3_1341582661406834964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这个，应该不用写失物招领吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f28d1af05f44087cb00a0598a9cdebff_2367875921376512706.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "闻起来有好东西哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7e77b357e6e6aa330771580da9a8f675_4252593280277858736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "唉，真是麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/006fcac4977bf9977855699d64e410bf_1064595789120386866.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "尾巴毛都乱了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/eccdc35b4c6065d8469df91a5fc8f1cb_5871551983567049955.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "该清杂草了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b57d43006883d66c69aad116a4b454ee_1945796521145284758.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "快去疗伤。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/88ef6e5520d26f64ef34e544b22605d5_3203501028982098361.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "救人要紧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9e1108eb13776faa4e54a5f2e934a041_2067394716864420683.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "叶落…归根…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/522b0ed82a7b86a8b4bccfaf52612fd5_680521536598183643.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "还有未完成的研究…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d09e1ff8a44c7494ac76897650ac4a66_3489815753939713349.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "没能等到花开…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/51875107811a500863d8cb8294915e8d_2928989670338488105.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "哎呦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b5aa845538ef8bb2ec696b80ecb3350e_3012185142720489762.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "行啊？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a2c8277903c7351916c1e1a951f8f376_5832706882868709431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "没完没了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/72a0edd5bf791803381341182eb8ee85_2754197503767924956.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "等着入土吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9c124eadac1e1fda107c5adc71e56892_8182279224709366914.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "我来领路。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/53ce43ee6bc972fe084eb6a7e51393fd_256377709910885118.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "唉！有谁又吃毒蘑菇了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/980bacda037ffa4062c26dbdb4c1b6a5_4040535941027144762.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "走，去采些样本！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d2286c744ba239cef3673f927cbb37b6_6828440566509271200.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我叫提纳里，是道成林的巡林官，负责维护雨林生态与行人安全。若你初入此地，我的建议是先通读《道成林生存指南》，并重点阅读「如何分辨可食用蕈与有毒蕈类」一章。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f2155844422de3e556e8e38e68f4d701_8460868119581493569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·叶片书签",
+          "text": "将树叶夹在干燥的纸页之间简单压制，就能做成好看又好用的书签了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c4541322ae136a98dcb7df11b7542a59_3024201091522689496.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·犯错",
+          "text": "不要害怕犯错，犯错也是学习过程中的一环。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8967a9a9e0f21223961a95601ccc5474_297856305744472395.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·知识的价值",
+          "text": "知识的价值，是不能用金钱简单衡量的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/c87e033b698856eb23ae65b2723b4811_212349228737100490.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "这种天气我已经习惯了，但你最好还是打个伞哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ce1d5cf8534d391beeb6efff46d1e521_8607014078413329662.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "我的尾巴涂过用来防水的植物精油，甩甩就干啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/b236405953fe4884ab4bb2a24d89f6d3_3624012511783668321.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎呦，好响的雷！呜…震得脑瓜疼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/978fe6597bac15192609a183f6d9f080_4153932660183010862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "这种天气可真少见！哎，你冷吗？冷的话可以把手埋进我的尾巴毛里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a0156678f6b12774aaf103eb079060c2_1064595789120386866.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "耳朵！…耳朵要吹翻过去了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e1e9585d6ef85eeebeae0d25224dc5f9_3868382759445454612.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "…好热啊…这么毒的太阳下，哪怕是冰雾花也会融化的吧…啊，仔细想想，其实不会啦，啊哈哈…唉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/129281075c26fb8a246c56b9d1a9e441_2067394716864420683.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "听！是晨露滴落叶梢的声音。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5b2ebe3c89ca28b67c15abb364c5cc29_1810315533870314848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午休的时候我喜欢坐在树上，盯着从树枝缝隙间漏下来的阳光发呆，一不留神就会睡着…哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/294df689153221f06e931e7b94b94b49_2610552874983985741.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。我正准备去观察夜光植被，要一起来吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/cbd7a8329a0d1070e25b271e84242967_3059085869799522013.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "你睡吧，我来守夜，顺便记录下今天的巡林日志。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/0b0bf0e682af278ffb5770ca8692a1c9_4760847016280316172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里自己·专业",
+          "text": "我以前上学时从属生论派，主攻植物学。本来导师想让我毕业后留校任教，但说实话，我喜欢更自由一些的研究环境，而且就我的观察，教令院的某些行事作风令人不敢恭维。还好当时导师没有强求——…他强求也没用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d2521541e056ad3d46c608b77dbd63b8_2754197503767924956.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里自己·族人",
+          "text": "确实有不少人觉得我这一族性格孤僻，也不怪他们这样想。我的族人确实数量很少，还大多是学者，总是为了研究到处跑，一年也见不到一根尾巴毛。像我爸就是昆虫学家，最近好像在沙漠里研究甲虫的古今演化过程，啊我就不跟着去凑热闹了。说来惭愧，我不擅长应付烈日。晒久了脑袋里就一团浆糊，晃晃荡荡的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/061976811d9267cac69ab2613f336e1e_8114298318005520474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·相处",
+          "text": "我认为人与人之间相互了解的最好办法就是多花时间相处，其他的都不实际。所以不必急着自我介绍，时间会沉淀一切。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/73ba563547903bf2c380b36f0cbd5ecf_2866717349221823685.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·朋友",
+          "text": "你问我们算是朋友吗？怎么，原来这种事情是需要官方认证的吗？那赶紧把你的「朋友证书」拿出来，我必须在上面签字。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/332f53add5f8545192f9a62b699c0719_7472272533350636652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我记得自己小时候曾经祈祷过，如果能有幸拥有「神之眼」，可一定得是草元素呀。不过那时的原因不是为了搞研究，而是想要制造藤蔓梯子，爬上去摘高处的果子吃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/695a2ce1dae3c8c3af0ec2c6adc1e747_2138986249869722390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·兰那罗",
+          "text": "我对这种生物早有耳闻，却一直没有亲眼见过。有时树林深处会有一些窸窸窣窣的响动，等我靠近时却又消失不见。这样也好，至少它们懂得如何保护自己，比那些碰见丛林豹还要上去亲切慰问的笨蛋冒险家们强多了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f9dcf5036ea88fa28a7b908d84e10f7f_350658516671718774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·卡卡塔",
+          "text": "卡卡塔的事情你不必担心。我已经跟认识的风纪官打过招呼，说卡卡塔是我研究工作中的助手，要动它的话得先找我过问——嗯怎么，看你还挺惦记它的，要不要去素论派选些课程学学？那样就算有一天我不在了，你也能继续照管它。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d7b7f4a9df0c6ecc6025e0f5f8cdb43b_5860834874115143204.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你知道吗？植物会伪装术。有些会拟态成昆虫或者鸟类，恐吓天敌；有些会制造诱饵，吸引其他生物为自己传播花粉；还有一些则是纯粹的捕食者，用香味或蜜糖吸引猎物上门…嗯，说到这里，感觉已经不只是植物会这样了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f91b9f78fd0f5e015e42f1c121a4802a_297856305744472395.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱…",
+          "text": "这孩子刚被带过来的时候，可以说是大字不识一个。不过问题不大。她学习勤奋，态度也认真，进步很快。只是，距离她习得精湛医术的目标还有很远的路要走。她有时会给自己很大的压力…噢，你有机会的话也多帮帮她吧？就当是我这个做师父的拜托你啦，多谢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4c5b3676e72ae24d90f4fe6c1e5fd9a7_212349228737100490.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺·大风纪官",
+          "text": "你想见赛诺？那我丑话说在前头，被他因为公事追在屁股后面可是要倒大霉的。大风纪官毕竟位高权重，平日里还真不好找。不过他偶尔会到化城郭附近偷偷看望柯莱，就算他不想让人看见，我也能听出是他。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/5ce1cae9bf264e7d03832600b1c0f6ee_3634749216533938229.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺·为什么呢",
+          "text": "在导师被救出来后，我给他写了一封问候信，但没想到导师说已经有人以我的名义拜访过他了，并在回信的结尾附上了一个问题：「为什么大风纪官说要靠须弥『强威』重振贤者们的名望？」…问得好，到底是为什么呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/037e147231aa2c3dcdb623270351b595_5331087313401209312.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于艾尔海森…",
+          "text": "小心艾尔海森。啊，倒不是说他是什么坏蛋啦，但他做事始终被理性主导，总会有让常人觉得无法接受的地方。不信的话可以去看看他的室友，经常被他气得比风史莱姆还鼓。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f2fb9a804720051019058a8efc4ef415_2362746101994911118.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "卡维是须弥著名的建筑师，代表作就是那座醒目的卡萨扎莱宫。当初在设计建造的时候，他还来找我咨询过有没有合适的观赏植物推荐。但不知是怎么搞的，他在宫殿完工后却给自己欠了一屁股的债，目前正被学弟艾尔海森接济，借住在他家。这个…该说是幸，还是不幸呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ee922f8c3c275ff28125d4ff3822628a_6013602171009609607.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "大名鼎鼎的桑歌玛哈巴依老爷——就是多莉啦。我能认识她，还是因为有次研究需要用到很稀有的材料，只有进货渠道成谜的多莉才能搞得到。啊那个…别问我找她买了什么，也别问我当时在研究什么，嗯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e3c6cfcec0df3f71ce0e6fcd35fee7dd_9145122543225141297.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莱依拉…",
+          "text": "我听说过她，远近闻名的「梦游怪人」。关于她「梦游」的传闻真是千奇百怪，什么怪力千斤顶啦，夜闯阿如村啦，徒手翻越防沙壁啦…甚至还有说她能边睡边写完十万字论文的！这都什么跟什么，哪也不挨哪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/940d2947783b31e69dac7f8eb38e61ec_4912092524503394422.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "我听赛诺说过他的这位师姐，是难得一见的天才，博学多闻，才华横溢，只可惜早早就回到了蒙德。难道她在进修的过程中，见到了「知识」令人畏惧的一面吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/80b27053dbec4bfa4c920fb346630155_5820524907399724415.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "我在上学的时候曾听过这样的说法：「植物的历史，便是草之国的历史。」也许说者无心，但我总觉得此话另有深意。如果我有一天能见到小草神大人，她会给我解释吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7c775a9ba3d28139c4c71ae937c6ae80_5645516495369230522.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "之前情况危急，都没来得及好好向她道谢。能有这样强大又可靠的同伴是件非常幸运的事情，想要拉拢她的人一定不少。不过迪希雅看上去不像是愿意加入教令院或者巡林队的样子，我就不去自讨没趣了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/4738d793054bf8bc594002ab65c7f934_8833612461547994177.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珐露珊…",
+          "text": "珐露珊前辈见识广博，我经常邀请她来检查雨林里的机关…只是希望下次她来化城郭的时候，不要再给柯莱偷偷塞吃的了——营养就跟药剂一样得均衡适量，过剩了可没好处。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/f61acd48e3e9d66b2868fe7fcd9c3048_5083311623886671184.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛索斯…",
+          "text": "你说赛索斯？他很有意思，有点像赛诺的远房亲戚，而且很好相处。上次他来化城郭作客，抢着要秀一手搭帐篷的技术，还跟赛诺争着捞鱼，柯莱觉得自己的工作被替代了，很郁闷呢。\n\n大家都说赛索斯很擅长逗自己开心，过得很快活，工作起来又很认真。噢，说工作好像不太贴切，缄默之殿的事对他而言，比起工作更像是义务。如果你在沙漠需要帮助，可以找他。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/82503813/13edc89b4a67bde22a8605bc4b754d10_4821897282250952292.mp3",
+          "audioName": "关于赛索斯…_kr (1).mp3"
+        },
+        {
+          "name": "想要了解提纳里·其一",
+          "text": "雨林生活还过得习惯吗？建议眼观六路，耳听八方，注意安全，有事记得找巡林员。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/451114845414920435cba1be9d92084d_2704823959175203125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其二",
+          "text": "哎，有时还挺羡慕那些什么都搞不清楚，还敢到处乱摸乱吃的家伙——在他们的世界里，一定处处都有「奇迹」发生吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d780acc6dce155981923f55a5aff0145_51723698202698840.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其三",
+          "text": "为了更好地管理道成林，我时不时会给巡林员们开设「培训」课程。要是逐字逐句深究的话，这些课程其实都算是在「传播知识」。不过教令院又能怎样呢？有本事就把我关起来，看看「健康之家」每天要多收多少千奇百怪的病患吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/dcf8c2a45c6ee46051e470f7029ff61e_3059085869799522013.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其四",
+          "text": "悄悄跟你说啊，其实我很喜欢城里大巴扎的氛围。买卖兴旺，生活热闹，还有人在剧场里唱歌跳舞。但是很遗憾，嘈杂的声音对我的耳朵太不友好了。嗯？你说可以在背后帮我捂住？哈哈，那也太难走路了，但是心意我领啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f44f80a86be9c0d6a64971b1283be0f5_1366220544226654272.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解提纳里·其五",
+          "text": "我小时候做过许多美妙又奇幻的梦，但它们在我长大后的某一天，永远地消散在了记忆中。你还可以做梦吗？给我讲讲你的梦吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/1241bfa95060100cf7e7293bdec684f2_8972586684582060316.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "提纳里的爱好…",
+          "text": "道成林里经常有掉在地上的树叶和花朵，有些在掉落的时候还很完整，就这么扔在地上太可惜了…我总是忍不住把它们捡回来做成标本。既可以变成培训巡林员的教具，还可以当作漂亮的装饰品，一举多得。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/dba2053effdf1a3d121def06fffe9d0a_4498589103724005997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "提纳里的烦恼…",
+          "text": "烦恼吗？嗯，我想想…道成林中出现的污染、经常惹麻烦的冒险家、总是想要扑我尾巴的救援犬…但这些问题总有解决的办法。要说大的烦恼，还真没有。这么一看，巡林官的生活还挺简单的呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/942eb3de1374fb9c2dc1e824bd9b23bf_6001268571707554325.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "说来稀奇，我身体里虽然流淌着食肉动物的血脉，但最无法割舍的食物却是蘑菇。可食用的蘑菇种类繁多，无论是新鲜的还是晾干的，都会散发独特的香味。与肉类一起炖煮时，就连肉香也要为它们让步。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/fef55d5a43a027240590832da1a01723_2737407195905286485.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "因为嗅觉太灵敏，我无福享受添加了太多香料的佳肴。唉，这在须弥可以说是重大遗憾了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/1d87f5fc7147a9fb5cbc6493315f2940_2866717349221823685.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "食材优质，调味精妙，简而言之——非常好吃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e367dfdd792809f5326a5630541da1c2_5327091446777940798.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错的搭配。可以请你抄份食谱给我吗？我想把它加入巡林小队下次聚餐的菜单里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/6d98de0f39ad6a85c12b9336bd21ea25_9160192504371456954.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "…需要我教你一些新菜吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/73cdcba4840c35d45575f40227e19490_2138986249869722390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！我选了一盆今日花期正盛的盆栽给你，另附养花指南。万一它之后出现任何问题，都请不要客气，随时找我，它有「巡林官终生保育凭证」。你知道吗，在你生日时开的花可多了，我挑了好久呢。等到明年，再送你新的品种吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f8ab593d0e53dd5c0b741a019ecb220a_2482256198100990571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "种籽萌发，破土生根。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7506380b6740fd3a9e6c5f82ce7ac290_6011633322076812904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "幼苗拔高，开枝展叶。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d21f4026cbd1919f1d34eb52db3bf4da_8078322737654048633.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "花蕾满枝，杏雨梨云。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/7c352e30ad04b69d2917b3001dfa8715_5253742140254440499.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "硕果丰熟，来日更盛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/4d3132d0a2ed87f1a79a70473feed248_2101231910222885656.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "一叶障目。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/a5f55f77ec4693f29adaec152f627c43_6013602171009609607.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "障眼法！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/43fab42a5c2e50290dd45b578c575205_5645516495369230522.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "看不清了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/93c92f102ffc4ff1acb0e54523ad5d83_1755653928576637205.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "斩草除根！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/17831e716c96e99dc40d60a943b82404_1321276322941612958.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "蔓引株连！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/68553d372a51280d0d56834f6875292d_5664715756361871619.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "声音，我听见了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/bab7c6be897c5d931a232a11c166f304_2704823959175203125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "跟紧了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/227622f4935dda52f1103742ff3806fe_51723698202698840.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这里怎么会有宝箱？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/ae274935db2b157eba0c0270cb2a21cb_8372645089625155808.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这个，应该不用写失物招领吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9507024fd2fc77c1861440a1084e3f69_6001268571707554325.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "闻起来有好东西哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f3941472a3e40517bec37bd36e3b24fb_389007063009304686.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "唉，真是麻烦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/77acf3ee31d074b97eac0e1ebccd0197_3760633389695999884.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "尾巴毛都乱了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/8ae04e2f8be92f149e5fb05a78fa2057_3763453693771991295.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "该清杂草了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/3df586857851d7af0eea7732bbf26ad9_5327091446777940798.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "快去疗伤。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/18d440275678fbd651e857594259947d_9160192504371456954.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "救人要紧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/88b0f5f9d3fd1f0cb4a37a257f7aa5da_2918705883445190262.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "叶落…归根…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/1a65f3d624cc852eb70b3b2f5300ee96_2274766075299883298.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "还有未完成的研究…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d20e94f0455602dd754f17c99cb5d5e7_2635354414329393215.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "没能等到花开…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e99934b59cc4abe0ae03eb79424347b1_4868197589527674592.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "哎呦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/633e49f8c08340e42721dfa8132bc86f_5671547725082419942.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "行啊？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/d835379b383465a14e2c0dc1bf699e2b_2466266940401890430.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "没完没了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/267966bbf66e9dbacc088f9481fb929f_1950823861232751307.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "等着入土吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/9c2834daab470cac2edd187cc3d137ae_6587707894611517836.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "我来领路。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/5aaeeef048ccfd92ca88b68e311dfcb5_6005815480805200695.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "唉！有谁又吃毒蘑菇了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/e2874c20c6d0b9bf9481e8d0de6f225a_1321276322941612958.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "走，去采些样本！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/26/16576950/f34f92dbeda0b43293a98cab55ab8e58_184711028798379985.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

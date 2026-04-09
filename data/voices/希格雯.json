@@ -1,0 +1,1853 @@
+{
+  "id": "501214",
+  "name": "希格雯",
+  "alias": [
+    "希格雯"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "怎么啦？别紧张，我是梅洛彼得堡的护士长希格雯，让我看看…这里疼吗？这里呢？哦哦…不是来看病的？那太好啦，呼…这么可爱，可要好好爱护身体，不要弄坏自己了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/f5b8ba079d07a95db5ca0863b55a2702_4391493951111934390.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·贴纸",
+          "text": "没有哦，我没有在你背后贴贴纸。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/7183581bf3df90d63fa3f62ea6f376e0_1175740042828052931.mp3",
+          "audioName": "02闲聊·贴纸_cn.mp3"
+        },
+        {
+          "name": "闲聊·关心",
+          "text": "啊呀！哪里磕着碰着了吗？不舒服要随时叫我哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/35e42f992e2f8350059d7ae2fb5439dd_8931082953875994704.mp3",
+          "audioName": "03闲聊·关心_cn.mp3"
+        },
+        {
+          "name": "闲聊·保养",
+          "text": "保养身体很重要，同样不能忽视的，是保养好自己的内心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/993771708de81b43a298c193974d3dcf_6043422216515789961.mp3",
+          "audioName": "04闲聊·保养_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊…不知道那维莱特先生此刻在想些什么呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/5e03ff6f404936dfa929b04af335f11e_6174885204061982426.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "十分新奇，是只有在水面之上才能听到的声响。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/3e43e356bcb70d6e05c8dc153b9ac24a_2175088090163404299.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "买了一双新的防寒手套。看，美露莘的小圆手回来啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/69ceff89799ea21e3422e1d066d6c698_1599062051285283741.mp3",
+          "audioName": "07下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "叮咚，来自「海露花」的小提示：晒太阳前先涂好防晒霜可以保护皮肤哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/0406fd19f38988ff2194df7ef2ea262b_2605502113943481731.mp3",
+          "audioName": "08阳光很好…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "请注意补充水分哦。还好那维莱特先生有爱喝水的好习惯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/bc46f034a5ed09435c5645d7d6fe761b_3801145086302199965.mp3",
+          "audioName": "09在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，睡得好吗？洗脸的时候建议用温水，这样对皮肤的刺激最小。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/57a5fa577ea155ea83a2be6122d29544_1355621347248907333.mp3",
+          "audioName": "10早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "啊呀，午饭时间快到了，我得暂时离开一下下。嘘…请替我保守秘密哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/9b69e1863ef1e9221ad4532d32f24287_356051259947865358.mp3",
+          "audioName": "11中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "几点啦？在水下待久了，下意识要看看钟表才能区分白天黑夜了…不哦，我不觉得压抑，与其说习惯了…不如说我喜欢黑漆漆的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/439f2dddaa366f20b3783bee8f6b7031_3695087983579274537.mp3",
+          "audioName": "12晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "感觉入睡很困难？照理说…你的身体没有异样。唔…明白了。来聊聊心事吧，一起试着找出阻碍你休息的病源。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/dc999cd878f7056bfe5dbb9255504738_9013687576417398123.mp3",
+          "audioName": "13晚安…_cn.mp3"
+        },
+        {
+          "name": "关于希格雯自己·双手",
+          "text": "我很喜欢人类的双手，不管是剪绷带还是拿针管都很灵活，麻醉枪拿起来也特别趁手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/f23b137c6cc28d79df8e5f815e5a99ac_3142419798287475419.mp3",
+          "audioName": "14关于希格雯自己·双手_cn.mp3"
+        },
+        {
+          "name": "关于希格雯自己·「海露花」",
+          "text": "「海露花」是我在《花容美谭》撰稿用的笔名，这个名字其实是大家票选出来的。当时我跟几位美露莘朋友拟了三个备选项，贴在公告板上请大家投票。事实证明，在人类的审美中，比起「坚盾重甲蟹」和「泡泡雄海马」，「海露花」更能跟美容护肤的主题挂钩呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/4814539c18dbfc77b58fe3db2d105a1b_2877797541203735610.mp3",
+          "audioName": "15关于希格雯自己·「海露花」_cn.mp3"
+        },
+        {
+          "name": "关于我们·招呼",
+          "text": "嗨嗨~嗯？似曾相识的动作？呵呵，看来你已经见过一些美露莘朋友了。没错哦，身体微微前倾，迅速地摆摆手…这样打招呼表示友好，你好你好呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/26bf680b57439b3507773b4d04b3322f_5647056185888312453.mp3",
+          "audioName": "16关于我们·招呼_cn.mp3"
+        },
+        {
+          "name": "关于我们·信任",
+          "text": "我记得的哦，你不喜欢苦味所以把药剂藏起来没有喝。其实，后来我请你吃的那盒糖果里，除了糖丸还有我掺进去的药丸，经过重新调制，苦味应该不明显…你说你当时就尝出来了？哈…谢谢你，愿意这样信任我。那么，以后我也会继续为你的健康着想，也请你继续乖乖配合啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/ec8556dff093e30444aecfcd1e3f67df_2732887822531790087.mp3",
+          "audioName": "17关于我们·信任_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "神之眼能让我更轻松地放倒阻碍，抢回不少宝贵的治疗时间。会有什么阻碍？根据经验…有些是不怀好意想要阻挠治疗的人，有的是不肯配合的患者本人…不过除了个别极端情况外，我更倾向于借助它的力量制造轻盈多彩的泡泡，安抚身心之余又可以点缀氛围，在泡泡的环绕下我和美露莘朋友们拍出过不少好看的画片呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/6158ab30928e9b5d2038e6f6867f2fdb_1936786736373591609.mp3",
+          "audioName": "18关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "人类在生病时会变得尤其脆弱。平时会叫嚣着去拳力斗技场比试的高高大大的人，被告知需要打针时也会露出膨膨兽一样的表情。我准备了很多糖果和贴纸来安慰这类爱哭的病人，每次都十分奏效，他们脸上很快就阴雨转晴了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/3bdfb246ed445e8dc775a10953159bc0_8902729633881451324.mp3",
+          "audioName": "19有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "喜欢游泳吗？梅洛彼得堡外面的水域，同样是黑漆漆、乱糟糟的，我猜你也喜欢吧。啊，眉间的肌肉收紧了，说明你有点为难…明白了，那我们去塞洛海原潜泳吧！好久没去看悠悠海獭玩耍了，我可以看一整天。但请注意不要伤害它们，也不要抢它们手上的小贝壳哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/bdf6a33ceabf1cd2a5cfa796a7a9486e_394128725425468389.mp3",
+          "audioName": "20感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于那维莱特·敬爱",
+          "text": "那维莱特先生将美露莘们带来枫丹廷，给我们安排了合适的工作。我们跟他一起尝试着融入枫丹，发掘着人类的美好。就我而言，我非常敬爱他，也很喜爱人类。嗯？你问那维莱特先生和人类同时掉进水里先救谁？很简单，他一定会跟我一起合力救人类上岸哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/1b39f0a1c8570abbc34a9988aa981c2b_1820180509398514024.mp3",
+          "audioName": "21关于那维莱特·敬爱_cn.mp3"
+        },
+        {
+          "name": "关于那维莱特·眷属",
+          "text": "美露莘是那维莱特先生的眷属，但不代表他会给予我们超出律法和公正的偏爱。当初我乖乖接受了那维莱特先生的审判，我认同他的判决。还记得出发去梅洛彼得堡那天下了好大好大的雨，但我一点都不觉得雨点冰冷，反而非常温润，就像那维莱特先生的目光一样…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/1d005d652a867e8b2a642dc00a69fb53_2841641392823814362.mp3",
+          "audioName": "22关于那维莱特·眷属_cn.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "公爵是我见过最能忍受疼痛的人，那时他还没这么高大和强壮，每次来医务室缝合伤口时都拒绝打麻醉针，说着要保持清醒之类的话，真是个很了不起的小大人呢。现在嘛，当然是个了不起的大大人咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/aefa892e7879b98fd0303c434505e100_826578483039103248.mp3",
+          "audioName": "23关于莱欧斯利…_cn.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德小姐讲话时不会有太多面部表情，很难通过她的面部神态读懂她的心情…你说她用了我送的唇膏？真的吗？呵呵，她能喜欢那真的太好了，那个颜色果然很适合她对吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/94c3ebfdc6c70aa776980333f5f87472_8235308801982454255.mp3",
+          "audioName": "24关于克洛琳德…_cn.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "枫丹美容协会定期会举办交流会，我很珍惜跟大家聊天的机会。大部分人听到我的夸赞后都会低着头红着脸说哪有哪有，只有娜维娅小姐每次都会高兴大方地接受夸奖，然后握着我的手邀请我一起合影留念。她就像株光芒四射的黄玫瑰，不管白天黑夜晴天阴天都那么的耀眼呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/1267a3bacc8e4f7caba60a2ff5b60058_8943621984627298966.mp3",
+          "audioName": "25关于娜维娅…_cn.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "我喜欢看夏洛蒂小姐拍的画片，可以很好地观察到大家在不同情景下的面部肌肉，紧绷的、松弛的、上扬的、垮下来的…嘿嘿，非常值得回味。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/04dc6b1f67c2c044588742cd35629b63_6852754924486029991.mp3",
+          "audioName": "26关于夏洛蒂…_cn.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "我很抱歉对林尼先生打出了那枪麻醉针…在当时那种紧急的情况下，那的确是让他受到最少伤害的办法…庆幸的是，后来他了解到我没有恶意后，也放心地让我治疗了菲米尼先生。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/1cf14431501c46d70f62e48a52f1a262_1457565785490005310.mp3",
+          "audioName": "27关于林尼…_cn.mp3"
+        },
+        {
+          "name": "关于琳妮特…",
+          "text": "琳妮特小姐兼具了人类和猫猫的双重可爱！我稍微观察了一下，她在喝茶和吃蛋糕时耳朵会微微向前，呵呵，真想摸摸她的头…你也一样？下次我们一起去征求她的同意吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a6bb8eff71e8a86d49d2e29b1fd3d670_619153262071576272.mp3",
+          "audioName": "28关于琳妮特…_cn.mp3"
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "他的身体恢复后主动找到了我道谢，是个很有礼貌的孩子呢。讲话轻声细语的…看得出平时大概不太擅长主动跟别人打交道，但我能感受到他的内心世界一定非常丰富而细腻，因为他仔细地翻看了美露莘们画的画，看得极其入神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/0b9ac30437506bd3100816ac091de7cd_1608310312865185527.mp3",
+          "audioName": "29关于菲米尼…_cn.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "美露莘的身体跟人类不同，很难买到合适的衣服。就算是我，试穿人类的童装时也会烦恼尾巴应该怎么摆放…不过好在千织小姐推出了针对美露莘的定制服务，现在所有美露莘朋友都有机会穿上喜欢的漂亮衣服啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8de5753d19e392e2e705c6af8017753a_7512745221055171104.mp3",
+          "audioName": "30关于千织…_cn.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "艾梅莉埃小姐设计的香水经常登上各种美容杂志的推荐榜单上。我已经计划好了，下次休假我会提早结束在沫芒宫的拜访，抽出时间在枫丹廷好好逛逛，多买一些艾梅莉埃小姐的香水回去，送给可爱的女孩子们，嘻嘻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/fc3850822588e5e3525993c2ccedfe86_6180739575264048954.mp3",
+          "audioName": "31关于艾梅莉埃…_cn.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "爱可菲小姐在梅洛彼得堡待的时间不长，但她给了我很大的鼓励哦！我做的每一杯饮品，她都认认真真，不紧不慢地喝完了，而且还非常细致地向我描述了她感受到的味道…虽然她的专业用词我听不太明白，但她的面部表情僵硬得十分可爱哦！有机会的话，我还想给她再寄几箱健康奶昔！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/e3d8f8e9cc6ac64e76fc274ba21e6707_7701560627930504868.mp3",
+          "audioName": "希格雯关于爱可菲cn.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其一",
+          "text": "在我的医务室，没有什么「负罪的人在他应在的路上」，只有「生病的人在他应躺的床上」。不管是谁，把身体养好了才能继续坐牢赎罪不是吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/c4bbaa308d7afdc48d6984b97f6f1a92_4287270710593546904.mp3",
+          "audioName": "32想要了解希格雯·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其二",
+          "text": "很多病痛都是累积而来的，平时爱护身体至关重要，可惜很少人懂得这个道理。明明累得眼睛都快睁不开了，还要咬着牙在生产区工作…我只好悄悄给他们加餐，如果还是不肯乖乖休息，使用麻醉枪之类的强硬治疗手段也是没有办法的事。唉，特许券是赚不完的，还是不要勉强自己为妙哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/c4822debc2a98af3775da16d29eafc69_1249982279058421572.mp3",
+          "audioName": "33想要了解希格雯·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其三",
+          "text": "工作不忙的时候我会邀请奥蒂涅和梅莘她们来医务室喝茶，我们有时会聊最近的案件，有时聊美容杂志上推荐的护肤品，更多的时候会一起画画，把我们觉得可爱的东西画下来做成贴纸，再找机会送给可爱的人…啊，请稍等一下，我这里有一张要送给你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/552410825ed1773c5f8003329a4ff613_5982200385209398283.mp3",
+          "audioName": "34想要了解希格雯·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其四",
+          "text": "在很久以前的枫丹，人类跟美露莘的关系并不像今天这样融洽。有些人听说美露莘是从厄里那斯的血肉中诞生的，对我们又恨又怕…有的人出于对那维莱特先生的不信任，连带不会相信美露莘…还有的人也许并没有想太多，光是看我们跟人类长得不一样，就会下意识疏远…那个时候想跟人类做朋友真的是很困难的事情呢，所以我很珍惜那位明知我是美露莘还愿意牵起我的小圆手的人类女孩…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/86a6f171c0da2f65a4919fb8059672a2_5732071477155505763.mp3",
+          "audioName": "35想要了解希格雯·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其五",
+          "text": "我的老师告诫过我「医生最大的责任是治好自己能治好的病」。我明白医生不是神明，再了不起的医生也会有攻克不了的疾病。但没关系，美露莘的生命很长，只要我不断钻研医术，我能治好的病就会越来越多，病痛的苦难就会越来越少。我会以老师为榜样，用尽我所掌握的医术去救我能触及的人…只要结局是好的，只要没伤害别人，我愿意采用任何手段，并承受过程中产生的风险。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/7c6e0dc198579af4f7e113de0515d509_6332471826490832683.mp3",
+          "audioName": "36想要了解希格雯·其五_cn.mp3"
+        },
+        {
+          "name": "希格雯的爱好…",
+          "text": "在我读过的所有书里，我最喜欢《笑的意义》，里面提到的知识不仅有趣，还能在日常中很好地辅助我诊断病情。比如，有些人从拳力斗技场出来时，嘴上挂着笑但脸上其他肌肉都非常扭曲，这种笑通常是为了掩饰自己挨完揍的伤痛。遇到这种情况就请悄悄地叫他来我这包扎吧。不过记得要「悄悄地」，否则他的强颜欢笑就失去「笑的意义」了，嘻嘻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/406b32e34f90456f5db29c437f6126f9_426428046907855024.mp3",
+          "audioName": "37希格雯的爱好…_cn.mp3"
+        },
+        {
+          "name": "希格雯的烦恼…",
+          "text": "奇怪。储藏间的空间越来越不够用了，机关零件快放不下了。我明明还挺会收纳东西的呀？嗯嗯…看来得找个时间跟公爵商量一下扩容的问题了呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/2c5d0d61cf3e0c4161c96353c295af1d_6653538447402485485.mp3",
+          "audioName": "38希格雯的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "好的食材有很多，各有各的营养价值，我想了一个把它们全部混在一起的好办法，要尝尝我特制的营养奶昔吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/314acb9f8b24f37de33fc8dd0764e616_2124677832571107540.mp3",
+          "audioName": "39喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "喝茶虽好，但过量的话对健康是弊大于利的。唉，这个道理我跟公爵说过很多遍了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/3faaa3376786fbda4f0698ebfb1a28dc_6697499453114866995.mp3",
+          "audioName": "40讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "能尝出来用了很多新鲜的食材…嗯，说不定可以将这些绞碎加进营养奶昔里…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/6da525b4f33a67faeb7e89d164d6ba8b_1343056857865361111.mp3",
+          "audioName": "41收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "要是韦尔赛先生能有你这位助手做帮厨，美味料理的占比一定能大大提升。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a6bd68c805c4e7de32a78f3274be9f24_455688808203606930.mp3",
+          "audioName": "42收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "这是给我的「加餐」吗？很感谢哦，你愿意跟我一起分享吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/769eac2fa3726c59e9dd459e1d92ffec_2698720906480990691.mp3",
+          "audioName": "43收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！根据我的观察，你平时要出入不同场合，所以我专门为你调制了一套兼顾便捷性和实用性的护肤套装。来来，请躺下，闭上眼睛，我来示范一次怎么用吧。先帮你湿敷一下脸蛋，平时要是赶时间，稍微把脸打湿就可以了哦…然后挤上适量的洁面膏，沿着肌肉走向轻轻打圈按摩再冲洗干净…最后一步，涂上加了汐藻成分的保湿霜…好啦，容光焕发，请可爱的人尽情享受属于你的节日吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/87a7f23bf7835d4f6dc98a4a55a2ff3d_99519778102364603.mp3",
+          "audioName": "44生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "今天也请继续对自己的可爱负责哦，别担心，我也会帮忙的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/956a44e801dc75719d833f2cbcf3c7df_448689805566537776.mp3",
+          "audioName": "45突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "没看错哦，满足的时候美露莘的尾巴会一摇一摆，真的很谢谢你送我这些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/648adc677ae4c5b6eb3c52608fe6157f_3750748674868290339.mp3",
+          "audioName": "46突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "哇…握麻醉枪的手更稳了，想试试单手开枪的准度…我们出门找些目标怎么样？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/861646edf8d85d80820478eba7dec407_7915432832887814376.mp3",
+          "audioName": "47突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "也许美露莘和人类看到的世界不太一样，但我始终相信我们对情谊的感知是相通的，它是可以跨越种族的。请握住我的掌心，能感受到吗？我真心的温度。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/92c32bfebdb18af02e3146d7e03e99c7_8161790248418903346.mp3",
+          "audioName": "48突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "别动哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/dd4e235195ab857801113c7f061a6c87_6261567713839795123.mp3",
+          "audioName": "49元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "我看看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/c0bc1a6614d0dd5eba36109aa5ff5268_3505194190697180598.mp3",
+          "audioName": "50元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "冷静。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/855d89e014b9f470d67eb1b6a4d19118_1393663021233641831.mp3",
+          "audioName": "51元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "吹泡泡。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/622e1328eb5bd8f6b2f246716dcb3962_5215059819593272260.mp3",
+          "audioName": "52元素战技·其四_cn.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "晃悠悠。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/5ce251d8b9a85a2ee8b62a7f40ceb5b6_2575337909401384629.mp3",
+          "audioName": "53元素战技·其五_cn.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "飘乎乎。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/5a81cc5071b3c6000fbff4fbc0ab11ca_2008720654145325701.mp3",
+          "audioName": "54元素战技·其六_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "谨誓！精研医理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/ed1b50efbaba9dd0c36cb2d7d53cd68d_356112750554119080.mp3",
+          "audioName": "55元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "别紧张哦，放松。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/76683175d5499c2de4124a37642379df_5900995077836271723.mp3",
+          "audioName": "56元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "医嘱：即刻注射。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/c3da51e0a22edb82cc62d0111ff5f925_6510708104480439951.mp3",
+          "audioName": "57元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "别摔跤哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/953929adc6fb0f4c58ca7ef9c63115eb_1841598910615404036.mp3",
+          "audioName": "58冲刺开始·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "请尽量控制住笑肌哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/fdc94ec11bd6915958e513a621aaca58_3651371878851302841.mp3",
+          "audioName": "59打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "如果有机关零件的话，能让给我吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/e7ad8eb8e3efbf3c59f5e260a56b2682_1829110127438919943.mp3",
+          "audioName": "60打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "可爱的人值得最好的宝物。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/cf6e7c44b6694e2370a060b186b3584f_2489162638687587859.mp3",
+          "audioName": "61打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我能治疗自己！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/e29abf0533254ca40e35dca28b16050c_8498898914016584470.mp3",
+          "audioName": "62生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还有止痛药。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/f72bd7509f5de50d0b19ac551f0e7a2e_2132575886181296190.mp3",
+          "audioName": "63生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "没关系的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/6aa06c85511382479f98990c822e4d61_6589083094900553991.mp3",
+          "audioName": "64生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "看来得强制治疗了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/d88436307fcea5fea3e4eaca5b8e5bcb_500499622661318415.mp3",
+          "audioName": "65同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "救援到了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/5ed21bf42c62e1c1597d9f8dabeee323_3688306940736484634.mp3",
+          "audioName": "66同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还有病人在等我…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/de1f7c5490da57b079d326fe1fce7761_1883042362436313737.mp3",
+          "audioName": "67倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "好冷…好痛…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/2ce0450593568a0ab1ffccf444f73a35_464041274758684007.mp3",
+          "audioName": "68倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "治不好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/d4beeaf178db2c65493e6268cee6d297_4876483925156747181.mp3",
+          "audioName": "69倒下·其三_cn.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/37bdf992540e04681e833917d09e3a99_4367019885390215638.mp3",
+          "audioName": "70普通受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "生气了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/88b1a69e033638b44c256d72a3b46666_3831363031170187967.mp3",
+          "audioName": "71重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "你不可爱！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a48583487b0fc8eab1e3e703eb1c1323_8739048413439425707.mp3",
+          "audioName": "72重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "我来负责监测健康吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a2c9ab24cefa68e3bbf89379183ca431_1466376493284034147.mp3",
+          "audioName": "73加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "麻醉剂…嗯，够了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/4b4feb9f764997f787a4bf8bcb104b95_210030538864044331.mp3",
+          "audioName": "74加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "打扰了哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/044c226e9c30853b0ffa77a9ebaf80cc_3081070791307502220.mp3",
+          "audioName": "75加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "怎么啦？别紧张，我是梅洛彼得堡的护士长希格雯，让我看看…这里疼吗？这里呢？哦哦…不是来看病的？那太好啦，呼…这么可爱，可要好好爱护身体，不要弄坏自己了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/ec68a4c8257576f0e2a5408ff9327a1f_1767123667372608522.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·贴纸",
+          "text": "没有哦，我没有在你背后贴贴纸。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/7fd145ff7e0a503d65cb3944a03bd3c9_5211296512515128035.mp3",
+          "audioName": "02闲聊·贴纸_jp.mp3"
+        },
+        {
+          "name": "闲聊·关心",
+          "text": "啊呀！哪里磕着碰着了吗？不舒服要随时叫我哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/319329af25d8b938db006047b160af7b_4793297786598231219.mp3",
+          "audioName": "03闲聊·关心_jp.mp3"
+        },
+        {
+          "name": "闲聊·保养",
+          "text": "保养身体很重要，同样不能忽视的，是保养好自己的内心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/65aa3e355524bfc281466bf43b57f477_4922805150982639875.mp3",
+          "audioName": "04闲聊·保养_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊…不知道那维莱特先生此刻在想些什么呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/793d40c30de810edd8babe71eab989a9_4219083720568846651.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "十分新奇，是只有在水面之上才能听到的声响。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/bfc61fb595695bc46fc35f4acdd595b1_7350765494014733276.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "买了一双新的防寒手套。看，美露莘的小圆手回来啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/b0e5ea2b8eee4ae36ba01daf036b833c_4760717977335299120.mp3",
+          "audioName": "07下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "叮咚，来自「海露花」的小提示：晒太阳前先涂好防晒霜可以保护皮肤哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/eb6d1d41b467b1421d087553560465b2_7188489579460978087.mp3",
+          "audioName": "08阳光很好…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "请注意补充水分哦。还好那维莱特先生有爱喝水的好习惯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/d5397974fa43b27fcceb581cb726a3f1_3915646370009603611.mp3",
+          "audioName": "09在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，睡得好吗？洗脸的时候建议用温水，这样对皮肤的刺激最小。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/12907e99555b952b11808758ecf8498a_8937666846137322759.mp3",
+          "audioName": "10早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "啊呀，午饭时间快到了，我得暂时离开一下下。嘘…请替我保守秘密哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/75cef9f92828e765cf0d02bff0ca5be0_4437718396043946316.mp3",
+          "audioName": "11中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "几点啦？在水下待久了，下意识要看看钟表才能区分白天黑夜了…不哦，我不觉得压抑，与其说习惯了…不如说我喜欢黑漆漆的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/08247fa63a61cc38cb68ce8e840b7ebe_5532235104005719422.mp3",
+          "audioName": "12晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "感觉入睡很困难？照理说…你的身体没有异样。唔…明白了。来聊聊心事吧，一起试着找出阻碍你休息的病源。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/3e92f2fc5ac9ba7620519f3a7ce39f2f_6442546345113617363.mp3",
+          "audioName": "13晚安…_jp.mp3"
+        },
+        {
+          "name": "关于希格雯自己·双手",
+          "text": "我很喜欢人类的双手，不管是剪绷带还是拿针管都很灵活，麻醉枪拿起来也特别趁手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/9df6e2803df9f04d22662030bc5a3661_5550237628245542025.mp3",
+          "audioName": "14关于希格雯自己·双手_jp.mp3"
+        },
+        {
+          "name": "关于希格雯自己·「海露花」",
+          "text": "「海露花」是我在《花容美谭》撰稿用的笔名，这个名字其实是大家票选出来的。当时我跟几位美露莘朋友拟了三个备选项，贴在公告板上请大家投票。事实证明，在人类的审美中，比起「坚盾重甲蟹」和「泡泡雄海马」，「海露花」更能跟美容护肤的主题挂钩呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/3864bf0cbdee42ab65db70a5f4b292c0_363301388018465076.mp3",
+          "audioName": "15关于希格雯自己·「海露花」_jp.mp3"
+        },
+        {
+          "name": "关于我们·招呼",
+          "text": "嗨嗨~嗯？似曾相识的动作？呵呵，看来你已经见过一些美露莘朋友了。没错哦，身体微微前倾，迅速地摆摆手…这样打招呼表示友好，你好你好呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/0955ca742dd7e5124846460b4350687b_1443193354513711594.mp3",
+          "audioName": "16关于我们·招呼_jp.mp3"
+        },
+        {
+          "name": "关于我们·信任",
+          "text": "我记得的哦，你不喜欢苦味所以把药剂藏起来没有喝。其实，后来我请你吃的那盒糖果里，除了糖丸还有我掺进去的药丸，经过重新调制，苦味应该不明显…你说你当时就尝出来了？哈…谢谢你，愿意这样信任我。那么，以后我也会继续为你的健康着想，也请你继续乖乖配合啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/f24d71e92691db8426238752846d235d_6366413130361452816.mp3",
+          "audioName": "17关于我们·信任_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "神之眼能让我更轻松地放倒阻碍，抢回不少宝贵的治疗时间。会有什么阻碍？根据经验…有些是不怀好意想要阻挠治疗的人，有的是不肯配合的患者本人…不过除了个别极端情况外，我更倾向于借助它的力量制造轻盈多彩的泡泡，安抚身心之余又可以点缀氛围，在泡泡的环绕下我和美露莘朋友们拍出过不少好看的画片呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/dab7955b1fb07f3f0d855234fa1c01dc_3836635637399590820.mp3",
+          "audioName": "18关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "人类在生病时会变得尤其脆弱。平时会叫嚣着去拳力斗技场比试的高高大大的人，被告知需要打针时也会露出膨膨兽一样的表情。我准备了很多糖果和贴纸来安慰这类爱哭的病人，每次都十分奏效，他们脸上很快就阴雨转晴了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8150183fe38f0cf7e45eda88694ade50_3530688459401140365.mp3",
+          "audioName": "19有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "喜欢游泳吗？梅洛彼得堡外面的水域，同样是黑漆漆、乱糟糟的，我猜你也喜欢吧。啊，眉间的肌肉收紧了，说明你有点为难…明白了，那我们去塞洛海原潜泳吧！好久没去看悠悠海獭玩耍了，我可以看一整天。但请注意不要伤害它们，也不要抢它们手上的小贝壳哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/b1b68f44166508ee25bda46c5b880433_5347295245666056041.mp3",
+          "audioName": "20感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于那维莱特·敬爱",
+          "text": "那维莱特先生将美露莘们带来枫丹廷，给我们安排了合适的工作。我们跟他一起尝试着融入枫丹，发掘着人类的美好。就我而言，我非常敬爱他，也很喜爱人类。嗯？你问那维莱特先生和人类同时掉进水里先救谁？很简单，他一定会跟我一起合力救人类上岸哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/cd8eb48f1f73b03935e59752287ca616_7932909676471455871.mp3",
+          "audioName": "21关于那维莱特·敬爱_jp.mp3"
+        },
+        {
+          "name": "关于那维莱特·眷属",
+          "text": "美露莘是那维莱特先生的眷属，但不代表他会给予我们超出律法和公正的偏爱。当初我乖乖接受了那维莱特先生的审判，我认同他的判决。还记得出发去梅洛彼得堡那天下了好大好大的雨，但我一点都不觉得雨点冰冷，反而非常温润，就像那维莱特先生的目光一样…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/b7d6a52f2d0742598cd2f880529d3704_5530676653156245810.mp3",
+          "audioName": "22关于那维莱特·眷属_jp.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "公爵是我见过最能忍受疼痛的人，那时他还没这么高大和强壮，每次来医务室缝合伤口时都拒绝打麻醉针，说着要保持清醒之类的话，真是个很了不起的小大人呢。现在嘛，当然是个了不起的大大人咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/411c407ec23a87bdc09f0022d3c1f673_2421381905757132679.mp3",
+          "audioName": "23关于莱欧斯利…_jp.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德小姐讲话时不会有太多面部表情，很难通过她的面部神态读懂她的心情…你说她用了我送的唇膏？真的吗？呵呵，她能喜欢那真的太好了，那个颜色果然很适合她对吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/dbc30163e78599f7359d19b2ee5d6323_1141904594921787525.mp3",
+          "audioName": "24关于克洛琳德…_jp.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "枫丹美容协会定期会举办交流会，我很珍惜跟大家聊天的机会。大部分人听到我的夸赞后都会低着头红着脸说哪有哪有，只有娜维娅小姐每次都会高兴大方地接受夸奖，然后握着我的手邀请我一起合影留念。她就像株光芒四射的黄玫瑰，不管白天黑夜晴天阴天都那么的耀眼呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/cd65c642519e433cdecb61cf7a47ec10_1875954500124861340.mp3",
+          "audioName": "25关于娜维娅…_jp.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "我喜欢看夏洛蒂小姐拍的画片，可以很好地观察到大家在不同情景下的面部肌肉，紧绷的、松弛的、上扬的、垮下来的…嘿嘿，非常值得回味。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/2caf29c371a7e9c312c60f791c29859a_1895081656641753580.mp3",
+          "audioName": "26关于夏洛蒂…_jp.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "我很抱歉对林尼先生打出了那枪麻醉针…在当时那种紧急的情况下，那的确是让他受到最少伤害的办法…庆幸的是，后来他了解到我没有恶意后，也放心地让我治疗了菲米尼先生。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/b8dd94b34b13502fe5a70538894ca44e_1968346976755316159.mp3",
+          "audioName": "27关于林尼…_jp.mp3"
+        },
+        {
+          "name": "关于琳妮特…",
+          "text": "琳妮特小姐兼具了人类和猫猫的双重可爱！我稍微观察了一下，她在喝茶和吃蛋糕时耳朵会微微向前，呵呵，真想摸摸她的头…你也一样？下次我们一起去征求她的同意吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8dd8e21e14f3357623f2f90ccd6017b9_3209588507500691608.mp3",
+          "audioName": "28关于琳妮特…_jp.mp3"
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "他的身体恢复后主动找到了我道谢，是个很有礼貌的孩子呢。讲话轻声细语的…看得出平时大概不太擅长主动跟别人打交道，但我能感受到他的内心世界一定非常丰富而细腻，因为他仔细地翻看了美露莘们画的画，看得极其入神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/7a9ba4635414ca02829e0aa06e9e6b7a_8869313603542923918.mp3",
+          "audioName": "29关于菲米尼…_jp.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "美露莘的身体跟人类不同，很难买到合适的衣服。就算是我，试穿人类的童装时也会烦恼尾巴应该怎么摆放…不过好在千织小姐推出了针对美露莘的定制服务，现在所有美露莘朋友都有机会穿上喜欢的漂亮衣服啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/ff7c615de99a7283be105baa893eecb9_2351955751418746287.mp3",
+          "audioName": "30关于千织…_jp.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "艾梅莉埃小姐设计的香水经常登上各种美容杂志的推荐榜单上。我已经计划好了，下次休假我会提早结束在沫芒宫的拜访，抽出时间在枫丹廷好好逛逛，多买一些艾梅莉埃小姐的香水回去，送给可爱的女孩子们，嘻嘻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/1e1612a38844edd1a6197a6d3d28a0e0_7423422096306672973.mp3",
+          "audioName": "31关于艾梅莉埃…_jp.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "爱可菲小姐在梅洛彼得堡待的时间不长，但她给了我很大的鼓励哦！我做的每一杯饮品，她都认认真真，不紧不慢地喝完了，而且还非常细致地向我描述了她感受到的味道…虽然她的专业用词我听不太明白，但她的面部表情僵硬得十分可爱哦！有机会的话，我还想给她再寄几箱健康奶昔！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/7a496c304157f4143c346362f50111cf_7334953408789921367.mp3",
+          "audioName": "希格雯关于爱可菲jp.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其一",
+          "text": "在我的医务室，没有什么「负罪的人在他应在的路上」，只有「生病的人在他应躺的床上」。不管是谁，把身体养好了才能继续坐牢赎罪不是吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/98915836ace0d935f7baa127b24c1ef5_6629491952818204333.mp3",
+          "audioName": "32想要了解希格雯·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其二",
+          "text": "很多病痛都是累积而来的，平时爱护身体至关重要，可惜很少人懂得这个道理。明明累得眼睛都快睁不开了，还要咬着牙在生产区工作…我只好悄悄给他们加餐，如果还是不肯乖乖休息，使用麻醉枪之类的强硬治疗手段也是没有办法的事。唉，特许券是赚不完的，还是不要勉强自己为妙哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/886db316257f1f3e21f40cfbd43be5c7_8676075991989233921.mp3",
+          "audioName": "33想要了解希格雯·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其三",
+          "text": "工作不忙的时候我会邀请奥蒂涅和梅莘她们来医务室喝茶，我们有时会聊最近的案件，有时聊美容杂志上推荐的护肤品，更多的时候会一起画画，把我们觉得可爱的东西画下来做成贴纸，再找机会送给可爱的人…啊，请稍等一下，我这里有一张要送给你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/1e5b21d075b344b864cd95c067fecd3f_8500639504604936935.mp3",
+          "audioName": "34想要了解希格雯·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其四",
+          "text": "在很久以前的枫丹，人类跟美露莘的关系并不像今天这样融洽。有些人听说美露莘是从厄里那斯的血肉中诞生的，对我们又恨又怕…有的人出于对那维莱特先生的不信任，连带不会相信美露莘…还有的人也许并没有想太多，光是看我们跟人类长得不一样，就会下意识疏远…那个时候想跟人类做朋友真的是很困难的事情呢，所以我很珍惜那位明知我是美露莘还愿意牵起我的小圆手的人类女孩…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/d294a06ade2554bfdfb44da422771832_2901883779603480401.mp3",
+          "audioName": "35想要了解希格雯·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其五",
+          "text": "我的老师告诫过我「医生最大的责任是治好自己能治好的病」。我明白医生不是神明，再了不起的医生也会有攻克不了的疾病。但没关系，美露莘的生命很长，只要我不断钻研医术，我能治好的病就会越来越多，病痛的苦难就会越来越少。我会以老师为榜样，用尽我所掌握的医术去救我能触及的人…只要结局是好的，只要没伤害别人，我愿意采用任何手段，并承受过程中产生的风险。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8f0e65f162c3524555be262306887254_5755234432924444100.mp3",
+          "audioName": "36想要了解希格雯·其五_jp.mp3"
+        },
+        {
+          "name": "希格雯的爱好…",
+          "text": "在我读过的所有书里，我最喜欢《笑的意义》，里面提到的知识不仅有趣，还能在日常中很好地辅助我诊断病情。比如，有些人从拳力斗技场出来时，嘴上挂着笑但脸上其他肌肉都非常扭曲，这种笑通常是为了掩饰自己挨完揍的伤痛。遇到这种情况就请悄悄地叫他来我这包扎吧。不过记得要「悄悄地」，否则他的强颜欢笑就失去「笑的意义」了，嘻嘻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/45e5c62316fa58447a76127c1d1b56b9_2445232406578843489.mp3",
+          "audioName": "37希格雯的爱好…_jp.mp3"
+        },
+        {
+          "name": "希格雯的烦恼…",
+          "text": "奇怪。储藏间的空间越来越不够用了，机关零件快放不下了。我明明还挺会收纳东西的呀？嗯嗯…看来得找个时间跟公爵商量一下扩容的问题了呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/53145756db1627f336c92a15db2b8a07_292013669614216475.mp3",
+          "audioName": "38希格雯的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "好的食材有很多，各有各的营养价值，我想了一个把它们全部混在一起的好办法，要尝尝我特制的营养奶昔吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/47910ae5d9564a2d7e73a4a4f1d4ab7a_6968851623295911228.mp3",
+          "audioName": "39喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "喝茶虽好，但过量的话对健康是弊大于利的。唉，这个道理我跟公爵说过很多遍了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a5d3cb60fefa41e1fd9aa0b14c06c84a_7032974943888426224.mp3",
+          "audioName": "40讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "能尝出来用了很多新鲜的食材…嗯，说不定可以将这些绞碎加进营养奶昔里…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8e6c8a9d99054e0966f6d31ee5164918_4624670049269396749.mp3",
+          "audioName": "41收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "要是韦尔赛先生能有你这位助手做帮厨，美味料理的占比一定能大大提升。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/f76e4b2675af7aa36eb7dbff98c979c8_4110204070525142962.mp3",
+          "audioName": "42收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "这是给我的「加餐」吗？很感谢哦，你愿意跟我一起分享吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/46a5a8a67e3a2cf7924176ed5db3559c_3176901291849501035.mp3",
+          "audioName": "43收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！根据我的观察，你平时要出入不同场合，所以我专门为你调制了一套兼顾便捷性和实用性的护肤套装。来来，请躺下，闭上眼睛，我来示范一次怎么用吧。先帮你湿敷一下脸蛋，平时要是赶时间，稍微把脸打湿就可以了哦…然后挤上适量的洁面膏，沿着肌肉走向轻轻打圈按摩再冲洗干净…最后一步，涂上加了汐藻成分的保湿霜…好啦，容光焕发，请可爱的人尽情享受属于你的节日吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/830e73989ef267517b3cb8e036e38cb5_2185802378116677233.mp3",
+          "audioName": "44生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "今天也请继续对自己的可爱负责哦，别担心，我也会帮忙的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/06216494ea1007f26dcab5fa17418e7d_3856886231980545641.mp3",
+          "audioName": "45突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "没看错哦，满足的时候美露莘的尾巴会一摇一摆，真的很谢谢你送我这些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/e6fed1b8f08be7d79c06f5303f89799d_8025915107582155955.mp3",
+          "audioName": "46突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "哇…握麻醉枪的手更稳了，想试试单手开枪的准度…我们出门找些目标怎么样？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/c41fcf1cd7408283ea7b5fe6994323a8_5423906747125240462.mp3",
+          "audioName": "47突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "也许美露莘和人类看到的世界不太一样，但我始终相信我们对情谊的感知是相通的，它是可以跨越种族的。请握住我的掌心，能感受到吗？我真心的温度。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/2ba9ac37e0f309a7e40e1c83d9bf384c_3044831403692255120.mp3",
+          "audioName": "48突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "别动哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/2412b1d2a99fcf732eac951dcac4e31a_3102066685042412115.mp3",
+          "audioName": "49元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "我看看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/30c98bd5704b418dc73b656964c59640_8976023871387558990.mp3",
+          "audioName": "50元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "冷静。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/753baa41803cfbebde33ded6865dcb1d_257231012157052082.mp3",
+          "audioName": "51元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "吹泡泡。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/517e90ae69514bfae3f48275facfb99f_1109464668968322819.mp3",
+          "audioName": "52元素战技·其四_jp.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "晃悠悠。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/e3a121ccf073e25a2d1ec356f9e1711c_6172320984153291651.mp3",
+          "audioName": "53元素战技·其五_jp.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "飘乎乎。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/0b3fce16475c953cc1859b0267546c49_959057004340649420.mp3",
+          "audioName": "54元素战技·其六_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "谨誓！精研医理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/804736b7f116e237a5f571dba40cadfb_5692689674801905432.mp3",
+          "audioName": "55元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "别紧张哦，放松。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/55e0149b5a136eecc554edf9fab6b299_1851519586439352150.mp3",
+          "audioName": "56元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "医嘱：即刻注射。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/013e717eb61c0f9eac496bbc8acc4861_8858448084044842516.mp3",
+          "audioName": "57元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "别摔跤哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/aa8a1841fe200bcb23b4e40c01102a6a_9028118825721326139.mp3",
+          "audioName": "58冲刺开始·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "请尽量控制住笑肌哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/9afb348e7bd40bbd4db80882dd3a7592_8859516686025045287.mp3",
+          "audioName": "59打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "如果有机关零件的话，能让给我吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/f9ac21f83c0ab24c1ed6cc489fdd2e62_8672477304278673295.mp3",
+          "audioName": "60打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "可爱的人值得最好的宝物。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/698c9982ef751c15b62b32aa5935ec65_4977350812919897220.mp3",
+          "audioName": "61打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我能治疗自己！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/5ffd2060ed6bd6ce013ed7ac8328ca8e_628640941232317225.mp3",
+          "audioName": "62生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还有止痛药。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/ca526d2f4c3f4f2c4dde9972970f7fb2_1203039084624516630.mp3",
+          "audioName": "63生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "没关系的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/79ef3316d2f9202fe6d9b5e98f30346e_2195841637711136318.mp3",
+          "audioName": "64生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "看来得强制治疗了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/3541112de708f8a999ed9ce5c804a9ef_2354543692502643133.mp3",
+          "audioName": "65同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "救援到了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/b2a17241da3acb20ea626e141cfd00ae_3860470824203731782.mp3",
+          "audioName": "66同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还有病人在等我…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/b974066e6cc92b80129bcc8f872ba775_7864566620641491457.mp3",
+          "audioName": "67倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "好冷…好痛…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/c8dcaca4b3e84f05e28cadb2af2bb878_9079709127466364186.mp3",
+          "audioName": "68倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "治不好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a15f682ad3d122a79e2e1b149edf6434_8074442910863784428.mp3",
+          "audioName": "69倒下·其三_jp.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/15f86bb95340e690e8eed018a489ef60_5153729738032032051.mp3",
+          "audioName": "70普通受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "生气了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/5b78d6a6c024873b2f25aeeb11ac2f78_4009865888942749141.mp3",
+          "audioName": "71重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "你不可爱！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/ea8a95727ae5cc435069853f3947f161_555321574352450706.mp3",
+          "audioName": "72重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "我来负责监测健康吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/6a099ba9653371da3f3ef1bada82f653_6642011042095965151.mp3",
+          "audioName": "73加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "麻醉剂…嗯，够了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/5918abe9ebb66598cc2780eb9b16e7b5_8727211749854396612.mp3",
+          "audioName": "74加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "打扰了哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/df67becaf0a0d1ec90acf2df8505f476_4647847986405888385.mp3",
+          "audioName": "75加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "怎么啦？别紧张，我是梅洛彼得堡的护士长希格雯，让我看看…这里疼吗？这里呢？哦哦…不是来看病的？那太好啦，呼…这么可爱，可要好好爱护身体，不要弄坏自己了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/e1b19c005192a8c437ec1189abe9e0fb_1879340447430624947.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·贴纸",
+          "text": "没有哦，我没有在你背后贴贴纸。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/6a9404d00d9a7a88912fee075ddc56ea_1681843696655061717.mp3",
+          "audioName": "02闲聊·贴纸_en.mp3"
+        },
+        {
+          "name": "闲聊·关心",
+          "text": "啊呀！哪里磕着碰着了吗？不舒服要随时叫我哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/68ae668be2068352131bad24a7054060_8226286035851140641.mp3",
+          "audioName": "03闲聊·关心_en.mp3"
+        },
+        {
+          "name": "闲聊·保养",
+          "text": "保养身体很重要，同样不能忽视的，是保养好自己的内心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/589d2055a3e154a3a25758147e486557_4567507022538168869.mp3",
+          "audioName": "04闲聊·保养_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊…不知道那维莱特先生此刻在想些什么呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/003238222babb9367ef153619892ee72_1691863652878383118.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "十分新奇，是只有在水面之上才能听到的声响。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8454c84db8284fa8d711bdc335049987_2907809246091735356.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "买了一双新的防寒手套。看，美露莘的小圆手回来啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8afb898cba58a2ae129b65bc63b984db_136185965487328307.mp3",
+          "audioName": "07下雪的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "叮咚，来自「海露花」的小提示：晒太阳前先涂好防晒霜可以保护皮肤哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/71cf44d7f8302b2baa8721505bf60fca_6980372196422613848.mp3",
+          "audioName": "08阳光很好…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "请注意补充水分哦。还好那维莱特先生有爱喝水的好习惯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/6e5e4d5c66dd7b9d15ff7b84869daa5f_7060416098757315202.mp3",
+          "audioName": "09在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，睡得好吗？洗脸的时候建议用温水，这样对皮肤的刺激最小。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/b27a893fd3146d7e57924dedb6d74f29_7147725811691452313.mp3",
+          "audioName": "10早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "啊呀，午饭时间快到了，我得暂时离开一下下。嘘…请替我保守秘密哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/83e0e34dcd7266aed45902b5f37a549c_6385559176688602670.mp3",
+          "audioName": "11中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "几点啦？在水下待久了，下意识要看看钟表才能区分白天黑夜了…不哦，我不觉得压抑，与其说习惯了…不如说我喜欢黑漆漆的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/3abec3f9dfff0a062f7c1cf601606377_6116589690344095488.mp3",
+          "audioName": "12晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "感觉入睡很困难？照理说…你的身体没有异样。唔…明白了。来聊聊心事吧，一起试着找出阻碍你休息的病源。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a8266200023539bc53cb3dc8fc558caf_6113074343602418955.mp3",
+          "audioName": "13晚安…_en.mp3"
+        },
+        {
+          "name": "关于希格雯自己·双手",
+          "text": "我很喜欢人类的双手，不管是剪绷带还是拿针管都很灵活，麻醉枪拿起来也特别趁手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/94882139071fc3258d50fb1fb9acf90e_5973163780365655035.mp3",
+          "audioName": "14关于希格雯自己·双手_en.mp3"
+        },
+        {
+          "name": "关于希格雯自己·「海露花」",
+          "text": "「海露花」是我在《花容美谭》撰稿用的笔名，这个名字其实是大家票选出来的。当时我跟几位美露莘朋友拟了三个备选项，贴在公告板上请大家投票。事实证明，在人类的审美中，比起「坚盾重甲蟹」和「泡泡雄海马」，「海露花」更能跟美容护肤的主题挂钩呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/bc3237e475de8880ef8aecf775cf9b5e_1930199685787247403.mp3",
+          "audioName": "15关于希格雯自己·「海露花」_en.mp3"
+        },
+        {
+          "name": "关于我们·招呼",
+          "text": "嗨嗨~嗯？似曾相识的动作？呵呵，看来你已经见过一些美露莘朋友了。没错哦，身体微微前倾，迅速地摆摆手…这样打招呼表示友好，你好你好呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8aa93f8d980ea35726151fe90900d757_8184785888553179511.mp3",
+          "audioName": "16关于我们·招呼_en.mp3"
+        },
+        {
+          "name": "关于我们·信任",
+          "text": "我记得的哦，你不喜欢苦味所以把药剂藏起来没有喝。其实，后来我请你吃的那盒糖果里，除了糖丸还有我掺进去的药丸，经过重新调制，苦味应该不明显…你说你当时就尝出来了？哈…谢谢你，愿意这样信任我。那么，以后我也会继续为你的健康着想，也请你继续乖乖配合啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/0aa6fc5dbccb097fa75427fa74aea00b_6223449674190724319.mp3",
+          "audioName": "17关于我们·信任_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "神之眼能让我更轻松地放倒阻碍，抢回不少宝贵的治疗时间。会有什么阻碍？根据经验…有些是不怀好意想要阻挠治疗的人，有的是不肯配合的患者本人…不过除了个别极端情况外，我更倾向于借助它的力量制造轻盈多彩的泡泡，安抚身心之余又可以点缀氛围，在泡泡的环绕下我和美露莘朋友们拍出过不少好看的画片呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/1231ca662705c4da0625f8e6d8edf02c_2479014780376445018.mp3",
+          "audioName": "18关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "人类在生病时会变得尤其脆弱。平时会叫嚣着去拳力斗技场比试的高高大大的人，被告知需要打针时也会露出膨膨兽一样的表情。我准备了很多糖果和贴纸来安慰这类爱哭的病人，每次都十分奏效，他们脸上很快就阴雨转晴了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/35d7e74f13c5ed15f3d786bed660e016_5850808179544682187.mp3",
+          "audioName": "19有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "喜欢游泳吗？梅洛彼得堡外面的水域，同样是黑漆漆、乱糟糟的，我猜你也喜欢吧。啊，眉间的肌肉收紧了，说明你有点为难…明白了，那我们去塞洛海原潜泳吧！好久没去看悠悠海獭玩耍了，我可以看一整天。但请注意不要伤害它们，也不要抢它们手上的小贝壳哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/b8b32dcfb56e1c0affffeefdf39dfc13_2730648132974556567.mp3",
+          "audioName": "20感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于那维莱特·敬爱",
+          "text": "那维莱特先生将美露莘们带来枫丹廷，给我们安排了合适的工作。我们跟他一起尝试着融入枫丹，发掘着人类的美好。就我而言，我非常敬爱他，也很喜爱人类。嗯？你问那维莱特先生和人类同时掉进水里先救谁？很简单，他一定会跟我一起合力救人类上岸哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/1702137588d8760cdb8f67aaf9795b75_2720017303893650901.mp3",
+          "audioName": "21关于那维莱特·敬爱_en.mp3"
+        },
+        {
+          "name": "关于那维莱特·眷属",
+          "text": "美露莘是那维莱特先生的眷属，但不代表他会给予我们超出律法和公正的偏爱。当初我乖乖接受了那维莱特先生的审判，我认同他的判决。还记得出发去梅洛彼得堡那天下了好大好大的雨，但我一点都不觉得雨点冰冷，反而非常温润，就像那维莱特先生的目光一样…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/e8413501116796e13e6e438ddba63177_7721379088100760701.mp3",
+          "audioName": "22关于那维莱特·眷属_en.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "公爵是我见过最能忍受疼痛的人，那时他还没这么高大和强壮，每次来医务室缝合伤口时都拒绝打麻醉针，说着要保持清醒之类的话，真是个很了不起的小大人呢。现在嘛，当然是个了不起的大大人咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a06c45c31a57d71d03cabe8acc4bc171_4846465435763290159.mp3",
+          "audioName": "23关于莱欧斯利…_en.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德小姐讲话时不会有太多面部表情，很难通过她的面部神态读懂她的心情…你说她用了我送的唇膏？真的吗？呵呵，她能喜欢那真的太好了，那个颜色果然很适合她对吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/2722d064f3064505e7e203002b17dba4_6350716603258415852.mp3",
+          "audioName": "24关于克洛琳德…_en.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "枫丹美容协会定期会举办交流会，我很珍惜跟大家聊天的机会。大部分人听到我的夸赞后都会低着头红着脸说哪有哪有，只有娜维娅小姐每次都会高兴大方地接受夸奖，然后握着我的手邀请我一起合影留念。她就像株光芒四射的黄玫瑰，不管白天黑夜晴天阴天都那么的耀眼呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/f80217705c0b17bd9661d605ad03d3fe_7786360036822389940.mp3",
+          "audioName": "25关于娜维娅…_en.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "我喜欢看夏洛蒂小姐拍的画片，可以很好地观察到大家在不同情景下的面部肌肉，紧绷的、松弛的、上扬的、垮下来的…嘿嘿，非常值得回味。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/3778a54c9a9c4537516be6ddb26396d3_1688387402541260276.mp3",
+          "audioName": "26关于夏洛蒂…_en.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "我很抱歉对林尼先生打出了那枪麻醉针…在当时那种紧急的情况下，那的确是让他受到最少伤害的办法…庆幸的是，后来他了解到我没有恶意后，也放心地让我治疗了菲米尼先生。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a9a1cd8d471f6f8c7c939d07e4b1b57e_5475192603526974222.mp3",
+          "audioName": "27关于林尼…_en.mp3"
+        },
+        {
+          "name": "关于琳妮特…",
+          "text": "琳妮特小姐兼具了人类和猫猫的双重可爱！我稍微观察了一下，她在喝茶和吃蛋糕时耳朵会微微向前，呵呵，真想摸摸她的头…你也一样？下次我们一起去征求她的同意吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/c28411cd1f9698d4d3f2a872537e335f_6325133216298847519.mp3",
+          "audioName": "28关于琳妮特…_en.mp3"
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "他的身体恢复后主动找到了我道谢，是个很有礼貌的孩子呢。讲话轻声细语的…看得出平时大概不太擅长主动跟别人打交道，但我能感受到他的内心世界一定非常丰富而细腻，因为他仔细地翻看了美露莘们画的画，看得极其入神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8a41cab67714369f40d8caaa07d6bf45_4475734896318142362.mp3",
+          "audioName": "29关于菲米尼…_en.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "美露莘的身体跟人类不同，很难买到合适的衣服。就算是我，试穿人类的童装时也会烦恼尾巴应该怎么摆放…不过好在千织小姐推出了针对美露莘的定制服务，现在所有美露莘朋友都有机会穿上喜欢的漂亮衣服啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/e5d9e7977bcdbafb32055082e1d3f314_1837037910296881127.mp3",
+          "audioName": "30关于千织…_en.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "艾梅莉埃小姐设计的香水经常登上各种美容杂志的推荐榜单上。我已经计划好了，下次休假我会提早结束在沫芒宫的拜访，抽出时间在枫丹廷好好逛逛，多买一些艾梅莉埃小姐的香水回去，送给可爱的女孩子们，嘻嘻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/330a6194649e6ff8ff0320c0a4a33b02_1371335094783307199.mp3",
+          "audioName": "31关于艾梅莉埃…_en.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "爱可菲小姐在梅洛彼得堡待的时间不长，但她给了我很大的鼓励哦！我做的每一杯饮品，她都认认真真，不紧不慢地喝完了，而且还非常细致地向我描述了她感受到的味道…虽然她的专业用词我听不太明白，但她的面部表情僵硬得十分可爱哦！有机会的话，我还想给她再寄几箱健康奶昔！",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解希格雯·其一",
+          "text": "在我的医务室，没有什么「负罪的人在他应在的路上」，只有「生病的人在他应躺的床上」。不管是谁，把身体养好了才能继续坐牢赎罪不是吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/d4789a36cb8c195724e76f1f6d294372_23193197293602309.mp3",
+          "audioName": "32想要了解希格雯·其一_en.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其二",
+          "text": "很多病痛都是累积而来的，平时爱护身体至关重要，可惜很少人懂得这个道理。明明累得眼睛都快睁不开了，还要咬着牙在生产区工作…我只好悄悄给他们加餐，如果还是不肯乖乖休息，使用麻醉枪之类的强硬治疗手段也是没有办法的事。唉，特许券是赚不完的，还是不要勉强自己为妙哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/1ede2b8ad150d7f9f2298803ce1c6211_5032482601506887804.mp3",
+          "audioName": "33想要了解希格雯·其二_en.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其三",
+          "text": "工作不忙的时候我会邀请奥蒂涅和梅莘她们来医务室喝茶，我们有时会聊最近的案件，有时聊美容杂志上推荐的护肤品，更多的时候会一起画画，把我们觉得可爱的东西画下来做成贴纸，再找机会送给可爱的人…啊，请稍等一下，我这里有一张要送给你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/537645790b7da77b72bc469fc35d7a9c_2051352254242656041.mp3",
+          "audioName": "34想要了解希格雯·其三_en.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其四",
+          "text": "在很久以前的枫丹，人类跟美露莘的关系并不像今天这样融洽。有些人听说美露莘是从厄里那斯的血肉中诞生的，对我们又恨又怕…有的人出于对那维莱特先生的不信任，连带不会相信美露莘…还有的人也许并没有想太多，光是看我们跟人类长得不一样，就会下意识疏远…那个时候想跟人类做朋友真的是很困难的事情呢，所以我很珍惜那位明知我是美露莘还愿意牵起我的小圆手的人类女孩…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/7dd6c1f1e7fc326f78349324957ea559_343077737791636430.mp3",
+          "audioName": "35想要了解希格雯·其四_en.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其五",
+          "text": "我的老师告诫过我「医生最大的责任是治好自己能治好的病」。我明白医生不是神明，再了不起的医生也会有攻克不了的疾病。但没关系，美露莘的生命很长，只要我不断钻研医术，我能治好的病就会越来越多，病痛的苦难就会越来越少。我会以老师为榜样，用尽我所掌握的医术去救我能触及的人…只要结局是好的，只要没伤害别人，我愿意采用任何手段，并承受过程中产生的风险。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/3b5879b0e72a81e9ab21cee572a354c6_4703882861067261689.mp3",
+          "audioName": "36想要了解希格雯·其五_en.mp3"
+        },
+        {
+          "name": "希格雯的爱好…",
+          "text": "在我读过的所有书里，我最喜欢《笑的意义》，里面提到的知识不仅有趣，还能在日常中很好地辅助我诊断病情。比如，有些人从拳力斗技场出来时，嘴上挂着笑但脸上其他肌肉都非常扭曲，这种笑通常是为了掩饰自己挨完揍的伤痛。遇到这种情况就请悄悄地叫他来我这包扎吧。不过记得要「悄悄地」，否则他的强颜欢笑就失去「笑的意义」了，嘻嘻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/949e1e028ff9ebb3803335aea9a3e210_8992942549944292370.mp3",
+          "audioName": "37希格雯的爱好…_en.mp3"
+        },
+        {
+          "name": "希格雯的烦恼…",
+          "text": "奇怪。储藏间的空间越来越不够用了，机关零件快放不下了。我明明还挺会收纳东西的呀？嗯嗯…看来得找个时间跟公爵商量一下扩容的问题了呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/395cce56072b6148e4d1f622af469971_8040367117231937026.mp3",
+          "audioName": "38希格雯的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "好的食材有很多，各有各的营养价值，我想了一个把它们全部混在一起的好办法，要尝尝我特制的营养奶昔吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/ae404b34c5bf06fd8cb0acba52903d82_404064364373760220.mp3",
+          "audioName": "39喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "喝茶虽好，但过量的话对健康是弊大于利的。唉，这个道理我跟公爵说过很多遍了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/ffa5d0fe98b8b539a4031277c45526cd_9127840366869108287.mp3",
+          "audioName": "40讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "能尝出来用了很多新鲜的食材…嗯，说不定可以将这些绞碎加进营养奶昔里…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/9b20a4f407ca9c14fcd4d09f572d60fb_6264590164547984202.mp3",
+          "audioName": "41收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "要是韦尔赛先生能有你这位助手做帮厨，美味料理的占比一定能大大提升。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/06ecdd3a517b7f1b3948452cf5d9ee20_8599165156634893267.mp3",
+          "audioName": "42收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "这是给我的「加餐」吗？很感谢哦，你愿意跟我一起分享吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/7a7cb6070f1c712734d40ab2620410ea_8669681345871759381.mp3",
+          "audioName": "43收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！根据我的观察，你平时要出入不同场合，所以我专门为你调制了一套兼顾便捷性和实用性的护肤套装。来来，请躺下，闭上眼睛，我来示范一次怎么用吧。先帮你湿敷一下脸蛋，平时要是赶时间，稍微把脸打湿就可以了哦…然后挤上适量的洁面膏，沿着肌肉走向轻轻打圈按摩再冲洗干净…最后一步，涂上加了汐藻成分的保湿霜…好啦，容光焕发，请可爱的人尽情享受属于你的节日吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/e6a49660955c3382cc4c2b1c080afa50_2887138889630923816.mp3",
+          "audioName": "44生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "今天也请继续对自己的可爱负责哦，别担心，我也会帮忙的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a021602df46cff8d6ebb84f4efeee2a9_8720325415948984113.mp3",
+          "audioName": "45突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "没看错哦，满足的时候美露莘的尾巴会一摇一摆，真的很谢谢你送我这些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/f7d579d6a01b8520e932611df7eb0ebd_6020990052841544182.mp3",
+          "audioName": "46突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "哇…握麻醉枪的手更稳了，想试试单手开枪的准度…我们出门找些目标怎么样？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a70ffa6c8548ca25ede34ac5efdd9805_918694389983759753.mp3",
+          "audioName": "47突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "也许美露莘和人类看到的世界不太一样，但我始终相信我们对情谊的感知是相通的，它是可以跨越种族的。请握住我的掌心，能感受到吗？我真心的温度。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/e34db8577bfd780de6f00e2a151e15f2_7158032135663371363.mp3",
+          "audioName": "48突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "别动哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/913186a629596fdd4894354b93bdceaa_7981952019666886820.mp3",
+          "audioName": "49元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "我看看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/6258be3e5c280f7670c601035ef9ef91_2104406286800856267.mp3",
+          "audioName": "50元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "冷静。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/178eff6d51103ff3577ab9789a146db1_3831150350751951894.mp3",
+          "audioName": "51元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "吹泡泡。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/147425d0362172fc0e68a8aa51801758_1698173186788391601.mp3",
+          "audioName": "52元素战技·其四_en.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "晃悠悠。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/0619ef8b2cab6cc260d7b55a102b0130_3961573066527201975.mp3",
+          "audioName": "53元素战技·其五_en.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "飘乎乎。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/bcab18b7f81b24b4336e3767d281c161_1233818761524716730.mp3",
+          "audioName": "54元素战技·其六_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "谨誓！精研医理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/704548625bab0e09464705918c37c40b_7192465232247057144.mp3",
+          "audioName": "55元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "别紧张哦，放松。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8e2a326e9db7de2f7cb8fbd541f5eca7_2971977714714381341.mp3",
+          "audioName": "56元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "医嘱：即刻注射。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/af41be4297b0a0bf6aaa6490510033c8_5870627724272532712.mp3",
+          "audioName": "57元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "别摔跤哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/f180525e89f214e23d3f89a9613b87aa_5367672170832525536.mp3",
+          "audioName": "58冲刺开始·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "请尽量控制住笑肌哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8c16a863ee173df6f4c39b2756936c4b_429257884047560429.mp3",
+          "audioName": "59打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "如果有机关零件的话，能让给我吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/9cb7ee5ecce0fecf929905815fe6110b_9132017447135258029.mp3",
+          "audioName": "60打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "可爱的人值得最好的宝物。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/e37805d78799fc5a4080344c00046072_4241524344953677056.mp3",
+          "audioName": "61打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我能治疗自己！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8f3278e1f24636dfcd2437a2a3872476_4206087076243918560.mp3",
+          "audioName": "62生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还有止痛药。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/d3e927a1635765a11cae4bf7eb9e66de_5270031004243362219.mp3",
+          "audioName": "63生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "没关系的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/c5a94cd6038880265440c6c500d01d10_8962766623517897228.mp3",
+          "audioName": "64生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "看来得强制治疗了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/9735ff13a5a1b5199ab0bc0ff5162690_1491222074025971492.mp3",
+          "audioName": "65同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "救援到了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/e560ba21de9263d8f749467e8f3bd996_5464229069108887498.mp3",
+          "audioName": "66同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还有病人在等我…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/3e41579f146caeece7da097e67f0feb1_2272566130120893934.mp3",
+          "audioName": "67倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "好冷…好痛…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/c426268c5cfaeece336894b8d2160df8_2611167198122626762.mp3",
+          "audioName": "68倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "治不好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/6fab8a2c47765247482786f90e267cd7_4251360516016622042.mp3",
+          "audioName": "69倒下·其三_en.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/33550c51a98d6b8590671e3978d4d223_5293538773698356994.mp3",
+          "audioName": "70普通受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "生气了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/18ad7b5859a5cfcd1888c9cf126cb1f2_3858032620042378948.mp3",
+          "audioName": "71重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "你不可爱！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/385b3cbd92786aa389c12152f88c6175_8179091823114557904.mp3",
+          "audioName": "72重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "我来负责监测健康吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/237db453b40b1d227bed0fff6b0ff935_8170536354388468795.mp3",
+          "audioName": "73加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "麻醉剂…嗯，够了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/b0d1dd7c13e263f22540f8af01b25911_9143538366386249239.mp3",
+          "audioName": "74加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "打扰了哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/85efc417d6d1f04b7ff69d2965a6c4a9_2590969685742464930.mp3",
+          "audioName": "75加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "怎么啦？别紧张，我是梅洛彼得堡的护士长希格雯，让我看看…这里疼吗？这里呢？哦哦…不是来看病的？那太好啦，呼…这么可爱，可要好好爱护身体，不要弄坏自己了哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8c1ed0091f0df271ef914c04c525c368_1738198535392959458.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·贴纸",
+          "text": "没有哦，我没有在你背后贴贴纸。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/42ae1adedf054d2a2a295efb7398447a_1128405044474552083.mp3",
+          "audioName": "02闲聊·贴纸_kr.mp3"
+        },
+        {
+          "name": "闲聊·关心",
+          "text": "啊呀！哪里磕着碰着了吗？不舒服要随时叫我哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/323f76afbc6322f1a14d6a9bc2ccec4c_1625036219327730737.mp3",
+          "audioName": "03闲聊·关心_kr.mp3"
+        },
+        {
+          "name": "闲聊·保养",
+          "text": "保养身体很重要，同样不能忽视的，是保养好自己的内心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/927dafb02455612aa05753ed2962bff2_7246711803886114364.mp3",
+          "audioName": "04闲聊·保养_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊…不知道那维莱特先生此刻在想些什么呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/cfad8fd334d1bdeea0b2d35e35ebaf82_4893417974587200187.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "十分新奇，是只有在水面之上才能听到的声响。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/c1f46a4bb8913d6861daa114a272ff13_2031223894062989366.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "买了一双新的防寒手套。看，美露莘的小圆手回来啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/1c73134e3bda3c182f1635c0816c2278_5012614914705761248.mp3",
+          "audioName": "07下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "叮咚，来自「海露花」的小提示：晒太阳前先涂好防晒霜可以保护皮肤哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/1d84cb7f0d7e230dc844184f7f0b7152_1211529448851976974.mp3",
+          "audioName": "08阳光很好…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "请注意补充水分哦。还好那维莱特先生有爱喝水的好习惯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/454e35cf49c865c91e4013f44ee8959b_8359501032082845384.mp3",
+          "audioName": "09在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，睡得好吗？洗脸的时候建议用温水，这样对皮肤的刺激最小。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/4a361cd20ce8b9fb9f63c1cdf18d44a8_5781265000744032110.mp3",
+          "audioName": "10早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "啊呀，午饭时间快到了，我得暂时离开一下下。嘘…请替我保守秘密哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/8f7d5d19c7eb9a1f16a8e534caf9ea97_6703935154957439144.mp3",
+          "audioName": "11中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "几点啦？在水下待久了，下意识要看看钟表才能区分白天黑夜了…不哦，我不觉得压抑，与其说习惯了…不如说我喜欢黑漆漆的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/cc68086979486db7114dd10da460c7df_2659937703201191702.mp3",
+          "audioName": "12晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "感觉入睡很困难？照理说…你的身体没有异样。唔…明白了。来聊聊心事吧，一起试着找出阻碍你休息的病源。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/cd3ab4a7f17e69f5aca20f14d21d00ec_7996345437184396596.mp3",
+          "audioName": "13晚安…_kr.mp3"
+        },
+        {
+          "name": "关于希格雯自己·双手",
+          "text": "我很喜欢人类的双手，不管是剪绷带还是拿针管都很灵活，麻醉枪拿起来也特别趁手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/97c58facff9f0340a124d2c31d5afe69_4076737882369659357.mp3",
+          "audioName": "14关于希格雯自己·双手_kr.mp3"
+        },
+        {
+          "name": "关于希格雯自己·「海露花」",
+          "text": "「海露花」是我在《花容美谭》撰稿用的笔名，这个名字其实是大家票选出来的。当时我跟几位美露莘朋友拟了三个备选项，贴在公告板上请大家投票。事实证明，在人类的审美中，比起「坚盾重甲蟹」和「泡泡雄海马」，「海露花」更能跟美容护肤的主题挂钩呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/f90c287529d0bd4c6230013cc8308436_1142441858271567925.mp3",
+          "audioName": "15关于希格雯自己·「海露花」_kr.mp3"
+        },
+        {
+          "name": "关于我们·招呼",
+          "text": "嗨嗨~嗯？似曾相识的动作？呵呵，看来你已经见过一些美露莘朋友了。没错哦，身体微微前倾，迅速地摆摆手…这样打招呼表示友好，你好你好呀。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/99747b15afed875cdc520734251c8e69_4488324426647350327.mp3",
+          "audioName": "16关于我们·招呼_kr.mp3"
+        },
+        {
+          "name": "关于我们·信任",
+          "text": "我记得的哦，你不喜欢苦味所以把药剂藏起来没有喝。其实，后来我请你吃的那盒糖果里，除了糖丸还有我掺进去的药丸，经过重新调制，苦味应该不明显…你说你当时就尝出来了？哈…谢谢你，愿意这样信任我。那么，以后我也会继续为你的健康着想，也请你继续乖乖配合啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/cb72dcae92e67e509d3fb42739d30c0e_5969052852659851813.mp3",
+          "audioName": "17关于我们·信任_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "神之眼能让我更轻松地放倒阻碍，抢回不少宝贵的治疗时间。会有什么阻碍？根据经验…有些是不怀好意想要阻挠治疗的人，有的是不肯配合的患者本人…不过除了个别极端情况外，我更倾向于借助它的力量制造轻盈多彩的泡泡，安抚身心之余又可以点缀氛围，在泡泡的环绕下我和美露莘朋友们拍出过不少好看的画片呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/dcb55a1f6d3eff6e0154a5b9daebbca5_5686932049905060115.mp3",
+          "audioName": "18关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "人类在生病时会变得尤其脆弱。平时会叫嚣着去拳力斗技场比试的高高大大的人，被告知需要打针时也会露出膨膨兽一样的表情。我准备了很多糖果和贴纸来安慰这类爱哭的病人，每次都十分奏效，他们脸上很快就阴雨转晴了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/cfc99cd3c0ebc01e0f9ba413fbcb241e_1577712874222554801.mp3",
+          "audioName": "19有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "喜欢游泳吗？梅洛彼得堡外面的水域，同样是黑漆漆、乱糟糟的，我猜你也喜欢吧。啊，眉间的肌肉收紧了，说明你有点为难…明白了，那我们去塞洛海原潜泳吧！好久没去看悠悠海獭玩耍了，我可以看一整天。但请注意不要伤害它们，也不要抢它们手上的小贝壳哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/fa762768a99caebc379a028842b5a751_8308563358713191298.mp3",
+          "audioName": "20感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于那维莱特·敬爱",
+          "text": "那维莱特先生将美露莘们带来枫丹廷，给我们安排了合适的工作。我们跟他一起尝试着融入枫丹，发掘着人类的美好。就我而言，我非常敬爱他，也很喜爱人类。嗯？你问那维莱特先生和人类同时掉进水里先救谁？很简单，他一定会跟我一起合力救人类上岸哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/00c60fdd22808ca9764b8ad2a94009d7_6573066590764207166.mp3",
+          "audioName": "21关于那维莱特·敬爱_kr.mp3"
+        },
+        {
+          "name": "关于那维莱特·眷属",
+          "text": "美露莘是那维莱特先生的眷属，但不代表他会给予我们超出律法和公正的偏爱。当初我乖乖接受了那维莱特先生的审判，我认同他的判决。还记得出发去梅洛彼得堡那天下了好大好大的雨，但我一点都不觉得雨点冰冷，反而非常温润，就像那维莱特先生的目光一样…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/befc2d0bda760fc9dcdde7f15d23f5b3_4878370552400269522.mp3",
+          "audioName": "22关于那维莱特·眷属_kr.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "公爵是我见过最能忍受疼痛的人，那时他还没这么高大和强壮，每次来医务室缝合伤口时都拒绝打麻醉针，说着要保持清醒之类的话，真是个很了不起的小大人呢。现在嘛，当然是个了不起的大大人咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/f539348f4f2391cf162c514f0e90421b_3124566133759343209.mp3",
+          "audioName": "23关于莱欧斯利…_kr.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德小姐讲话时不会有太多面部表情，很难通过她的面部神态读懂她的心情…你说她用了我送的唇膏？真的吗？呵呵，她能喜欢那真的太好了，那个颜色果然很适合她对吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a868bc35503e5eb45e9edef997ab9eb0_5661166555596254605.mp3",
+          "audioName": "24关于克洛琳德…_kr.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "枫丹美容协会定期会举办交流会，我很珍惜跟大家聊天的机会。大部分人听到我的夸赞后都会低着头红着脸说哪有哪有，只有娜维娅小姐每次都会高兴大方地接受夸奖，然后握着我的手邀请我一起合影留念。她就像株光芒四射的黄玫瑰，不管白天黑夜晴天阴天都那么的耀眼呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/fe9c80b71b77431c55b68e938d774255_3678127577809697301.mp3",
+          "audioName": "25关于娜维娅…_kr.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "我喜欢看夏洛蒂小姐拍的画片，可以很好地观察到大家在不同情景下的面部肌肉，紧绷的、松弛的、上扬的、垮下来的…嘿嘿，非常值得回味。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/eeebc9f4fb636bc3a1521f9057cfd1ac_7333552950046805151.mp3",
+          "audioName": "26关于夏洛蒂…_kr.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "我很抱歉对林尼先生打出了那枪麻醉针…在当时那种紧急的情况下，那的确是让他受到最少伤害的办法…庆幸的是，后来他了解到我没有恶意后，也放心地让我治疗了菲米尼先生。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/92ee6ab34631ee5a62cd331e961b09ec_5062173555615026712.mp3",
+          "audioName": "27关于林尼…_kr.mp3"
+        },
+        {
+          "name": "关于琳妮特…",
+          "text": "琳妮特小姐兼具了人类和猫猫的双重可爱！我稍微观察了一下，她在喝茶和吃蛋糕时耳朵会微微向前，呵呵，真想摸摸她的头…你也一样？下次我们一起去征求她的同意吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/dfb2dd63c1ca26ab75b4f862a972fa9d_9215972185135752310.mp3",
+          "audioName": "28关于琳妮特…_kr.mp3"
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "他的身体恢复后主动找到了我道谢，是个很有礼貌的孩子呢。讲话轻声细语的…看得出平时大概不太擅长主动跟别人打交道，但我能感受到他的内心世界一定非常丰富而细腻，因为他仔细地翻看了美露莘们画的画，看得极其入神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/787faaf277fa578df5a7dae120cb2705_5689360737561508275.mp3",
+          "audioName": "29关于菲米尼…_kr.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "美露莘的身体跟人类不同，很难买到合适的衣服。就算是我，试穿人类的童装时也会烦恼尾巴应该怎么摆放…不过好在千织小姐推出了针对美露莘的定制服务，现在所有美露莘朋友都有机会穿上喜欢的漂亮衣服啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/50f1756971451989072fc3f3ce8c25cc_1492646340404334174.mp3",
+          "audioName": "30关于千织…_kr.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "艾梅莉埃小姐设计的香水经常登上各种美容杂志的推荐榜单上。我已经计划好了，下次休假我会提早结束在沫芒宫的拜访，抽出时间在枫丹廷好好逛逛，多买一些艾梅莉埃小姐的香水回去，送给可爱的女孩子们，嘻嘻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/b3f711b85347efa63efbe196ea6fd3ed_8248621779112365901.mp3",
+          "audioName": "31关于艾梅莉埃…_kr.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "爱可菲小姐在梅洛彼得堡待的时间不长，但她给了我很大的鼓励哦！我做的每一杯饮品，她都认认真真，不紧不慢地喝完了，而且还非常细致地向我描述了她感受到的味道…虽然她的专业用词我听不太明白，但她的面部表情僵硬得十分可爱哦！有机会的话，我还想给她再寄几箱健康奶昔！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/7181ad201e728ab624d4f01ed1a81737_3334704575586323888.mp3",
+          "audioName": "希格雯关于爱可菲kr.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其一",
+          "text": "在我的医务室，没有什么「负罪的人在他应在的路上」，只有「生病的人在他应躺的床上」。不管是谁，把身体养好了才能继续坐牢赎罪不是吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/0ce23af25a2bac0234bdec6a6ad6f8b3_3398291114595843492.mp3",
+          "audioName": "32想要了解希格雯·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其二",
+          "text": "很多病痛都是累积而来的，平时爱护身体至关重要，可惜很少人懂得这个道理。明明累得眼睛都快睁不开了，还要咬着牙在生产区工作…我只好悄悄给他们加餐，如果还是不肯乖乖休息，使用麻醉枪之类的强硬治疗手段也是没有办法的事。唉，特许券是赚不完的，还是不要勉强自己为妙哦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a4473aa7c590ff07eb4d47f42e6acff2_1959989625619505833.mp3",
+          "audioName": "33想要了解希格雯·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其三",
+          "text": "工作不忙的时候我会邀请奥蒂涅和梅莘她们来医务室喝茶，我们有时会聊最近的案件，有时聊美容杂志上推荐的护肤品，更多的时候会一起画画，把我们觉得可爱的东西画下来做成贴纸，再找机会送给可爱的人…啊，请稍等一下，我这里有一张要送给你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a205bd59033e27d64b7c1a504ffeefd9_3237859645363910458.mp3",
+          "audioName": "34想要了解希格雯·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其四",
+          "text": "在很久以前的枫丹，人类跟美露莘的关系并不像今天这样融洽。有些人听说美露莘是从厄里那斯的血肉中诞生的，对我们又恨又怕…有的人出于对那维莱特先生的不信任，连带不会相信美露莘…还有的人也许并没有想太多，光是看我们跟人类长得不一样，就会下意识疏远…那个时候想跟人类做朋友真的是很困难的事情呢，所以我很珍惜那位明知我是美露莘还愿意牵起我的小圆手的人类女孩…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/dece61d3809dd980d49c3296e009d6eb_1858756672316151504.mp3",
+          "audioName": "35想要了解希格雯·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解希格雯·其五",
+          "text": "我的老师告诫过我「医生最大的责任是治好自己能治好的病」。我明白医生不是神明，再了不起的医生也会有攻克不了的疾病。但没关系，美露莘的生命很长，只要我不断钻研医术，我能治好的病就会越来越多，病痛的苦难就会越来越少。我会以老师为榜样，用尽我所掌握的医术去救我能触及的人…只要结局是好的，只要没伤害别人，我愿意采用任何手段，并承受过程中产生的风险。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/dd120def7466a638222d6ff5143290cf_4361238596456037660.mp3",
+          "audioName": "36想要了解希格雯·其五_kr.mp3"
+        },
+        {
+          "name": "希格雯的爱好…",
+          "text": "在我读过的所有书里，我最喜欢《笑的意义》，里面提到的知识不仅有趣，还能在日常中很好地辅助我诊断病情。比如，有些人从拳力斗技场出来时，嘴上挂着笑但脸上其他肌肉都非常扭曲，这种笑通常是为了掩饰自己挨完揍的伤痛。遇到这种情况就请悄悄地叫他来我这包扎吧。不过记得要「悄悄地」，否则他的强颜欢笑就失去「笑的意义」了，嘻嘻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/98a6654dfaf24740f39f3eaf30a7a361_8681399064332190185.mp3",
+          "audioName": "37希格雯的爱好…_kr.mp3"
+        },
+        {
+          "name": "希格雯的烦恼…",
+          "text": "奇怪。储藏间的空间越来越不够用了，机关零件快放不下了。我明明还挺会收纳东西的呀？嗯嗯…看来得找个时间跟公爵商量一下扩容的问题了呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/c53e40b6a3cbc95f0ec0fa083828d083_1295881034982609027.mp3",
+          "audioName": "38希格雯的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "好的食材有很多，各有各的营养价值，我想了一个把它们全部混在一起的好办法，要尝尝我特制的营养奶昔吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/7339789d53a499c84142767ffd7679e2_8735121330600718625.mp3",
+          "audioName": "39喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "喝茶虽好，但过量的话对健康是弊大于利的。唉，这个道理我跟公爵说过很多遍了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/3c8c7abeb2602d862dcf3dbcc97674af_3462841228680386881.mp3",
+          "audioName": "40讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "能尝出来用了很多新鲜的食材…嗯，说不定可以将这些绞碎加进营养奶昔里…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/350b40db961298256f8c79419587e560_1226575880817075586.mp3",
+          "audioName": "41收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "要是韦尔赛先生能有你这位助手做帮厨，美味料理的占比一定能大大提升。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/679580910a63be032a5716d05ecf77bd_7798184587314320671.mp3",
+          "audioName": "42收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "这是给我的「加餐」吗？很感谢哦，你愿意跟我一起分享吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/63ee43659dccfdac9054da28901d9808_2049193201582190299.mp3",
+          "audioName": "43收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！根据我的观察，你平时要出入不同场合，所以我专门为你调制了一套兼顾便捷性和实用性的护肤套装。来来，请躺下，闭上眼睛，我来示范一次怎么用吧。先帮你湿敷一下脸蛋，平时要是赶时间，稍微把脸打湿就可以了哦…然后挤上适量的洁面膏，沿着肌肉走向轻轻打圈按摩再冲洗干净…最后一步，涂上加了汐藻成分的保湿霜…好啦，容光焕发，请可爱的人尽情享受属于你的节日吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/f113e1c315d073ab5caf86cb8344b87b_4407212522286147065.mp3",
+          "audioName": "44生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "今天也请继续对自己的可爱负责哦，别担心，我也会帮忙的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/33281c9949c39f40d1b3dfda9881ad3e_5246229340493889186.mp3",
+          "audioName": "45突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "没看错哦，满足的时候美露莘的尾巴会一摇一摆，真的很谢谢你送我这些。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/60c4762001036d7ab939e81ee6ced089_5682125663378290938.mp3",
+          "audioName": "46突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "哇…握麻醉枪的手更稳了，想试试单手开枪的准度…我们出门找些目标怎么样？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/6060bc60aa0729c2d54008b725839fba_7996444174877609736.mp3",
+          "audioName": "47突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "也许美露莘和人类看到的世界不太一样，但我始终相信我们对情谊的感知是相通的，它是可以跨越种族的。请握住我的掌心，能感受到吗？我真心的温度。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/cdb8967363aeb27012ed948e67a0688f_8687319364747248457.mp3",
+          "audioName": "48突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "别动哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/383abcb4e9e3d86c288ba548059e3caa_1513120659662671036.mp3",
+          "audioName": "49元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "我看看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/34e739e311c9f8a9fdf729b6d685f97c_5602015459411040627.mp3",
+          "audioName": "50元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "冷静。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/9537f839155a94f8d29f1b43c2cc6d13_5780545292058719761.mp3",
+          "audioName": "51元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "吹泡泡。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/adb39dc0e1aa32fbcb0fe7cc555bc171_4590464137283941295.mp3",
+          "audioName": "52元素战技·其四_kr.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "晃悠悠。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/1dd3990df04bcb617b73471388dac867_4239124587476767829.mp3",
+          "audioName": "53元素战技·其五_kr.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "飘乎乎。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/0dd559fffa1ef581d96871635f891661_9015035419263916647.mp3",
+          "audioName": "54元素战技·其六_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "谨誓！精研医理。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/1c169108732343ce1599c8736c53868b_782021416756269267.mp3",
+          "audioName": "55元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "别紧张哦，放松。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/98e460f27361a2874391e9ea9801f572_6082860121215929080.mp3",
+          "audioName": "56元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "医嘱：即刻注射。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/753dcfd9d4fe50abd1028397e498ff65_7745337918652301379.mp3",
+          "audioName": "57元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "别摔跤哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/2f8b1fcf44967ed3bd304017e97bef30_3178071253272668468.mp3",
+          "audioName": "58冲刺开始·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "请尽量控制住笑肌哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/7804a3f29af48955f52f08d1436312bf_386113752756505054.mp3",
+          "audioName": "59打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "如果有机关零件的话，能让给我吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/88009eb1a15ed0a6e811e19ccaa36fb2_8498758962199517954.mp3",
+          "audioName": "60打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "可爱的人值得最好的宝物。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/66e0f3f40534e6aaff721d44299194d2_4626783990200495257.mp3",
+          "audioName": "61打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我能治疗自己！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/15c025d133c67bd22292764ce3911ac2_1066297422103057348.mp3",
+          "audioName": "62生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还有止痛药。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/a3299b4364f16d0ac5b1843bf4df47ea_7254323513272060431.mp3",
+          "audioName": "63生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "没关系的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/bbeec0ce695c7595c0a632fdbf9ef334_4754676386215403385.mp3",
+          "audioName": "64生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "看来得强制治疗了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/e782b57099cfd32bc4193e5c2fcc2318_5723003490973895862.mp3",
+          "audioName": "65同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "救援到了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/6530d9dc0739b514f4243361f10deca7_3082615019749526468.mp3",
+          "audioName": "66同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还有病人在等我…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/19cc359144f97b16de287feca738a3f9_8880304626049523339.mp3",
+          "audioName": "67倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "好冷…好痛…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/6133847a057f00080bba8ff7d6b403c1_2024568116784294075.mp3",
+          "audioName": "68倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "治不好了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/9a4161a5f26283d474d871d0dc102eb3_5202381885597546906.mp3",
+          "audioName": "69倒下·其三_kr.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/d56f5d1111a44b9150de0dd22207c8b6_223817191002560442.mp3",
+          "audioName": "70普通受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "生气了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/972fb71d524c4e6ff2c75ee947628f18_2106912224208326400.mp3",
+          "audioName": "71重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "你不可爱！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/4401adca57d5aefdd7a66f7e87a0fef6_5022306042448939125.mp3",
+          "audioName": "72重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "我来负责监测健康吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/0b880ea0af71431918f743a675fd0b5c_5992499405656294952.mp3",
+          "audioName": "73加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "麻醉剂…嗯，够了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/163f75f7b25cd01fcecb90aca4f58981_7700195115444486503.mp3",
+          "audioName": "74加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "打扰了哟。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/26/16576950/2d9d74aa11ca4ed510bcb9f66ac05dee_8979702001776241079.mp3",
+          "audioName": "75加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

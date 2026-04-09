@@ -1,0 +1,1685 @@
+{
+  "id": "500673",
+  "name": "闲云",
+  "alias": [
+    "闲云"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "怎么，第一次看见本仙这般姿态，认不出来了？本仙漫无羁束，快意自在。想去哪里，想陪谁一同旅行，还不是本仙自己说了算。咳咳，鉴于本仙声名在外，人前，你还是唤本仙「闲云」就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/77836a3ee69155e835ac07432aa557ce_3005423433496886234.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·机关术",
+          "text": "机关术奥妙无穷，并非三言两语能道明。但为什么每次都会把人聊困呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/7562016f509f77595b7137425890f84b_3099644203249014006.mp3",
+          "audioName": "02闲聊·机关术_cn.mp3"
+        },
+        {
+          "name": "闲聊·人间",
+          "text": "天下承平，万象更新，正是人间好时节啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/6d4e46f11694d3a65f24be3d87a433a1_5763884547948757981.mp3",
+          "audioName": "03闲聊·人间_cn.mp3"
+        },
+        {
+          "name": "闲聊·趣闻",
+          "text": "既然无事，不妨来本仙家中坐坐，讲讲最近的趣闻吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f5fbe7ec3598e3b5cb63a1ce2c926cb8_5472793404303805117.mp3",
+          "audioName": "04闲聊·趣闻_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "如今人间风调雨顺，也就无须本仙呼风唤雨了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/27a4e9626d9bf1efabe1964f7724fe2d_4546029376807826312.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎哟，有点吵耳朵…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/d82061d947dcf452b7d090bb37f6383f_7152779071538890177.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "视野不错，适合登高望远的好天气。哦，本仙不会丢下你一人飞走的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/700a8d8e14ca76f765cb0fb04a9033f0_8077044303531930680.mp3",
+          "audioName": "07阳光很好…_cn.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这风真是舒畅，不如为你贴些仙家符箓，随本仙飞上云霄如何？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/c7a3a243d02f5a437539703f5282cb35_6869069637350030808.mp3",
+          "audioName": "08刮大风了…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "本仙早就醒了，闭着眼是在静心冥想，对修行有益，你也可以试试。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/6e34e764a43380e1082f676aa07fb57a_243438048994763021.mp3",
+          "audioName": "09早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "嗯？看本仙做什么，今天不是轮到你准备午饭了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/562f2e2076102aff78e37f74ff86311a_8282579945276310253.mp3",
+          "audioName": "10中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "找本仙去逛夜市？呵，那里有什么好逛的。想要什么稀奇玩意，本仙给你做一个就是了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a239f3b77b3a698343d8446793c4fcbb_8553557086634752208.mp3",
+          "audioName": "11晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "本仙还精神着呢…看你倒是眼皮打架，快去休息吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/8b806c23354c81682163996fe981be27_926525267200789502.mp3",
+          "audioName": "12晚安…_cn.mp3"
+        },
+        {
+          "name": "关于闲云自己·师徒",
+          "text": "本仙向来逍遥自在，无拘无束，徒弟们自然也有样学样，一个个的忙得没影，十天半月也没个信…本仙心中并无寂寞之情！嗯…若是出于关心，抽空去看看她们，应该不会添什么麻烦吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/785715936505a9a550391dfbe5e4f862_880920365449809591.mp3",
+          "audioName": "13关于闲云自己·师徒_cn.mp3"
+        },
+        {
+          "name": "关于闲云自己·烹饪",
+          "text": "虽然机关做菜不如人力精巧，但省下做饭的时间，就可以用去研制新的烹饪神机，新的机关又会节省更多时间…呵，如此循环下去，终有一日，本仙可以将世间美味尽收囊中。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e79d16b0f63fc1c93135bab8f2be2dde_6421536174773895962.mp3",
+          "audioName": "14关于闲云自己·烹饪_cn.mp3"
+        },
+        {
+          "name": "关于我们·旅伴",
+          "text": "为了今后出行便利，本仙特意飞到空中勘测地形，做了这个指路罗盘，怎么样，没见过做事如此周到的旅伴吧？你说你对附近地形很熟悉？呵…人的记忆总会有误差，等你迷路的时候，就会感谢本仙未雨绸缪了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/8e6eb9b9d9c8a63d146634730b565f65_1357406818356993144.mp3",
+          "audioName": "15关于我们·旅伴_cn.mp3"
+        },
+        {
+          "name": "关于我们·牵绊",
+          "text": "本仙虽不在意身外之物，亦深谙「牵绊」二字。这二字写起来容易，个中真意却难以言说。就像本仙与那些老家伙们，有时几年才相见一次，见了面也经常吵架斗嘴，但不论彼此身在何处，都不会有漂泊无依之感。你是本仙认可的人，自然也在本仙的朋友之列，不知道你是否和本仙一样珍惜这份「牵绊」呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/c7a88ededb6b28b318d3d5c80decf78a_5710106871832138463.mp3",
+          "audioName": "16关于我们·牵绊_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "帝君曾言，「神之眼」代表的是一份责任，无论隐于山林还是居于闹市，都不可忘记看护人间之责。从今以后是人的时代，本仙会心怀这份责任继续走下去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/b964d44fb130faac3ff4ca6c87b8ad50_8451962166854314028.mp3",
+          "audioName": "17关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "这机关鸟是个试作品，本仙想做只大鸟，中间镂空变成座驾，就能和那帮老友一起出去游山玩水了…但是动力和操作问题是个难事，既要能升降，还要能变形，还要兼顾必要的安全措施…哎，若是归终还在，她或许能想出不少异想天开的解决方案吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/1473ffef8c855eeed8a6739246abfce4_6638371185644289917.mp3",
+          "audioName": "18有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "奥藏山尽敛风华，蕴天地灵气，是适合修行的好地方。当初本仙在山中静思时，常有好奇的生灵前来张望，动辄叽叽喳喳、吵吵闹闹的…倒让人一点也不讨厌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/bb78b5e7f68bcbd001e0de34476e8c39_561557366532632018.mp3",
+          "audioName": "19感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于甘雨",
+          "text": "本仙问甘雨平时加班都在忙些什么，她说了一堆拗口的词，什么会议纪要、工作总结、年度报告、财务预算…哼，若非她的仙麟血脉，又有本仙传授的养生之法，可应付不来这些繁文缛节…你下次记得替本仙问她，有没有每天喝本仙研制的明目清心茶？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/7a98d41dd26c8948e2c2527cd32eeae5_5868095598559629473.mp3",
+          "audioName": "20关于甘雨_cn.mp3"
+        },
+        {
+          "name": "关于申鹤",
+          "text": "申鹤说她有一次给万民堂送外卖，为了节省时间，直接踩着屋顶过去，从屋顶跳到人家门口，把顾客吓了一跳，差点要喊千岩军…好在她来去如风，没等顾客喊出口，早已放下外卖消失不见了。申鹤这孩子处理危机的能力真是越来越强，本仙很是欣慰。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/5223c0f84fc26b25bd872a354ebd6c21_3229905747313520236.mp3",
+          "audioName": "21关于申鹤_cn.mp3"
+        },
+        {
+          "name": "关于钟离",
+          "text": "帝君听说本仙要在璃月港置办住宅，便跟本仙细数家居装潢与家具购置的注意事项。采光通风、木材定制、瓷器选购、还有花卉摆放…本仙听得头都快大了，在人间居住竟要这般费心吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/4ea1526c86c01f0c5d0e4cddb7900c7e_860466927924456109.mp3",
+          "audioName": "22关于钟离_cn.mp3"
+        },
+        {
+          "name": "关于魈",
+          "text": "降魔大圣比本仙还安静，千百年的聚会，就没几次他愿意出面的。本仙倒是听说你和他交情不错，平时你都跟他聊些什么？要不然，下次你找他的时候，本仙做一份「豆腐布丁」让你带去吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/7c3d03d5df660aaaf808d692bfd36fd1_3236240865644296976.mp3",
+          "audioName": "23关于魈_cn.mp3"
+        },
+        {
+          "name": "关于胡桃",
+          "text": "那丫头年纪轻轻，说话稀奇古怪，但看「往生堂」的人却对她毕恭毕敬，连帝君都客气，还给她当那什么「客卿」…听说她对食物的品味也不同寻常，这号奇人，倒让本仙有些兴趣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/3742eb860fbe4e7ee94b4caf1ee78b12_8204504103604680758.mp3",
+          "audioName": "24关于胡桃_cn.mp3"
+        },
+        {
+          "name": "关于香菱",
+          "text": "本仙闲聊时跟她说起过机关烹饪神机的事，那丫头竟然说，做菜还是得亲自动手才地道…哼，本仙造机关也是亲自动手，怎么就不地道了？本仙可得跟她比比…不过她做的璃月菜肴确实风味极佳…待本仙想想怎么改进机关…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f6ce9c55b1c54a6dcdcd831a34322cfc_4922214175780977832.mp3",
+          "audioName": "25关于香菱_cn.mp3"
+        },
+        {
+          "name": "关于凝光",
+          "text": "这位「天权星」做起事还算八面玲珑，讲话也滴水不漏。哼，不得不说，璃月港在他们七星的治理下也算欣欣向荣。本仙也在细心观察，研究其中奥秘…咳，此事你知道即可，不要对她讲。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/42ff4cabd3ad5743d0626247498548ee_8925156856304374511.mp3",
+          "audioName": "26关于凝光_cn.mp3"
+        },
+        {
+          "name": "关于刻晴",
+          "text": "她逢年过节便会代表七星来拜访本仙，给本仙送来节日贺礼，真是个有心的孩子。看她做事干练，考虑又周全，甘雨与她共事，应该也不用本仙过于操心…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/69eab0b5ab34bf46fc9f2ebcc522b4fe_4214584393242077810.mp3",
+          "audioName": "27关于刻晴_cn.mp3"
+        },
+        {
+          "name": "关于云堇",
+          "text": "「璃月戏」有不少以仙人传说为蓝本的故事，其中也有以本仙的经历改编的戏曲…本仙当然未曾看过，看别人在台上演自己，难道不会尴尬吗？至于她以申鹤的经历创作的戏，待本仙空闲，倒是可以去品鉴一番。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/ac8a4c2baf732d35f4915e7499b3ca13_6687280466870699197.mp3",
+          "audioName": "28关于云堇_cn.mp3"
+        },
+        {
+          "name": "关于瑶瑶",
+          "text": "有一次，瑶瑶把我的眼镜借了过去，戴在了自己的鼻梁上，一个人乐呵呵地笑了半天…孩子啊，总能找到独属于孩子的乐趣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/7be48a3a87ce46995b86f892632faf92_5278329501448307389.mp3",
+          "audioName": "29关于瑶瑶_cn.mp3"
+        },
+        {
+          "name": "关于嘉明",
+          "text": "嘉明这小伙为人热情，说话有趣，也从来不会夸夸其谈，本仙很是看重。说起最初和他相遇的时候，看到本仙在池边歇脚，他还主动拿出吃食与本仙分享呢。后来他说在他眼里，比起仙人，本仙更像是一位可敬的长辈。呵呵，那本仙自然也该以长辈的身份照顾他喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/7f9c811a06c7916e1cc95286648178bf_6714487642356136573.mp3",
+          "audioName": "30关于嘉明_cn.mp3"
+        },
+        {
+          "name": "想要了解闲云·其一",
+          "text": "想要知道本仙的过往？都是些陈年旧事，有什么好说的。倒是你四处游历，想必遇到不少趣事。其他国家的神仙是何样貌？可有哪位像本仙一样喜欢聊天？沏壶好茶，跟本仙细细说来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/4ffa50d1e8d759c8d00738066760a652_1366510341894099167.mp3",
+          "audioName": "31想要了解闲云·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解闲云·其二",
+          "text": "有段时间，璃月盛行寻仙问道之法，也不知道他们如何得知本仙的洞府所在，隔三岔五便有人在奥藏山设坛供奉食物…哼，本仙岂会因凡间美食扰了清修？不过是念在他们一片诚心，才不得已等到旁边没人的时候，略加品…咳，略加回应罢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/79c2d85c07c02b60e4e844d66554b179_5060935554302432852.mp3",
+          "audioName": "32想要了解闲云·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解闲云·其三",
+          "text": "曾经也有其他人找到本仙的洞府，想要本仙收他们为徒。本仙闭门不见，他们便赖着不走，奥藏山都快成了露营公园…本仙便在洞府外贴了张便条，想要拜师者先想出清心的九十九种烹饪之法，每天做出一种…果然没有人能坚持下来。哼，无论是仙家术法还是机关造诣，都需资质极佳，心性极静之人方能领悟，如果连三个月也坚持不住，也就不必白费力气了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f2c43106c6d723b80a786cc36b03a091_6037331499010370397.mp3",
+          "audioName": "33想要了解闲云·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解闲云·其四",
+          "text": "机关术虽有诸多神妙用途，但有时不过是本仙消磨时间的游乐产物。有一年璃月大雪，奥藏山积雪很深，本仙见众人终日待在洞府，无所事事，便造了个「追风滑雪神机」。削月那老家伙见本仙和归终、歌尘等人玩得起劲，也要加入，可他出师不利，第一次试滑便脱了轨道，连人带机关砸进了旁边的积雪里。我们铲了半天才将他挖出来…后来本仙特地给他在防护性上加固了不少，便是三岁稚子也能安稳操控，只是速度慢些罢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/26cb1ea2348f433d86d7abcbdf4ab95c_8644777069495726615.mp3",
+          "audioName": "34想要了解闲云·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解闲云·其五",
+          "text": "本仙搬来璃月港之后，看了不少流行读物，其中一些侠义小说颇为有趣。若是将本仙认识的形形色色人物写进去，岂不比那些凭空想象的角色更为精彩？可惜本仙的徒弟们，似乎都不喜欢本仙跟其他人讲她们的故事…那不如就写你跟本仙聊过的旅途趣事如何？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/1d9a8ce417ce5b5ebd00404c8872f4be_5626977768404108932.mp3",
+          "audioName": "35想要了解闲云·其五_cn.mp3"
+        },
+        {
+          "name": "闲云的爱好…",
+          "text": "闲来无事，坐在山野之间吹吹罡风，总能让人平心静气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/d21a903c2f9500aa3118ba22c4599640_5552158252016919680.mp3",
+          "audioName": "36闲云的爱好…_cn.mp3"
+        },
+        {
+          "name": "闲云的烦恼…",
+          "text": "自从本仙搬来璃月港，前来拜访、宴请本仙的新朋旧友一茬接一茬。如此往来，本仙手上的摩拉也未必够用…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a28f82ba6ccae884c68bf2680a1ea332_1706351870335464241.mp3",
+          "audioName": "37闲云的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "与好友一起吃饭，无论是何种菜肴，都令人回味无穷。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/de05316dbf3ad6d56fa46ed0908b3e9d_2140344953627170554.mp3",
+          "audioName": "38喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "仙人不会被人间俗物阻碍修为，比起食物的种类，本仙更在乎味道…要是你自己尝着都不够可口，就不要拿到本仙面前了。还不如本仙来下厨…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/b2c42b408a2e0f8568748868fca09480_5131901887860617300.mp3",
+          "audioName": "39讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "食材用得新鲜，口感也恰到好处。你偷学过本仙的烹饪技巧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/4df2f4d4b48d2d84c26eb2ad7b67af34_3222507782581245278.mp3",
+          "audioName": "40收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道倒是其次，能想起请本仙吃饭，心意可嘉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/29e0327664e8b0147ae797868446090f_1147195054872408541.mp3",
+          "audioName": "41收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "本仙的机关烹饪神机近来闲置了，可以借你一用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e2f0e14a53fde74311b5c933f442de64_6213338805855760671.mp3",
+          "audioName": "42收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "来，打开这个木匣。这个机关小人是本仙闲暇时所做，你拿去玩吧。你看，只要像这样拍拍手，莲花的花瓣就会打开，彩灯一圈圈亮起，随后奏响的是小辈们最喜欢的生日快乐歌…这样办生日宴时，想必会平添几分热闹吧。祝你过得开心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/0a430b9f0ab3466879a17221857e0e99_3702274701579824906.mp3",
+          "audioName": "43生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "久居家中，偶尔出来活动筋骨倒也不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a2f5a1f7276276bf03fdf8610f63d43e_800616370136750649.mp3",
+          "audioName": "44突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "有些仙法多年不用，一朝拾起难免有些生疏。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/6b2af37f8130b979108fd3b5db5c84e4_8700887814941559776.mp3",
+          "audioName": "45突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "唉，既然你露出这般期待的眼神，本仙也只好再拿出些本事了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/529c48b4a01429d884f30650aec11b02_1709126912994566984.mp3",
+          "audioName": "46突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "在世间行走多了便有经验。比起力量多寡，还是与人交往的技巧更为重要。若你有空，我们去找个风景开阔的地方，赏赏景、聊聊天，放慢脚步，好好享受享受生活吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/d7affc16bb06e9115b3cc2698bd9c3f8_5235901012048534476.mp3",
+          "audioName": "47突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "喝！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f85252b4c16d2ceecaa40ba0e7d0b1c7_1914349477442672797.mp3",
+          "audioName": "48元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "御风！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/2215c254e9cab14b7d48e1dc8f9ac171_3200665464551381541.mp3",
+          "audioName": "49元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "云散！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e6a40de981e2926c64bae061d3745a8e_337933726193887923.mp3",
+          "audioName": "50元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "八风儛翮。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f76b13a59769dee7a1240f7cc91a9bb2_8026202306462093201.mp3",
+          "audioName": "51元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "仙人来哉！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/28222328702c1a172d0ce45a76fe2cdf_2791147817196889806.mp3",
+          "audioName": "52元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "风汇，孤云与归。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f91b39a7649c9d42f710a46e6ed05008_6162291829264886780.mp3",
+          "audioName": "53元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "能当零件用用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/d066f2b50bad31c9471905ddb27048a2_727073930215731416.mp3",
+          "audioName": "54打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "什么稀奇玩意，让本仙看看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a8b7da38f00ad9f1474e83963cb7cba9_7591398786676649166.mp3",
+          "audioName": "55打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "本仙是不是该研发个…「奇物搜觅神机」？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a1533f901b76856456f21351b220c0cf_6395310932408675981.mp3",
+          "audioName": "56打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "大胆！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/fab403c6a4e09fd161cb9f5967e988e3_3774784601061919416.mp3",
+          "audioName": "57生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "身法不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/42879cf5cc0727276cba361f9364721c_8626618323913485563.mp3",
+          "audioName": "58生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "本仙奉陪到底。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/5c8430cbcd4ff79bf2377a1607807c21_2057536697182324614.mp3",
+          "audioName": "59生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "量力而行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/224dfcaa0a38aae4ee5c51e37bbfeeee_8084811393779038928.mp3",
+          "audioName": "60同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "怎么不叫本仙？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/cba73ece77e13f1f98e2bb8386344f03_7226328498356005645.mp3",
+          "audioName": "61同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "肚子空着…这次不算…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/bab1cd58f9782c6d9f75aaecb7e53d70_7060721930168629022.mp3",
+          "audioName": "62倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "一着不慎…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/128e78d58c7255fc1e1ac3fb1396cde5_3688021069181344799.mp3",
+          "audioName": "63倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "机关…还未使出…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/320936a44adf9c779d690fc3184c7c1b_7630969660659672098.mp3",
+          "audioName": "64倒下·其三_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "雕虫小技。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f420351a50f283bbd2e0d5f925f45573_3600260397553249630.mp3",
+          "audioName": "65重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "不过如此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e35524da4db74c3eb962c67470b96b3c_3352289642099987580.mp3",
+          "audioName": "66重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "机关调试完毕，动身吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/2f24cffe178dbaa3f990129d444c62c5_7035445800318317766.mp3",
+          "audioName": "67加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "吃食可备好了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/6051bf1a51dbb3227d861977fcf255de_7086196536160135864.mp3",
+          "audioName": "68加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "本仙日行千里，你可别跟丢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/739d434adb8308fc4e98bc7de4389bd4_259058332413356553.mp3",
+          "audioName": "69加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "怎么，第一次看见本仙这般姿态，认不出来了？本仙漫无羁束，快意自在。想去哪里，想陪谁一同旅行，还不是本仙自己说了算。咳咳，鉴于本仙声名在外，人前，你还是唤本仙「闲云」就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/94175265d00da2803e19cb3bf02b242b_378959729331256061.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·机关术",
+          "text": "机关术奥妙无穷，并非三言两语能道明。但为什么每次都会把人聊困呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f942ec9b0981a5b19a0d158b90b539bd_4826615287944322262.mp3",
+          "audioName": "02闲聊·机关术_jp.mp3"
+        },
+        {
+          "name": "闲聊·人间",
+          "text": "天下承平，万象更新，正是人间好时节啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/24512bbb8b22154a9ff07d06b0c9059f_2433078462933844067.mp3",
+          "audioName": "03闲聊·人间_jp.mp3"
+        },
+        {
+          "name": "闲聊·趣闻",
+          "text": "既然无事，不妨来本仙家中坐坐，讲讲最近的趣闻吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f5cbcec41d9925fca6213433d1899d31_1482434162570233827.mp3",
+          "audioName": "04闲聊·趣闻_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "如今人间风调雨顺，也就无须本仙呼风唤雨了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/45570d06e66f87637550f3c2a9694c3b_2560697638698141749.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎哟，有点吵耳朵…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e6c2914f977dcbc2df5a55dcb3467c02_4766800580757317237.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "视野不错，适合登高望远的好天气。哦，本仙不会丢下你一人飞走的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/cc3c55353d9d04578d33fdfaefaa4cdb_1154269407276642728.mp3",
+          "audioName": "07阳光很好…_jp.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这风真是舒畅，不如为你贴些仙家符箓，随本仙飞上云霄如何？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/1977282f47ad0aef5e33ee76d1ff38bf_6998078666064638591.mp3",
+          "audioName": "08刮大风了…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "本仙早就醒了，闭着眼是在静心冥想，对修行有益，你也可以试试。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/6af877078079656945a78312c19ee976_7956286811245184936.mp3",
+          "audioName": "09早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "嗯？看本仙做什么，今天不是轮到你准备午饭了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/07d3600c40ddb94aaf0c8e803ec37535_5703600722449332612.mp3",
+          "audioName": "10中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "找本仙去逛夜市？呵，那里有什么好逛的。想要什么稀奇玩意，本仙给你做一个就是了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e69e2b17c9dbddf5f7c4ee8795ca065b_844374659795943952.mp3",
+          "audioName": "11晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "本仙还精神着呢…看你倒是眼皮打架，快去休息吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a6ef97ca1f97c882559a931048e06edf_3536898128505813395.mp3",
+          "audioName": "12晚安…_jp.mp3"
+        },
+        {
+          "name": "关于闲云自己·师徒",
+          "text": "本仙向来逍遥自在，无拘无束，徒弟们自然也有样学样，一个个的忙得没影，十天半月也没个信…本仙心中并无寂寞之情！嗯…若是出于关心，抽空去看看她们，应该不会添什么麻烦吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a3ee59dae7ec78bbb1ce705ea8aea4d1_1176449167568074081.mp3",
+          "audioName": "13关于闲云自己·师徒_jp.mp3"
+        },
+        {
+          "name": "关于闲云自己·烹饪",
+          "text": "虽然机关做菜不如人力精巧，但省下做饭的时间，就可以用去研制新的烹饪神机，新的机关又会节省更多时间…呵，如此循环下去，终有一日，本仙可以将世间美味尽收囊中。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/4b5612c394fdc198cb7fbdfb71b34f1d_394383381906401867.mp3",
+          "audioName": "14关于闲云自己·烹饪_jp.mp3"
+        },
+        {
+          "name": "关于我们·旅伴",
+          "text": "为了今后出行便利，本仙特意飞到空中勘测地形，做了这个指路罗盘，怎么样，没见过做事如此周到的旅伴吧？你说你对附近地形很熟悉？呵…人的记忆总会有误差，等你迷路的时候，就会感谢本仙未雨绸缪了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/b0db5af00211cd9210f797ae047b9c5b_447703379444786671.mp3",
+          "audioName": "15关于我们·旅伴_jp.mp3"
+        },
+        {
+          "name": "关于我们·牵绊",
+          "text": "本仙虽不在意身外之物，亦深谙「牵绊」二字。这二字写起来容易，个中真意却难以言说。就像本仙与那些老家伙们，有时几年才相见一次，见了面也经常吵架斗嘴，但不论彼此身在何处，都不会有漂泊无依之感。你是本仙认可的人，自然也在本仙的朋友之列，不知道你是否和本仙一样珍惜这份「牵绊」呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/d885e34420ceef9e04d0b18458ab1354_3728606892704805356.mp3",
+          "audioName": "16关于我们·牵绊_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "帝君曾言，「神之眼」代表的是一份责任，无论隐于山林还是居于闹市，都不可忘记看护人间之责。从今以后是人的时代，本仙会心怀这份责任继续走下去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/159cdcaa14f300de61eee65c2c8dd0c2_7774770658892073779.mp3",
+          "audioName": "17关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "这机关鸟是个试作品，本仙想做只大鸟，中间镂空变成座驾，就能和那帮老友一起出去游山玩水了…但是动力和操作问题是个难事，既要能升降，还要能变形，还要兼顾必要的安全措施…哎，若是归终还在，她或许能想出不少异想天开的解决方案吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/493254a3788f5c6fd34003df0516f616_1593446302496836837.mp3",
+          "audioName": "18有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "奥藏山尽敛风华，蕴天地灵气，是适合修行的好地方。当初本仙在山中静思时，常有好奇的生灵前来张望，动辄叽叽喳喳、吵吵闹闹的…倒让人一点也不讨厌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/c4fe7938cd47e1d87f95354c58bc2c9d_6157781916792545296.mp3",
+          "audioName": "19感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于甘雨",
+          "text": "本仙问甘雨平时加班都在忙些什么，她说了一堆拗口的词，什么会议纪要、工作总结、年度报告、财务预算…哼，若非她的仙麟血脉，又有本仙传授的养生之法，可应付不来这些繁文缛节…你下次记得替本仙问她，有没有每天喝本仙研制的明目清心茶？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/359f97f9219bebe4bdcd4e2dc733c60a_76673693761394539.mp3",
+          "audioName": "20关于甘雨_jp.mp3"
+        },
+        {
+          "name": "关于申鹤",
+          "text": "申鹤说她有一次给万民堂送外卖，为了节省时间，直接踩着屋顶过去，从屋顶跳到人家门口，把顾客吓了一跳，差点要喊千岩军…好在她来去如风，没等顾客喊出口，早已放下外卖消失不见了。申鹤这孩子处理危机的能力真是越来越强，本仙很是欣慰。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/2f51a32e8c4f6ac4d884b93bcee8cf20_2645991460438475646.mp3",
+          "audioName": "21关于申鹤_jp.mp3"
+        },
+        {
+          "name": "关于钟离",
+          "text": "帝君听说本仙要在璃月港置办住宅，便跟本仙细数家居装潢与家具购置的注意事项。采光通风、木材定制、瓷器选购、还有花卉摆放…本仙听得头都快大了，在人间居住竟要这般费心吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/396517db47cbe3577f330d6d868c27c2_200882419923151790.mp3",
+          "audioName": "22关于钟离_jp.mp3"
+        },
+        {
+          "name": "关于魈",
+          "text": "降魔大圣比本仙还安静，千百年的聚会，就没几次他愿意出面的。本仙倒是听说你和他交情不错，平时你都跟他聊些什么？要不然，下次你找他的时候，本仙做一份「豆腐布丁」让你带去吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/7cee750c371d2b1e3ab577316306c76c_4220659750496847293.mp3",
+          "audioName": "23关于魈_jp.mp3"
+        },
+        {
+          "name": "关于胡桃",
+          "text": "那丫头年纪轻轻，说话稀奇古怪，但看「往生堂」的人却对她毕恭毕敬，连帝君都客气，还给她当那什么「客卿」…听说她对食物的品味也不同寻常，这号奇人，倒让本仙有些兴趣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/401ddd33801b8ed430f87261e8ab3fa3_8922836736250498242.mp3",
+          "audioName": "24关于胡桃_jp.mp3"
+        },
+        {
+          "name": "关于香菱",
+          "text": "本仙闲聊时跟她说起过机关烹饪神机的事，那丫头竟然说，做菜还是得亲自动手才地道…哼，本仙造机关也是亲自动手，怎么就不地道了？本仙可得跟她比比…不过她做的璃月菜肴确实风味极佳…待本仙想想怎么改进机关…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/63524348be212c7e2819d605cfdec405_83207470322205866.mp3",
+          "audioName": "25关于香菱_jp.mp3"
+        },
+        {
+          "name": "关于凝光",
+          "text": "这位「天权星」做起事还算八面玲珑，讲话也滴水不漏。哼，不得不说，璃月港在他们七星的治理下也算欣欣向荣。本仙也在细心观察，研究其中奥秘…咳，此事你知道即可，不要对她讲。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/32c4250bd91e86a90db98921dd10d898_5144890312636484214.mp3",
+          "audioName": "26关于凝光_jp.mp3"
+        },
+        {
+          "name": "关于刻晴",
+          "text": "她逢年过节便会代表七星来拜访本仙，给本仙送来节日贺礼，真是个有心的孩子。看她做事干练，考虑又周全，甘雨与她共事，应该也不用本仙过于操心…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a7c2ae714e71bc7d61cfae80b6be21e4_6956821351263020980.mp3",
+          "audioName": "27关于刻晴_jp.mp3"
+        },
+        {
+          "name": "关于云堇",
+          "text": "「璃月戏」有不少以仙人传说为蓝本的故事，其中也有以本仙的经历改编的戏曲…本仙当然未曾看过，看别人在台上演自己，难道不会尴尬吗？至于她以申鹤的经历创作的戏，待本仙空闲，倒是可以去品鉴一番。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e47c95b3a853245e99c95f9754aa81ab_8784283805184693556.mp3",
+          "audioName": "28关于云堇_jp.mp3"
+        },
+        {
+          "name": "关于瑶瑶",
+          "text": "有一次，瑶瑶把我的眼镜借了过去，戴在了自己的鼻梁上，一个人乐呵呵地笑了半天…孩子啊，总能找到独属于孩子的乐趣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/bd42f1c8ef9ab0f99d6dd38d8dd6c2d2_3118984141054390674.mp3",
+          "audioName": "29关于瑶瑶_jp.mp3"
+        },
+        {
+          "name": "关于嘉明",
+          "text": "嘉明这小伙为人热情，说话有趣，也从来不会夸夸其谈，本仙很是看重。说起最初和他相遇的时候，看到本仙在池边歇脚，他还主动拿出吃食与本仙分享呢。后来他说在他眼里，比起仙人，本仙更像是一位可敬的长辈。呵呵，那本仙自然也该以长辈的身份照顾他喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/dd5fa3d31ad61f68101acc92c84ef29d_4096349144932993652.mp3",
+          "audioName": "30关于嘉明_jp.mp3"
+        },
+        {
+          "name": "想要了解闲云·其一",
+          "text": "想要知道本仙的过往？都是些陈年旧事，有什么好说的。倒是你四处游历，想必遇到不少趣事。其他国家的神仙是何样貌？可有哪位像本仙一样喜欢聊天？沏壶好茶，跟本仙细细说来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/bf7aa13f1c71a84490919acc2b76183b_252153755344397014.mp3",
+          "audioName": "31想要了解闲云·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解闲云·其二",
+          "text": "有段时间，璃月盛行寻仙问道之法，也不知道他们如何得知本仙的洞府所在，隔三岔五便有人在奥藏山设坛供奉食物…哼，本仙岂会因凡间美食扰了清修？不过是念在他们一片诚心，才不得已等到旁边没人的时候，略加品…咳，略加回应罢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/978a64094cff5ee429fa5b0eb4c16ca5_2016850009803141587.mp3",
+          "audioName": "32想要了解闲云·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解闲云·其三",
+          "text": "曾经也有其他人找到本仙的洞府，想要本仙收他们为徒。本仙闭门不见，他们便赖着不走，奥藏山都快成了露营公园…本仙便在洞府外贴了张便条，想要拜师者先想出清心的九十九种烹饪之法，每天做出一种…果然没有人能坚持下来。哼，无论是仙家术法还是机关造诣，都需资质极佳，心性极静之人方能领悟，如果连三个月也坚持不住，也就不必白费力气了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e4a91317daeea89e88eb9c8969400601_2275066769952016302.mp3",
+          "audioName": "33想要了解闲云·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解闲云·其四",
+          "text": "机关术虽有诸多神妙用途，但有时不过是本仙消磨时间的游乐产物。有一年璃月大雪，奥藏山积雪很深，本仙见众人终日待在洞府，无所事事，便造了个「追风滑雪神机」。削月那老家伙见本仙和归终、歌尘等人玩得起劲，也要加入，可他出师不利，第一次试滑便脱了轨道，连人带机关砸进了旁边的积雪里。我们铲了半天才将他挖出来…后来本仙特地给他在防护性上加固了不少，便是三岁稚子也能安稳操控，只是速度慢些罢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/bdddcb13ff2e659de892398ac6037537_1028407252327967879.mp3",
+          "audioName": "34想要了解闲云·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解闲云·其五",
+          "text": "本仙搬来璃月港之后，看了不少流行读物，其中一些侠义小说颇为有趣。若是将本仙认识的形形色色人物写进去，岂不比那些凭空想象的角色更为精彩？可惜本仙的徒弟们，似乎都不喜欢本仙跟其他人讲她们的故事…那不如就写你跟本仙聊过的旅途趣事如何？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/cc2b256a6da64aed87f11d8fa260ead7_4565469750102512258.mp3",
+          "audioName": "35想要了解闲云·其五_jp.mp3"
+        },
+        {
+          "name": "闲云的爱好…",
+          "text": "闲来无事，坐在山野之间吹吹罡风，总能让人平心静气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/20c456187c7aa86ae3be60ffb6167437_5446897162981381225.mp3",
+          "audioName": "36闲云的爱好…_jp.mp3"
+        },
+        {
+          "name": "闲云的烦恼…",
+          "text": "自从本仙搬来璃月港，前来拜访、宴请本仙的新朋旧友一茬接一茬。如此往来，本仙手上的摩拉也未必够用…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/8a858f2876ec89ed121d133663fd59f8_2209049542306217820.mp3",
+          "audioName": "37闲云的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "与好友一起吃饭，无论是何种菜肴，都令人回味无穷。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f95148cba6c9e46637fb0b6fc1ba3112_8751237099330447769.mp3",
+          "audioName": "38喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "仙人不会被人间俗物阻碍修为，比起食物的种类，本仙更在乎味道…要是你自己尝着都不够可口，就不要拿到本仙面前了。还不如本仙来下厨…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/79714b0b0784db5d1ebcf7450911d1c0_2774066201292409528.mp3",
+          "audioName": "39讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "食材用得新鲜，口感也恰到好处。你偷学过本仙的烹饪技巧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/d651835f31103afcd02a202e0427f702_7660608782590018078.mp3",
+          "audioName": "40收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道倒是其次，能想起请本仙吃饭，心意可嘉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/1c820b4fd3998123af0878ebd94f55f8_9013512882548972998.mp3",
+          "audioName": "41收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "本仙的机关烹饪神机近来闲置了，可以借你一用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/4bf91622e4f20996d22a630d43475d69_987097352418987230.mp3",
+          "audioName": "42收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "来，打开这个木匣。这个机关小人是本仙闲暇时所做，你拿去玩吧。你看，只要像这样拍拍手，莲花的花瓣就会打开，彩灯一圈圈亮起，随后奏响的是小辈们最喜欢的生日快乐歌…这样办生日宴时，想必会平添几分热闹吧。祝你过得开心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/dd50223d7d701f9ce4d6419b0fea3298_6448763431668451543.mp3",
+          "audioName": "43生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "久居家中，偶尔出来活动筋骨倒也不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/543ea81c1791412dd4162c8e843e4be5_6616948128277659757.mp3",
+          "audioName": "44突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "有些仙法多年不用，一朝拾起难免有些生疏。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/c14dadb433676b59c7af56b945ef6d73_5652561368664960200.mp3",
+          "audioName": "45突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "唉，既然你露出这般期待的眼神，本仙也只好再拿出些本事了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/1eec6a6d9cdb1a239c65514b0cf3400d_8469433525630902153.mp3",
+          "audioName": "46突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "在世间行走多了便有经验。比起力量多寡，还是与人交往的技巧更为重要。若你有空，我们去找个风景开阔的地方，赏赏景、聊聊天，放慢脚步，好好享受享受生活吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/d27ae9948214e6da83c7ebe5d530d04f_5940236272125245003.mp3",
+          "audioName": "47突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "喝！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e7e29e98a759c873f278142591ed9629_5717703761434075720.mp3",
+          "audioName": "48元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "御风！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/2ef2b28e34920acf559d4283c47b2368_5508037510829747443.mp3",
+          "audioName": "49元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "云散！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a0b74394140b6280bd7d9501bc6257a2_6503534878892492689.mp3",
+          "audioName": "50元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "八风儛翮。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/603d89ada521d4001eee0f1845796708_6825512339710225864.mp3",
+          "audioName": "51元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "仙人来哉！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/dc706357ab4d7651ba24c15929c6f93f_6970206733375766954.mp3",
+          "audioName": "52元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "风汇，孤云与归。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/5cc2f2a916c3c7517fb6915cec6e978b_1438101755263046553.mp3",
+          "audioName": "53元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "能当零件用用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/fea48415f098500581f79025166c8ac0_7330558030149887735.mp3",
+          "audioName": "54打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "什么稀奇玩意，让本仙看看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/8c3486b52f53c0a7b815d2a505b21dd2_182175423806608129.mp3",
+          "audioName": "55打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "本仙是不是该研发个…「奇物搜觅神机」？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/ac67332833b981de803a4ebd3404ffd3_7010958452593814936.mp3",
+          "audioName": "56打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "大胆！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a81a2e666f0d773b6b3c0d0f8c99238f_7677987679692717345.mp3",
+          "audioName": "57生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "身法不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/25dda96f5b1361ed27d837a118b19242_5332780139444207327.mp3",
+          "audioName": "58生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "本仙奉陪到底。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/ef6eda689a3cb64a9284be2bb8093228_7789789289841135459.mp3",
+          "audioName": "59生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "量力而行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/6698245b731cd0f4e1c74c58011df03b_5498176510649874927.mp3",
+          "audioName": "60同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "怎么不叫本仙？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/b56b740670c21bde5ec24ec68213c63e_8439888830338553302.mp3",
+          "audioName": "61同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "肚子空着…这次不算…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/4464a2ea9985d4347b1e2425a4ccc26e_7912499145756674844.mp3",
+          "audioName": "62倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "一着不慎…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/649521a7484a9e0ed9f099f644630a8f_8233646223988303479.mp3",
+          "audioName": "63倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "机关…还未使出…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/b350b14feb24c863c02e923c775f4dfc_6090349767551950295.mp3",
+          "audioName": "64倒下·其三_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "雕虫小技。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e276631a634728ac3416b9161bac8d5e_8857116280233247205.mp3",
+          "audioName": "65重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "不过如此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/1ec50a841753d43d2b5f6d7b719e24d6_8892550449306673826.mp3",
+          "audioName": "66重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "机关调试完毕，动身吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/011ab2be8d9d9d5d51f0d8f5abd7980c_4927436323445898422.mp3",
+          "audioName": "67加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "吃食可备好了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/d62ff7be9c5c2de8f12bd6df24fb8921_3145838720096583999.mp3",
+          "audioName": "68加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "本仙日行千里，你可别跟丢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a24701ba65fda36d5acd660e32d95448_9195198824934782619.mp3",
+          "audioName": "69加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "怎么，第一次看见本仙这般姿态，认不出来了？本仙漫无羁束，快意自在。想去哪里，想陪谁一同旅行，还不是本仙自己说了算。咳咳，鉴于本仙声名在外，人前，你还是唤本仙「闲云」就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/b6c83113843400b9781b6fb2f16ba5a4_6319670542435288145.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·机关术",
+          "text": "机关术奥妙无穷，并非三言两语能道明。但为什么每次都会把人聊困呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e1afef36f75cf97330f7b4ab3b1465ce_1331711827502113370.mp3",
+          "audioName": "02闲聊·机关术_en.mp3"
+        },
+        {
+          "name": "闲聊·人间",
+          "text": "天下承平，万象更新，正是人间好时节啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/b8623e6de141052eb12661cd7257c12f_6401741439045423750.mp3",
+          "audioName": "03闲聊·人间_en.mp3"
+        },
+        {
+          "name": "闲聊·趣闻",
+          "text": "既然无事，不妨来本仙家中坐坐，讲讲最近的趣闻吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/6b1b004b2dba88e6482741a215508970_997120026876322397.mp3",
+          "audioName": "04闲聊·趣闻_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "如今人间风调雨顺，也就无须本仙呼风唤雨了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/c2261181e8d99352172056b185cfea4e_2309417258100706274.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎哟，有点吵耳朵…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/36fb1c5fc54d2df848b27eeec60b2030_2860159987642253635.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "视野不错，适合登高望远的好天气。哦，本仙不会丢下你一人飞走的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/b3bbfaf8c660aead35fe890f926ebab8_2558154177574809902.mp3",
+          "audioName": "07阳光很好…_en.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这风真是舒畅，不如为你贴些仙家符箓，随本仙飞上云霄如何？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/c4df7d4fbc438e22c872f697c21c615b_1862286036740852337.mp3",
+          "audioName": "08刮大风了…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "本仙早就醒了，闭着眼是在静心冥想，对修行有益，你也可以试试。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/352199ab907df4be11e040c790c7309b_5653486261077978924.mp3",
+          "audioName": "09早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "嗯？看本仙做什么，今天不是轮到你准备午饭了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/57ccc4a94ee18083574c3ce2c62817c9_8953736515324436442.mp3",
+          "audioName": "10中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "找本仙去逛夜市？呵，那里有什么好逛的。想要什么稀奇玩意，本仙给你做一个就是了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/c55a19be0a0d86b3c1aa58f767767145_1515978852181549774.mp3",
+          "audioName": "11晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "本仙还精神着呢…看你倒是眼皮打架，快去休息吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a91796bfc283512106eb0348c300c7a1_4348472894480441690.mp3",
+          "audioName": "12晚安…_en.mp3"
+        },
+        {
+          "name": "关于闲云自己·师徒",
+          "text": "本仙向来逍遥自在，无拘无束，徒弟们自然也有样学样，一个个的忙得没影，十天半月也没个信…本仙心中并无寂寞之情！嗯…若是出于关心，抽空去看看她们，应该不会添什么麻烦吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e4adfcee3efa30affe9bc53879b3dfbb_8460095770769096314.mp3",
+          "audioName": "13关于闲云自己·师徒_en.mp3"
+        },
+        {
+          "name": "关于闲云自己·烹饪",
+          "text": "虽然机关做菜不如人力精巧，但省下做饭的时间，就可以用去研制新的烹饪神机，新的机关又会节省更多时间…呵，如此循环下去，终有一日，本仙可以将世间美味尽收囊中。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/51650ab42fc683bd96d463fcd5609644_9145239059236665396.mp3",
+          "audioName": "14关于闲云自己·烹饪_en.mp3"
+        },
+        {
+          "name": "关于我们·旅伴",
+          "text": "为了今后出行便利，本仙特意飞到空中勘测地形，做了这个指路罗盘，怎么样，没见过做事如此周到的旅伴吧？你说你对附近地形很熟悉？呵…人的记忆总会有误差，等你迷路的时候，就会感谢本仙未雨绸缪了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f4a8f5d36a236de543c139114407830d_594464755630260877.mp3",
+          "audioName": "15关于我们·旅伴_en.mp3"
+        },
+        {
+          "name": "关于我们·牵绊",
+          "text": "本仙虽不在意身外之物，亦深谙「牵绊」二字。这二字写起来容易，个中真意却难以言说。就像本仙与那些老家伙们，有时几年才相见一次，见了面也经常吵架斗嘴，但不论彼此身在何处，都不会有漂泊无依之感。你是本仙认可的人，自然也在本仙的朋友之列，不知道你是否和本仙一样珍惜这份「牵绊」呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e434f7cd9ebcb02891e5e0ecac65c37f_6778134543806466937.mp3",
+          "audioName": "16关于我们·牵绊_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "帝君曾言，「神之眼」代表的是一份责任，无论隐于山林还是居于闹市，都不可忘记看护人间之责。从今以后是人的时代，本仙会心怀这份责任继续走下去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a24950656d02f5037b1385924606d358_4757896645155927352.mp3",
+          "audioName": "17关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "这机关鸟是个试作品，本仙想做只大鸟，中间镂空变成座驾，就能和那帮老友一起出去游山玩水了…但是动力和操作问题是个难事，既要能升降，还要能变形，还要兼顾必要的安全措施…哎，若是归终还在，她或许能想出不少异想天开的解决方案吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/9f037acefccb0d864bc7429d57b0dcc2_9162529378426810977.mp3",
+          "audioName": "18有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "奥藏山尽敛风华，蕴天地灵气，是适合修行的好地方。当初本仙在山中静思时，常有好奇的生灵前来张望，动辄叽叽喳喳、吵吵闹闹的…倒让人一点也不讨厌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/48434f2de1710510d9b2294ee8d41d42_5754088270401894786.mp3",
+          "audioName": "19感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于甘雨",
+          "text": "本仙问甘雨平时加班都在忙些什么，她说了一堆拗口的词，什么会议纪要、工作总结、年度报告、财务预算…哼，若非她的仙麟血脉，又有本仙传授的养生之法，可应付不来这些繁文缛节…你下次记得替本仙问她，有没有每天喝本仙研制的明目清心茶？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/ebba39b4a902c37388a509320887e4a0_6695330854536387979.mp3",
+          "audioName": "20关于甘雨_en.mp3"
+        },
+        {
+          "name": "关于申鹤",
+          "text": "申鹤说她有一次给万民堂送外卖，为了节省时间，直接踩着屋顶过去，从屋顶跳到人家门口，把顾客吓了一跳，差点要喊千岩军…好在她来去如风，没等顾客喊出口，早已放下外卖消失不见了。申鹤这孩子处理危机的能力真是越来越强，本仙很是欣慰。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/4e06ed96a6e895b1ec69c75c74fbcb1f_2669290449846428237.mp3",
+          "audioName": "21关于申鹤_en.mp3"
+        },
+        {
+          "name": "关于钟离",
+          "text": "帝君听说本仙要在璃月港置办住宅，便跟本仙细数家居装潢与家具购置的注意事项。采光通风、木材定制、瓷器选购、还有花卉摆放…本仙听得头都快大了，在人间居住竟要这般费心吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/241c45458fcc54dd610242a42d3701eb_6042914993555200372.mp3",
+          "audioName": "22关于钟离_en.mp3"
+        },
+        {
+          "name": "关于魈",
+          "text": "降魔大圣比本仙还安静，千百年的聚会，就没几次他愿意出面的。本仙倒是听说你和他交情不错，平时你都跟他聊些什么？要不然，下次你找他的时候，本仙做一份「豆腐布丁」让你带去吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/bf16c5946583758c3040c7a28986fc86_7716116914882925701.mp3",
+          "audioName": "23关于魈_en.mp3"
+        },
+        {
+          "name": "关于胡桃",
+          "text": "那丫头年纪轻轻，说话稀奇古怪，但看「往生堂」的人却对她毕恭毕敬，连帝君都客气，还给她当那什么「客卿」…听说她对食物的品味也不同寻常，这号奇人，倒让本仙有些兴趣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/cf9aebec56064122ccb2ef026e0cb9ba_6901000099605526932.mp3",
+          "audioName": "24关于胡桃_en.mp3"
+        },
+        {
+          "name": "关于香菱",
+          "text": "本仙闲聊时跟她说起过机关烹饪神机的事，那丫头竟然说，做菜还是得亲自动手才地道…哼，本仙造机关也是亲自动手，怎么就不地道了？本仙可得跟她比比…不过她做的璃月菜肴确实风味极佳…待本仙想想怎么改进机关…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/da8d3f6d91586f67d4bc58e7de79e1c6_1951714710603069106.mp3",
+          "audioName": "25关于香菱_en.mp3"
+        },
+        {
+          "name": "关于凝光",
+          "text": "这位「天权星」做起事还算八面玲珑，讲话也滴水不漏。哼，不得不说，璃月港在他们七星的治理下也算欣欣向荣。本仙也在细心观察，研究其中奥秘…咳，此事你知道即可，不要对她讲。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/cc641444d532a899ecd56d83c9d5a271_8780567132335121946.mp3",
+          "audioName": "26关于凝光_en.mp3"
+        },
+        {
+          "name": "关于刻晴",
+          "text": "她逢年过节便会代表七星来拜访本仙，给本仙送来节日贺礼，真是个有心的孩子。看她做事干练，考虑又周全，甘雨与她共事，应该也不用本仙过于操心…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/43f94c18377aa86f78d91b25c519d0cb_7388427851401705963.mp3",
+          "audioName": "27关于刻晴_en.mp3"
+        },
+        {
+          "name": "关于云堇",
+          "text": "「璃月戏」有不少以仙人传说为蓝本的故事，其中也有以本仙的经历改编的戏曲…本仙当然未曾看过，看别人在台上演自己，难道不会尴尬吗？至于她以申鹤的经历创作的戏，待本仙空闲，倒是可以去品鉴一番。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/321a5dc1db30626d667419a0f027a906_3971262921663828735.mp3",
+          "audioName": "28关于云堇_en.mp3"
+        },
+        {
+          "name": "关于瑶瑶",
+          "text": "有一次，瑶瑶把我的眼镜借了过去，戴在了自己的鼻梁上，一个人乐呵呵地笑了半天…孩子啊，总能找到独属于孩子的乐趣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a7c278eb9ed4757549d9b4d5848fd7b0_6853591141083442228.mp3",
+          "audioName": "29关于瑶瑶_en.mp3"
+        },
+        {
+          "name": "关于嘉明",
+          "text": "嘉明这小伙为人热情，说话有趣，也从来不会夸夸其谈，本仙很是看重。说起最初和他相遇的时候，看到本仙在池边歇脚，他还主动拿出吃食与本仙分享呢。后来他说在他眼里，比起仙人，本仙更像是一位可敬的长辈。呵呵，那本仙自然也该以长辈的身份照顾他喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e5cd3a217de1bd0587f612d48f8ca124_1474055066590901459.mp3",
+          "audioName": "30关于嘉明_en.mp3"
+        },
+        {
+          "name": "想要了解闲云·其一",
+          "text": "想要知道本仙的过往？都是些陈年旧事，有什么好说的。倒是你四处游历，想必遇到不少趣事。其他国家的神仙是何样貌？可有哪位像本仙一样喜欢聊天？沏壶好茶，跟本仙细细说来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/fd33d5ac5cc29dcf3f0eff3975737d65_7869896407467503448.mp3",
+          "audioName": "31想要了解闲云·其一_en.mp3"
+        },
+        {
+          "name": "想要了解闲云·其二",
+          "text": "有段时间，璃月盛行寻仙问道之法，也不知道他们如何得知本仙的洞府所在，隔三岔五便有人在奥藏山设坛供奉食物…哼，本仙岂会因凡间美食扰了清修？不过是念在他们一片诚心，才不得已等到旁边没人的时候，略加品…咳，略加回应罢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a6e71c58c271028fc89e6b787759a8dd_8473877956168832630.mp3",
+          "audioName": "32想要了解闲云·其二_en.mp3"
+        },
+        {
+          "name": "想要了解闲云·其三",
+          "text": "曾经也有其他人找到本仙的洞府，想要本仙收他们为徒。本仙闭门不见，他们便赖着不走，奥藏山都快成了露营公园…本仙便在洞府外贴了张便条，想要拜师者先想出清心的九十九种烹饪之法，每天做出一种…果然没有人能坚持下来。哼，无论是仙家术法还是机关造诣，都需资质极佳，心性极静之人方能领悟，如果连三个月也坚持不住，也就不必白费力气了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/19f2ac724bfd2698b39b861793ab9817_8921048379985077886.mp3",
+          "audioName": "33想要了解闲云·其三_en.mp3"
+        },
+        {
+          "name": "想要了解闲云·其四",
+          "text": "机关术虽有诸多神妙用途，但有时不过是本仙消磨时间的游乐产物。有一年璃月大雪，奥藏山积雪很深，本仙见众人终日待在洞府，无所事事，便造了个「追风滑雪神机」。削月那老家伙见本仙和归终、歌尘等人玩得起劲，也要加入，可他出师不利，第一次试滑便脱了轨道，连人带机关砸进了旁边的积雪里。我们铲了半天才将他挖出来…后来本仙特地给他在防护性上加固了不少，便是三岁稚子也能安稳操控，只是速度慢些罢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f276cc953e3ecf27d26106b64248b65d_7754075731343516173.mp3",
+          "audioName": "34想要了解闲云·其四_en.mp3"
+        },
+        {
+          "name": "想要了解闲云·其五",
+          "text": "本仙搬来璃月港之后，看了不少流行读物，其中一些侠义小说颇为有趣。若是将本仙认识的形形色色人物写进去，岂不比那些凭空想象的角色更为精彩？可惜本仙的徒弟们，似乎都不喜欢本仙跟其他人讲她们的故事…那不如就写你跟本仙聊过的旅途趣事如何？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/8294245960578ee554334e0fe16c2d4e_662519719897268738.mp3",
+          "audioName": "35想要了解闲云·其五_en.mp3"
+        },
+        {
+          "name": "闲云的爱好…",
+          "text": "闲来无事，坐在山野之间吹吹罡风，总能让人平心静气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/732f3f5a339750d1f9db941c050657d6_6815958441141058524.mp3",
+          "audioName": "36闲云的爱好…_en.mp3"
+        },
+        {
+          "name": "闲云的烦恼…",
+          "text": "自从本仙搬来璃月港，前来拜访、宴请本仙的新朋旧友一茬接一茬。如此往来，本仙手上的摩拉也未必够用…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/6b459b5e1bb8125820c9b2f938e04083_6980311397858949995.mp3",
+          "audioName": "37闲云的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "与好友一起吃饭，无论是何种菜肴，都令人回味无穷。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/ce7a26841222a454006dcb9b29403d57_4775937976089616944.mp3",
+          "audioName": "38喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "仙人不会被人间俗物阻碍修为，比起食物的种类，本仙更在乎味道…要是你自己尝着都不够可口，就不要拿到本仙面前了。还不如本仙来下厨…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/1cf0bc35519cb2acabe45f21ccba98de_6580892825518581222.mp3",
+          "audioName": "39讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "食材用得新鲜，口感也恰到好处。你偷学过本仙的烹饪技巧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a9724a65b255b2e6cbb9c89d3865ed93_1341366078826144496.mp3",
+          "audioName": "40收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道倒是其次，能想起请本仙吃饭，心意可嘉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/3ea21992bb17a390554ff20657d0f304_1681711768439280407.mp3",
+          "audioName": "41收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "本仙的机关烹饪神机近来闲置了，可以借你一用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/8820d7ef4fd6e407f74264fd0a083461_2846363861086863210.mp3",
+          "audioName": "42收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "来，打开这个木匣。这个机关小人是本仙闲暇时所做，你拿去玩吧。你看，只要像这样拍拍手，莲花的花瓣就会打开，彩灯一圈圈亮起，随后奏响的是小辈们最喜欢的生日快乐歌…这样办生日宴时，想必会平添几分热闹吧。祝你过得开心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/ab796f6d16cc20027d62ed2b5c6b8385_6685015754656850785.mp3",
+          "audioName": "43生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "久居家中，偶尔出来活动筋骨倒也不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/131e43b093c168835554489d8f9319e0_6412143563704129582.mp3",
+          "audioName": "44突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "有些仙法多年不用，一朝拾起难免有些生疏。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/ebf9269836cdc3f1fc2ce6e77dbfc8c6_1181308441590530614.mp3",
+          "audioName": "45突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "唉，既然你露出这般期待的眼神，本仙也只好再拿出些本事了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/1b7f515bcc401b15ef0c7ee66abf6159_120688022156314717.mp3",
+          "audioName": "46突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "在世间行走多了便有经验。比起力量多寡，还是与人交往的技巧更为重要。若你有空，我们去找个风景开阔的地方，赏赏景、聊聊天，放慢脚步，好好享受享受生活吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/addf8b00ecf83f4214eb14ddd6562956_3987542680680987192.mp3",
+          "audioName": "47突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "喝！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/cdc0c202986cf40548da36e433a12285_2418128640941997361.mp3",
+          "audioName": "48元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "御风！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/ed0fe13b0437ca1b486e4b66d241143a_5516338466130708122.mp3",
+          "audioName": "49元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "云散！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/de050f3ca2f0a3ccc652361337acd008_7010686210774482552.mp3",
+          "audioName": "50元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "八风儛翮。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e005bbb5a1740e3dabd78d104d041192_6515294711444289762.mp3",
+          "audioName": "51元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "仙人来哉！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/35449588ad17fa2545204a0b9fd5c594_6560721793500417459.mp3",
+          "audioName": "52元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "风汇，孤云与归。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/5c67ad1732b6374414bc658ee17bfee2_2720876536097901038.mp3",
+          "audioName": "53元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "能当零件用用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/acac233453f8cdc7037f0fa224effcf3_2308501206488029545.mp3",
+          "audioName": "54打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "什么稀奇玩意，让本仙看看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/c0aff23bd8fcf765bf3a26d6201e8ba4_8546537747765631286.mp3",
+          "audioName": "55打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "本仙是不是该研发个…「奇物搜觅神机」？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/81d4ae7874d2231a3eb13ca518dd64b8_5725631718870960752.mp3",
+          "audioName": "56打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "大胆！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/0e507d48516b7ee491fc3fb079b00607_6489181001953925353.mp3",
+          "audioName": "57生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "身法不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/479f7a2ed74a830f1472d0e075ac938a_3313440815204024351.mp3",
+          "audioName": "58生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "本仙奉陪到底。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/71eae78f778f260bfa78ff9c8615475e_6789582402839178899.mp3",
+          "audioName": "59生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "量力而行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f55ff013928aedc50df755d2e18181cb_5948494239282316632.mp3",
+          "audioName": "60同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "怎么不叫本仙？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/7e238ea39df576986fa285aca2c8aa5e_6685060293910901463.mp3",
+          "audioName": "61同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "肚子空着…这次不算…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/51818352377596e14530c2b87d421354_2439769917574880217.mp3",
+          "audioName": "62倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "一着不慎…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/83937d62b675bede95fa47097c31fa2a_6893230597010451648.mp3",
+          "audioName": "63倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "机关…还未使出…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/ab930920643b465b05d5a850ae90f68d_4065886824939135883.mp3",
+          "audioName": "64倒下·其三_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "雕虫小技。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/3f28bda5ab165b9aff795e928d0c586a_4596474273686174820.mp3",
+          "audioName": "65重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "不过如此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/eb673d5fd415640cda0b409aa2020a2e_5505918325604152688.mp3",
+          "audioName": "66重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "机关调试完毕，动身吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/395b3da6f98383845d3c3e0fdb70ca18_2870958565678267436.mp3",
+          "audioName": "67加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "吃食可备好了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/86d716c4ea793f1ae7be25c3ea5bfe3c_8819251267554510910.mp3",
+          "audioName": "68加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "本仙日行千里，你可别跟丢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a1392533bab14a6dde5f3ace496856ed_1327979921530061128.mp3",
+          "audioName": "69加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "怎么，第一次看见本仙这般姿态，认不出来了？本仙漫无羁束，快意自在。想去哪里，想陪谁一同旅行，还不是本仙自己说了算。咳咳，鉴于本仙声名在外，人前，你还是唤本仙「闲云」就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/c65bbf4f1c03fb51168f1d85eed3a49a_6821195811721156564.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·机关术",
+          "text": "机关术奥妙无穷，并非三言两语能道明。但为什么每次都会把人聊困呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/798247650dc563ab261382e5d1a181df_7993406909426865346.mp3",
+          "audioName": "02闲聊·机关术_kr.mp3"
+        },
+        {
+          "name": "闲聊·人间",
+          "text": "天下承平，万象更新，正是人间好时节啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/0046f82c09eb9156e675d6035c9d48c6_338819645148411217.mp3",
+          "audioName": "03闲聊·人间_kr.mp3"
+        },
+        {
+          "name": "闲聊·趣闻",
+          "text": "既然无事，不妨来本仙家中坐坐，讲讲最近的趣闻吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/05593d367c71def57c67d999b52da96f_861846487457903302.mp3",
+          "audioName": "04闲聊·趣闻_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "如今人间风调雨顺，也就无须本仙呼风唤雨了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/73b152dd6d8c7b930dcd302782a9c6cd_4026077924749013927.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哎哟，有点吵耳朵…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/6fddf880ab7ec422a5d081d01e0bdf0d_240115009174958266.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "视野不错，适合登高望远的好天气。哦，本仙不会丢下你一人飞走的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/1759774cdbd0e6bd4eb1356de5317d1b_4236313966829097218.mp3",
+          "audioName": "07阳光很好…_kr.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这风真是舒畅，不如为你贴些仙家符箓，随本仙飞上云霄如何？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/bb8b7acfef0875741f8766098e7acc9e_6966564757179244220.mp3",
+          "audioName": "08刮大风了…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "本仙早就醒了，闭着眼是在静心冥想，对修行有益，你也可以试试。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/cf7a5e8c0de5e8e90b2d8b6bceb52847_8136350297921967270.mp3",
+          "audioName": "09早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "嗯？看本仙做什么，今天不是轮到你准备午饭了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/7cf03fc13209cb0e5e2a6a31623ecf32_8060617717504532149.mp3",
+          "audioName": "10中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "找本仙去逛夜市？呵，那里有什么好逛的。想要什么稀奇玩意，本仙给你做一个就是了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/2c20bf6c6eed63572074728f6b7d3a44_1225228843373450903.mp3",
+          "audioName": "11晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "本仙还精神着呢…看你倒是眼皮打架，快去休息吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/4edac853f1be85cd06e50988141b43f3_7616032633714459825.mp3",
+          "audioName": "12晚安…_kr.mp3"
+        },
+        {
+          "name": "关于闲云自己·师徒",
+          "text": "本仙向来逍遥自在，无拘无束，徒弟们自然也有样学样，一个个的忙得没影，十天半月也没个信…本仙心中并无寂寞之情！嗯…若是出于关心，抽空去看看她们，应该不会添什么麻烦吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/180226328460580af61612d1d95afd26_7259757289135176152.mp3",
+          "audioName": "13关于闲云自己·师徒_kr.mp3"
+        },
+        {
+          "name": "关于闲云自己·烹饪",
+          "text": "虽然机关做菜不如人力精巧，但省下做饭的时间，就可以用去研制新的烹饪神机，新的机关又会节省更多时间…呵，如此循环下去，终有一日，本仙可以将世间美味尽收囊中。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/6965aae16a20d79e4622239342db1306_2217427821095012471.mp3",
+          "audioName": "14关于闲云自己·烹饪_kr.mp3"
+        },
+        {
+          "name": "关于我们·旅伴",
+          "text": "为了今后出行便利，本仙特意飞到空中勘测地形，做了这个指路罗盘，怎么样，没见过做事如此周到的旅伴吧？你说你对附近地形很熟悉？呵…人的记忆总会有误差，等你迷路的时候，就会感谢本仙未雨绸缪了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/4c26718e5bd08b61fcc1bf905256a5bd_1779283214154625104.mp3",
+          "audioName": "15关于我们·旅伴_kr.mp3"
+        },
+        {
+          "name": "关于我们·牵绊",
+          "text": "本仙虽不在意身外之物，亦深谙「牵绊」二字。这二字写起来容易，个中真意却难以言说。就像本仙与那些老家伙们，有时几年才相见一次，见了面也经常吵架斗嘴，但不论彼此身在何处，都不会有漂泊无依之感。你是本仙认可的人，自然也在本仙的朋友之列，不知道你是否和本仙一样珍惜这份「牵绊」呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/eb1638ed0ca2ec89dfbae70d74ab964a_8606763840134927659.mp3",
+          "audioName": "16关于我们·牵绊_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "帝君曾言，「神之眼」代表的是一份责任，无论隐于山林还是居于闹市，都不可忘记看护人间之责。从今以后是人的时代，本仙会心怀这份责任继续走下去。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/87de6a259ab9d6590008673ac39b4415_8139337650340645164.mp3",
+          "audioName": "17关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "这机关鸟是个试作品，本仙想做只大鸟，中间镂空变成座驾，就能和那帮老友一起出去游山玩水了…但是动力和操作问题是个难事，既要能升降，还要能变形，还要兼顾必要的安全措施…哎，若是归终还在，她或许能想出不少异想天开的解决方案吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/d072f6321647cab6fd5d9c392291c3fd_3430615613907450899.mp3",
+          "audioName": "18有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "奥藏山尽敛风华，蕴天地灵气，是适合修行的好地方。当初本仙在山中静思时，常有好奇的生灵前来张望，动辄叽叽喳喳、吵吵闹闹的…倒让人一点也不讨厌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/cb8dbeb27271f4efc839843f0eaa7529_7455924108249225822.mp3",
+          "audioName": "19感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于甘雨",
+          "text": "本仙问甘雨平时加班都在忙些什么，她说了一堆拗口的词，什么会议纪要、工作总结、年度报告、财务预算…哼，若非她的仙麟血脉，又有本仙传授的养生之法，可应付不来这些繁文缛节…你下次记得替本仙问她，有没有每天喝本仙研制的明目清心茶？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/61e29108ff8660e3a736cf081ad99e38_581117968701709964.mp3",
+          "audioName": "20关于甘雨_kr.mp3"
+        },
+        {
+          "name": "关于申鹤",
+          "text": "申鹤说她有一次给万民堂送外卖，为了节省时间，直接踩着屋顶过去，从屋顶跳到人家门口，把顾客吓了一跳，差点要喊千岩军…好在她来去如风，没等顾客喊出口，早已放下外卖消失不见了。申鹤这孩子处理危机的能力真是越来越强，本仙很是欣慰。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/bd4ede7f73a8c2121748ff41d6f963a3_4337160202339552019.mp3",
+          "audioName": "21关于申鹤_kr.mp3"
+        },
+        {
+          "name": "关于钟离",
+          "text": "帝君听说本仙要在璃月港置办住宅，便跟本仙细数家居装潢与家具购置的注意事项。采光通风、木材定制、瓷器选购、还有花卉摆放…本仙听得头都快大了，在人间居住竟要这般费心吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/d1065f38383a9aac1d4468d9e69f86f9_3031750871536677.mp3",
+          "audioName": "22关于钟离_kr.mp3"
+        },
+        {
+          "name": "关于魈",
+          "text": "降魔大圣比本仙还安静，千百年的聚会，就没几次他愿意出面的。本仙倒是听说你和他交情不错，平时你都跟他聊些什么？要不然，下次你找他的时候，本仙做一份「豆腐布丁」让你带去吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f8e6b35a53a2daaab59f963ad6361610_8494996126811674402.mp3",
+          "audioName": "23关于魈_kr.mp3"
+        },
+        {
+          "name": "关于胡桃",
+          "text": "那丫头年纪轻轻，说话稀奇古怪，但看「往生堂」的人却对她毕恭毕敬，连帝君都客气，还给她当那什么「客卿」…听说她对食物的品味也不同寻常，这号奇人，倒让本仙有些兴趣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/5a238292b456b072df64e52576b8eed0_8788905185812557645.mp3",
+          "audioName": "24关于胡桃_kr.mp3"
+        },
+        {
+          "name": "关于香菱",
+          "text": "本仙闲聊时跟她说起过机关烹饪神机的事，那丫头竟然说，做菜还是得亲自动手才地道…哼，本仙造机关也是亲自动手，怎么就不地道了？本仙可得跟她比比…不过她做的璃月菜肴确实风味极佳…待本仙想想怎么改进机关…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/1e8f6826314f3c6b2a70fab5e4386feb_4415193107806418744.mp3",
+          "audioName": "25关于香菱_kr.mp3"
+        },
+        {
+          "name": "关于凝光",
+          "text": "这位「天权星」做起事还算八面玲珑，讲话也滴水不漏。哼，不得不说，璃月港在他们七星的治理下也算欣欣向荣。本仙也在细心观察，研究其中奥秘…咳，此事你知道即可，不要对她讲。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/2fdf7adb3f5d07aadaf125e5bdb408b6_4150658804081714923.mp3",
+          "audioName": "26关于凝光_kr.mp3"
+        },
+        {
+          "name": "关于刻晴",
+          "text": "她逢年过节便会代表七星来拜访本仙，给本仙送来节日贺礼，真是个有心的孩子。看她做事干练，考虑又周全，甘雨与她共事，应该也不用本仙过于操心…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/08e16a39504288630fd83520b43e55c6_295277471212822102.mp3",
+          "audioName": "27关于刻晴_kr.mp3"
+        },
+        {
+          "name": "关于云堇",
+          "text": "「璃月戏」有不少以仙人传说为蓝本的故事，其中也有以本仙的经历改编的戏曲…本仙当然未曾看过，看别人在台上演自己，难道不会尴尬吗？至于她以申鹤的经历创作的戏，待本仙空闲，倒是可以去品鉴一番。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/38b86e7ae6736f93d5f9dbf6a4da72f0_6153166284570808861.mp3",
+          "audioName": "28关于云堇_kr.mp3"
+        },
+        {
+          "name": "关于瑶瑶",
+          "text": "有一次，瑶瑶把我的眼镜借了过去，戴在了自己的鼻梁上，一个人乐呵呵地笑了半天…孩子啊，总能找到独属于孩子的乐趣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/1aa12945c79674f0fef513c573444f47_8750145882339022386.mp3",
+          "audioName": "29关于瑶瑶_kr.mp3"
+        },
+        {
+          "name": "关于嘉明",
+          "text": "嘉明这小伙为人热情，说话有趣，也从来不会夸夸其谈，本仙很是看重。说起最初和他相遇的时候，看到本仙在池边歇脚，他还主动拿出吃食与本仙分享呢。后来他说在他眼里，比起仙人，本仙更像是一位可敬的长辈。呵呵，那本仙自然也该以长辈的身份照顾他喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/e92a87173282bcff203f9494eb5f4ee5_3763501002949412652.mp3",
+          "audioName": "30关于嘉明_kr.mp3"
+        },
+        {
+          "name": "想要了解闲云·其一",
+          "text": "想要知道本仙的过往？都是些陈年旧事，有什么好说的。倒是你四处游历，想必遇到不少趣事。其他国家的神仙是何样貌？可有哪位像本仙一样喜欢聊天？沏壶好茶，跟本仙细细说来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a66a13338f7a3b3d0a679b4d99408798_4707674165925939990.mp3",
+          "audioName": "31想要了解闲云·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解闲云·其二",
+          "text": "有段时间，璃月盛行寻仙问道之法，也不知道他们如何得知本仙的洞府所在，隔三岔五便有人在奥藏山设坛供奉食物…哼，本仙岂会因凡间美食扰了清修？不过是念在他们一片诚心，才不得已等到旁边没人的时候，略加品…咳，略加回应罢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/67bee06165f45dcbbd27594b13ae68cd_5549613191914455985.mp3",
+          "audioName": "32想要了解闲云·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解闲云·其三",
+          "text": "曾经也有其他人找到本仙的洞府，想要本仙收他们为徒。本仙闭门不见，他们便赖着不走，奥藏山都快成了露营公园…本仙便在洞府外贴了张便条，想要拜师者先想出清心的九十九种烹饪之法，每天做出一种…果然没有人能坚持下来。哼，无论是仙家术法还是机关造诣，都需资质极佳，心性极静之人方能领悟，如果连三个月也坚持不住，也就不必白费力气了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/8ffac4138539571fd976003831e66894_3561001325338551775.mp3",
+          "audioName": "33想要了解闲云·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解闲云·其四",
+          "text": "机关术虽有诸多神妙用途，但有时不过是本仙消磨时间的游乐产物。有一年璃月大雪，奥藏山积雪很深，本仙见众人终日待在洞府，无所事事，便造了个「追风滑雪神机」。削月那老家伙见本仙和归终、歌尘等人玩得起劲，也要加入，可他出师不利，第一次试滑便脱了轨道，连人带机关砸进了旁边的积雪里。我们铲了半天才将他挖出来…后来本仙特地给他在防护性上加固了不少，便是三岁稚子也能安稳操控，只是速度慢些罢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/5caf63696491299b2dd3cd125767367d_6927502475284253075.mp3",
+          "audioName": "34想要了解闲云·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解闲云·其五",
+          "text": "本仙搬来璃月港之后，看了不少流行读物，其中一些侠义小说颇为有趣。若是将本仙认识的形形色色人物写进去，岂不比那些凭空想象的角色更为精彩？可惜本仙的徒弟们，似乎都不喜欢本仙跟其他人讲她们的故事…那不如就写你跟本仙聊过的旅途趣事如何？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/79288b442ca9b0d81f0030ee9fa45a4a_3800652881018402330.mp3",
+          "audioName": "35想要了解闲云·其五_kr.mp3"
+        },
+        {
+          "name": "闲云的爱好…",
+          "text": "闲来无事，坐在山野之间吹吹罡风，总能让人平心静气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/476949b66ce095d450ba7611ae2e0fe2_1614479725281650895.mp3",
+          "audioName": "36闲云的爱好…_kr.mp3"
+        },
+        {
+          "name": "闲云的烦恼…",
+          "text": "自从本仙搬来璃月港，前来拜访、宴请本仙的新朋旧友一茬接一茬。如此往来，本仙手上的摩拉也未必够用…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/009403bbc8fbc139dfbdfda5ad0a0523_6416586139656142386.mp3",
+          "audioName": "37闲云的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "与好友一起吃饭，无论是何种菜肴，都令人回味无穷。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/d8387a387d72d0fb4d7082acbc7895e6_1654290549166429345.mp3",
+          "audioName": "38喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "仙人不会被人间俗物阻碍修为，比起食物的种类，本仙更在乎味道…要是你自己尝着都不够可口，就不要拿到本仙面前了。还不如本仙来下厨…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/3b09fd42ad4c8df38dffad591db9bc87_6659287628989135919.mp3",
+          "audioName": "39讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "食材用得新鲜，口感也恰到好处。你偷学过本仙的烹饪技巧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/78c950c85280a59e734618766d6f6f85_3810821037601186567.mp3",
+          "audioName": "40收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道倒是其次，能想起请本仙吃饭，心意可嘉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/2017ed6d3bab4115479c0a1c9deae36e_7677094458884812166.mp3",
+          "audioName": "41收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "本仙的机关烹饪神机近来闲置了，可以借你一用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/da838af16cbfbaedf61075776056b169_3143247794277702336.mp3",
+          "audioName": "42收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "来，打开这个木匣。这个机关小人是本仙闲暇时所做，你拿去玩吧。你看，只要像这样拍拍手，莲花的花瓣就会打开，彩灯一圈圈亮起，随后奏响的是小辈们最喜欢的生日快乐歌…这样办生日宴时，想必会平添几分热闹吧。祝你过得开心。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/87cbdee15ceea2733ebe47c86e4fbb36_6028188771602716975.mp3",
+          "audioName": "43生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "久居家中，偶尔出来活动筋骨倒也不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/a8329cbda51ececf5a3c4c4e9c50e74b_8722284965354102670.mp3",
+          "audioName": "44突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "有些仙法多年不用，一朝拾起难免有些生疏。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/0db4f912c65916d2662b91b133a8c0a4_3042657631334046026.mp3",
+          "audioName": "45突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "唉，既然你露出这般期待的眼神，本仙也只好再拿出些本事了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/bce86be55da09e62fe56a812afd74115_1485842096977204352.mp3",
+          "audioName": "46突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "在世间行走多了便有经验。比起力量多寡，还是与人交往的技巧更为重要。若你有空，我们去找个风景开阔的地方，赏赏景、聊聊天，放慢脚步，好好享受享受生活吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/4ef4d01c1c5065edc17d1ea350270e5c_8191979308673851012.mp3",
+          "audioName": "47突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "喝！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/4a68cab03c1e4b1e875e63ed9355717e_2915037226864909351.mp3",
+          "audioName": "48元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "御风！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/ff3e952a32448e1964eee490de8814e1_4349385311938180120.mp3",
+          "audioName": "49元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "云散！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/fcc4f65970ef798e293b41410d54e778_8635582481622114305.mp3",
+          "audioName": "50元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "八风儛翮。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/1cc5e9581a5ce4b92f54b7bcd39742b9_5216965507879608437.mp3",
+          "audioName": "51元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "仙人来哉！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/f586ee0ea9cbbc7beea8085b1321a98e_7182422240691664291.mp3",
+          "audioName": "52元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "风汇，孤云与归。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/2709d3f1e64a18148d673eb398f07fac_2574042966381758664.mp3",
+          "audioName": "53元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "能当零件用用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/568bf7c0627b004120a4880a13ff7a46_4309156200054421713.mp3",
+          "audioName": "54打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "什么稀奇玩意，让本仙看看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/4fa4907881ca08f0125d13ff78dc24ba_1543019917016829495.mp3",
+          "audioName": "55打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "本仙是不是该研发个…「奇物搜觅神机」？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/b853dec30e1438c628a230da3a2e943f_5476124638034411518.mp3",
+          "audioName": "56打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "大胆！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/2f054a4f0cc97e25ae906a6a03ebb256_1509963843680964205.mp3",
+          "audioName": "57生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "身法不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/91cecfe6107b215736a7cf9a1ecc909b_4057636206611538887.mp3",
+          "audioName": "58生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "本仙奉陪到底。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/d2f96e5b0506a622d853337bea18908e_4148602421073719655.mp3",
+          "audioName": "59生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "量力而行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/3302db7b54e901278ba508de7ab41f36_66684198653282576.mp3",
+          "audioName": "60同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "怎么不叫本仙？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/0f7525088cf3fe6db4c648a5ef015e50_5284019026052531141.mp3",
+          "audioName": "61同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "肚子空着…这次不算…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/0ee78e3371cf72e65d9d39e1907fe012_5927378822076107185.mp3",
+          "audioName": "62倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "一着不慎…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/242336373534dabbcb790d4d8b5ecac3_3717881318694908570.mp3",
+          "audioName": "63倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "机关…还未使出…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/43beb48fd0594ed9788fcce3b5d67f8b_1335918099729527063.mp3",
+          "audioName": "64倒下·其三_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "雕虫小技。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/22d889a54494f4ad7e60e7a204497f1e_8465982650288738226.mp3",
+          "audioName": "65重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "不过如此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/21166fd5f558f56c0e03d1611cbf9a21_6541154986181865139.mp3",
+          "audioName": "66重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "机关调试完毕，动身吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/640d8c1545fcc3ce49e2b2d302080310_6814398735463705265.mp3",
+          "audioName": "67加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "吃食可备好了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/69621fe6520b2d0917811d0a89004918_3288753315518464054.mp3",
+          "audioName": "68加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "本仙日行千里，你可别跟丢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/02/16576950/8ef8d51f2d4b72d94ea2a28af5ae4132_392644902253942063.mp3",
+          "audioName": "69加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1661 @@
+{
+  "id": "382",
+  "name": "菲谢尔",
+  "alias": [
+    "菲谢尔"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "菲谢尔：我即断罪之皇女，真名为菲谢尔。应命运的召唤降临在此间——哎？你也是，异世界的旅人吗…？那好吧，本皇女恩许你同行。\n\n奥兹：她的意思是「你好，很高兴认识你」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d63bc84eddbd9d8cbb97ef8f73c3db4_6378944755678372356.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·真命低语",
+          "text": "我听见命运的嚅嗫，低声呼唤我之尊名…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5649e5deaed9fd64700ab34a7b836117_229450332542456362.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·天地创造",
+          "text": "哼哼，就让皇女的光采荣耀此间天地吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a24ceb40e8b6461d859e971082f646be_3483654409434311.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·彼方之人",
+          "text": "菲谢尔：不知在遥远彼方的扈从…\n\n奥兹：毋须担心冒险家协会的大家。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f6293f3e5e2c32cb0803fcb13a61dd8c_5355776635060226813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "天晴了吗，真舒…咳，此间须臾的霁月光风，就如命运的转折点一般呢！愉快！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7fc3a783e721f136f223439c7d779f24_2020191195409946267.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "菲谢尔：啊啊，看那昭告命运的圣裁之雷…\n\n奥兹：这么说来，是不是还有衣服没收？\n\n菲谢尔：欸？！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6aef29bca20269234a63f53fb986c609_5799222138811695380.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "菲谢尔：哼哼，这可是好光景。就像在「那个世界」，罪人的血与泪在断罪的皇女面前凝结的模样呢——啊、啊——阿嚏！阿嚏！\n\n奥兹：面对小姐，罪人的鼻涕恐怕都要凝结了。\n\n菲谢尔：奥兹——啊、阿嚏！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1f28995c0f576eb8b9efb7ac23abb6e7_4617864626590597150.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "菲谢尔：奥兹，我之眷属啊…\n\n奥兹：喔？怎么突然——\n\n菲谢尔：以皇女之名，以你的祝圣之翼，遮蔽日月星空，带来永恒的幽夜吧。\n\n奥兹：不要强人所难！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9bddaaf619127d2b03c01a6605e5fc8a_5726064161302859595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好·问候菲谢尔",
+          "text": "昼夜时空皆为虚像，命运的纽带却再次将你带到了我的永恒长夜中。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bc959bb661b9a283ea3394c3f28c4b88_7182646733790552795.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好·问候奥兹",
+          "text": "奥兹：早上好！听说你要来，小姐在准备早点…\n\n菲谢尔：奥兹！…咳，有何贵干？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/458a1777876d146cc1ba2bd6251822f5_820796879096576274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "哈…即使贵为皇女，在这样的时辰也不免困乏…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c6afee0855039fa8ef4ecba044ab12d0_3850083792033650028.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "菲谢尔：天穹上的星光，都是奥兹在无尽的夜幕上啄出来的洞。\n\n奥兹：是才怪啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d7cd9d3101c3c8b9341c73e041ec5fa8_6201484415613190022.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "菲谢尔：你的深眠将平安无梦。毕竟，岂有梦魇，敢染指幽夜净土所祝圣之人…\n\n奥兹：她说「晚安」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b6d266755e71060976e8cb68372d219_5399724471659240938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔自己·断罪之皇女",
+          "text": "菲谢尔：我吗？哼哼。记好了，我乃幽夜净土的主人，断罪之皇女菲谢尔，裁断此世一切罪责，透彻此间一切真知。\n\n奥兹：就是冒险家协会的调查员。\n\n菲谢尔：…那只是肤浅的表象！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/df4167fa5ffb3dc344dcd5306498f2de_6856972838403628421.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·降临此间之人",
+          "text": "我与你同为异世界的旅人，在此相遇。错不了，想必是命运的意志吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/349a7766797f35e9ac1abae2ee01477a_4602186531077340077.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·射落世界之兽",
+          "text": "看你有什么烦恼的样子…？旅人啊，不必困惑。因为，我以我的左眼，这只透彻因果之丝的「断罪之眼」，守望着你的命运；以奥兹那见证过一千世界寂灭的鸦眼，观察着你的进路。假若名为「世界」的夜巡凶兽觊觎你的梦想，那我便以断罪的圣裁魔矢将其射落！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4be774eaa2184627d58e2aeeca2343c4_2878610371647344125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·重要之人",
+          "text": "菲谢尔：奥兹，我之忠友啊…能遇到「那个人」，与本皇女同样不属于这个世界的旅人…连残酷的命运，也会对我罪孽深重的血脉，展露微笑呢。就算是我的命运，我无法逃离的「现实」…\n\n奥兹：啊啊，我明白。那个旅行者的话，不管发生了什么，都不会抛弃小姐的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/db591eb6b0ce49736d9d61ac4481e107_4390499572181932312.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·守望",
+          "text": "菲谢尔：奥兹华尔多·赫芙那梵茵斯。为我，为幽夜净土的主宰，断罪的皇女，做好献出生命的觉悟，守望他注定多舛的命运吧。奥兹：不要随便让我送命啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ee641991c524e499eadfede134ed0c52_4073924138925613509.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "嗯？这个「渊色的幽邃秘珠」吗。那是我族的王器，向一切无礼者昭告断罪皇女之仪。即使流落到了这个荒芜的世界，王器仍然追随着皇族之血与崇高之魂，找到了我，这就是无法斩断的因果吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/22ecee50a54737b111a2eb2cadda3781_9140889510104059371.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "菲谢尔：这么说来，按照这个世界的历法，我有三千多岁了。当然，日月流转的虚像对看破三千宇宙因果的我而言没有意义。\n\n奥兹：小姐，这招是骗不过酒保的，没到喝酒的年纪就是没到喝酒的年纪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0f7f5edbcbcd12b20e87442ed6f7e591_1734112892630893418.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "奥兹的全名，是奥兹华尔多·赫芙那梵茵斯，在「那个世界」主宰着三个宇宙的星海与夜空，以影之翼荫蔽所有战死的勇者之魂。顺带一提，叫错他的名字会被处以拔舌之刑。但我是皇女，而你是我认可的人，所以我们可以随意叫他奥兹。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2c0c370cafae9360f9ba28c0e60a7e6a_5248752248202152580.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特…",
+          "text": "菲谢尔：那位厄运的少年吗…错不了的，我这只「断罪之眼」见证过，他那被世界唾弃的悲哀——\n\n奥兹：那个倒霉蛋，置之不理可不行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8b66195c9723de95e14b92f19ddcb8c1_5596708267237782231.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "菲谢尔：那司书的魔女，坐拥着宇宙知识的宝库…如果能赢取她的信任，或许就能获得伟大智慧…\n\n奥兹：她说「图书馆的规矩就是有借有还，再借不难」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f7213436ad68fa35398f8708a2775812_4863959114271529736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "菲谢尔：无法看透的真实，无法断明的因果，虚实交织的狂言…那个人，或许也与我一样，背负了「魔眼」的命运…\n\n奥兹：也可能暗地里是个海盗…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eabba1cd02e949273e647733f00e50ec_7756417922245942750.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜…",
+          "text": "菲谢尔：啊啊，那位「伟大的占星术士莫娜」…哼，此人曾经妄图窥探本皇女的命运，结果却浑身颤抖呢。\n\n奥兹：当时占星术士似乎在努力憋笑，非常不容易。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1671b3fd75627e0b3ff2771323a0668d_895968641246066409.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚…",
+          "text": "菲谢尔：她吗？似乎是虔信风神的忠实修女呢。\n\n奥兹：「虔信」？「忠实」？\n\n菲谢尔：没错。有天晚上看到过，她对什么人说「以风神巴托巴斯的名义，去死吧」这样的话，想必是在领祷吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/657d0d781441ce510f4334d3f6faf21b_1367013859987313409.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其一",
+          "text": "哼哼，为应受罪罚之徒断罪，为命运青睐之人祝圣，以无尽的幽夜净土收容世间一切不被容赦的梦想，这就是断罪皇女血脉背负的沉重使命，谁人也不许质疑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/efd359a1189066b270daed95cfc557ba_7693881596205789684.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其二",
+          "text": "我的左眼？我的左眼是透彻世间一切真相的「断罪之眼」。至于为何要遮起来…那么，窥见此间与彼方一切真实的负担与痛，你愿意承受吗？再说了，通晓此世与常世一切妄念与谎言，又是何等无趣的事，哼哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8086c5db3d995ec994ffe38f6913cd63_9049289938938958199.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其三",
+          "text": "菲谢尔：风魔龙？那种本皇女寝宫花园里拴着的宠物级别的东西，没想到在这个世界也能形成灾祸呢。哼，一群没用的家伙…\n\n奥兹：虽然小姐这么说，当时不也为大家担心得不得了吗。\n\n菲谢尔：那、那还不是因为身为皇女，有守护尘世众生一切灵魂的崇高职责…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ecc4ca82469125db542a93e95f82d50a_5266185303335973074.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其四",
+          "text": "奥兹：有的人会用其他的名字呼唤小姐。但对我来说，将生命与力量分给我的人，只有「菲谢尔」这个名字。这才是符合她命运的名字，千万不要弄错…\n\n菲谢尔：你们，商谈之事为何？\n\n奥兹：关、关于至夜幻现！还有断罪之名！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f6573da308a3571321f7b945073ea80b_7861496629449522733.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其五",
+          "text": "皇女应断之罪为何，那当然是「违逆命运」了…毕竟，正是命运，让你…是命运，令你我降临此世，将因果交织相连。我、我会守护你，只、只因这是命运的默示录中昭告之事！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a5c0273e4e16c63057078dc5de8120c9_7846680609849593045.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "菲谢尔的爱好·询问菲谢尔",
+          "text": "本皇女驰骋星间，行遍诸多世界，领略过一万种宇宙的命运，通读一切灵魂的默示录。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0b47a78fcff04577a85b069473fae17e_6793398297020387179.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "菲谢尔的爱好·询问奥兹",
+          "text": "奥兹：小姐喜欢看小说。唉…「奥兹」这个名字，也是她从喜欢的小说里挑的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d7a7e1b5e241e40f1a17de175d4b0b7a_1526849942169725885.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "菲谢尔的烦恼…",
+          "text": "嗯？这世间能困扰皇女的事情…硬要说的话，那就是，总有人无法接受我的真实身份。但无妨，毕竟高贵者注定孤独嘛。只要我不失却这颗崇高之心…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f74da26a5bfac90fa1608bfbf7e0b274_4476080895898440003.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "菲谢尔：哼，食物只是凡骨肉胎所受的桎梏。但硬要说的话，能配得上断罪皇女的，那莫过于罪人之泪与谎言之舌…\n\n奥兹：并不是小姐常做的「常夜夏宫蜜吐司」吗？\n\n菲谢尔：——只，只是为了补充这具躯壳所需的能量！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/17740370665f5c28de3e2f5f7f23c898_6475662706595837017.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "奥兹：小姐讨厌的，应该是那个吧…\n\n菲谢尔：那个吗。被违抗自然的锁链束缚的肢体…\n\n奥兹：再也不能如我这般飞翔…\n\n菲谢尔：失去了那生来便仰慕皇族王者的卑下头颅，简直是「那个世界」的地狱略影。其名为…\n\n奥兹：好像是叫什么酿鸡来着？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8ec2ab90949627a8f88ae582acab9c1f_4254830277863627076.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "菲谢尔：此等珍馐，可纳于忘忧之御膳园中。奥兹：小姐说，这就是她理想的美味。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c94538fceff82ef42c23a78c6cfdfd2a_1940770201794025654.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "菲谢尔：为射落世界之兽，必须突破尘俗欲望，编织通向命运之间的道路。奥兹：但刚才，小姐不是吃得很香吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8f715721dc679052aad47f7217838d02_5187046425095696540.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "菲谢尔：为何要将残破与毁灭，呈于本皇女面前？奥兹：小姐不太喜欢这道菜肴，请你见谅。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a939de7616b093990c58463b21c78bde_3169369029405245208.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "菲谢尔：哼哼，既然今日是你的命定之日，那我不可能坐视不管。来，说吧！在这腐朽而幽邃的世界里，在你渺小而短暂的人生中，有什么想要实现的愿望，尽管说来，让本皇女听听！嗯…即使是…\n\n奥兹：她说「生日快乐，如果你想要，她」…\n\n菲谢尔：奥兹！多嘴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7c35a3a7967fd4b899ab8d65af35c7ca_2167577959869177652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "菲谢尔：至夜的魔箭…它在高声呼唤着我的祝圣之名，祈求着罪罚的苍紫雷光，射落命运之敌！\n\n奥兹：伟哉！考虑到晚饭，如果能射落鸽子就更好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d76d7f80ec0c52d7d7e98277fc4dc7f_7639587825478778641.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "菲谢尔：有了这个，就能更好地行使断罪皇女的威仪，击败名为「现实」的命运之敌了。\n\n奥兹：嗯，就能更好地完成协会的工作了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/24aaae34243f979dac376501605662df_3006647088739873697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "狂喜吧！战栗吧！要问为何的话，须知幽夜净土的断罪皇女，已经用这只左眼，看清了编织宇宙的命运之丝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2777a111987acaf26325de12c583a288_1467290534370164863.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "来到这个世界而失去的力量，似乎已经恢复了大半。哼哼哼，定罪之时即将…啊啊，不必担心。即使到了终末之刻，我在此世降下罪罚之雷时，也不会伤及你。因为，你可是我的祝圣之人啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f1bd697b95dc4145c3b40650c24d6cf6_8545856694785343283.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "以断罪之名！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2df480d5dabffd30089c30b8a7f4f72b_6750653384914794544.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "现身吧，奥兹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0af06d65a27de690ca775359d2b937a1_5178185738431518943.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "回应我吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8bc642b8dc9837913e5aff031f693002_3188310473077624694.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "奥兹：又来了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab45bdd30319c94074359bb0eceab843_7047999017013223132.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "黑之翼，屏断昼夜——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/30707578060fdc61ed95bc488e321e00_4687769720545064725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "至夜幻现！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2c9be81a8c780a5465f2c6d16951deff_8400625140921027578.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "影之鸦，渴求幽夜——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cd78d19e3feff5bc8a13871c0fb6a2ca_1549983724280047684.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "奥兹：一如小姐所愿！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/db73df3d431800fd6bdc7de658f1738a_1527368468737155993.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "奥兹：至夜幻现！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/04a67bad5d2c347a9eebd826b12bf17c_2562404416318838464.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "命运，指引我来此！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/86ab14c3c4672196d0cfad7b4c4942e4_7956303492965784866.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "荒芜的世界，竟藏有这等瑰宝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d0e063612e120779104c83fa8f36e99c_1663271143870658565.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哈哈哈，高呼我的祝圣之名吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c04b33cbf2ae929562491f6f15ae79bb_82882494034866262.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "只好稍微认真一点了，哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/75479421b6b1db53a24e52c5f2a3bbcc_4579182721324735265.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "奥兹：小姐，如果你倒下了，我——！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/141df0334075af951c4019c5459052fb_8997522360921361819.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "皇女的命运，不应在此完结…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/efebadc0b1d01f4a66bd01a2b195b6c6_82610923143332943.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "哼，就让我来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/0dbea7af2862001fa85b86141c91e920_751611168804861106.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "奥兹：小姐，那边有些不妙…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/238b5ca67debba44296fe2978a2aa8ac_3168330177353226992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这个世界，也容不得本皇女吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fad88ea6634a89ba6d992abce85c3292_5794191288724395523.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我将再度降临…呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8dda72d3b31e19dd3c26f6a08c856b5d_421021365984648860.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "奥兹：小姐！…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d0377c5e56025d23222b19a4e271952_8796174865684682233.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不敬之徒",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f4a4c8ed453f74edcacd184a81cdc0cd_3498745223417466080.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "以皇女之名！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4cca35f4dad59c05bc1a945e2c26a3a1_5191243222445971991.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "菲谢尔：赞颂我的降临吧。奥兹：伟哉！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a8fd067604fec075ad40f9f9588e4c06_2987979543091561965.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "你的命运，已成为我掌间之丝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f6ca889b3576099ae9cd84ef0c117ba7_8775846078316106053.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "菲谢尔：我即断罪之皇女，真名为菲谢尔。应命运的召唤降临在此间——哎？你也是，异世界的旅人吗…？那好吧，本皇女恩许你同行。\n\n奥兹：她的意思是「你好，很高兴认识你」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/58d5009ee1243aeb6fbeee07387cf738_5454052291907453818.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·真命低语",
+          "text": "我听见命运的嚅嗫，低声呼唤我之尊名…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7dbd4b668af4692d9920c4ec85f91829_4488856615801602159.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·天地创造",
+          "text": "哼哼，就让皇女的光采荣耀此间天地吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c6950be59ffe51e7744c5c9f76c5bb34_8580915349172044614.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·彼方之人",
+          "text": "菲谢尔：不知在遥远彼方的扈从…\n\n奥兹：毋须担心冒险家协会的大家。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/04a41b0439f91a0c786385b22be5defd_1286266880750834228.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "天晴了吗，真舒…咳，此间须臾的霁月光风，就如命运的转折点一般呢！愉快！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5238fdf01cdc553981ebbae8e1fca2a9_2851990302073785157.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "菲谢尔：啊啊，看那昭告命运的圣裁之雷…\n\n奥兹：这么说来，是不是还有衣服没收？\n\n菲谢尔：欸？！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fc7494e452b39009efcb4a4afe002077_3745381028608839361.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "菲谢尔：哼哼，这可是好光景。就像在「那个世界」，罪人的血与泪在断罪的皇女面前凝结的模样呢——啊、啊——阿嚏！阿嚏！\n\n奥兹：面对小姐，罪人的鼻涕恐怕都要凝结了。\n\n菲谢尔：奥兹——啊、阿嚏！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/65bb11bebbed878a788f8c220f259f1e_2595942278014769862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "菲谢尔：奥兹，我之眷属啊…\n\n奥兹：喔？怎么突然——\n\n菲谢尔：以皇女之名，以你的祝圣之翼，遮蔽日月星空，带来永恒的幽夜吧。\n\n奥兹：不要强人所难！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9abd69cb82615f22e232d420c826efe6_3971391863475284428.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好·问候菲谢尔",
+          "text": "昼夜时空皆为虚像，命运的纽带却再次将你带到了我的永恒长夜中。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea524e1d20fd5cf9c0f18b5f8f16a649_962464347067676211.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好·问候奥兹",
+          "text": "奥兹：早上好！听说你要来，小姐在准备早点…\n\n菲谢尔：奥兹！…咳，有何贵干？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dce8a56e7af7c00a73fc00b8595f9f6d_3869425658187939770.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "哈…即使贵为皇女，在这样的时辰也不免困乏…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/60e4e803b250e44a647478101bad630c_3151257080922054909.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "菲谢尔：天穹上的星光，都是奥兹在无尽的夜幕上啄出来的洞。\n\n奥兹：是才怪啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab1d6c0a9f0d93c1c1284c909d8fd32e_3522118084093312348.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "菲谢尔：你的深眠将平安无梦。毕竟，岂有梦魇，敢染指幽夜净土所祝圣之人…\n\n奥兹：她说「晚安」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a518b648108553ed0d294832292ad0c6_545698444968808617.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔自己·断罪之皇女",
+          "text": "菲谢尔：我吗？哼哼。记好了，我乃幽夜净土的主人，断罪之皇女菲谢尔，裁断此世一切罪责，透彻此间一切真知。\n\n奥兹：就是冒险家协会的调查员。\n\n菲谢尔：…那只是肤浅的表象！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/41e058ad110eac6cb00370b049368671_2389447357341457600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·降临此间之人",
+          "text": "我与你同为异世界的旅人，在此相遇。错不了，想必是命运的意志吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f7db94b46c5cb6dc85f7464a47bb5895_6364141039070730703.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·射落世界之兽",
+          "text": "看你有什么烦恼的样子…？旅人啊，不必困惑。因为，我以我的左眼，这只透彻因果之丝的「断罪之眼」，守望着你的命运；以奥兹那见证过一千世界寂灭的鸦眼，观察着你的进路。假若名为「世界」的夜巡凶兽觊觎你的梦想，那我便以断罪的圣裁魔矢将其射落！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3f511ad40dea9964193986130d0c0c14_7351841686015187797.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·重要之人",
+          "text": "菲谢尔：奥兹，我之忠友啊…能遇到「那个人」，与本皇女同样不属于这个世界的旅人…连残酷的命运，也会对我罪孽深重的血脉，展露微笑呢。就算是我的命运，我无法逃离的「现实」…\n\n奥兹：啊啊，我明白。那个旅行者的话，不管发生了什么，都不会抛弃小姐的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/094e98f511d6e5f257ca3dbe8fe41c72_1990295547186958460.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·守望",
+          "text": "菲谢尔：奥兹华尔多·赫芙那梵茵斯。为我，为幽夜净土的主宰，断罪的皇女，做好献出生命的觉悟，守望他注定多舛的命运吧。奥兹：不要随便让我送命啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/93cbd0377d109f842c2680c5a806170a_2412006313746275608.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "嗯？这个「渊色的幽邃秘珠」吗。那是我族的王器，向一切无礼者昭告断罪皇女之仪。即使流落到了这个荒芜的世界，王器仍然追随着皇族之血与崇高之魂，找到了我，这就是无法斩断的因果吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/97f3a24f96c8909136e27d42857d1b22_2675378894208229529.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "菲谢尔：这么说来，按照这个世界的历法，我有三千多岁了。当然，日月流转的虚像对看破三千宇宙因果的我而言没有意义。\n\n奥兹：小姐，这招是骗不过酒保的，没到喝酒的年纪就是没到喝酒的年纪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a8aed48e8530612e8f2bcc676d665450_6947010176635735132.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "奥兹的全名，是奥兹华尔多·赫芙那梵茵斯，在「那个世界」主宰着三个宇宙的星海与夜空，以影之翼荫蔽所有战死的勇者之魂。顺带一提，叫错他的名字会被处以拔舌之刑。但我是皇女，而你是我认可的人，所以我们可以随意叫他奥兹。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/71d86341f11975b22436891bbc98aa8e_8483936956645880483.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特…",
+          "text": "菲谢尔：那位厄运的少年吗…错不了的，我这只「断罪之眼」见证过，他那被世界唾弃的悲哀——\n\n奥兹：那个倒霉蛋，置之不理可不行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/956361b22cca15a9ee0419ea60a28641_3774279095565411471.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "菲谢尔：那司书的魔女，坐拥着宇宙知识的宝库…如果能赢取她的信任，或许就能获得伟大智慧…\n\n奥兹：她说「图书馆的规矩就是有借有还，再借不难」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a131fee8b297da899dab1a7e498fca4f_2907274151565638575.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "菲谢尔：无法看透的真实，无法断明的因果，虚实交织的狂言…那个人，或许也与我一样，背负了「魔眼」的命运…\n\n奥兹：也可能暗地里是个海盗…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b4954c3e89355f9c5347c49ca4eac6f5_4122443825257268747.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜…",
+          "text": "菲谢尔：啊啊，那位「伟大的占星术士莫娜」…哼，此人曾经妄图窥探本皇女的命运，结果却浑身颤抖呢。\n\n奥兹：当时占星术士似乎在努力憋笑，非常不容易。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/415e38627957039a45685157be835f3f_6317756438987861373.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚…",
+          "text": "菲谢尔：她吗？似乎是虔信风神的忠实修女呢。\n\n奥兹：「虔信」？「忠实」？\n\n菲谢尔：没错。有天晚上看到过，她对什么人说「以风神巴托巴斯的名义，去死吧」这样的话，想必是在领祷吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af4d7830656ada822abaf1ddddad804f_1406776199828782448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其一",
+          "text": "哼哼，为应受罪罚之徒断罪，为命运青睐之人祝圣，以无尽的幽夜净土收容世间一切不被容赦的梦想，这就是断罪皇女血脉背负的沉重使命，谁人也不许质疑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3b0f628edaf84633f6b4a48dfbb01931_3712365056287616919.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其二",
+          "text": "我的左眼？我的左眼是透彻世间一切真相的「断罪之眼」。至于为何要遮起来…那么，窥见此间与彼方一切真实的负担与痛，你愿意承受吗？再说了，通晓此世与常世一切妄念与谎言，又是何等无趣的事，哼哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/13d4283df14be749c1d37bc19fbbf0fb_2801199622933174129.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其三",
+          "text": "菲谢尔：风魔龙？那种本皇女寝宫花园里拴着的宠物级别的东西，没想到在这个世界也能形成灾祸呢。哼，一群没用的家伙…\n\n奥兹：虽然小姐这么说，当时不也为大家担心得不得了吗。\n\n菲谢尔：那、那还不是因为身为皇女，有守护尘世众生一切灵魂的崇高职责…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/88dd82fade60022407c328996549b343_5167821798192777453.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其四",
+          "text": "奥兹：有的人会用其他的名字呼唤小姐。但对我来说，将生命与力量分给我的人，只有「菲谢尔」这个名字。这才是符合她命运的名字，千万不要弄错…\n\n菲谢尔：你们，商谈之事为何？\n\n奥兹：关、关于至夜幻现！还有断罪之名！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4338854fc1a530ec318ed72c2b3142cc_1249117153989641246.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其五",
+          "text": "皇女应断之罪为何，那当然是「违逆命运」了…毕竟，正是命运，让你…是命运，令你我降临此世，将因果交织相连。我、我会守护你，只、只因这是命运的默示录中昭告之事！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a68909407899d310c166ccb60f198d50_9040532676599918675.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "菲谢尔的爱好·询问菲谢尔",
+          "text": "本皇女驰骋星间，行遍诸多世界，领略过一万种宇宙的命运，通读一切灵魂的默示录。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fc49c0bd96b1429b4ea596207c3b5636_7500907976024011214.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "菲谢尔的爱好·询问奥兹",
+          "text": "奥兹：小姐喜欢看小说。唉…「奥兹」这个名字，也是她从喜欢的小说里挑的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0f6442c1b480c4ac05d9167818ce7056_8238677834557842728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "菲谢尔的烦恼…",
+          "text": "嗯？这世间能困扰皇女的事情…硬要说的话，那就是，总有人无法接受我的真实身份。但无妨，毕竟高贵者注定孤独嘛。只要我不失却这颗崇高之心…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d2da67f4fb99e1323edd6793187de87d_779365618452490008.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "菲谢尔：哼，食物只是凡骨肉胎所受的桎梏。但硬要说的话，能配得上断罪皇女的，那莫过于罪人之泪与谎言之舌…\n\n奥兹：并不是小姐常做的「常夜夏宫蜜吐司」吗？\n\n菲谢尔：——只，只是为了补充这具躯壳所需的能量！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a03d55132b98cb0e051ec8a37b281134_7852208039790179861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "奥兹：小姐讨厌的，应该是那个吧…\n\n菲谢尔：那个吗。被违抗自然的锁链束缚的肢体…\n\n奥兹：再也不能如我这般飞翔…\n\n菲谢尔：失去了那生来便仰慕皇族王者的卑下头颅，简直是「那个世界」的地狱略影。其名为…\n\n奥兹：好像是叫什么酿鸡来着？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3fa666c7c52c0f48e9a5e713b874cadd_5942259109554040939.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "菲谢尔：此等珍馐，可纳于忘忧之御膳园中。奥兹：小姐说，这就是她理想的美味。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e845d98bcd234c438b4a81338a7b5cc7_308496404502112761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "菲谢尔：为射落世界之兽，必须突破尘俗欲望，编织通向命运之间的道路。奥兹：但刚才，小姐不是吃得很香吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/972ec53ec052f9e60200ff584472d5b0_4919667824292668978.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "菲谢尔：为何要将残破与毁灭，呈于本皇女面前？奥兹：小姐不太喜欢这道菜肴，请你见谅。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/13095e086e821fdcb54c777cbedc46b8_4360289580554609049.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "菲谢尔：哼哼，既然今日是你的命定之日，那我不可能坐视不管。来，说吧！在这腐朽而幽邃的世界里，在你渺小而短暂的人生中，有什么想要实现的愿望，尽管说来，让本皇女听听！嗯…即使是…\n\n奥兹：她说「生日快乐，如果你想要，她」…\n\n菲谢尔：奥兹！多嘴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/02825e205d2a0faee48072bfbb037e1c_3442264303720798615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "菲谢尔：至夜的魔箭…它在高声呼唤着我的祝圣之名，祈求着罪罚的苍紫雷光，射落命运之敌！\n\n奥兹：伟哉！考虑到晚饭，如果能射落鸽子就更好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a46741ca7660016662b0ffa24f4ed537_1736899861875536176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "菲谢尔：有了这个，就能更好地行使断罪皇女的威仪，击败名为「现实」的命运之敌了。\n\n奥兹：嗯，就能更好地完成协会的工作了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/43d6d0ce30ab511b647d662363113909_5485146678637881285.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "狂喜吧！战栗吧！要问为何的话，须知幽夜净土的断罪皇女，已经用这只左眼，看清了编织宇宙的命运之丝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b73ecb87962483abf758c1621a1eff29_2896730044793110996.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "来到这个世界而失去的力量，似乎已经恢复了大半。哼哼哼，定罪之时即将…啊啊，不必担心。即使到了终末之刻，我在此世降下罪罚之雷时，也不会伤及你。因为，你可是我的祝圣之人啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/49ef336abbb0f9e799932c52d28e69f2_7626387650374053446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "以断罪之名！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a3137428b46bbc6f4ed7799b5ec00b25_8117843108325947427.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "现身吧，奥兹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d550c61cd838d8826e92bd22a6efde79_2023200258525063213.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "回应我吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/87c20f0d63e9a040568550cc3777be0d_7326144751729650599.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "奥兹：又来了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0bf07aac4e84f4534bdae2b769c0e660_6685305606621888199.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "黑之翼，屏断昼夜——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1b5166d2cd6dc24c40bbc4a4ee19481b_992026217479636380.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "至夜幻现！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6a44f86f0243ac3abd62bb6e5f34f877_4184892495572260657.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "影之鸦，渴求幽夜——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/65e38bcede70fd6e1cda5d0a6f7d670d_4083243489930047736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "奥兹：一如小姐所愿！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1b9407062e3471929260da624766441c_1102300631708351667.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "奥兹：至夜幻现！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4870de63a507f53a528581e8b7b0a1e5_3549514075499924847.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "命运，指引我来此！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d8b046b3930a6f163af09e9d5b813dd0_8462891634921179573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "荒芜的世界，竟藏有这等瑰宝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3f6fe07db23d8fbd3335fa597fc98b0a_8095601965885829620.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哈哈哈，高呼我的祝圣之名吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8558564f1326f60a386fb0730cfb3d97_5396347836033509787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "只好稍微认真一点了，哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2d89ff2769e2cd70802fb948ef96ec62_6991599534159318179.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "奥兹：小姐，如果你倒下了，我——！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d06241a438adc51310c9bdb2fec3f3df_2387966970495355116.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "皇女的命运，不应在此完结…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/95f613a5e6af437ef6655df03af396f7_4954383232286476015.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "哼，就让我来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/58f0f77418b28ab92c9d6d931460ae82_1617231267349517837.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "奥兹：小姐，那边有些不妙…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1cc6c81e513cf76458e1e948d2a21d72_7289827098592107536.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这个世界，也容不得本皇女吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e0fa9a5df065952520335dcc8b8f13da_3793987763514709251.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我将再度降临…呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d3bc795f31436bc88a2543ac99f2a1f5_999398815209177067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "奥兹：小姐！…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d9ff5f7a2878d7334f1909421e22f07a_1373342861069446727.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不敬之徒",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8b0839769d1361eee52241e665397e75_2739711191721585651.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "以皇女之名！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/47fd59aca925b5edf4eb7f570bee8fb4_2367467798267442859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "菲谢尔：赞颂我的降临吧。奥兹：伟哉！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3a100aec023b70cf0a9ae770c8c46a85_3526701371707793484.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "你的命运，已成为我掌间之丝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ffb9b45aa50617a4622b5251ab84e64c_9098611726744770581.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "菲谢尔：我即断罪之皇女，真名为菲谢尔。应命运的召唤降临在此间——哎？你也是，异世界的旅人吗…？那好吧，本皇女恩许你同行。\n\n奥兹：她的意思是「你好，很高兴认识你」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7e1c3a32c1ab4768497f4328d073cf83_9089908879909624351.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·真命低语",
+          "text": "我听见命运的嚅嗫，低声呼唤我之尊名…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e5f419fc9ccc857af414b6e80924bdd3_7384314562650567292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·天地创造",
+          "text": "哼哼，就让皇女的光采荣耀此间天地吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af6f8ac194579ce130ed9507c164c380_3316325005065697794.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·彼方之人",
+          "text": "菲谢尔：不知在遥远彼方的扈从…\n\n奥兹：毋须担心冒险家协会的大家。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e8413866e7812b854a4e8da8fb54c6c7_432957067843014411.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "天晴了吗，真舒…咳，此间须臾的霁月光风，就如命运的转折点一般呢！愉快！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/085b1896ce814f927240d7a02a8d9aa9_2943723187528108119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "菲谢尔：啊啊，看那昭告命运的圣裁之雷…\n\n奥兹：这么说来，是不是还有衣服没收？\n\n菲谢尔：欸？！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de0b54cb94b370fd6730b521a023f08a_6604469700124685810.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "菲谢尔：哼哼，这可是好光景。就像在「那个世界」，罪人的血与泪在断罪的皇女面前凝结的模样呢——啊、啊——阿嚏！阿嚏！\n\n奥兹：面对小姐，罪人的鼻涕恐怕都要凝结了。\n\n菲谢尔：奥兹——啊、阿嚏！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c7fc0c9b0055b89caf013f839513ffac_3684758870563288767.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "菲谢尔：奥兹，我之眷属啊…\n\n奥兹：喔？怎么突然——\n\n菲谢尔：以皇女之名，以你的祝圣之翼，遮蔽日月星空，带来永恒的幽夜吧。\n\n奥兹：不要强人所难！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2d521a1dad41adf6cb1d6936a54aa0ac_5503356730380502474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好·问候菲谢尔",
+          "text": "昼夜时空皆为虚像，命运的纽带却再次将你带到了我的永恒长夜中。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a8743448fa9fa11e8e67f1fc3f9aee44_7413213487982489339.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好·问候奥兹",
+          "text": "奥兹：早上好！听说你要来，小姐在准备早点…\n\n菲谢尔：奥兹！…咳，有何贵干？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b5c283516d6fc8837c3e2d72db978773_4367866210409646477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "哈…即使贵为皇女，在这样的时辰也不免困乏…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/280a295b47f92763b10d7d5680f58cf8_7422239879565951338.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "菲谢尔：天穹上的星光，都是奥兹在无尽的夜幕上啄出来的洞。\n\n奥兹：是才怪啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d261e2417b60347c2a597205299a1273_181588851277276956.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "菲谢尔：你的深眠将平安无梦。毕竟，岂有梦魇，敢染指幽夜净土所祝圣之人…\n\n奥兹：她说「晚安」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77fdf864143c6bfc6fedfd1ab7483a94_1004251244566229032.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔自己·断罪之皇女",
+          "text": "菲谢尔：我吗？哼哼。记好了，我乃幽夜净土的主人，断罪之皇女菲谢尔，裁断此世一切罪责，透彻此间一切真知。\n\n奥兹：就是冒险家协会的调查员。\n\n菲谢尔：…那只是肤浅的表象！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8c8ccd4c723205e559302d65f8f4c3f8_6456016572442369636.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·降临此间之人",
+          "text": "我与你同为异世界的旅人，在此相遇。错不了，想必是命运的意志吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/04052e0ba31496eb2a4257d8bf464f05_7280475697874007603.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·射落世界之兽",
+          "text": "看你有什么烦恼的样子…？旅人啊，不必困惑。因为，我以我的左眼，这只透彻因果之丝的「断罪之眼」，守望着你的命运；以奥兹那见证过一千世界寂灭的鸦眼，观察着你的进路。假若名为「世界」的夜巡凶兽觊觎你的梦想，那我便以断罪的圣裁魔矢将其射落！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/70f55a6c57f26ce0d6030cba4961034e_1106602023065769518.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·重要之人",
+          "text": "菲谢尔：奥兹，我之忠友啊…能遇到「那个人」，与本皇女同样不属于这个世界的旅人…连残酷的命运，也会对我罪孽深重的血脉，展露微笑呢。就算是我的命运，我无法逃离的「现实」…\n\n奥兹：啊啊，我明白。那个旅行者的话，不管发生了什么，都不会抛弃小姐的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d0e7ab2ad274d89188e04205e297c083_5070705699109623605.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·守望",
+          "text": "菲谢尔：奥兹华尔多·赫芙那梵茵斯。为我，为幽夜净土的主宰，断罪的皇女，做好献出生命的觉悟，守望他注定多舛的命运吧。奥兹：不要随便让我送命啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d2b7009a366deee708d7bb439c0ced31_954996297831482790.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "嗯？这个「渊色的幽邃秘珠」吗。那是我族的王器，向一切无礼者昭告断罪皇女之仪。即使流落到了这个荒芜的世界，王器仍然追随着皇族之血与崇高之魂，找到了我，这就是无法斩断的因果吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4709f436ba7a47ffa4d93d4ad8dbdea6_4684145895787912390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "菲谢尔：这么说来，按照这个世界的历法，我有三千多岁了。当然，日月流转的虚像对看破三千宇宙因果的我而言没有意义。\n\n奥兹：小姐，这招是骗不过酒保的，没到喝酒的年纪就是没到喝酒的年纪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9653e4335b04f8c32c5aa847b7a01fb3_6052350617476155257.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "奥兹的全名，是奥兹华尔多·赫芙那梵茵斯，在「那个世界」主宰着三个宇宙的星海与夜空，以影之翼荫蔽所有战死的勇者之魂。顺带一提，叫错他的名字会被处以拔舌之刑。但我是皇女，而你是我认可的人，所以我们可以随意叫他奥兹。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b749546c1e220a1308614c8b6094a10f_203253727860667200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特…",
+          "text": "菲谢尔：那位厄运的少年吗…错不了的，我这只「断罪之眼」见证过，他那被世界唾弃的悲哀——\n\n奥兹：那个倒霉蛋，置之不理可不行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7ca8108a33c1607a016a6dcdbf47e205_9218263609603159118.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "菲谢尔：那司书的魔女，坐拥着宇宙知识的宝库…如果能赢取她的信任，或许就能获得伟大智慧…\n\n奥兹：她说「图书馆的规矩就是有借有还，再借不难」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f19604aa6f8879951d2adf939f984a81_3212216108648881060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "菲谢尔：无法看透的真实，无法断明的因果，虚实交织的狂言…那个人，或许也与我一样，背负了「魔眼」的命运…\n\n奥兹：也可能暗地里是个海盗…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f13825c1ab7d8a8fba375e545ce9d328_1108208549929327326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜…",
+          "text": "菲谢尔：啊啊，那位「伟大的占星术士莫娜」…哼，此人曾经妄图窥探本皇女的命运，结果却浑身颤抖呢。\n\n奥兹：当时占星术士似乎在努力憋笑，非常不容易。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e10d9b3ad36c838270efe49119fd143e_4413277982378140746.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚…",
+          "text": "菲谢尔：她吗？似乎是虔信风神的忠实修女呢。\n\n奥兹：「虔信」？「忠实」？\n\n菲谢尔：没错。有天晚上看到过，她对什么人说「以风神巴托巴斯的名义，去死吧」这样的话，想必是在领祷吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2614fd320ab4f46d82596cfd2f4d25a0_6583303215460975606.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其一",
+          "text": "哼哼，为应受罪罚之徒断罪，为命运青睐之人祝圣，以无尽的幽夜净土收容世间一切不被容赦的梦想，这就是断罪皇女血脉背负的沉重使命，谁人也不许质疑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8aa457fd3bc1309477e85296aa5b4166_2562128472298033499.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其二",
+          "text": "我的左眼？我的左眼是透彻世间一切真相的「断罪之眼」。至于为何要遮起来…那么，窥见此间与彼方一切真实的负担与痛，你愿意承受吗？再说了，通晓此世与常世一切妄念与谎言，又是何等无趣的事，哼哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8fbe0be028e1da2416e135051b04f2b2_7611871610952948614.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其三",
+          "text": "菲谢尔：风魔龙？那种本皇女寝宫花园里拴着的宠物级别的东西，没想到在这个世界也能形成灾祸呢。哼，一群没用的家伙…\n\n奥兹：虽然小姐这么说，当时不也为大家担心得不得了吗。\n\n菲谢尔：那、那还不是因为身为皇女，有守护尘世众生一切灵魂的崇高职责…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3fe967f50d35b0c320cd133f9cdba720_8456898860851425304.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其四",
+          "text": "奥兹：有的人会用其他的名字呼唤小姐。但对我来说，将生命与力量分给我的人，只有「菲谢尔」这个名字。这才是符合她命运的名字，千万不要弄错…\n\n菲谢尔：你们，商谈之事为何？\n\n奥兹：关、关于至夜幻现！还有断罪之名！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4a4f4cdd0452a3fa1b5b5a93d542acdf_5722498333583098805.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其五",
+          "text": "皇女应断之罪为何，那当然是「违逆命运」了…毕竟，正是命运，让你…是命运，令你我降临此世，将因果交织相连。我、我会守护你，只、只因这是命运的默示录中昭告之事！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/977df74862ee3bac493ccc5efc37933e_635470640912402996.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "菲谢尔的爱好·询问菲谢尔",
+          "text": "本皇女驰骋星间，行遍诸多世界，领略过一万种宇宙的命运，通读一切灵魂的默示录。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7dbbbf1fdfad8deddf4d269b961d344c_297137287115459917.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "菲谢尔的爱好·询问奥兹",
+          "text": "奥兹：小姐喜欢看小说。唉…「奥兹」这个名字，也是她从喜欢的小说里挑的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bc37d540ecb9f98fc9798e3aeff8f9ce_7204439284683452268.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "菲谢尔的烦恼…",
+          "text": "嗯？这世间能困扰皇女的事情…硬要说的话，那就是，总有人无法接受我的真实身份。但无妨，毕竟高贵者注定孤独嘛。只要我不失却这颗崇高之心…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a8e94322c8cde9bcb918ce7799f87b41_759073427509440176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "菲谢尔：哼，食物只是凡骨肉胎所受的桎梏。但硬要说的话，能配得上断罪皇女的，那莫过于罪人之泪与谎言之舌…\n\n奥兹：并不是小姐常做的「常夜夏宫蜜吐司」吗？\n\n菲谢尔：——只，只是为了补充这具躯壳所需的能量！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6b7a836d96e8f9b98d07d8a38b524cdd_728242569332427258.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "奥兹：小姐讨厌的，应该是那个吧…\n\n菲谢尔：那个吗。被违抗自然的锁链束缚的肢体…\n\n奥兹：再也不能如我这般飞翔…\n\n菲谢尔：失去了那生来便仰慕皇族王者的卑下头颅，简直是「那个世界」的地狱略影。其名为…\n\n奥兹：好像是叫什么酿鸡来着？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/03ebfbd435e834966c5758b3cb00bd96_7473818678413136942.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "菲谢尔：此等珍馐，可纳于忘忧之御膳园中。奥兹：小姐说，这就是她理想的美味。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/093e3ab6c636cbbb1799802f4e829d45_8043287706990592976.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "菲谢尔：为射落世界之兽，必须突破尘俗欲望，编织通向命运之间的道路。奥兹：但刚才，小姐不是吃得很香吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/614ac1957924997863dda91f6f4096ab_1740256158119402482.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "菲谢尔：为何要将残破与毁灭，呈于本皇女面前？奥兹：小姐不太喜欢这道菜肴，请你见谅。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/669f893daca119206fadd740a9f415fc_1755876090753292051.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "菲谢尔：哼哼，既然今日是你的命定之日，那我不可能坐视不管。来，说吧！在这腐朽而幽邃的世界里，在你渺小而短暂的人生中，有什么想要实现的愿望，尽管说来，让本皇女听听！嗯…即使是…\n\n奥兹：她说「生日快乐，如果你想要，她」…\n\n菲谢尔：奥兹！多嘴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/94a68ae447ed5d91308c5a19f4ca90cf_7943984166474640525.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "菲谢尔：至夜的魔箭…它在高声呼唤着我的祝圣之名，祈求着罪罚的苍紫雷光，射落命运之敌！\n\n奥兹：伟哉！考虑到晚饭，如果能射落鸽子就更好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/220163456fbbc59240914e37f1c3ac96_6622771448373358806.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "菲谢尔：有了这个，就能更好地行使断罪皇女的威仪，击败名为「现实」的命运之敌了。\n\n奥兹：嗯，就能更好地完成协会的工作了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/36f3260808bd84faa2a3234abe48cdd1_3146897442957769830.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "狂喜吧！战栗吧！要问为何的话，须知幽夜净土的断罪皇女，已经用这只左眼，看清了编织宇宙的命运之丝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2669fdf94ace1227ad9f6cd63c8fb88a_7943328097426447112.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "来到这个世界而失去的力量，似乎已经恢复了大半。哼哼哼，定罪之时即将…啊啊，不必担心。即使到了终末之刻，我在此世降下罪罚之雷时，也不会伤及你。因为，你可是我的祝圣之人啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cfcf0b5fb734913329f2765ce2e14343_3810138453274882971.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "以断罪之名！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/601de61197f4dd193c9c6b163662d57d_7540697213373226312.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "现身吧，奥兹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/246d310b13ff7318be487f65af216869_824933466515532512.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "回应我吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5eeabb61f1c2c497cb762a2e5bc28ac7_7806646172185745271.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "奥兹：又来了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3ec8e790780e910de350a984887c7cb9_5438477364021557292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "黑之翼，屏断昼夜——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/da95097c85dfcba8d46be59323cd4236_7454132435038656997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "至夜幻现！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8b79bdfe7d1b1f6048508fa07cda6775_4947624279958461925.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "影之鸦，渴求幽夜——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/04c7767c61059ac297e04a9e95d26733_5083747028806525663.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "奥兹：一如小姐所愿！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2ff1301a68afdf606b437a528b17628a_5021521425102811729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "奥兹：至夜幻现！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/636008e0251e18bc77c10316b753c0c9_701898918761878792.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "命运，指引我来此！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e38c0340405ba15ae7bde5253dcef353_4161839342536177399.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "荒芜的世界，竟藏有这等瑰宝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ce05febfcd55fc0eb19b354e7dd2db35_4864055500917515093.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哈哈哈，高呼我的祝圣之名吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/13390b976984640a3e979f51b70210b2_7415359191518853848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "只好稍微认真一点了，哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/846745d452dadeaae841e56f3a4e7a6b_3612031483177345471.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "奥兹：小姐，如果你倒下了，我——！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fc759c098b12973739fc6bc4ac636211_1270482660141593373.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "皇女的命运，不应在此完结…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/638b679c2fc7135e70daa53a3b94fb27_2226744192319563947.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "哼，就让我来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/54e02eb54c89f1fd6ef36602c5e96b7e_5930517675674514355.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "奥兹：小姐，那边有些不妙…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c2c9ac29815ae313756b4b1160da80c1_2526073276930367506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这个世界，也容不得本皇女吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e8fe681a23feb3e9180ecd30b0ad8eac_6141167512120535307.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我将再度降临…呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1979a1289e91f35452e3c592a15a5eec_5336045607146847530.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "奥兹：小姐！…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5c980927495da0049e0e96400a9cf290_6940752139192685227.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不敬之徒",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c5231974c75175d5caa155b2b49cd318_8254294953657162626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "以皇女之名！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/48f21cf4be7a847c47254518827276cb_6105002384783642795.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "菲谢尔：赞颂我的降临吧。奥兹：伟哉！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fbfe54da5849df7b3900557f47944523_9035819458276381696.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "你的命运，已成为我掌间之丝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b66aa56ff5942c2507d980f96e867b39_5697186324564910660.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "菲谢尔：我即断罪之皇女，真名为菲谢尔。应命运的召唤降临在此间——哎？你也是，异世界的旅人吗…？那好吧，本皇女恩许你同行。\n\n奥兹：她的意思是「你好，很高兴认识你」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/534bf9af5ca10a05135fa23a3f9b1e42_5082946224195422149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·真命低语",
+          "text": "我听见命运的嚅嗫，低声呼唤我之尊名…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/759ed675a52c1c62eabf7e71adb1e3f9_4874931322361506746.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·天地创造",
+          "text": "哼哼，就让皇女的光采荣耀此间天地吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7da9f934a938963ea3725362d24d5815_365512740847599588.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·彼方之人",
+          "text": "菲谢尔：不知在遥远彼方的扈从…\n\n奥兹：毋须担心冒险家协会的大家。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/202cdd9b8db169de68f1e36139fc74cd_1131265400701516900.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "天晴了吗，真舒…咳，此间须臾的霁月光风，就如命运的转折点一般呢！愉快！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/03338d6ef7ffd6c8769a39b4a4ec7549_5217527730642280437.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "菲谢尔：啊啊，看那昭告命运的圣裁之雷…\n\n奥兹：这么说来，是不是还有衣服没收？\n\n菲谢尔：欸？！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab017fb5bfa9daa243f32715b2ff5a3f_7083257599816168876.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "菲谢尔：哼哼，这可是好光景。就像在「那个世界」，罪人的血与泪在断罪的皇女面前凝结的模样呢——啊、啊——阿嚏！阿嚏！\n\n奥兹：面对小姐，罪人的鼻涕恐怕都要凝结了。\n\n菲谢尔：奥兹——啊、阿嚏！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7cc2f14ed4184305c9656021917a8a22_581502244212357758.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "菲谢尔：奥兹，我之眷属啊…\n\n奥兹：喔？怎么突然——\n\n菲谢尔：以皇女之名，以你的祝圣之翼，遮蔽日月星空，带来永恒的幽夜吧。\n\n奥兹：不要强人所难！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e23e5a812b03a62da35be62d6ae5e6b0_1254157813960157578.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好·问候菲谢尔",
+          "text": "昼夜时空皆为虚像，命运的纽带却再次将你带到了我的永恒长夜中。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c1016a2f320dbc6ff333ac441735dbd_4873392446744209924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好·问候奥兹",
+          "text": "奥兹：早上好！听说你要来，小姐在准备早点…\n\n菲谢尔：奥兹！…咳，有何贵干？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d9e890065eb15ff6dfc213a9b590c9ce_6139091542886379706.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "哈…即使贵为皇女，在这样的时辰也不免困乏…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e42cdba395d11b8634c41336296768db_8389406619418261952.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "菲谢尔：天穹上的星光，都是奥兹在无尽的夜幕上啄出来的洞。\n\n奥兹：是才怪啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/426409ef9490fc176c641cf498a50cb1_1960024740468922519.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "菲谢尔：你的深眠将平安无梦。毕竟，岂有梦魇，敢染指幽夜净土所祝圣之人…\n\n奥兹：她说「晚安」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/983e1106804fd0d4cc779d5c7723968b_3852784231737854901.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔自己·断罪之皇女",
+          "text": "菲谢尔：我吗？哼哼。记好了，我乃幽夜净土的主人，断罪之皇女菲谢尔，裁断此世一切罪责，透彻此间一切真知。\n\n奥兹：就是冒险家协会的调查员。\n\n菲谢尔：…那只是肤浅的表象！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5d4df6165d6ce4b7ad71760b24345c14_7480488266095311672.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·降临此间之人",
+          "text": "我与你同为异世界的旅人，在此相遇。错不了，想必是命运的意志吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d32e5da28038b892259c3cdc7635b96_7634116655458732055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·射落世界之兽",
+          "text": "看你有什么烦恼的样子…？旅人啊，不必困惑。因为，我以我的左眼，这只透彻因果之丝的「断罪之眼」，守望着你的命运；以奥兹那见证过一千世界寂灭的鸦眼，观察着你的进路。假若名为「世界」的夜巡凶兽觊觎你的梦想，那我便以断罪的圣裁魔矢将其射落！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/232a91b98f02d3eda2523f308ea8667b_5415298325018810151.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·重要之人",
+          "text": "菲谢尔：奥兹，我之忠友啊…能遇到「那个人」，与本皇女同样不属于这个世界的旅人…连残酷的命运，也会对我罪孽深重的血脉，展露微笑呢。就算是我的命运，我无法逃离的「现实」…\n\n奥兹：啊啊，我明白。那个旅行者的话，不管发生了什么，都不会抛弃小姐的吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/96ae255c5966b93427b9779afacc8d99_6779640892153633896.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·守望",
+          "text": "菲谢尔：奥兹华尔多·赫芙那梵茵斯。为我，为幽夜净土的主宰，断罪的皇女，做好献出生命的觉悟，守望他注定多舛的命运吧。奥兹：不要随便让我送命啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af6275f3ad89a81387688ddbea08400e_8180748054960075964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "嗯？这个「渊色的幽邃秘珠」吗。那是我族的王器，向一切无礼者昭告断罪皇女之仪。即使流落到了这个荒芜的世界，王器仍然追随着皇族之血与崇高之魂，找到了我，这就是无法斩断的因果吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/db3febc18c266a507217a8feacaead3c_7823931091842202549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "菲谢尔：这么说来，按照这个世界的历法，我有三千多岁了。当然，日月流转的虚像对看破三千宇宙因果的我而言没有意义。\n\n奥兹：小姐，这招是骗不过酒保的，没到喝酒的年纪就是没到喝酒的年纪。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f874bfce247eb97f6db7827a4f71e39b_7525199753821102687.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "奥兹的全名，是奥兹华尔多·赫芙那梵茵斯，在「那个世界」主宰着三个宇宙的星海与夜空，以影之翼荫蔽所有战死的勇者之魂。顺带一提，叫错他的名字会被处以拔舌之刑。但我是皇女，而你是我认可的人，所以我们可以随意叫他奥兹。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f75cad2bdf21f3f5bf9452789d55fbc3_7082937759625157833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特…",
+          "text": "菲谢尔：那位厄运的少年吗…错不了的，我这只「断罪之眼」见证过，他那被世界唾弃的悲哀——\n\n奥兹：那个倒霉蛋，置之不理可不行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5a07c4f2fefbe58c95bfe3990e40e070_3879388617822555761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "菲谢尔：那司书的魔女，坐拥着宇宙知识的宝库…如果能赢取她的信任，或许就能获得伟大智慧…\n\n奥兹：她说「图书馆的规矩就是有借有还，再借不难」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/31bc88d600adbc0861bdf1d781905e4d_212306950807530700.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "菲谢尔：无法看透的真实，无法断明的因果，虚实交织的狂言…那个人，或许也与我一样，背负了「魔眼」的命运…\n\n奥兹：也可能暗地里是个海盗…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/22ea54300c55e97dd8402c8f24342ad8_8742721176352173976.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜…",
+          "text": "菲谢尔：啊啊，那位「伟大的占星术士莫娜」…哼，此人曾经妄图窥探本皇女的命运，结果却浑身颤抖呢。\n\n奥兹：当时占星术士似乎在努力憋笑，非常不容易。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/76ef9002c09b1a2d44efc3b611ea195f_3293070992644938491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于罗莎莉亚…",
+          "text": "菲谢尔：她吗？似乎是虔信风神的忠实修女呢。\n\n奥兹：「虔信」？「忠实」？\n\n菲谢尔：没错。有天晚上看到过，她对什么人说「以风神巴托巴斯的名义，去死吧」这样的话，想必是在领祷吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c618f56727417d7f630476026077653_1218017864200104431.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其一",
+          "text": "哼哼，为应受罪罚之徒断罪，为命运青睐之人祝圣，以无尽的幽夜净土收容世间一切不被容赦的梦想，这就是断罪皇女血脉背负的沉重使命，谁人也不许质疑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/69081b8bfd33fd6eb5f26485d76a84b7_7017001001838837008.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其二",
+          "text": "我的左眼？我的左眼是透彻世间一切真相的「断罪之眼」。至于为何要遮起来…那么，窥见此间与彼方一切真实的负担与痛，你愿意承受吗？再说了，通晓此世与常世一切妄念与谎言，又是何等无趣的事，哼哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d002a11b6f2dccbcf3de70499ca44a6d_1070625405038003846.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其三",
+          "text": "菲谢尔：风魔龙？那种本皇女寝宫花园里拴着的宠物级别的东西，没想到在这个世界也能形成灾祸呢。哼，一群没用的家伙…\n\n奥兹：虽然小姐这么说，当时不也为大家担心得不得了吗。\n\n菲谢尔：那、那还不是因为身为皇女，有守护尘世众生一切灵魂的崇高职责…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9d9af2ef0c9d9f12ff6b396121b99a18_4833622385678500238.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其四",
+          "text": "奥兹：有的人会用其他的名字呼唤小姐。但对我来说，将生命与力量分给我的人，只有「菲谢尔」这个名字。这才是符合她命运的名字，千万不要弄错…\n\n菲谢尔：你们，商谈之事为何？\n\n奥兹：关、关于至夜幻现！还有断罪之名！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/feb7552d1ad1c58c62b153fcf3b795c5_8968248670607719083.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解菲谢尔·其五",
+          "text": "皇女应断之罪为何，那当然是「违逆命运」了…毕竟，正是命运，让你…是命运，令你我降临此世，将因果交织相连。我、我会守护你，只、只因这是命运的默示录中昭告之事！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/18214010e18e2255dfe1da942dfdcab8_1737248489205864913.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "菲谢尔的爱好·询问菲谢尔",
+          "text": "本皇女驰骋星间，行遍诸多世界，领略过一万种宇宙的命运，通读一切灵魂的默示录。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/45f3a6602e80abd3453ea17fa63fcbb7_4050653866868565524.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "菲谢尔的爱好·询问奥兹",
+          "text": "奥兹：小姐喜欢看小说。唉…「奥兹」这个名字，也是她从喜欢的小说里挑的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6d4fa0f36a23c6f26ba81049b3fd121c_7835700998309271021.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "菲谢尔的烦恼…",
+          "text": "嗯？这世间能困扰皇女的事情…硬要说的话，那就是，总有人无法接受我的真实身份。但无妨，毕竟高贵者注定孤独嘛。只要我不失却这颗崇高之心…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/402c7ba44cbf5e5edbd85ded07e63165_814122650437799258.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "菲谢尔：哼，食物只是凡骨肉胎所受的桎梏。但硬要说的话，能配得上断罪皇女的，那莫过于罪人之泪与谎言之舌…\n\n奥兹：并不是小姐常做的「常夜夏宫蜜吐司」吗？\n\n菲谢尔：——只，只是为了补充这具躯壳所需的能量！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b6ea46ae25452933fd8aa9f9e5b4cb54_9001947699188507896.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "奥兹：小姐讨厌的，应该是那个吧…\n\n菲谢尔：那个吗。被违抗自然的锁链束缚的肢体…\n\n奥兹：再也不能如我这般飞翔…\n\n菲谢尔：失去了那生来便仰慕皇族王者的卑下头颅，简直是「那个世界」的地狱略影。其名为…\n\n奥兹：好像是叫什么酿鸡来着？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d099e4bf5808831917df2a64d4651004_2551920896856157138.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "菲谢尔：此等珍馐，可纳于忘忧之御膳园中。奥兹：小姐说，这就是她理想的美味。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d8e2c0c75f67fdbffbecadba30f76089_46046906342229909.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "菲谢尔：为射落世界之兽，必须突破尘俗欲望，编织通向命运之间的道路。奥兹：但刚才，小姐不是吃得很香吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/135c8fe43b216bda6d8d89004d7a1dde_2039538193051254509.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "菲谢尔：为何要将残破与毁灭，呈于本皇女面前？奥兹：小姐不太喜欢这道菜肴，请你见谅。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ed24b69b6e653a66c31c3cfe7f5782eb_4882437620045039065.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "菲谢尔：哼哼，既然今日是你的命定之日，那我不可能坐视不管。来，说吧！在这腐朽而幽邃的世界里，在你渺小而短暂的人生中，有什么想要实现的愿望，尽管说来，让本皇女听听！嗯…即使是…\n\n奥兹：她说「生日快乐，如果你想要，她」…\n\n菲谢尔：奥兹！多嘴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e8fbe94a90e76dc07336627301b0c0a3_391180403480195093.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "菲谢尔：至夜的魔箭…它在高声呼唤着我的祝圣之名，祈求着罪罚的苍紫雷光，射落命运之敌！\n\n奥兹：伟哉！考虑到晚饭，如果能射落鸽子就更好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9912f7be1250f5059666943321d3d1c3_2800411077644964595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "菲谢尔：有了这个，就能更好地行使断罪皇女的威仪，击败名为「现实」的命运之敌了。\n\n奥兹：嗯，就能更好地完成协会的工作了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0acdae7898485b6bedcd121ed069f955_5051229505928464391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "狂喜吧！战栗吧！要问为何的话，须知幽夜净土的断罪皇女，已经用这只左眼，看清了编织宇宙的命运之丝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5f5abc0c9c4e320ab5dd9c6b372327b6_1372993780010225925.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "来到这个世界而失去的力量，似乎已经恢复了大半。哼哼哼，定罪之时即将…啊啊，不必担心。即使到了终末之刻，我在此世降下罪罚之雷时，也不会伤及你。因为，你可是我的祝圣之人啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/30a5e1f664a3512a2ddc0922e395b40d_2561291410026080713.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "以断罪之名！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/155806e783097b5169b3b7341fbfac88_451983640857781219.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "现身吧，奥兹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7c0e8fc5900136c0306c8d6bd373d0d2_6354722311407392924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "回应我吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c4e2136759b6f9e4fa64620144ee5075_3601392048338046188.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "奥兹：又来了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0c0c1e2043426b57817a35f2521a8d3d_4361192165768763609.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "黑之翼，屏断昼夜——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6ff6d6e632e451c50a3517aa2682ee94_1851474661435089221.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "至夜幻现！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7e9903d1afe08b5d2b5cbe986b0be3eb_4183501154920806558.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "影之鸦，渴求幽夜——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a617ada8d49382c5e48b9d391e134cd_243516407076602184.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "奥兹：一如小姐所愿！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cbcaa90491f06326eba01f312940164f_3535101558306118495.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "奥兹：至夜幻现！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/36a0b9642c137bf0eb9ba94527d97af3_2210712479060897904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "命运，指引我来此！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/33577530c034a218407004645fc463e6_4996826212472509950.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "荒芜的世界，竟藏有这等瑰宝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9c794d334ef0d100194e1c049bae63ab_4119335622372136760.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哈哈哈，高呼我的祝圣之名吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b6945acb5b18388402236cb72473452f_7285570077132924755.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "只好稍微认真一点了，哼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/78114da31c5c0f189e3372d0ac7fb1e5_2482089422477147424.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "奥兹：小姐，如果你倒下了，我——！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a15516abea39b5cd4cc1ef258facd7f4_5114549149480350293.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "皇女的命运，不应在此完结…！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/baa1012047b48877c005143902f5069f_5136364670783920900.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "哼，就让我来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/dbd6283c3ba4cd31232e4b24457327ad_958599840796505577.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "奥兹：小姐，那边有些不妙…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/de9305527acda7c8efe6f78b6a829adf_8623651193239491419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这个世界，也容不得本皇女吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f3a67c8a8e208944591c5603b2e982dc_3033303884028851277.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我将再度降临…呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/390ea00da2c0bde4c44901075d54bf51_6728588462800801104.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "奥兹：小姐！…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0892a85a4f4a5a602e23b7f033151ac5_1201099293679261802.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不敬之徒",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/86c74c55820bc20a4910a9952f6fc190_7103048780997768200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "以皇女之名！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f10691730824707f736da1d87d13691c_1896400513112075619.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "菲谢尔：赞颂我的降临吧。奥兹：伟哉！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a7f38bd84be06c2522ecd5dbeace809a_3421236522427596746.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "你的命运，已成为我掌间之丝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d9ceaeddb12cdc37af4127bb56cd305_7128474634348663569.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1733 @@
+{
+  "id": "500672",
+  "name": "嘉明",
+  "alias": [
+    "嘉明"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "老板你好呀，我是和记厅的镖师，叫我嘉明就行，要运货吗你？请坐请坐，饮杯茶先，我帮你打包好货就可以排期出发咯！哦！如果是找我舞兽的话即刻可以出发！「威水舞兽队」我就是话事人，嘿嘿，失礼失礼。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/2ad96a16adbaae2ef0ea3d69bef1e6ad_4525246706429126225.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·舞兽",
+          "text": "咚咚锵，睁眼！咚咚咚咚锵，洗须！唔…不好不好，还要练多点先。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/0df1d6d92a890edcf957687ff6df9c3a_1343966941963132131.mp3",
+          "audioName": "02闲聊·舞兽_cn.mp3"
+        },
+        {
+          "name": "闲聊·走镖",
+          "text": "水路山路陆路，走镖时什么路没走过啊我？放心啦，金牌镖师不是浪得虚名的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/61c7f43d394f4d140e272a20175153f3_8738055588260136055.mp3",
+          "audioName": "03闲聊·走镖_cn.mp3"
+        },
+        {
+          "name": "闲聊·早茶",
+          "text": "一盅两件，再加个白灼时蔬和生滚靓粥，嗯…正啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5c3cbf7334defb5aa395222f322044c1_3483259733512174809.mp3",
+          "audioName": "04闲聊·早茶_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨啦！收衫啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5ad1f426bfcdd2a2a76814a5df21099e_8998621977655743081.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "嗱嗱嗱，你听，坏人发誓天打雷劈啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/4d044fff880b62623b0ff0c7b6c20362_5869080897308517355.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "啊——咦？为什么下不到我嘴里的？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/9c92fdd8b4e56fcc43b9e1e4ca3864a4_5018280185071907386.mp3",
+          "audioName": "07下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "晒点太阳好啊，去去湿气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/c463f462e4e62917bbb616ff6ee26035_6667078136956222608.mp3",
+          "audioName": "08阳光很好…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "这种地方买水喝肯定很贵吧？好在我自己带水了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/0bce348fe6d08755e743e16195e7ee2d_1169679743721004607.mp3",
+          "audioName": "09在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "我练完功了，准备去喝早茶，一起？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5821aea89c73e0d51a2bfd9e1d1aaccd_4706863641461130327.mp3",
+          "audioName": "10早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "虽然叫早茶，其实中午也能喝的，怎么说，走？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a5ac7c5cbf6719811e475462e5908c8f_3705565859415320920.mp3",
+          "audioName": "11中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "我定到一间菜馆，夜晚才开门，听说只做熟客生意的，来都来了，不吃就走宝了，出发？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/afe335443887ab35be6a97688160d5b3_1437134611122570130.mp3",
+          "audioName": "12晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "要睡了吗？饿不饿啊？不如吃个宵夜先？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/40f9d297387d0a79c577c6e5ef97f9ef_2790864465595500828.mp3",
+          "audioName": "13晚安…_cn.mp3"
+        },
+        {
+          "name": "关于嘉明自己·老家",
+          "text": "翘英庄，去过吗？我老家。我们那里茶叶很出名的，有「松萝仙芽」，还有「游韵单丛」。这样这样，择日不如撞日，我这里有盒靓单丛，我现在带去茶楼，给你泡一壶，走走走，我埋单！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/ed94aed39a5a9bf383692a2a518089e3_7727250827217562817.mp3",
+          "audioName": "14关于嘉明自己·老家_cn.mp3"
+        },
+        {
+          "name": "关于嘉明自己·今时今日",
+          "text": "我嘉明今时今日，有口饭吃，还能有时间精力钻研舞兽戏，真的要多谢周围好多人的理解和提携。将心比心，我肯定会打醒十二分精神做好这份工。还有余力，就多跑跑腿啊、请人饮茶啊，又不会少块肉咯，哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/bf14d3bcad9f22e9cef147ae956854e2_2244035542924999198.mp3",
+          "audioName": "15关于嘉明自己·今时今日_cn.mp3"
+        },
+        {
+          "name": "关于我们·赏脸",
+          "text": "不用运货的时候我一般在璃月港路边表演舞兽戏，赏个脸来看看？不要钱的不要钱的，只要街坊朋友看得开心我就很满足啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/31c43fccae3a18b17e72f872d3e21d72_5372172953592598317.mp3",
+          "audioName": "16关于我们·赏脸_cn.mp3"
+        },
+        {
+          "name": "关于我们·得闲饮茶",
+          "text": "记住啊，出门靠朋友，有什么困难不要硬顶喔你，需要我帮手随时出声！欸，大吉利是！最好就别听到你有难的消息啦，出门在外，最紧要是平平安安顺顺利利，我更希望听到你约我得闲饮茶咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b1b0c136a3c4a5e81ecad013d4201650_395527898386957589.mp3",
+          "audioName": "17关于我们·得闲饮茶_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "武侠小说有写，打通任督二脉之后就会变成武林高手，拿到神之眼的瞬间就是这种感觉…哈哈，讲笑而已！我不是什么武林高手，不过是多了点精力，那就顺手帮衬下街坊咯。不过讲开又讲，你没有神之眼都这么厉害，有了还得了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/88c5eaaa76731d282926a3480335b0e1_569203742510029328.mp3",
+          "audioName": "18关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "「文仔」好调皮的，本来咧，我想他文静一点才起的这个名，呃…如你所见，好像没什么用哈哈。不过也好，生生猛猛才能将舞兽戏做得风生水起嘛。看着文仔，我也慢慢能模仿出猊兽的神态动作，一戴上兽首，感觉就来了喂，吼！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a6caada4d5b2cc26fd5358c4ca974485_6410802494591292991.mp3",
+          "audioName": "19有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有很多花花草草，或者树皮树枝，晒干后用来煲水喝，生津解渴，清热降燥，好有益的！我阿婆阿婶都跟我讲过，吃煎炸食物前后，一定要记得喝这种「凉茶」，清清体内的热气喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/144aebdf32126eff6b4dc1ab76ff2098_5665352733861771715.mp3",
+          "audioName": "20感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于香菱",
+          "text": "香菱大师傅有好多拿手菜，我最喜欢那味水煮黑背鲈，虽然每次都用水涮了两次先吃，还是辣得我「嘶哈嘶哈」，哈哈哈，不愧是万民堂的生招牌，用料真足火候真猛！下次我还吃！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/2b46c05ad56e474a67a070c23c70ef68_4765570847920057097.mp3",
+          "audioName": "21关于香菱_cn.mp3"
+        },
+        {
+          "name": "关于行秋",
+          "text": "飞云商会是镖局的老主顾了，印象中一直都是他们的大少爷在打理生意上的事情，有次行秋少爷难得主动问起镖物的事，我就一五一十地将飞云商会最近货物的路线和收发日子告诉他，结果他问的是能不能透露一下万文集舍最新那批货什么时候到，哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/8357d6263ef1c1ab1e925bbd613ab536_4109261551315571583.mp3",
+          "audioName": "22关于行秋_cn.mp3"
+        },
+        {
+          "name": "关于重云",
+          "text": "听说那位仁兄有「纯阳之体」，按照我们那边的说法，他体内可能虚火很旺啊，应该多喝点凉茶喔他。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/664a5288bf5ef07d90063a77daa4790b_6363541019025962918.mp3",
+          "audioName": "23关于重云_cn.mp3"
+        },
+        {
+          "name": "关于刻晴",
+          "text": "多得玉衡星大人，她带头整治完遗珑埠跟璃月港之间的运输路段之后，盗贼都不敢那么猖獗了。我会不会失业？哈哈，那又未必，就算不用跟贼人打架了，担担抬抬这种粗重工夫总要有人干的嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/d30585f706bbcbf5d844f79a60344857_4742439882215618435.mp3",
+          "audioName": "24关于刻晴_cn.mp3"
+        },
+        {
+          "name": "关于白术",
+          "text": "走镖也好舞兽也好，跌打损伤都是家常便饭。好在有白大夫，他配的药真是舟车劳顿、居家旅行的必备良药，镖局的兄弟们都托我来璃月港的时候帮手带点回去的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/948351b53e20532f7913d97d19606eba_2901245057059290595.mp3",
+          "audioName": "25关于白术_cn.mp3"
+        },
+        {
+          "name": "关于七七",
+          "text": "七七小妹妹非常热心，见我每次来不卜庐都抓很多药，觉得我是因为身体僵硬才会摔跤受伤，所以教我做了柔软体操，哈哈，好简单的，你也试试？来，一二七七…二二七七…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/45f926ad8456e8e951dbed73cba55a1e_9105335106858222034.mp3",
+          "audioName": "26关于七七_cn.mp3"
+        },
+        {
+          "name": "关于云堇",
+          "text": "云堇大师是我榜样啊！不管内行外行，听过她的曲的都说好。真是不得了，什么时候「威水队」能做到「云翰社」一半的影响力…我做梦都会笑醒！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/8128cc4b7ca3e6063cf9768c314bf3b3_1122533025245540109.mp3",
+          "audioName": "27关于云堇_cn.mp3"
+        },
+        {
+          "name": "关于辛焱",
+          "text": "辛焱的演唱实在是太有感染力了！文仔听的时候也一直摇头晃脑的，喜欢得不得了！有机会的话真想请她一起办一个「火爆摇滚舞兽会」，你见识多，你觉得有没有搞头？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/71dbbf1cd3851da555effb19c79dcb14_647760480003617516.mp3",
+          "audioName": "28关于辛焱_cn.mp3"
+        },
+        {
+          "name": "关于闲云",
+          "text": "闲云姨很关照我，见我的兽首磨损了，马上说要做十个八个比我人还高的兽首给我，我讲到口水都干了，她才同意在我原来这个上改良…现在我这个兽首，又威武又轻便，兽披随时随地都能飘起来，就像有仙风托住一样！我超喜欢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/681e721dfdf2e229d8f584ebe9fcf541_5304005029117988559.mp3",
+          "audioName": "29关于闲云_cn.mp3"
+        },
+        {
+          "name": "关于钟离",
+          "text": "我猜那位钟离先生一定是位出身富贵的文人雅士。不管我运货到茶馆还是戏台，都能撞见他在喝茶听书，一看就懂很多的样子。哇，有次无意中听到他跟别人讲茶，当时我就觉得他跟我老爸肯定可以讲通宵了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/ae3af20baeef366ba562cfdae6fbc334_6778675013466719002.mp3",
+          "audioName": "30关于钟离_cn.mp3"
+        },
+        {
+          "name": "关于夏洛蒂",
+          "text": "哦，那位记者小姐啊嘛！我知道她！遗珑埠的枫丹人都喜欢看蒸汽鸟报，我也经常蹭着看看，有很多不得了的新闻都是她写的喔！哦！我记得你还上过头条啊！是不是？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/6c15b76b6100d6df3a71f51490d972b1_2441293069733076810.mp3",
+          "audioName": "31关于夏洛蒂_cn.mp3"
+        },
+        {
+          "name": "关于蓝砚…",
+          "text": "认识她，你有食神啦！你让蓝砚带你去山里吃农家菜，点名要去可以自带食材加工的农庄，你说是嘉明指定那家，她就知道了。那条山路特别难走，没有她这样有经验的本地人带路，我怕你走到天黑都找不到。你们尽管去吃，报我名字就行，老板认识我的，吃完入我数！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/88adf3654428086dccc2c355ba21bd47_7833349641868879212.mp3",
+          "audioName": "关于蓝砚…_cn.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其一",
+          "text": "镖师里最会舞兽的，舞兽师傅里运过最多镖的，怎么样？这样介绍不知道能不能让你记住我咧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/68b911da0105ae2cbefb05c4b76b81a1_9004527394623907592.mp3",
+          "audioName": "32想要了解嘉明·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其二",
+          "text": "是不是三脚猫功夫看基本功就知道了，扎马、踢腿、劈叉、弹跳、翻滚…连这些都半桶水，轻则从高桩上跌下来，躺他个一头半个月。重则运镖打不过人，失镖丧命…吓不吓人？吓人就对了嘛，当初我就是这样说服镖局的兄弟每日同我一起练功的，哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/7ce560c0c318d6af356689d991282a2b_2337280078991048061.mp3",
+          "audioName": "33想要了解嘉明·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其三",
+          "text": "兽首兽披啊、锣鼓钹镲啊，练得多了旧得也快，要勤力点养护，这里面得花不少钱呢。再加上平时请人吃饭喝茶、过时过节送送礼、兄弟们周转不灵借点钱…七七八八加起来，一个月走镖赚的钱就没几多剩了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/57b057b070039ca63a520d0fccd4513d_1912299652207711204.mp3",
+          "audioName": "34想要了解嘉明·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其四",
+          "text": "老爸一直想我跟他学做生意，不是没想过啊我，正是因为想清楚了才离家出走的。一来要证明给他看，我舞兽不是三分钟热度，一定会出人头地！二来嘛，也可以跟老爸少打点仗…两父子哪有隔夜仇的，我不是恨他，只是他每次开口火药味都很重，我避得到就避咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b68b103fce911db59fc3833cc3f7cb45_5460602927592195234.mp3",
+          "audioName": "35想要了解嘉明·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其五",
+          "text": "嗱，这里，前两日练踢腿，淤了一片…这个包，上个月练翻滚的时候撞的，已经快好咯~这个疤就厉害了，是我第一次上高桩时摔下来弄的，那时流了好多好多血，差点以为我的舞兽生涯刚刚开始就要结束了…不过好彩，这么多年来都是有惊无险，我还能继续…嗯，一定要继续。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b5e1ecf9be89a6d84c9f703244915f96_4072487405786688689.mp3",
+          "audioName": "36想要了解嘉明·其五_cn.mp3"
+        },
+        {
+          "name": "嘉明的爱好…",
+          "text": "早茶不只有茶啦，还有各种甜点咸点，有即点即上的也有现点现做的，每次喝完早茶我都不用吃午饭了。你得闲就叫我，我请你饮茶！想吃什么就点什么，没所谓的吃不完打包回去嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5625da6076f64a2840ca6713b872a79a_1440760405371242887.mp3",
+          "audioName": "37嘉明的爱好…_cn.mp3"
+        },
+        {
+          "name": "嘉明的烦恼…",
+          "text": "什么？！茶位费就算了，擦手帕都要另外收钱的？好在我自己有带，退掉退掉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/10560e0a7dee8ba41894d050052b61f5_4203741155016761978.mp3",
+          "audioName": "38嘉明的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "小时候很顽皮的我，还记得每次闯祸后我不听教，我老妈都会气得骂一句「生块叉烧好过生你」，现在每次吃叉烧，还挺想老妈的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/bd7a67002a925d16c50d429894aec11d_8853991133182375122.mp3",
+          "audioName": "39喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "他们总说我口味刁钻，我的要求很简单啊——禽肉有禽肉味，鱼肉有鱼肉味，很过分吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/85da4e5e38f0bb4cefe47e033b2d2ef7_5848772054545300831.mp3",
+          "audioName": "40讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这个味道——难道阁下的真实身份就是「神」？没说错吧？「厨神」阁下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/4090bdcf3e1939a353cd3cf4a489755a_962046294570766463.mp3",
+          "audioName": "41收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你亲手做的？有心了有心了！这样的烹饪水平，摆到明是高手啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/f3fec16e53a25fd7e134814bca8685c6_2781584045415494833.mp3",
+          "audioName": "42收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "错就要认，打就要立正！如果我哪里行差踏错了不如你还是直接打我一顿吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/1032c30a6d0956eac96d5f144d08064a_1518056921227001226.mp3",
+          "audioName": "43收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "不是吧你，生日这么好的日子都不提前告诉我？好在我已经在新月轩订好一桌子菜啦，八菜一汤白饭任装，还有寿包和糖水，叫多点朋友一起来贺一贺呀。另外咧，我还准备了一小段祝寿舞兽戏，小小意思，不成敬意，希望你钟意啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/22c62551158a1c9bf0f5ecd018a3bbf7_4935227060747375013.mp3",
+          "audioName": "44生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "哇，这些都给我了？这么大手笔，怎么好意思啊？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/0ad884acba5e6c62c52edd888a3824e6_3569986210333503778.mp3",
+          "audioName": "45突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "哈哈，真看得起我啊，那我不练个砂煲那么大的拳头有点对不住你喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/dc4bec3273bee8b1427df649d9a803e4_3947598874431568638.mp3",
+          "audioName": "46突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "走镖也是镖，保镖也是镖，信得过我的话，以后我来当你保镖咯？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a965ff4248fea81d9a0028254be2a7b9_2776892010569809161.mp3",
+          "audioName": "47突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "多谢你为我的兽首点睛，接下来的旅途，不敢说包你顺风顺水，但我一定会落力豁出去，帮你采青！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a1fbcceddc4ba8bec0a3bad32337ba94_8310662630983440728.mp3",
+          "audioName": "48突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "对不住咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/4181f1a226338b6e198486cd9afe98d5_1107440302948028307.mp3",
+          "audioName": "49元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "采青先！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/182439a9b47a966c89e0732ffcf06e55_1858689370960603355.mp3",
+          "audioName": "50元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "中头奖啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a994bdf7814ae4522758a2538bb2e6e6_7403931621764051458.mp3",
+          "audioName": "51元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "鸿运当头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/c36e9cc16191861a7504b31f8ddf2cfa_7875040955529455494.mp3",
+          "audioName": "52元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "文仔，到你出马！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/995827129b60be35bb1c683e74d86e20_1231039927924176091.mp3",
+          "audioName": "53元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "威水舞兽！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/9b22a7955816f43d2f2435a966848d7d_4356291134713261464.mp3",
+          "audioName": "54元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "哇，好靓喔这批货！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/93a4a2b275cab548e2f39ec25e177c10_7176356570720772691.mp3",
+          "audioName": "55打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这趟镖要运去哪呢老板？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/307bf6ee953d3a73b1c1b06dd7be99ab_4818022979739337855.mp3",
+          "audioName": "56打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "淡淡定定，有财进。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/3abc172849486fb5a0f0393f6f377ffb_8680553479515772520.mp3",
+          "audioName": "57打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "小小痛楚等于激励…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/317bffb4f090cd536ff1f5d6863561d0_2565017322550201821.mp3",
+          "audioName": "58生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "呵，小意思啦…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/78aef78295c6bf3553be93cf5510006e_3798479034606800450.mp3",
+          "audioName": "59生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "顶得住！继续！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/ec808cc61a8d4964430cf293bd3f154a_190739458377808899.mp3",
+          "audioName": "60生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "歇一阵先，包在我身上！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/31a062f9f493a9f1731dc4dce5cd85c7_8478574305895575258.mp3",
+          "audioName": "61同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "喂！不要硬顶啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5be623b57e88acd6caeda9dc1d941b2b_7303376756087444106.mp3",
+          "audioName": "62同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "呵，我走先啦…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/1521772a01d62f4a2e294f149fe5547f_1527814225247968288.mp3",
+          "audioName": "63倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "还没「采青」呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b6472032385bfe05b5dc117a39d3f5d2_8855115671109848326.mp3",
+          "audioName": "64倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "快点走…不用理我…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/1e9d235cadbdf8eeb712f7cfbeaa6fe2_8124647689360769811.mp3",
+          "audioName": "65倒下·其三_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不是吧你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/ee649ad240c8d42b3546474dcb6dd2bc_8627536894726581850.mp3",
+          "audioName": "66重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "停手！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a860c1d5f8080ac93e75265d6bf21455_8313194702061623493.mp3",
+          "audioName": "67重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "走镖去喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/68eefb40232adb44fadb6ac4839f0c7f_5833459993618426036.mp3",
+          "audioName": "68加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "收到，开桩！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/418f5b285826239b69a504676cc70ed9_867315657308902960.mp3",
+          "audioName": "69加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "急吗？不急喝个早茶先？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/044498847eb23291aafffb36538b98a8_8323198001695598543.mp3",
+          "audioName": "70加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "老板你好呀，我是和记厅的镖师，叫我嘉明就行，要运货吗你？请坐请坐，饮杯茶先，我帮你打包好货就可以排期出发咯！哦！如果是找我舞兽的话即刻可以出发！「威水舞兽队」我就是话事人，嘿嘿，失礼失礼。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e03b3151f6402a1b690460a7243a75c1_1168883893759216528.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·舞兽",
+          "text": "咚咚锵，睁眼！咚咚咚咚锵，洗须！唔…不好不好，还要练多点先。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/177893a54e0ba1015536e2cbed95d058_677300081626557374.mp3",
+          "audioName": "02闲聊·舞兽_jp.mp3"
+        },
+        {
+          "name": "闲聊·走镖",
+          "text": "水路山路陆路，走镖时什么路没走过啊我？放心啦，金牌镖师不是浪得虚名的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/4d35f1ab8da6fe63cfb65a8d0cf3c6b1_405834011608281170.mp3",
+          "audioName": "03闲聊·走镖_jp.mp3"
+        },
+        {
+          "name": "闲聊·早茶",
+          "text": "一盅两件，再加个白灼时蔬和生滚靓粥，嗯…正啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/05acbd4e6dbd632f7433d68c27f1a3fd_9317073854563802.mp3",
+          "audioName": "04闲聊·早茶_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨啦！收衫啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a7e9baa6754dfe790c6d5bf2515213c2_2146221572791495314.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "嗱嗱嗱，你听，坏人发誓天打雷劈啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b003e6044c1a556fd7422fc5be7d61d1_6100406408931236329.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "啊——咦？为什么下不到我嘴里的？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/f2cd438618c14f4efb0663855b5c07a1_5547459715408697668.mp3",
+          "audioName": "07下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "晒点太阳好啊，去去湿气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/2ecee56fc5cf4487e7a376430f7d92ad_2580595262869574767.mp3",
+          "audioName": "08阳光很好…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "这种地方买水喝肯定很贵吧？好在我自己带水了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/980e7a42e8faa191341981d802924ff0_8461602574637465245.mp3",
+          "audioName": "09在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "我练完功了，准备去喝早茶，一起？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/73c120890a1e462855c468f6b994ef62_1416641686557027765.mp3",
+          "audioName": "10早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "虽然叫早茶，其实中午也能喝的，怎么说，走？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/690254632ae31b28cb84c6976303efd1_6313221396255554407.mp3",
+          "audioName": "11中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "我定到一间菜馆，夜晚才开门，听说只做熟客生意的，来都来了，不吃就走宝了，出发？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/24d0cd18a5935477a136e46564d8c3e2_9127815609055288341.mp3",
+          "audioName": "12晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "要睡了吗？饿不饿啊？不如吃个宵夜先？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/27ba1588956161fe19572d98238002c0_7672343880179284313.mp3",
+          "audioName": "13晚安…_jp.mp3"
+        },
+        {
+          "name": "关于嘉明自己·老家",
+          "text": "翘英庄，去过吗？我老家。我们那里茶叶很出名的，有「松萝仙芽」，还有「游韵单丛」。这样这样，择日不如撞日，我这里有盒靓单丛，我现在带去茶楼，给你泡一壶，走走走，我埋单！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/d6ad969cee14d75df0bc59498f6acc1e_3939325744076348016.mp3",
+          "audioName": "14关于嘉明自己·老家_jp.mp3"
+        },
+        {
+          "name": "关于嘉明自己·今时今日",
+          "text": "我嘉明今时今日，有口饭吃，还能有时间精力钻研舞兽戏，真的要多谢周围好多人的理解和提携。将心比心，我肯定会打醒十二分精神做好这份工。还有余力，就多跑跑腿啊、请人饮茶啊，又不会少块肉咯，哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/14f7d3e4313f8c0e40d0d930f469b88e_7048402592116332594.mp3",
+          "audioName": "15关于嘉明自己·今时今日_jp.mp3"
+        },
+        {
+          "name": "关于我们·赏脸",
+          "text": "不用运货的时候我一般在璃月港路边表演舞兽戏，赏个脸来看看？不要钱的不要钱的，只要街坊朋友看得开心我就很满足啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e48d042492faf0aa372cf1633fa675a0_7323144362320909498.mp3",
+          "audioName": "16关于我们·赏脸_jp.mp3"
+        },
+        {
+          "name": "关于我们·得闲饮茶",
+          "text": "记住啊，出门靠朋友，有什么困难不要硬顶喔你，需要我帮手随时出声！欸，大吉利是！最好就别听到你有难的消息啦，出门在外，最紧要是平平安安顺顺利利，我更希望听到你约我得闲饮茶咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/633570a88f9e503c15f09ec124ed1556_4855839931409705037.mp3",
+          "audioName": "17关于我们·得闲饮茶_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "武侠小说有写，打通任督二脉之后就会变成武林高手，拿到神之眼的瞬间就是这种感觉…哈哈，讲笑而已！我不是什么武林高手，不过是多了点精力，那就顺手帮衬下街坊咯。不过讲开又讲，你没有神之眼都这么厉害，有了还得了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/1f3b8a1b02616553555bb044c840ea75_2651241543252020934.mp3",
+          "audioName": "18关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "「文仔」好调皮的，本来咧，我想他文静一点才起的这个名，呃…如你所见，好像没什么用哈哈。不过也好，生生猛猛才能将舞兽戏做得风生水起嘛。看着文仔，我也慢慢能模仿出猊兽的神态动作，一戴上兽首，感觉就来了喂，吼！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5ba67faeca71c9d9cc4565059af1df48_7272438148248698826.mp3",
+          "audioName": "19有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有很多花花草草，或者树皮树枝，晒干后用来煲水喝，生津解渴，清热降燥，好有益的！我阿婆阿婶都跟我讲过，吃煎炸食物前后，一定要记得喝这种「凉茶」，清清体内的热气喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/9ee90948ca9c346b48a8830505fce048_4319778620740608012.mp3",
+          "audioName": "20感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于香菱",
+          "text": "香菱大师傅有好多拿手菜，我最喜欢那味水煮黑背鲈，虽然每次都用水涮了两次先吃，还是辣得我「嘶哈嘶哈」，哈哈哈，不愧是万民堂的生招牌，用料真足火候真猛！下次我还吃！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e58c4d1af2b70a440fe9e10631fac2e3_6202868123031245554.mp3",
+          "audioName": "21关于香菱_jp.mp3"
+        },
+        {
+          "name": "关于行秋",
+          "text": "飞云商会是镖局的老主顾了，印象中一直都是他们的大少爷在打理生意上的事情，有次行秋少爷难得主动问起镖物的事，我就一五一十地将飞云商会最近货物的路线和收发日子告诉他，结果他问的是能不能透露一下万文集舍最新那批货什么时候到，哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/8112de2a12e9ba56a36866bb2909ce7e_5245920633645622317.mp3",
+          "audioName": "22关于行秋_jp.mp3"
+        },
+        {
+          "name": "关于重云",
+          "text": "听说那位仁兄有「纯阳之体」，按照我们那边的说法，他体内可能虚火很旺啊，应该多喝点凉茶喔他。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5382b5f6d750490a0ecca43c43bb0d21_8439311192323180680.mp3",
+          "audioName": "23关于重云_jp.mp3"
+        },
+        {
+          "name": "关于刻晴",
+          "text": "多得玉衡星大人，她带头整治完遗珑埠跟璃月港之间的运输路段之后，盗贼都不敢那么猖獗了。我会不会失业？哈哈，那又未必，就算不用跟贼人打架了，担担抬抬这种粗重工夫总要有人干的嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/9a2feedcc57b71b9aa0cae05da38011d_685071134309184663.mp3",
+          "audioName": "24关于刻晴_jp.mp3"
+        },
+        {
+          "name": "关于白术",
+          "text": "走镖也好舞兽也好，跌打损伤都是家常便饭。好在有白大夫，他配的药真是舟车劳顿、居家旅行的必备良药，镖局的兄弟们都托我来璃月港的时候帮手带点回去的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/9c6cb727b9605982028d47fed77a0192_5580615879944319198.mp3",
+          "audioName": "25关于白术_jp.mp3"
+        },
+        {
+          "name": "关于七七",
+          "text": "七七小妹妹非常热心，见我每次来不卜庐都抓很多药，觉得我是因为身体僵硬才会摔跤受伤，所以教我做了柔软体操，哈哈，好简单的，你也试试？来，一二七七…二二七七…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/f449c7d08b08d7d8725fcb7453bebc13_1397550900649964753.mp3",
+          "audioName": "26关于七七_jp.mp3"
+        },
+        {
+          "name": "关于云堇",
+          "text": "云堇大师是我榜样啊！不管内行外行，听过她的曲的都说好。真是不得了，什么时候「威水队」能做到「云翰社」一半的影响力…我做梦都会笑醒！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/69906fa1951bb84532d60fec60c0faf2_8666838540219234970.mp3",
+          "audioName": "27关于云堇_jp.mp3"
+        },
+        {
+          "name": "关于辛焱",
+          "text": "辛焱的演唱实在是太有感染力了！文仔听的时候也一直摇头晃脑的，喜欢得不得了！有机会的话真想请她一起办一个「火爆摇滚舞兽会」，你见识多，你觉得有没有搞头？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/d79ac2dc6036a1f66a65f985ea241260_8465115214655579204.mp3",
+          "audioName": "28关于辛焱_jp.mp3"
+        },
+        {
+          "name": "关于闲云",
+          "text": "闲云姨很关照我，见我的兽首磨损了，马上说要做十个八个比我人还高的兽首给我，我讲到口水都干了，她才同意在我原来这个上改良…现在我这个兽首，又威武又轻便，兽披随时随地都能飘起来，就像有仙风托住一样！我超喜欢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/23691708cc71b70bff11dac42da2d824_21101701275570314.mp3",
+          "audioName": "29关于闲云_jp.mp3"
+        },
+        {
+          "name": "关于钟离",
+          "text": "我猜那位钟离先生一定是位出身富贵的文人雅士。不管我运货到茶馆还是戏台，都能撞见他在喝茶听书，一看就懂很多的样子。哇，有次无意中听到他跟别人讲茶，当时我就觉得他跟我老爸肯定可以讲通宵了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/7ac48ad492fdaabbf9f1968aa5d75153_5572622229494529424.mp3",
+          "audioName": "30关于钟离_jp.mp3"
+        },
+        {
+          "name": "关于夏洛蒂",
+          "text": "哦，那位记者小姐啊嘛！我知道她！遗珑埠的枫丹人都喜欢看蒸汽鸟报，我也经常蹭着看看，有很多不得了的新闻都是她写的喔！哦！我记得你还上过头条啊！是不是？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/28c4769199419226e1d34df5b7f60781_3334181942543369612.mp3",
+          "audioName": "31关于夏洛蒂_jp.mp3"
+        },
+        {
+          "name": "关于蓝砚…",
+          "text": "认识她，你有食神啦！你让蓝砚带你去山里吃农家菜，点名要去可以自带食材加工的农庄，你说是嘉明指定那家，她就知道了。那条山路特别难走，没有她这样有经验的本地人带路，我怕你走到天黑都找不到。你们尽管去吃，报我名字就行，老板认识我的，吃完入我数！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/b185f64b082d98635ef7fdb1bc27b171_7083475114171216222.mp3",
+          "audioName": "关于蓝砚…_jp.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其一",
+          "text": "镖师里最会舞兽的，舞兽师傅里运过最多镖的，怎么样？这样介绍不知道能不能让你记住我咧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/fcfba1a11af822fe61d6277cb194f725_76858752850895310.mp3",
+          "audioName": "32想要了解嘉明·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其二",
+          "text": "是不是三脚猫功夫看基本功就知道了，扎马、踢腿、劈叉、弹跳、翻滚…连这些都半桶水，轻则从高桩上跌下来，躺他个一头半个月。重则运镖打不过人，失镖丧命…吓不吓人？吓人就对了嘛，当初我就是这样说服镖局的兄弟每日同我一起练功的，哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/44d5954af421da086ae0234d8c51a065_8351940940844466927.mp3",
+          "audioName": "33想要了解嘉明·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其三",
+          "text": "兽首兽披啊、锣鼓钹镲啊，练得多了旧得也快，要勤力点养护，这里面得花不少钱呢。再加上平时请人吃饭喝茶、过时过节送送礼、兄弟们周转不灵借点钱…七七八八加起来，一个月走镖赚的钱就没几多剩了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/c2d93325c1d6a891928e356354e40e49_1020156348727685078.mp3",
+          "audioName": "34想要了解嘉明·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其四",
+          "text": "老爸一直想我跟他学做生意，不是没想过啊我，正是因为想清楚了才离家出走的。一来要证明给他看，我舞兽不是三分钟热度，一定会出人头地！二来嘛，也可以跟老爸少打点仗…两父子哪有隔夜仇的，我不是恨他，只是他每次开口火药味都很重，我避得到就避咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/f167ca9ab4718e71f9e168d36903e76b_1366376532283757092.mp3",
+          "audioName": "35想要了解嘉明·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其五",
+          "text": "嗱，这里，前两日练踢腿，淤了一片…这个包，上个月练翻滚的时候撞的，已经快好咯~这个疤就厉害了，是我第一次上高桩时摔下来弄的，那时流了好多好多血，差点以为我的舞兽生涯刚刚开始就要结束了…不过好彩，这么多年来都是有惊无险，我还能继续…嗯，一定要继续。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5e77641c0f41fc82b1281bdf2b6c3268_3459049252985973305.mp3",
+          "audioName": "36想要了解嘉明·其五_jp.mp3"
+        },
+        {
+          "name": "嘉明的爱好…",
+          "text": "早茶不只有茶啦，还有各种甜点咸点，有即点即上的也有现点现做的，每次喝完早茶我都不用吃午饭了。你得闲就叫我，我请你饮茶！想吃什么就点什么，没所谓的吃不完打包回去嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/436b70e39a15ba4e92714adce34bc179_6994577781861477197.mp3",
+          "audioName": "37嘉明的爱好…_jp.mp3"
+        },
+        {
+          "name": "嘉明的烦恼…",
+          "text": "什么？！茶位费就算了，擦手帕都要另外收钱的？好在我自己有带，退掉退掉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/f18fee4c7afa4c3d5f0ef16aacdba7b0_5606699100158958026.mp3",
+          "audioName": "38嘉明的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "小时候很顽皮的我，还记得每次闯祸后我不听教，我老妈都会气得骂一句「生块叉烧好过生你」，现在每次吃叉烧，还挺想老妈的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/766c4bfa91e271448c48e71d384e411d_3898744066371510240.mp3",
+          "audioName": "39喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "他们总说我口味刁钻，我的要求很简单啊——禽肉有禽肉味，鱼肉有鱼肉味，很过分吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5c6e57a3b9be6b5e6f57e4ab7b68f420_341459556870057365.mp3",
+          "audioName": "40讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这个味道——难道阁下的真实身份就是「神」？没说错吧？「厨神」阁下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/2569b8aecfd81ef57d5e0928893d120e_7273064143406274852.mp3",
+          "audioName": "41收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你亲手做的？有心了有心了！这样的烹饪水平，摆到明是高手啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/cb65502568a9a5256e81fbe2e2b6fe82_6818039265504275896.mp3",
+          "audioName": "42收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "错就要认，打就要立正！如果我哪里行差踏错了不如你还是直接打我一顿吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/331edc1fad21d838e95709ede3a4d0fb_3641869826584775842.mp3",
+          "audioName": "43收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "不是吧你，生日这么好的日子都不提前告诉我？好在我已经在新月轩订好一桌子菜啦，八菜一汤白饭任装，还有寿包和糖水，叫多点朋友一起来贺一贺呀。另外咧，我还准备了一小段祝寿舞兽戏，小小意思，不成敬意，希望你钟意啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b7ac5e6fe2110acbcb96114f7e3e686f_1022689006900956150.mp3",
+          "audioName": "44生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "哇，这些都给我了？这么大手笔，怎么好意思啊？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/fbe38e45e426776775a8946aab5c554d_2965078694509003753.mp3",
+          "audioName": "45突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "哈哈，真看得起我啊，那我不练个砂煲那么大的拳头有点对不住你喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/83cff37a9953f3ad934f3aa05eff5f85_7037628496315947219.mp3",
+          "audioName": "46突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "走镖也是镖，保镖也是镖，信得过我的话，以后我来当你保镖咯？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b5400bdfb3df4fab88d447afb9835c7f_7263540548383975110.mp3",
+          "audioName": "47突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "多谢你为我的兽首点睛，接下来的旅途，不敢说包你顺风顺水，但我一定会落力豁出去，帮你采青！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b4d13230781b122a6f915970f5c00c97_3410003703489838448.mp3",
+          "audioName": "48突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "对不住咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/1814d43a3087409e7cc4378d05f761a4_6368465645957104024.mp3",
+          "audioName": "49元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "采青先！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/c18d1a99abbd6cd8a04f4b79f1a6379a_4080716180373738114.mp3",
+          "audioName": "50元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "中头奖啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/054863e971d2c31150fd7ee49a0bf34e_3448808229914124901.mp3",
+          "audioName": "51元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "鸿运当头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5d4a39ba4cbd95536a24cd14d5dc6fdc_8179902903029406874.mp3",
+          "audioName": "52元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "文仔，到你出马！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/070c5c35f2174bb0f936fe7af41c3ba2_7092665496873077596.mp3",
+          "audioName": "53元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "威水舞兽！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/0872a611d768651f38e6a974b133b525_13531664740181191.mp3",
+          "audioName": "54元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "哇，好靓喔这批货！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/bacc7b29108527c67e28328679bc5eb0_3013264758402411229.mp3",
+          "audioName": "55打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这趟镖要运去哪呢老板？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a98b7d7d0d7cfcd7f623f6ca3d15516a_8004392067848240132.mp3",
+          "audioName": "56打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "淡淡定定，有财进。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/6878ef685cd3bfdc1158cde5810a06e0_7433592411405817114.mp3",
+          "audioName": "57打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "小小痛楚等于激励…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e71ff78ea657f254fda5026a36d4d7dc_2673854862986027518.mp3",
+          "audioName": "58生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "呵，小意思啦…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/f686d2bccfbe28f70f2c8b5de8d9ab2d_8630522290814479406.mp3",
+          "audioName": "59生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "顶得住！继续！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/d0e5a05f75f44449d931a8def7dfa57e_2223308012281105933.mp3",
+          "audioName": "60生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "歇一阵先，包在我身上！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/37a2ba0e7acc53484f14860ef827901b_8417586684708214169.mp3",
+          "audioName": "61同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "喂！不要硬顶啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/8fbefd623c6df739c9c8c598b103ac54_4956760409477374478.mp3",
+          "audioName": "62同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "呵，我走先啦…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/032be44205f6534da7f70430e74cde21_6629244335741863489.mp3",
+          "audioName": "63倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "还没「采青」呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/9846fd8c93b04cfb834205cc92355aed_336043890550845146.mp3",
+          "audioName": "64倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "快点走…不用理我…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/80b4ac2ded35b9e80ed631b376b83056_370819299948055822.mp3",
+          "audioName": "65倒下·其三_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不是吧你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/7cebbb3e82df7dda32b9ce86e8c0ce25_5587767430692846192.mp3",
+          "audioName": "66重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "停手！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b835c9ad213dae37db3d1b621e7cd949_4664352147723296278.mp3",
+          "audioName": "67重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "走镖去喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/02c639b00d08fd848bc524ff0dc9ea9b_6038281658527774115.mp3",
+          "audioName": "68加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "收到，开桩！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/d8fc044c5c3ad17a16681541af3808fb_5333093740096292681.mp3",
+          "audioName": "69加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "急吗？不急喝个早茶先？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/77fdef337f684f5b10e4631da475a655_6737768858685093905.mp3",
+          "audioName": "70加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "老板你好呀，我是和记厅的镖师，叫我嘉明就行，要运货吗你？请坐请坐，饮杯茶先，我帮你打包好货就可以排期出发咯！哦！如果是找我舞兽的话即刻可以出发！「威水舞兽队」我就是话事人，嘿嘿，失礼失礼。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5c7423071905a37591308c020b09e808_1577877654098093864.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·舞兽",
+          "text": "咚咚锵，睁眼！咚咚咚咚锵，洗须！唔…不好不好，还要练多点先。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/74ee081ad89ee21fd36a9e19fd89bace_2277639827245222862.mp3",
+          "audioName": "02闲聊·舞兽_en.mp3"
+        },
+        {
+          "name": "闲聊·走镖",
+          "text": "水路山路陆路，走镖时什么路没走过啊我？放心啦，金牌镖师不是浪得虚名的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b26932ca02629df15ab499d2b0759be2_3133202234194460511.mp3",
+          "audioName": "03闲聊·走镖_en.mp3"
+        },
+        {
+          "name": "闲聊·早茶",
+          "text": "一盅两件，再加个白灼时蔬和生滚靓粥，嗯…正啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/0936ab1e4d6cf962cc06c5fe455f43fb_3534423677848077785.mp3",
+          "audioName": "04闲聊·早茶_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨啦！收衫啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/804c776bd16d8c2e48c3b5c66c4fcafa_3368068069048541832.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "嗱嗱嗱，你听，坏人发誓天打雷劈啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/c6f4891d48fbe8ebb290411d92989c32_6297959046814415174.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "啊——咦？为什么下不到我嘴里的？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/acf372e3a2a27be17d021b0e58b3a706_2151891700009913754.mp3",
+          "audioName": "07下雪的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "晒点太阳好啊，去去湿气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/104a1764d5d2ea810cb67f91e7fac36e_7900864034513982157.mp3",
+          "audioName": "08阳光很好…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "这种地方买水喝肯定很贵吧？好在我自己带水了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/96238919f02b662f4a0b0f090006a5d6_2141258368194581185.mp3",
+          "audioName": "09在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "我练完功了，准备去喝早茶，一起？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/130c270d1176633ac574762e12d5ffe9_3958935715529956171.mp3",
+          "audioName": "10早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "虽然叫早茶，其实中午也能喝的，怎么说，走？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/ef12cc92d91144017546c7ffe492172c_5959976456753770491.mp3",
+          "audioName": "11中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "我定到一间菜馆，夜晚才开门，听说只做熟客生意的，来都来了，不吃就走宝了，出发？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/30360c579eaedf3f22614af230c7d007_4320923494782834655.mp3",
+          "audioName": "12晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "要睡了吗？饿不饿啊？不如吃个宵夜先？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/05e300b8f5e8ff21b0998d748a50d23e_4129899319935505942.mp3",
+          "audioName": "13晚安…_en.mp3"
+        },
+        {
+          "name": "关于嘉明自己·老家",
+          "text": "翘英庄，去过吗？我老家。我们那里茶叶很出名的，有「松萝仙芽」，还有「游韵单丛」。这样这样，择日不如撞日，我这里有盒靓单丛，我现在带去茶楼，给你泡一壶，走走走，我埋单！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/6af15b84ce5c12f819b0613d7cdc2436_5620170039048511828.mp3",
+          "audioName": "14关于嘉明自己·老家_en.mp3"
+        },
+        {
+          "name": "关于嘉明自己·今时今日",
+          "text": "我嘉明今时今日，有口饭吃，还能有时间精力钻研舞兽戏，真的要多谢周围好多人的理解和提携。将心比心，我肯定会打醒十二分精神做好这份工。还有余力，就多跑跑腿啊、请人饮茶啊，又不会少块肉咯，哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/23a3cd09a8d38f12d84cc59e2be680eb_1872329345143784232.mp3",
+          "audioName": "15关于嘉明自己·今时今日_en.mp3"
+        },
+        {
+          "name": "关于我们·赏脸",
+          "text": "不用运货的时候我一般在璃月港路边表演舞兽戏，赏个脸来看看？不要钱的不要钱的，只要街坊朋友看得开心我就很满足啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/73a71e2a91fb0be8bd58d18e479b7b6a_3360339915807710166.mp3",
+          "audioName": "16关于我们·赏脸_en.mp3"
+        },
+        {
+          "name": "关于我们·得闲饮茶",
+          "text": "记住啊，出门靠朋友，有什么困难不要硬顶喔你，需要我帮手随时出声！欸，大吉利是！最好就别听到你有难的消息啦，出门在外，最紧要是平平安安顺顺利利，我更希望听到你约我得闲饮茶咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/fb9c1d8aaf5e2799d69103b871142e3e_3744494928177049068.mp3",
+          "audioName": "17关于我们·得闲饮茶_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "武侠小说有写，打通任督二脉之后就会变成武林高手，拿到神之眼的瞬间就是这种感觉…哈哈，讲笑而已！我不是什么武林高手，不过是多了点精力，那就顺手帮衬下街坊咯。不过讲开又讲，你没有神之眼都这么厉害，有了还得了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/c6fe31949348f044321366ca2c15758e_7311780215055076978.mp3",
+          "audioName": "18关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "「文仔」好调皮的，本来咧，我想他文静一点才起的这个名，呃…如你所见，好像没什么用哈哈。不过也好，生生猛猛才能将舞兽戏做得风生水起嘛。看着文仔，我也慢慢能模仿出猊兽的神态动作，一戴上兽首，感觉就来了喂，吼！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5de11d746993cb65b199090e56f83c18_8928427377199115642.mp3",
+          "audioName": "19有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有很多花花草草，或者树皮树枝，晒干后用来煲水喝，生津解渴，清热降燥，好有益的！我阿婆阿婶都跟我讲过，吃煎炸食物前后，一定要记得喝这种「凉茶」，清清体内的热气喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/4b0b9ab873e8aa7332b93e12d8678c81_4861208760286808495.mp3",
+          "audioName": "20感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于香菱",
+          "text": "香菱大师傅有好多拿手菜，我最喜欢那味水煮黑背鲈，虽然每次都用水涮了两次先吃，还是辣得我「嘶哈嘶哈」，哈哈哈，不愧是万民堂的生招牌，用料真足火候真猛！下次我还吃！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/4c6cfe723819cd1bc58154cb56a995ed_8048328471718697177.mp3",
+          "audioName": "21关于香菱_en.mp3"
+        },
+        {
+          "name": "关于行秋",
+          "text": "飞云商会是镖局的老主顾了，印象中一直都是他们的大少爷在打理生意上的事情，有次行秋少爷难得主动问起镖物的事，我就一五一十地将飞云商会最近货物的路线和收发日子告诉他，结果他问的是能不能透露一下万文集舍最新那批货什么时候到，哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/50f9f40d8b9f2d3bcef8277ae4d8aa29_8476001970897967567.mp3",
+          "audioName": "22关于行秋_en.mp3"
+        },
+        {
+          "name": "关于重云",
+          "text": "听说那位仁兄有「纯阳之体」，按照我们那边的说法，他体内可能虚火很旺啊，应该多喝点凉茶喔他。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/988f53cf63af7a109bc92951f6d7354c_7063569111754103838.mp3",
+          "audioName": "23关于重云_en.mp3"
+        },
+        {
+          "name": "关于刻晴",
+          "text": "多得玉衡星大人，她带头整治完遗珑埠跟璃月港之间的运输路段之后，盗贼都不敢那么猖獗了。我会不会失业？哈哈，那又未必，就算不用跟贼人打架了，担担抬抬这种粗重工夫总要有人干的嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/248b40e77e85712594cd4a2873cdc81f_7962893170952962133.mp3",
+          "audioName": "24关于刻晴_en.mp3"
+        },
+        {
+          "name": "关于白术",
+          "text": "走镖也好舞兽也好，跌打损伤都是家常便饭。好在有白大夫，他配的药真是舟车劳顿、居家旅行的必备良药，镖局的兄弟们都托我来璃月港的时候帮手带点回去的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/39cfc800346a07594ba501b591c69c2f_5800874955447585480.mp3",
+          "audioName": "25关于白术_en.mp3"
+        },
+        {
+          "name": "关于七七",
+          "text": "七七小妹妹非常热心，见我每次来不卜庐都抓很多药，觉得我是因为身体僵硬才会摔跤受伤，所以教我做了柔软体操，哈哈，好简单的，你也试试？来，一二七七…二二七七…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/61fab714324d1da85243623bf1d03810_6459282881543375408.mp3",
+          "audioName": "26关于七七_en.mp3"
+        },
+        {
+          "name": "关于云堇",
+          "text": "云堇大师是我榜样啊！不管内行外行，听过她的曲的都说好。真是不得了，什么时候「威水队」能做到「云翰社」一半的影响力…我做梦都会笑醒！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/4d32a5d5837b45deffe91cb8171def49_8193011038176708890.mp3",
+          "audioName": "27关于云堇_en.mp3"
+        },
+        {
+          "name": "关于辛焱",
+          "text": "辛焱的演唱实在是太有感染力了！文仔听的时候也一直摇头晃脑的，喜欢得不得了！有机会的话真想请她一起办一个「火爆摇滚舞兽会」，你见识多，你觉得有没有搞头？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/fe0984ea6deb9af2c9ee7384d7f9386e_3533532574249682235.mp3",
+          "audioName": "28关于辛焱_en.mp3"
+        },
+        {
+          "name": "关于闲云",
+          "text": "闲云姨很关照我，见我的兽首磨损了，马上说要做十个八个比我人还高的兽首给我，我讲到口水都干了，她才同意在我原来这个上改良…现在我这个兽首，又威武又轻便，兽披随时随地都能飘起来，就像有仙风托住一样！我超喜欢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/c08aa77d2713d16ab6143fe76f343322_4718506848403494768.mp3",
+          "audioName": "29关于闲云_en.mp3"
+        },
+        {
+          "name": "关于钟离",
+          "text": "我猜那位钟离先生一定是位出身富贵的文人雅士。不管我运货到茶馆还是戏台，都能撞见他在喝茶听书，一看就懂很多的样子。哇，有次无意中听到他跟别人讲茶，当时我就觉得他跟我老爸肯定可以讲通宵了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/bc5b6f22d292918bf5a92a9f5bbd20fe_6017327075105042052.mp3",
+          "audioName": "30关于钟离_en.mp3"
+        },
+        {
+          "name": "关于夏洛蒂",
+          "text": "哦，那位记者小姐啊嘛！我知道她！遗珑埠的枫丹人都喜欢看蒸汽鸟报，我也经常蹭着看看，有很多不得了的新闻都是她写的喔！哦！我记得你还上过头条啊！是不是？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b388729c2fffaf9eca96393d96cbfe1e_3947821870543871420.mp3",
+          "audioName": "31关于夏洛蒂_en.mp3"
+        },
+        {
+          "name": "关于蓝砚…",
+          "text": "认识她，你有食神啦！你让蓝砚带你去山里吃农家菜，点名要去可以自带食材加工的农庄，你说是嘉明指定那家，她就知道了。那条山路特别难走，没有她这样有经验的本地人带路，我怕你走到天黑都找不到。你们尽管去吃，报我名字就行，老板认识我的，吃完入我数！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/6ee5ea3ec0c3444bb74847bcad46a12e_5518969916362811675.mp3",
+          "audioName": "关于蓝砚…_en.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其一",
+          "text": "镖师里最会舞兽的，舞兽师傅里运过最多镖的，怎么样？这样介绍不知道能不能让你记住我咧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e167c9875d8358e1f811f92fa47019c8_6816715186388104156.mp3",
+          "audioName": "32想要了解嘉明·其一_en.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其二",
+          "text": "是不是三脚猫功夫看基本功就知道了，扎马、踢腿、劈叉、弹跳、翻滚…连这些都半桶水，轻则从高桩上跌下来，躺他个一头半个月。重则运镖打不过人，失镖丧命…吓不吓人？吓人就对了嘛，当初我就是这样说服镖局的兄弟每日同我一起练功的，哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/49f9959a54cb5bc49a2ef4133dd50e73_4723604069898426521.mp3",
+          "audioName": "33想要了解嘉明·其二_en.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其三",
+          "text": "兽首兽披啊、锣鼓钹镲啊，练得多了旧得也快，要勤力点养护，这里面得花不少钱呢。再加上平时请人吃饭喝茶、过时过节送送礼、兄弟们周转不灵借点钱…七七八八加起来，一个月走镖赚的钱就没几多剩了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/398086195c036d88cb005e2b3b180fab_6290765520297400395.mp3",
+          "audioName": "34想要了解嘉明·其三_en.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其四",
+          "text": "老爸一直想我跟他学做生意，不是没想过啊我，正是因为想清楚了才离家出走的。一来要证明给他看，我舞兽不是三分钟热度，一定会出人头地！二来嘛，也可以跟老爸少打点仗…两父子哪有隔夜仇的，我不是恨他，只是他每次开口火药味都很重，我避得到就避咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/3e6a11f1b10d620c11923b6445dbad12_8094273177520599645.mp3",
+          "audioName": "35想要了解嘉明·其四_en.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其五",
+          "text": "嗱，这里，前两日练踢腿，淤了一片…这个包，上个月练翻滚的时候撞的，已经快好咯~这个疤就厉害了，是我第一次上高桩时摔下来弄的，那时流了好多好多血，差点以为我的舞兽生涯刚刚开始就要结束了…不过好彩，这么多年来都是有惊无险，我还能继续…嗯，一定要继续。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/c3241eb36fa370164ce61eb3e1bf87fa_2413198998608114768.mp3",
+          "audioName": "36想要了解嘉明·其五_en.mp3"
+        },
+        {
+          "name": "嘉明的爱好…",
+          "text": "早茶不只有茶啦，还有各种甜点咸点，有即点即上的也有现点现做的，每次喝完早茶我都不用吃午饭了。你得闲就叫我，我请你饮茶！想吃什么就点什么，没所谓的吃不完打包回去嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/27ee6574627f483ee12a12ab8eac7449_5792019416394974597.mp3",
+          "audioName": "37嘉明的爱好…_en.mp3"
+        },
+        {
+          "name": "嘉明的烦恼…",
+          "text": "什么？！茶位费就算了，擦手帕都要另外收钱的？好在我自己有带，退掉退掉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/ebe91add33d6ec67253aa0b9a53ec335_8890587919633461710.mp3",
+          "audioName": "38嘉明的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "小时候很顽皮的我，还记得每次闯祸后我不听教，我老妈都会气得骂一句「生块叉烧好过生你」，现在每次吃叉烧，还挺想老妈的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/7882897978eaef6581fa335e14be7940_5183583666644273094.mp3",
+          "audioName": "39喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "他们总说我口味刁钻，我的要求很简单啊——禽肉有禽肉味，鱼肉有鱼肉味，很过分吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e5e90d0e57acb14347999ba136fa0069_4622747571068881399.mp3",
+          "audioName": "40讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这个味道——难道阁下的真实身份就是「神」？没说错吧？「厨神」阁下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/d18928f0af0bd8bbfe4867ec6cdf77ca_4811612361198234661.mp3",
+          "audioName": "41收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你亲手做的？有心了有心了！这样的烹饪水平，摆到明是高手啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/3cc39d1832d7f183cfb5978c982a05f5_7179855482985596634.mp3",
+          "audioName": "42收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "错就要认，打就要立正！如果我哪里行差踏错了不如你还是直接打我一顿吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e66279a1590db18434916dfb2701e5c8_2473676443329689182.mp3",
+          "audioName": "43收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "不是吧你，生日这么好的日子都不提前告诉我？好在我已经在新月轩订好一桌子菜啦，八菜一汤白饭任装，还有寿包和糖水，叫多点朋友一起来贺一贺呀。另外咧，我还准备了一小段祝寿舞兽戏，小小意思，不成敬意，希望你钟意啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/1222bc521e0fcc25a7645f6370b9d1da_8926243705423692005.mp3",
+          "audioName": "44生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "哇，这些都给我了？这么大手笔，怎么好意思啊？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b3ec64a98c62199c7be3b50011277d6a_5628325867844961518.mp3",
+          "audioName": "45突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "哈哈，真看得起我啊，那我不练个砂煲那么大的拳头有点对不住你喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/aabce678ebaf618f43608f21e0612566_5749408423373495469.mp3",
+          "audioName": "46突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "走镖也是镖，保镖也是镖，信得过我的话，以后我来当你保镖咯？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/108a539d351c1681375b3c8b5ea330ee_4027319891279910104.mp3",
+          "audioName": "47突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "多谢你为我的兽首点睛，接下来的旅途，不敢说包你顺风顺水，但我一定会落力豁出去，帮你采青！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e28785ef52322981988b6e0624ef1a04_9101265671895067400.mp3",
+          "audioName": "48突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "对不住咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/4d0a37a26d352e86576cf5948bdc6ab8_2572566352742047164.mp3",
+          "audioName": "49元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "采青先！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e0e27916b65031d376fa5dd06b20ad3a_709201097518675131.mp3",
+          "audioName": "50元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "中头奖啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/dadaa2a4b45433d7ba9e89606ca3cdcd_34404950109595203.mp3",
+          "audioName": "51元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "鸿运当头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5ba7af572fad8165c98a54873362951b_4433057090699912531.mp3",
+          "audioName": "52元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "文仔，到你出马！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/ff37b058040af32f97f946568b665d0d_6000498787250580673.mp3",
+          "audioName": "53元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "威水舞兽！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/d34036e6ca604a5f6ce5186dd847b2eb_6468843748697818065.mp3",
+          "audioName": "54元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "哇，好靓喔这批货！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/20b43b4a66be6d2d806efdb7cda1eba1_8737191155728557258.mp3",
+          "audioName": "55打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这趟镖要运去哪呢老板？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a7be79a021b4c3cd08234d9940a19ea2_6617596309755768628.mp3",
+          "audioName": "56打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "淡淡定定，有财进。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/c419a58b020652c668707251cdeeff7a_8306517887991874162.mp3",
+          "audioName": "57打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "小小痛楚等于激励…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5f9e31ae183d2bec8a7b9553c0e1eec0_2409259696082179268.mp3",
+          "audioName": "58生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "呵，小意思啦…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/ee1fb4ef1bdebec95f2add8bdf671d89_1538042997903166261.mp3",
+          "audioName": "59生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "顶得住！继续！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/4d4555819d25753cfc2f48b7d73f1d7b_1430158371619130820.mp3",
+          "audioName": "60生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "歇一阵先，包在我身上！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/66f8f86ff0b0fa302154cd59e4afe729_7426240036908640859.mp3",
+          "audioName": "61同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "喂！不要硬顶啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e69c0e5fe76bd69ed4b1954bb602505f_8317095555416351204.mp3",
+          "audioName": "62同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "呵，我走先啦…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/f822a8064340afdc9e0884fe39c3e458_8147008872277393159.mp3",
+          "audioName": "63倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "还没「采青」呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/2bf563829bede4679e665ed0de6648a4_2186736428876819192.mp3",
+          "audioName": "64倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "快点走…不用理我…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/96af265a3117077be9a78f7f75cc0a2d_1693046229493227014.mp3",
+          "audioName": "65倒下·其三_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不是吧你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a20947d783b0ccbf371d4bc0b664e056_3970556140407430697.mp3",
+          "audioName": "66重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "停手！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/389139a08fe033f46fe965d1f7fee0ae_7871745401812877173.mp3",
+          "audioName": "67重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "走镖去喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/154f54c80752ee8513d4d6f33e36adf9_1562268284211258363.mp3",
+          "audioName": "68加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "收到，开桩！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/d3719daac33e60c4b8c123a87d494c7b_3457990138259706046.mp3",
+          "audioName": "69加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "急吗？不急喝个早茶先？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/4e646eaf7ba564cd3a7f2c598ba8d8d7_44203920763973395.mp3",
+          "audioName": "70加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "老板你好呀，我是和记厅的镖师，叫我嘉明就行，要运货吗你？请坐请坐，饮杯茶先，我帮你打包好货就可以排期出发咯！哦！如果是找我舞兽的话即刻可以出发！「威水舞兽队」我就是话事人，嘿嘿，失礼失礼。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/d2df94d9b4aa8e5ecc7611ff031fa12c_999626503387430052.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·舞兽",
+          "text": "咚咚锵，睁眼！咚咚咚咚锵，洗须！唔…不好不好，还要练多点先。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/de8bb59b16acc99dd9fa8c55229c0dfd_7676466607261268341.mp3",
+          "audioName": "02闲聊·舞兽_kr.mp3"
+        },
+        {
+          "name": "闲聊·走镖",
+          "text": "水路山路陆路，走镖时什么路没走过啊我？放心啦，金牌镖师不是浪得虚名的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/f5acaa5d1d5a10b3165ae0a4bd62b070_1995727888161826710.mp3",
+          "audioName": "03闲聊·走镖_kr.mp3"
+        },
+        {
+          "name": "闲聊·早茶",
+          "text": "一盅两件，再加个白灼时蔬和生滚靓粥，嗯…正啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/8c440f780d496396daffed34de5ddbf9_1914605317512854615.mp3",
+          "audioName": "04闲聊·早茶_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨啦！收衫啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a5811950789b932a3562574bb40373d9_2723367820062820925.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "嗱嗱嗱，你听，坏人发誓天打雷劈啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a9d3147086c3aead61ca7de6c4ab8d75_1994644570139836949.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "啊——咦？为什么下不到我嘴里的？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/6f44ca874f8ffd86217ab2d768bf0c18_2884271667464088112.mp3",
+          "audioName": "07下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "晒点太阳好啊，去去湿气。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b6034b3b00cb8689af346d12d88a8c94_5677258296357653091.mp3",
+          "audioName": "08阳光很好…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "这种地方买水喝肯定很贵吧？好在我自己带水了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/f1aa256562dc35645b8e809ab0d8a39d_8755097454719030964.mp3",
+          "audioName": "09在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "我练完功了，准备去喝早茶，一起？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/2f9c5a7cd880541aeac15f79bff41992_8005944673989753888.mp3",
+          "audioName": "10早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "虽然叫早茶，其实中午也能喝的，怎么说，走？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/814847c25adb3df8b5bb555c39aa5ae5_5691364447159960274.mp3",
+          "audioName": "11中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "我定到一间菜馆，夜晚才开门，听说只做熟客生意的，来都来了，不吃就走宝了，出发？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e21c421df4519ee451bbc556217d5059_3679762310965598710.mp3",
+          "audioName": "12晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "要睡了吗？饿不饿啊？不如吃个宵夜先？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/4aa509b513c3dfe64548092ee83f4836_6346258321618257770.mp3",
+          "audioName": "13晚安…_kr.mp3"
+        },
+        {
+          "name": "关于嘉明自己·老家",
+          "text": "翘英庄，去过吗？我老家。我们那里茶叶很出名的，有「松萝仙芽」，还有「游韵单丛」。这样这样，择日不如撞日，我这里有盒靓单丛，我现在带去茶楼，给你泡一壶，走走走，我埋单！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/af94cfd99d91a3e57c82e7a34daebd2c_5345937061707840782.mp3",
+          "audioName": "14关于嘉明自己·老家_kr.mp3"
+        },
+        {
+          "name": "关于嘉明自己·今时今日",
+          "text": "我嘉明今时今日，有口饭吃，还能有时间精力钻研舞兽戏，真的要多谢周围好多人的理解和提携。将心比心，我肯定会打醒十二分精神做好这份工。还有余力，就多跑跑腿啊、请人饮茶啊，又不会少块肉咯，哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/4cfe2e4d6925733fcb72ce2a8d6744e2_7744515887505851470.mp3",
+          "audioName": "15关于嘉明自己·今时今日_kr.mp3"
+        },
+        {
+          "name": "关于我们·赏脸",
+          "text": "不用运货的时候我一般在璃月港路边表演舞兽戏，赏个脸来看看？不要钱的不要钱的，只要街坊朋友看得开心我就很满足啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/2d4b2ee7c68ed785f90d990a485920ba_2877898579552718205.mp3",
+          "audioName": "16关于我们·赏脸_kr.mp3"
+        },
+        {
+          "name": "关于我们·得闲饮茶",
+          "text": "记住啊，出门靠朋友，有什么困难不要硬顶喔你，需要我帮手随时出声！欸，大吉利是！最好就别听到你有难的消息啦，出门在外，最紧要是平平安安顺顺利利，我更希望听到你约我得闲饮茶咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/442a9d6685f04c04586374bc8a23a6cb_5902024051537780310.mp3",
+          "audioName": "17关于我们·得闲饮茶_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "武侠小说有写，打通任督二脉之后就会变成武林高手，拿到神之眼的瞬间就是这种感觉…哈哈，讲笑而已！我不是什么武林高手，不过是多了点精力，那就顺手帮衬下街坊咯。不过讲开又讲，你没有神之眼都这么厉害，有了还得了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/8c5686865089c973c15c85bd9856961b_8864678399996462279.mp3",
+          "audioName": "18关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "「文仔」好调皮的，本来咧，我想他文静一点才起的这个名，呃…如你所见，好像没什么用哈哈。不过也好，生生猛猛才能将舞兽戏做得风生水起嘛。看着文仔，我也慢慢能模仿出猊兽的神态动作，一戴上兽首，感觉就来了喂，吼！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/68b54217dda7e03287a3cf84e9a52002_7872084076138938209.mp3",
+          "audioName": "19有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "有很多花花草草，或者树皮树枝，晒干后用来煲水喝，生津解渴，清热降燥，好有益的！我阿婆阿婶都跟我讲过，吃煎炸食物前后，一定要记得喝这种「凉茶」，清清体内的热气喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a8eeaae0ab4a0b1d80663e3c6a41d0c7_7620627992353563546.mp3",
+          "audioName": "20感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于香菱",
+          "text": "香菱大师傅有好多拿手菜，我最喜欢那味水煮黑背鲈，虽然每次都用水涮了两次先吃，还是辣得我「嘶哈嘶哈」，哈哈哈，不愧是万民堂的生招牌，用料真足火候真猛！下次我还吃！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/09c4f0606a38b1ff3e72938499bbdcc9_4465221946382497652.mp3",
+          "audioName": "21关于香菱_kr.mp3"
+        },
+        {
+          "name": "关于行秋",
+          "text": "飞云商会是镖局的老主顾了，印象中一直都是他们的大少爷在打理生意上的事情，有次行秋少爷难得主动问起镖物的事，我就一五一十地将飞云商会最近货物的路线和收发日子告诉他，结果他问的是能不能透露一下万文集舍最新那批货什么时候到，哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a0d9ca7bb031b0b33bb3521739b4cc7e_871970070983050708.mp3",
+          "audioName": "22关于行秋_kr.mp3"
+        },
+        {
+          "name": "关于重云",
+          "text": "听说那位仁兄有「纯阳之体」，按照我们那边的说法，他体内可能虚火很旺啊，应该多喝点凉茶喔他。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/787b0ada64d7fe810b7a77b6f61c8142_7519476662068006856.mp3",
+          "audioName": "23关于重云_kr.mp3"
+        },
+        {
+          "name": "关于刻晴",
+          "text": "多得玉衡星大人，她带头整治完遗珑埠跟璃月港之间的运输路段之后，盗贼都不敢那么猖獗了。我会不会失业？哈哈，那又未必，就算不用跟贼人打架了，担担抬抬这种粗重工夫总要有人干的嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e26fbfb235a8f78e54ef552817b490f2_6637352019925770423.mp3",
+          "audioName": "24关于刻晴_kr.mp3"
+        },
+        {
+          "name": "关于白术",
+          "text": "走镖也好舞兽也好，跌打损伤都是家常便饭。好在有白大夫，他配的药真是舟车劳顿、居家旅行的必备良药，镖局的兄弟们都托我来璃月港的时候帮手带点回去的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5c0c31624fab5ca9db587a82e6fb9f96_591842403632047831.mp3",
+          "audioName": "25关于白术_kr.mp3"
+        },
+        {
+          "name": "关于七七",
+          "text": "七七小妹妹非常热心，见我每次来不卜庐都抓很多药，觉得我是因为身体僵硬才会摔跤受伤，所以教我做了柔软体操，哈哈，好简单的，你也试试？来，一二七七…二二七七…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/d068dcc440689513952608dd303a4fc5_2269480440221674152.mp3",
+          "audioName": "26关于七七_kr.mp3"
+        },
+        {
+          "name": "关于云堇",
+          "text": "云堇大师是我榜样啊！不管内行外行，听过她的曲的都说好。真是不得了，什么时候「威水队」能做到「云翰社」一半的影响力…我做梦都会笑醒！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/6055cd0a3ee5f62b2103e0cf6130dc83_1847663613661327084.mp3",
+          "audioName": "27关于云堇_kr.mp3"
+        },
+        {
+          "name": "关于辛焱",
+          "text": "辛焱的演唱实在是太有感染力了！文仔听的时候也一直摇头晃脑的，喜欢得不得了！有机会的话真想请她一起办一个「火爆摇滚舞兽会」，你见识多，你觉得有没有搞头？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/07aebfab123d2bf650cce25cc4141cc9_5140624442096350143.mp3",
+          "audioName": "28关于辛焱_kr.mp3"
+        },
+        {
+          "name": "关于闲云",
+          "text": "闲云姨很关照我，见我的兽首磨损了，马上说要做十个八个比我人还高的兽首给我，我讲到口水都干了，她才同意在我原来这个上改良…现在我这个兽首，又威武又轻便，兽披随时随地都能飘起来，就像有仙风托住一样！我超喜欢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/36c44c5ff3a7657de6b09ac2503dde4c_6084118815612496677.mp3",
+          "audioName": "29关于闲云_kr.mp3"
+        },
+        {
+          "name": "关于钟离",
+          "text": "我猜那位钟离先生一定是位出身富贵的文人雅士。不管我运货到茶馆还是戏台，都能撞见他在喝茶听书，一看就懂很多的样子。哇，有次无意中听到他跟别人讲茶，当时我就觉得他跟我老爸肯定可以讲通宵了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/2ad90bc645fda6fc1e3f8aeae3edccd2_4547683935287201226.mp3",
+          "audioName": "30关于钟离_kr.mp3"
+        },
+        {
+          "name": "关于夏洛蒂",
+          "text": "哦，那位记者小姐啊嘛！我知道她！遗珑埠的枫丹人都喜欢看蒸汽鸟报，我也经常蹭着看看，有很多不得了的新闻都是她写的喔！哦！我记得你还上过头条啊！是不是？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/addbda885ba37b4fd3d0e847277045ad_9215371535680184051.mp3",
+          "audioName": "31关于夏洛蒂_kr.mp3"
+        },
+        {
+          "name": "关于蓝砚…",
+          "text": "认识她，你有食神啦！你让蓝砚带你去山里吃农家菜，点名要去可以自带食材加工的农庄，你说是嘉明指定那家，她就知道了。那条山路特别难走，没有她这样有经验的本地人带路，我怕你走到天黑都找不到。你们尽管去吃，报我名字就行，老板认识我的，吃完入我数！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/72633d58827f85ff0c3b6684aaac05cf_4610012938565252866.mp3",
+          "audioName": "关于蓝砚…_kr.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其一",
+          "text": "镖师里最会舞兽的，舞兽师傅里运过最多镖的，怎么样？这样介绍不知道能不能让你记住我咧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a0a3e04b450bef63d9e2207bfbacaaed_8111929926310996869.mp3",
+          "audioName": "32想要了解嘉明·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其二",
+          "text": "是不是三脚猫功夫看基本功就知道了，扎马、踢腿、劈叉、弹跳、翻滚…连这些都半桶水，轻则从高桩上跌下来，躺他个一头半个月。重则运镖打不过人，失镖丧命…吓不吓人？吓人就对了嘛，当初我就是这样说服镖局的兄弟每日同我一起练功的，哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/08982ed72c82214ac41ff1e22722a89e_5418296328731955560.mp3",
+          "audioName": "33想要了解嘉明·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其三",
+          "text": "兽首兽披啊、锣鼓钹镲啊，练得多了旧得也快，要勤力点养护，这里面得花不少钱呢。再加上平时请人吃饭喝茶、过时过节送送礼、兄弟们周转不灵借点钱…七七八八加起来，一个月走镖赚的钱就没几多剩了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/51bbb03c7eb1bd53e79bdbed336357fd_1922862344038768281.mp3",
+          "audioName": "34想要了解嘉明·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其四",
+          "text": "老爸一直想我跟他学做生意，不是没想过啊我，正是因为想清楚了才离家出走的。一来要证明给他看，我舞兽不是三分钟热度，一定会出人头地！二来嘛，也可以跟老爸少打点仗…两父子哪有隔夜仇的，我不是恨他，只是他每次开口火药味都很重，我避得到就避咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/1c5169831043b514680ea90e7ad631c7_864616015191730041.mp3",
+          "audioName": "35想要了解嘉明·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解嘉明·其五",
+          "text": "嗱，这里，前两日练踢腿，淤了一片…这个包，上个月练翻滚的时候撞的，已经快好咯~这个疤就厉害了，是我第一次上高桩时摔下来弄的，那时流了好多好多血，差点以为我的舞兽生涯刚刚开始就要结束了…不过好彩，这么多年来都是有惊无险，我还能继续…嗯，一定要继续。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/69dadd6e66caeb18ca4ac7c34270c50c_2784978512980849775.mp3",
+          "audioName": "36想要了解嘉明·其五_kr.mp3"
+        },
+        {
+          "name": "嘉明的爱好…",
+          "text": "早茶不只有茶啦，还有各种甜点咸点，有即点即上的也有现点现做的，每次喝完早茶我都不用吃午饭了。你得闲就叫我，我请你饮茶！想吃什么就点什么，没所谓的吃不完打包回去嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e1cd5b1090d0114a32b5adf2d79bbdb9_1290616683446733815.mp3",
+          "audioName": "37嘉明的爱好…_kr.mp3"
+        },
+        {
+          "name": "嘉明的烦恼…",
+          "text": "什么？！茶位费就算了，擦手帕都要另外收钱的？好在我自己有带，退掉退掉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b3ea24ec4e6296a772809bafae0915c5_641672899190623545.mp3",
+          "audioName": "38嘉明的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "小时候很顽皮的我，还记得每次闯祸后我不听教，我老妈都会气得骂一句「生块叉烧好过生你」，现在每次吃叉烧，还挺想老妈的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/ca111ad64ab3ad4b88f8b33ccc5624b5_8313029327025664095.mp3",
+          "audioName": "39喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "他们总说我口味刁钻，我的要求很简单啊——禽肉有禽肉味，鱼肉有鱼肉味，很过分吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/3798f19b5b53990dfd23cf90b64332cf_3326264746247601622.mp3",
+          "audioName": "40讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这个味道——难道阁下的真实身份就是「神」？没说错吧？「厨神」阁下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/2d1bd2df5aaf4318b176a761c01b96e7_1884394558591339240.mp3",
+          "audioName": "41收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "你亲手做的？有心了有心了！这样的烹饪水平，摆到明是高手啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/0f5b715e2b88752911699fb994c5c301_5103185531554019077.mp3",
+          "audioName": "42收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "错就要认，打就要立正！如果我哪里行差踏错了不如你还是直接打我一顿吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/81f8fad3d2b458ac2db2c5cf65cdfc7a_4006732377926350687.mp3",
+          "audioName": "43收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "不是吧你，生日这么好的日子都不提前告诉我？好在我已经在新月轩订好一桌子菜啦，八菜一汤白饭任装，还有寿包和糖水，叫多点朋友一起来贺一贺呀。另外咧，我还准备了一小段祝寿舞兽戏，小小意思，不成敬意，希望你钟意啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a7a65f8a121af12e3aa8b18166996eaf_3014408043839722256.mp3",
+          "audioName": "44生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "哇，这些都给我了？这么大手笔，怎么好意思啊？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/fdf8d6aa0deae126ee2cfb7d164a878c_8219780471335054001.mp3",
+          "audioName": "45突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "哈哈，真看得起我啊，那我不练个砂煲那么大的拳头有点对不住你喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/1fb03b033b5f59ed03511793e9a885c8_2503602099467478493.mp3",
+          "audioName": "46突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "走镖也是镖，保镖也是镖，信得过我的话，以后我来当你保镖咯？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/30fadb799a22c20e01ccd74ce1853922_3358262243433793767.mp3",
+          "audioName": "47突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "多谢你为我的兽首点睛，接下来的旅途，不敢说包你顺风顺水，但我一定会落力豁出去，帮你采青！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b7856d680fcec6415802b33cd6129541_2992920347393988179.mp3",
+          "audioName": "48突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "对不住咯。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e499af5be1621c75962e390fa4f95e5d_7934890518427514774.mp3",
+          "audioName": "49元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "采青先！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/b6d978ceb9e3d242c3bd541f20f14c92_9080376953557937396.mp3",
+          "audioName": "50元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "中头奖啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/224f6848ea3c0fd093f3600cd1cf34fa_2046629695100507287.mp3",
+          "audioName": "51元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "鸿运当头。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/64438e1cc979bcd05fa794f293c17afe_2994107261713203877.mp3",
+          "audioName": "52元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "文仔，到你出马！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/e19ce56956305cc438447e197cab00af_7655610235078718656.mp3",
+          "audioName": "53元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "威水舞兽！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/7dcfd5bfbf294e27cb00139df7fe5f2a_3882260764972944156.mp3",
+          "audioName": "54元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "哇，好靓喔这批货！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/dc8a6b303aa06922a8cfa87068f394f0_5264898435119966900.mp3",
+          "audioName": "55打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这趟镖要运去哪呢老板？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/5ddef7253ba560752145453069006461_3406856349862555187.mp3",
+          "audioName": "56打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "淡淡定定，有财进。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/02c8bf78b4753399490922f042f13b8b_6669138532025525684.mp3",
+          "audioName": "57打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "小小痛楚等于激励…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/cf5ad6002e8ae1575a511a1dfd0751b3_8615940009858672855.mp3",
+          "audioName": "58生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "呵，小意思啦…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a2deb60930b722bc47ccdd8ff4a10487_9048496206254002106.mp3",
+          "audioName": "59生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "顶得住！继续！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/847d0f8a041944a9fb015717f15aad4b_5467024216452993377.mp3",
+          "audioName": "60生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "歇一阵先，包在我身上！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/741044dde1b511b02eaa483ae9bf2d60_3444989175031798366.mp3",
+          "audioName": "61同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "喂！不要硬顶啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/feedee87555cdbe641c120ee83629f86_3724657766214385000.mp3",
+          "audioName": "62同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "呵，我走先啦…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/2fa9857618740932afef1de6b4b3d445_3310416705275656201.mp3",
+          "audioName": "63倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "还没「采青」呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/2cf5dd565da8e43dac9ab0b30f30df92_1752561296774158708.mp3",
+          "audioName": "64倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "快点走…不用理我…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/42c98e8519598625f2c46f7be85098a5_7625895035670231913.mp3",
+          "audioName": "65倒下·其三_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不是吧你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/58fca824e9acb747a891d5eb54de1eea_2778977322453469433.mp3",
+          "audioName": "66重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "停手！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/a57732bbee725a093b1459946df29ed5_7310771672699084437.mp3",
+          "audioName": "67重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "走镖去喽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/d5cc0cff141b0eada2a8f46103b09024_2021591172865390782.mp3",
+          "audioName": "68加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "收到，开桩！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/8c8f6f478b88b6cbc5578253dc8ce4c4_7949163111844166454.mp3",
+          "audioName": "69加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "急吗？不急喝个早茶先？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/02/05/16576950/60c295b541696d053b2350138c458ee1_8289914980135259607.mp3",
+          "audioName": "70加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

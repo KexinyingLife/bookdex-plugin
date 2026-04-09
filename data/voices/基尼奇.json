@@ -1,0 +1,1901 @@
+{
+  "id": "501624",
+  "name": "基尼奇",
+  "alias": [
+    "基尼奇"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "基尼奇：「马力卜」的基尼奇，初次见面，告知委托内容时请附上你的出价。阿乔：…这就没了？哎呀，真急死我了！你该先宣扬自己干活多么迅速漂亮，说点你过往的优秀战绩，抬高对方的心理预期，然后再说「这值得配上一个更好的价码！」你到底会不会做生意？阿乔：一想到我伟大圣龙库胡勒阿乔竟然和你这个臭脸的呆瓜签订了契约，啊，真是丢人丢回上个时代了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/64ff6170a48d43a1cb2c85ca03c4133e_307296786056328337.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·阿乔",
+          "text": "基尼奇：阿乔性情乖戾，多数时候，不必听信它的话。阿乔：基尼奇！！你有本事就放我出来——！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/dc608fcf2b19397f4ed06d7f78166681_3408794706503068113.mp3",
+          "audioName": "02闲聊·阿乔_cn.mp3"
+        },
+        {
+          "name": "闲聊·代价",
+          "text": "激励与抚慰是别人的强项，度量「代价」则是我的做法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/bf9d9dd12f3a0657a10eab5b4441181e_9034285163598602745.mp3",
+          "audioName": "03闲聊·代价_cn.mp3"
+        },
+        {
+          "name": "闲聊·分配",
+          "text": "七成调查，一成判断，剩下的用于出击。这是我分配精力的方式。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/2e4029b1b83cc151913d2ec93fabe555_7627678804687862354.mp3",
+          "audioName": "04闲聊·分配_cn.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "啧，裤脚还在滴水…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/506d10b6d1f525b3aff8854caa8cd4e7_5157494146859714683.mp3",
+          "audioName": "05雨过天晴…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "阿乔：是屁股会发光的虫子从天上掉下来了吗？才这么点光亮。基尼奇：我看你还没这只虫子亮。阿乔：你再说一遍？！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/51b65326817a653caa7af3fd0948d7a0_6799949747930589251.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "阿乔：我有一副墨镜，但谁都不借。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/5d6585df01154cab3cd337ea1be3d8ea_4863944688205223727.mp3",
+          "audioName": "07阳光很好…_cn.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "阿乔：待壤土与沉云交汇，黑暗吞并旷野，吾将役使狂风呼啸，焚灼尘世！基尼奇：哼，你就「吹」吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/1bafcf7befc18500dc01f92281c79a13_8267593367694098897.mp3",
+          "audioName": "08起风的时候…_cn.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "基尼奇：天气因素会提高极限运动的挑战性。阿乔：快跳一个嘛…我都忍不住看你去试了，呵呵呵呵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/dd42110a4ced9e54b31ea2b608e4d5f9_2129836218118476939.mp3",
+          "audioName": "09刮大风了…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "记得喝水。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/8df37098cc2bba674a257fcdbcd121ec_5372017590067946566.mp3",
+          "audioName": "10在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早。我正准备出门，天亮前不会回来。不用等我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/77e06e5eadbb260961e4e45c88dff949_7800732922801829278.mp3",
+          "audioName": "11早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "既然来了，随便吃点再走？给，用这个擦擦手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7cdd46209edeaa046e4cb47ee7abdaa8_8203903498980672094.mp3",
+          "audioName": "12中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "「今天」快要过去了。无论我是否对成果满意，事实都不会因此改变…接下去，该加快脚步了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/19f58bd2c13063fc1f49ab6f01dd98e7_2968164908157266984.mp3",
+          "audioName": "13晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "篝火太呛了？稍等…好了，你休息吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/9e004e8ccd07c52e296f2d6dc7230460_4444018440713731438.mp3",
+          "audioName": "14晚安…_cn.mp3"
+        },
+        {
+          "name": "关于基尼奇自己·追捧",
+          "text": "阿乔：基尼奇，你有没有反思过自己不受人们追捧的原因？看着月亮翻来覆去睡不着觉的时候，心里一定很苦恼吧？智慧圣龙库胡勒阿乔就在面前，汝为何不匍匐在地，乞求吾降下谕旨，为汝指点迷津呢？基尼奇：你一定是因为自己做得太好，才会让追随者们都想把你狠揍一顿。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f2664452f588d7c2bd200401111d6e61_1305403074483823873.mp3",
+          "audioName": "15关于基尼奇自己·追捧_cn.mp3"
+        },
+        {
+          "name": "关于基尼奇自己·猎龙人",
+          "text": "身为猎龙人，我的职业特殊，并不能获得所有人的理解。但当矛盾难以化解，两全其美之策只存在于幻想中时，总得有人弄脏双手。只要价格合适，我不介意这个人是我自己。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/8fd82b25a1a77608af2e52700294532c_1915246923518481181.mp3",
+          "audioName": "16关于基尼奇自己·猎龙人_cn.mp3"
+        },
+        {
+          "name": "关于我们·委托",
+          "text": "基尼奇：如有需要，我可以为你分担冒险家协会的委托。阿乔：记得要最棘手、最刁钻，最好有生命危险的那种！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/c67efb30856e11da56b97bb1e6ca1cd5_2191985907589638768.mp3",
+          "audioName": "17关于我们·委托_cn.mp3"
+        },
+        {
+          "name": "关于我们·朋友",
+          "text": "我知道阿乔另有图谋，但我并不介意为你涉险。我将凡事的代价挂在嘴边，但我相信这世上有些事可以不惜代价。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/46651aa205e088f412745581fac2c379_5119223085648210061.mp3",
+          "audioName": "18关于我们·朋友_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "使用「神之眼」无需代价。但不被置于明面的价格，结算时往往最为深重。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/490244cbb853869bb68c58b2e7f91ddf_8084142555049689573.mp3",
+          "audioName": "19关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "「悬木人」崇尚不受约束的绝对自由，人与龙之间重在认可与帮助，不存在契约关系。我是个例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/1324cf47ee09bf513bd3674aebcc7a91_5807752495926457898.mp3",
+          "audioName": "20有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "基尼奇：摘青蜜莓的时候，记得确认周围没有碍事的龙。阿乔：你这只吝啬的绿斑点蜥蜴！斤斤计较的爬虫！小气鬼！要不是我饿得前胸贴后背，谁看得起你手里那几个发烂发馊的破果子！基尼奇：那我自己吃了。阿乔：啊啊啊——你把我气红了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7a1ca663e1751577c596948b8f9ea2fe_3890610183458841806.mp3",
+          "audioName": "21感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于玛薇卡…",
+          "text": "一直以来，都是我索取别人的代价，直到火神大人用「还魂诗」将我从夜神之国送归。当作为支付「代价」的一方…我才完全体会到了它的含义。其于强者为筹码，其于弱者为赌注。关键的是，你是否有下注的胆量。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/eae22bafb7e33e2d61483b866448aafe_7639639759483775713.mp3",
+          "audioName": "22关于玛薇卡…_cn.mp3"
+        },
+        {
+          "name": "关于玛拉妮…",
+          "text": "我接过她的委托。她出钱让我担任「战斗顾问」，金额不菲，我答应了。但合作几次后，却看出她身手不赖。再三追问下，才知道所谓「战斗顾问」是要教授卡齐娜野外生存技巧…原来是和「自然」战斗。嗯，在我概念里，这叫「生活」。总之，这笔生意做完，我多了两位熟客。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ae291403f55aa79a1c79dccd411c8541_1921173406389568658.mp3",
+          "audioName": "23关于玛拉妮…_cn.mp3"
+        },
+        {
+          "name": "关于卡齐娜…",
+          "text": "我见过和她有关的委托。「回声之子」里有些差劲的家伙嫉妒她拥有「古名」，拐弯抹角地雇人对她的龙伙伴下手。我已让他们付出了代价。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/c231f423e140cdef7bfcfa006a59c6e9_803929896693380083.mp3",
+          "audioName": "24关于卡齐娜…_cn.mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "我见过她处理委托。我们对于解决争端的手段存在分歧。通常我会让一方彻底闭嘴，但她会让两方都说不出话，等到他们终于能在病床上开口的时候，早就忘了为何争执。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/bfda71922cf55991d9f34dfa43c69370_8763396710937955869.mp3",
+          "audioName": "25关于恰斯卡…_cn.mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "有次我路过「回声之子」，看到了一个奇怪的委托。委托人希望得到一种好养的植物。我把肉龙掌的种子送了过去，配了花盆和肥料。这种植物分布广泛，在荒野上都长势旺盛。可我过段时间去拿报酬的时候，才发现盆里连小苗都没长出来。我为高估希诺宁的园艺能力支付了代价。这是我为数不多以失败而告终的委托。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/3bfe16bf93bb2c4d8c3907dc1402d336_150684458716023926.mp3",
+          "audioName": "26关于希诺宁…_cn.mp3"
+        },
+        {
+          "name": "关于伊安珊…",
+          "text": "基尼奇：我接过她的委托，或说合作…这位运动教练经常为学员制作健身餐，计算热量精确到个位数，为此需要进购质量达标、规格精确的果实。稍微长了点斑，或者被虫咬过一口都不行。其他人觉得委托内容过于挑剔，但我恰好拥有不错的眼力，以及稳定的残次品消耗渠道。阿乔：等等？你是说…我的果汁？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/0ae827dbd8ac006f3e43e771757f7d6e_7299479959005877417.mp3",
+          "audioName": "27关于伊安珊…_cn.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "或许你猜到了，我也接过她的委托，帮她从一位稻妻商人处购买一摞摞沉重的纸制阅读品。我无意打探雇主隐私，可「烟谜主」的读物，不是缝在织物上的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/d07c90193247fde821652de817e6913a_8799309145416831690.mp3",
+          "audioName": "28关于茜特菈莉…_cn.mp3"
+        },
+        {
+          "name": "关于伊法…",
+          "text": "基尼奇：我委托过他。有次阿乔说自己「病」了，大哭大闹不肯停下。既然如此，理应送它去看最好的龙医生。他医术的确不错，阿乔被请进诊所后没一会儿就痊愈了。阿乔：你…你知道什么啊你！他就是个庸医，庸医！…你、你都不知道他说了什么你都！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/833bc7a81257e410d418c879bd4f6ef9_194435569853328446.mp3",
+          "audioName": "29关于伊法…_cn.mp3"
+        },
+        {
+          "name": "关于瓦雷莎…",
+          "text": "基尼奇：在几次清剿危险魔物的委托中，她恰好从旁经过，却主动向我提供了帮助。客气点讲，她的战斗技巧很单纯，主要靠速度和力量上的优势撞翻对手…不客气点讲，单纯过度了。\n阿乔：怎么不说下去？呵呵。基尼奇这小子为表感谢，请她来吃「悬木人」的特色菜。结果她一个人就点了三十多份「咚咚嘭嘭」，三十多份啊！还全吃下去了。你没看见，当时这只吝啬鬼基尼奇的脸都要急绿了，哈哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/08929e12edb1d3822f84bc6990b3d3b3_1176628020493031165.mp3",
+          "audioName": "基尼奇关于瓦雷莎cn.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其一",
+          "text": "我是个猎龙人。无龙可猎的时候，也接其他委托。和你算是同行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/48cb1fd8b2488de8a280e108eca98565_6091446739895491819.mp3",
+          "audioName": "30想要了解基尼奇·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其二",
+          "text": "从前我替人跑腿送信，收件人经常喊我「顺手帮个忙」。那么「顺手」值多少钱呢？往往我一开价，忙就不用帮了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7fff95fbcbc7550143cf47f59b0c511f_5512727528177952474.mp3",
+          "audioName": "31想要了解基尼奇·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其三",
+          "text": "第一次猎龙，我做了数以周计的准备。光观察、跟踪和蹲守就花费数日，制作了不下三种陷阱，还记录了它的生活规律和食物偏好…很多努力是浪费，但浪费是必要的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f96f9157459bda29710cd8d750f77042_7657831860517241784.mp3",
+          "audioName": "32想要了解基尼奇·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其四",
+          "text": "基尼奇：阿乔曾被封印在古老的遗迹中，我与它签订契约，将它放了出来。阿乔：谁知道你这个看起来就会一头栽进泥水沟的家伙，现在还活得好好的…算了算了，我烈焰之国至高领主有的是与地位相衬的美德与涵养。基尼奇：美德与涵养催促你天天盼我死？阿乔：我指的是有耐心和时间！基尼奇：…总之，只要掐准软肋，邪恶之物也能加以利用。阿乔：你个可恶的基尼奇！我今天就要借别人的手弄死你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f1f863b6edae9312557602c3c786669a_5554964352521151303.mp3",
+          "audioName": "33想要了解基尼奇·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其五",
+          "text": "迄今我都在和「代价」打交道，从大灵处获得古名「回火」——也就是「马力卜」，我并不意外。生存才能创造价值，我不会期待一切走向终结的那一天。但作为「回火」的持有者，我早有接受它灼烧的准备。它大可审视我的一生，而我不会留下遗憾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ba51e79d32bf2c19f1be38e7456d0941_557534504851978950.mp3",
+          "audioName": "34想要了解基尼奇·其五_cn.mp3"
+        },
+        {
+          "name": "基尼奇的爱好…",
+          "text": "我会尝试各类极限运动，玩腻了就换一种。在磨炼技巧的同时与恐惧感博弈…先是「面对」，而后「习惯」，最终「征服」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/43129743c57ee5f7df5e2c531fcdf56b_8415021129759928804.mp3",
+          "audioName": "35基尼奇的爱好…_cn.mp3"
+        },
+        {
+          "name": "基尼奇的烦恼…",
+          "text": "我见过有烦恼的人不是想得太多就是想得太少。我总在为自己寻找下一个目标与落点，没闲心烦恼。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/dbc664a36de38b8f05557ff73f43ad4e_3165282122216515102.mp3",
+          "audioName": "36基尼奇的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "基尼奇：在野外，我一般什么方便吃什么。最好的选择自然是肉和水果。阿乔：哟，装得像个不挑食的好孩子，我怎么从不见你摘颗粒果呀？基尼奇：背着重。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/92d476145aac8e3151d6573b08a69f32_8529330692289303178.mp3",
+          "audioName": "37喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "阿乔：生冷辛辣侵蚀尊贵圣躯，热油浊气有害五脏六腑。硬实之物不便咀嚼，酥软烂糊食之无味…基尼奇：你到底要吃什么？阿乔：当然是你的灵魂喽，噢呵呵呵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/0b7cc2f61eb1e86657795280596109a0_4126003717491459709.mp3",
+          "audioName": "38讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "基尼奇：很美味。我应该给你相应酬劳，或是其他你中意的回礼。阿乔：吐出来！你这个贪婪的蝮蛇！那里面肯定有给我的份！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/8accbad4a86cc27fc9559cc80db55eda_4988670664848131273.mp3",
+          "audioName": "39收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "基尼奇：还不错，比我预想中的味道更好。阿乔：这话难道不是在嘲笑你吗？在他心中，你就像个不会做饭的家伙呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/3a767142ccdbed6fbdf94d643179f5da_8811302611280143810.mp3",
+          "audioName": "40收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "基尼奇：…可以不付钱吗？阿乔：别还回去啊！我还没尝过呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/47bd0c8ab0e5360d5d796013ff85bf36_6254750803245829555.mp3",
+          "audioName": "41收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "基尼奇：阿乔？阿乔：知道了知道了，嘁，差使别人干活的时候积极得就跟拿钱一样，有本事你自己长出翅膀飞上天啊。你，说的就是你，还不快点到我背上来？能乘上伟大圣龙库胡勒阿乔可是值得你称道一生的殊荣。基尼奇：放心，只是一次轻松的丛林旅行。跟着我就好。路线我设计过，保证安全。阿乔：别忘了你答应我的好处！基尼奇：现在，第一步是跳上去…生日快乐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/80a78488766d48d13cd42ed33f147661_2147587935159037786.mp3",
+          "audioName": "42生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "选刀，只需要坚硬、锋利。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/257b3613c1a1e79fb1045365f67faed5_6325170294837456405.mp3",
+          "audioName": "43突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "理包，优先考虑精简、轻便…好比这柄伞就是多余的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/b1cad2ff5ad8401c5ff053bc938c6d86_8077638440621518258.mp3",
+          "audioName": "44突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "行动前，我会绑紧头巾，提醒自己保持冷静和矫健。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/98138454784c1a99020ce1b27b42ab3e_8290490590034060427.mp3",
+          "audioName": "45突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "你为我做了很多，我不会白白收下。你可以主动开价，或是接受我提供的回报…我以「马力卜」之名许诺，哪种选择都不会亏待你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/15f369149542e30b0e8d620055d27618_5719721073335765230.mp3",
+          "audioName": "46突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "阿乔：算你灵活。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/12d9e4d4884b13d556d4f2e4d21ec2bf_1459261199000314963.mp3",
+          "audioName": "47元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "阿乔：这就溜了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/91b23ebcfa55011b7a04df9b6f06050e_5535178547579451917.mp3",
+          "audioName": "48元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "阿乔：用来用去就这两招…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/03ff7f660bde6a57314fcd2937edcc37_7272604526016409421.mp3",
+          "audioName": "49元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "目标上钩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/719e79a9e2a856eae9bfae858ee82d39_7388728759754589573.mp3",
+          "audioName": "50元素战技·其四_cn.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "发现猎物。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/b46753f9de913c41b411437310d0bd9c_3389633081837700919.mp3",
+          "audioName": "51元素战技·其五_cn.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "封锁退路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/9b3d1074d0e3b11253383557d7d11abb_360313675743904145.mp3",
+          "audioName": "52元素战技·其六_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "报偿夜神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/dd40b63e99f988f3c4a9b1aa73d2f52d_7857204900478417138.mp3",
+          "audioName": "53元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "领他们上路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/622719927687f0077b12cbdaccc2d8f9_1031886151505262905.mp3",
+          "audioName": "54元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "往昔之影，奉我之命。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7235e18f3c552480794841ab6e9af882_7512536779612395222.mp3",
+          "audioName": "55元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "阿乔：圣龙君临！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/1bcb4b16bac6f0a082ecb7e1317e4c2e_4130220066002629337.mp3",
+          "audioName": "56元素爆发·其四_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "阿乔：原灵现示！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/b050a5aca661c463965435ea468396ef_7350504729144024122.mp3",
+          "audioName": "57元素爆发·其五_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其六",
+          "text": "阿乔：圣龙烈焰，将照彻汝等腐朽。阿乔：我烧烧烧烧烧。阿乔：啊哈！真是快活！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/32d87c54e6b3462610e50a1e99b0b52b_4859974697919113338.mp3",
+          "audioName": "58元素爆发·其六_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其七",
+          "text": "阿乔：汝之灵魂，应当供奉于吾。阿乔：哈？连声都不敢吭？阿乔：那就再也别吭声啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/6df8a3e5e967f10059178ff5389ee515_5467120987752304466.mp3",
+          "audioName": "59元素爆发·其七_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其八",
+          "text": "阿乔：吾之威光，无人能及！无可比拟！阿乔：更何况我现在心情不好。阿乔：渺小虫豸，付出代价吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/42bf2538d98bfb46e802dd0613253c2b_8679062721219273972.mp3",
+          "audioName": "60元素爆发·其八_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "基尼奇：见者有份？阿乔：这种破烂你居然想要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/3588ed659ef1ce8b833811d80167caa9_3354243297323786165.mp3",
+          "audioName": "61打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "基尼奇：万物皆有其用。阿乔：你是从小吃不饱饭？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/feb3acdcdc2e414a789ba831dabca3d3_2919728281093322708.mp3",
+          "audioName": "62打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "阿乔：嘁，才这么点穷酸玩意。基尼奇：不拿就走，话真多。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/4f7df6d56467de301c94d8280a526466_6554442705554809558.mp3",
+          "audioName": "63打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "…非用不可吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/6147195575737353a2e80c94a500cf50_1993941263092762221.mp3",
+          "audioName": "64打开风之翼·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "该你偿还代价了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/c4ad7f1e27912c869dc07aba10637da2_8213883157361860983.mp3",
+          "audioName": "65生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "将计就计…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/0690bf6963e1a9008979c9f238bcbaed_6933335656931255067.mp3",
+          "audioName": "66生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "阿乔：基尼奇，快完蛋，快完蛋。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7b4381cf98c3902256ea03abe2f13b49_4028450719489579713.mp3",
+          "audioName": "67生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "你知道自己处境不妙吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/eb91ec00f39868e31e5a48bb128a0695_3512353155120733099.mp3",
+          "audioName": "68同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我们来谈谈价格吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ea23d8baf5c18b34fa5f5f602dd2edbc_7532633503167576152.mp3",
+          "audioName": "69同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "不要…回头…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7782830fb1becd57659efe3e7f918812_3933094837810456082.mp3",
+          "audioName": "70倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "凡事皆有代价…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/641a33d77e88d13425da34f81cdedc7a_7350064851603444597.mp3",
+          "audioName": "71倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "阿乔：呵呵…不错的交易…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/50e619255ef3a9a67cc09b8b266522e5_6749420358003473209.mp3",
+          "audioName": "72倒下·其三_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "失手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/22c17bc10b7fdaf15fba157132b94fb0_8938696577187974586.mp3",
+          "audioName": "73重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "意外…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/c7e8cbf3a32bc7bbaefc6d230241ebf2_3390569955333595821.mp3",
+          "audioName": "74重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "成交，我接手了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/c0d55c80617e2dc285383d06f8b893fe_430027438845329354.mp3",
+          "audioName": "75加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我来解决。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7a5ac46737686ea8faa25c568864e0cf_5253930930223183068.mp3",
+          "audioName": "76加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "祝我们合作愉快。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/cca93c8e063bb5018615261982780816_7647908158929470146.mp3",
+          "audioName": "77加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "基尼奇：「马力卜」的基尼奇，初次见面，告知委托内容时请附上你的出价。阿乔：…这就没了？哎呀，真急死我了！你该先宣扬自己干活多么迅速漂亮，说点你过往的优秀战绩，抬高对方的心理预期，然后再说「这值得配上一个更好的价码！」你到底会不会做生意？阿乔：一想到我伟大圣龙库胡勒阿乔竟然和你这个臭脸的呆瓜签订了契约，啊，真是丢人丢回上个时代了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ba24ea1be691b49fd872932b920b0998_2105638486287265724.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·阿乔",
+          "text": "基尼奇：阿乔性情乖戾，多数时候，不必听信它的话。阿乔：基尼奇！！你有本事就放我出来——！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/40844f0c39e5f548b8fb470d33932438_5714260362111872188.mp3",
+          "audioName": "02闲聊·阿乔_jp.mp3"
+        },
+        {
+          "name": "闲聊·代价",
+          "text": "激励与抚慰是别人的强项，度量「代价」则是我的做法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/20559c50df189d84a19601d914ed2a5b_770003723485722880.mp3",
+          "audioName": "03闲聊·代价_jp.mp3"
+        },
+        {
+          "name": "闲聊·分配",
+          "text": "七成调查，一成判断，剩下的用于出击。这是我分配精力的方式。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/286ebe06097d788f54d1d2f3d9b35eb5_3427039794732338702.mp3",
+          "audioName": "04闲聊·分配_jp.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "啧，裤脚还在滴水…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/022b32fa2d678fbc93a511c7468d0974_7815000092047859078.mp3",
+          "audioName": "05雨过天晴…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "阿乔：是屁股会发光的虫子从天上掉下来了吗？才这么点光亮。基尼奇：我看你还没这只虫子亮。阿乔：你再说一遍？！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ebdcc0a253af67a9ffaf2ab56e820d71_1300615278989733735.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "阿乔：我有一副墨镜，但谁都不借。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/31f9e369a3957dde6c240d42b5b89bd8_3111000999638590876.mp3",
+          "audioName": "07阳光很好…_jp.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "阿乔：待壤土与沉云交汇，黑暗吞并旷野，吾将役使狂风呼啸，焚灼尘世！基尼奇：哼，你就「吹」吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/aa7ba1d5cc25a0141f351359550d6660_8686642385577763766.mp3",
+          "audioName": "08起风的时候…_jp.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "基尼奇：天气因素会提高极限运动的挑战性。阿乔：快跳一个嘛…我都忍不住看你去试了，呵呵呵呵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/2c9d6e1fde5938e53455180f170ccce4_4293307294532670.mp3",
+          "audioName": "09刮大风了…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "记得喝水。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/095a284459a7e1cac50e8e5247adb049_4795790093717993819.mp3",
+          "audioName": "10在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早。我正准备出门，天亮前不会回来。不用等我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/70d9274811c5016be34c1f6a2793ac31_8084427016431700370.mp3",
+          "audioName": "11早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "既然来了，随便吃点再走？给，用这个擦擦手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/dcfd49cca17fa8d1c4b5c24a802fada3_727545361556135456.mp3",
+          "audioName": "12中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "「今天」快要过去了。无论我是否对成果满意，事实都不会因此改变…接下去，该加快脚步了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/df4ef3f3b4057a1902bc4db27be88427_6313923643155143240.mp3",
+          "audioName": "13晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "篝火太呛了？稍等…好了，你休息吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/02c401a95cb81ce9be66f8b9b2fcf6d2_484329732996754571.mp3",
+          "audioName": "14晚安…_jp.mp3"
+        },
+        {
+          "name": "关于基尼奇自己·追捧",
+          "text": "阿乔：基尼奇，你有没有反思过自己不受人们追捧的原因？看着月亮翻来覆去睡不着觉的时候，心里一定很苦恼吧？智慧圣龙库胡勒阿乔就在面前，汝为何不匍匐在地，乞求吾降下谕旨，为汝指点迷津呢？基尼奇：你一定是因为自己做得太好，才会让追随者们都想把你狠揍一顿。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7955adb04e2595e0d932e2d8d562f43a_4533498246421843806.mp3",
+          "audioName": "15关于基尼奇自己·追捧_jp.mp3"
+        },
+        {
+          "name": "关于基尼奇自己·猎龙人",
+          "text": "身为猎龙人，我的职业特殊，并不能获得所有人的理解。但当矛盾难以化解，两全其美之策只存在于幻想中时，总得有人弄脏双手。只要价格合适，我不介意这个人是我自己。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/2a4f6792218df51b1ef8d76346da4ff8_421202130706672022.mp3",
+          "audioName": "16关于基尼奇自己·猎龙人_jp.mp3"
+        },
+        {
+          "name": "关于我们·委托",
+          "text": "基尼奇：如有需要，我可以为你分担冒险家协会的委托。阿乔：记得要最棘手、最刁钻，最好有生命危险的那种！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/0795e21f3ba4c8e0e9db92763d1b523c_4133251867218858178.mp3",
+          "audioName": "17关于我们·委托_jp.mp3"
+        },
+        {
+          "name": "关于我们·朋友",
+          "text": "我知道阿乔另有图谋，但我并不介意为你涉险。我将凡事的代价挂在嘴边，但我相信这世上有些事可以不惜代价。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/fadb947db0ad8beeb84aa11bdafc8a8b_5355256623635646653.mp3",
+          "audioName": "18关于我们·朋友_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "使用「神之眼」无需代价。但不被置于明面的价格，结算时往往最为深重。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/fa1124553d642891370d7c786f60cab1_3687483995672232305.mp3",
+          "audioName": "19关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "「悬木人」崇尚不受约束的绝对自由，人与龙之间重在认可与帮助，不存在契约关系。我是个例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/1d1356192bd8e96c8f26ad13d146017f_6922336327840272621.mp3",
+          "audioName": "20有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "基尼奇：摘青蜜莓的时候，记得确认周围没有碍事的龙。阿乔：你这只吝啬的绿斑点蜥蜴！斤斤计较的爬虫！小气鬼！要不是我饿得前胸贴后背，谁看得起你手里那几个发烂发馊的破果子！基尼奇：那我自己吃了。阿乔：啊啊啊——你把我气红了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7cdcd0c354cfdd9e36be3d4efbe4b339_4501139321514269174.mp3",
+          "audioName": "21感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于玛薇卡…",
+          "text": "一直以来，都是我索取别人的代价，直到火神大人用「还魂诗」将我从夜神之国送归。当作为支付「代价」的一方…我才完全体会到了它的含义。其于强者为筹码，其于弱者为赌注。关键的是，你是否有下注的胆量。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/3eea8b157426df9e77b6328e11a30c5e_1658188024699969580.mp3",
+          "audioName": "22关于玛薇卡…_jp.mp3"
+        },
+        {
+          "name": "关于玛拉妮…",
+          "text": "我接过她的委托。她出钱让我担任「战斗顾问」，金额不菲，我答应了。但合作几次后，却看出她身手不赖。再三追问下，才知道所谓「战斗顾问」是要教授卡齐娜野外生存技巧…原来是和「自然」战斗。嗯，在我概念里，这叫「生活」。总之，这笔生意做完，我多了两位熟客。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/5ab10319d3558e0d3c9163e3325ea31f_4269056234529051810.mp3",
+          "audioName": "23关于玛拉妮…_jp.mp3"
+        },
+        {
+          "name": "关于卡齐娜…",
+          "text": "我见过和她有关的委托。「回声之子」里有些差劲的家伙嫉妒她拥有「古名」，拐弯抹角地雇人对她的龙伙伴下手。我已让他们付出了代价。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/e4aa3dc8c17c447f77fcde55a19cbb64_6240319616096641450.mp3",
+          "audioName": "24关于卡齐娜…_jp.mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "我见过她处理委托。我们对于解决争端的手段存在分歧。通常我会让一方彻底闭嘴，但她会让两方都说不出话，等到他们终于能在病床上开口的时候，早就忘了为何争执。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/27709bd3bb3a07ca79f811adf1ee1401_9220955324204078833.mp3",
+          "audioName": "25关于恰斯卡…_jp.mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "有次我路过「回声之子」，看到了一个奇怪的委托。委托人希望得到一种好养的植物。我把肉龙掌的种子送了过去，配了花盆和肥料。这种植物分布广泛，在荒野上都长势旺盛。可我过段时间去拿报酬的时候，才发现盆里连小苗都没长出来。我为高估希诺宁的园艺能力支付了代价。这是我为数不多以失败而告终的委托。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/b975e12a2b11daeeaee4b2d7412821de_1543379448347820742.mp3",
+          "audioName": "26关于希诺宁…_jp.mp3"
+        },
+        {
+          "name": "关于伊安珊…",
+          "text": "基尼奇：我接过她的委托，或说合作…这位运动教练经常为学员制作健身餐，计算热量精确到个位数，为此需要进购质量达标、规格精确的果实。稍微长了点斑，或者被虫咬过一口都不行。其他人觉得委托内容过于挑剔，但我恰好拥有不错的眼力，以及稳定的残次品消耗渠道。阿乔：等等？你是说…我的果汁？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/5279d785425fdf5041ae4e0243e46ee0_6592999436292390313.mp3",
+          "audioName": "27关于伊安珊…_jp.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "或许你猜到了，我也接过她的委托，帮她从一位稻妻商人处购买一摞摞沉重的纸制阅读品。我无意打探雇主隐私，可「烟谜主」的读物，不是缝在织物上的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/903231ccb7a523522cf90eb32bdc90b6_8375596426943781595.mp3",
+          "audioName": "28关于茜特菈莉…_jp.mp3"
+        },
+        {
+          "name": "关于伊法…",
+          "text": "基尼奇：我委托过他。有次阿乔说自己「病」了，大哭大闹不肯停下。既然如此，理应送它去看最好的龙医生。他医术的确不错，阿乔被请进诊所后没一会儿就痊愈了。阿乔：你…你知道什么啊你！他就是个庸医，庸医！…你、你都不知道他说了什么你都！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ec61c71a07815f080fba497f81b03138_1199278713168291302.mp3",
+          "audioName": "29关于伊法…_jp.mp3"
+        },
+        {
+          "name": "关于瓦雷莎…",
+          "text": "基尼奇：在几次清剿危险魔物的委托中，她恰好从旁经过，却主动向我提供了帮助。客气点讲，她的战斗技巧很单纯，主要靠速度和力量上的优势撞翻对手…不客气点讲，单纯过度了。\n阿乔：怎么不说下去？呵呵。基尼奇这小子为表感谢，请她来吃「悬木人」的特色菜。结果她一个人就点了三十多份「咚咚嘭嘭」，三十多份啊！还全吃下去了。你没看见，当时这只吝啬鬼基尼奇的脸都要急绿了，哈哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/d394e74a923b875bb704c690688d5556_3959661555211292587.mp3",
+          "audioName": "基尼奇关于瓦雷莎jp.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其一",
+          "text": "我是个猎龙人。无龙可猎的时候，也接其他委托。和你算是同行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/d6a5d2ca629498be0d7f2a146feb4115_3303078585291342223.mp3",
+          "audioName": "30想要了解基尼奇·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其二",
+          "text": "从前我替人跑腿送信，收件人经常喊我「顺手帮个忙」。那么「顺手」值多少钱呢？往往我一开价，忙就不用帮了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f38d213a8c2912250f8062fd0aa20e91_3201203861575706187.mp3",
+          "audioName": "31想要了解基尼奇·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其三",
+          "text": "第一次猎龙，我做了数以周计的准备。光观察、跟踪和蹲守就花费数日，制作了不下三种陷阱，还记录了它的生活规律和食物偏好…很多努力是浪费，但浪费是必要的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/9c40eb86765d17c66293b43ab573cc6a_1702813425884492658.mp3",
+          "audioName": "32想要了解基尼奇·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其四",
+          "text": "基尼奇：阿乔曾被封印在古老的遗迹中，我与它签订契约，将它放了出来。阿乔：谁知道你这个看起来就会一头栽进泥水沟的家伙，现在还活得好好的…算了算了，我烈焰之国至高领主有的是与地位相衬的美德与涵养。基尼奇：美德与涵养催促你天天盼我死？阿乔：我指的是有耐心和时间！基尼奇：…总之，只要掐准软肋，邪恶之物也能加以利用。阿乔：你个可恶的基尼奇！我今天就要借别人的手弄死你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/9c72c1ee40e67cbabf5cf5f2920fd405_870873506406486236.mp3",
+          "audioName": "33想要了解基尼奇·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其五",
+          "text": "迄今我都在和「代价」打交道，从大灵处获得古名「回火」——也就是「马力卜」，我并不意外。生存才能创造价值，我不会期待一切走向终结的那一天。但作为「回火」的持有者，我早有接受它灼烧的准备。它大可审视我的一生，而我不会留下遗憾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7d4f820feadaf2d577789019d045e96a_5660515698143465929.mp3",
+          "audioName": "34想要了解基尼奇·其五_jp.mp3"
+        },
+        {
+          "name": "基尼奇的爱好…",
+          "text": "我会尝试各类极限运动，玩腻了就换一种。在磨炼技巧的同时与恐惧感博弈…先是「面对」，而后「习惯」，最终「征服」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/3a402b7adb1e9078d1b7e82bf9d4976b_2829656673166647624.mp3",
+          "audioName": "35基尼奇的爱好…_jp.mp3"
+        },
+        {
+          "name": "基尼奇的烦恼…",
+          "text": "我见过有烦恼的人不是想得太多就是想得太少。我总在为自己寻找下一个目标与落点，没闲心烦恼。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f47e5e56179a7b28cbd54236e5e2be6d_8460303458751174392.mp3",
+          "audioName": "36基尼奇的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "基尼奇：在野外，我一般什么方便吃什么。最好的选择自然是肉和水果。阿乔：哟，装得像个不挑食的好孩子，我怎么从不见你摘颗粒果呀？基尼奇：背着重。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/6aaed2cf98a0a16fbc35313601b59a93_342571196364458293.mp3",
+          "audioName": "37喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "阿乔：生冷辛辣侵蚀尊贵圣躯，热油浊气有害五脏六腑。硬实之物不便咀嚼，酥软烂糊食之无味…基尼奇：你到底要吃什么？阿乔：当然是你的灵魂喽，噢呵呵呵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/a9caae9114697514c86ec8db880178a0_2785587670837563307.mp3",
+          "audioName": "38讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "基尼奇：很美味。我应该给你相应酬劳，或是其他你中意的回礼。阿乔：吐出来！你这个贪婪的蝮蛇！那里面肯定有给我的份！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/39c878d1a4d523485a148fbc192b29a3_5509358921238612018.mp3",
+          "audioName": "39收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "基尼奇：还不错，比我预想中的味道更好。阿乔：这话难道不是在嘲笑你吗？在他心中，你就像个不会做饭的家伙呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/8a02fd8b07288f05659998d57a9ecb51_3625009511492684232.mp3",
+          "audioName": "40收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "基尼奇：…可以不付钱吗？阿乔：别还回去啊！我还没尝过呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/01169e4946919b4fd34325f40c153dac_9079251416235419028.mp3",
+          "audioName": "41收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "基尼奇：阿乔？阿乔：知道了知道了，嘁，差使别人干活的时候积极得就跟拿钱一样，有本事你自己长出翅膀飞上天啊。你，说的就是你，还不快点到我背上来？能乘上伟大圣龙库胡勒阿乔可是值得你称道一生的殊荣。基尼奇：放心，只是一次轻松的丛林旅行。跟着我就好。路线我设计过，保证安全。阿乔：别忘了你答应我的好处！基尼奇：现在，第一步是跳上去…生日快乐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ce70d5e5123b29f5246df8d0f85ef3ba_3434259311022914464.mp3",
+          "audioName": "42生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "选刀，只需要坚硬、锋利。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/5124080f58f05d2507a7f4ba8f88454c_8741091316885813526.mp3",
+          "audioName": "43突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "理包，优先考虑精简、轻便…好比这柄伞就是多余的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f11488fa9b0290fe1bed3cf28e205aa0_153136865968820436.mp3",
+          "audioName": "44突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "行动前，我会绑紧头巾，提醒自己保持冷静和矫健。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/889df673b3449c019a8a24ec8e5a355f_5178694878027594460.mp3",
+          "audioName": "45突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "你为我做了很多，我不会白白收下。你可以主动开价，或是接受我提供的回报…我以「马力卜」之名许诺，哪种选择都不会亏待你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f5fdcf23c09e2914f8a9dbc97c25ce4d_4390972774168096821.mp3",
+          "audioName": "46突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "阿乔：算你灵活。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/1fb06a0c040e651375a8ef8c6f82b30d_5182330606116677680.mp3",
+          "audioName": "47元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "阿乔：这就溜了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/c0e043de92ad2c7d140f85b20d810c85_3325858055107109396.mp3",
+          "audioName": "48元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "阿乔：用来用去就这两招…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/8022139fc1cdaafccdf15afd8f64bc4e_494394180408550264.mp3",
+          "audioName": "49元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "目标上钩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/247f4cce5651505ad018a99d6c8e8004_5425980726590039112.mp3",
+          "audioName": "50元素战技·其四_jp.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "发现猎物。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/80bb34f656b0701fd733f77617717955_2196262028956308786.mp3",
+          "audioName": "51元素战技·其五_jp.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "封锁退路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/9c4e80e15e9f4aba1db437ee53e5e813_7687237845098180445.mp3",
+          "audioName": "52元素战技·其六_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "报偿夜神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/75fffda3a5e7f6e97641397209379ea2_8077309865318891709.mp3",
+          "audioName": "53元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "领他们上路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/65876621d9038a19123172eff7b3f4a6_8454053847108211368.mp3",
+          "audioName": "54元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "往昔之影，奉我之命。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/dd33382799b987323b7cacecf7ed3cb0_3419195367661275219.mp3",
+          "audioName": "55元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "阿乔：圣龙君临！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/f182cb9678e16733830df9d31aff32e2_8302862975747242170.mp3",
+          "audioName": "56元素爆发·其四_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "阿乔：原灵现示！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/0f72fef64ef46584d4201f294eac649b_5413593662182545395.mp3",
+          "audioName": "57元素爆发·其五_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其六",
+          "text": "阿乔：圣龙烈焰，将照彻汝等腐朽。阿乔：我烧烧烧烧烧。阿乔：啊哈！真是快活！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/36ec4bde4dbea859b72c0849d07c93ca_3170647985064914729.mp3",
+          "audioName": "58元素爆发·其六_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其七",
+          "text": "阿乔：汝之灵魂，应当供奉于吾。阿乔：哈？连声都不敢吭？阿乔：那就再也别吭声啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/44754f1a23128192f7aba2851e3ab436_1826665965643109166.mp3",
+          "audioName": "59元素爆发·其七_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其八",
+          "text": "阿乔：吾之威光，无人能及！无可比拟！阿乔：更何况我现在心情不好。阿乔：渺小虫豸，付出代价吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/78cf655b246577b3c137c162bb638838_1670831747806713621.mp3",
+          "audioName": "60元素爆发·其八_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "基尼奇：见者有份？阿乔：这种破烂你居然想要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/d638e095b3b50b8d34bac18996cfc78c_6036941979283969045.mp3",
+          "audioName": "61打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "基尼奇：万物皆有其用。阿乔：你是从小吃不饱饭？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/40c3a081436607a4d29b3c21a6ebed4f_912732487644922381.mp3",
+          "audioName": "62打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "阿乔：嘁，才这么点穷酸玩意。基尼奇：不拿就走，话真多。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ca1bf000b7ab0f27a1b59fb6dc905127_1820864014683915539.mp3",
+          "audioName": "63打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "…非用不可吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/669de13a16eeaad6078c6ed3c9a22df0_8544980209049405545.mp3",
+          "audioName": "64打开风之翼·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "该你偿还代价了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/a1d9993553fa42c9fce9c8e844d45778_5995882938151669475.mp3",
+          "audioName": "65生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "将计就计…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/4e1b7afd92c02c7e961c418d6950e334_8087252169545659039.mp3",
+          "audioName": "66生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "阿乔：基尼奇，快完蛋，快完蛋。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ebd0ac01315ebcfa2c3e32b77be0a4f6_3917422479777457892.mp3",
+          "audioName": "67生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "你知道自己处境不妙吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/c696ac9b618f64d485054568c09b969a_6626715300407471699.mp3",
+          "audioName": "68同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我们来谈谈价格吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/b4dbfec56316669e3de8a6c950bc3700_2909041270355618745.mp3",
+          "audioName": "69同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "不要…回头…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/440b9c8c7a9820bee16de96225dc48bc_4755892350295754728.mp3",
+          "audioName": "70倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "凡事皆有代价…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/110a510b8e6ce5612fa7d0d0467aeaf0_7166707822710342364.mp3",
+          "audioName": "71倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "阿乔：呵呵…不错的交易…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/d7aab0f523e2bcd42bae31a920f1e522_9042757706169031542.mp3",
+          "audioName": "72倒下·其三_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "失手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/88d72f0cac57af7a0d6e9dbcf2af900e_5678899158160651870.mp3",
+          "audioName": "73重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "意外…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/fa4f1c155cd82876468d050bdb1f25ac_847197135902762867.mp3",
+          "audioName": "74重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "成交，我接手了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/4dc3760eb944e7b25670faf025d3d1ef_5130696344350003138.mp3",
+          "audioName": "75加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我来解决。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/6d9e6df7f6023c9189b54b88ea04ec40_7245362126028958174.mp3",
+          "audioName": "76加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "祝我们合作愉快。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7170acd6e6c809de0157ad31f1052945_7547157151157672923.mp3",
+          "audioName": "77加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "基尼奇：「马力卜」的基尼奇，初次见面，告知委托内容时请附上你的出价。阿乔：…这就没了？哎呀，真急死我了！你该先宣扬自己干活多么迅速漂亮，说点你过往的优秀战绩，抬高对方的心理预期，然后再说「这值得配上一个更好的价码！」你到底会不会做生意？阿乔：一想到我伟大圣龙库胡勒阿乔竟然和你这个臭脸的呆瓜签订了契约，啊，真是丢人丢回上个时代了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/5caac909a3019de246a26a6d1411baf1_2939825918990335545.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·阿乔",
+          "text": "基尼奇：阿乔性情乖戾，多数时候，不必听信它的话。阿乔：基尼奇！！你有本事就放我出来——！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/d87de3032afffcc041b673dafb8d55d0_4856840987263918977.mp3",
+          "audioName": "02闲聊·阿乔_en.mp3"
+        },
+        {
+          "name": "闲聊·代价",
+          "text": "激励与抚慰是别人的强项，度量「代价」则是我的做法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/03cc248b968956d565c81435e89f657d_5304785239627375465.mp3",
+          "audioName": "03闲聊·代价_en.mp3"
+        },
+        {
+          "name": "闲聊·分配",
+          "text": "七成调查，一成判断，剩下的用于出击。这是我分配精力的方式。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/631c69bb9937ebb066a56051d1eafbb4_6110894433454420138.mp3",
+          "audioName": "04闲聊·分配_en.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "啧，裤脚还在滴水…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/2e80d431b67cda5e39517130a26cc5c3_8477088953415086627.mp3",
+          "audioName": "05雨过天晴…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "阿乔：是屁股会发光的虫子从天上掉下来了吗？才这么点光亮。基尼奇：我看你还没这只虫子亮。阿乔：你再说一遍？！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/4d9fbeb27b844e619813055edcb1cda3_1001950523692097935.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "阿乔：我有一副墨镜，但谁都不借。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/11e5f9ace8980f0b859a1d55fbfe715e_3171732761464811302.mp3",
+          "audioName": "07阳光很好…_en.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "阿乔：待壤土与沉云交汇，黑暗吞并旷野，吾将役使狂风呼啸，焚灼尘世！基尼奇：哼，你就「吹」吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/85e5318a4e15f6b342bf9bd99b55151d_862529788685858683.mp3",
+          "audioName": "08起风的时候…_en.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "基尼奇：天气因素会提高极限运动的挑战性。阿乔：快跳一个嘛…我都忍不住看你去试了，呵呵呵呵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f2a5f205b57f7db9524b322b718c0a39_7613184275080341409.mp3",
+          "audioName": "09刮大风了…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "记得喝水。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/89ce4c8ff89aa29e8c5e2d980989bef9_5832702700378303665.mp3",
+          "audioName": "10在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早。我正准备出门，天亮前不会回来。不用等我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/07cde01ef4e52f3182ff3ec43ece8e7e_9090289299544829973.mp3",
+          "audioName": "11早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "既然来了，随便吃点再走？给，用这个擦擦手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/407a5026324a9b830c8208ef2ef1e96f_7823045169505346656.mp3",
+          "audioName": "12中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "「今天」快要过去了。无论我是否对成果满意，事实都不会因此改变…接下去，该加快脚步了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/8de9cca8acee99e4c145d185311b3fbb_6319570474124026274.mp3",
+          "audioName": "13晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "篝火太呛了？稍等…好了，你休息吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/90da5fdd95257427bd4d4f6cd45acd22_3983332481329325051.mp3",
+          "audioName": "14晚安…_en.mp3"
+        },
+        {
+          "name": "关于基尼奇自己·追捧",
+          "text": "阿乔：基尼奇，你有没有反思过自己不受人们追捧的原因？看着月亮翻来覆去睡不着觉的时候，心里一定很苦恼吧？智慧圣龙库胡勒阿乔就在面前，汝为何不匍匐在地，乞求吾降下谕旨，为汝指点迷津呢？基尼奇：你一定是因为自己做得太好，才会让追随者们都想把你狠揍一顿。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/8ab0ca20c938a7ecc515f098f7f88be4_3359716514202012952.mp3",
+          "audioName": "15关于基尼奇自己·追捧_en.mp3"
+        },
+        {
+          "name": "关于基尼奇自己·猎龙人",
+          "text": "身为猎龙人，我的职业特殊，并不能获得所有人的理解。但当矛盾难以化解，两全其美之策只存在于幻想中时，总得有人弄脏双手。只要价格合适，我不介意这个人是我自己。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/fcd86aa17e9d8b522d1d18a3dfd23533_3327969684011721774.mp3",
+          "audioName": "16关于基尼奇自己·猎龙人_en.mp3"
+        },
+        {
+          "name": "关于我们·委托",
+          "text": "基尼奇：如有需要，我可以为你分担冒险家协会的委托。阿乔：记得要最棘手、最刁钻，最好有生命危险的那种！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/8bf0d0610bc474b9a1e5d68c18de4e4d_4153600026572831165.mp3",
+          "audioName": "17关于我们·委托_en.mp3"
+        },
+        {
+          "name": "关于我们·朋友",
+          "text": "我知道阿乔另有图谋，但我并不介意为你涉险。我将凡事的代价挂在嘴边，但我相信这世上有些事可以不惜代价。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/16e28d9776fde021d5cb125b82d02c94_6075143851744169633.mp3",
+          "audioName": "18关于我们·朋友_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "使用「神之眼」无需代价。但不被置于明面的价格，结算时往往最为深重。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/b5931eee3dee376b7f261f13208b019b_3939152288841627962.mp3",
+          "audioName": "19关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "「悬木人」崇尚不受约束的绝对自由，人与龙之间重在认可与帮助，不存在契约关系。我是个例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/c592f489b06390f6319b62df3bdb4d47_8871499004698584432.mp3",
+          "audioName": "20有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "基尼奇：摘青蜜莓的时候，记得确认周围没有碍事的龙。阿乔：你这只吝啬的绿斑点蜥蜴！斤斤计较的爬虫！小气鬼！要不是我饿得前胸贴后背，谁看得起你手里那几个发烂发馊的破果子！基尼奇：那我自己吃了。阿乔：啊啊啊——你把我气红了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/78c433401db74b245be0fd9b118e3167_8145615169921760950.mp3",
+          "audioName": "21感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于玛薇卡…",
+          "text": "一直以来，都是我索取别人的代价，直到火神大人用「还魂诗」将我从夜神之国送归。当作为支付「代价」的一方…我才完全体会到了它的含义。其于强者为筹码，其于弱者为赌注。关键的是，你是否有下注的胆量。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f49922f3c99b48a725961fdd386d3ef4_3556230571819088624.mp3",
+          "audioName": "22关于玛薇卡…_en.mp3"
+        },
+        {
+          "name": "关于玛拉妮…",
+          "text": "我接过她的委托。她出钱让我担任「战斗顾问」，金额不菲，我答应了。但合作几次后，却看出她身手不赖。再三追问下，才知道所谓「战斗顾问」是要教授卡齐娜野外生存技巧…原来是和「自然」战斗。嗯，在我概念里，这叫「生活」。总之，这笔生意做完，我多了两位熟客。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/e7045c3851df44755efdc409b3599e4d_3967340565027591380.mp3",
+          "audioName": "23关于玛拉妮…_en.mp3"
+        },
+        {
+          "name": "关于卡齐娜…",
+          "text": "我见过和她有关的委托。「回声之子」里有些差劲的家伙嫉妒她拥有「古名」，拐弯抹角地雇人对她的龙伙伴下手。我已让他们付出了代价。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/21f9f2fcfaa702b16265a6f29f7c77f3_8404137705309681717.mp3",
+          "audioName": "24关于卡齐娜…_en.mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "我见过她处理委托。我们对于解决争端的手段存在分歧。通常我会让一方彻底闭嘴，但她会让两方都说不出话，等到他们终于能在病床上开口的时候，早就忘了为何争执。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/d42d051fae486e5c813c7a185c5f4c71_5494204031810545639.mp3",
+          "audioName": "25关于恰斯卡…_en.mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "有次我路过「回声之子」，看到了一个奇怪的委托。委托人希望得到一种好养的植物。我把肉龙掌的种子送了过去，配了花盆和肥料。这种植物分布广泛，在荒野上都长势旺盛。可我过段时间去拿报酬的时候，才发现盆里连小苗都没长出来。我为高估希诺宁的园艺能力支付了代价。这是我为数不多以失败而告终的委托。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/df7fa53aee9920887175ed507671f9d8_5949908151340937130.mp3",
+          "audioName": "26关于希诺宁…_en.mp3"
+        },
+        {
+          "name": "关于伊安珊…",
+          "text": "基尼奇：我接过她的委托，或说合作…这位运动教练经常为学员制作健身餐，计算热量精确到个位数，为此需要进购质量达标、规格精确的果实。稍微长了点斑，或者被虫咬过一口都不行。其他人觉得委托内容过于挑剔，但我恰好拥有不错的眼力，以及稳定的残次品消耗渠道。阿乔：等等？你是说…我的果汁？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/785b34264d424a66339d95a4cf764153_2656450571445484516.mp3",
+          "audioName": "27关于伊安珊…_en.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "或许你猜到了，我也接过她的委托，帮她从一位稻妻商人处购买一摞摞沉重的纸制阅读品。我无意打探雇主隐私，可「烟谜主」的读物，不是缝在织物上的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/b9da40631ae43bbf27129961b958eb1f_2273318077464118755.mp3",
+          "audioName": "28关于茜特菈莉…_en.mp3"
+        },
+        {
+          "name": "关于伊法…",
+          "text": "基尼奇：我委托过他。有次阿乔说自己「病」了，大哭大闹不肯停下。既然如此，理应送它去看最好的龙医生。他医术的确不错，阿乔被请进诊所后没一会儿就痊愈了。阿乔：你…你知道什么啊你！他就是个庸医，庸医！…你、你都不知道他说了什么你都！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/af921d6147f7c6f646d740247701cac4_2508085468550436256.mp3",
+          "audioName": "29关于伊法…_en.mp3"
+        },
+        {
+          "name": "关于瓦雷莎…",
+          "text": "基尼奇：在几次清剿危险魔物的委托中，她恰好从旁经过，却主动向我提供了帮助。客气点讲，她的战斗技巧很单纯，主要靠速度和力量上的优势撞翻对手…不客气点讲，单纯过度了。\n阿乔：怎么不说下去？呵呵。基尼奇这小子为表感谢，请她来吃「悬木人」的特色菜。结果她一个人就点了三十多份「咚咚嘭嘭」，三十多份啊！还全吃下去了。你没看见，当时这只吝啬鬼基尼奇的脸都要急绿了，哈哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/642994cc831a07b9d65503b5480eaad3_3132470620423659318.mp3",
+          "audioName": "基尼奇关于瓦雷莎en.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其一",
+          "text": "我是个猎龙人。无龙可猎的时候，也接其他委托。和你算是同行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ae58698c22cbca726ffdfed214157573_6811496067376898410.mp3",
+          "audioName": "30想要了解基尼奇·其一_en.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其二",
+          "text": "从前我替人跑腿送信，收件人经常喊我「顺手帮个忙」。那么「顺手」值多少钱呢？往往我一开价，忙就不用帮了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/0f5c469fdde7fa2d9aa15ab184167461_8651381478198817337.mp3",
+          "audioName": "31想要了解基尼奇·其二_en.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其三",
+          "text": "第一次猎龙，我做了数以周计的准备。光观察、跟踪和蹲守就花费数日，制作了不下三种陷阱，还记录了它的生活规律和食物偏好…很多努力是浪费，但浪费是必要的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/5612539173eca4db459b7378be80a31c_457671716053351482.mp3",
+          "audioName": "32想要了解基尼奇·其三_en.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其四",
+          "text": "基尼奇：阿乔曾被封印在古老的遗迹中，我与它签订契约，将它放了出来。阿乔：谁知道你这个看起来就会一头栽进泥水沟的家伙，现在还活得好好的…算了算了，我烈焰之国至高领主有的是与地位相衬的美德与涵养。基尼奇：美德与涵养催促你天天盼我死？阿乔：我指的是有耐心和时间！基尼奇：…总之，只要掐准软肋，邪恶之物也能加以利用。阿乔：你个可恶的基尼奇！我今天就要借别人的手弄死你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/445198bd8bda480c1c9fea19ed61409b_6756069845963749043.mp3",
+          "audioName": "33想要了解基尼奇·其四_en.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其五",
+          "text": "迄今我都在和「代价」打交道，从大灵处获得古名「回火」——也就是「马力卜」，我并不意外。生存才能创造价值，我不会期待一切走向终结的那一天。但作为「回火」的持有者，我早有接受它灼烧的准备。它大可审视我的一生，而我不会留下遗憾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/9af1ce3954b50e55c75c780d0ecb037c_9148425032232370458.mp3",
+          "audioName": "34想要了解基尼奇·其五_en.mp3"
+        },
+        {
+          "name": "基尼奇的爱好…",
+          "text": "我会尝试各类极限运动，玩腻了就换一种。在磨炼技巧的同时与恐惧感博弈…先是「面对」，而后「习惯」，最终「征服」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/16c7848caf0d6e511f747fe137febdc1_2808029645571961058.mp3",
+          "audioName": "35基尼奇的爱好…_en.mp3"
+        },
+        {
+          "name": "基尼奇的烦恼…",
+          "text": "我见过有烦恼的人不是想得太多就是想得太少。我总在为自己寻找下一个目标与落点，没闲心烦恼。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/59cadee5e4812385facf180ff530a62a_8726570262681560349.mp3",
+          "audioName": "36基尼奇的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "基尼奇：在野外，我一般什么方便吃什么。最好的选择自然是肉和水果。阿乔：哟，装得像个不挑食的好孩子，我怎么从不见你摘颗粒果呀？基尼奇：背着重。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/2123e874b0c0bf53d74fb6a1e5d1c15a_7070517810246133967.mp3",
+          "audioName": "37喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "阿乔：生冷辛辣侵蚀尊贵圣躯，热油浊气有害五脏六腑。硬实之物不便咀嚼，酥软烂糊食之无味…基尼奇：你到底要吃什么？阿乔：当然是你的灵魂喽，噢呵呵呵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/3e5ca8749afce8d1b41ddb8d5c7d136a_8528394644286276724.mp3",
+          "audioName": "38讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "基尼奇：很美味。我应该给你相应酬劳，或是其他你中意的回礼。阿乔：吐出来！你这个贪婪的蝮蛇！那里面肯定有给我的份！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/539874b38da81c3372313659b3e23756_190816190859305839.mp3",
+          "audioName": "39收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "基尼奇：还不错，比我预想中的味道更好。阿乔：这话难道不是在嘲笑你吗？在他心中，你就像个不会做饭的家伙呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7981f109a06bb6f48daa941b97eb5c61_2431407110954308506.mp3",
+          "audioName": "40收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "基尼奇：…可以不付钱吗？阿乔：别还回去啊！我还没尝过呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/6cb1609389cd66ebf09cfadf93a9a619_8855361209822681832.mp3",
+          "audioName": "41收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "基尼奇：阿乔？阿乔：知道了知道了，嘁，差使别人干活的时候积极得就跟拿钱一样，有本事你自己长出翅膀飞上天啊。你，说的就是你，还不快点到我背上来？能乘上伟大圣龙库胡勒阿乔可是值得你称道一生的殊荣。基尼奇：放心，只是一次轻松的丛林旅行。跟着我就好。路线我设计过，保证安全。阿乔：别忘了你答应我的好处！基尼奇：现在，第一步是跳上去…生日快乐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/70ba5973dd83fa1a9ee33c7c2d5eedc4_7392988461555295746.mp3",
+          "audioName": "42生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "选刀，只需要坚硬、锋利。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/d067b1a1555edc72937922183c7eb8cd_9160214039267785760.mp3",
+          "audioName": "43突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "理包，优先考虑精简、轻便…好比这柄伞就是多余的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/57413b9efef6a2d40186ab7866a17b32_7628808906455359396.mp3",
+          "audioName": "44突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "行动前，我会绑紧头巾，提醒自己保持冷静和矫健。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/558e357dc7fece0819c71372f136114a_2363131393869479900.mp3",
+          "audioName": "45突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "你为我做了很多，我不会白白收下。你可以主动开价，或是接受我提供的回报…我以「马力卜」之名许诺，哪种选择都不会亏待你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ced4a72a61ae5dba1a7da110df3e53fb_4903198825582433145.mp3",
+          "audioName": "46突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "阿乔：算你灵活。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/9c704ffa1331e8e3a7879019d8df755d_6469965244088238055.mp3",
+          "audioName": "47元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "阿乔：这就溜了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/83cdd36dd91e3483d38bbf7a8fff9843_293658555269608598.mp3",
+          "audioName": "48元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "阿乔：用来用去就这两招…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/a0b72ee5880b5e7177a0436c8a78bb71_422764399558285443.mp3",
+          "audioName": "49元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "目标上钩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/b868113e3f2d99d3304762caf5eea219_7279789670062449806.mp3",
+          "audioName": "50元素战技·其四_en.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "发现猎物。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f827fac0b260b48dd8969996aa6ee7e4_1330939970870627646.mp3",
+          "audioName": "51元素战技·其五_en.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "封锁退路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/3818fe54294dfcf38ce13132020dd630_1855455385665724830.mp3",
+          "audioName": "52元素战技·其六_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "报偿夜神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/83741fe619314acbd7a0009bea775764_6358244987952446236.mp3",
+          "audioName": "53元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "领他们上路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/fed20379d95f9ea4e7f9fe4d5bbc7a29_9013854357821185822.mp3",
+          "audioName": "54元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "往昔之影，奉我之命。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/d2f2a48492b80c59f0445d1fd79e93b3_6346322467805865659.mp3",
+          "audioName": "55元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "阿乔：圣龙君临！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/2836b3dae7f6d0cb8f0095fd346a8edf_5905852941355015666.mp3",
+          "audioName": "56元素爆发·其四_en.mp3"
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "阿乔：原灵现示！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/96784b1725749902d8235d15290cd566_783305803752146634.mp3",
+          "audioName": "57元素爆发·其五_en.mp3"
+        },
+        {
+          "name": "元素爆发·其六",
+          "text": "阿乔：圣龙烈焰，将照彻汝等腐朽。阿乔：我烧烧烧烧烧。阿乔：啊哈！真是快活！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/c683883d01b05d436faee6303d06dc88_6791855876065032430.mp3",
+          "audioName": "58元素爆发·其六_en.mp3"
+        },
+        {
+          "name": "元素爆发·其七",
+          "text": "阿乔：汝之灵魂，应当供奉于吾。阿乔：哈？连声都不敢吭？阿乔：那就再也别吭声啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/b8fa7c21101d489c5c1da4a21b3de29a_4771376359350847891.mp3",
+          "audioName": "59元素爆发·其七_en.mp3"
+        },
+        {
+          "name": "元素爆发·其八",
+          "text": "阿乔：吾之威光，无人能及！无可比拟！阿乔：更何况我现在心情不好。阿乔：渺小虫豸，付出代价吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/e842a5575d19960d5ac4e9df1b935be6_4583086268873442232.mp3",
+          "audioName": "60元素爆发·其八_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "基尼奇：见者有份？阿乔：这种破烂你居然想要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f6beef435186febcbc2a71737335c748_2260652484060898562.mp3",
+          "audioName": "61打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "基尼奇：万物皆有其用。阿乔：你是从小吃不饱饭？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7b875f915404f6d0d862644290e7f87d_270882845653501492.mp3",
+          "audioName": "62打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "阿乔：嘁，才这么点穷酸玩意。基尼奇：不拿就走，话真多。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/8e9b0e9f7ab050002f5a60ffbd6ee96d_5297066183043835084.mp3",
+          "audioName": "63打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "…非用不可吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/10035618b6aa2bd089e24327cb44da5d_1055634525207797046.mp3",
+          "audioName": "64打开风之翼·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "该你偿还代价了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/1e4a01b301f8a90525729fe892bb7a32_2515761459232903848.mp3",
+          "audioName": "65生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "将计就计…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/d5a86167c7f6188206a1ec4b14ef6fb4_3433626119818766525.mp3",
+          "audioName": "66生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "阿乔：基尼奇，快完蛋，快完蛋。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/0a174c6ea53bff464ae922ba776ac239_8822064726241436909.mp3",
+          "audioName": "67生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "你知道自己处境不妙吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/a8761f9104bd7c282b702311b6c9963a_4833932468369383744.mp3",
+          "audioName": "68同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我们来谈谈价格吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/6bf1af187c4052ea17754185cc015e7f_1765541685617236631.mp3",
+          "audioName": "69同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "不要…回头…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/5899852c78464a71f9077c362c52d3c6_248655180757111566.mp3",
+          "audioName": "70倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "凡事皆有代价…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/1183d028f2b4e9af2c6a9ea2b0e91291_4417261391165943776.mp3",
+          "audioName": "71倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "阿乔：呵呵…不错的交易…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/76bdfaf31362ecd917008c903fda5801_5752102474176118944.mp3",
+          "audioName": "72倒下·其三_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "失手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/be945eab44f6e1caabcd6222df8212c6_5967017155521380230.mp3",
+          "audioName": "73重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "意外…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/2c9423f706a1261c49e578d81091413d_8535835733290599905.mp3",
+          "audioName": "74重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "成交，我接手了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/3518c5f82af43f75b346e1e3914bcbff_5627693579177950150.mp3",
+          "audioName": "75加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我来解决。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/6a3a4405a314a10f524337d6d7dabf96_4898364069046393610.mp3",
+          "audioName": "76加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "祝我们合作愉快。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/7413c395af98f7a71c9e5e6ee13d97df_8375031467350456177.mp3",
+          "audioName": "77加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "基尼奇：「马力卜」的基尼奇，初次见面，告知委托内容时请附上你的出价。阿乔：…这就没了？哎呀，真急死我了！你该先宣扬自己干活多么迅速漂亮，说点你过往的优秀战绩，抬高对方的心理预期，然后再说「这值得配上一个更好的价码！」你到底会不会做生意？阿乔：一想到我伟大圣龙库胡勒阿乔竟然和你这个臭脸的呆瓜签订了契约，啊，真是丢人丢回上个时代了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/946049d8aad57d583ec67080b064fe40_8472936077177651763.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·阿乔",
+          "text": "基尼奇：阿乔性情乖戾，多数时候，不必听信它的话。阿乔：基尼奇！！你有本事就放我出来——！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/41dc16b1f396b4fe953055d7f65a5f8a_1331528071664878372.mp3",
+          "audioName": "02闲聊·阿乔_kr.mp3"
+        },
+        {
+          "name": "闲聊·代价",
+          "text": "激励与抚慰是别人的强项，度量「代价」则是我的做法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/8df0ffae014c0d1b974412b152216f85_7265124511888362492.mp3",
+          "audioName": "03闲聊·代价_kr.mp3"
+        },
+        {
+          "name": "闲聊·分配",
+          "text": "七成调查，一成判断，剩下的用于出击。这是我分配精力的方式。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/cedd692af6a1e7050199af6c25a2b1bb_6512661963747366957.mp3",
+          "audioName": "04闲聊·分配_kr.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "啧，裤脚还在滴水…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/9d941f6d8cb94d23ad90a19315fcf34c_8653409238064727058.mp3",
+          "audioName": "05雨过天晴…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "阿乔：是屁股会发光的虫子从天上掉下来了吗？才这么点光亮。基尼奇：我看你还没这只虫子亮。阿乔：你再说一遍？！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/6095f249ae98d3df6259ae34219f44ad_4989114087653049053.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "阿乔：我有一副墨镜，但谁都不借。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/b247faad6f3c25b921470d8e4e63a487_6442754225338572890.mp3",
+          "audioName": "07阳光很好…_kr.mp3"
+        },
+        {
+          "name": "起风的时候…",
+          "text": "阿乔：待壤土与沉云交汇，黑暗吞并旷野，吾将役使狂风呼啸，焚灼尘世！基尼奇：哼，你就「吹」吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/2c9f0d3b8d4739f2b4fea5625bcae52d_1679307815886246058.mp3",
+          "audioName": "08起风的时候…_kr.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "基尼奇：天气因素会提高极限运动的挑战性。阿乔：快跳一个嘛…我都忍不住看你去试了，呵呵呵呵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/a3b448489f3755647a503840a68f7a45_6021166292990094923.mp3",
+          "audioName": "09刮大风了…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "记得喝水。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/626ddee9ca09f55ed58a2d95138f08a6_2239405733923281049.mp3",
+          "audioName": "10在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早。我正准备出门，天亮前不会回来。不用等我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/5748dfbbb00d54b16f0ff96056bf4846_442933650693225503.mp3",
+          "audioName": "11早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "既然来了，随便吃点再走？给，用这个擦擦手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/8a6ee7a40cda235059cf4bd08ce3d646_595244763436112492.mp3",
+          "audioName": "12中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "「今天」快要过去了。无论我是否对成果满意，事实都不会因此改变…接下去，该加快脚步了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/fc95e552506e68524b198eea5a59a707_4410884009399550344.mp3",
+          "audioName": "13晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "篝火太呛了？稍等…好了，你休息吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/05e4099bc97f3a727f0db8b025c33cf9_3802371674465081839.mp3",
+          "audioName": "14晚安…_kr.mp3"
+        },
+        {
+          "name": "关于基尼奇自己·追捧",
+          "text": "阿乔：基尼奇，你有没有反思过自己不受人们追捧的原因？看着月亮翻来覆去睡不着觉的时候，心里一定很苦恼吧？智慧圣龙库胡勒阿乔就在面前，汝为何不匍匐在地，乞求吾降下谕旨，为汝指点迷津呢？基尼奇：你一定是因为自己做得太好，才会让追随者们都想把你狠揍一顿。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/a010470315cbab7af8e445141d10e6ee_3863744185567437443.mp3",
+          "audioName": "15关于基尼奇自己·追捧_kr.mp3"
+        },
+        {
+          "name": "关于基尼奇自己·猎龙人",
+          "text": "身为猎龙人，我的职业特殊，并不能获得所有人的理解。但当矛盾难以化解，两全其美之策只存在于幻想中时，总得有人弄脏双手。只要价格合适，我不介意这个人是我自己。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/af0ba7fbcfe3ad4fae226bfb56c83871_1836770132645298171.mp3",
+          "audioName": "16关于基尼奇自己·猎龙人_kr.mp3"
+        },
+        {
+          "name": "关于我们·委托",
+          "text": "基尼奇：如有需要，我可以为你分担冒险家协会的委托。阿乔：记得要最棘手、最刁钻，最好有生命危险的那种！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/0a7e59d12a044af19c4e3795222a022d_294101704941971792.mp3",
+          "audioName": "17关于我们·委托_kr.mp3"
+        },
+        {
+          "name": "关于我们·朋友",
+          "text": "我知道阿乔另有图谋，但我并不介意为你涉险。我将凡事的代价挂在嘴边，但我相信这世上有些事可以不惜代价。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/d6036da1868e4c80b612f9cb528d5721_9107070866845252131.mp3",
+          "audioName": "18关于我们·朋友_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "使用「神之眼」无需代价。但不被置于明面的价格，结算时往往最为深重。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/3cd5ae1dc02a4617b00304d3c7a9a545_6230368413488877258.mp3",
+          "audioName": "19关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "「悬木人」崇尚不受约束的绝对自由，人与龙之间重在认可与帮助，不存在契约关系。我是个例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/9b624e6923d2d658c469fc7e4582f29d_8605685628885290621.mp3",
+          "audioName": "20有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "基尼奇：摘青蜜莓的时候，记得确认周围没有碍事的龙。阿乔：你这只吝啬的绿斑点蜥蜴！斤斤计较的爬虫！小气鬼！要不是我饿得前胸贴后背，谁看得起你手里那几个发烂发馊的破果子！基尼奇：那我自己吃了。阿乔：啊啊啊——你把我气红了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/2a36f786491d7f49a3fd618bdca7f119_4597138999341377393.mp3",
+          "audioName": "21感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于玛薇卡…",
+          "text": "一直以来，都是我索取别人的代价，直到火神大人用「还魂诗」将我从夜神之国送归。当作为支付「代价」的一方…我才完全体会到了它的含义。其于强者为筹码，其于弱者为赌注。关键的是，你是否有下注的胆量。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/06d585164a344f93288f6d54ee048a6f_7478985980002023951.mp3",
+          "audioName": "22关于玛薇卡…_kr.mp3"
+        },
+        {
+          "name": "关于玛拉妮…",
+          "text": "我接过她的委托。她出钱让我担任「战斗顾问」，金额不菲，我答应了。但合作几次后，却看出她身手不赖。再三追问下，才知道所谓「战斗顾问」是要教授卡齐娜野外生存技巧…原来是和「自然」战斗。嗯，在我概念里，这叫「生活」。总之，这笔生意做完，我多了两位熟客。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/0801a605b610e4fe43d58a99207bea22_3762268761054567065.mp3",
+          "audioName": "23关于玛拉妮…_kr.mp3"
+        },
+        {
+          "name": "关于卡齐娜…",
+          "text": "我见过和她有关的委托。「回声之子」里有些差劲的家伙嫉妒她拥有「古名」，拐弯抹角地雇人对她的龙伙伴下手。我已让他们付出了代价。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/83306f411bfdc23aa7457eda8405dbb8_4823808609701895167.mp3",
+          "audioName": "24关于卡齐娜…_kr.mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "我见过她处理委托。我们对于解决争端的手段存在分歧。通常我会让一方彻底闭嘴，但她会让两方都说不出话，等到他们终于能在病床上开口的时候，早就忘了为何争执。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/41a2ca1c9e1ab8d31106411fa855040d_8726186014955147274.mp3",
+          "audioName": "25关于恰斯卡…_kr.mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "有次我路过「回声之子」，看到了一个奇怪的委托。委托人希望得到一种好养的植物。我把肉龙掌的种子送了过去，配了花盆和肥料。这种植物分布广泛，在荒野上都长势旺盛。可我过段时间去拿报酬的时候，才发现盆里连小苗都没长出来。我为高估希诺宁的园艺能力支付了代价。这是我为数不多以失败而告终的委托。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/89d1b78b6accbf2159a0b8419f97e58d_261151524668275491.mp3",
+          "audioName": "26关于希诺宁…_kr.mp3"
+        },
+        {
+          "name": "关于伊安珊…",
+          "text": "基尼奇：我接过她的委托，或说合作…这位运动教练经常为学员制作健身餐，计算热量精确到个位数，为此需要进购质量达标、规格精确的果实。稍微长了点斑，或者被虫咬过一口都不行。其他人觉得委托内容过于挑剔，但我恰好拥有不错的眼力，以及稳定的残次品消耗渠道。阿乔：等等？你是说…我的果汁？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/19239c252aaba99a9af60122beb78a1e_2191810052265767265.mp3",
+          "audioName": "27关于伊安珊…_kr.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "或许你猜到了，我也接过她的委托，帮她从一位稻妻商人处购买一摞摞沉重的纸制阅读品。我无意打探雇主隐私，可「烟谜主」的读物，不是缝在织物上的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ab640ac169ab9b7d24ee33638db831cd_3626716650702226325.mp3",
+          "audioName": "28关于茜特菈莉…_kr.mp3"
+        },
+        {
+          "name": "关于伊法…",
+          "text": "基尼奇：我委托过他。有次阿乔说自己「病」了，大哭大闹不肯停下。既然如此，理应送它去看最好的龙医生。他医术的确不错，阿乔被请进诊所后没一会儿就痊愈了。阿乔：你…你知道什么啊你！他就是个庸医，庸医！…你、你都不知道他说了什么你都！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/3ca8df17e4acb8a25c3f0cf206b119bb_1049955959644279448.mp3",
+          "audioName": "29关于伊法…_kr.mp3"
+        },
+        {
+          "name": "关于瓦雷莎…",
+          "text": "基尼奇：在几次清剿危险魔物的委托中，她恰好从旁经过，却主动向我提供了帮助。客气点讲，她的战斗技巧很单纯，主要靠速度和力量上的优势撞翻对手…不客气点讲，单纯过度了。\n阿乔：怎么不说下去？呵呵。基尼奇这小子为表感谢，请她来吃「悬木人」的特色菜。结果她一个人就点了三十多份「咚咚嘭嘭」，三十多份啊！还全吃下去了。你没看见，当时这只吝啬鬼基尼奇的脸都要急绿了，哈哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/16/50494840/eff1a86676ddac5d84510763f40f2380_4516022204321214075.mp3",
+          "audioName": "基尼奇关于瓦雷莎kr.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其一",
+          "text": "我是个猎龙人。无龙可猎的时候，也接其他委托。和你算是同行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ea063247ad94218c71756e658106815e_3652496523157342740.mp3",
+          "audioName": "30想要了解基尼奇·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其二",
+          "text": "从前我替人跑腿送信，收件人经常喊我「顺手帮个忙」。那么「顺手」值多少钱呢？往往我一开价，忙就不用帮了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/761df6252b935d132d1a7410bc248b75_8091126976755003683.mp3",
+          "audioName": "31想要了解基尼奇·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其三",
+          "text": "第一次猎龙，我做了数以周计的准备。光观察、跟踪和蹲守就花费数日，制作了不下三种陷阱，还记录了它的生活规律和食物偏好…很多努力是浪费，但浪费是必要的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/bdcdfaf27ca4a6e278e500974b7258d3_1668175402494327933.mp3",
+          "audioName": "32想要了解基尼奇·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其四",
+          "text": "基尼奇：阿乔曾被封印在古老的遗迹中，我与它签订契约，将它放了出来。阿乔：谁知道你这个看起来就会一头栽进泥水沟的家伙，现在还活得好好的…算了算了，我烈焰之国至高领主有的是与地位相衬的美德与涵养。基尼奇：美德与涵养催促你天天盼我死？阿乔：我指的是有耐心和时间！基尼奇：…总之，只要掐准软肋，邪恶之物也能加以利用。阿乔：你个可恶的基尼奇！我今天就要借别人的手弄死你！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/27281523e19b864b1e2efb99dafb2c63_6343273383103266823.mp3",
+          "audioName": "33想要了解基尼奇·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解基尼奇·其五",
+          "text": "迄今我都在和「代价」打交道，从大灵处获得古名「回火」——也就是「马力卜」，我并不意外。生存才能创造价值，我不会期待一切走向终结的那一天。但作为「回火」的持有者，我早有接受它灼烧的准备。它大可审视我的一生，而我不会留下遗憾。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/84db4984e8e7dccbbcc7f9b6867d80cb_8191698135872188333.mp3",
+          "audioName": "34想要了解基尼奇·其五_kr.mp3"
+        },
+        {
+          "name": "基尼奇的爱好…",
+          "text": "我会尝试各类极限运动，玩腻了就换一种。在磨炼技巧的同时与恐惧感博弈…先是「面对」，而后「习惯」，最终「征服」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/efe3e2f001b4a5a7708be19420dd385f_5866714009331827918.mp3",
+          "audioName": "35基尼奇的爱好…_kr.mp3"
+        },
+        {
+          "name": "基尼奇的烦恼…",
+          "text": "我见过有烦恼的人不是想得太多就是想得太少。我总在为自己寻找下一个目标与落点，没闲心烦恼。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/71244a3c077f004ab7c863cee272faed_2878370271608704154.mp3",
+          "audioName": "36基尼奇的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "基尼奇：在野外，我一般什么方便吃什么。最好的选择自然是肉和水果。阿乔：哟，装得像个不挑食的好孩子，我怎么从不见你摘颗粒果呀？基尼奇：背着重。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/453b40cde650315e2d0c971b56e805e8_9109658841586001669.mp3",
+          "audioName": "37喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "阿乔：生冷辛辣侵蚀尊贵圣躯，热油浊气有害五脏六腑。硬实之物不便咀嚼，酥软烂糊食之无味…基尼奇：你到底要吃什么？阿乔：当然是你的灵魂喽，噢呵呵呵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ea578b7ba6b1940c0dd88dc9d6e4f0e5_5222814648099750521.mp3",
+          "audioName": "38讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "基尼奇：很美味。我应该给你相应酬劳，或是其他你中意的回礼。阿乔：吐出来！你这个贪婪的蝮蛇！那里面肯定有给我的份！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f97b6f1ccee771306ccc96061cdd2c07_1187125706995396866.mp3",
+          "audioName": "39收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "基尼奇：还不错，比我预想中的味道更好。阿乔：这话难道不是在嘲笑你吗？在他心中，你就像个不会做饭的家伙呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/b12fb0b9979c9935f6747d61c9959101_3954981849206050674.mp3",
+          "audioName": "40收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "基尼奇：…可以不付钱吗？阿乔：别还回去啊！我还没尝过呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/9db03c1e07f4bd7c3242737bf8fdf9b9_4801943753535969292.mp3",
+          "audioName": "41收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "基尼奇：阿乔？阿乔：知道了知道了，嘁，差使别人干活的时候积极得就跟拿钱一样，有本事你自己长出翅膀飞上天啊。你，说的就是你，还不快点到我背上来？能乘上伟大圣龙库胡勒阿乔可是值得你称道一生的殊荣。基尼奇：放心，只是一次轻松的丛林旅行。跟着我就好。路线我设计过，保证安全。阿乔：别忘了你答应我的好处！基尼奇：现在，第一步是跳上去…生日快乐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/2b00e3c3f445c1cd7014dcd3b3f3e00b_4627406859995262671.mp3",
+          "audioName": "42生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "选刀，只需要坚硬、锋利。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/3c44136aee798d45f445c82c07a5a10b_5152710888684614871.mp3",
+          "audioName": "43突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "理包，优先考虑精简、轻便…好比这柄伞就是多余的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f84ab6fbd6e1fb719451c76a1d3ccb88_1686858294462751970.mp3",
+          "audioName": "44突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "行动前，我会绑紧头巾，提醒自己保持冷静和矫健。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ee4fa53021c526161162be3bb849db23_5590341764334323177.mp3",
+          "audioName": "45突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "你为我做了很多，我不会白白收下。你可以主动开价，或是接受我提供的回报…我以「马力卜」之名许诺，哪种选择都不会亏待你。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/59e24b9c400db497eb1cc57c4e1bd32a_8722577700270816873.mp3",
+          "audioName": "46突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "阿乔：算你灵活。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/46a434a511870c3d50916ba76654ea5f_4215081013393942972.mp3",
+          "audioName": "47元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "阿乔：这就溜了？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/0d90c469ae06108f1dd9a90631ae9b4f_3830548514341898791.mp3",
+          "audioName": "48元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "阿乔：用来用去就这两招…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/34525d11fccfaa9ce5eba8f506439f27_8064970354580530048.mp3",
+          "audioName": "49元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "目标上钩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/4d78f79c413cdfac798ca137a6544cdb_582146570416867686.mp3",
+          "audioName": "50元素战技·其四_kr.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "发现猎物。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/0bc38f42c5b47cd48aa6b0c6a09fee69_4344336898443180044.mp3",
+          "audioName": "51元素战技·其五_kr.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "封锁退路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ae01dac699f2c7e13055543a94f8a17c_6235316416373374573.mp3",
+          "audioName": "52元素战技·其六_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "报偿夜神。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/ee06b64333f70e78a7c624161d648115_8482403595102574728.mp3",
+          "audioName": "53元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "领他们上路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/429175a9828cb04e522c842a4763c01d_215034762257838749.mp3",
+          "audioName": "54元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "往昔之影，奉我之命。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/88b23ce0b912aa80075bd5bcd43f0eb4_8635725177309958019.mp3",
+          "audioName": "55元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "阿乔：圣龙君临！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/a85681ebb7667e0cdd4b0dbf90d34033_2829479845081004326.mp3",
+          "audioName": "56元素爆发·其四_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "阿乔：原灵现示！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/e1b7ba307cc49c57299f7031351c0165_3482608493986536083.mp3",
+          "audioName": "57元素爆发·其五_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其六",
+          "text": "阿乔：圣龙烈焰，将照彻汝等腐朽。阿乔：我烧烧烧烧烧。阿乔：啊哈！真是快活！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/d28e8c959eb08feb67a91e9526640a05_4935921080470632941.mp3",
+          "audioName": "58元素爆发·其六_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其七",
+          "text": "阿乔：汝之灵魂，应当供奉于吾。阿乔：哈？连声都不敢吭？阿乔：那就再也别吭声啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/4d95dac186c5cb1d6cfb61a1d0fca3d2_4150874087851701802.mp3",
+          "audioName": "59元素爆发·其七_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其八",
+          "text": "阿乔：吾之威光，无人能及！无可比拟！阿乔：更何况我现在心情不好。阿乔：渺小虫豸，付出代价吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/10/11/297901188/6976a4cf24c5a5cb8338d3759681492f_601985978077724923.mp3",
+          "audioName": "60元素爆发·其八_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "基尼奇：见者有份？阿乔：这种破烂你居然想要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/eabc8761dc5c6db482ae6a34db4522b8_197863399897455009.mp3",
+          "audioName": "61打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "基尼奇：万物皆有其用。阿乔：你是从小吃不饱饭？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/6ca001b1ff932025cdae58746bc24a37_4525825070430524533.mp3",
+          "audioName": "62打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "阿乔：嘁，才这么点穷酸玩意。基尼奇：不拿就走，话真多。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/f75471a7ba1141d6459195dcb25c9306_6140517529786826275.mp3",
+          "audioName": "63打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "…非用不可吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/64511154f8b763b6f2a9785da6432f38_2510138437283074078.mp3",
+          "audioName": "64打开风之翼·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "该你偿还代价了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/2738aa7839bd8c64d76a13b790bad7e8_5009587697209421632.mp3",
+          "audioName": "65生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "将计就计…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/eeaa0eaf86c1a13279c69d7516e3c630_7473692835679844575.mp3",
+          "audioName": "66生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "阿乔：基尼奇，快完蛋，快完蛋。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/576e8fbe75d5b5b5bbc05694a63a2221_5581664327811046260.mp3",
+          "audioName": "67生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "你知道自己处境不妙吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/90c2fa4f1f24a34d253c8d7079d2044b_5409140418357997348.mp3",
+          "audioName": "68同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我们来谈谈价格吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/bfd19b80bf28eba390cbf58eab2c5a9b_6938890106802530979.mp3",
+          "audioName": "69同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "不要…回头…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/1178d129996be24e9126acb4c59f241c_2666243885575648846.mp3",
+          "audioName": "70倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "凡事皆有代价…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/2f2b9b3135c19e4821fc80b44e9b7af2_6855852705656751073.mp3",
+          "audioName": "71倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "阿乔：呵呵…不错的交易…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/974b0c3678b91f811af59885e3a27a57_6314472425086847968.mp3",
+          "audioName": "72倒下·其三_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "失手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/a128702c40670dee49ea7c8c027fd1f9_8238349188614405191.mp3",
+          "audioName": "73重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "意外…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/abd57332013985fb970f87211859da25_5948568183016945145.mp3",
+          "audioName": "74重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "成交，我接手了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/c3c531e165342faa23e4186d1bf3090e_1101270967593149422.mp3",
+          "audioName": "75加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我来解决。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/c4e4ff084c15d94b5638d345b8ea2968_956244757900663871.mp3",
+          "audioName": "76加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "祝我们合作愉快。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/09/19/16576950/52d1f8d23c6cc03f99bb1df7cc642913_4498520341254615084.mp3",
+          "audioName": "77加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2069 @@
+{
+  "id": "5494",
+  "name": "流浪者",
+  "alias": [
+    "流浪者"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "要我报上名来？此行世间，我名号诸多，虽然随便一个对凡人来说都高不可及，但于我都已成过往。想称呼什么就随你吧，让我见识下你的品味，可别让我失望。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/994a031826eb4c4924c7d921e76c16fd_6325989938734977529.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·风",
+          "text": "这世上没有纯粹的自由。风也会有吹到头的时候。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/57b694518ee3579f3251c1dc1b38716b_4100834029449531564.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·说话方式",
+          "text": "我说话刻薄吗？只是实话实说罢了，接受不了的人才该自己反思原因。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/dfff14a797768a7ebfb2c43363a2f198_4723630532430147763.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·寒暄",
+          "text": "寒暄就免了吧，没话找话的样子也太可笑了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/bc8943814d183de39bbd2ec8fb8be889_2754705713911710439.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "想用我的斗笠遮雨？亏你提得出这种要求。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0a043fe12effcfe7beb367ab22717c0e_7004415787694920514.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "见了点阳光就能高兴成这个样子？幼稚。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/9ff00ab6ec3f28e968ee8397f527f9f8_6998859438492417107.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "啧…烦心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/4cb26912e4ce2b057931b07c61124576_1380631524786148714.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "明明和雨没什么区别，却讨人喜欢多了…真是人各有命。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/87568d0383f39ce13844aa3f86af3cc9_8992363398340835757.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这点程度，你都能做到吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/63bc7cc4235614d5b643f5d710e88208_8994556823225893596.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "「快醒醒——太阳要晒屁股咯——」…哈，你不会以为我会这么叫你起床吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/c8f3028c3b2a011e0fe89b63c1dfdf7e_3213283016670458219.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "我不需要吃饭。管好你自己和身边的小东西，就算是让我省心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/c631acb2e44a904f7304cedcfaeb85cc_1013742612074896879.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "终于，无聊的一天就要结束了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/4e662433cd71fb460a5b82d5cc977b09_2834514337306102694.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "在我身边睡不着吗？呵呵。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/d45aefef0b5fc060e822c1c1fd43f452_7569128891413702546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于流浪者自己·人偶",
+          "text": "烧掉一个人偶会留下灰烬。至于灰烬中会诞生什么…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e0d0eba33f6a36eff51de120ed0f9e44_1023799190226097205.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于流浪者自己·心",
+          "text": "那种东西随便了。执着于注定不属于自己的事物只是在浪费时间，现在的我有更重要的事情要做。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/1bc21e16bdf951f274d0127efe8f935c_2303492110419747085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·对手",
+          "text": "对你我以前的对峙耿耿于怀？哦。所以呢，你要怎么做？慢慢想，我不急。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/90120eb5e5180d061dce5a96ff45ca56_6829198018232338896.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·同伙",
+          "text": "我不可能皈依「正义」，但既然说过要偿还你的恩情，就定会做到。倒是你，在和我接触的时候可能需要想想自己立场哦？万一被人撞见，说你与罪人「狼狈为奸」，我可概不负责。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0c35dcd5f174cd30741370fa07c78a86_4026473370442100556.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "所谓「神明的注视」令人不爽，但反正是可用的力量，我不挑。你觉得「风元素」有其深意？呵，为什么会这么想？神明行事蛮横又无理，我不是让你领教过吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/7b2db095e5ef31a4ba8f9e0c31f811a4_2432733882818879430.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "没有。你想问什么就问吧，我看心情回答。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/3b7b43d7ba97286eccc162f21eeaec2b_8737648744704153789.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "看啊，鸟雀会炫耀羽毛，松鼠忙着囤积食物，人类为了柴米油盐整日奔走。头脑简单的生物活得就是比较容易呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/97d5d891163a1472b9ef448bb607e2a3_8479330208933298704.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "她选择不除掉我，或许不只是因为我有利用价值。也许是因为她很贤明，又有至善之心，又或许，是她在我身上看到了孤独的影子…你说我是在恶意揣测？哈，这不是当然的事情嘛！我又不是什么好人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/b54765c24b42831aee29fa9e06d9edaa_571314759427581588.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "对自己的造物视若不见，却又美其名曰不忍心干预…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/77a00a55abf2a7ffa9c7ce2cb704bc6a_5442870565730695102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「女皇」…",
+          "text": "人人都称赞她的温柔与慈爱，却不知「爱」也是「罪」的一种。搞不好是代偿心理作祟哦？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/970f17955e1f6666e7519a40a7bc57e5_9171320148628726836.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「丑角」…",
+          "text": "「丑角」是坎瑞亚的遗民——除此之外，我对他知之甚少，也从未与他有过什么密切的交流。但他似乎对我意有所求，以前给我指派过不少重要的任务，包括前往「深渊」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/21ddec5e4f1d25095058fcd3ccbc57c2_4532808523527397079.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「队长」…",
+          "text": "「刚正不阿的『队长』」、「正直果敢的『队长』」、「战功累累的『队长』」…这些愚人众里流传的言论，就算是人偶的耳朵也要听出茧子来了。你不觉得，绝对的「正直」，其实是个极其危险的隐患吗？更不用提，「队长」拥有顶尖的实力。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/7682883ac08dd3cd8fb0a41d77c27761_2297294301463881241.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「博士」…",
+          "text": "真遗憾，小吉祥草王让他消除了那么多的切片，剥夺了我将他一片一片千刀万剐的快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0eda215b335d442f6ce6a29affab3029_5125751660099836181.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「少女」…",
+          "text": "试问：当遇到一名「无论何时」都懵懂无知，「无论做什么」都麻木平淡的「少女」时，该作何反应？我的话，尚可一战；你的话…因为太有良知，还是离她远些吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/a1f0aff0c3b3b7d745309ff3a7a85bf1_8219388983397820610.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「仆人」…",
+          "text": "道貌岸然的伪君子。她对人展露「优雅」与「亲切」都只是为了更好地「控制」罢了。而直面过她疯狂一面的人，大多已经…呼~。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/4a734ae3dd65ec582e644e2c957e7c47_804028106094407409.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「公鸡」…",
+          "text": "也就是「公子」才会觉得「公鸡」是真心实意、不求回报地关心他和他的家人。虽然那位市长大人确实做了不少实事，但稍微有点脑子的人都能看出来，这里的潜台词是「你的家人都在我掌控之中」吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0ae0e5e36c4e17783dc64e9b938d49fd_6699949085903766234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「木偶」…",
+          "text": "她除了自己的研究以外什么都不关心，性格恶劣得很。但即便做到如此极端的地步，却也只是制造了大量废品，在我仍是执行官时还低我一席，真是可怜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/9ab9e1be0dd924cf0353e71ff1bc08e7_824785113401580935.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「富人」…",
+          "text": "那个第九席啊，他对「公平交易」过分偏执，甚至试图推翻神与人之间天生的不平等。不过凡人就是这样，容易有不切实际的妄想，倒也没什么特别的，就像他平庸的能力和眼光一样——选择和「博士」密切合作，哼，是不会有好下场的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/566e999579ce341805a196e76412ab4b_5428284256953846066.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「公子」…",
+          "text": "头脑简单，四肢也不甚发达。让他做最后一席都是在拉低执行官的整体水准。万幸，我已经不在其列了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/014eeaea6f54cd0a594a2a046031e334_6392582756868811695.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「女士」…",
+          "text": "她的灰烬里什么都没有。我对失去未来的人不感兴趣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ef566b5f8561dae95808bfc5103e96a6_3269821288954616773.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "油腔滑调的妖怪，为博神明的青睐，将自己伪装成关心人类的样子。其实，只是为了找乐子吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/fbe44ac62c3b9e6ba53763d3900d687a_2416121043540693426.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶…",
+          "text": "你说枫原家的后人？那岂不是…哦？他也有风元素的「神之眼」，还扛下过雷电将军的一刀？呵呵…哈哈哈哈哈哈哈哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/2b0c27f82d1b324930e35c0d713878d2_3482151712759714048.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛索斯…",
+          "text": "你为什么觉得我会认识他？就因为他经常追在我后面吵着要看我的帽子吗？我们没怎么说过话，第一次见面他就问我是不是叫阿帽，这又何尝不是以貌取人？哼，阿帽，这个名字倒是流传开了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/82503813/4ee0d3d90282d619b938331861f44bd5_5132619029318288263.mp3",
+          "audioName": "关于赛索斯…_cn.mp3"
+        },
+        {
+          "name": "关于杜林…",
+          "text": "那个家伙刚从书里出来时就已经带了一堆问题了，没想到成为人类之后，问题更多。每次都把信写那么长，字还歪歪扭扭的看都看不清楚，啧。\n你要是闲得慌，倒是可以去给他解答解答。免得他走上什么歪路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/01/14/50494840/ef45a6479bb561b3e50352d2d7d6a7d3_5508585279133057415.mp3",
+          "audioName": "关于杜林…cn.mp3"
+        },
+        {
+          "name": "想要了解流浪者·其一",
+          "text": "真稀奇，竟然想了解我。会招来麻烦哦？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/94685a5e1548776c700eb88d803cd165_8363329107825328565.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其二",
+          "text": "啊，一定有很多、很多人想要找我清算前尘。无所谓，我来者不拒——或者说，还挺期待的呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/18c2483315b339f0829319591c31ea1c_3974007371283939366.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其三",
+          "text": "我曾以为成神便可摒弃无用的情感，现在不这么觉得了。至少「愤怒」，无论来自他人还是自我，都是方便使用的工具。怎么会有人永远不生气呢？难以想象，这种人就没有一点脾气吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/90ebfefd66735ef590f5e39f6cb15f98_3074566613656661571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其四",
+          "text": "在进入世界树时，我心中只有一个念头：希望自己从未来到这个世上。世界树回应了这个愿望，却没有带来我期盼的结果。这片土地的命运在捉弄它的囚徒方面一如往常。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/3c9f21c6d8f6acd3666517dc39e8eeda_880083309964068337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其五",
+          "text": "你我有过交点，但终有一天会去往不同的地方。谁知道以后会发生什么呢？走着瞧吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/87552106ad3a88c9cc91a0e8b4e5f160_216162036266535089.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "流浪者的爱好…",
+          "text": "爱好？那是闲人才有空琢磨的东西吧，我看起来像是没事做吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/a3f36fa11948960bc8c3a08a2eabd54c_4439492211811217197.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "流浪者的烦恼…",
+          "text": "在想怎么才能把你甩掉，去胡作非为一番。——开玩笑的，你信了？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/696fdc3a93c187333b50d8b78dde2289_6233336186986636107.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "有茶吗？越苦越好，回味无穷。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/01e50cfb0190c55a19107ca6459ece07_5193962667330652792.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "腻腻歪歪的甜东西，牙齿都要被黏在一起了。你自己留着吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e454cb0a38580b0010e1afd0440d762d_1213135409150322275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "还行吧，算是你为数不多的优点了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/24ad396970df6f4076ef3fc6b681adeb_3478143899636464303.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错，至少做出了能入口的食物。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0bbc1cb7d709388d3c6cfc7eefac2693_2758062014235739769.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "想害我？难不成你笨到忘了我非凡胎？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/04b91ba8d90469f050668b88a61ed10e_3584918663750363092.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "把手给我。…呵，别紧张啊，只是带你去高处看看而已。如何？应当是非凡的景色。感谢就免了，谢来谢去的没意思。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/871baad3115512b9f97e1dfbe8f17632_615117359014662686.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "…看得出来，你尽力了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/fb3e1523e9cbd79a0ca3b97fa75033d9_5308753608468612186.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "风吹过来了…你做了什么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/8a32fa20b8338a53e2f767fea97cf5fd_1840007656372413740.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "给我力量，你不担心后果吗？…好吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e541848976878f43987caf5e90ea92fc_7936400848374950872.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "虽说我可以成为你的助力，但将我视作同伴仍是件危险的事情，希望你清楚自己在面对什么。若你不畏惧，便站到我身后吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/6d82ba560c807cd5b8add09beabbb19a_9202938150933820032.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "风起！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ce3cd7e52573a3d89603a048e6b73930_7027033283572783965.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "俯瞰凡尘！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/91ee12b7b2dfa45cf04513c7f575ee7b_385854923105184713.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "怒风腾天！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/f0167757e20a12651b25c12499319097_5927580940718252589.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "不度蝼蚁！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/91c1d754392f9577a6dec3313fd3279d_8884080765835613637.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "鼠雀之辈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/18306a797cc267a61a09762be1972aa3_8951420924942551392.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "叫大声点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/699c2eaa033857994d0c1ff6c1370b36_1054270485674851574.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "把头低下！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0a8d0401c620f4ea2cf8ed6c88637a68_808204658397122753.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "毫无自知之明！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/a5a4a19b4102bb6334a1776a3be8b04d_3195564798653914313.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其六",
+          "text": "就凭你，也配直视我？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/016a8e62490da0b4e3a8e302dfeb6b69_4496877714814986163.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "风驰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ab660345a144859254e8db2af7af04fe_5599904766850193404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "疾风随行！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/a41f5a5ddee34b92d23eff96a805736f_2680920062681771927.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其三",
+          "text": "…真慢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e0d2beccd83185c6e9cf82d1d3617a00_2285299754306714246.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其四",
+          "text": "没叫你跟着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/371f43ff3a48c3843237ecb58ac6e99e_7457443197583929260.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "多余。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/dd4c52332093484d6d9eb825108e4829_5781658141585445367.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "啊？这你也要？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0b5f1c401bd69d8ea5868311740c0deb_4909532167263420930.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "你自己拿着玩吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/7ba63283d5daca19a6820cc9f8f38311_8406256507195012855.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "习惯了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/f63258b54e0ad98b5699c1ffec4d87de_4166103749844866786.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不值一提。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e41f797af034a9c57716d036ebe4a583_6399602073225251325.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "要你何用！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/f5bd42478a9d8a7055887ff8f780342e_4881425957523178829.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "也没指望你派上用场。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/1b2aeb2dfeedb948c05e377c1ddb4be8_5429379920711656351.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "坠入…深渊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/dce4e596804d94002e8d630561cb4fb3_7289208472237216216.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "皆为…徒劳…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/82143720255c315f1f4affa7ef96dcee_2806877114527579102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "罪业的报偿…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/3b47cef507cb1f02990f2226f19dcd13_8299619023129128246.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不过如此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/720e458ad112cfd0ed00edc1b2a21d86_6114462428201152915.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "…可笑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/307952343ce97005276308dc75a1dc3f_7335387833802617746.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其三",
+          "text": "…你死定了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/70a914df2cc2c0f9d3a7767faeeaed7d_3423489358745833200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其四",
+          "text": "等着求饶吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/6ec4ee75998f9a820a1ab8a9b8fa53b6_5937178336415416757.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其五",
+          "text": "做好付出代价的准备。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/3fbdc730bd30d93a429fafca179c0efc_3811544984947815643.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "没想到…叫我做什么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/96e9ff222b86b33b8db74f1c0f1e2001_9165772047880703519.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "你最好有要事相求。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0461c6328add374a42bbc01187cbff41_8083580320644618090.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "非我不可？…行吧，勉为其难。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ad5da4c017019c8e1dee75084ba9c26b_6849517683030118814.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "要我报上名来？此行世间，我名号诸多，虽然随便一个对凡人来说都高不可及，但于我都已成过往。想称呼什么就随你吧，让我见识下你的品味，可别让我失望。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ec97ccf9eff2cb3fe49ab11c761310c5_6660344248061895316.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·风",
+          "text": "这世上没有纯粹的自由。风也会有吹到头的时候。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/4906e6e4fbef115d3f07ec8338ceb964_1978136456543725819.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·说话方式",
+          "text": "我说话刻薄吗？只是实话实说罢了，接受不了的人才该自己反思原因。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/5739b3f9046c07df96bf370a6f7a8295_2930592336533718212.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·寒暄",
+          "text": "寒暄就免了吧，没话找话的样子也太可笑了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/264d14875a8e4b49f4975046e60c20c8_7137274161391260451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "想用我的斗笠遮雨？亏你提得出这种要求。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/6e05298a7444a6c944fac57f1b58a03a_7719398416824056179.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "见了点阳光就能高兴成这个样子？幼稚。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/5f7e4ae0c6f4b6e0e13663dd161ce42a_7631743480633537605.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "啧…烦心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/9cc34c803602ecb6e69dd778bdf35b77_7624843505763904833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "明明和雨没什么区别，却讨人喜欢多了…真是人各有命。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/b79cc719ca4a7f2aebc3a2bb4f568761_173802306593575109.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这点程度，你都能做到吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/f42d7c5d76b8ed66ade6bf4859294b4c_6664138484798993568.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "「快醒醒——太阳要晒屁股咯——」…哈，你不会以为我会这么叫你起床吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/945f79fd6dd73e77bd1cda9bbdd974fc_5517721832319927999.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "我不需要吃饭。管好你自己和身边的小东西，就算是让我省心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/fe685a64b12205d1a656092fd45cf9ce_3492014547565795615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "终于，无聊的一天就要结束了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/7a2caf8b62a864f9feaf502f5e6de988_8316911456762017255.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "在我身边睡不着吗？呵呵。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/255d95a5852e334f2de1d235ca3c9a5d_6452234943999901305.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于流浪者自己·人偶",
+          "text": "烧掉一个人偶会留下灰烬。至于灰烬中会诞生什么…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/c67fa756fd51db928b9c1bfacae6adc6_466880896196124045.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于流浪者自己·心",
+          "text": "那种东西随便了。执着于注定不属于自己的事物只是在浪费时间，现在的我有更重要的事情要做。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/885f7fbbb88473124d2a10b7f4334b66_7062566346001176924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·对手",
+          "text": "对你我以前的对峙耿耿于怀？哦。所以呢，你要怎么做？慢慢想，我不急。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/9d01ed50ebb1727ebc0811be0f6c0a1d_3305689307956822598.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·同伙",
+          "text": "我不可能皈依「正义」，但既然说过要偿还你的恩情，就定会做到。倒是你，在和我接触的时候可能需要想想自己立场哦？万一被人撞见，说你与罪人「狼狈为奸」，我可概不负责。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/717eb050c294214f516e2651769ecb41_3555743665987466309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "所谓「神明的注视」令人不爽，但反正是可用的力量，我不挑。你觉得「风元素」有其深意？呵，为什么会这么想？神明行事蛮横又无理，我不是让你领教过吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/d2f85265ebc47bd7df2ca9c5c7fbd82f_1432707002095772958.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "没有。你想问什么就问吧，我看心情回答。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/b0fe827f11f8e0150e1b803b9f41645f_9176346908006832293.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "看啊，鸟雀会炫耀羽毛，松鼠忙着囤积食物，人类为了柴米油盐整日奔走。头脑简单的生物活得就是比较容易呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/b14f541b73e05ffd112e00674d3687a3_2850030600536635451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "她选择不除掉我，或许不只是因为我有利用价值。也许是因为她很贤明，又有至善之心，又或许，是她在我身上看到了孤独的影子…你说我是在恶意揣测？哈，这不是当然的事情嘛！我又不是什么好人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/d1e14aed1fd80cb2f5795260553f2622_8297897654652860874.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "对自己的造物视若不见，却又美其名曰不忍心干预…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/a95375eb45cef51fc324b50968653d1b_2917596644642238641.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「女皇」…",
+          "text": "人人都称赞她的温柔与慈爱，却不知「爱」也是「罪」的一种。搞不好是代偿心理作祟哦？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/1927fe16efc5c20a1063237ffb592c50_4204431675055209966.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「丑角」…",
+          "text": "「丑角」是坎瑞亚的遗民——除此之外，我对他知之甚少，也从未与他有过什么密切的交流。但他似乎对我意有所求，以前给我指派过不少重要的任务，包括前往「深渊」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/7ea6c03e1f6d2bd0a18b2c6f9f5e126d_1960181538329497080.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「队长」…",
+          "text": "「刚正不阿的『队长』」、「正直果敢的『队长』」、「战功累累的『队长』」…这些愚人众里流传的言论，就算是人偶的耳朵也要听出茧子来了。你不觉得，绝对的「正直」，其实是个极其危险的隐患吗？更不用提，「队长」拥有顶尖的实力。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/515dc7b74351f19ade9d357e59754ccd_7181965017085300675.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「博士」…",
+          "text": "真遗憾，小吉祥草王让他消除了那么多的切片，剥夺了我将他一片一片千刀万剐的快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/22ea4e6221d59f1bafa4f281ed6d6622_2687447263830923487.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「少女」…",
+          "text": "试问：当遇到一名「无论何时」都懵懂无知，「无论做什么」都麻木平淡的「少女」时，该作何反应？我的话，尚可一战；你的话…因为太有良知，还是离她远些吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/418595aee32a91474192ff2af2fbe08f_3730101940047540641.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「仆人」…",
+          "text": "道貌岸然的伪君子。她对人展露「优雅」与「亲切」都只是为了更好地「控制」罢了。而直面过她疯狂一面的人，大多已经…呼~。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/8cf4771d2abdea6b3e6488f848382c00_1143116933874180860.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「公鸡」…",
+          "text": "也就是「公子」才会觉得「公鸡」是真心实意、不求回报地关心他和他的家人。虽然那位市长大人确实做了不少实事，但稍微有点脑子的人都能看出来，这里的潜台词是「你的家人都在我掌控之中」吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/af692bcf9734d7ee1898b97477d50eb9_8097670360359042573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「木偶」…",
+          "text": "她除了自己的研究以外什么都不关心，性格恶劣得很。但即便做到如此极端的地步，却也只是制造了大量废品，在我仍是执行官时还低我一席，真是可怜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/373641f505d8016871dc36d5c5ad65f9_2200998371429932878.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「富人」…",
+          "text": "那个第九席啊，他对「公平交易」过分偏执，甚至试图推翻神与人之间天生的不平等。不过凡人就是这样，容易有不切实际的妄想，倒也没什么特别的，就像他平庸的能力和眼光一样——选择和「博士」密切合作，哼，是不会有好下场的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/22c476fcfb96a6e2e1ebc9415fc2520f_5871261646282492236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「公子」…",
+          "text": "头脑简单，四肢也不甚发达。让他做最后一席都是在拉低执行官的整体水准。万幸，我已经不在其列了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/484d371eb865d253135f0b316ebc2866_5647520913124568659.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「女士」…",
+          "text": "她的灰烬里什么都没有。我对失去未来的人不感兴趣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0811a77311c4969ae7cb69d589bafc56_2171512028995210699.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "油腔滑调的妖怪，为博神明的青睐，将自己伪装成关心人类的样子。其实，只是为了找乐子吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/18bcc8d072d94edbae3d6ffb034d4699_2546831376427534166.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶…",
+          "text": "你说枫原家的后人？那岂不是…哦？他也有风元素的「神之眼」，还扛下过雷电将军的一刀？呵呵…哈哈哈哈哈哈哈哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/53af695e640d9b62d8bb7e865e35362a_634823231218728004.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛索斯…",
+          "text": "你为什么觉得我会认识他？就因为他经常追在我后面吵着要看我的帽子吗？我们没怎么说过话，第一次见面他就问我是不是叫阿帽，这又何尝不是以貌取人？哼，阿帽，这个名字倒是流传开了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/82503813/81aabdaf0c4a904a3b05e4f6951866bf_374256126057248625.mp3",
+          "audioName": "关于赛索斯…_en.mp3"
+        },
+        {
+          "name": "关于杜林…",
+          "text": "那个家伙刚从书里出来时就已经带了一堆问题了，没想到成为人类之后，问题更多。每次都把信写那么长，字还歪歪扭扭的看都看不清楚，啧。\n你要是闲得慌，倒是可以去给他解答解答。免得他走上什么歪路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/01/14/50494840/6b10f8f054a7fa2100382dfd32b44634_7631894159201832129.mp3",
+          "audioName": "关于杜林…en.mp3"
+        },
+        {
+          "name": "想要了解流浪者·其一",
+          "text": "真稀奇，竟然想了解我。会招来麻烦哦？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ce7b874a7934e9b3f5928afbf3d9b188_9191793212717650398.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其二",
+          "text": "啊，一定有很多、很多人想要找我清算前尘。无所谓，我来者不拒——或者说，还挺期待的呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/532cc576376c15c76be621857872c364_1599276582321563884.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其三",
+          "text": "我曾以为成神便可摒弃无用的情感，现在不这么觉得了。至少「愤怒」，无论来自他人还是自我，都是方便使用的工具。怎么会有人永远不生气呢？难以想象，这种人就没有一点脾气吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/5d4d8e39d179cd67e1d286da2bfa2568_6437506051794777837.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其四",
+          "text": "在进入世界树时，我心中只有一个念头：希望自己从未来到这个世上。世界树回应了这个愿望，却没有带来我期盼的结果。这片土地的命运在捉弄它的囚徒方面一如往常。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/c68a352d201b7051b48a6b11ee1e0b79_2362150147851207361.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其五",
+          "text": "你我有过交点，但终有一天会去往不同的地方。谁知道以后会发生什么呢？走着瞧吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/163f8342d328f79936ad1dbf548f41c1_4635347944902915920.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "流浪者的爱好…",
+          "text": "爱好？那是闲人才有空琢磨的东西吧，我看起来像是没事做吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/022d7467efba402b9c763b073629ac7d_4852999858865788442.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "流浪者的烦恼…",
+          "text": "在想怎么才能把你甩掉，去胡作非为一番。——开玩笑的，你信了？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/08ebeb967ae22ede3ccf4b7ef2fb9713_2614835230791153338.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "有茶吗？越苦越好，回味无穷。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/183c1057b96b8e928c9f41297dbcfcaf_8399157523146437279.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "腻腻歪歪的甜东西，牙齿都要被黏在一起了。你自己留着吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/8580ee94d539bc6e527378e333635c79_5020956814205464130.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "还行吧，算是你为数不多的优点了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/1f2a26fd03d6c8d7bf2cc614c6e8129f_5303879713459804486.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错，至少做出了能入口的食物。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/2a5bd83f8ea149eac2250b7034e9ae0e_6078454360837669297.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "想害我？难不成你笨到忘了我非凡胎？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/b046624594be29709da909851f232d5c_5869556531934746815.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "把手给我。…呵，别紧张啊，只是带你去高处看看而已。如何？应当是非凡的景色。感谢就免了，谢来谢去的没意思。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/aaf277e5a7ed448c2c077cd7511dbe75_7333541484295334304.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "…看得出来，你尽力了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/9f6c4c3ee1d598a603e5d86be86d314b_4867537434015422399.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "风吹过来了…你做了什么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/6d2eabee5e599dbd2e9e5333943d6fba_5415277455644055523.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "给我力量，你不担心后果吗？…好吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/3dd26dc01a91fb57a73c7ee9e1e39da6_1864465775002177488.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "虽说我可以成为你的助力，但将我视作同伴仍是件危险的事情，希望你清楚自己在面对什么。若你不畏惧，便站到我身后吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/8cdd4496f5f0e272b414a3eedc132126_5021449593669566684.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "风起！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ff589e68d5ed0fbaef2c15524cc7ab54_7708781023266145340.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "俯瞰凡尘！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/3edd77168c1d84972c740d9c78fc92e2_2465475213074007709.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "怒风腾天！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/b40bfc7e784a70f6263b18701d0aee33_4362712082976509069.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "不度蝼蚁！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/dbade90bd5986bcce2dccf8bd6780651_183597362476888931.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "鼠雀之辈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0850a37991394644501a2248b02bdae7_1355428169429805667.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "叫大声点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/549005c80fb68fc4beff367612e8b7b3_4842257830210035933.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "把头低下！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e37a07759e20f9b3801d5049958d8c25_424749512719117233.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "毫无自知之明！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/17bf03449ffae19d47f93c3cd62b8e8c_7949164627511725162.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其六",
+          "text": "就凭你，也配直视我？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/07771aa6210c4e101e18aa7037dac835_4224136984679871297.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "风驰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/342695af65c78b2fb2a577f442309ee4_119991656086984759.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "疾风随行！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/69fc43890658fe20198d14ea98ec1edd_1724885559773709412.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其三",
+          "text": "…真慢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/9d9a0098cc02d68524e196228ca54161_5354588689926575449.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其四",
+          "text": "没叫你跟着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/f844eaae80a9dbe0fef86b5d53006554_3610351382912559747.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "多余。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/37f9eaa740bf3e231eeea3ab100bebf3_4723630532430147763.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "啊？这你也要？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/741630bd3fce0ceaad2dc1cce48ca72e_5965575887441129442.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "你自己拿着玩吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e43e65fcaa70260cc67a557fba6bfebb_7569128891413702546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "习惯了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/cc79f402bf504d142521e6fb26aaa3b2_379733812178730381.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不值一提。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/c7abb935c04c0086fd36ae9f41264c2d_8712995567838840066.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "要你何用！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/fbec17d58d67941d78b0c1647eaa3ec7_4790385994467223943.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "也没指望你派上用场。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/9fe5ecffc1ec357ee2697fcb503407ac_2757049480503265922.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "坠入…深渊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/df519cf6a0c72b42160e91cd42481aa4_2076713815918228728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "皆为…徒劳…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/073293371bcae65767abfd3a5d55d9b7_5442870565730695102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "罪业的报偿…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/9d5efc5ed01535e3f93a78d3ac6bf888_5679206451117227846.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不过如此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/555b3e264b8a77d4a65c5ebc2d9b57f7_4713815132413039844.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "…可笑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/817fdd84671993e35a0e7aad2774d3d1_5345385436325046858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其三",
+          "text": "…你死定了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/7e73fef99fcf7d5f91333c9bd817665c_3837570291522644858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其四",
+          "text": "等着求饶吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/622b5c62df340a93e00e9b170fc4ec01_6699949085903766234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其五",
+          "text": "做好付出代价的准备。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/d9389fe04a1b4eaea27670e96d42d245_6515281340331348471.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "没想到…叫我做什么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e4790de0dd176fe5552242d5f6a9ef67_8630775842763532140.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "你最好有要事相求。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/21aab40f8dfc993535f3ea51a27e7143_8585641536151107717.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "非我不可？…行吧，勉为其难。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/21f414c5c978fa8683014ab7a6011497_8435396310373765759.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "要我报上名来？此行世间，我名号诸多，虽然随便一个对凡人来说都高不可及，但于我都已成过往。想称呼什么就随你吧，让我见识下你的品味，可别让我失望。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/90f7ec2d56e0111609b70b79fd71f906_2753772600032078871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·风",
+          "text": "这世上没有纯粹的自由。风也会有吹到头的时候。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/8cb7b683d5eb78492c1f4443d054ce25_431192042411517255.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·说话方式",
+          "text": "我说话刻薄吗？只是实话实说罢了，接受不了的人才该自己反思原因。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/a296f28e254231016ed09cb4cea2f0ee_5444220111579037676.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·寒暄",
+          "text": "寒暄就免了吧，没话找话的样子也太可笑了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/cf90aa2d114f60f5aa44492895d336a8_6248370371770464713.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "想用我的斗笠遮雨？亏你提得出这种要求。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/2fe184393e063265ae8397b03b085036_2464063032967387841.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "见了点阳光就能高兴成这个样子？幼稚。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/8e392b63cce161e911fc76c9b91d1bca_66269356754390764.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "啧…烦心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/005f70d9d7dd0faeaaa3f194050cf649_8363329107825328565.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "明明和雨没什么区别，却讨人喜欢多了…真是人各有命。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/93d2ff52d9dfdbebcec47fe7ab72085b_823028145784704300.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这点程度，你都能做到吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/61b6cc0a57e6169a3f86607aa4a8f9e2_2095998262998225069.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "「快醒醒——太阳要晒屁股咯——」…哈，你不会以为我会这么叫你起床吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0b92120554b9c7e6547a2dccaa115d81_1578660677350433754.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "我不需要吃饭。管好你自己和身边的小东西，就算是让我省心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/8a929116dc7a347477c9c110659bf86d_8632336542592122143.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "终于，无聊的一天就要结束了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/6b4db08c7b4035031273649c3a1de222_5505921061996896590.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "在我身边睡不着吗？呵呵。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/b0b55ab9896b670a6ed8ee5ba0a7a1c4_946480266276511211.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于流浪者自己·人偶",
+          "text": "烧掉一个人偶会留下灰烬。至于灰烬中会诞生什么…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e89d8d7911ddeb41b242e5c9fe814c53_6387081007899518151.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于流浪者自己·心",
+          "text": "那种东西随便了。执着于注定不属于自己的事物只是在浪费时间，现在的我有更重要的事情要做。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/4719d030aef04d3b8f579c948227eab6_228756449289773565.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·对手",
+          "text": "对你我以前的对峙耿耿于怀？哦。所以呢，你要怎么做？慢慢想，我不急。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/31d1900b1705375c722d6f71308d90a8_8362316581861177448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·同伙",
+          "text": "我不可能皈依「正义」，但既然说过要偿还你的恩情，就定会做到。倒是你，在和我接触的时候可能需要想想自己立场哦？万一被人撞见，说你与罪人「狼狈为奸」，我可概不负责。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ed841ebacff72a900466582474a84260_8005654889737707933.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "所谓「神明的注视」令人不爽，但反正是可用的力量，我不挑。你觉得「风元素」有其深意？呵，为什么会这么想？神明行事蛮横又无理，我不是让你领教过吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/778bd003138793b8059c412c391e4015_5568809505788764950.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "没有。你想问什么就问吧，我看心情回答。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/bab98972f12d94a231509f13dc40fac7_8152519040599740492.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "看啊，鸟雀会炫耀羽毛，松鼠忙着囤积食物，人类为了柴米油盐整日奔走。头脑简单的生物活得就是比较容易呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/b1788897f5d51c3145f6989975bbb93c_7694100644733542272.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "她选择不除掉我，或许不只是因为我有利用价值。也许是因为她很贤明，又有至善之心，又或许，是她在我身上看到了孤独的影子…你说我是在恶意揣测？哈，这不是当然的事情嘛！我又不是什么好人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/d53f9dcf8d4275a7322279b9fe40203c_9022793767025067085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "对自己的造物视若不见，却又美其名曰不忍心干预…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/24fae57c6a66993569cd5bdcb7f050f7_1078653818242363274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「女皇」…",
+          "text": "人人都称赞她的温柔与慈爱，却不知「爱」也是「罪」的一种。搞不好是代偿心理作祟哦？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/1417136378617cdedbb8ac987d73fc87_3450771965040776854.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「丑角」…",
+          "text": "「丑角」是坎瑞亚的遗民——除此之外，我对他知之甚少，也从未与他有过什么密切的交流。但他似乎对我意有所求，以前给我指派过不少重要的任务，包括前往「深渊」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0ce4fa110f6b2ac778da4679bb9e0394_7334883675710872401.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「队长」…",
+          "text": "「刚正不阿的『队长』」、「正直果敢的『队长』」、「战功累累的『队长』」…这些愚人众里流传的言论，就算是人偶的耳朵也要听出茧子来了。你不觉得，绝对的「正直」，其实是个极其危险的隐患吗？更不用提，「队长」拥有顶尖的实力。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/bcab211eba17f8a67ad0233b2835c2c5_1889308765385780610.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「博士」…",
+          "text": "真遗憾，小吉祥草王让他消除了那么多的切片，剥夺了我将他一片一片千刀万剐的快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ed25c40f5dd56fe6c01eb5d9a4e62db7_1116027549034135281.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「少女」…",
+          "text": "试问：当遇到一名「无论何时」都懵懂无知，「无论做什么」都麻木平淡的「少女」时，该作何反应？我的话，尚可一战；你的话…因为太有良知，还是离她远些吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/cf2541b27dc96fa9cd42d425b8f8e261_5927580940718252589.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「仆人」…",
+          "text": "道貌岸然的伪君子。她对人展露「优雅」与「亲切」都只是为了更好地「控制」罢了。而直面过她疯狂一面的人，大多已经…呼~。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/29c332d6fc110b2e20faa2f53ffc432c_8934430631327817959.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「公鸡」…",
+          "text": "也就是「公子」才会觉得「公鸡」是真心实意、不求回报地关心他和他的家人。虽然那位市长大人确实做了不少实事，但稍微有点脑子的人都能看出来，这里的潜台词是「你的家人都在我掌控之中」吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/c9ec3874ec213f593d792cbcf4a72d62_8837066310271759072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「木偶」…",
+          "text": "她除了自己的研究以外什么都不关心，性格恶劣得很。但即便做到如此极端的地步，却也只是制造了大量废品，在我仍是执行官时还低我一席，真是可怜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/9150ea80df87ac5e4b7005b16136746b_3397477908179910778.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「富人」…",
+          "text": "那个第九席啊，他对「公平交易」过分偏执，甚至试图推翻神与人之间天生的不平等。不过凡人就是这样，容易有不切实际的妄想，倒也没什么特别的，就像他平庸的能力和眼光一样——选择和「博士」密切合作，哼，是不会有好下场的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/be03fa6dbfcaa425d1ac0643be308089_5646325242485670437.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「公子」…",
+          "text": "头脑简单，四肢也不甚发达。让他做最后一席都是在拉低执行官的整体水准。万幸，我已经不在其列了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/28938ee43655e6663894753364dfd37e_5326480331067730886.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「女士」…",
+          "text": "她的灰烬里什么都没有。我对失去未来的人不感兴趣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/3a3d33078b0b8cae6bb513b91a6fbae5_2285299754306714246.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "油腔滑调的妖怪，为博神明的青睐，将自己伪装成关心人类的样子。其实，只是为了找乐子吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/22daea5f7662c933864b44f8f214b525_6856948251603428774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶…",
+          "text": "你说枫原家的后人？那岂不是…哦？他也有风元素的「神之眼」，还扛下过雷电将军的一刀？呵呵…哈哈哈哈哈哈哈哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/33c809c623fbb6680f9c9c7734ea9925_4457772347182827655.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛索斯…",
+          "text": "你为什么觉得我会认识他？就因为他经常追在我后面吵着要看我的帽子吗？我们没怎么说过话，第一次见面他就问我是不是叫阿帽，这又何尝不是以貌取人？哼，阿帽，这个名字倒是流传开了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/82503813/636a46a896c67d1e11e5f4e6ef3dbd31_6824895294110258130.mp3",
+          "audioName": "关于赛索斯…_jp.mp3"
+        },
+        {
+          "name": "关于杜林…",
+          "text": "那个家伙刚从书里出来时就已经带了一堆问题了，没想到成为人类之后，问题更多。每次都把信写那么长，字还歪歪扭扭的看都看不清楚，啧。\n你要是闲得慌，倒是可以去给他解答解答。免得他走上什么歪路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/01/14/50494840/36a63f3b2f64748b513ab611f1bbd5de_8674797220106091992.mp3",
+          "audioName": "关于杜林…jp.mp3"
+        },
+        {
+          "name": "想要了解流浪者·其一",
+          "text": "真稀奇，竟然想了解我。会招来麻烦哦？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e02893063fa0be62ce1bc2a87e1d05cb_3128028876077516308.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其二",
+          "text": "啊，一定有很多、很多人想要找我清算前尘。无所谓，我来者不拒——或者说，还挺期待的呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/36b3e5cc8044f010032ab0089d72af89_3760252180936008954.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其三",
+          "text": "我曾以为成神便可摒弃无用的情感，现在不这么觉得了。至少「愤怒」，无论来自他人还是自我，都是方便使用的工具。怎么会有人永远不生气呢？难以想象，这种人就没有一点脾气吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/10c31f3aac70d806c020d6f8ea3949b3_4262384248569723750.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其四",
+          "text": "在进入世界树时，我心中只有一个念头：希望自己从未来到这个世上。世界树回应了这个愿望，却没有带来我期盼的结果。这片土地的命运在捉弄它的囚徒方面一如往常。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/9f3b4872754998c96de6a5615cc43b12_8746146512863146556.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其五",
+          "text": "你我有过交点，但终有一天会去往不同的地方。谁知道以后会发生什么呢？走着瞧吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/588f83a39b2f7216bfbcbc5f2b5b032b_2924305002418952847.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "流浪者的爱好…",
+          "text": "爱好？那是闲人才有空琢磨的东西吧，我看起来像是没事做吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/abd8b04971b60991b06f3dd0bb0016aa_7674511168653357856.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "流浪者的烦恼…",
+          "text": "在想怎么才能把你甩掉，去胡作非为一番。——开玩笑的，你信了？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/1bd8d004adb15a0d5c7f52425d042c30_701699387951574611.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "有茶吗？越苦越好，回味无穷。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/3be9dac18fee5a54bb8b1646c3055408_321645571228190782.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "腻腻歪歪的甜东西，牙齿都要被黏在一起了。你自己留着吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/dd82c155922c42707d2361a10c469e2b_4851979490961138302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "还行吧，算是你为数不多的优点了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/5d8af93e548c080bce2cc77859509be1_6280405315043002757.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错，至少做出了能入口的食物。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/3776a754c7763f1ee49c8d7b690c9685_8584712350825088935.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "想害我？难不成你笨到忘了我非凡胎？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/63f648843392f63d30102f05cca79688_5675313370069474964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "把手给我。…呵，别紧张啊，只是带你去高处看看而已。如何？应当是非凡的景色。感谢就免了，谢来谢去的没意思。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/4203a73cc1b803719a6ed397e25c55c5_8501529790064388022.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "…看得出来，你尽力了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/c6cc86214ad59ac56049ee07644709c4_7182396062823147475.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "风吹过来了…你做了什么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/1383139b387c368e17d89cac3918a537_6551881083557493330.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "给我力量，你不担心后果吗？…好吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/cbd51ceaa504fd4909f06e87032c2deb_7725149668988613265.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "虽说我可以成为你的助力，但将我视作同伴仍是件危险的事情，希望你清楚自己在面对什么。若你不畏惧，便站到我身后吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/45dd6f405803cb40ee92ad68a3a7e8c6_5364978574101822286.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "风起！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/a1aa214c615816b9ae784cca98434dd1_7456267118261389307.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "俯瞰凡尘！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/31076ed4e1a47b0b06b6619f803e55e7_5821794930626978893.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "怒风腾天！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/67753bf01c6fe01f6d951cb3d9c9ef10_1768741364917000456.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "不度蝼蚁！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/f30b7796e371f847830359bd28bbaeeb_1380976675649651255.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "鼠雀之辈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/9d5e01b12b073ba3eb21cf9d50ae2657_1567691390329359330.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "叫大声点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/a165f8605b510395eb0acc6287538181_6737664805134294235.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "把头低下！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e880bd3d2d95e0c4f61a13ef7f356aae_3761507316805309813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "毫无自知之明！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/34599376b428f7a3844c4796fb4865ff_7631743480633537605.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其六",
+          "text": "就凭你，也配直视我？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/feb350d2cce1fd9f3a6549b654b21f51_7621538623339376287.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "风驰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/80614078b3588075b1c5d57e6d4550e0_173802306593575109.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "疾风随行！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/13f1a1954712a7ba5d3afe918df491f5_6664138484798993568.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其三",
+          "text": "…真慢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/378b67c05ff8867720add7bc4eabf7ce_5517721832319927999.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其四",
+          "text": "没叫你跟着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/069d9eab26e7ac56d3706897daa55a0e_677466486285885183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "多余。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/38ce57219492541d7955b0efe9ae1cb8_425644893040390196.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "啊？这你也要？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ed2f9cab662cb0c2e26836d653e6cdf3_7919370444320820320.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "你自己拿着玩吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/1b8627231d95125bddfc8949b35c1c08_7743965398872589402.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "习惯了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/bc719a2809a8d868958a5a835cb3aa8c_5453280311949202970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不值一提。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0d278032a8d492470afe6e46939bfdcb_4125075078329508090.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "要你何用！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/bff5915b6d1c61052f8e5b8636beda14_3179148667326055487.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "也没指望你派上用场。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/3e4b3ffb1a488e8d33f6317a3895c8eb_4909850327531125495.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "坠入…深渊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/6fae273a090718b86ecf79389f328b1b_6239502609936908385.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "皆为…徒劳…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/d50ab1f0b2f8429ae7f3f8fe861aba43_466880896196124045.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "罪业的报偿…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/7f2ab8431f7faeb6b337be3c89cd5746_3305689307956822598.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不过如此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ff46e284fb43aa68267e27e470c2c525_1651916113118085544.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "…可笑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/012040479d1d4ab222ee76b28fd48160_1432707002095772958.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其三",
+          "text": "…你死定了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/c0b33f737af4ce09ae30206b267870fd_2850030600536635451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其四",
+          "text": "等着求饶吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/aa7a59233696c0ffde7dc592ff60fa69_9049700426099949997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其五",
+          "text": "做好付出代价的准备。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/78d2ec096936ed34abf51336ca733d0a_5814181998828332002.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "没想到…叫我做什么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0d4aa8f4f4e7102bfbd9ee9b0e7e011d_8093644036509998267.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "你最好有要事相求。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/6ee0f15c2ec28837a75eb1ea951f3851_6957277904551007689.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "非我不可？…行吧，勉为其难。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/88fdaf5fa81226d90447ce53376a0b3b_2390738744612839787.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "要我报上名来？此行世间，我名号诸多，虽然随便一个对凡人来说都高不可及，但于我都已成过往。想称呼什么就随你吧，让我见识下你的品味，可别让我失望。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/76a37186d0aebb11958254b66b567b86_6586991197338054924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·风",
+          "text": "这世上没有纯粹的自由。风也会有吹到头的时候。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/bc6d9be07ac564204329e2af550dadb4_435568705233142105.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·说话方式",
+          "text": "我说话刻薄吗？只是实话实说罢了，接受不了的人才该自己反思原因。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/328045475ac3463a2666b6fdf381a4df_1528680077282886172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·寒暄",
+          "text": "寒暄就免了吧，没话找话的样子也太可笑了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/3a473f1ca8e5ddbb5cfaccda5258fbab_6480534264137043210.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "想用我的斗笠遮雨？亏你提得出这种要求。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/58f8cd87df91fe64af9ce882365ba29d_3922934582298382426.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "见了点阳光就能高兴成这个样子？幼稚。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/6a00fa9f6737af9860a85747145ffce1_6461278274614609337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "啧…烦心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/283433c163b757f0208bb8cf3eb2e6fb_711716630758415522.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "明明和雨没什么区别，却讨人喜欢多了…真是人各有命。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/d4270582bc212095b17c15ef0dcb0ae4_1373159963002409439.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这点程度，你都能做到吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/21c537c3e1346bd3cc98603c6c4cf916_5267805254640257281.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "「快醒醒——太阳要晒屁股咯——」…哈，你不会以为我会这么叫你起床吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e274f4076d7eda9ec4743b2001bd73ae_7036771864343137226.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "我不需要吃饭。管好你自己和身边的小东西，就算是让我省心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/6c7ddd522ff6cf1ecdde5d6c7e92143d_8010634695008435704.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "终于，无聊的一天就要结束了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/f555dc55f6f0e43309794f69f7fe8a76_5341835842665759787.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "在我身边睡不着吗？呵呵。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/a971e4c793eed5837ea2730871f4e400_4852999858865788442.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于流浪者自己·人偶",
+          "text": "烧掉一个人偶会留下灰烬。至于灰烬中会诞生什么…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/04686660d6b92686dfa6b1dbd6d12f97_4562307142017545031.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于流浪者自己·心",
+          "text": "那种东西随便了。执着于注定不属于自己的事物只是在浪费时间，现在的我有更重要的事情要做。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ce566e06fb73f94309249adca8c9c6a1_1524788774536583992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·对手",
+          "text": "对你我以前的对峙耿耿于怀？哦。所以呢，你要怎么做？慢慢想，我不急。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0fc8ffc2fec3828a7778bc26d9547cb8_4170095972940260427.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·同伙",
+          "text": "我不可能皈依「正义」，但既然说过要偿还你的恩情，就定会做到。倒是你，在和我接触的时候可能需要想想自己立场哦？万一被人撞见，说你与罪人「狼狈为奸」，我可概不负责。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/853ccc0f7c293c18b1643bdadf407f05_949235612782881374.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "所谓「神明的注视」令人不爽，但反正是可用的力量，我不挑。你觉得「风元素」有其深意？呵，为什么会这么想？神明行事蛮横又无理，我不是让你领教过吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/598deed0392272821962233ad9109b18_7251721222220171665.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "没有。你想问什么就问吧，我看心情回答。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/eb257bad3f3b737e77bbafbcd9c57a08_4867537434015422399.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "看啊，鸟雀会炫耀羽毛，松鼠忙着囤积食物，人类为了柴米油盐整日奔走。头脑简单的生物活得就是比较容易呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/714dcc3de43b902fcf869624a5f3645d_7089770247530771732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "她选择不除掉我，或许不只是因为我有利用价值。也许是因为她很贤明，又有至善之心，又或许，是她在我身上看到了孤独的影子…你说我是在恶意揣测？哈，这不是当然的事情嘛！我又不是什么好人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/f966218fd8a0aae2827b0d0cc7b63e6c_4043410145828191992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "对自己的造物视若不见，却又美其名曰不忍心干预…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/8ddf2574a9a21c427e4f7b98917de387_2855126245417048474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「女皇」…",
+          "text": "人人都称赞她的温柔与慈爱，却不知「爱」也是「罪」的一种。搞不好是代偿心理作祟哦？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/e118733d3f8a74af01edbb737d5ca4a5_5415277455644055523.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「丑角」…",
+          "text": "「丑角」是坎瑞亚的遗民——除此之外，我对他知之甚少，也从未与他有过什么密切的交流。但他似乎对我意有所求，以前给我指派过不少重要的任务，包括前往「深渊」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ba7a0f387e5aba73cd2d6f658776f081_1013608972443923564.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「队长」…",
+          "text": "「刚正不阿的『队长』」、「正直果敢的『队长』」、「战功累累的『队长』」…这些愚人众里流传的言论，就算是人偶的耳朵也要听出茧子来了。你不觉得，绝对的「正直」，其实是个极其危险的隐患吗？更不用提，「队长」拥有顶尖的实力。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/3c277a0c34f7e27f85d9a267da1a35c3_3559491386101333436.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「博士」…",
+          "text": "真遗憾，小吉祥草王让他消除了那么多的切片，剥夺了我将他一片一片千刀万剐的快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/4c59776bc9ffb1b677d75dbbe49fb86a_4241605170076136349.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「少女」…",
+          "text": "试问：当遇到一名「无论何时」都懵懂无知，「无论做什么」都麻木平淡的「少女」时，该作何反应？我的话，尚可一战；你的话…因为太有良知，还是离她远些吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/69af43bd3ad7f91d3b51b01f7cdce722_5153451572791660443.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「仆人」…",
+          "text": "道貌岸然的伪君子。她对人展露「优雅」与「亲切」都只是为了更好地「控制」罢了。而直面过她疯狂一面的人，大多已经…呼~。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/d6fe2b2ce60383752a35461897e91e29_61983661396407218.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「公鸡」…",
+          "text": "也就是「公子」才会觉得「公鸡」是真心实意、不求回报地关心他和他的家人。虽然那位市长大人确实做了不少实事，但稍微有点脑子的人都能看出来，这里的潜台词是「你的家人都在我掌控之中」吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/4ae36fa7c1e551426d1acf9e0c7242c8_1430640781879996706.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「木偶」…",
+          "text": "她除了自己的研究以外什么都不关心，性格恶劣得很。但即便做到如此极端的地步，却也只是制造了大量废品，在我仍是执行官时还低我一席，真是可怜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/7c04c8c31882e283da9fd94b6995f1ad_4842257830210035933.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「富人」…",
+          "text": "那个第九席啊，他对「公平交易」过分偏执，甚至试图推翻神与人之间天生的不平等。不过凡人就是这样，容易有不切实际的妄想，倒也没什么特别的，就像他平庸的能力和眼光一样——选择和「博士」密切合作，哼，是不会有好下场的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/cdcd40844f801762146d1b1951d26786_7949164627511725162.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「公子」…",
+          "text": "头脑简单，四肢也不甚发达。让他做最后一席都是在拉低执行官的整体水准。万幸，我已经不在其列了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/9b4c9103726a3fef90a83ce19dbd58fc_2804636144869583494.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「女士」…",
+          "text": "她的灰烬里什么都没有。我对失去未来的人不感兴趣。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/b131cf5c85e99857236ce26952784eda_1724885559773709412.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "油腔滑调的妖怪，为博神明的青睐，将自己伪装成关心人类的样子。其实，只是为了找乐子吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/67b4ff730b5a37595a98d52937b929e3_5354588689926575449.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶…",
+          "text": "你说枫原家的后人？那岂不是…哦？他也有风元素的「神之眼」，还扛下过雷电将军的一刀？呵呵…哈哈哈哈哈哈哈哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/8b1a683c20fd169f41538658fa174f8b_7080769572787151316.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛索斯…",
+          "text": "你为什么觉得我会认识他？就因为他经常追在我后面吵着要看我的帽子吗？我们没怎么说过话，第一次见面他就问我是不是叫阿帽，这又何尝不是以貌取人？哼，阿帽，这个名字倒是流传开了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/06/05/82503813/5de45acf5d7ea140a60493ca70e56433_2098881950228506534.mp3",
+          "audioName": "关于赛索斯…_kr.mp3"
+        },
+        {
+          "name": "关于杜林…",
+          "text": "那个家伙刚从书里出来时就已经带了一堆问题了，没想到成为人类之后，问题更多。每次都把信写那么长，字还歪歪扭扭的看都看不清楚，啧。\n你要是闲得慌，倒是可以去给他解答解答。免得他走上什么歪路。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/01/14/50494840/2bfb517a18b6ff9741e0acf8fce039e5_5484826602212586236.mp3",
+          "audioName": "关于杜林…kr.mp3"
+        },
+        {
+          "name": "想要了解流浪者·其一",
+          "text": "真稀奇，竟然想了解我。会招来麻烦哦？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ec64a15bc8509706aa1e1c8162ad00e4_2769454167065976559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其二",
+          "text": "啊，一定有很多、很多人想要找我清算前尘。无所谓，我来者不拒——或者说，还挺期待的呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/9aabc23baaeb91c3b58b0675ea16b73e_6096583220870348473.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其三",
+          "text": "我曾以为成神便可摒弃无用的情感，现在不这么觉得了。至少「愤怒」，无论来自他人还是自我，都是方便使用的工具。怎么会有人永远不生气呢？难以想象，这种人就没有一点脾气吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/69fdce4a7d422382443f528e8b3e6ec8_30519981255370923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其四",
+          "text": "在进入世界树时，我心中只有一个念头：希望自己从未来到这个世上。世界树回应了这个愿望，却没有带来我期盼的结果。这片土地的命运在捉弄它的囚徒方面一如往常。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/84f0088b45bdf85362568e48e2f8564e_7193555710917547794.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解流浪者·其五",
+          "text": "你我有过交点，但终有一天会去往不同的地方。谁知道以后会发生什么呢？走着瞧吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/1394581f1e09b787fcb28635f8d4ec50_8712995567838840066.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "流浪者的爱好…",
+          "text": "爱好？那是闲人才有空琢磨的东西吧，我看起来像是没事做吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/68183d94ff6da902827220fca425b971_1898074581254618427.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "流浪者的烦恼…",
+          "text": "在想怎么才能把你甩掉，去胡作非为一番。——开玩笑的，你信了？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/132be94eb6a20df9f974e1b6593819c8_4370279151956754924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "有茶吗？越苦越好，回味无穷。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/f4062c4ebb980fcf6d280a6e0b79ade4_5752110981948341335.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "腻腻歪歪的甜东西，牙齿都要被黏在一起了。你自己留着吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/59ad1ff0e585e998c506455e1ae9f3e0_6834472518855664210.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "还行吧，算是你为数不多的优点了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/edcdcd1e83855909a70254601ed48045_4949017821086334586.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错，至少做出了能入口的食物。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/6a90d030b9e041608b4635edbb8e99c9_6515281340331348471.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "想害我？难不成你笨到忘了我非凡胎？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/22113846ff4d857eadf88cc82c198587_8370950573187133842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "把手给我。…呵，别紧张啊，只是带你去高处看看而已。如何？应当是非凡的景色。感谢就免了，谢来谢去的没意思。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/8bed99163c1b5356858fd306fdf9c328_1172613235024632426.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "…看得出来，你尽力了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/85e3cfcd1d4ad8a902d602e93c1fce68_8585641536151107717.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "风吹过来了…你做了什么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/318f8dad3bb6f7ac6bd272e5b253041f_2502852343217337569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "给我力量，你不担心后果吗？…好吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/603ba233b65590f4aa2f09ef1a964cd4_7353628532437565469.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "虽说我可以成为你的助力，但将我视作同伴仍是件危险的事情，希望你清楚自己在面对什么。若你不畏惧，便站到我身后吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/c253f242de816e01809fdad91b2b2303_3557343015617182522.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "风起！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/40f02fe802dfc48027fd57175624d22f_8806654978193785865.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "俯瞰凡尘！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/d7bc440dcfd2160542daf132cba4200d_2413685445820988091.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "怒风腾天！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/94323b58cbc3e7d06c88bcd151530efe_8376946759945049128.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "不度蝼蚁！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/45ea660829ec8988d734419ccab4b8e0_2464063032967387841.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "鼠雀之辈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/88b842f467924324fc80bc996f350f66_4020560709156995.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "叫大声点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/fe8dcf853b855cc8dee58887290f43aa_6849118389819486371.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其四",
+          "text": "把头低下！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/21bce49d4953afc4605ea3bafa67a0ba_5677784972267369377.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其五",
+          "text": "毫无自知之明！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/0ade8473136f0f6901c4ef22a16c4920_6587028527306831449.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其六",
+          "text": "就凭你，也配直视我？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/201db296d191f3831725a495cedff331_581546413061108298.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "风驰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/07ab332839fa542d968ef54952f74e5c_5481278479284205171.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "疾风随行！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/67877d72b115421ccf4fdce4bc75da28_1446567891506275844.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其三",
+          "text": "…真慢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ce5a4e789e08a812669f39fcf21342f5_5568809505788764950.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其四",
+          "text": "没叫你跟着。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/ab6de074fbcdef8602d4c86f89e81670_7697190875961067440.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "多余。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/07bf16fb7a70a633935a83357d14e45d_7316689564053406961.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "啊？这你也要？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/abf695074bdce5d5c0cfdaadafacb259_5762816953906296168.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "你自己拿着玩吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/c86be6c1a90c65c5e15097f77e86b1eb_2080627811268712577.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "习惯了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/d5feacdd14f83bc411d6623cc4d77584_416104582444453581.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不值一提。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/304f39209af0be7c9e0967b0d5f0a1aa_3450771965040776854.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "要你何用！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/c3e2521e474afcd27d943713068bdc59_4254469156760063028.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "也没指望你派上用场。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/cabeaee752ccb6de588a0bc7c887084d_1564959713742380674.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "坠入…深渊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/64522123b95dbaa2fac669a25dc456bc_316061170486570845.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "皆为…徒劳…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/aa30f01b1756ac63c731a99dd4b87a71_4531485372300397933.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "罪业的报偿…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/4cb15dfdecc4b782cf490f042ec2365c_4833572069066269970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不过如此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/1824928a22f0e0d11de73654abf81583_2192206404055013325.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "…可笑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/4d593a9bd421c74f17eff20b8080dbe9_1101427738345541075.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其三",
+          "text": "…你死定了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/b776dcee7b1f83e860d6ecc60363ab39_3397477908179910778.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其四",
+          "text": "等着求饶吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/8a13b254d2b08c5c1d481412fcc3543d_3819486828883451454.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其五",
+          "text": "做好付出代价的准备。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/cac77218c7f8af06658f857863149c2a_1405514811250525943.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "没想到…叫我做什么？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/889d00333705ab42060ec386b55463d7_5646325242485670437.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "你最好有要事相求。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/750072a6060bb56a3dc8b4b4436fe345_4283071496771644333.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "非我不可？…行吧，勉为其难。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/12/07/16576950/77c6678633d84dea3113b52bab9c1bbc_1567691390329359330.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

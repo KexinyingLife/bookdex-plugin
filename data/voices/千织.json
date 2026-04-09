@@ -1,0 +1,1661 @@
+{
+  "id": "500987",
+  "name": "千织",
+  "alias": [
+    "千织"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我叫千织，「千织屋」的老板。有服装定制类需求的话，欢迎找我。其他需求，就看你有没有足够用来交换的东西了，有来有回才叫「生意」嘛。另外，「千织屋」内严禁抽烟喝酒，寻衅闹事。「顾客即是神明」那一套在我这里不管用，就算来的真是神明，不守规矩被丢出去的时候，也一样是屁股着地。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/79dc271b692e0e25988792345bf5886c_5280454069916173897.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·评价",
+          "text": "我来决定自己该怎么走，要成为谁。没人能对我指手画脚。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/c4c569832ac89811dfce10268d934eec_4308723405501168157.mp3",
+          "audioName": "02闲聊·评价_cn.mp3"
+        },
+        {
+          "name": "闲聊·裁缝刀",
+          "text": "谁说裁衣服一定要用剪刀？那些死板的规矩由它去吧，我喜欢自己用着顺手的刀具。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/7578c93206bb8c77dec36268d07ff03f_7685561754085356777.mp3",
+          "audioName": "03闲聊·裁缝刀_cn.mp3"
+        },
+        {
+          "name": "闲聊·模特",
+          "text": "真要站着不动的话，干脆来当我的模特吧。给你设计款好看的衣服。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/d82a93e2de59386c32a1d5d7af0a9575_5950919483845693375.mp3",
+          "audioName": "04闲聊·模特_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "比起下雨，我更讨厌地上泥水，溅到衣服上就很难洗掉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/26ee05809036da1fd31d765cf1e1ec79_6525699443860489517.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "…想起了家乡往日的风景。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/c49e37539a8568828fd8e27edbc70036_2384264614684297156.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "清高却令人向往…落到手上的一瞬，这份美丽又随之消散…雪花这东西，和「时尚」还真像…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/e5a92945732b0a47f5c5795af1b3097b_1736659926019199559.mp3",
+          "audioName": "07下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "真难想象这种地方要怎么推行时尚。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/5faf9376bcc802464ba74674bcc2237e_1758801073986002515.mp3",
+          "audioName": "08在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早，别指望我会给你变出早饭来。你如果去咖啡厅的话就帮我带一杯咖啡来吧，不加奶，不加糖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/a4941d0c6cb386739649e05c8a6cbb9f_1739752002244247175.mp3",
+          "audioName": "09早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "已经这个点了？肚子完全不饿啊…我不打算停下手头的活。午饭你自己吃就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/66ba2804c2ab246b1a1e88e2b2a9ff4d_1636425569038048766.mp3",
+          "audioName": "10中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "外面好吵。全枫丹廷的人都出来逛街了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/cb19e7ba5d84bbcd0764fc9319b4cc5c_6541097991215052260.mp3",
+          "audioName": "11晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "我要去好好泡个澡放松一下。不多聊了，明天见。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/c3084738069c07cf63056fec5c90a4e5_6289806757348403119.mp3",
+          "audioName": "12晚安…_cn.mp3"
+        },
+        {
+          "name": "关于自己·直接",
+          "text": "很多人明里暗里表达过我的性格不够好，说话不够委婉，容易伤人。依我说，那种谁都看得出来的寒暄、客套和恭维才是在浪费彼此的时间吧？要是挑明事实就会受伤，那人也太脆弱了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/601d73839086936c900d86da48488a70_8792014432269953272.mp3",
+          "audioName": "13关于自己·直接_cn.mp3"
+        },
+        {
+          "name": "关于自己·理念",
+          "text": "最初构想品牌理念的时候，我想到了很多过去的经历，也由此提炼出了不少关键词。取舍是一件难事，尤其是你发现每一枚宝石都折射着你的一种想法…而你只能挑选最能代表你的那一枚。「永不认输」。那才是我，才是我的品牌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/191a666a58ee8a75dd3b90495295b65d_9169948895440210657.mp3",
+          "audioName": "14关于自己·理念_cn.mp3"
+        },
+        {
+          "name": "关于我们·试衣",
+          "text": "听我的，这件适合你。什么？之前没见过这样的款式？呵，那是你之前遇到的设计师没品味。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/dd7fb1abf32239998aeab6fa9fcc263d_5020397826134056007.mp3",
+          "audioName": "15关于我们·试衣_cn.mp3"
+        },
+        {
+          "name": "关于我们·交换",
+          "text": "事到如今再说这话有点晚了，但我向来是想说什么就说什么，你恐怕也习惯了。我不打算改变自己直来直往的作风，你也尽管在我面前表露最真实的自己吧，无须掩藏。我保证不会对你有所指摘。不信？你认识我那么久，我有说到但做不到的时候吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/a9e707e5c71bc12b93659ec84f3c7659_4583682581087634928.mp3",
+          "audioName": "16关于我们·交换_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "因为我的出身，枫丹人称呼我为「鸣雷的裁锦师」。爱怎么称呼怎么称呼吧，我对故乡没什么依恋的感情，毕竟就连我的「神之眼」，都是在我决定离开稻妻时获得的。但我也不讨厌那个晒不干布料的地方，对我来说，只是没必要回去而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/05471eaccfcdee20541d37885de55190_6919877554245899213.mp3",
+          "audioName": "17关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "为了治我小时候好动的性格，父母送我去学过很多东西，「剑道」就是其中之一。但学了一阵子后，我突然觉得双手用刀很称我意，也很厉害，结果却被剑道老师制止了。我问他为什么，他只说这不是主流刀法，有些「不伦不类」。自那之后，我就再没去上过他的课。现在想想，当初坚持自己喜欢的用法真是太好了。或许，我天生就是两只手都闲不下来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b2e3b8c49811056feb053fb356d8c793_697129204756188997.mp3",
+          "audioName": "18有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「袖」是我的第一件作品，那时只想缝一个跟自己差不多模样的女孩，作为模特和帮手。嗯？陪伴？我没这种需要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/528fccf4a3b9857581eac11bb2385130_3175377434028296661.mp3",
+          "audioName": "19感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "她曾经很认真地「拜托」我设计各种奇奇怪怪的东西，比如为船舵的每个把手都设计一个不同的头冠。那时我忍不住翻了个白眼，说我最多把她的帽子设计成一条船。那些说我想法超前的人恐怕是没跟娜维娅聊过天。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/26c90dcf9e7e8063f015eece48baf296_3371680844063297165.mp3",
+          "audioName": "20关于娜维娅…_cn.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "我做不出一顶能隐藏秘密的礼帽，但他通过魔术可以。有时我很好奇，他的帽子里装了那么多的秘密，戴起来会是什么感觉。对我来说，还是想到什么就说出来会比较轻松。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/cd46642eedc49d0b12e8cd77d8ea4776_3646683324827215483.mp3",
+          "audioName": "21关于林尼…_cn.mp3"
+        },
+        {
+          "name": "关于琳妮特…",
+          "text": "这位助手小姐不太说话，但她很信任我。我似乎很讨猫喜欢啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/570875fdde7f551b064398db95452b8c_1223057826071983066.mp3",
+          "audioName": "22关于琳妮特…_cn.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "有次夏洛蒂来店里想采访我，我说别了又没什么新鲜事。结果她刚一出门，就有个醉汉来店里闹事，被她记录下了全程…真是见了鬼了。只听说过记者追新闻，现在还有新闻会追记者？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/2808c1275cc707bbe7a93be8c6a9329c_134756430754263892.mp3",
+          "audioName": "23关于夏洛蒂…_cn.mp3"
+        },
+        {
+          "name": "关于夏沃蕾…",
+          "text": "和夏沃蕾的合作与谈话都很省力。这导致每次跟她告别，重新面对顾客的时候，我都有种不适应的感觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/abd80e07764307c4559cafc3e3cab21d_8577787189691279339.mp3",
+          "audioName": "24关于夏沃蕾…_cn.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "艾梅莉埃的香水很受欢迎。出于商业合作，我会请她将试做中的香水小样送到「千织屋」，让爱洛芙悄悄喷在顾客们使用的试衣间，然后我再将顾客们的反馈告诉她。但这么长时间下来，没有一位顾客说我试衣间里的味道奇怪，反倒是纷纷来问我店里的香水哪里有卖。出于好奇，每次她发售香水成品的时候，我也会买一瓶来闻闻。不得不说，那种每次都能品出新鲜感的香味，实为天才之作。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/8b5edd4da1b6d32ebc229c4e2132bff9_8391012531514102560.mp3",
+          "audioName": "25关于艾梅莉埃…_cn.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "一些朋友和合作者向我聊起过他，我很佩服他的手腕，但我也没打算改变自己的做事方式。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/f880a923a37777eee897de8a8eeff999_2888438164925107696.mp3",
+          "audioName": "26关于莱欧斯利…_cn.mp3"
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "从前在稻妻，我到野外找设计灵感的时候，总有只绿眼睛的猫喜欢跟在我身边。那家伙好像对我手上布料的颜色和花纹很感兴趣，心情好了还会蹭蹭我的小腿。后来，我一眼就认出了这个绿眼睛、背后还长着两条尾巴的女孩。她看那些新奇东西的眼神，这么多年就没有变过。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/925efde8fb21a6f0b44dbd985894df26_9034867898835536773.mp3",
+          "audioName": "27关于绮良良…_cn.mp3"
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "如果不是儿时贪玩，我恐怕也不会有机会认识这位神里家的大小姐。有次我翻进了神里家的院子，她的手鞠恰好滚到墙边。她见到我时既惊讶又兴奋，我陪她玩了好一会儿，又聊了很久的天…但最后我还是被人发现了，于是这短暂的友情就以我被人提了出去而告终。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/68dc07d2dd083758746f1633c6a15e1e_1402700156277041595.mp3",
+          "audioName": "28关于神里绫华…_cn.mp3"
+        },
+        {
+          "name": "想要了解千织·其一",
+          "text": "我自认为脾气没有人们说的那么差，我只是不喜欢在破事上浪费时间而已。但不知是什么原因，那些「破事」总是缠着我不放。久而久之，就落得了个不好的名声，我才想叫冤枉呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/accecf5636cbaa9718494723166ea291_1790608616857446772.mp3",
+          "audioName": "29想要了解千织·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解千织·其二",
+          "text": "我从小就不喜欢被管教，有段时间特别讨厌「规矩」这东西，一定要和它对着干。托这倔脾气的福，我吃了不少苦头。但后来我渐渐明白，「规矩」不全是坏事。我真正讨厌的，是那种不能按自己想法做出决定的感觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/d8da184f9a98007d2ac2c64190720fac_823158994797859629.mp3",
+          "audioName": "30想要了解千织·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解千织·其三",
+          "text": "小时候最期待的，就是家乡夏日的祭典。每到那时，人们就会穿上最好看的衣服上街…腰带上五颜六色的水球、怎么都捞不起的金鱼、还有甜到腻人的苹果糖和长野原家的烟花…那时玩得很开心，但回到家后，却总觉得少了什么。现在才知道，那时的我，是不想只做「观众」…就像提到烟花，人们就想到「长野原」一样。我希望有一天，人们想穿上祭典的，都是「千织屋」的衣服。…哈，光是这么想想，就感觉心中充满激情。嗯，我要回店里做衣服去了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/8f3abdbfbd2786297fbb4342674cc1c4_2344050416012448878.mp3",
+          "audioName": "31想要了解千织·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解千织·其四",
+          "text": "虽然工作起来很投入，但我也喜欢享受当下的时光。闲下来的时候，我会一个人带上些吃的，找个风景好的地方静静睡个午觉，晚上再听些喜欢的音乐，美美睡去…有时候则是叫上朋友们吃顿饭，大家在一起谈天说地，开个不醉不归的派对…想怎么做全看当时的心情。正如「时尚」只存在于「当下」一样，我也喜欢活在当下。怎么样？不如今晚我们就出去狠狠放松一下？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/4264446fbbe0d6a4d3c758286a6094a4_2132833746177938139.mp3",
+          "audioName": "32想要了解千织·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解千织·其五",
+          "text": "我喜欢稻妻的点心、喜欢清淡的食物…我喜欢家乡布料的触感、喜欢每天结束后泡个澡…但我也喜欢枫丹温柔的海水、喜欢海里美不胜收的景色…我常常会想，自己是否并没有摆脱「过去」对我造成的影响，是否今天的一切都是命中注定…但那又如何呢？我就是我，活在此刻。就算过去的一切塑造了如今的我，未来的路，也依旧由我自己选择，谁都无法改变这点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/34f9b5418255301330003c55074c03f6_2318148554528867723.mp3",
+          "audioName": "33想要了解千织·其五_cn.mp3"
+        },
+        {
+          "name": "千织的爱好…",
+          "text": "我在工作中追寻梦想，在爱好中探索自由。如果我每天做的事不是自己热爱的，那还有什么意思？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/776274b8090ea3f88244872a5a4a9f57_5107612727295260255.mp3",
+          "audioName": "34千织的爱好…_cn.mp3"
+        },
+        {
+          "name": "千织的烦恼…",
+          "text": "我偶尔烦恼，追求理想的进度比预期更缓慢，这样下去不知我的品牌什么时候才能风靡世界。但我绝不会向现实妥协，烦恼又有什么帮助呢？还不如省下这个时间，多做几件衣服。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3ef353d5a7f28e38ea4351327913a071_3237555862698492467.mp3",
+          "audioName": "35千织的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我忘不了小时候吃过的那些稻妻点心。但比起品尝时的喜悦，我更享受制作的过程。要不是布料的色彩与变化更丰富一些，恐怕这世上，就要多一个点心师傅了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/fcce6891f4999f381be1d7cb24f5a94d_928990129319561905.mp3",
+          "audioName": "36喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "就拿羊杂哈吉斯举例吧，我吃不惯味道浓厚的菜。就像是好好地走在路上，冷不防被岩飘浮灵糊了一脸一样…我这么形容你能理解吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/811af141a0b7c0adae26c011d582da7c_5205744643532045961.mp3",
+          "audioName": "37讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "嗯，这味道我很喜欢，下次再带给我点。放心，我也会给你回礼的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/5c195780178c3a0469b6c52fccd9873c_3993241963817305415.mp3",
+          "audioName": "38收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错的手艺，适合工作累了之后，坐在店里慢慢品尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b89fbade60c67f64b95a85123ef15436_8696454217786298958.mp3",
+          "audioName": "39收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "这味道我不喜欢，下次换个清淡点的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/64370ccbe8d5e5043834d2aa8cb27c0c_6257739339977909053.mp3",
+          "audioName": "40收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。我懒得猜了，想要什么礼物就直说。嗯？太直接了？好吧，那就叫上娜维娅和绮良良她们，再约几个你的朋友，晚上来「千织屋」开派对。我参考参考他们会送你什么，然后当场做一个适合你的首饰送给你，保证你喜欢。我有这个自信。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/fbd03050f18c59b60e9d5b8629359575_8350011744834214786.mp3",
+          "audioName": "41生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "…不行，还是太普通。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b3575930c028aa10cdaadd564c450783_6840779293652101703.mp3",
+          "audioName": "42突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "…还不错，但少了点引人驻足的亮点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/57db3e1d774d57a2754e41dadb1da9f9_2407204811963127695.mp3",
+          "audioName": "43突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "…好，我抓到我想要的了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/ebeb9fe7380a296322b65b20a6acdc7b_2915947235882471833.mp3",
+          "audioName": "44突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我的手是不会抖的，这是我的专业性…但我得承认，此时此刻我的心跳声实在有些吵了。感谢你一路帮助我完成我的作品，它对我有着无比重要的意义。今后的路，我会更有把握。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/9eba0bf626dc70bff81a460a76342aee_6955720677059634848.mp3",
+          "audioName": "45突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "袖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/d2e25704cab102ae9fc4bb71f964e398_2663421717846373980.mp3",
+          "audioName": "46元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "下一位？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/c54fe41d330d6e0674d8b0efd0604921_4864001291744108714.mp3",
+          "audioName": "47元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "搭把手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/9bed56febedef0cbb79ca1106c33c329_182063746560852370.mp3",
+          "audioName": "48元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "风尚，由我裁定。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/c2853bcd1c1ae08b3e94b42c91352747_8713117915638016086.mp3",
+          "audioName": "49元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "脆如绸锦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/f0d2cffaea4d816c18dae0f19eb67696_6335640465429558348.mp3",
+          "audioName": "50元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "千红零落。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/c881cbfad6b1584faea7daf0b8d3b925_1719643999182603881.mp3",
+          "audioName": "51元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这工艺还行吧，我做过比这更好的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/a3471eedd80f0df94adf4dcb938e0573_3508925898329815555.mp3",
+          "audioName": "52打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "原来你喜欢这种？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/8fcbeef06f6ccece6d0cb6594b04e866_145759904343476105.mp3",
+          "audioName": "53打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "嗯…我参考参考。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/53b8b62a991f80344a51718ddbdcbf5c_6090403747372032573.mp3",
+          "audioName": "54打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "衣服都破了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/49a5b089fdffcf3463597a3b58b48baa_5332131100960732720.mp3",
+          "audioName": "55生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "闹够了没有…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/c7a4a9e8b0b2a2cc5e13e0ef36108dc9_8604605230360119040.mp3",
+          "audioName": "56生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "得给你点教训…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/16ef431736dd07ea7bb3af522fea5f5f_6015396242315759732.mp3",
+          "audioName": "57生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "喂，别逞强。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/d0f5071189f5b1ef997dee5c0a5f694c_5127220891665276848.mp3",
+          "audioName": "58同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我可不做寿衣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/04872abcc570079f277ca30fdc50dd79_846572128858913100.mp3",
+          "audioName": "59同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "裁剪不当…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/1bae01591724ce0a368ce1629ce5f073_3354587762833917854.mp3",
+          "audioName": "60倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我不认输…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b40ad2e60882cac68c613e442a91c32d_8634986799234635601.mp3",
+          "audioName": "61倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我的品牌…还没有…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3df00ca7b2f67f05d65197ecdbcd77ba_8988775823412485204.mp3",
+          "audioName": "62倒下·其三_cn.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "就这点？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/eda12c328e144502b4d5fb992b47866a_4251661208285793487.mp3",
+          "audioName": "63普通受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "没品味的家伙…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/1863991bd521a49c5797c5cf0fb2ccd1_2410313975335808201.mp3",
+          "audioName": "64重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "你惹错人了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/62da6788262f4d1f54f21fac6d49ed0e_5376762613805813575.mp3",
+          "audioName": "65重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "欢迎光临「千织屋」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3ad2bdba6dc140f8fce23bc94a27d412_7507104920762645793.mp3",
+          "audioName": "66加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "需要定制服务吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/7daa04fe733decd0cdfcd10772bb2cee_5738554732466096202.mp3",
+          "audioName": "67加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "出门找找灵感吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/6c87d45aced5f896f1feff4f5ef77c93_7112146656001206337.mp3",
+          "audioName": "68加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我叫千织，「千织屋」的老板。有服装定制类需求的话，欢迎找我。其他需求，就看你有没有足够用来交换的东西了，有来有回才叫「生意」嘛。另外，「千织屋」内严禁抽烟喝酒，寻衅闹事。「顾客即是神明」那一套在我这里不管用，就算来的真是神明，不守规矩被丢出去的时候，也一样是屁股着地。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/6c13f29815e73238de910969b3e619d5_5485042084953356619.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·评价",
+          "text": "我来决定自己该怎么走，要成为谁。没人能对我指手画脚。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3e8ff96b01e6a5f140896d19bb5bbd84_7204741123892029745.mp3",
+          "audioName": "02闲聊·评价_jp.mp3"
+        },
+        {
+          "name": "闲聊·裁缝刀",
+          "text": "谁说裁衣服一定要用剪刀？那些死板的规矩由它去吧，我喜欢自己用着顺手的刀具。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/d84969b69c9cd9802e8a14368f10144e_5741806108431713928.mp3",
+          "audioName": "03闲聊·裁缝刀_jp.mp3"
+        },
+        {
+          "name": "闲聊·模特",
+          "text": "真要站着不动的话，干脆来当我的模特吧。给你设计款好看的衣服。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/5993f4fb75eacddfe54d3b333ab33a90_2437291632064357734.mp3",
+          "audioName": "04闲聊·模特_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "比起下雨，我更讨厌地上泥水，溅到衣服上就很难洗掉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/f59a4012a7cbfb9470daf5d269a6c785_5692399115486703006.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "…想起了家乡往日的风景。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/0974c8dcab9b032660f1614fbe6a86fd_8439290134971339974.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "清高却令人向往…落到手上的一瞬，这份美丽又随之消散…雪花这东西，和「时尚」还真像…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3924858056f6feea0d9ed615ade01e8c_7495884929421524989.mp3",
+          "audioName": "07下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "真难想象这种地方要怎么推行时尚。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/85d48361375b5a77c2b43bdcdcb6172e_1388319505317710310.mp3",
+          "audioName": "08在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早，别指望我会给你变出早饭来。你如果去咖啡厅的话就帮我带一杯咖啡来吧，不加奶，不加糖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/1b42b421ccde08d3788def400cc13aa3_6925933593660890349.mp3",
+          "audioName": "09早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "已经这个点了？肚子完全不饿啊…我不打算停下手头的活。午饭你自己吃就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/7ff658771fc1e52d9a9dd56dc4c7b2e7_3353687832469287427.mp3",
+          "audioName": "10中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "外面好吵。全枫丹廷的人都出来逛街了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/01b39037fcb30c45822d3101eee0b8a5_4431696650785232210.mp3",
+          "audioName": "11晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "我要去好好泡个澡放松一下。不多聊了，明天见。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/5f9a3aa19da05c776dc0fec9dbcefc84_4055326328408101191.mp3",
+          "audioName": "12晚安…_jp.mp3"
+        },
+        {
+          "name": "关于自己·直接",
+          "text": "很多人明里暗里表达过我的性格不够好，说话不够委婉，容易伤人。依我说，那种谁都看得出来的寒暄、客套和恭维才是在浪费彼此的时间吧？要是挑明事实就会受伤，那人也太脆弱了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/723cfa5a3e292be64b6822e6a45f7246_8417157618751390842.mp3",
+          "audioName": "13关于自己·直接_jp.mp3"
+        },
+        {
+          "name": "关于自己·理念",
+          "text": "最初构想品牌理念的时候，我想到了很多过去的经历，也由此提炼出了不少关键词。取舍是一件难事，尤其是你发现每一枚宝石都折射着你的一种想法…而你只能挑选最能代表你的那一枚。「永不认输」。那才是我，才是我的品牌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b534cfb7daf1d70446d2487ac9751414_3101989183636877010.mp3",
+          "audioName": "14关于自己·理念_jp.mp3"
+        },
+        {
+          "name": "关于我们·试衣",
+          "text": "听我的，这件适合你。什么？之前没见过这样的款式？呵，那是你之前遇到的设计师没品味。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/6d1bc5b8b1993cf09ba3410abd22d976_4193110487709192349.mp3",
+          "audioName": "15关于我们·试衣_jp.mp3"
+        },
+        {
+          "name": "关于我们·交换",
+          "text": "事到如今再说这话有点晚了，但我向来是想说什么就说什么，你恐怕也习惯了。我不打算改变自己直来直往的作风，你也尽管在我面前表露最真实的自己吧，无须掩藏。我保证不会对你有所指摘。不信？你认识我那么久，我有说到但做不到的时候吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/a95ea89cea6599318697f71e120b205f_8126055708233796247.mp3",
+          "audioName": "16关于我们·交换_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "因为我的出身，枫丹人称呼我为「鸣雷的裁锦师」。爱怎么称呼怎么称呼吧，我对故乡没什么依恋的感情，毕竟就连我的「神之眼」，都是在我决定离开稻妻时获得的。但我也不讨厌那个晒不干布料的地方，对我来说，只是没必要回去而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/79b063cf462be49d03df3f28e1b8fbe1_5403521949627672832.mp3",
+          "audioName": "17关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "为了治我小时候好动的性格，父母送我去学过很多东西，「剑道」就是其中之一。但学了一阵子后，我突然觉得双手用刀很称我意，也很厉害，结果却被剑道老师制止了。我问他为什么，他只说这不是主流刀法，有些「不伦不类」。自那之后，我就再没去上过他的课。现在想想，当初坚持自己喜欢的用法真是太好了。或许，我天生就是两只手都闲不下来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/c19232503f39f064d1de9a646f56baf5_4131532246465196115.mp3",
+          "audioName": "18有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「袖」是我的第一件作品，那时只想缝一个跟自己差不多模样的女孩，作为模特和帮手。嗯？陪伴？我没这种需要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/7ad90a550b194ea339626e7681ced620_2443772113149357282.mp3",
+          "audioName": "19感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "她曾经很认真地「拜托」我设计各种奇奇怪怪的东西，比如为船舵的每个把手都设计一个不同的头冠。那时我忍不住翻了个白眼，说我最多把她的帽子设计成一条船。那些说我想法超前的人恐怕是没跟娜维娅聊过天。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/80f609e1409e7b44484c691b9cfc8829_101091537071848732.mp3",
+          "audioName": "20关于娜维娅…_jp.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "我做不出一顶能隐藏秘密的礼帽，但他通过魔术可以。有时我很好奇，他的帽子里装了那么多的秘密，戴起来会是什么感觉。对我来说，还是想到什么就说出来会比较轻松。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/bcf3e847e50bc90c6f235f54fed3c7f7_5843896197188798719.mp3",
+          "audioName": "21关于林尼…_jp.mp3"
+        },
+        {
+          "name": "关于琳妮特…",
+          "text": "这位助手小姐不太说话，但她很信任我。我似乎很讨猫喜欢啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/05381b8ed22725a3dcc370faffd6ec0f_8328360241825144432.mp3",
+          "audioName": "22关于琳妮特…_jp.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "有次夏洛蒂来店里想采访我，我说别了又没什么新鲜事。结果她刚一出门，就有个醉汉来店里闹事，被她记录下了全程…真是见了鬼了。只听说过记者追新闻，现在还有新闻会追记者？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/dfc70c1d0a036bb37cc120d4b261b873_964113086714450792.mp3",
+          "audioName": "23关于夏洛蒂…_jp.mp3"
+        },
+        {
+          "name": "关于夏沃蕾…",
+          "text": "和夏沃蕾的合作与谈话都很省力。这导致每次跟她告别，重新面对顾客的时候，我都有种不适应的感觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/efdb41a5fdddb8c3133d9b970da55be9_2229600743633095035.mp3",
+          "audioName": "24关于夏沃蕾…_jp.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "艾梅莉埃的香水很受欢迎。出于商业合作，我会请她将试做中的香水小样送到「千织屋」，让爱洛芙悄悄喷在顾客们使用的试衣间，然后我再将顾客们的反馈告诉她。但这么长时间下来，没有一位顾客说我试衣间里的味道奇怪，反倒是纷纷来问我店里的香水哪里有卖。出于好奇，每次她发售香水成品的时候，我也会买一瓶来闻闻。不得不说，那种每次都能品出新鲜感的香味，实为天才之作。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/2ee494c4cee15dfdb201f3d73ecae081_786076209546239298.mp3",
+          "audioName": "25关于艾梅莉埃…_jp.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "一些朋友和合作者向我聊起过他，我很佩服他的手腕，但我也没打算改变自己的做事方式。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/7391f86665dc1dd16eb1709cc20cba1e_7420212060574575663.mp3",
+          "audioName": "26关于莱欧斯利…_jp.mp3"
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "从前在稻妻，我到野外找设计灵感的时候，总有只绿眼睛的猫喜欢跟在我身边。那家伙好像对我手上布料的颜色和花纹很感兴趣，心情好了还会蹭蹭我的小腿。后来，我一眼就认出了这个绿眼睛、背后还长着两条尾巴的女孩。她看那些新奇东西的眼神，这么多年就没有变过。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/f1a6fe0b017905220515c780353887b2_2712367299314192186.mp3",
+          "audioName": "27关于绮良良…_jp.mp3"
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "如果不是儿时贪玩，我恐怕也不会有机会认识这位神里家的大小姐。有次我翻进了神里家的院子，她的手鞠恰好滚到墙边。她见到我时既惊讶又兴奋，我陪她玩了好一会儿，又聊了很久的天…但最后我还是被人发现了，于是这短暂的友情就以我被人提了出去而告终。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/c6aec977d3d60d2a020a4ec345fd6269_5738027799444247369.mp3",
+          "audioName": "28关于神里绫华…_jp.mp3"
+        },
+        {
+          "name": "想要了解千织·其一",
+          "text": "我自认为脾气没有人们说的那么差，我只是不喜欢在破事上浪费时间而已。但不知是什么原因，那些「破事」总是缠着我不放。久而久之，就落得了个不好的名声，我才想叫冤枉呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/6b529c51a752e80958c2da9ad86245b3_5677967305778194270.mp3",
+          "audioName": "29想要了解千织·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解千织·其二",
+          "text": "我从小就不喜欢被管教，有段时间特别讨厌「规矩」这东西，一定要和它对着干。托这倔脾气的福，我吃了不少苦头。但后来我渐渐明白，「规矩」不全是坏事。我真正讨厌的，是那种不能按自己想法做出决定的感觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/d3d81487062ac94d1d94de1d60e027f7_5186858001392896371.mp3",
+          "audioName": "30想要了解千织·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解千织·其三",
+          "text": "小时候最期待的，就是家乡夏日的祭典。每到那时，人们就会穿上最好看的衣服上街…腰带上五颜六色的水球、怎么都捞不起的金鱼、还有甜到腻人的苹果糖和长野原家的烟花…那时玩得很开心，但回到家后，却总觉得少了什么。现在才知道，那时的我，是不想只做「观众」…就像提到烟花，人们就想到「长野原」一样。我希望有一天，人们想穿上祭典的，都是「千织屋」的衣服。…哈，光是这么想想，就感觉心中充满激情。嗯，我要回店里做衣服去了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/bbdefeb75edcbfd77166481ac5146a1b_2815150989428987716.mp3",
+          "audioName": "31想要了解千织·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解千织·其四",
+          "text": "虽然工作起来很投入，但我也喜欢享受当下的时光。闲下来的时候，我会一个人带上些吃的，找个风景好的地方静静睡个午觉，晚上再听些喜欢的音乐，美美睡去…有时候则是叫上朋友们吃顿饭，大家在一起谈天说地，开个不醉不归的派对…想怎么做全看当时的心情。正如「时尚」只存在于「当下」一样，我也喜欢活在当下。怎么样？不如今晚我们就出去狠狠放松一下？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3fdf5c9ffbf4658655ab84d6066fff26_2409633328791911882.mp3",
+          "audioName": "32想要了解千织·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解千织·其五",
+          "text": "我喜欢稻妻的点心、喜欢清淡的食物…我喜欢家乡布料的触感、喜欢每天结束后泡个澡…但我也喜欢枫丹温柔的海水、喜欢海里美不胜收的景色…我常常会想，自己是否并没有摆脱「过去」对我造成的影响，是否今天的一切都是命中注定…但那又如何呢？我就是我，活在此刻。就算过去的一切塑造了如今的我，未来的路，也依旧由我自己选择，谁都无法改变这点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/478e0685d712d2228ccdf8fe5382d380_5817780959296783512.mp3",
+          "audioName": "33想要了解千织·其五_jp.mp3"
+        },
+        {
+          "name": "千织的爱好…",
+          "text": "我在工作中追寻梦想，在爱好中探索自由。如果我每天做的事不是自己热爱的，那还有什么意思？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/1b97a9067258d0950d234bb3e0f0b951_5144755528305050278.mp3",
+          "audioName": "34千织的爱好…_jp.mp3"
+        },
+        {
+          "name": "千织的烦恼…",
+          "text": "我偶尔烦恼，追求理想的进度比预期更缓慢，这样下去不知我的品牌什么时候才能风靡世界。但我绝不会向现实妥协，烦恼又有什么帮助呢？还不如省下这个时间，多做几件衣服。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/fd3180bb7810cb9d9d8bd3ae5dbbc83e_8348217439214782415.mp3",
+          "audioName": "35千织的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我忘不了小时候吃过的那些稻妻点心。但比起品尝时的喜悦，我更享受制作的过程。要不是布料的色彩与变化更丰富一些，恐怕这世上，就要多一个点心师傅了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/4809d1813861e2552aabfa7cdd29848b_3956767063421750806.mp3",
+          "audioName": "36喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "就拿羊杂哈吉斯举例吧，我吃不惯味道浓厚的菜。就像是好好地走在路上，冷不防被岩飘浮灵糊了一脸一样…我这么形容你能理解吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/ac894ed5352626cdaa37273937deb25b_645623438840606473.mp3",
+          "audioName": "37讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "嗯，这味道我很喜欢，下次再带给我点。放心，我也会给你回礼的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/4a74b9072ea9f0908e9576a39493bd39_4938989073887303232.mp3",
+          "audioName": "38收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错的手艺，适合工作累了之后，坐在店里慢慢品尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/19d468703e3bebcac402b69d173d0222_3111209535184222307.mp3",
+          "audioName": "39收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "这味道我不喜欢，下次换个清淡点的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b2dcf2d153965772866b256294ce6e80_303297617584415550.mp3",
+          "audioName": "40收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。我懒得猜了，想要什么礼物就直说。嗯？太直接了？好吧，那就叫上娜维娅和绮良良她们，再约几个你的朋友，晚上来「千织屋」开派对。我参考参考他们会送你什么，然后当场做一个适合你的首饰送给你，保证你喜欢。我有这个自信。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/f7eb87cc3bee9b91fac4da04db6532dc_1154136434519400528.mp3",
+          "audioName": "41生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "…不行，还是太普通。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/ecc5da5a76547e5d4f4d7d619da37a9b_8415899688434699970.mp3",
+          "audioName": "42突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "…还不错，但少了点引人驻足的亮点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/6a3b205632681777c904c37abd562797_1558432998109557201.mp3",
+          "audioName": "43突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "…好，我抓到我想要的了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3b01ef246c4c33497c1fd1a142420f31_11664482676577237.mp3",
+          "audioName": "44突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我的手是不会抖的，这是我的专业性…但我得承认，此时此刻我的心跳声实在有些吵了。感谢你一路帮助我完成我的作品，它对我有着无比重要的意义。今后的路，我会更有把握。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/19713d500935ebbe744027f78989712e_2592502267491709986.mp3",
+          "audioName": "45突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "袖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/ad3046c7fa275de5f161f6213f481f8b_8336768644072833134.mp3",
+          "audioName": "46元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "下一位？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b445712fc3ed80311045a549474efba6_4428540927307410549.mp3",
+          "audioName": "47元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "搭把手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/606782ae7fa14df835f8fe67d3e879d2_2556914782928776454.mp3",
+          "audioName": "48元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "风尚，由我裁定。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/08a0c30acfe8726cf922598e505a8d85_5225272637865788318.mp3",
+          "audioName": "49元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "脆如绸锦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/beaeddcfc365716edee2002aba149cb6_7605423019196339096.mp3",
+          "audioName": "50元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "千红零落。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/80c99cc0787c81273b44461e4c26acde_5838643565516182595.mp3",
+          "audioName": "51元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这工艺还行吧，我做过比这更好的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/20653dcbd8261d29541399de3e73234f_469332136742256216.mp3",
+          "audioName": "52打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "原来你喜欢这种？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/15667089b7b1975653dc4348eb0e1d63_5201007416191008956.mp3",
+          "audioName": "53打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "嗯…我参考参考。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/0655c0dfed17cc8a2d0b9e83f761c5bc_106671657720434902.mp3",
+          "audioName": "54打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "衣服都破了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/698699f71abcd91365dda92c2242d74a_6943023670735455266.mp3",
+          "audioName": "55生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "闹够了没有…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/36fe2d45c40751118dd2c8b90acea299_6916882000184592914.mp3",
+          "audioName": "56生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "得给你点教训…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/2347740c5e8fd6dfd4e1ee5559ffdc59_6868947960358328882.mp3",
+          "audioName": "57生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "喂，别逞强。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/140fec3291fb308653b3f12a831acbca_5110913701754966222.mp3",
+          "audioName": "58同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我可不做寿衣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/1b1b4a4382d3a9a1065ef2312b3dc682_8635062253583581126.mp3",
+          "audioName": "59同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "裁剪不当…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3248db3ff77bfd379d4d68e31acc1d45_8727954033002401244.mp3",
+          "audioName": "60倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我不认输…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/f8b7aa9220f285ea790a8f1cc668eba1_2519334555434835220.mp3",
+          "audioName": "61倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我的品牌…还没有…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3620c0e0a96bebefe4201992da2dd3fe_452169831092729117.mp3",
+          "audioName": "62倒下·其三_jp.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "就这点？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b77b6fe1b0d18abc65da9481d00bb66f_4264220824794986663.mp3",
+          "audioName": "63普通受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "没品味的家伙…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b85b890a4f9b9285f7a837d9da8a4941_5969270278650507334.mp3",
+          "audioName": "64重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "你惹错人了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/38d2fca56148831d1b01dcb080f2be1c_1265653032961822589.mp3",
+          "audioName": "65重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "欢迎光临「千织屋」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/f58b3c1d72f849e3971b04609dc7a50d_3848281899660389367.mp3",
+          "audioName": "66加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "需要定制服务吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/85912c97b3025392b43bbca23e0b2cfe_8810944020198087884.mp3",
+          "audioName": "67加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "出门找找灵感吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/8894133f601f62394a0fddc961669e89_5527149237010569426.mp3",
+          "audioName": "68加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我叫千织，「千织屋」的老板。有服装定制类需求的话，欢迎找我。其他需求，就看你有没有足够用来交换的东西了，有来有回才叫「生意」嘛。另外，「千织屋」内严禁抽烟喝酒，寻衅闹事。「顾客即是神明」那一套在我这里不管用，就算来的真是神明，不守规矩被丢出去的时候，也一样是屁股着地。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/18829cb417fa27dfae7cc8ec24b0ad91_4996824164747398053.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·评价",
+          "text": "我来决定自己该怎么走，要成为谁。没人能对我指手画脚。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/204b4a38af1faf359c68b9e40e577be7_4102309698044771257.mp3",
+          "audioName": "02闲聊·评价_en.mp3"
+        },
+        {
+          "name": "闲聊·裁缝刀",
+          "text": "谁说裁衣服一定要用剪刀？那些死板的规矩由它去吧，我喜欢自己用着顺手的刀具。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/87ab40b87631c204cc848045243534a8_2840281384871880006.mp3",
+          "audioName": "03闲聊·裁缝刀_en.mp3"
+        },
+        {
+          "name": "闲聊·模特",
+          "text": "真要站着不动的话，干脆来当我的模特吧。给你设计款好看的衣服。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/e875a5a4057f1564abd13fed217e0d46_1606920274841881973.mp3",
+          "audioName": "04闲聊·模特_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "比起下雨，我更讨厌地上泥水，溅到衣服上就很难洗掉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/db447758b8d1af5a8d2fd232829b29b9_6308940170722619939.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "…想起了家乡往日的风景。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b85d262d894daf46a190ad8cfbae7e6b_8996380125734811876.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "清高却令人向往…落到手上的一瞬，这份美丽又随之消散…雪花这东西，和「时尚」还真像…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/ab9c8dea15f1b231737cec032371328e_5400685249747307442.mp3",
+          "audioName": "07下雪的时候…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "真难想象这种地方要怎么推行时尚。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/eff07153d6305e57561e1f5b43f8dbcb_8664112728384778357.mp3",
+          "audioName": "08在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早，别指望我会给你变出早饭来。你如果去咖啡厅的话就帮我带一杯咖啡来吧，不加奶，不加糖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/200f55023eb76b12a16976f95070d3d2_7556109177889026202.mp3",
+          "audioName": "09早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "已经这个点了？肚子完全不饿啊…我不打算停下手头的活。午饭你自己吃就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/0ae16299e3cebd0152df60fc046aeca6_8840404306638181426.mp3",
+          "audioName": "10中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "外面好吵。全枫丹廷的人都出来逛街了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/78a0b8adfaa7533eeb14be8e2ce21812_7686766521343505707.mp3",
+          "audioName": "11晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "我要去好好泡个澡放松一下。不多聊了，明天见。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/908e4715f726e0ef0943cc264f8ca2f6_4506150364413445678.mp3",
+          "audioName": "12晚安…_en.mp3"
+        },
+        {
+          "name": "关于自己·直接",
+          "text": "很多人明里暗里表达过我的性格不够好，说话不够委婉，容易伤人。依我说，那种谁都看得出来的寒暄、客套和恭维才是在浪费彼此的时间吧？要是挑明事实就会受伤，那人也太脆弱了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/8f68482f6c27fdeeb05186fd4694b217_463360242299197807.mp3",
+          "audioName": "13关于自己·直接_en.mp3"
+        },
+        {
+          "name": "关于自己·理念",
+          "text": "最初构想品牌理念的时候，我想到了很多过去的经历，也由此提炼出了不少关键词。取舍是一件难事，尤其是你发现每一枚宝石都折射着你的一种想法…而你只能挑选最能代表你的那一枚。「永不认输」。那才是我，才是我的品牌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/2984bf4cff6c0114b2e04ed9057807cb_8103711630774169319.mp3",
+          "audioName": "14关于自己·理念_en.mp3"
+        },
+        {
+          "name": "关于我们·试衣",
+          "text": "听我的，这件适合你。什么？之前没见过这样的款式？呵，那是你之前遇到的设计师没品味。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/cc13eef13cfe5cb200e88605a2fc7904_2677076099078335258.mp3",
+          "audioName": "15关于我们·试衣_en.mp3"
+        },
+        {
+          "name": "关于我们·交换",
+          "text": "事到如今再说这话有点晚了，但我向来是想说什么就说什么，你恐怕也习惯了。我不打算改变自己直来直往的作风，你也尽管在我面前表露最真实的自己吧，无须掩藏。我保证不会对你有所指摘。不信？你认识我那么久，我有说到但做不到的时候吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/7192c778cae695e552a752f3f6f0f687_8100789659491497414.mp3",
+          "audioName": "16关于我们·交换_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "因为我的出身，枫丹人称呼我为「鸣雷的裁锦师」。爱怎么称呼怎么称呼吧，我对故乡没什么依恋的感情，毕竟就连我的「神之眼」，都是在我决定离开稻妻时获得的。但我也不讨厌那个晒不干布料的地方，对我来说，只是没必要回去而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/883b8659c3a63e39ea329e3a75e5bb88_3256011665731252293.mp3",
+          "audioName": "17关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "为了治我小时候好动的性格，父母送我去学过很多东西，「剑道」就是其中之一。但学了一阵子后，我突然觉得双手用刀很称我意，也很厉害，结果却被剑道老师制止了。我问他为什么，他只说这不是主流刀法，有些「不伦不类」。自那之后，我就再没去上过他的课。现在想想，当初坚持自己喜欢的用法真是太好了。或许，我天生就是两只手都闲不下来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/62aa56b320c5b4c1edd25062b6ba1e95_6434467639435938066.mp3",
+          "audioName": "18有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「袖」是我的第一件作品，那时只想缝一个跟自己差不多模样的女孩，作为模特和帮手。嗯？陪伴？我没这种需要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b4e5d12fea4388e8a3fe5b35702e0f35_4020223792070582327.mp3",
+          "audioName": "19感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "她曾经很认真地「拜托」我设计各种奇奇怪怪的东西，比如为船舵的每个把手都设计一个不同的头冠。那时我忍不住翻了个白眼，说我最多把她的帽子设计成一条船。那些说我想法超前的人恐怕是没跟娜维娅聊过天。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/91433be58054075cd934f3ee35973081_1636980073811665087.mp3",
+          "audioName": "20关于娜维娅…_en.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "我做不出一顶能隐藏秘密的礼帽，但他通过魔术可以。有时我很好奇，他的帽子里装了那么多的秘密，戴起来会是什么感觉。对我来说，还是想到什么就说出来会比较轻松。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/4ba816e7f759705902ebaac38dbb87f1_8585446010070113961.mp3",
+          "audioName": "21关于林尼…_en.mp3"
+        },
+        {
+          "name": "关于琳妮特…",
+          "text": "这位助手小姐不太说话，但她很信任我。我似乎很讨猫喜欢啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/ce7a7d1eb8d995a5e0d6296154ca4410_4598182743609964229.mp3",
+          "audioName": "22关于琳妮特…_en.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "有次夏洛蒂来店里想采访我，我说别了又没什么新鲜事。结果她刚一出门，就有个醉汉来店里闹事，被她记录下了全程…真是见了鬼了。只听说过记者追新闻，现在还有新闻会追记者？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/a19485c6abe1360af8ef60ce71e2f3eb_2125891857623052235.mp3",
+          "audioName": "23关于夏洛蒂…_en.mp3"
+        },
+        {
+          "name": "关于夏沃蕾…",
+          "text": "和夏沃蕾的合作与谈话都很省力。这导致每次跟她告别，重新面对顾客的时候，我都有种不适应的感觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/67fef26ae4d6d283b4cc3289c0403612_7932033020599458870.mp3",
+          "audioName": "24关于夏沃蕾…_en.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "艾梅莉埃的香水很受欢迎。出于商业合作，我会请她将试做中的香水小样送到「千织屋」，让爱洛芙悄悄喷在顾客们使用的试衣间，然后我再将顾客们的反馈告诉她。但这么长时间下来，没有一位顾客说我试衣间里的味道奇怪，反倒是纷纷来问我店里的香水哪里有卖。出于好奇，每次她发售香水成品的时候，我也会买一瓶来闻闻。不得不说，那种每次都能品出新鲜感的香味，实为天才之作。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/4f553934ab028af0e3e8d6d22a2c6dc4_550724140604434647.mp3",
+          "audioName": "25关于艾梅莉埃…_en.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "一些朋友和合作者向我聊起过他，我很佩服他的手腕，但我也没打算改变自己的做事方式。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/c17d7c74f91888cc61b5bd5c34cc4ee7_7288891010408589938.mp3",
+          "audioName": "26关于莱欧斯利…_en.mp3"
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "从前在稻妻，我到野外找设计灵感的时候，总有只绿眼睛的猫喜欢跟在我身边。那家伙好像对我手上布料的颜色和花纹很感兴趣，心情好了还会蹭蹭我的小腿。后来，我一眼就认出了这个绿眼睛、背后还长着两条尾巴的女孩。她看那些新奇东西的眼神，这么多年就没有变过。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/d5cc2fc737c820affad4c170ae8b5e8d_8127347547340681319.mp3",
+          "audioName": "27关于绮良良…_en.mp3"
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "如果不是儿时贪玩，我恐怕也不会有机会认识这位神里家的大小姐。有次我翻进了神里家的院子，她的手鞠恰好滚到墙边。她见到我时既惊讶又兴奋，我陪她玩了好一会儿，又聊了很久的天…但最后我还是被人发现了，于是这短暂的友情就以我被人提了出去而告终。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/f694679b0fc4aef39963fa67e11070ea_522816024433237765.mp3",
+          "audioName": "28关于神里绫华…_en.mp3"
+        },
+        {
+          "name": "想要了解千织·其一",
+          "text": "我自认为脾气没有人们说的那么差，我只是不喜欢在破事上浪费时间而已。但不知是什么原因，那些「破事」总是缠着我不放。久而久之，就落得了个不好的名声，我才想叫冤枉呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/fc064ae745637d041685d9fc7932dfdb_2787089074097712555.mp3",
+          "audioName": "29想要了解千织·其一_en.mp3"
+        },
+        {
+          "name": "想要了解千织·其二",
+          "text": "我从小就不喜欢被管教，有段时间特别讨厌「规矩」这东西，一定要和它对着干。托这倔脾气的福，我吃了不少苦头。但后来我渐渐明白，「规矩」不全是坏事。我真正讨厌的，是那种不能按自己想法做出决定的感觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/387d060440718e7521be4f07fafc81b5_3678574017864899191.mp3",
+          "audioName": "30想要了解千织·其二_en.mp3"
+        },
+        {
+          "name": "想要了解千织·其三",
+          "text": "小时候最期待的，就是家乡夏日的祭典。每到那时，人们就会穿上最好看的衣服上街…腰带上五颜六色的水球、怎么都捞不起的金鱼、还有甜到腻人的苹果糖和长野原家的烟花…那时玩得很开心，但回到家后，却总觉得少了什么。现在才知道，那时的我，是不想只做「观众」…就像提到烟花，人们就想到「长野原」一样。我希望有一天，人们想穿上祭典的，都是「千织屋」的衣服。…哈，光是这么想想，就感觉心中充满激情。嗯，我要回店里做衣服去了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/a83fcf6f1401a03383136f2654db1ff5_3082444997124534157.mp3",
+          "audioName": "31想要了解千织·其三_en.mp3"
+        },
+        {
+          "name": "想要了解千织·其四",
+          "text": "虽然工作起来很投入，但我也喜欢享受当下的时光。闲下来的时候，我会一个人带上些吃的，找个风景好的地方静静睡个午觉，晚上再听些喜欢的音乐，美美睡去…有时候则是叫上朋友们吃顿饭，大家在一起谈天说地，开个不醉不归的派对…想怎么做全看当时的心情。正如「时尚」只存在于「当下」一样，我也喜欢活在当下。怎么样？不如今晚我们就出去狠狠放松一下？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b80eef63c33ed3b0fee1bd892ccff77f_4715168695656910769.mp3",
+          "audioName": "32想要了解千织·其四_en.mp3"
+        },
+        {
+          "name": "想要了解千织·其五",
+          "text": "我喜欢稻妻的点心、喜欢清淡的食物…我喜欢家乡布料的触感、喜欢每天结束后泡个澡…但我也喜欢枫丹温柔的海水、喜欢海里美不胜收的景色…我常常会想，自己是否并没有摆脱「过去」对我造成的影响，是否今天的一切都是命中注定…但那又如何呢？我就是我，活在此刻。就算过去的一切塑造了如今的我，未来的路，也依旧由我自己选择，谁都无法改变这点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/9d797d0742854ef41c45c42402a24cae_8655301714401571072.mp3",
+          "audioName": "33想要了解千织·其五_en.mp3"
+        },
+        {
+          "name": "千织的爱好…",
+          "text": "我在工作中追寻梦想，在爱好中探索自由。如果我每天做的事不是自己热爱的，那还有什么意思？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/a06c6803afb5d92be32105a5646479c4_2910375374766231576.mp3",
+          "audioName": "34千织的爱好…_en.mp3"
+        },
+        {
+          "name": "千织的烦恼…",
+          "text": "我偶尔烦恼，追求理想的进度比预期更缓慢，这样下去不知我的品牌什么时候才能风靡世界。但我绝不会向现实妥协，烦恼又有什么帮助呢？还不如省下这个时间，多做几件衣服。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/5628a294fdcb96b00f7b1f3e81873810_3601587502112929977.mp3",
+          "audioName": "35千织的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我忘不了小时候吃过的那些稻妻点心。但比起品尝时的喜悦，我更享受制作的过程。要不是布料的色彩与变化更丰富一些，恐怕这世上，就要多一个点心师傅了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/86a1866ad19b87ebe816bb8e02f1914a_7941270770756070072.mp3",
+          "audioName": "36喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "就拿羊杂哈吉斯举例吧，我吃不惯味道浓厚的菜。就像是好好地走在路上，冷不防被岩飘浮灵糊了一脸一样…我这么形容你能理解吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3def3ff470a1ba89a4ba12a54d786578_6999347992272206910.mp3",
+          "audioName": "37讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "嗯，这味道我很喜欢，下次再带给我点。放心，我也会给你回礼的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/238207eb24b881e0b6ead12de830df89_2774762849980366116.mp3",
+          "audioName": "38收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错的手艺，适合工作累了之后，坐在店里慢慢品尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/d4c9dd5126343702a2feeeeff0dfad7d_3837081595174838075.mp3",
+          "audioName": "39收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "这味道我不喜欢，下次换个清淡点的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/0b2c5f5cb68954fb6ac8ee56cb79d607_186667831439223322.mp3",
+          "audioName": "40收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。我懒得猜了，想要什么礼物就直说。嗯？太直接了？好吧，那就叫上娜维娅和绮良良她们，再约几个你的朋友，晚上来「千织屋」开派对。我参考参考他们会送你什么，然后当场做一个适合你的首饰送给你，保证你喜欢。我有这个自信。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/ccbc0ba2796bce14942f68f5df625f21_7430241241370308005.mp3",
+          "audioName": "41生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "…不行，还是太普通。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/8a5c5065b77380fcb84a1b7853dfb6a3_5994132728453453280.mp3",
+          "audioName": "42突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "…还不错，但少了点引人驻足的亮点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/7e5836467d4f6c2903f1ac790938a1c8_1071016995021943069.mp3",
+          "audioName": "43突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "…好，我抓到我想要的了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/5fd3e96ea5f6fc1dea5df58748b30b67_8133217070339412819.mp3",
+          "audioName": "44突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我的手是不会抖的，这是我的专业性…但我得承认，此时此刻我的心跳声实在有些吵了。感谢你一路帮助我完成我的作品，它对我有着无比重要的意义。今后的路，我会更有把握。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/decd76a4fa274a09feac8cffa13d58e4_6800399679674734790.mp3",
+          "audioName": "45突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "袖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/2e30e4f2afb8f817d03d356911a074a4_6878774911427729188.mp3",
+          "audioName": "46元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "下一位？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/265b3d5bbb7f02ab2a1bfce37c4cf24d_3624452307975169932.mp3",
+          "audioName": "47元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "搭把手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3ab28e7c112e5f6a672882985868d9c0_7003227539634236508.mp3",
+          "audioName": "48元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "风尚，由我裁定。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/c07c00e195300622b59d57978394d745_8029634425177991215.mp3",
+          "audioName": "49元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "脆如绸锦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/4664497541c802fba9f458e84b978b6c_7128825938530822514.mp3",
+          "audioName": "50元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "千红零落。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/d8e075af0813e5a52be99fcd43cfe7dd_8853142143050815551.mp3",
+          "audioName": "51元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这工艺还行吧，我做过比这更好的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3363a25fc14bf64d9f2eff5b27e2edc4_2307362899628539975.mp3",
+          "audioName": "52打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "原来你喜欢这种？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/961540a9dc9faa7ccbfac9b5e71abe38_5559263044606828836.mp3",
+          "audioName": "53打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "嗯…我参考参考。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/4b16ffaeed7c18875b2aa4537a534497_7359353055432613192.mp3",
+          "audioName": "54打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "衣服都破了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b942589943e63b6ef5168fa8b15e7ade_7586310213804399111.mp3",
+          "audioName": "55生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "闹够了没有…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/662be0417242686235fa539bc66f597f_340896219277618255.mp3",
+          "audioName": "56生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "得给你点教训…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/2b2a1a471639387c626e3aa13bb0c20d_8636073488657113046.mp3",
+          "audioName": "57生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "喂，别逞强。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/08c5a7c2850c917fe420c6aae61ecc1d_1765611724669193974.mp3",
+          "audioName": "58同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我可不做寿衣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/6790e3dfe70e4f954fd4219c434b10c7_2013050294248189762.mp3",
+          "audioName": "59同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "裁剪不当…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/29832e2f5526056a6971821ccdea8067_6924136850498066513.mp3",
+          "audioName": "60倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我不认输…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/f59332ed159982e7344958635b7b9b83_6392341303333938396.mp3",
+          "audioName": "61倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我的品牌…还没有…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/9b819416354f4af381820253251da3b2_8789299418239517911.mp3",
+          "audioName": "62倒下·其三_en.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "就这点？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b4c225566af188dbb24709bc57be6d70_8491694360324172034.mp3",
+          "audioName": "63普通受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "没品味的家伙…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/e4e77234c655b1b2ee5a677dd5ca4b01_9000428151449213187.mp3",
+          "audioName": "64重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "你惹错人了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/aa0caec6a1a7f6735b79191a47d60bbe_1692488309078164028.mp3",
+          "audioName": "65重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "欢迎光临「千织屋」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/be3a462d5647c51061de9de90bd5f96c_1139077446362453004.mp3",
+          "audioName": "66加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "需要定制服务吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/ab057d4fbca1199829e04d15a67fadc7_9159650732113977141.mp3",
+          "audioName": "67加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "出门找找灵感吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/9cd683c98377733acc1563af8e0776f1_8592307084789999521.mp3",
+          "audioName": "68加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我叫千织，「千织屋」的老板。有服装定制类需求的话，欢迎找我。其他需求，就看你有没有足够用来交换的东西了，有来有回才叫「生意」嘛。另外，「千织屋」内严禁抽烟喝酒，寻衅闹事。「顾客即是神明」那一套在我这里不管用，就算来的真是神明，不守规矩被丢出去的时候，也一样是屁股着地。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/d6aa4ac17a7fed7867a035f3d7c4c452_4894326772180241597.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·评价",
+          "text": "我来决定自己该怎么走，要成为谁。没人能对我指手画脚。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/5652df7213d7c029e914c55fd8ae52f3_2580718879271746417.mp3",
+          "audioName": "02闲聊·评价_kr.mp3"
+        },
+        {
+          "name": "闲聊·裁缝刀",
+          "text": "谁说裁衣服一定要用剪刀？那些死板的规矩由它去吧，我喜欢自己用着顺手的刀具。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/d4eaa2f1dfb22163e41c65c1a390d076_4568580807198949675.mp3",
+          "audioName": "03闲聊·裁缝刀_kr.mp3"
+        },
+        {
+          "name": "闲聊·模特",
+          "text": "真要站着不动的话，干脆来当我的模特吧。给你设计款好看的衣服。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/4889578e47d35d31e15aa2544d5eb543_4427448127584120348.mp3",
+          "audioName": "04闲聊·模特_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "比起下雨，我更讨厌地上泥水，溅到衣服上就很难洗掉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/fda5f6d4a575cd01ec59016f921771d9_5491985240939258297.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "…想起了家乡往日的风景。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/22fdcd7edbe4aa6892d14789113a9390_9013311457422266068.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "清高却令人向往…落到手上的一瞬，这份美丽又随之消散…雪花这东西，和「时尚」还真像…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/5560c88ae50e0ebdf721f1ea888b6bbc_3628915177369872268.mp3",
+          "audioName": "07下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "真难想象这种地方要怎么推行时尚。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/cc52a1f5a92f4a5b50c7eb726ea94221_7878712419210881155.mp3",
+          "audioName": "08在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早，别指望我会给你变出早饭来。你如果去咖啡厅的话就帮我带一杯咖啡来吧，不加奶，不加糖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/21aebf25017a4c1a600ecb5191f38bee_5187594872922054718.mp3",
+          "audioName": "09早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "已经这个点了？肚子完全不饿啊…我不打算停下手头的活。午饭你自己吃就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/27cd75d2a793e56eda698799ea4a55ad_7414097412320416898.mp3",
+          "audioName": "10中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "外面好吵。全枫丹廷的人都出来逛街了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/c225dcbc10c61d6574954c8ffbf62a90_3459344171549535541.mp3",
+          "audioName": "11晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "我要去好好泡个澡放松一下。不多聊了，明天见。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/21965c811702c053cd7af3d80e122dfc_3131023327091431872.mp3",
+          "audioName": "12晚安…_kr.mp3"
+        },
+        {
+          "name": "关于自己·直接",
+          "text": "很多人明里暗里表达过我的性格不够好，说话不够委婉，容易伤人。依我说，那种谁都看得出来的寒暄、客套和恭维才是在浪费彼此的时间吧？要是挑明事实就会受伤，那人也太脆弱了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/e2b6203da1764c1fe869376b62254ff9_5164015468545017001.mp3",
+          "audioName": "13关于自己·直接_kr.mp3"
+        },
+        {
+          "name": "关于自己·理念",
+          "text": "最初构想品牌理念的时候，我想到了很多过去的经历，也由此提炼出了不少关键词。取舍是一件难事，尤其是你发现每一枚宝石都折射着你的一种想法…而你只能挑选最能代表你的那一枚。「永不认输」。那才是我，才是我的品牌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/8c24cf29c3b991502cd6e04cc391b9e0_1835570845999452483.mp3",
+          "audioName": "14关于自己·理念_kr.mp3"
+        },
+        {
+          "name": "关于我们·试衣",
+          "text": "听我的，这件适合你。什么？之前没见过这样的款式？呵，那是你之前遇到的设计师没品味。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/047524c0a4075100d6750c9be4e0e5a5_5033220830004808308.mp3",
+          "audioName": "15关于我们·试衣_kr.mp3"
+        },
+        {
+          "name": "关于我们·交换",
+          "text": "事到如今再说这话有点晚了，但我向来是想说什么就说什么，你恐怕也习惯了。我不打算改变自己直来直往的作风，你也尽管在我面前表露最真实的自己吧，无须掩藏。我保证不会对你有所指摘。不信？你认识我那么久，我有说到但做不到的时候吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/f1ac627ae44275ee4e0e598a04186f8b_3707685030952672352.mp3",
+          "audioName": "16关于我们·交换_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "因为我的出身，枫丹人称呼我为「鸣雷的裁锦师」。爱怎么称呼怎么称呼吧，我对故乡没什么依恋的感情，毕竟就连我的「神之眼」，都是在我决定离开稻妻时获得的。但我也不讨厌那个晒不干布料的地方，对我来说，只是没必要回去而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/ea3a2850076debe74eb2dcb122f87a98_3757325363391064835.mp3",
+          "audioName": "17关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "为了治我小时候好动的性格，父母送我去学过很多东西，「剑道」就是其中之一。但学了一阵子后，我突然觉得双手用刀很称我意，也很厉害，结果却被剑道老师制止了。我问他为什么，他只说这不是主流刀法，有些「不伦不类」。自那之后，我就再没去上过他的课。现在想想，当初坚持自己喜欢的用法真是太好了。或许，我天生就是两只手都闲不下来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/a6cb1e24c4dadbdac77f9b95cb5f4dd2_7112560515375210436.mp3",
+          "audioName": "18有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「袖」是我的第一件作品，那时只想缝一个跟自己差不多模样的女孩，作为模特和帮手。嗯？陪伴？我没这种需要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b5db2fb3c31b008abaa9c5d2f70ccb77_1009410367552629548.mp3",
+          "audioName": "19感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "她曾经很认真地「拜托」我设计各种奇奇怪怪的东西，比如为船舵的每个把手都设计一个不同的头冠。那时我忍不住翻了个白眼，说我最多把她的帽子设计成一条船。那些说我想法超前的人恐怕是没跟娜维娅聊过天。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/4e043612e103c2758d981353f3a83369_3479957130672527605.mp3",
+          "audioName": "20关于娜维娅…_kr.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "我做不出一顶能隐藏秘密的礼帽，但他通过魔术可以。有时我很好奇，他的帽子里装了那么多的秘密，戴起来会是什么感觉。对我来说，还是想到什么就说出来会比较轻松。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/80f14a1dd5f3338a557d22c3761cdd0f_4759733938562071810.mp3",
+          "audioName": "21关于林尼…_kr.mp3"
+        },
+        {
+          "name": "关于琳妮特…",
+          "text": "这位助手小姐不太说话，但她很信任我。我似乎很讨猫喜欢啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/2be447082397814dfe134ca74335c7e4_8629093774255996679.mp3",
+          "audioName": "22关于琳妮特…_kr.mp3"
+        },
+        {
+          "name": "关于夏洛蒂…",
+          "text": "有次夏洛蒂来店里想采访我，我说别了又没什么新鲜事。结果她刚一出门，就有个醉汉来店里闹事，被她记录下了全程…真是见了鬼了。只听说过记者追新闻，现在还有新闻会追记者？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3dd76bc799d02f43bbbc9235d35f03ff_4892399957977576014.mp3",
+          "audioName": "23关于夏洛蒂…_kr.mp3"
+        },
+        {
+          "name": "关于夏沃蕾…",
+          "text": "和夏沃蕾的合作与谈话都很省力。这导致每次跟她告别，重新面对顾客的时候，我都有种不适应的感觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/65c229e719b53b1d54b2aeb37e5df6f2_8116879468139169329.mp3",
+          "audioName": "24关于夏沃蕾…_kr.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "艾梅莉埃的香水很受欢迎。出于商业合作，我会请她将试做中的香水小样送到「千织屋」，让爱洛芙悄悄喷在顾客们使用的试衣间，然后我再将顾客们的反馈告诉她。但这么长时间下来，没有一位顾客说我试衣间里的味道奇怪，反倒是纷纷来问我店里的香水哪里有卖。出于好奇，每次她发售香水成品的时候，我也会买一瓶来闻闻。不得不说，那种每次都能品出新鲜感的香味，实为天才之作。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/2b33e39af2dc406fa064d745c2700f36_6851138609150600953.mp3",
+          "audioName": "25关于艾梅莉埃…_kr.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "一些朋友和合作者向我聊起过他，我很佩服他的手腕，但我也没打算改变自己的做事方式。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/a58e28f1113f8a39925e8624c86b4e68_2648963705075838022.mp3",
+          "audioName": "26关于莱欧斯利…_kr.mp3"
+        },
+        {
+          "name": "关于绮良良…",
+          "text": "从前在稻妻，我到野外找设计灵感的时候，总有只绿眼睛的猫喜欢跟在我身边。那家伙好像对我手上布料的颜色和花纹很感兴趣，心情好了还会蹭蹭我的小腿。后来，我一眼就认出了这个绿眼睛、背后还长着两条尾巴的女孩。她看那些新奇东西的眼神，这么多年就没有变过。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/d0649e7655ea7128d954831ab9e4993e_5834788859414910828.mp3",
+          "audioName": "27关于绮良良…_kr.mp3"
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "如果不是儿时贪玩，我恐怕也不会有机会认识这位神里家的大小姐。有次我翻进了神里家的院子，她的手鞠恰好滚到墙边。她见到我时既惊讶又兴奋，我陪她玩了好一会儿，又聊了很久的天…但最后我还是被人发现了，于是这短暂的友情就以我被人提了出去而告终。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/dcff30ebc86a994e11e24f79514d3ae7_4832859276754307653.mp3",
+          "audioName": "28关于神里绫华…_kr.mp3"
+        },
+        {
+          "name": "想要了解千织·其一",
+          "text": "我自认为脾气没有人们说的那么差，我只是不喜欢在破事上浪费时间而已。但不知是什么原因，那些「破事」总是缠着我不放。久而久之，就落得了个不好的名声，我才想叫冤枉呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/1c825f7abece368340a10e7532740ec7_3881165039082717896.mp3",
+          "audioName": "29想要了解千织·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解千织·其二",
+          "text": "我从小就不喜欢被管教，有段时间特别讨厌「规矩」这东西，一定要和它对着干。托这倔脾气的福，我吃了不少苦头。但后来我渐渐明白，「规矩」不全是坏事。我真正讨厌的，是那种不能按自己想法做出决定的感觉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/64efda4105c3a4599ba77d661f1a553a_1206417525886773405.mp3",
+          "audioName": "30想要了解千织·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解千织·其三",
+          "text": "小时候最期待的，就是家乡夏日的祭典。每到那时，人们就会穿上最好看的衣服上街…腰带上五颜六色的水球、怎么都捞不起的金鱼、还有甜到腻人的苹果糖和长野原家的烟花…那时玩得很开心，但回到家后，却总觉得少了什么。现在才知道，那时的我，是不想只做「观众」…就像提到烟花，人们就想到「长野原」一样。我希望有一天，人们想穿上祭典的，都是「千织屋」的衣服。…哈，光是这么想想，就感觉心中充满激情。嗯，我要回店里做衣服去了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/83ed267cbc55aedfd91eac3cacad0dc2_6061337601091895403.mp3",
+          "audioName": "31想要了解千织·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解千织·其四",
+          "text": "虽然工作起来很投入，但我也喜欢享受当下的时光。闲下来的时候，我会一个人带上些吃的，找个风景好的地方静静睡个午觉，晚上再听些喜欢的音乐，美美睡去…有时候则是叫上朋友们吃顿饭，大家在一起谈天说地，开个不醉不归的派对…想怎么做全看当时的心情。正如「时尚」只存在于「当下」一样，我也喜欢活在当下。怎么样？不如今晚我们就出去狠狠放松一下？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/a96d89ff03c72e636ff5184d7af9078f_1569431457877339399.mp3",
+          "audioName": "32想要了解千织·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解千织·其五",
+          "text": "我喜欢稻妻的点心、喜欢清淡的食物…我喜欢家乡布料的触感、喜欢每天结束后泡个澡…但我也喜欢枫丹温柔的海水、喜欢海里美不胜收的景色…我常常会想，自己是否并没有摆脱「过去」对我造成的影响，是否今天的一切都是命中注定…但那又如何呢？我就是我，活在此刻。就算过去的一切塑造了如今的我，未来的路，也依旧由我自己选择，谁都无法改变这点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/a10d46ff3045bab1677085faea66e740_2526392729567028510.mp3",
+          "audioName": "33想要了解千织·其五_kr.mp3"
+        },
+        {
+          "name": "千织的爱好…",
+          "text": "我在工作中追寻梦想，在爱好中探索自由。如果我每天做的事不是自己热爱的，那还有什么意思？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/13a3e33ef459c8c4f724bbbf776408f2_3680005118252069558.mp3",
+          "audioName": "34千织的爱好…_kr.mp3"
+        },
+        {
+          "name": "千织的烦恼…",
+          "text": "我偶尔烦恼，追求理想的进度比预期更缓慢，这样下去不知我的品牌什么时候才能风靡世界。但我绝不会向现实妥协，烦恼又有什么帮助呢？还不如省下这个时间，多做几件衣服。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/e774db5cd3bde1bc077346e56c09967e_7624694924035596341.mp3",
+          "audioName": "35千织的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我忘不了小时候吃过的那些稻妻点心。但比起品尝时的喜悦，我更享受制作的过程。要不是布料的色彩与变化更丰富一些，恐怕这世上，就要多一个点心师傅了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/f02e62c1f7d56d483d805abd33828241_3993653067106948744.mp3",
+          "audioName": "36喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "就拿羊杂哈吉斯举例吧，我吃不惯味道浓厚的菜。就像是好好地走在路上，冷不防被岩飘浮灵糊了一脸一样…我这么形容你能理解吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/71851924bc88e1a4272a7cad760af807_3666826506946321547.mp3",
+          "audioName": "37讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "嗯，这味道我很喜欢，下次再带给我点。放心，我也会给你回礼的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/6b3dbf877775af23fe35489d65700f22_3610443421705185973.mp3",
+          "audioName": "38收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "不错的手艺，适合工作累了之后，坐在店里慢慢品尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/074e67a2064ea05765e2a7f99a0a2919_8853548972176622498.mp3",
+          "audioName": "39收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "这味道我不喜欢，下次换个清淡点的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/9af6fa9484744ebb7cd2769590d0d865_3220576318379306296.mp3",
+          "audioName": "40收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。我懒得猜了，想要什么礼物就直说。嗯？太直接了？好吧，那就叫上娜维娅和绮良良她们，再约几个你的朋友，晚上来「千织屋」开派对。我参考参考他们会送你什么，然后当场做一个适合你的首饰送给你，保证你喜欢。我有这个自信。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/7ecaf0af81492da1c39882e569fa0199_3786437481328701559.mp3",
+          "audioName": "41生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "…不行，还是太普通。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/70b0a1d3a53ded5fdcf0b77637193c4b_5156252245528160264.mp3",
+          "audioName": "42突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "…还不错，但少了点引人驻足的亮点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/9d55f24f9c853d6a16375caf0482125b_8983884428878380744.mp3",
+          "audioName": "43突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "…好，我抓到我想要的了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/e7383967713b953b7a8d8f0d8898a023_1819001374076843979.mp3",
+          "audioName": "44突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我的手是不会抖的，这是我的专业性…但我得承认，此时此刻我的心跳声实在有些吵了。感谢你一路帮助我完成我的作品，它对我有着无比重要的意义。今后的路，我会更有把握。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b4c5ade8f8ee40e378761ec3b104c3cc_8120166136221911979.mp3",
+          "audioName": "45突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "袖。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/a9f64cd564857d5d277dcdf1bf387d78_6034501236587147251.mp3",
+          "audioName": "46元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "下一位？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/e0c9ca11838576508a47b64968813d69_6198316529576608095.mp3",
+          "audioName": "47元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "搭把手。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/110e340c712953400976d411396ba82c_2390976567472742678.mp3",
+          "audioName": "48元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "风尚，由我裁定。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/e7fe8d8109ff38e9e65c5d745852642f_5464402804830183155.mp3",
+          "audioName": "49元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "脆如绸锦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/f89add64675ac812110213efb61f2954_643039478876548625.mp3",
+          "audioName": "50元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "千红零落。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/291c5d05c7b963d269bc5019fcf77ae7_5877572349016974008.mp3",
+          "audioName": "51元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "这工艺还行吧，我做过比这更好的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/39a379cf03f86bfad57f35057ba7514b_2002301630047179718.mp3",
+          "audioName": "52打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "原来你喜欢这种？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/657994f1440dab9c56f98c9156fac784_1920892091160276942.mp3",
+          "audioName": "53打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "嗯…我参考参考。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/50e184d9516db7db846a499f555f7bd6_6483911950469589044.mp3",
+          "audioName": "54打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "衣服都破了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/966ecb4811ac49e5aceb88a652c2212b_2732231376434829409.mp3",
+          "audioName": "55生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "闹够了没有…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/912622dac081fbe115e34afe41fffccf_2737310191400920031.mp3",
+          "audioName": "56生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "得给你点教训…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/9aa67cbeac706924f4b199ab05a5a0a9_7648796949787501299.mp3",
+          "audioName": "57生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "喂，别逞强。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/51097e48c56ce497b2102798d1dee8c3_7550278970793624843.mp3",
+          "audioName": "58同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "我可不做寿衣。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/89246c98c0b5a2bb836e2a3ef4192b70_2023863904865746556.mp3",
+          "audioName": "59同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "裁剪不当…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/9abdb3230018f62e9ad31b603a8cdce1_8940252412958401125.mp3",
+          "audioName": "60倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我不认输…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/57945e863f63cf9fafb14722d42cc70a_1081643634036909168.mp3",
+          "audioName": "61倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我的品牌…还没有…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/d0f82f7da35c6579683b3530c0c29ffa_8778615028851266648.mp3",
+          "audioName": "62倒下·其三_kr.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "就这点？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/f3479897d203952b0f1fdb2f4efbdf15_6340295209070601558.mp3",
+          "audioName": "63普通受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "没品味的家伙…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/3f0123d0e7cf49bd93512f81474a653e_2477808176790325660.mp3",
+          "audioName": "64重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "你惹错人了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/ea4696e9366043b2fb879c88f418f215_5951663735581906123.mp3",
+          "audioName": "65重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "欢迎光临「千织屋」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/846ecd529c81b02fdc01b5a543563d8b_3487665804055473867.mp3",
+          "audioName": "66加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "需要定制服务吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/b4d2fa546a9b0fd04bf62c3b87951e59_4639863791116226431.mp3",
+          "audioName": "67加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "出门找找灵感吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2024/03/13/16576950/ded748e53951b78151961fcb5a4865b2_8182815359395678203.mp3",
+          "audioName": "68加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1757 @@
+{
+  "id": "55",
+  "name": "可莉",
+  "alias": [
+    "可莉"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "西风骑士团，「火花骑士」，可莉，前来报到！…呃——后面该说什么词来着？可莉背不下来啦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/070931802fe095614d6b2478873d79d5_1506586020611038144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·收获",
+          "text": "可莉今天又勇敢地抓到了花纹奇怪的蜥蜴！从没见过这种图案，你要看看吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/e874fde7a2df8960996ab49d71a0ff01_8712883441075318980.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·冒险",
+          "text": "要和可莉一起去炸鱼吗？虽然被抓住就是一整天的禁闭，但鱼很好吃，所以值得！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/cc7d533e43fc24285402c23539606973_292065080366019152.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·守则",
+          "text": "「城里放炮禁闭室报到」、「炸弹伤人琴找上门」、「放火烧山可莉完蛋」——这就是可莉在骑士团的生存守则。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/3b938c41504c3d1ecb2ce32c71e716a3_1579780281202317552.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "哼哼哼，这次的炸弹可是防水的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/58038f2441dd9970131e5c2e54779a46_2496014067294141831.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "啊！什么东西爆炸了？！…哦，是打雷啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/6ce0f70c3fe47c1243fa5ca370abd6f4_4834510319927679904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风神保佑，把可莉的炸弹往合适的地方吹吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/ef9492976ad889072913a783ecede57b_686818756687861840.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安！带可莉出去玩吧！我们一起来冒险！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/fbe0e1835e6bb4ab6b8754b9253ed015_3497300224056531649.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭时间到了！啊…吃什么呢？我来看看《提瓦特游览指南》…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/0a0aeee9a7e59892e934f6c6c61baa63_8382389470834281270.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好！拜托你也帮我跟霍夫曼先生说说吧，可莉不是小孩子了，可莉晚上也可以出去玩——带我出去玩——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/9917a3f395aac69e822ed3aaefb93aa5_5193386752742783507.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "虽然出来玩的时候说不想回家，但天黑以后的旷野，不认识路…拜、拜托你回去的时候，把我也送回家好不好…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/14630f76d4146bf828907bf1c21b0c4e_303258221954164830.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉自己·肇事",
+          "text": "呜…这次居然炸歪了大风车的叶片…真对不起！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/d99e9f93f400ec9b01a1b3d8f237492d_2272472404523581768.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉自己·赔偿",
+          "text": "我，我还挺会做手工的，请让我帮你们重新做一个…什么？禁止雇佣童工？呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/3657ba55b83c04ad3f41d81134ffa58a_5773232172244060624.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·骑士",
+          "text": "呼呼…荣誉骑士，可莉作为「火花骑士」，可以说是你在西风骑士团的前辈喔？所以！所以…这次我闯的祸，能不能帮我隐瞒一下…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/4a950fb7ff1767c8d30b9fd2c299675a_4374894354098055425.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·玩伴",
+          "text": "不行！才九点，可莉今晚一定要撑到看完马戏团的午夜专场！你是可莉的玩伴吧！那就别想现在就把我送回家，略略略略…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/34f81dcb5366f590671f421023fe0055_6345744994202226252.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "这个小小的玻璃球，就代表了巴巴托斯大人对可莉的肯定吗…唔…究竟是认可了我的哪一部分呢？是自由吗？那以后要不要更自由地出去炸鱼，来回应巴巴托斯大人的期待呢…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/00cb0fdb7a6b7f8ccf605fc2872c1624_4977767456801309000.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "可莉知道，骑士团的墙是不能炸的。虽然打通了能从禁闭室出去很方便，但凯亚哥哥说，这样做了以后，琴团长恐怕会让我再也见不到第二天的太阳…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/226a23cab519e712c6fe8be02a826b10_4469796741961005271.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "每一只蜥蜴的花纹都是不同的，有些蜥蜴的尾巴干燥以后磨成粉，可以当做炸药的材料哦。这是阿贝多哥哥告诉我的事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/9907ee19c0afd6ef25690d06c24ffd2b_2065329402475484497.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷泽…",
+          "text": "我们是朋友！雷泽努力对抗危机、保护可莉的样子，让人安心！…唔…虽然基本上都是我把危机带到他身边的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/3afb3af0b2d7023c1800c3f690b7d0f6_2605360361373480548.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于父母…",
+          "text": "爸爸和妈妈都是全大陆有名的旅行家！妈妈写的《提瓦特游览指南》，有好多餐馆和旅店都很在意它的权威评价呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/6d6ca28b9b46a94de83ad207dcc9ddd2_7867911277447062879.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "凯亚哥哥是好人！《骑士团生存守则》就是凯亚哥哥帮可莉写的。可莉闯祸的时候，他也经常帮忙遮掩呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/663edfd0a9afa8684459bcc6915f1040_3154486409885749302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏姐姐是好人！兔兔伯爵摸起来也是毛茸茸的，而且还会爆炸，太棒了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/91e4878eb574d6fc8eb0a250d83dd3d3_7757379225244489145.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴团长是好人！虽然…有点可怕…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/6145e54c9c19f507614dec81f82388af_4197264470272520168.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "奇怪的大人，一直都是不太开心的样子。唔…为什么不喜欢笑呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/00fca10d78825019ceeaeb3673b3b2d7_8671887899744547178.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎阿…丽莎姐姐是好人！每次可莉靠近她的工坊，她就会给可莉好吃的茶点…欸？说起来我想进她的工坊，好像一开始是想做新的炸药来着…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/1e8ea58c50697283a7511ef5c3ff3eaa_4269867990192525922.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特…",
+          "text": "班尼特哥哥是好人！和他一起冒险，可莉总能有更多收获！…虽然班尼特哥哥自己总是什么宝物都找不到，嗯…这是为什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/40be283773073969aca539475aba3c4f_631647081684879462.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪奥娜…",
+          "text": "迪奥娜姐姐是好人！「靠一己之力摧毁蒙德酒业」的想法好有趣，可莉也要用炸弹来帮忙！——呃，虽然不太懂什么叫做「蒙德酒业」，是怪物吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/fd0da50b353d0857fe24eb2417a45030_4122272252641610309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "阿贝多哥哥跟可莉有个秘密的约定！要是可莉看到工坊门前挂着「实验进行中」的牌子，就要晚点再去找他。阿贝多哥哥不工作的时候，会很耐心地陪着可莉，所以可莉也会很耐心地等着的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/3cf5cc228618af079c62f76a2a7f53ed_5175408850788794103.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜…",
+          "text": "莫娜姐姐是好人！她每次找阿贝多哥哥和可莉玩的时候，都会说好多听不明白，但是很有趣的东西！可莉喜欢她来玩！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/7f0ea6120be4cb3483a2cc02c279cfe2_7992586876938122084.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖…",
+          "text": "砂糖姐姐是好人！她问我，想不想要一个会跑会跳的蹦蹦！嘿嘿嘿，当然想要了，我还想要好几百个，让蒙德的街道上，台阶上，广场上，全是蹦蹦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/8cc0144981ee834ffd355f584d8e71d9_5693662597550564806.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于杜林…",
+          "text": "好耶！小杜林哥哥现在住在蒙德，我要天天找他玩！炸鱼的时候，我想让小杜林哥哥带我飞上很高很高的地方，在天上丢蹦蹦炸弹！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/03/03/50494840/85aa0f260c89039fa6449de5a3db2510_9054635591056987436.mp3",
+          "audioName": "关于杜林…cn.mp3"
+        },
+        {
+          "name": "想要了解可莉·其一",
+          "text": "你好！你是来找可莉玩的吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/9fe11e195e8b0ff26ab7709be1897242_3452155766859078848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其二",
+          "text": "是啊，这个炸弹是可莉最新改良的作品！你看我做得好不好？…呃——如果是在什么纵火现场发现的话，那就不是我做的，绝对不是。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/cb6bf3c5070f0c1b39e9fc0f19eea2ab_8769146846159189277.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其三",
+          "text": "哎，虽然新炸药的配方，很多都是在被关禁闭的时候想出来的…但如果不被关禁闭的话就更好了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/f9b265f61178b71bef1a2ab5b94a68bf_6742321921477277144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其四",
+          "text": "这是嘟嘟可，是可莉很久以前就交到的好朋友。要记得它的名字哦，以后别叫它「挂在你包上的玩偶」啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/56c7d328c49d878fa0357b0aa7129e5c_1969922887105689183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其五",
+          "text": "谢谢你总是帮可莉解决麻烦！就用这串「可莉烤鱼」来报答你吧！——呃，其实鱼是直接在湖里就被炸弹烤熟了，不过这件事就和平时一样，假装不知道好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/ddaaaee67b4a8bda02973944ad80f793_7383538945795936718.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "可莉的爱好…",
+          "text": "可莉喜欢毛茸茸的东西。比如嘟嘟可、蒲公英，还有雷泽的头发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/642aeb1bf59636b7bd6e6c2b2ddba454_8836065197350260208.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "可莉的烦恼…",
+          "text": "唉，你是好人，我是坏孩子…等我这次的禁闭结束、好好反省过以后，再来找你带我出去玩…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/eb8ba1c8af42c1f72775a62228c2d838_6637181170559146732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "蒙德的鲈鱼是很好吃的，从果酒湖里抓到的尤其好吃！这可不是瞎说的，连妈妈也认同可莉的想法喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/a5580cb7ed1c4c05ee50dfd97d24bfef_2452886019779637446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "讨厌蒙德蟹——什么蟹都讨厌——可莉要出去玩——不要坐在餐桌前慢慢剥壳——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/df7b24cb5030bfe9c0b7666bff14f290_8043192095783828020.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好香好香！可莉已经吃到吃不下啦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/b2e47f807b6c99c5a6c28eb4eaa5d68a_1806043118803603346.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "今天也吃到了好吃的东西，可莉好开心！谢谢你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/70d7112ce41aa8a1f03e6e21a1d61ee2_7471259852136363400.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "看上去很好吃，但吃起来不太方便…嘿嘿，你来帮帮可莉好不好！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/4509588f663286472c9d66fde3a4c5a4_6773837471544735863.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！过生日很开心，你比可莉大，那过生日的次数一定比可莉多吧？可莉很羡慕！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/f39cf8720b9b25a77a559c1a9b7df03a_9156623411882096033.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "嗯，新型炸弹研究完毕！趁琴团长发现之前，开溜！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/80990d8633d3c74fe02f724bf1120c57_3561279677544930446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "又进步了一点！不过琴团长总是说：「进步是分内之事。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/a6d2c075200b466ec74d37408592721a_7453147571209780699.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "谢谢你总是陪我一起收集研究用的材料！如果你想学习炸弹的制作方法，我也可以来教你哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/70e8fe1f7a09b69d796d76e7cbff120b_4465361512106417376.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "很久以前，第一次听到爆炸声的时候，我没有害怕…后来我才知道，大部分人不是这样的…不过，你也不害怕我的炸弹呢！嘿嘿，太好了，可莉果然交到了很好的朋友！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/b4420446f1ea54d1a4554634fca92e7b_4376444641605091624.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "蹦蹦炸弹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/e788424e6ad025bf84bbf0ff1e08b8f0_798562413049778558.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "弹起来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/59e77c2857c1d92391fcc282bb86c1a7_5948059131208222178.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "嘿咻！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/d36ac87ecd52fcc62205ec536f57e2c1_6195177294285356144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "轰轰火花！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/8fc9311ada6beeadac999af1ec4fde66_8175450175933977814.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "火力全开！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/1208b02599b7c4509d2a09bf2704a0d7_484036794698843811.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "全——都可以炸完！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/d5b42b37ac789191e299e86c21e6ec98_5198322891765781409.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "啦啦啦~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/9843c466371ffea246b68a6fcd1590c2_5808403279174752279.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "哒哒哒~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/429281fded26a537aa7c33319fa6e388_172369884487879995.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "可莉又找到新的宝物了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/53b960415e655c68aee8150ee4dd6f5a_5617744071096283711.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "亮闪闪的，好开心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/0fc169759464ba98265d3e892b7a45b2_7186646768586962710.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "地下会不会埋着更多宝箱呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/8909409d06cfcd0d148ee40b8e79f157_8514093078758354658.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "哇…怎么会这样…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/a75cfcaff168e2af4b1edaff631b8ed4_2615022269602967702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "琴团长…它欺负我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/2adde4a2f168531358fa7734eff7a280_3638783189055140729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "玩累了，有点晕…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/8686189a1e06a1335ead7737c101ae6b_1387925286782657736.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "火花骑士，爆破支援！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/635ca2ee51eb9f40bea9970bbea7be17_3407309569219772336.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "你不要紧吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/9fe0227957deaa31df14d281fd412859_564931973302765541.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "看我成功开溜…！啊，失败了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/00f73cbe63fceb10b0e0d2d9f12bbcd8_185512756131729570.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "可莉…想回家了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/d1d180c355b1668924a7120f6a67d20d_1112762341226112911.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "又闯祸了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/0accfd77800e1c7786ecd6f3be35f501_6068679987658256926.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "过分…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/5877917847befe542ddfbd17b7fa4229_8228501230944800024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "好疼啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/82ffcc30338df652b1e27d06fa0388e5_1036088437212315874.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "可莉来帮忙！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/dbfbb10b4b74498954516608c93b119c_2820970912512892128.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "锵锵——可莉登场。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/d43c16df225ae0716e301ce12ea4ab5b_1924377028594916575.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "好耶！是大冒险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/f0197602e78ac2024bb77faf40f1253d_2120966796001540679.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "西风骑士团，「火花骑士」，可莉，前来报到！…呃——后面该说什么词来着？可莉背不下来啦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/c32d88d51241cd35323ebaea64629d61_8312357008820297292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·收获",
+          "text": "可莉今天又勇敢地抓到了花纹奇怪的蜥蜴！从没见过这种图案，你要看看吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/5ff8f673dd7bd22c0fdf16aadea82708_7922150725969558599.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·冒险",
+          "text": "要和可莉一起去炸鱼吗？虽然被抓住就是一整天的禁闭，但鱼很好吃，所以值得！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/5071c574c695056a7bdf054d8bd8364c_3109300904133737560.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·守则",
+          "text": "「城里放炮禁闭室报到」、「炸弹伤人琴找上门」、「放火烧山可莉完蛋」——这就是可莉在骑士团的生存守则。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/c89b2f38cb80b0c267de98151f6cd19b_8839219126382193926.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "哼哼哼，这次的炸弹可是防水的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/c961b9e46bdfbf1a2aa93d27b5cf955c_770569639467782721.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "啊！什么东西爆炸了？！…哦，是打雷啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/342ea500f2c320ba021d8c0c38cbd705_3034306159881972571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风神保佑，把可莉的炸弹往合适的地方吹吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/a2ad9dbceb6db26b43fae49d95ad483f_9031743279866482184.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安！带可莉出去玩吧！我们一起来冒险！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/f2af3712b360d403baa0f3e0456e37f1_4842776425191132015.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭时间到了！啊…吃什么呢？我来看看《提瓦特游览指南》…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/e3988a6c9e1158b6600b0cd3b4bd346f_462251623290834381.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好！拜托你也帮我跟霍夫曼先生说说吧，可莉不是小孩子了，可莉晚上也可以出去玩——带我出去玩——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/427ee0e130d3b6c76dd705309f613a61_3735406025701634850.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "虽然出来玩的时候说不想回家，但天黑以后的旷野，不认识路…拜、拜托你回去的时候，把我也送回家好不好…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/dc13fe1904b89db5f4cfdf89bccf6b57_4430033957210267849.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉自己·肇事",
+          "text": "呜…这次居然炸歪了大风车的叶片…真对不起！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/47b50ac34d091ad5bc47dfbfdf539fe9_1271913171098077186.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉自己·赔偿",
+          "text": "我，我还挺会做手工的，请让我帮你们重新做一个…什么？禁止雇佣童工？呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/42b8d5a22925425686182c221161438f_2060805273477770801.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·骑士",
+          "text": "呼呼…荣誉骑士，可莉作为「火花骑士」，可以说是你在西风骑士团的前辈喔？所以！所以…这次我闯的祸，能不能帮我隐瞒一下…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/ab505e87e4c8553e7d3fbd6481f38568_8015530443664961928.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·玩伴",
+          "text": "不行！才九点，可莉今晚一定要撑到看完马戏团的午夜专场！你是可莉的玩伴吧！那就别想现在就把我送回家，略略略略…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/127ffbc33a0df62874c1493f1d6c4c5f_3293510774300663082.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "这个小小的玻璃球，就代表了巴巴托斯大人对可莉的肯定吗…唔…究竟是认可了我的哪一部分呢？是自由吗？那以后要不要更自由地出去炸鱼，来回应巴巴托斯大人的期待呢…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/6e0d5f2fa350bee79676ea9ccdd472b1_8654003192986976300.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "可莉知道，骑士团的墙是不能炸的。虽然打通了能从禁闭室出去很方便，但凯亚哥哥说，这样做了以后，琴团长恐怕会让我再也见不到第二天的太阳…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/335f44f3a493541eb13f5343d6907b94_5293223783758492415.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "每一只蜥蜴的花纹都是不同的，有些蜥蜴的尾巴干燥以后磨成粉，可以当做炸药的材料哦。这是阿贝多哥哥告诉我的事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/c180ba58c01493f59524b45d65794764_6921449727677662650.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷泽…",
+          "text": "我们是朋友！雷泽努力对抗危机、保护可莉的样子，让人安心！…唔…虽然基本上都是我把危机带到他身边的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/69f20b39d10f12ec5f66e11b8976dc28_5445296473338904416.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于父母…",
+          "text": "爸爸和妈妈都是全大陆有名的旅行家！妈妈写的《提瓦特游览指南》，有好多餐馆和旅店都很在意它的权威评价呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/f620310a2f2d3301a1b0fd82e06ce937_8266290288651757502.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "凯亚哥哥是好人！《骑士团生存守则》就是凯亚哥哥帮可莉写的。可莉闯祸的时候，他也经常帮忙遮掩呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/3557870aa4a0135e8f8ae6da18beaa66_7950333882417422396.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏姐姐是好人！兔兔伯爵摸起来也是毛茸茸的，而且还会爆炸，太棒了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/e69d7dbb257e9b24ed0daa1bd0734e19_8498258315570532600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴团长是好人！虽然…有点可怕…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/ce63c13543fc16968a6daad5c212821e_8029301817388326757.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "奇怪的大人，一直都是不太开心的样子。唔…为什么不喜欢笑呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/5c5be6aacc518e1b6fee94f101f54b10_2407592394393491733.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎阿…丽莎姐姐是好人！每次可莉靠近她的工坊，她就会给可莉好吃的茶点…欸？说起来我想进她的工坊，好像一开始是想做新的炸药来着…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/69487aafabc0ed14747ecebb616c8ff8_7154271888927019780.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特…",
+          "text": "班尼特哥哥是好人！和他一起冒险，可莉总能有更多收获！…虽然班尼特哥哥自己总是什么宝物都找不到，嗯…这是为什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/90d72620adcb2f5981532b9f06a8387d_8972641644831350539.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪奥娜…",
+          "text": "迪奥娜姐姐是好人！「靠一己之力摧毁蒙德酒业」的想法好有趣，可莉也要用炸弹来帮忙！——呃，虽然不太懂什么叫做「蒙德酒业」，是怪物吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/612ef1dd04ee24a0f14ee682f75f4c17_3780374894610595239.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "阿贝多哥哥跟可莉有个秘密的约定！要是可莉看到工坊门前挂着「实验进行中」的牌子，就要晚点再去找他。阿贝多哥哥不工作的时候，会很耐心地陪着可莉，所以可莉也会很耐心地等着的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/5f94c5553eb166f93913ef0cb5ba2898_3751389255707608512.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜…",
+          "text": "莫娜姐姐是好人！她每次找阿贝多哥哥和可莉玩的时候，都会说好多听不明白，但是很有趣的东西！可莉喜欢她来玩！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/8ef88018ab219aa842dc66584c5684f0_7915188790916715644.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖…",
+          "text": "砂糖姐姐是好人！她问我，想不想要一个会跑会跳的蹦蹦！嘿嘿嘿，当然想要了，我还想要好几百个，让蒙德的街道上，台阶上，广场上，全是蹦蹦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/f16d1ba57ee6f11fe54007588ba61fac_8128982987229420192.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于杜林…",
+          "text": "好耶！小杜林哥哥现在住在蒙德，我要天天找他玩！炸鱼的时候，我想让小杜林哥哥带我飞上很高很高的地方，在天上丢蹦蹦炸弹！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/03/03/50494840/bcdabac648821ff8ce0c4187e5e22a17_8677640896385609426.mp3",
+          "audioName": "关于杜林…jp.mp3"
+        },
+        {
+          "name": "想要了解可莉·其一",
+          "text": "你好！你是来找可莉玩的吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/f2899d3663d616b43a1e920f55996904_7175066193898781892.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其二",
+          "text": "是啊，这个炸弹是可莉最新改良的作品！你看我做得好不好？…呃——如果是在什么纵火现场发现的话，那就不是我做的，绝对不是。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/2db1dea7ec588bfd3acf58ec080dd335_8225896888881974739.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其三",
+          "text": "哎，虽然新炸药的配方，很多都是在被关禁闭的时候想出来的…但如果不被关禁闭的话就更好了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/ddeb60f795da56a460f23d123d176b3e_8158009244000702538.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其四",
+          "text": "这是嘟嘟可，是可莉很久以前就交到的好朋友。要记得它的名字哦，以后别叫它「挂在你包上的玩偶」啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/66dbb7ce8067f7b61510b67ac8b961df_1154350448939859858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其五",
+          "text": "谢谢你总是帮可莉解决麻烦！就用这串「可莉烤鱼」来报答你吧！——呃，其实鱼是直接在湖里就被炸弹烤熟了，不过这件事就和平时一样，假装不知道好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/d8ef2158228161af5f7a43c0ca8f5b7e_1658330905952653719.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "可莉的爱好…",
+          "text": "可莉喜欢毛茸茸的东西。比如嘟嘟可、蒲公英，还有雷泽的头发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/253e875ee45aed386ab6a670615f3e28_7322420122030223165.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "可莉的烦恼…",
+          "text": "唉，你是好人，我是坏孩子…等我这次的禁闭结束、好好反省过以后，再来找你带我出去玩…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/dc0cec10ec1847fa9c4633b0befb7a7f_2308602718748064698.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "蒙德的鲈鱼是很好吃的，从果酒湖里抓到的尤其好吃！这可不是瞎说的，连妈妈也认同可莉的想法喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/fd5134d641972f6655b15b510c0034b0_4867952124917910069.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "讨厌蒙德蟹——什么蟹都讨厌——可莉要出去玩——不要坐在餐桌前慢慢剥壳——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/1544dfe12dd6e11319af2e43bf8d4717_4572925176157871826.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好香好香！可莉已经吃到吃不下啦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/90e5f411b628ee54788f579404d8bf3d_1668398800942861705.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "今天也吃到了好吃的东西，可莉好开心！谢谢你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f20d80552431300c237e8100aaddbb44_5777146996041599302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "看上去很好吃，但吃起来不太方便…嘿嘿，你来帮帮可莉好不好！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2c128f6325d6ba8b143a5abd9c4e6ffe_1222111662389900248.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！过生日很开心，你比可莉大，那过生日的次数一定比可莉多吧？可莉很羡慕！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/3f0983829416b42037b59eb7b8700712_5845034122562304504.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "嗯，新型炸弹研究完毕！趁琴团长发现之前，开溜！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/aba3e92f9abe6c62d28deada729a022f_5451877407085821637.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "又进步了一点！不过琴团长总是说：「进步是分内之事。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/70b78afa7b006926b29278ae563ba814_742975168566022601.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "谢谢你总是陪我一起收集研究用的材料！如果你想学习炸弹的制作方法，我也可以来教你哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/04e41a8023c1f413005b41993f727ab1_1607877740139732452.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "很久以前，第一次听到爆炸声的时候，我没有害怕…后来我才知道，大部分人不是这样的…不过，你也不害怕我的炸弹呢！嘿嘿，太好了，可莉果然交到了很好的朋友！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/ea882e53b682c3ad12dd57943befb191_832309901759984352.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "蹦蹦炸弹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/a6849d9204b49b08519bc86735432e29_203795779903913065.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "弹起来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/ac5841b312b6797d87580e279fdfef51_1521965175631031811.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "嘿咻！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/22290e2d8998fe8a7089151b99c1f73c_920389675062354895.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "轰轰火花！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/cef6e66d51885100361cde55fbd7906b_7665932270213526511.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "火力全开！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/1fe209f94f50efe7ff39233ebc637246_4002625514940883470.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "全——都可以炸完！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/48b4293d357c3105a8ed444ecd76b91a_5220187133617685047.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "啦啦啦~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/980d84e28b474b9d45ec9278fe2b191b_2967926078731525835.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "哒哒哒~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/ba0f8b93fac6d0a1d1d9d857af48a77b_7092291632054223415.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "可莉又找到新的宝物了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/51dd948031a62ae47595215d1dac013e_7259205295736257854.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "亮闪闪的，好开心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/d47a57b60f86bd12010bdcfb21986891_721587458383871382.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "地下会不会埋着更多宝箱呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/7662bb3917530463624375c9906b13aa_4469214081473347052.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "哇…怎么会这样…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/7fa11cee4da33d7d97e120d882ec9c2c_3723031215414350948.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "琴团长…它欺负我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/583b33fb861d384d8aecc880d8b7849d_6473146738418944005.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "玩累了，有点晕…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/779316145661558680c1daf97f2e455c_2285843843955579993.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "火花骑士，爆破支援！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/0666b15bc1c6c0a8e4d550d000d6a72c_1171327585244014119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "你不要紧吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/6c4bffcc87acd880e6e897587d5030c0_8343957829611442167.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "看我成功开溜…！啊，失败了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/f03c3e3757cf0e16c52695900721aed7_8662982263319420642.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "可莉…想回家了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/416d6a69117b3a469859a334062f84a4_4240507542425223945.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "又闯祸了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/9eb9aa8dcd030e4f040af17d80a14c9c_4198687886838945530.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "过分…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/a2f9f59c1c3b7a3cb00aca84ac2c2627_8893585962004993445.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "好疼啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/7556dc2ee85bbe7d0c465db078128f47_8313735442353061567.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "可莉来帮忙！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/320745dec4481a140c2310b4f5e40f74_2985518240647495728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "锵锵——可莉登场。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/a33492359439a3e22770070d87fa70e0_6191596892365099587.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "好耶！是大冒险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/50c84043968698d2eff3c157d252e8b8_8533309043989857030.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "西风骑士团，「火花骑士」，可莉，前来报到！…呃——后面该说什么词来着？可莉背不下来啦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/4642c0671d6fb3bdf9ccf8d84bbfa516_436096096358555015.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·收获",
+          "text": "可莉今天又勇敢地抓到了花纹奇怪的蜥蜴！从没见过这种图案，你要看看吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/29c52501313637e4ef55ec18925e1ef1_7374369719523174049.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·冒险",
+          "text": "要和可莉一起去炸鱼吗？虽然被抓住就是一整天的禁闭，但鱼很好吃，所以值得！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/736053acb19579f2852eb7bba5d40a54_3917567499730673102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·守则",
+          "text": "「城里放炮禁闭室报到」、「炸弹伤人琴找上门」、「放火烧山可莉完蛋」——这就是可莉在骑士团的生存守则。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/67fcba2da108dd2a238e96273536c2a0_302810700043387496.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "哼哼哼，这次的炸弹可是防水的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/d3e104315140be48fd3d06d143cd1aa6_2728297045836612147.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "啊！什么东西爆炸了？！…哦，是打雷啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/77ebc83264034ce2db0f5ee61a43268a_1523018838965206500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风神保佑，把可莉的炸弹往合适的地方吹吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/92dc89942b9d4dad460901c0004a198d_7407817580171769457.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安！带可莉出去玩吧！我们一起来冒险！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/e9a81317977f44b64bbdb9f4d7f0d512_8581569767756131616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭时间到了！啊…吃什么呢？我来看看《提瓦特游览指南》…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/6a876a507e0bded4b0c83f5a35188c57_9117710936464324271.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好！拜托你也帮我跟霍夫曼先生说说吧，可莉不是小孩子了，可莉晚上也可以出去玩——带我出去玩——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/2f3c033249dc71df30d1e4dd321279a4_2606337826824009635.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "虽然出来玩的时候说不想回家，但天黑以后的旷野，不认识路…拜、拜托你回去的时候，把我也送回家好不好…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/6d19a1679669fdef7b55a9006805394c_3652777283774882944.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉自己·肇事",
+          "text": "呜…这次居然炸歪了大风车的叶片…真对不起！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/8216e9b8297a88735434000cf4bdd193_902897641901624021.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉自己·赔偿",
+          "text": "我，我还挺会做手工的，请让我帮你们重新做一个…什么？禁止雇佣童工？呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/cc0de8237b3da9e1e117ad3ff0cdff97_4266536565036907657.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·骑士",
+          "text": "呼呼…荣誉骑士，可莉作为「火花骑士」，可以说是你在西风骑士团的前辈喔？所以！所以…这次我闯的祸，能不能帮我隐瞒一下…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/c23e1e9624ecb2fdee44d0d57e250ba5_5384085547660365840.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·玩伴",
+          "text": "不行！才九点，可莉今晚一定要撑到看完马戏团的午夜专场！你是可莉的玩伴吧！那就别想现在就把我送回家，略略略略…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/db8e273cb77f24a3a55c5de9552621a8_8058157889925706547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "这个小小的玻璃球，就代表了巴巴托斯大人对可莉的肯定吗…唔…究竟是认可了我的哪一部分呢？是自由吗？那以后要不要更自由地出去炸鱼，来回应巴巴托斯大人的期待呢…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/e39e86ea931e55f9dc42a8cd9435bca9_7716900674638447281.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "可莉知道，骑士团的墙是不能炸的。虽然打通了能从禁闭室出去很方便，但凯亚哥哥说，这样做了以后，琴团长恐怕会让我再也见不到第二天的太阳…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/a59fc93870664093757db1a2912fc46a_6665313405498826346.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "每一只蜥蜴的花纹都是不同的，有些蜥蜴的尾巴干燥以后磨成粉，可以当做炸药的材料哦。这是阿贝多哥哥告诉我的事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/6c168e0a8b09c48ebeb231734c944020_6297897767886864325.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷泽…",
+          "text": "我们是朋友！雷泽努力对抗危机、保护可莉的样子，让人安心！…唔…虽然基本上都是我把危机带到他身边的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/2999e7c58c20058249312b8291eb85c7_9191314733619820402.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于父母…",
+          "text": "爸爸和妈妈都是全大陆有名的旅行家！妈妈写的《提瓦特游览指南》，有好多餐馆和旅店都很在意它的权威评价呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/ff3d881949cf1cbc5953dbb9d400f955_8586843089305760880.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "凯亚哥哥是好人！《骑士团生存守则》就是凯亚哥哥帮可莉写的。可莉闯祸的时候，他也经常帮忙遮掩呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/7406276304438c7281e0f8c3c7318e9c_7886181230821401124.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏姐姐是好人！兔兔伯爵摸起来也是毛茸茸的，而且还会爆炸，太棒了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/1d479b6575ba8b37d678b3778eba106b_8660342363634548569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴团长是好人！虽然…有点可怕…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/943b7757c5734ae9e1900342ee04fd27_9042777865506458802.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "奇怪的大人，一直都是不太开心的样子。唔…为什么不喜欢笑呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/94344c25dcadc716fdc1a4ff9677c942_8338255694504265877.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎阿…丽莎姐姐是好人！每次可莉靠近她的工坊，她就会给可莉好吃的茶点…欸？说起来我想进她的工坊，好像一开始是想做新的炸药来着…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/04ffb8ac95e711244dcff9981ff457b8_4779790156466223423.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特…",
+          "text": "班尼特哥哥是好人！和他一起冒险，可莉总能有更多收获！…虽然班尼特哥哥自己总是什么宝物都找不到，嗯…这是为什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/c2d09ff4ccbf7d7ac965c6922c8dda86_899126418492459965.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪奥娜…",
+          "text": "迪奥娜姐姐是好人！「靠一己之力摧毁蒙德酒业」的想法好有趣，可莉也要用炸弹来帮忙！——呃，虽然不太懂什么叫做「蒙德酒业」，是怪物吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/04c189a26b9a84dcaf50a7a7686a2a51_8898122372138966404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "阿贝多哥哥跟可莉有个秘密的约定！要是可莉看到工坊门前挂着「实验进行中」的牌子，就要晚点再去找他。阿贝多哥哥不工作的时候，会很耐心地陪着可莉，所以可莉也会很耐心地等着的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/28dc40b4a5bfde185046a5625a1e1c21_112273078443126069.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜…",
+          "text": "莫娜姐姐是好人！她每次找阿贝多哥哥和可莉玩的时候，都会说好多听不明白，但是很有趣的东西！可莉喜欢她来玩！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/0fc6e334f7314e70af95efea5b3b361f_7297537563430218371.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖…",
+          "text": "砂糖姐姐是好人！她问我，想不想要一个会跑会跳的蹦蹦！嘿嘿嘿，当然想要了，我还想要好几百个，让蒙德的街道上，台阶上，广场上，全是蹦蹦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/6d897edeaaa7675a8ad545ecb8adf8a6_1884919521778245338.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于杜林…",
+          "text": "好耶！小杜林哥哥现在住在蒙德，我要天天找他玩！炸鱼的时候，我想让小杜林哥哥带我飞上很高很高的地方，在天上丢蹦蹦炸弹！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/03/03/50494840/55d4ab3212a6bb93f89015fee783f29b_1308805561919736396.mp3",
+          "audioName": "关于杜林…kr.mp3"
+        },
+        {
+          "name": "想要了解可莉·其一",
+          "text": "你好！你是来找可莉玩的吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/550837aaf2f6a0d79c86a64f512e77d7_5014168323912804987.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其二",
+          "text": "是啊，这个炸弹是可莉最新改良的作品！你看我做得好不好？…呃——如果是在什么纵火现场发现的话，那就不是我做的，绝对不是。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/4cacb6a3e4e3caaafca9282de213f1b7_296217685371257381.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其三",
+          "text": "哎，虽然新炸药的配方，很多都是在被关禁闭的时候想出来的…但如果不被关禁闭的话就更好了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/f874b390290286df1cc0cc2a942ea384_1448780279440864819.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其四",
+          "text": "这是嘟嘟可，是可莉很久以前就交到的好朋友。要记得它的名字哦，以后别叫它「挂在你包上的玩偶」啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/d2f4deff2c8daf0c8a4acf6ed58f7772_6321685851026564681.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其五",
+          "text": "谢谢你总是帮可莉解决麻烦！就用这串「可莉烤鱼」来报答你吧！——呃，其实鱼是直接在湖里就被炸弹烤熟了，不过这件事就和平时一样，假装不知道好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/e26dc70e2f5161892bf17551a94faa94_5974573862790191588.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "可莉的爱好…",
+          "text": "可莉喜欢毛茸茸的东西。比如嘟嘟可、蒲公英，还有雷泽的头发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/9d2ec9324457f5068aa28471cc9dd31d_5995734229105597617.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "可莉的烦恼…",
+          "text": "唉，你是好人，我是坏孩子…等我这次的禁闭结束、好好反省过以后，再来找你带我出去玩…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/8b47546b5bec1e4b6debbc96230dcedc_1533181568563500334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "蒙德的鲈鱼是很好吃的，从果酒湖里抓到的尤其好吃！这可不是瞎说的，连妈妈也认同可莉的想法喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/051bb19a2888040752f25e6811f351fd_8172360816488294299.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "讨厌蒙德蟹——什么蟹都讨厌——可莉要出去玩——不要坐在餐桌前慢慢剥壳——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/c36011bf8952c885622d30b5f41222f1_4848292989394135920.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好香好香！可莉已经吃到吃不下啦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a750cb73771902cafd614dafde985292_8293565707573495861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "今天也吃到了好吃的东西，可莉好开心！谢谢你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/759f56f0d1e389d37f94ca5fa09d3063_2451309776129633275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "看上去很好吃，但吃起来不太方便…嘿嘿，你来帮帮可莉好不好！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2781c97c9ef91bff6765059d7cb6110b_6884456505434720532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！过生日很开心，你比可莉大，那过生日的次数一定比可莉多吧？可莉很羡慕！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/b103b1edf9d7a058415f1bf9626fa8df_8026421995476393848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "嗯，新型炸弹研究完毕！趁琴团长发现之前，开溜！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/f0392e30567023a957cb3a5b58894539_7253277555602541588.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "又进步了一点！不过琴团长总是说：「进步是分内之事。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/7d80b51001b0125bc9dcc663b4d11985_6675109670900467432.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "谢谢你总是陪我一起收集研究用的材料！如果你想学习炸弹的制作方法，我也可以来教你哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/4c08848bda355b9bcd3cbe740b39fa1a_2412569941734640160.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "很久以前，第一次听到爆炸声的时候，我没有害怕…后来我才知道，大部分人不是这样的…不过，你也不害怕我的炸弹呢！嘿嘿，太好了，可莉果然交到了很好的朋友！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/389c775db8851312119cd9cc77b31d72_4596093664081345908.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "蹦蹦炸弹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/a429acea963101db1142687bdb8f6fb4_8494738978301805826.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "弹起来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/2e6d2f6d38b0819bbabfb11cc1eb7221_3798723739209395636.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "嘿咻！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/7052d684ee8d7e8bcf7e3c698968a21d_6278112764892934633.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "轰轰火花！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/168964f91229a77042eef2a6062f1f04_3033342215301616616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "火力全开！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/5f2402aea3d0941ed701f28b0956bccf_17230111411480234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "全——都可以炸完！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/6b133beed015ad980f56aeb270e2ed8d_6880040488450076549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "啦啦啦~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/de7044b617326de32003d749a7bc1b5b_4583624831286940111.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "哒哒哒~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/3d393ae6978ee73803c84f879284e06c_5469037789160935524.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "可莉又找到新的宝物了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/563c11621f980921acb129d7397a3479_20603783845740674.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "亮闪闪的，好开心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/078cdd0095c9e1f2bfaea142e9a08ebd_2566889072946521671.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "地下会不会埋着更多宝箱呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/0437f59c49aca1a4045ca2e5816dda11_2633098470875326589.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "哇…怎么会这样…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/49214336e53ed8c7829fbb463255a0c3_6417273514813759001.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "琴团长…它欺负我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/2c619e3ccadd80ce81b9d8471e79b9d1_7825788724881150676.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "玩累了，有点晕…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/4550c63e552af7529a19dbf9684f48cc_867259718834920904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "火花骑士，爆破支援！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/42dd86c523f2b3d342738e67e971d295_4837453142370857156.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "你不要紧吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/bdefa5d5afc8dd859561b71d007e183f_9047791018195349687.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "看我成功开溜…！啊，失败了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/cb147680ea7666f74bcff52fd6cf4e02_3106935323183945570.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "可莉…想回家了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/34ba236390b72edc98afb529303b021a_1883146098861679830.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "又闯祸了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/378c0344fe277499ce08da14faa65419_5330406644513841976.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "过分…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/17316d5313b8e679a114c009eee80d0c_8975660567375951088.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "好疼啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/b01b7c0ad76fe9bdd98c4c9212a8ced2_4693569038220699248.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "可莉来帮忙！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/49d702f798ca0b62e86408d0668ce402_9193563782183121578.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "锵锵——可莉登场。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/41cac02b04cb00c7c4d73b99f8db3ced_6088701266100329093.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "好耶！是大冒险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/99269ad37085c1a1b13a864f1e396054_6660932786837625728.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "西风骑士团，「火花骑士」，可莉，前来报到！…呃——后面该说什么词来着？可莉背不下来啦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/8c16a95b7425e762aaa10d35381ea097_1173064982095901196.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·收获",
+          "text": "可莉今天又勇敢地抓到了花纹奇怪的蜥蜴！从没见过这种图案，你要看看吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/6df8ca9c4a93b19274a2952a5fbf5e42_3757985303674437280.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·冒险",
+          "text": "要和可莉一起去炸鱼吗？虽然被抓住就是一整天的禁闭，但鱼很好吃，所以值得！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/9286d18b31a43420ac1decb05c378960_7299561274897320000.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·守则",
+          "text": "「城里放炮禁闭室报到」、「炸弹伤人琴找上门」、「放火烧山可莉完蛋」——这就是可莉在骑士团的生存守则。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/36e83028a7b96ca0b0cbe583dc4156b5_8218581793031457451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "哼哼哼，这次的炸弹可是防水的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/9b6759efeb14100e9f8685920d755d4c_4836100078261332607.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "啊！什么东西爆炸了？！…哦，是打雷啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/56ed5c8cd9cbe487f6dbfe03a2be398d_7228569105018887724.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风神保佑，把可莉的炸弹往合适的地方吹吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/9a5322fe9dd19993b389a59b0638734c_4467991895188492059.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早安！带可莉出去玩吧！我们一起来冒险！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/25dd2ea269000b486b29b8bebce38340_3122258851909171006.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭时间到了！啊…吃什么呢？我来看看《提瓦特游览指南》…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/6edcca9ecffa756653c5e6d929743727_6516858051577925510.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好！拜托你也帮我跟霍夫曼先生说说吧，可莉不是小孩子了，可莉晚上也可以出去玩——带我出去玩——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/5f5466395e8857bdfbacf69360804db9_5155867116953024263.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "虽然出来玩的时候说不想回家，但天黑以后的旷野，不认识路…拜、拜托你回去的时候，把我也送回家好不好…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/c784d04596d9f8ce877f4aa35f36a227_7455892987943866707.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉自己·肇事",
+          "text": "呜…这次居然炸歪了大风车的叶片…真对不起！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/0d17fe51ff43d49c13fdec6a85eb97ed_414413415849144370.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉自己·赔偿",
+          "text": "我，我还挺会做手工的，请让我帮你们重新做一个…什么？禁止雇佣童工？呜…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/39585a75c34cba5617ff500978ae4041_3809188581044562807.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·骑士",
+          "text": "呼呼…荣誉骑士，可莉作为「火花骑士」，可以说是你在西风骑士团的前辈喔？所以！所以…这次我闯的祸，能不能帮我隐瞒一下…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/c20c2a4a98127a26aa547918a4a47e56_7609963502045395471.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·玩伴",
+          "text": "不行！才九点，可莉今晚一定要撑到看完马戏团的午夜专场！你是可莉的玩伴吧！那就别想现在就把我送回家，略略略略…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/23365673a3b219130309411730119f51_4808932713366381016.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "这个小小的玻璃球，就代表了巴巴托斯大人对可莉的肯定吗…唔…究竟是认可了我的哪一部分呢？是自由吗？那以后要不要更自由地出去炸鱼，来回应巴巴托斯大人的期待呢…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/1d14892735e7deb47dcd6832c69c7a08_4859128284831273148.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "可莉知道，骑士团的墙是不能炸的。虽然打通了能从禁闭室出去很方便，但凯亚哥哥说，这样做了以后，琴团长恐怕会让我再也见不到第二天的太阳…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/8ff27355c8087daaa8babaf2bf8cb12c_8493295008672309524.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "每一只蜥蜴的花纹都是不同的，有些蜥蜴的尾巴干燥以后磨成粉，可以当做炸药的材料哦。这是阿贝多哥哥告诉我的事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/45efd57d3349f87eb4359eb665d7a1bb_3856441884440113125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷泽…",
+          "text": "我们是朋友！雷泽努力对抗危机、保护可莉的样子，让人安心！…唔…虽然基本上都是我把危机带到他身边的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/fffda86e6079454a1bd59329cb3c18de_4510455314793445118.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于父母…",
+          "text": "爸爸和妈妈都是全大陆有名的旅行家！妈妈写的《提瓦特游览指南》，有好多餐馆和旅店都很在意它的权威评价呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/48fd7a857834c4a96d9e3a79e875be3c_4801774760592558528.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "凯亚哥哥是好人！《骑士团生存守则》就是凯亚哥哥帮可莉写的。可莉闯祸的时候，他也经常帮忙遮掩呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/cd33c497545d6729e418fdffafb22b51_4136531778929576309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏姐姐是好人！兔兔伯爵摸起来也是毛茸茸的，而且还会爆炸，太棒了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/6bf646e92e79226b2cd69f42195d5c1c_5739190086963625909.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "琴团长是好人！虽然…有点可怕…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/b3dbfbd8113486e5599f770e59527ebb_6955026673359331358.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "奇怪的大人，一直都是不太开心的样子。唔…为什么不喜欢笑呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/a061098509f68b5e296ace3bfdefc121_2439225735737902590.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "丽莎阿…丽莎姐姐是好人！每次可莉靠近她的工坊，她就会给可莉好吃的茶点…欸？说起来我想进她的工坊，好像一开始是想做新的炸药来着…？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/de247ba0d8d6d60eaa2c0ffb9f2f1fe2_1121822884268473002.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于班尼特…",
+          "text": "班尼特哥哥是好人！和他一起冒险，可莉总能有更多收获！…虽然班尼特哥哥自己总是什么宝物都找不到，嗯…这是为什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/f9b2a3305f0b9a989c766ef5451f0ef8_346252087998129965.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪奥娜…",
+          "text": "迪奥娜姐姐是好人！「靠一己之力摧毁蒙德酒业」的想法好有趣，可莉也要用炸弹来帮忙！——呃，虽然不太懂什么叫做「蒙德酒业」，是怪物吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/fd82e6ee1c5a0e130feb0b16be79014d_2870326645363878628.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "阿贝多哥哥跟可莉有个秘密的约定！要是可莉看到工坊门前挂着「实验进行中」的牌子，就要晚点再去找他。阿贝多哥哥不工作的时候，会很耐心地陪着可莉，所以可莉也会很耐心地等着的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/4923e56facc4f3a171b1185115d53850_4383831288900029033.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜…",
+          "text": "莫娜姐姐是好人！她每次找阿贝多哥哥和可莉玩的时候，都会说好多听不明白，但是很有趣的东西！可莉喜欢她来玩！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/0acd8890e7a8650c7b6661a6b1b8e77b_8562471232848035529.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖…",
+          "text": "砂糖姐姐是好人！她问我，想不想要一个会跑会跳的蹦蹦！嘿嘿嘿，当然想要了，我还想要好几百个，让蒙德的街道上，台阶上，广场上，全是蹦蹦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/97142e4c5838c953629d31d30ab359c9_6856004492721209155.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于杜林…",
+          "text": "好耶！小杜林哥哥现在住在蒙德，我要天天找他玩！炸鱼的时候，我想让小杜林哥哥带我飞上很高很高的地方，在天上丢蹦蹦炸弹！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2026/03/03/50494840/d01efb7750b8203512ee4a43b462ac50_4255834624049433957.mp3",
+          "audioName": "关于杜林…en.mp3"
+        },
+        {
+          "name": "想要了解可莉·其一",
+          "text": "你好！你是来找可莉玩的吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/e8e78005b661ec9d340d793ebaf42626_1805612847377013844.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其二",
+          "text": "是啊，这个炸弹是可莉最新改良的作品！你看我做得好不好？…呃——如果是在什么纵火现场发现的话，那就不是我做的，绝对不是。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/d3935f1235e404ee56404d4f2a28b4ab_6907191784145710475.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其三",
+          "text": "哎，虽然新炸药的配方，很多都是在被关禁闭的时候想出来的…但如果不被关禁闭的话就更好了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/cbed39e373ad31dcd786655126178dc4_8933658922110387839.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其四",
+          "text": "这是嘟嘟可，是可莉很久以前就交到的好朋友。要记得它的名字哦，以后别叫它「挂在你包上的玩偶」啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/86a97bf10cf4e4ae6709a504f6c8d9d6_8617974537357180349.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解可莉·其五",
+          "text": "谢谢你总是帮可莉解决麻烦！就用这串「可莉烤鱼」来报答你吧！——呃，其实鱼是直接在湖里就被炸弹烤熟了，不过这件事就和平时一样，假装不知道好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/675af8eea35e2517be8f398b70bbfc10_5272384277742158012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "可莉的爱好…",
+          "text": "可莉喜欢毛茸茸的东西。比如嘟嘟可、蒲公英，还有雷泽的头发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/4cd1cf01f811fd748db75d9521a7ef13_5445953706872991537.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "可莉的烦恼…",
+          "text": "唉，你是好人，我是坏孩子…等我这次的禁闭结束、好好反省过以后，再来找你带我出去玩…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/344f9b52f07ff3cf5273ff3046b5f18a_6240274595339259701.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "蒙德的鲈鱼是很好吃的，从果酒湖里抓到的尤其好吃！这可不是瞎说的，连妈妈也认同可莉的想法喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/4fcc2bb7f5d6642bf8c1e15afbf77f8b_688572804368909546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "讨厌蒙德蟹——什么蟹都讨厌——可莉要出去玩——不要坐在餐桌前慢慢剥壳——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/4312f7b9811e9b003569ac61efe2d2a6_4749870631642462387.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好香好香！可莉已经吃到吃不下啦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/026549282417393c07799134fa3699c6_8705549396937728644.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "今天也吃到了好吃的东西，可莉好开心！谢谢你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/7f9f9c626ce321bdd13485d8611d598c_7801658770795633811.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "看上去很好吃，但吃起来不太方便…嘿嘿，你来帮帮可莉好不好！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/46abeed6392e46373e78fa72fe4db162_2922821133741328654.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！过生日很开心，你比可莉大，那过生日的次数一定比可莉多吧？可莉很羡慕！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/b4129ed1c9bea61485d221f7d5c85254_5822141316309985492.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "嗯，新型炸弹研究完毕！趁琴团长发现之前，开溜！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/f4910b642ae01e78213438cb7f4aa25f_3119135749162351132.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "又进步了一点！不过琴团长总是说：「进步是分内之事。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/35b5b7717a5c611577619724f0cb6992_2647753190048331382.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "谢谢你总是陪我一起收集研究用的材料！如果你想学习炸弹的制作方法，我也可以来教你哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/c00cbbe5d209161d6bee7afcbb199fb4_7847808952502272081.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "很久以前，第一次听到爆炸声的时候，我没有害怕…后来我才知道，大部分人不是这样的…不过，你也不害怕我的炸弹呢！嘿嘿，太好了，可莉果然交到了很好的朋友！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/158022cea5b42c2e11f97aabb49dd635_432403441227999468.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "蹦蹦炸弹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/a6518b87c0a770adbf0fb4874d9343f1_6882103058939390599.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "弹起来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/8be78040885deab8e19fab3429395645_3552712435020928437.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "嘿咻！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/fba7ec62b645ba294d69232513b15110_6548364195805255535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "轰轰火花！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/20ced1deaed907fac66bcea94ad8f2d4_5116450325610071536.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "火力全开！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/71d4e5061fcd027e5e07b74e64451536_4837088094293143831.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "全——都可以炸完！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/2f9e590395885616d6457f4c8c6916ad_3515538703139176921.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "啦啦啦~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/acd96ceb2cec3aaf215de2df9b58d475_7405357328791072763.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "哒哒哒~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/8443f506cc495b552ef87f9a59b71a45_347382556278431109.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "可莉又找到新的宝物了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/b1a71c747a5fbc21052437366c98a6de_5811560459085191300.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "亮闪闪的，好开心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/d59dd36450a73eb79b825d56bd4bb4cb_355255749610117779.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "地下会不会埋着更多宝箱呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/9520c257bf610343773e8407a3660e22_1425257431119235468.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "哇…怎么会这样…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/fd5eec5bd7af975fdbb7e97aaa4aafa6_1802444450715618378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "琴团长…它欺负我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/24790a1d96dcaf24522544e376816c02_4453982302895739419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "玩累了，有点晕…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/30b767cbb428b251838e7678ce6538c3_1484318145431260495.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "火花骑士，爆破支援！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/5a6daf7e1aa068e4369a62e9bbeded24_7546686106539298486.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "你不要紧吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/3c4dac4036a27ed2067ab95e41add26f_8370266386610565714.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "看我成功开溜…！啊，失败了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/9e15a355baea81ee8d390755d3d90f2b_795842576139273241.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "可莉…想回家了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/17177111b2a5bc778bea00915bff221e_3298348014233302638.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "又闯祸了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/cb09cfd16fa71bbe4106f4de90550f56_1514367479482775857.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "过分…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/a6699391538b8e2960001a0b623dccfc_920976139488522001.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "好疼啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/9c3f79841bda96a2e5e586f2ad80aec2_4248337180333926085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "可莉来帮忙！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/2a64ffcf8857617267d8ac343dc40f4a_6493394082999260726.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "锵锵——可莉登场。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/492c8e9d34725f7c60734025fb473fd7_4586450669356666007.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "好耶！是大冒险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/8797197/93ed28f14e75bfc6647a0cfd0ab7790f_6644309772537116156.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

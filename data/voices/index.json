@@ -1,0 +1,1095 @@
+{
+  "roles": [
+    {
+      "id": "1360",
+      "name": "阿贝多",
+      "alias": [
+        "阿贝多"
+      ],
+      "langCount": 4,
+      "itemCount": 264,
+      "selectorSig": "aac58bb325eb6bf818811e4c182bc4355c5d0d37"
+    },
+    {
+      "id": "501157",
+      "name": "阿蕾奇诺",
+      "alias": [
+        "阿蕾奇诺"
+      ],
+      "langCount": 4,
+      "itemCount": 296,
+      "selectorSig": "0ff51aa3df18d33ad27824dac42ae9438c3b6be9"
+    },
+    {
+      "id": "2415",
+      "name": "埃洛伊",
+      "alias": [
+        "埃洛伊"
+      ],
+      "langCount": 4,
+      "itemCount": 228,
+      "selectorSig": "54d970728369fad9e7f7d54a01d6237967a71538"
+    },
+    {
+      "id": "5865",
+      "name": "艾尔海森",
+      "alias": [
+        "艾尔海森"
+      ],
+      "langCount": 4,
+      "itemCount": 268,
+      "selectorSig": "314bdb2e83279f228cf0dd73d3a59a518b608d3a"
+    },
+    {
+      "id": "501441",
+      "name": "艾梅莉埃",
+      "alias": [
+        "艾梅莉埃"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "7b0a085f9e74429da3b5a96a73a9b20a74dd327f"
+    },
+    {
+      "id": "504976",
+      "name": "爱可菲",
+      "alias": [
+        "爱可菲"
+      ],
+      "langCount": 4,
+      "itemCount": 292,
+      "selectorSig": "2661e04a3fbfbda7ff2e0fac4dd30e5e0d5b9143"
+    },
+    {
+      "id": "505972",
+      "name": "爱诺",
+      "alias": [
+        "爱诺"
+      ],
+      "langCount": 4,
+      "itemCount": 288,
+      "selectorSig": "edc4cccf9442e43d528e71b35a4d3a9b4ebd1bb9"
+    },
+    {
+      "id": "54",
+      "name": "安柏",
+      "alias": [
+        "安柏"
+      ],
+      "langCount": 4,
+      "itemCount": 316,
+      "selectorSig": "9598abfc560d99c69435001d43c5e61eeafc513a"
+    },
+    {
+      "id": "3564",
+      "name": "八重神子",
+      "alias": [
+        "八重神子"
+      ],
+      "langCount": 4,
+      "itemCount": 296,
+      "selectorSig": "500c565f44a75dcf674b6cb88930294f0ed6b11e"
+    },
+    {
+      "id": "61",
+      "name": "芭芭拉",
+      "alias": [
+        "芭芭拉"
+      ],
+      "langCount": 4,
+      "itemCount": 284,
+      "selectorSig": "66200eeecc6335ad2bb8f6fa5b78d668a9d3c7af"
+    },
+    {
+      "id": "6489",
+      "name": "白术",
+      "alias": [
+        "白术"
+      ],
+      "langCount": 4,
+      "itemCount": 281,
+      "selectorSig": "8f82e23580bf9bc23e1cd64e42433b73ab5799fc"
+    },
+    {
+      "id": "105",
+      "name": "班尼特",
+      "alias": [
+        "班尼特"
+      ],
+      "langCount": 4,
+      "itemCount": 292,
+      "selectorSig": "ca0b9d64d69a7fcd68738d9e343308c2c78b5067"
+    },
+    {
+      "id": "1220",
+      "name": "达达利亚",
+      "alias": [
+        "达达利亚"
+      ],
+      "langCount": 4,
+      "itemCount": 328,
+      "selectorSig": "cdd5598d7913da78f61ab652ba43afc49aec58c2"
+    },
+    {
+      "id": "1221",
+      "name": "迪奥娜",
+      "alias": [
+        "迪奥娜"
+      ],
+      "langCount": 4,
+      "itemCount": 320,
+      "selectorSig": "3d261e6ec84ce4101c03151d12c2e0dd8d1163b5"
+    },
+    {
+      "id": "75",
+      "name": "迪卢克",
+      "alias": [
+        "迪卢克"
+      ],
+      "langCount": 4,
+      "itemCount": 292,
+      "selectorSig": "5ff4c10be1fce9d29df0bd86a6bf80f6cfc12b80"
+    },
+    {
+      "id": "6180",
+      "name": "迪希雅",
+      "alias": [
+        "迪希雅"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "63086baea8abd1324d77cd9971b1cca812a7b22f"
+    },
+    {
+      "id": "507241",
+      "name": "杜林",
+      "alias": [
+        "杜林"
+      ],
+      "langCount": 4,
+      "itemCount": 332,
+      "selectorSig": "272febad39327c5bc6e828fb8668503b0582e86d"
+    },
+    {
+      "id": "4736",
+      "name": "多莉",
+      "alias": [
+        "多莉"
+      ],
+      "langCount": 4,
+      "itemCount": 288,
+      "selectorSig": "c4cb587f6dab92dffcfbd135d260fef49258bb5d"
+    },
+    {
+      "id": "507995",
+      "name": "法尔伽",
+      "alias": [
+        "法尔伽"
+      ],
+      "langCount": 4,
+      "itemCount": 364,
+      "selectorSig": "ea114bf8a2572e180d69facff65408a329245b6d"
+    },
+    {
+      "id": "5493",
+      "name": "珐露珊",
+      "alias": [
+        "珐露珊"
+      ],
+      "langCount": 4,
+      "itemCount": 272,
+      "selectorSig": "175debecb1ead40111713fb41bad5c9a738b5f4c"
+    },
+    {
+      "id": "505971",
+      "name": "菲林斯",
+      "alias": [
+        "菲林斯"
+      ],
+      "langCount": 4,
+      "itemCount": 280,
+      "selectorSig": "00c08831177542544b0c916ea28a68a5fdf66778"
+    },
+    {
+      "id": "7257",
+      "name": "菲米尼",
+      "alias": [
+        "菲米尼"
+      ],
+      "langCount": 4,
+      "itemCount": 288,
+      "selectorSig": "0d1b6690ac38f97b3953c311750fcaaf5effb5f2"
+    },
+    {
+      "id": "382",
+      "name": "菲谢尔",
+      "alias": [
+        "菲谢尔"
+      ],
+      "langCount": 4,
+      "itemCount": 272,
+      "selectorSig": "7c698b19e6eaf72671d35fc4e72c44fc0cb7fee0"
+    },
+    {
+      "id": "2142",
+      "name": "枫原万叶",
+      "alias": [
+        "枫原万叶"
+      ],
+      "langCount": 4,
+      "itemCount": 292,
+      "selectorSig": "5c25246847a1ea628b11040e7813dcfa11ae0d90"
+    },
+    {
+      "id": "500291",
+      "name": "芙宁娜",
+      "alias": [
+        "芙宁娜"
+      ],
+      "langCount": 4,
+      "itemCount": 284,
+      "selectorSig": "4b6176309c3b5da6d1fa38cf920d828b774be0db"
+    },
+    {
+      "id": "1433",
+      "name": "甘雨",
+      "alias": [
+        "甘雨"
+      ],
+      "langCount": 4,
+      "itemCount": 308,
+      "selectorSig": "9effb60fdb1c90d64b388fbc0ec2b6030b9593ac"
+    },
+    {
+      "id": "507505",
+      "name": "哥伦比娅",
+      "alias": [
+        "哥伦比娅"
+      ],
+      "langCount": 4,
+      "itemCount": 304,
+      "selectorSig": "fdad1399c85c7da945ebf556fba8128545bd41aa"
+    },
+    {
+      "id": "3276",
+      "name": "荒泷一斗",
+      "alias": [
+        "荒泷一斗"
+      ],
+      "langCount": 4,
+      "itemCount": 292,
+      "selectorSig": "bd3703c8299cff7c4277a9943928f861660899fc"
+    },
+    {
+      "id": "501624",
+      "name": "基尼奇",
+      "alias": [
+        "基尼奇"
+      ],
+      "langCount": 4,
+      "itemCount": 312,
+      "selectorSig": "9ba1758d556ccc5b8ff47ad88f9f4be58e714c17"
+    },
+    {
+      "id": "500672",
+      "name": "嘉明",
+      "alias": [
+        "嘉明"
+      ],
+      "langCount": 4,
+      "itemCount": 284,
+      "selectorSig": "68b2c77c53e3cc6afc863fe04ad995e4a92c4033"
+    },
+    {
+      "id": "2402",
+      "name": "九条裟罗",
+      "alias": [
+        "九条裟罗"
+      ],
+      "langCount": 4,
+      "itemCount": 296,
+      "selectorSig": "9cac8083f4f645678d0a493dfa9fc1e71218b162"
+    },
+    {
+      "id": "4148",
+      "name": "久岐忍",
+      "alias": [
+        "久岐忍"
+      ],
+      "langCount": 4,
+      "itemCount": 268,
+      "selectorSig": "678bad0df6a7f3895691931314398b3700f50c00"
+    },
+    {
+      "id": "501626",
+      "name": "卡齐娜",
+      "alias": [
+        "卡齐娜"
+      ],
+      "langCount": 4,
+      "itemCount": 280,
+      "selectorSig": "5f3b2f9bfccd1b292faecea4c2d73fc80893788a"
+    },
+    {
+      "id": "6490",
+      "name": "卡维",
+      "alias": [
+        "卡维"
+      ],
+      "langCount": 4,
+      "itemCount": 272,
+      "selectorSig": "effe6b8d745b8262f29afe0ef74158e531ec4da3"
+    },
+    {
+      "id": "76",
+      "name": "凯亚",
+      "alias": [
+        "凯亚"
+      ],
+      "langCount": 4,
+      "itemCount": 300,
+      "selectorSig": "bd653e4b3dd6d6c0c0a52e1fb664b42c9e2b0f60"
+    },
+    {
+      "id": "4781",
+      "name": "坎蒂丝",
+      "alias": [
+        "坎蒂丝"
+      ],
+      "langCount": 4,
+      "itemCount": 280,
+      "selectorSig": "6a4c10768eca00ab36c8d67a6388dec325f2d311"
+    },
+    {
+      "id": "4333",
+      "name": "柯莱",
+      "alias": [
+        "柯莱"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "d493ae672235338a70403540ef597e17282723c3"
+    },
+    {
+      "id": "55",
+      "name": "可莉",
+      "alias": [
+        "可莉"
+      ],
+      "langCount": 4,
+      "itemCount": 288,
+      "selectorSig": "b276a4331c9af49f83739a706f62adf35e99de33"
+    },
+    {
+      "id": "501213",
+      "name": "克洛琳德",
+      "alias": [
+        "克洛琳德"
+      ],
+      "langCount": 4,
+      "itemCount": 280,
+      "selectorSig": "ca88a9a7d8f9efd8c625e161a16f0c36e7794052"
+    },
+    {
+      "id": "1058",
+      "name": "刻晴",
+      "alias": [
+        "刻晴"
+      ],
+      "langCount": 4,
+      "itemCount": 336,
+      "selectorSig": "4aaa5d712e09e2328403e444756a0c6bf0616d71"
+    },
+    {
+      "id": "505973",
+      "name": "菈乌玛",
+      "alias": [
+        "菈乌玛"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "f399a2572c26c07b347606ea17039a4d15a5b085"
+    },
+    {
+      "id": "500286",
+      "name": "莱欧斯利",
+      "alias": [
+        "莱欧斯利"
+      ],
+      "langCount": 4,
+      "itemCount": 264,
+      "selectorSig": "48744d7a0fee7d90a4bdaeb928fb571bbdc96dc4"
+    },
+    {
+      "id": "5297",
+      "name": "莱依拉",
+      "alias": [
+        "莱依拉"
+      ],
+      "langCount": 4,
+      "itemCount": 264,
+      "selectorSig": "980d6fccc36eaf52eb60a14de952379c62fd9c6b"
+    },
+    {
+      "id": "503614",
+      "name": "蓝砚",
+      "alias": [
+        "蓝砚"
+      ],
+      "langCount": 4,
+      "itemCount": 272,
+      "selectorSig": "6ebda2b2cf58e700ec7bf4b0e3eea833cc18f288"
+    },
+    {
+      "id": "2404",
+      "name": "雷电将军",
+      "alias": [
+        "雷电将军"
+      ],
+      "langCount": 4,
+      "itemCount": 312,
+      "selectorSig": "84f76658cae2c89d9fdf89c1880d9a78f6b666f0"
+    },
+    {
+      "id": "56",
+      "name": "雷泽",
+      "alias": [
+        "雷泽"
+      ],
+      "langCount": 4,
+      "itemCount": 264,
+      "selectorSig": "c8b8f3fc449aa8ccd1b2233ebdefae9fa461070b"
+    },
+    {
+      "id": "92",
+      "name": "丽莎",
+      "alias": [
+        "丽莎"
+      ],
+      "langCount": 4,
+      "itemCount": 296,
+      "selectorSig": "4536b56b5b061d071f762a808ba51e57e44b4282"
+    },
+    {
+      "id": "6937",
+      "name": "林尼",
+      "alias": [
+        "林尼"
+      ],
+      "langCount": 4,
+      "itemCount": 288,
+      "selectorSig": "c7fd9dfd2046d0aba30b395648171b56a3bbf1f1"
+    },
+    {
+      "id": "6938",
+      "name": "琳妮特",
+      "alias": [
+        "琳妮特"
+      ],
+      "langCount": 4,
+      "itemCount": 288,
+      "selectorSig": "2c8154d1e24561797676d2689dec550c47b675cb"
+    },
+    {
+      "id": "5494",
+      "name": "流浪者",
+      "alias": [
+        "流浪者"
+      ],
+      "langCount": 4,
+      "itemCount": 340,
+      "selectorSig": "d435c8e4384930982232719059a56e46dd1fa4b0"
+    },
+    {
+      "id": "4197",
+      "name": "鹿野院平藏",
+      "alias": [
+        "鹿野院平藏"
+      ],
+      "langCount": 4,
+      "itemCount": 272,
+      "selectorSig": "21f1a1cce1ffa6af21606cfa0a504c80f836873d"
+    },
+    {
+      "id": "1744",
+      "name": "罗莎莉亚",
+      "alias": [
+        "罗莎莉亚"
+      ],
+      "langCount": 4,
+      "itemCount": 280,
+      "selectorSig": "1a1eaccfb09ef11f154d54c17c062b10f02a726d"
+    },
+    {
+      "id": "501625",
+      "name": "玛拉妮",
+      "alias": [
+        "玛拉妮"
+      ],
+      "langCount": 4,
+      "itemCount": 304,
+      "selectorSig": "ceecf6ada93da121acb2373e84ee51f9249150a9"
+    },
+    {
+      "id": "503613",
+      "name": "玛薇卡",
+      "alias": [
+        "玛薇卡"
+      ],
+      "langCount": 4,
+      "itemCount": 296,
+      "selectorSig": "21fdef40b8d774bee1a1c60bc1410a052306985c"
+    },
+    {
+      "id": "504440",
+      "name": "梦见月瑞希",
+      "alias": [
+        "梦见月瑞希"
+      ],
+      "langCount": 4,
+      "itemCount": 288,
+      "selectorSig": "a80a945feeaa8e62649e8307bdd0a978293bb07b"
+    },
+    {
+      "id": "6285",
+      "name": "米卡",
+      "alias": [
+        "米卡"
+      ],
+      "langCount": 4,
+      "itemCount": 304,
+      "selectorSig": "3b68de99fccf131345d5e54ab9d0626c47266e83"
+    },
+    {
+      "id": "1057",
+      "name": "莫娜",
+      "alias": [
+        "莫娜"
+      ],
+      "langCount": 4,
+      "itemCount": 268,
+      "selectorSig": "271a6c7e5339a7768275a60d478dd6b809fd3a74"
+    },
+    {
+      "id": "500207",
+      "name": "那维莱特",
+      "alias": [
+        "那维莱特"
+      ],
+      "langCount": 4,
+      "itemCount": 300,
+      "selectorSig": "0cad7717d0d151363190db1ead69392e82b1e467"
+    },
+    {
+      "id": "5111",
+      "name": "纳西妲",
+      "alias": [
+        "纳西妲"
+      ],
+      "langCount": 4,
+      "itemCount": 304,
+      "selectorSig": "bf615589a1e2b166c2bc7f28506d4f4d17acc760"
+    },
+    {
+      "id": "500419",
+      "name": "娜维娅",
+      "alias": [
+        "娜维娅"
+      ],
+      "langCount": 4,
+      "itemCount": 300,
+      "selectorSig": "9bb98947a6d3db804033d74cfc649e240f29360a"
+    },
+    {
+      "id": "506676",
+      "name": "奈芙尔",
+      "alias": [
+        "奈芙尔"
+      ],
+      "langCount": 4,
+      "itemCount": 288,
+      "selectorSig": "88929d33c5f8d503c57025cbee418dcf5e025c39"
+    },
+    {
+      "id": "5020",
+      "name": "妮露",
+      "alias": [
+        "妮露"
+      ],
+      "langCount": 4,
+      "itemCount": 268,
+      "selectorSig": "eb439b3b19372989bc462487da3a330937b83a60"
+    },
+    {
+      "id": "78",
+      "name": "凝光",
+      "alias": [
+        "凝光"
+      ],
+      "langCount": 4,
+      "itemCount": 300,
+      "selectorSig": "80d957cbc2ca0e749e04fea512a466d25ef20d1b"
+    },
+    {
+      "id": "111",
+      "name": "诺艾尔",
+      "alias": [
+        "诺艾尔"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "b3aac1cbb450c907e6230d8d84799135e0f28be2"
+    },
+    {
+      "id": "502927",
+      "name": "欧洛伦",
+      "alias": [
+        "欧洛伦"
+      ],
+      "langCount": 4,
+      "itemCount": 268,
+      "selectorSig": "ef621fc4e444c39b2093026537ed462f8e6fa702"
+    },
+    {
+      "id": "1056",
+      "name": "七七",
+      "alias": [
+        "七七"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "d3c36ded4ba0ea86966990efddbd3af6d1b549ef"
+    },
+    {
+      "id": "6594",
+      "name": "绮良良",
+      "alias": [
+        "绮良良"
+      ],
+      "langCount": 4,
+      "itemCount": 280,
+      "selectorSig": "ddc4acaa7ba2b94826b4a0bd14c1ce02b028eff0"
+    },
+    {
+      "id": "502928",
+      "name": "恰斯卡",
+      "alias": [
+        "恰斯卡"
+      ],
+      "langCount": 4,
+      "itemCount": 264,
+      "selectorSig": "d6df525e4ebe93e14eba120ad258e93bab161232"
+    },
+    {
+      "id": "500987",
+      "name": "千织",
+      "alias": [
+        "千织"
+      ],
+      "langCount": 4,
+      "itemCount": 272,
+      "selectorSig": "342edee13964f7a5755fed4f9fbd489dd995c438"
+    },
+    {
+      "id": "503612",
+      "name": "茜特菈莉",
+      "alias": [
+        "茜特菈莉"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "e341961c22fd243b0a541256d0cb0322ae04e184"
+    },
+    {
+      "id": "59",
+      "name": "琴",
+      "alias": [
+        "琴"
+      ],
+      "langCount": 4,
+      "itemCount": 288,
+      "selectorSig": "e6af90f4b467724083df9f6aab02a9d117958cea"
+    },
+    {
+      "id": "4780",
+      "name": "赛诺",
+      "alias": [
+        "赛诺"
+      ],
+      "langCount": 4,
+      "itemCount": 304,
+      "selectorSig": "f408216c7b11f7a212dddc8f89255ce6bc3a2b30"
+    },
+    {
+      "id": "501212",
+      "name": "赛索斯",
+      "alias": [
+        "赛索斯"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "f0b0a12e8f6792374085f75231d4e3709442f6f5"
+    },
+    {
+      "id": "1055",
+      "name": "砂糖",
+      "alias": [
+        "砂糖"
+      ],
+      "langCount": 4,
+      "itemCount": 280,
+      "selectorSig": "0cb6a09dd09d36b4e0d3b1734a48aed1817ae13d"
+    },
+    {
+      "id": "2403",
+      "name": "珊瑚宫心海",
+      "alias": [
+        "珊瑚宫心海"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "2f244fcda9899cf845c23a0c2401b8792a9a60ab"
+    },
+    {
+      "id": "3386",
+      "name": "申鹤",
+      "alias": [
+        "申鹤"
+      ],
+      "langCount": 4,
+      "itemCount": 288,
+      "selectorSig": "bc48c61653da5aa886792055b71b6c95a22a84c4"
+    },
+    {
+      "id": "2123",
+      "name": "神里绫华",
+      "alias": [
+        "神里绫华"
+      ],
+      "langCount": 4,
+      "itemCount": 284,
+      "selectorSig": "6ad170709fd0865a13b8b443c788b27aa4dc6614"
+    },
+    {
+      "id": "3875",
+      "name": "神里绫人",
+      "alias": [
+        "神里绫人"
+      ],
+      "langCount": 4,
+      "itemCount": 280,
+      "selectorSig": "8ba138162b7bb20746d9dad37d2c16193c5c7fbe"
+    },
+    {
+      "id": "505417",
+      "name": "丝柯克",
+      "alias": [
+        "丝柯克"
+      ],
+      "langCount": 4,
+      "itemCount": 284,
+      "selectorSig": "8beba6051a3e74752d224810c5eba924153d2b77"
+    },
+    {
+      "id": "505418",
+      "name": "塔利雅",
+      "alias": [
+        "塔利雅"
+      ],
+      "langCount": 4,
+      "itemCount": 268,
+      "selectorSig": "38ceca91cabcd8956077328fb841b70bc61182d7"
+    },
+    {
+      "id": "4334",
+      "name": "提纳里",
+      "alias": [
+        "提纳里"
+      ],
+      "langCount": 4,
+      "itemCount": 304,
+      "selectorSig": "0f58872775855d06e946105f6fb61d58b26bd93e"
+    },
+    {
+      "id": "2606",
+      "name": "托马",
+      "alias": [
+        "托马"
+      ],
+      "langCount": 4,
+      "itemCount": 288,
+      "selectorSig": "a467e7f4abbe97f5afe67fb0637f73533fd0c459"
+    },
+    {
+      "id": "504570",
+      "name": "瓦雷莎",
+      "alias": [
+        "瓦雷莎"
+      ],
+      "langCount": 4,
+      "itemCount": 312,
+      "selectorSig": "1ee275dbc3665895b301f01c5b30e03a79bb5f6d"
+    },
+    {
+      "id": "57",
+      "name": "温迪",
+      "alias": [
+        "温迪"
+      ],
+      "langCount": 4,
+      "itemCount": 304,
+      "selectorSig": "7d35b88e1eec5bc1b54f4754eec22b4c2c3220ef"
+    },
+    {
+      "id": "3275",
+      "name": "五郎",
+      "alias": [
+        "五郎"
+      ],
+      "langCount": 4,
+      "itemCount": 284,
+      "selectorSig": "502db689339889f9d32db5cc2b769557e48ce2e2"
+    },
+    {
+      "id": "501214",
+      "name": "希格雯",
+      "alias": [
+        "希格雯"
+      ],
+      "langCount": 4,
+      "itemCount": 304,
+      "selectorSig": "1e2312b477e345718f21d01b2c1ed42a803149e7"
+    },
+    {
+      "id": "502306",
+      "name": "希诺宁",
+      "alias": [
+        "希诺宁"
+      ],
+      "langCount": 4,
+      "itemCount": 268,
+      "selectorSig": "7e72672eb3da7869a62cd01e8ea7271d73bf6933"
+    },
+    {
+      "id": "500292",
+      "name": "夏洛蒂",
+      "alias": [
+        "夏洛蒂"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "d6384b85f0e63cce3d97e1a9b36f39243ec0320b"
+    },
+    {
+      "id": "500605",
+      "name": "夏沃蕾",
+      "alias": [
+        "夏沃蕾"
+      ],
+      "langCount": 4,
+      "itemCount": 280,
+      "selectorSig": "f2e72188019482d18cd480acfd27aaa142d7c572"
+    },
+    {
+      "id": "500673",
+      "name": "闲云",
+      "alias": [
+        "闲云"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "25e659c017482bdb5802e15fc47ddd9e44b1afd2"
+    },
+    {
+      "id": "112",
+      "name": "香菱",
+      "alias": [
+        "香菱"
+      ],
+      "langCount": 4,
+      "itemCount": 296,
+      "selectorSig": "83be68a99566c394590c0753628bdca190ac0131"
+    },
+    {
+      "id": "2124",
+      "name": "宵宫",
+      "alias": [
+        "宵宫"
+      ],
+      "langCount": 4,
+      "itemCount": 300,
+      "selectorSig": "76608d44bc6f83da25b7e9048da65d30d268c9ab"
+    },
+    {
+      "id": "1498",
+      "name": "魈",
+      "alias": [
+        "魈"
+      ],
+      "langCount": 4,
+      "itemCount": 288,
+      "selectorSig": "4fc79503ea01ad3c5e2ae119fe5521ac6b1be3f1"
+    },
+    {
+      "id": "1291",
+      "name": "辛焱",
+      "alias": [
+        "辛焱"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "163ebc04c192855af2ff63ec37db96c2fc165db9"
+    },
+    {
+      "id": "241",
+      "name": "行秋",
+      "alias": [
+        "行秋"
+      ],
+      "langCount": 4,
+      "itemCount": 308,
+      "selectorSig": "e3298f7c3feeb1a776d0d843eba993f08c54b984"
+    },
+    {
+      "id": "507287",
+      "name": "雅珂达",
+      "alias": [
+        "雅珂达"
+      ],
+      "langCount": 4,
+      "itemCount": 256,
+      "selectorSig": "4f9855ecb6bde37d7fe22cf550aa63aa6a65d69e"
+    },
+    {
+      "id": "1795",
+      "name": "烟绯",
+      "alias": [
+        "烟绯"
+      ],
+      "langCount": 4,
+      "itemCount": 268,
+      "selectorSig": "48c876c1f90b82e6c47f5e098b44724372be95c3"
+    },
+    {
+      "id": "5866",
+      "name": "瑶瑶",
+      "alias": [
+        "瑶瑶"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "a04dbcb80a88e5f899b25bb50906b668a547f4be"
+    },
+    {
+      "id": "507504",
+      "name": "叶洛亚",
+      "alias": [
+        "叶洛亚"
+      ],
+      "langCount": 4,
+      "itemCount": 284,
+      "selectorSig": "4da45e1bfa3c8d0becda907450c3b1f51fbbce7e"
+    },
+    {
+      "id": "4081",
+      "name": "夜兰",
+      "alias": [
+        "夜兰"
+      ],
+      "langCount": 4,
+      "itemCount": 284,
+      "selectorSig": "47c04512a85a020bf71e8ce49a06b122926ea61e"
+    },
+    {
+      "id": "504621",
+      "name": "伊安珊",
+      "alias": [
+        "伊安珊"
+      ],
+      "langCount": 4,
+      "itemCount": 272,
+      "selectorSig": "9247a7ff10c5ee3c2808d626fa8ba5af9a146826"
+    },
+    {
+      "id": "504977",
+      "name": "伊法",
+      "alias": [
+        "伊法"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "7424e8178f25af1f4f3a572044567bd523637d39"
+    },
+    {
+      "id": "505631",
+      "name": "伊涅芙",
+      "alias": [
+        "伊涅芙"
+      ],
+      "langCount": 4,
+      "itemCount": 288,
+      "selectorSig": "c8eaafa25fcac3d42d291a9190e4c49ea78c4c40"
+    },
+    {
+      "id": "2040",
+      "name": "优菈",
+      "alias": [
+        "优菈"
+      ],
+      "langCount": 4,
+      "itemCount": 313,
+      "selectorSig": "447875e908a444a324ccfc6aaf1c193c685eed82"
+    },
+    {
+      "id": "3387",
+      "name": "云堇",
+      "alias": [
+        "云堇"
+      ],
+      "langCount": 4,
+      "itemCount": 276,
+      "selectorSig": "21cdba43306346992c3b22f6fca79773fceba095"
+    },
+    {
+      "id": "2125",
+      "name": "早柚",
+      "alias": [
+        "早柚"
+      ],
+      "langCount": 4,
+      "itemCount": 308,
+      "selectorSig": "43bb3a8519dd6952dd6457db5114f4ca996dabf0"
+    },
+    {
+      "id": "1290",
+      "name": "钟离",
+      "alias": [
+        "钟离"
+      ],
+      "langCount": 4,
+      "itemCount": 305,
+      "selectorSig": "cccb169ff22eecffbff0863b44ad87d6bd26442d"
+    },
+    {
+      "id": "644",
+      "name": "重云",
+      "alias": [
+        "重云"
+      ],
+      "langCount": 4,
+      "itemCount": 268,
+      "selectorSig": "e50ca36131c23be92102f32f37f5300ca90e0663"
+    },
+    {
+      "id": "507503",
+      "name": "兹白",
+      "alias": [
+        "兹白"
+      ],
+      "langCount": 4,
+      "itemCount": 284,
+      "selectorSig": "75419dd8cfe18a54837d6566beebcf29b6e9834d"
+    }
+  ],
+  "updatedAt": 1775753293191
+}

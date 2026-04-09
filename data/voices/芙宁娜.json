@@ -1,0 +1,1733 @@
+{
+  "id": "500291",
+  "name": "芙宁娜",
+  "alias": [
+    "芙宁娜"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "呆站在那里做什么？该不会是因为过于激动，说不出话了吧？没错，站在你面前的就是枫丹人人皆知的大明星——芙宁娜哦。我的档期可是很紧的，能约到我，说明你运气不错嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b0a1bffe18f682da03d6d913b7d876a1_1793816668600841436.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·茶会",
+          "text": "茶会是淑女的必修课。如果你想学习茶会礼仪的话，我可以教你喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/502eaf1e1fea93dd027cf55f4d6b17ac_7840460222284526124.mp3",
+          "audioName": "02闲聊·茶会_cn.mp3"
+        },
+        {
+          "name": "闲聊·乐子",
+          "text": "好无聊啊，没有什么更有趣的事吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7f45b0f1d01353db499eb4996bbf2d23_5055057040965281327.mp3",
+          "audioName": "03闲聊·乐子_cn.mp3"
+        },
+        {
+          "name": "闲聊·人气",
+          "text": "唉，人气太高也是一种苦恼，谁让我这么受欢迎呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a77a4e825a7eca88df50c7908559c136_7608877684541368850.mp3",
+          "audioName": "04闲聊·人气_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "好大的雨！等等，水应该不会淹上来吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/287772a65506a16c9e52cc456fc7b7ab_4046698940079997220.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "哇哦，这地方很适合映影取景。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f5063a062d2773d114fa812c7e14c45a_7736514367128750840.mp3",
+          "audioName": "06下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "这阳光的热度，都快赶上我平时用的影室灯了。还好太阳只有一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1217e782585b7f2b60a8b1f879fa2a8a_5557021315951748947.mp3",
+          "audioName": "07阳光很好…_cn.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "「听，风中传来不安的低语，那是被遗忘的海兽做噩梦时的梦呓。」你问为什么是做噩梦？呃…因为，恐惧感是会向外传递的？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4bd2b29de865ca2669b98ff3447c3eb3_6760903891217596033.mp3",
+          "audioName": "08刮大风了…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "真是一派荒芜的景象，让我赐予你们水的恩泽吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/728ce8b97d9ac8155afbbc285a5ce310_7540706112966804959.mp3",
+          "audioName": "09在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早安…需要起这么早吗？再多睡一会儿也没关系吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/faee17f7c63230d6180f3c6b3eca1553_1233718022119776008.mp3",
+          "audioName": "10早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "午安！我的蛋糕在哪里？什么什么，你说早上刚吃过？那已经隔了好——久啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fba84a9b0fb9bb017351e6129b0bf833_697039029451628287.mp3",
+          "audioName": "11中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。唉，谢贝蕾妲小姐最近总嘀咕着减肥，还说要拉上我一起。哼，比起上个月我肚子都瘦了一圈还不止呢，我已经很努力在控制体态了。喂，你，看得出来么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6dbd5b6e42835adc52bb730daf4d07de_1503468734664189351.mp3",
+          "audioName": "12晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "呼…正好我也困了。明天见，记得准时叫我起来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3f14eeb2793b2904b634463d872a8217_8629917058012563393.mp3",
+          "audioName": "13晚安…_cn.mp3"
+        },
+        {
+          "name": "关于芙宁娜自己·亲友团",
+          "text": "你问我参加茶会的这几个小家伙？它们可是我忠实的追随者，咳，今天就破例为你介绍一下吧！这位是谢贝蕾妲小姐，最可爱的女仆，虽然有时会不小心剪坏我的衣服；这位是海薇玛夫人，可靠的管理人，将我的生活打理得井井有条；最后这位喜欢说教的是乌瑟勋爵，负责一切礼仪相关的事情。呵呵，虽然我已允许你参加我的茶会，但想要得到它们的认可，你还要多多努力才行！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0ce65d7bf05d8373293f09a6dae1519d_4434945418711003026.mp3",
+          "audioName": "14关于芙宁娜自己·亲友团_cn.mp3"
+        },
+        {
+          "name": "关于芙宁娜自己·歌唱",
+          "text": "我对自己的歌唱水平还是很有自信的，不过值得我开口唱诵的段落可不多。希望那些剧团里的创作者们加把劲，不要让我等太久。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/47ed074d79ed04c62917c7d7a9851378_3887892156426758578.mp3",
+          "audioName": "15关于芙宁娜自己·歌唱_cn.mp3"
+        },
+        {
+          "name": "关于我们·关系",
+          "text": "咳。以我们之间的关系，你在我面前无需太过恭敬，可以更随意一些。等等，你那是什么表情，该不会是想说你从一开始就没有「敬仰」过我吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7818e87f9b46544afe034e22e0173413_4288433178557527222.mp3",
+          "audioName": "16关于我们·关系_cn.mp3"
+        },
+        {
+          "name": "关于我们·同行",
+          "text": "「我」的故事已然落幕，接下来开场的是「我们」的故事了…这么说的话，出场费是不是也该翻倍啦？好开心哦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1a014f2df579a80ace1572261d0f2770_8494997490560270132.mp3",
+          "audioName": "17关于我们·同行_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "当那古老的预言终结、一切落幕之后，我曾经陷入很长时间的消沉。站在舞台上的人受到观众的追捧，同时也承受着更多的注视与期待。但我很清楚，他们期待的并不是我，而是我扮演的那位「神明」…在这个过程中，我真正得到的只有孤独。所以我一度厌恶任何跟表演有关的事，把自己关在房间里，直到再次站上舞台、再次面对观众的时候，我才发现不知不觉我内心的不安已经消失了。现在的我可以坦然承受他们的目光，也许是因为…我终于开始「扮演」我自己了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5901356a42ce954babd2a021e5cab813_1009355883253250730.mp3",
+          "audioName": "18关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享·歌剧",
+          "text": "枫丹的歌剧经历过几次革新，每次革新都会有许多反对的声音。在我印象里，经常有很多人聚在歌剧院吵来吵去，吵得我耳朵嗡嗡响。于是我吓唬他们说，「不准再争论这些无关紧要的问题」，那维莱特也顺势敲了一下他的手杖，歌剧院立刻就安静了。没办法，我总会不经意间表露出充满威严的一面，希望他们能够理解。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/229f12e46bfe871587901ebbc0c1274b_1372523448666312540.mp3",
+          "audioName": "19有什么想要分享·歌剧_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻·幽光星星",
+          "text": "我很喜欢幽光星星，这种生物在无人注视的地方也能发出自己的光亮，是我心目中最真实的「明星」。如果有让幽光星星当主角的歌剧就好了，我可以真情实感地在舞台上演绎一只可爱的离群海星。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/27f8d2fbdf440884c5c63eb430285303_9130443834956831995.mp3",
+          "audioName": "20感兴趣的见闻·幽光星星_cn.mp3"
+        },
+        {
+          "name": "关于林尼与琳妮特",
+          "text": "林尼与琳妮特我当然知道，以前我就经常光临他们的演出。他们的人气虽然高，但跟我比起来还是差了不少，有我出场的演出才是真正的座无虚席，连站票都卖得干干净净。至于现在…呃…现在我已经退隐了，人气下滑也很正常嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f4b128d24bcc18d3416993c581479724_8063858791483295017.mp3",
+          "audioName": "21关于林尼与琳妮特_cn.mp3"
+        },
+        {
+          "name": "关于那维莱特",
+          "text": "我很感谢那维莱特这几百年间为枫丹的辛苦付出，他似乎也不打算追究我欺骗民众的罪责。反正现在我们已经不需要对接什么工作，我也很久没去沫芒宫了，这对我们双方来说都是一件好事吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/eb831372ed8b65c578dfb1c637d84963_6294683389711504139.mp3",
+          "audioName": "22关于那维莱特_cn.mp3"
+        },
+        {
+          "name": "关于娜维娅·甜点",
+          "text": "你尝过娜维娅烤的马卡龙吗？不得不承认，她对甜点的造诣已经非常深厚，完全不在我之下。口感和甜度暂且不提，她画在马卡龙上的图案也太可爱了吧？简直就是艺术品！她到底是怎么做到的，难道真的只是天赋？我的内心中竟然会产生一种挫败感…下次一定要向她好好打听一下！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5e52bf5cb13e5ae0a32e12a71d39e755_739961041087753779.mp3",
+          "audioName": "23关于娜维娅·甜点_cn.mp3"
+        },
+        {
+          "name": "关于娜维娅·内心",
+          "text": "她是一个很坚强的人。坚强的人不管发生什么都会很快振作起来，装作没事的样子，这样身边的人就无需背负额外的压力。我见证过卡雷斯与克洛琳德的决斗，娜维娅她…在这方面越来越像自己的父亲了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d40761244a238adb87b713f33e556a37_1098007930444897341.mp3",
+          "audioName": "24关于娜维娅·内心_cn.mp3"
+        },
+        {
+          "name": "关于「仆人」",
+          "text": "「仆人」？谁，谁呀？我已经忘掉了哦，把那么可怕的身影留在脑海中，晚上睡觉都会做噩梦的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1fd1b489b7d2229ef68b421c034964e3_5479206883308947034.mp3",
+          "audioName": "25关于「仆人」_cn.mp3"
+        },
+        {
+          "name": "关于夏洛蒂",
+          "text": "最近经常见到夏洛蒂忙忙碌碌的身影。她好像很想找我约一期独家专访。哪怕我多次拒绝，她也并不放弃。我本来有点生气的，但是她很坚定地对我说——她希望民众能够了解到一个更加真实的我，也相信民众可以理解我的苦衷。我不知道该如何回应她的好意，也许她说的有道理，但我还没有做好准备…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6bdabbc5d6e15a4852c14ed4787cb949_6719256967361599345.mp3",
+          "audioName": "26关于夏洛蒂_cn.mp3"
+        },
+        {
+          "name": "关于莱欧斯利",
+          "text": "我跟他交流不多，那维莱特说他值得信赖，所以我想他大概是个好人吧！哦对了，以前还收到过他寄来的茶，味道不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0dd21575a68bf845c0f2b95edd632177_5435695241585796111.mp3",
+          "audioName": "27关于莱欧斯利_cn.mp3"
+        },
+        {
+          "name": "关于克洛琳德",
+          "text": "在我印象里，克洛琳德平时不喜交谈。但她几次站在我的身旁，保护我的安全，我对她非常信任。嗯…我还真有一点想念她，不过现在没什么去见她的理由了。对了！下次邀请她来一起开茶会吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d21cf4eefdedd230f2fe0896ec76fd06_5610524580154841099.mp3",
+          "audioName": "28关于克洛琳德_cn.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "哦？没想到，你也认识我的「甜点大校」…多亏了爱可菲，我曾在限量的「德波大蛋糕」之外，获得过许多精彩的选择。可惜现在的我，已经支付不起沫芒宫开给她的那种薪水啦。嗯？别担心，我们保持着联络呢，我还是会用亲手制作的菜肴回应她的…最近我就研究了一款「香辛果鱼肉冻通心粉」…有兴趣吗？下次做给你尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/d86e13bbe4289a373d788d374193c9e4_1100165094313383750.mp3",
+          "audioName": "芙宁娜关于爱可菲cn.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其一",
+          "text": "对我的事感兴趣？唉，真没办法，毕竟我曾经也是枫丹最受关注的大明星嘛！每天都有无数记者挖空心思想要探听我的隐私，我可是有丰富的经验将他们拒之门外。当然，我并不打算将这些经验用在你的身上，你可以用足够好吃的点心来和我交换秘密。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/92301e13d3a803628392d088d4b09572_1362592453524772732.mp3",
+          "audioName": "29想要了解芙宁娜·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其二",
+          "text": "最近有人向我推荐了「冲浪」这项运动，我也去体验了一番。在惊涛骇浪中保持平衡并不是一件容易的事情，但我很快就掌握了技巧。也许是因为我有这方面的天赋？总之在海天相接的地方近距离地感受风与浪是一件还不错的事情，你也可以试一试。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5640545e338e8a13fc838841c55a23f8_7355679731073548467.mp3",
+          "audioName": "30想要了解芙宁娜·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其三",
+          "text": "有空的话，多和我讲讲旅行的见闻吧？我挺喜欢听你讲那些稀奇古怪的故事。怎么说呢…我很容易对各种事物产生兴趣，但用不了多久就会感到无聊。或许「热情」这种东西，越容易产生就越容易失去。跟你在一起时，我似乎能一直保持愉快的心情，真不可思议。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/50819d81d2b9e8edcfc28e4146b58d04_607538530261197530.mp3",
+          "audioName": "31想要了解芙宁娜·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其四",
+          "text": "最近我一直在想，过去我是不是有点亏待自己了？为了保持神明的矜持，几乎没有享受过生活。所以最近我迷上了购物，买了好多新奇的宝贝。像什么七色炫彩茶包、全自动伸缩刀叉、海马专用马鞍…最后发现大部分东西都用不上，我全部送去剧团当演出道具了。奇怪，付款前我明明觉得这些很有用的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e0727e1707e82986284c1ea8292aac51_5532122671468998938.mp3",
+          "audioName": "32想要了解芙宁娜·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其五",
+          "text": "人们很喜欢谈论过去，为那些逝去的美好感到惋惜；也很喜欢谈论未来，仿佛为了缥缈的明天可以牺牲一切。我并不认同他们的做法，但也感到非常羡慕：因为我曾经生活在既没有过去、也没有未来的世界里。为了应对那种恐慌，我尝试塑造并扮演了一个更坚强、更像神明的自己，几百年的时间过去，我曾扮演的「形象」逐渐与真实的自己融为一体。如今连我也无法分辨…或许也没有分辨的必要了，过去的种种经历组成了现在的我，那场并不完美的演出也是我最重要的一部分啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/9b13f10167c6141acad85453a4d7fb25_7393686672546384494.mp3",
+          "audioName": "33想要了解芙宁娜·其五_cn.mp3"
+        },
+        {
+          "name": "芙宁娜的爱好…",
+          "text": "《王后的荣冠》还没有出续作吗？真遗憾，这种正义战胜邪恶的经典作品总是让人百看不厌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d51f84c40ea7d78a1a25e7b9b3e72856_2359509266561019226.mp3",
+          "audioName": "34芙宁娜的爱好…_cn.mp3"
+        },
+        {
+          "name": "芙宁娜的烦恼…",
+          "text": "今晚的通心粉选什么酱好呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/bee8a8b568737f0a15ff931d29ad8551_1731196602177869465.mp3",
+          "audioName": "35芙宁娜的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "每个人都不会讨厌精致的糕点，但想要做到让我「喜欢」的程度，还需要多多努力才行。听好了，甜品就像歌剧，从「选角」到「布景」都需要花费心思，才能在最后的「演出」中大放异彩！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6bc0e850c700e30df7cac5bafe54cf81_5342686637255335226.mp3",
+          "audioName": "36喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "简单来说，我讨厌大部分「创意菜」。这些年我品尝过许多奇妙的料理，除了给我留下心理阴影外毫无用处。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ae62d6ca9336792cd9af98b79e08fb38_4716496896915333500.mp3",
+          "audioName": "37讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哦？香味浓郁、口感细腻…没想到你对烹饪也有研究，很有品味嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ae95b7fe7e51b3f521b7ffd1b5c17828_1746668607481021611.mp3",
+          "audioName": "38收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "太「普通」了！哼，这种缺乏特色的料理得不到我的认可！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c4b7c3892e23acc05dae06c1447c0ffc_610994788079536192.mp3",
+          "audioName": "39收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你平时只吃这些吗？唉，我的通心粉分你一些好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/88edf6f6d749d739ac2eb297de36dba4_1230501149246705772.mp3",
+          "audioName": "40收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！喏，作为生日礼物，这张票给你。这可是《欢乐日》的头等座哦，记得过来看。你问我《欢乐日》是什么？唉，本来还想留一点惊喜的…这是我亲自排练的一场歌剧，内容嘛，是很多人聚集在一起，为某个重要的人做庆贺。这么说你应该明白了吧？一定要来啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/9e539db9cb6bd44d626978b75a4bd463_1293212522986903109.mp3",
+          "audioName": "41生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "神之眼用起来还真不太习惯。你来教教我吧？呃…差点忘了，你也没用过神之眼啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a3b645d42bc7f28cb6b01d99e4c6870e_4629548937072345398.mp3",
+          "audioName": "42突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "靠自己锻炼得到的力量果然很充实。哼哼，多谢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b29492b6068010eaadc2bcdb6e942b50_474550329830034276.mp3",
+          "audioName": "43突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "渐入佳境！不愧是我，在任何情况下都能展现出闪耀的一面。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ca17211b4cdddd3edc82bb1a4dfe345c_281982384261081786.mp3",
+          "audioName": "44突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "没想到你会对我的事这么上心，这是否意味着你仍然需要我的「力量」呢？然而如今的我…或许无法给你足够的回报…你说看重的是我「本人」？既然这样，就让你我共同出演我们的未来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/25016445d90458b91cc28c29e2b2dacb_6665380298317663051.mp3",
+          "audioName": "45突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "为我歌颂！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8176ce504928e4f62087deba81c9abe3_2827050611651968290.mp3",
+          "audioName": "46元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "亮相啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/690404b31717801c91973c7e01a92d5a_7835163257751255188.mp3",
+          "audioName": "47元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "噔噔！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fb2e08a18c59ff46ad4048a698f3efd2_4519690944365358351.mp3",
+          "audioName": "48元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "开幕。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5ff46990f84993660898736c8ce6b515_8357797562256364692.mp3",
+          "audioName": "49元素战技·其四_cn.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "光芒啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/781a5f2db364c80aa7689159c4f3efda_7899119575006676944.mp3",
+          "audioName": "50元素战技·其五_cn.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "为你献上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/84808906dd18b4a3361d92a04d9e5f9f_2261558939777813215.mp3",
+          "audioName": "51元素战技·其六_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "让世界热闹起来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f163ea147fb2ac69e443cb02593ecd4e_5035216518264216193.mp3",
+          "audioName": "52元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "闪耀时刻！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/afa7f8cc962cedb70d0272973a07882b_6876466515049311957.mp3",
+          "audioName": "53元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "欢唱，以我之名！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4a7aa075b9dcfd5bf3713bbed790a7bc_6914538952268663086.mp3",
+          "audioName": "54元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "意外之喜，就像蛋糕上的王冠。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/77d43ada13bc14a98d37ac38c9c747d4_8081176761050877630.mp3",
+          "audioName": "55打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "收下吧。咳…我准许了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f0da5ad847a33ab51bfa15ed4c7768df_4438892886932245196.mp3",
+          "audioName": "56打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "有趣的东西当然是越多越好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/63ac3c71442251d19965bcc44acb21b7_6959344444044259838.mp3",
+          "audioName": "57打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "总之先休战…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8687165b9b3505e75d1ba79d94d87d96_9024338305803179428.mp3",
+          "audioName": "58生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "情况不妙呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/23ecf35ed5fd937951fb1eb25a5095cf_7660386639284550164.mp3",
+          "audioName": "59生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "救命啊——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8c7b354c407c8f8c92763dee30a419b2_6038976744395711411.mp3",
+          "audioName": "60生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "见识下我的实力！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/32fb3324562ac2992f0454c2586ea2d1_2362710547767506600.mp3",
+          "audioName": "61同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换我登场了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/81a5a8f977a18acd675d9c3a7abb2338_2029370733409415973.mp3",
+          "audioName": "62同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "算是…一种解脱吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7795fcd0ba3888e838096a5a8e1edc69_5476438179159601443.mp3",
+          "audioName": "63倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我还是没能做到…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e48641d24ab7721dcc3a59eb4c2997c8_7311269117669793757.mp3",
+          "audioName": "64倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "别看我…丢人的样子…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8b67ebb94a78617792a008765699b315_3538426846272655443.mp3",
+          "audioName": "65倒下·其三_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "干什么啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/72f4c66a6e1ba77c27904534a75cc948_3485229257581576777.mp3",
+          "audioName": "66重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "别打了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a7b4b6faf0398d50f8f2dc5d43e22a8d_1083031633209233305.mp3",
+          "audioName": "67重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "果然还是离不开我啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0c341527a0611e5c5806a438dd825c12_2460484840439992733.mp3",
+          "audioName": "68加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "希望是一次尽兴的旅途。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/04822f49faeb4c5bad3b4eff871c9ccc_6584190829229583886.mp3",
+          "audioName": "69加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "瞧好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/776d5c018832fd7ed8cbfc7876d2bed1_4001441614157910899.mp3",
+          "audioName": "70加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "呆站在那里做什么？该不会是因为过于激动，说不出话了吧？没错，站在你面前的就是枫丹人人皆知的大明星——芙宁娜哦。我的档期可是很紧的，能约到我，说明你运气不错嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7f080b74428adb49813bd1d68ff63b56_4879929110432314454.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·茶会",
+          "text": "茶会是淑女的必修课。如果你想学习茶会礼仪的话，我可以教你喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/34e1d61409848f6343e12fd6184529cd_3881976202854566412.mp3",
+          "audioName": "02闲聊·茶会_jp.mp3"
+        },
+        {
+          "name": "闲聊·乐子",
+          "text": "好无聊啊，没有什么更有趣的事吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/446344319db515f22f62f50ce3092dbe_5253627048352186402.mp3",
+          "audioName": "03闲聊·乐子_jp.mp3"
+        },
+        {
+          "name": "闲聊·人气",
+          "text": "唉，人气太高也是一种苦恼，谁让我这么受欢迎呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/574fe4089995afd46ecaa77fe93a2368_8496667469804593141.mp3",
+          "audioName": "04闲聊·人气_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "好大的雨！等等，水应该不会淹上来吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8df29425b62772e14ee9345fed62035c_430800238321042339.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "哇哦，这地方很适合映影取景。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/39923fede9a04dca1112c7028811096e_2498108416055720734.mp3",
+          "audioName": "06下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "这阳光的热度，都快赶上我平时用的影室灯了。还好太阳只有一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/51f1ad0bf79577956cf219b3efa98121_6157306792122701437.mp3",
+          "audioName": "07阳光很好…_jp.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "「听，风中传来不安的低语，那是被遗忘的海兽做噩梦时的梦呓。」你问为什么是做噩梦？呃…因为，恐惧感是会向外传递的？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b2c739889cf21b619b4f9bdd792e3a2e_7141223965421283826.mp3",
+          "audioName": "08刮大风了…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "真是一派荒芜的景象，让我赐予你们水的恩泽吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/533610d9ae0d8cf7a48b4df0e6ba6e1b_8782813230269288036.mp3",
+          "audioName": "09在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早安…需要起这么早吗？再多睡一会儿也没关系吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2db78b244b14b435684934df77e16da5_1487420077091320593.mp3",
+          "audioName": "10早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "午安！我的蛋糕在哪里？什么什么，你说早上刚吃过？那已经隔了好——久啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/087e03327f830d6754ea99faa1604e6e_8121284030932789760.mp3",
+          "audioName": "11中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。唉，谢贝蕾妲小姐最近总嘀咕着减肥，还说要拉上我一起。哼，比起上个月我肚子都瘦了一圈还不止呢，我已经很努力在控制体态了。喂，你，看得出来么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/370bf39ff3ac959ef23f77ad036db91d_3170031230874126632.mp3",
+          "audioName": "12晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "呼…正好我也困了。明天见，记得准时叫我起来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e0579d84720d4a00542d5a31ff06b0f2_4980860887929659464.mp3",
+          "audioName": "13晚安…_jp.mp3"
+        },
+        {
+          "name": "关于芙宁娜自己·亲友团",
+          "text": "你问我参加茶会的这几个小家伙？它们可是我忠实的追随者，咳，今天就破例为你介绍一下吧！这位是谢贝蕾妲小姐，最可爱的女仆，虽然有时会不小心剪坏我的衣服；这位是海薇玛夫人，可靠的管理人，将我的生活打理得井井有条；最后这位喜欢说教的是乌瑟勋爵，负责一切礼仪相关的事情。呵呵，虽然我已允许你参加我的茶会，但想要得到它们的认可，你还要多多努力才行！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/dffbfb040714a0d0d5c709843bf6277c_4947405286788526290.mp3",
+          "audioName": "14关于芙宁娜自己·亲友团_jp.mp3"
+        },
+        {
+          "name": "关于芙宁娜自己·歌唱",
+          "text": "我对自己的歌唱水平还是很有自信的，不过值得我开口唱诵的段落可不多。希望那些剧团里的创作者们加把劲，不要让我等太久。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/052fa931e6f7d77ee1e02570222680aa_8496511909286367863.mp3",
+          "audioName": "15关于芙宁娜自己·歌唱_jp.mp3"
+        },
+        {
+          "name": "关于我们·关系",
+          "text": "咳。以我们之间的关系，你在我面前无需太过恭敬，可以更随意一些。等等，你那是什么表情，该不会是想说你从一开始就没有「敬仰」过我吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/bd81552153a0277312864768e0935f52_8339534160408181017.mp3",
+          "audioName": "16关于我们·关系_jp.mp3"
+        },
+        {
+          "name": "关于我们·同行",
+          "text": "「我」的故事已然落幕，接下来开场的是「我们」的故事了…这么说的话，出场费是不是也该翻倍啦？好开心哦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0bf992900c393f6a75deb892044322b1_8244926750442739893.mp3",
+          "audioName": "17关于我们·同行_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "当那古老的预言终结、一切落幕之后，我曾经陷入很长时间的消沉。站在舞台上的人受到观众的追捧，同时也承受着更多的注视与期待。但我很清楚，他们期待的并不是我，而是我扮演的那位「神明」…在这个过程中，我真正得到的只有孤独。所以我一度厌恶任何跟表演有关的事，把自己关在房间里，直到再次站上舞台、再次面对观众的时候，我才发现不知不觉我内心的不安已经消失了。现在的我可以坦然承受他们的目光，也许是因为…我终于开始「扮演」我自己了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/71dd8e559ddd59b49366ec8c8cadcac5_8860577770093602993.mp3",
+          "audioName": "18关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享·歌剧",
+          "text": "枫丹的歌剧经历过几次革新，每次革新都会有许多反对的声音。在我印象里，经常有很多人聚在歌剧院吵来吵去，吵得我耳朵嗡嗡响。于是我吓唬他们说，「不准再争论这些无关紧要的问题」，那维莱特也顺势敲了一下他的手杖，歌剧院立刻就安静了。没办法，我总会不经意间表露出充满威严的一面，希望他们能够理解。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4a72ff3cb3087957399b5fba8be4ecc1_9186022511956851942.mp3",
+          "audioName": "19有什么想要分享·歌剧_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻·幽光星星",
+          "text": "我很喜欢幽光星星，这种生物在无人注视的地方也能发出自己的光亮，是我心目中最真实的「明星」。如果有让幽光星星当主角的歌剧就好了，我可以真情实感地在舞台上演绎一只可爱的离群海星。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3f965cfec9639cac1d080eae9aa0b3f8_9064152420898356640.mp3",
+          "audioName": "20感兴趣的见闻·幽光星星_jp.mp3"
+        },
+        {
+          "name": "关于林尼与琳妮特",
+          "text": "林尼与琳妮特我当然知道，以前我就经常光临他们的演出。他们的人气虽然高，但跟我比起来还是差了不少，有我出场的演出才是真正的座无虚席，连站票都卖得干干净净。至于现在…呃…现在我已经退隐了，人气下滑也很正常嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5b404ab5002369a5f7b4e967c1d2983e_7379451351352350557.mp3",
+          "audioName": "21关于林尼与琳妮特_jp.mp3"
+        },
+        {
+          "name": "关于那维莱特",
+          "text": "我很感谢那维莱特这几百年间为枫丹的辛苦付出，他似乎也不打算追究我欺骗民众的罪责。反正现在我们已经不需要对接什么工作，我也很久没去沫芒宫了，这对我们双方来说都是一件好事吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1662582bc29f88e7333517dff31d6202_3842019067965051216.mp3",
+          "audioName": "22关于那维莱特_jp.mp3"
+        },
+        {
+          "name": "关于娜维娅·甜点",
+          "text": "你尝过娜维娅烤的马卡龙吗？不得不承认，她对甜点的造诣已经非常深厚，完全不在我之下。口感和甜度暂且不提，她画在马卡龙上的图案也太可爱了吧？简直就是艺术品！她到底是怎么做到的，难道真的只是天赋？我的内心中竟然会产生一种挫败感…下次一定要向她好好打听一下！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a90dcaa313a0d2b0002cd6fb287b9051_8039734528581173646.mp3",
+          "audioName": "23关于娜维娅·甜点_jp.mp3"
+        },
+        {
+          "name": "关于娜维娅·内心",
+          "text": "她是一个很坚强的人。坚强的人不管发生什么都会很快振作起来，装作没事的样子，这样身边的人就无需背负额外的压力。我见证过卡雷斯与克洛琳德的决斗，娜维娅她…在这方面越来越像自己的父亲了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1e685f9d43952597dc2956976a7b40d8_6376270710011656674.mp3",
+          "audioName": "24关于娜维娅·内心_jp.mp3"
+        },
+        {
+          "name": "关于「仆人」",
+          "text": "「仆人」？谁，谁呀？我已经忘掉了哦，把那么可怕的身影留在脑海中，晚上睡觉都会做噩梦的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/65c1cdf166a0f5d8e0ba7ed581dee1ee_5922372312791043880.mp3",
+          "audioName": "25关于「仆人」_jp.mp3"
+        },
+        {
+          "name": "关于夏洛蒂",
+          "text": "最近经常见到夏洛蒂忙忙碌碌的身影。她好像很想找我约一期独家专访。哪怕我多次拒绝，她也并不放弃。我本来有点生气的，但是她很坚定地对我说——她希望民众能够了解到一个更加真实的我，也相信民众可以理解我的苦衷。我不知道该如何回应她的好意，也许她说的有道理，但我还没有做好准备…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6f04965bc6e75c74b67abc024f65e184_369823702975397933.mp3",
+          "audioName": "26关于夏洛蒂_jp.mp3"
+        },
+        {
+          "name": "关于莱欧斯利",
+          "text": "我跟他交流不多，那维莱特说他值得信赖，所以我想他大概是个好人吧！哦对了，以前还收到过他寄来的茶，味道不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4df439e1ef4ba43de4b27b1eea0604d8_2818783196830787293.mp3",
+          "audioName": "27关于莱欧斯利_jp.mp3"
+        },
+        {
+          "name": "关于克洛琳德",
+          "text": "在我印象里，克洛琳德平时不喜交谈。但她几次站在我的身旁，保护我的安全，我对她非常信任。嗯…我还真有一点想念她，不过现在没什么去见她的理由了。对了！下次邀请她来一起开茶会吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2aa27350b8e9d400acd92d7a8371a29d_4036188485325615813.mp3",
+          "audioName": "28关于克洛琳德_jp.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "哦？没想到，你也认识我的「甜点大校」…多亏了爱可菲，我曾在限量的「德波大蛋糕」之外，获得过许多精彩的选择。可惜现在的我，已经支付不起沫芒宫开给她的那种薪水啦。嗯？别担心，我们保持着联络呢，我还是会用亲手制作的菜肴回应她的…最近我就研究了一款「香辛果鱼肉冻通心粉」…有兴趣吗？下次做给你尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/9663a23ed2e20edf2bcb304a34cbaf0f_343722413528854988.mp3",
+          "audioName": "芙宁娜关于爱可菲jp.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其一",
+          "text": "对我的事感兴趣？唉，真没办法，毕竟我曾经也是枫丹最受关注的大明星嘛！每天都有无数记者挖空心思想要探听我的隐私，我可是有丰富的经验将他们拒之门外。当然，我并不打算将这些经验用在你的身上，你可以用足够好吃的点心来和我交换秘密。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b2d27c7a6c6905a09375b123d7571f9a_104764151857102546.mp3",
+          "audioName": "29想要了解芙宁娜·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其二",
+          "text": "最近有人向我推荐了「冲浪」这项运动，我也去体验了一番。在惊涛骇浪中保持平衡并不是一件容易的事情，但我很快就掌握了技巧。也许是因为我有这方面的天赋？总之在海天相接的地方近距离地感受风与浪是一件还不错的事情，你也可以试一试。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f71062da601ad27229b556f05853fc03_1435245037578526310.mp3",
+          "audioName": "30想要了解芙宁娜·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其三",
+          "text": "有空的话，多和我讲讲旅行的见闻吧？我挺喜欢听你讲那些稀奇古怪的故事。怎么说呢…我很容易对各种事物产生兴趣，但用不了多久就会感到无聊。或许「热情」这种东西，越容易产生就越容易失去。跟你在一起时，我似乎能一直保持愉快的心情，真不可思议。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4ae2002133361341007137140918e100_1305039606858302322.mp3",
+          "audioName": "31想要了解芙宁娜·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其四",
+          "text": "最近我一直在想，过去我是不是有点亏待自己了？为了保持神明的矜持，几乎没有享受过生活。所以最近我迷上了购物，买了好多新奇的宝贝。像什么七色炫彩茶包、全自动伸缩刀叉、海马专用马鞍…最后发现大部分东西都用不上，我全部送去剧团当演出道具了。奇怪，付款前我明明觉得这些很有用的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/12282a10e30b4d6ac6433e184b954c56_5027227657418120343.mp3",
+          "audioName": "32想要了解芙宁娜·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其五",
+          "text": "人们很喜欢谈论过去，为那些逝去的美好感到惋惜；也很喜欢谈论未来，仿佛为了缥缈的明天可以牺牲一切。我并不认同他们的做法，但也感到非常羡慕：因为我曾经生活在既没有过去、也没有未来的世界里。为了应对那种恐慌，我尝试塑造并扮演了一个更坚强、更像神明的自己，几百年的时间过去，我曾扮演的「形象」逐渐与真实的自己融为一体。如今连我也无法分辨…或许也没有分辨的必要了，过去的种种经历组成了现在的我，那场并不完美的演出也是我最重要的一部分啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/defe4c0ebc5adee6ff91c5ac751d64f4_2323487869640742626.mp3",
+          "audioName": "33想要了解芙宁娜·其五_jp.mp3"
+        },
+        {
+          "name": "芙宁娜的爱好…",
+          "text": "《王后的荣冠》还没有出续作吗？真遗憾，这种正义战胜邪恶的经典作品总是让人百看不厌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a69991a8c13c5a45f090e80053e5c772_5616357977663218689.mp3",
+          "audioName": "34芙宁娜的爱好…_jp.mp3"
+        },
+        {
+          "name": "芙宁娜的烦恼…",
+          "text": "今晚的通心粉选什么酱好呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/337e881863a24ec098fffd39c687c8ca_9089266737569298025.mp3",
+          "audioName": "35芙宁娜的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "每个人都不会讨厌精致的糕点，但想要做到让我「喜欢」的程度，还需要多多努力才行。听好了，甜品就像歌剧，从「选角」到「布景」都需要花费心思，才能在最后的「演出」中大放异彩！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7ec5fb7b7e0f82bc3f72e06d134d7ef5_7342613150489021618.mp3",
+          "audioName": "36喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "简单来说，我讨厌大部分「创意菜」。这些年我品尝过许多奇妙的料理，除了给我留下心理阴影外毫无用处。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ca609659c2f36f2ef2d892af73fb430c_8722263031147802582.mp3",
+          "audioName": "37讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哦？香味浓郁、口感细腻…没想到你对烹饪也有研究，很有品味嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c8929ac11e02d6b6a6c33f1ccad4a57c_8107547521909074062.mp3",
+          "audioName": "38收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "太「普通」了！哼，这种缺乏特色的料理得不到我的认可！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3506c438e3a14bbaaf262c1d5aec89ec_8935092802790638495.mp3",
+          "audioName": "39收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你平时只吃这些吗？唉，我的通心粉分你一些好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/019c00b4e5f8a2e7484dc4c4da0522a1_8916992808894824434.mp3",
+          "audioName": "40收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！喏，作为生日礼物，这张票给你。这可是《欢乐日》的头等座哦，记得过来看。你问我《欢乐日》是什么？唉，本来还想留一点惊喜的…这是我亲自排练的一场歌剧，内容嘛，是很多人聚集在一起，为某个重要的人做庆贺。这么说你应该明白了吧？一定要来啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/bc102ff8e99e7fc18d0258732328bf26_8017295751072450138.mp3",
+          "audioName": "41生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "神之眼用起来还真不太习惯。你来教教我吧？呃…差点忘了，你也没用过神之眼啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/51786f03b4e639d73609ff76eb9130f7_2940341662984360337.mp3",
+          "audioName": "42突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "靠自己锻炼得到的力量果然很充实。哼哼，多谢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fe17f6f2370a6f98d5d246047cf4fd7a_2388075617730929620.mp3",
+          "audioName": "43突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "渐入佳境！不愧是我，在任何情况下都能展现出闪耀的一面。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/414652d6e0e75cc650da140843ed6b9e_5229173428171776207.mp3",
+          "audioName": "44突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "没想到你会对我的事这么上心，这是否意味着你仍然需要我的「力量」呢？然而如今的我…或许无法给你足够的回报…你说看重的是我「本人」？既然这样，就让你我共同出演我们的未来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8fecd3925a68cb07679a4656e2ee22fb_9056411655570514777.mp3",
+          "audioName": "45突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "为我歌颂！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/684e6e8c04a0907cd146df7bf88b2cf7_3942949723873231942.mp3",
+          "audioName": "46元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "亮相啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5e1910eade3075002aebc357f489972f_7467836488974247242.mp3",
+          "audioName": "47元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "噔噔！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/eb1d14bee24230f93b61c106e17e6395_3637187571627965791.mp3",
+          "audioName": "48元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "开幕。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c539674258a462188c676ad5f0cd69c9_9140391662420297990.mp3",
+          "audioName": "49元素战技·其四_jp.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "光芒啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0ef4785d1f7e0bbf1296ab09ed9e8550_6412863323625949906.mp3",
+          "audioName": "50元素战技·其五_jp.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "为你献上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/78457b64533944166daba88333881f44_191643382266652676.mp3",
+          "audioName": "51元素战技·其六_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "让世界热闹起来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e59e699cedd1583ef6a331cecfd73b58_6603784187018099972.mp3",
+          "audioName": "52元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "闪耀时刻！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/bd741df23c2ee55edcc490c499f65da0_5801810638253334255.mp3",
+          "audioName": "53元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "欢唱，以我之名！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/73ed16f605ba55935ea1d0af24648190_4114864123430334041.mp3",
+          "audioName": "54元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "意外之喜，就像蛋糕上的王冠。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3953b72c80c411ba0a96c9322d800290_3696429944277688215.mp3",
+          "audioName": "55打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "收下吧。咳…我准许了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5d85be850ce73d5874d5195c9bcbbd99_5630099507327239369.mp3",
+          "audioName": "56打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "有趣的东西当然是越多越好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/89de7338132fc89c27abe11b6c0d60d7_3805183878513663133.mp3",
+          "audioName": "57打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "总之先休战…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ab7dbf3e8d82b9462a5cf1eb39339a03_5006520200126521328.mp3",
+          "audioName": "58生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "情况不妙呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/492f4f2f9b8b71ca2c94a237a5f8dddf_7722960977239976092.mp3",
+          "audioName": "59生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "救命啊——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/48a43d7abac2f741b2d730d856ea245c_5440958190893445847.mp3",
+          "audioName": "60生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "见识下我的实力！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/9aa9ab6816b877c484160b3981ae3a0c_9208362286191613116.mp3",
+          "audioName": "61同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换我登场了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c5f76a962718cb8f2c582f1681edaa82_5438804213011398792.mp3",
+          "audioName": "62同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "算是…一种解脱吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/af0087ebe865cd982d54876d27f9459c_325542939098765295.mp3",
+          "audioName": "63倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我还是没能做到…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a9f1542c8278b583f377c8a6939a116b_765978878902763216.mp3",
+          "audioName": "64倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "别看我…丢人的样子…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5401678d14eced14f1e4713f48cc2de7_644723324747297926.mp3",
+          "audioName": "65倒下·其三_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "干什么啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a989a933314c2b05fbfeb9268eb2477b_1381152551021642884.mp3",
+          "audioName": "66重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "别打了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/525f91038bf66f9489044f6cbe18a20e_3754903476927596602.mp3",
+          "audioName": "67重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "果然还是离不开我啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/16231611fc2cdbdc127eb566d4043a63_6185354598534601819.mp3",
+          "audioName": "68加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "希望是一次尽兴的旅途。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c26a3bc7c327a14593088d05e391dc8a_156815900082963936.mp3",
+          "audioName": "69加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "瞧好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ae1eac4020262cb403e9eb1b567307bc_2645185466704232276.mp3",
+          "audioName": "70加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "呆站在那里做什么？该不会是因为过于激动，说不出话了吧？没错，站在你面前的就是枫丹人人皆知的大明星——芙宁娜哦。我的档期可是很紧的，能约到我，说明你运气不错嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/71882a952672fe4cc0d167eaa0d71bcb_800655930757657264.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·茶会",
+          "text": "茶会是淑女的必修课。如果你想学习茶会礼仪的话，我可以教你喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1aefae4ab7c0d006ad03f4d3de3733fc_2708684185427262508.mp3",
+          "audioName": "02闲聊·茶会_en.mp3"
+        },
+        {
+          "name": "闲聊·乐子",
+          "text": "好无聊啊，没有什么更有趣的事吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a53e5054a235bbff0bf3a38babc58c8f_1919107980408638656.mp3",
+          "audioName": "03闲聊·乐子_en.mp3"
+        },
+        {
+          "name": "闲聊·人气",
+          "text": "唉，人气太高也是一种苦恼，谁让我这么受欢迎呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5e0506b113ef6d85656ca8d71eedb750_4382376598063159213.mp3",
+          "audioName": "04闲聊·人气_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "好大的雨！等等，水应该不会淹上来吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/9e8df014635f28e98b28c06df965865a_2096809085569209944.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "哇哦，这地方很适合映影取景。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a32ce7dcb4ecc74aa6469eeb5f04f639_2901503943609227931.mp3",
+          "audioName": "06下雪的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "这阳光的热度，都快赶上我平时用的影室灯了。还好太阳只有一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f86964e3d9f58aacae546be9ab891f77_2980854448242230337.mp3",
+          "audioName": "07阳光很好…_en.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "「听，风中传来不安的低语，那是被遗忘的海兽做噩梦时的梦呓。」你问为什么是做噩梦？呃…因为，恐惧感是会向外传递的？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f264bb806cedced0261b1d54402b6ed3_1267707540759633145.mp3",
+          "audioName": "08刮大风了…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "真是一派荒芜的景象，让我赐予你们水的恩泽吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3f8ec136beadd103f9ce68527c620994_6659166416411737963.mp3",
+          "audioName": "09在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早安…需要起这么早吗？再多睡一会儿也没关系吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/20455fe41e3243eb0ec7ce6638690661_8587164335978181582.mp3",
+          "audioName": "10早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "午安！我的蛋糕在哪里？什么什么，你说早上刚吃过？那已经隔了好——久啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3412d338dea579865ab0846af06b9c05_4208209416211737921.mp3",
+          "audioName": "11中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。唉，谢贝蕾妲小姐最近总嘀咕着减肥，还说要拉上我一起。哼，比起上个月我肚子都瘦了一圈还不止呢，我已经很努力在控制体态了。喂，你，看得出来么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/11bfce81e31c274ea35a21c7b0f02f9b_1449849371814286933.mp3",
+          "audioName": "12晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "呼…正好我也困了。明天见，记得准时叫我起来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/dd6ddf809a15ecb9b73f5359198d2224_2372441583492543973.mp3",
+          "audioName": "13晚安…_en.mp3"
+        },
+        {
+          "name": "关于芙宁娜自己·亲友团",
+          "text": "你问我参加茶会的这几个小家伙？它们可是我忠实的追随者，咳，今天就破例为你介绍一下吧！这位是谢贝蕾妲小姐，最可爱的女仆，虽然有时会不小心剪坏我的衣服；这位是海薇玛夫人，可靠的管理人，将我的生活打理得井井有条；最后这位喜欢说教的是乌瑟勋爵，负责一切礼仪相关的事情。呵呵，虽然我已允许你参加我的茶会，但想要得到它们的认可，你还要多多努力才行！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/9e37bad007191d57af35dfd3763f6c99_7260439502020308265.mp3",
+          "audioName": "14关于芙宁娜自己·亲友团_en.mp3"
+        },
+        {
+          "name": "关于芙宁娜自己·歌唱",
+          "text": "我对自己的歌唱水平还是很有自信的，不过值得我开口唱诵的段落可不多。希望那些剧团里的创作者们加把劲，不要让我等太久。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a0e431322746f56fd3717c91ba20b820_2440498643385448124.mp3",
+          "audioName": "15关于芙宁娜自己·歌唱_en.mp3"
+        },
+        {
+          "name": "关于我们·关系",
+          "text": "咳。以我们之间的关系，你在我面前无需太过恭敬，可以更随意一些。等等，你那是什么表情，该不会是想说你从一开始就没有「敬仰」过我吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/21829e94f5f2c42443041ca57d90c721_7801902708803862838.mp3",
+          "audioName": "16关于我们·关系_en.mp3"
+        },
+        {
+          "name": "关于我们·同行",
+          "text": "「我」的故事已然落幕，接下来开场的是「我们」的故事了…这么说的话，出场费是不是也该翻倍啦？好开心哦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ca293255bb8c40fbf21c509212d1509a_7380727970137936296.mp3",
+          "audioName": "17关于我们·同行_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "当那古老的预言终结、一切落幕之后，我曾经陷入很长时间的消沉。站在舞台上的人受到观众的追捧，同时也承受着更多的注视与期待。但我很清楚，他们期待的并不是我，而是我扮演的那位「神明」…在这个过程中，我真正得到的只有孤独。所以我一度厌恶任何跟表演有关的事，把自己关在房间里，直到再次站上舞台、再次面对观众的时候，我才发现不知不觉我内心的不安已经消失了。现在的我可以坦然承受他们的目光，也许是因为…我终于开始「扮演」我自己了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a93a0ad5735c3323174b6a8d42eb32c8_7351550180555052060.mp3",
+          "audioName": "18关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享·歌剧",
+          "text": "枫丹的歌剧经历过几次革新，每次革新都会有许多反对的声音。在我印象里，经常有很多人聚在歌剧院吵来吵去，吵得我耳朵嗡嗡响。于是我吓唬他们说，「不准再争论这些无关紧要的问题」，那维莱特也顺势敲了一下他的手杖，歌剧院立刻就安静了。没办法，我总会不经意间表露出充满威严的一面，希望他们能够理解。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ac00524a6771a4d991321ad409420130_1618377894022225805.mp3",
+          "audioName": "19有什么想要分享·歌剧_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻·幽光星星",
+          "text": "我很喜欢幽光星星，这种生物在无人注视的地方也能发出自己的光亮，是我心目中最真实的「明星」。如果有让幽光星星当主角的歌剧就好了，我可以真情实感地在舞台上演绎一只可爱的离群海星。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/38408b8d83bbc9974e509bf6aaf9503e_8663419985725198661.mp3",
+          "audioName": "20感兴趣的见闻·幽光星星_en.mp3"
+        },
+        {
+          "name": "关于林尼与琳妮特",
+          "text": "林尼与琳妮特我当然知道，以前我就经常光临他们的演出。他们的人气虽然高，但跟我比起来还是差了不少，有我出场的演出才是真正的座无虚席，连站票都卖得干干净净。至于现在…呃…现在我已经退隐了，人气下滑也很正常嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/86125c8f723705d667923ae183c3230c_8145763581818290222.mp3",
+          "audioName": "21关于林尼与琳妮特_en.mp3"
+        },
+        {
+          "name": "关于那维莱特",
+          "text": "我很感谢那维莱特这几百年间为枫丹的辛苦付出，他似乎也不打算追究我欺骗民众的罪责。反正现在我们已经不需要对接什么工作，我也很久没去沫芒宫了，这对我们双方来说都是一件好事吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/be5c318d2037bb219579e6b87c2ef787_6351893481933292135.mp3",
+          "audioName": "22关于那维莱特_en.mp3"
+        },
+        {
+          "name": "关于娜维娅·甜点",
+          "text": "你尝过娜维娅烤的马卡龙吗？不得不承认，她对甜点的造诣已经非常深厚，完全不在我之下。口感和甜度暂且不提，她画在马卡龙上的图案也太可爱了吧？简直就是艺术品！她到底是怎么做到的，难道真的只是天赋？我的内心中竟然会产生一种挫败感…下次一定要向她好好打听一下！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e3efe5127fca22b6862c06fc99b4063f_3699206880420256370.mp3",
+          "audioName": "23关于娜维娅·甜点_en.mp3"
+        },
+        {
+          "name": "关于娜维娅·内心",
+          "text": "她是一个很坚强的人。坚强的人不管发生什么都会很快振作起来，装作没事的样子，这样身边的人就无需背负额外的压力。我见证过卡雷斯与克洛琳德的决斗，娜维娅她…在这方面越来越像自己的父亲了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6270a86b7e6dd73ac2161e85cc21537c_4708982841866840284.mp3",
+          "audioName": "24关于娜维娅·内心_en.mp3"
+        },
+        {
+          "name": "关于「仆人」",
+          "text": "「仆人」？谁，谁呀？我已经忘掉了哦，把那么可怕的身影留在脑海中，晚上睡觉都会做噩梦的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/20d720295d2dfa467df41918e9f8e280_2525578353430983485.mp3",
+          "audioName": "25关于「仆人」_en.mp3"
+        },
+        {
+          "name": "关于夏洛蒂",
+          "text": "最近经常见到夏洛蒂忙忙碌碌的身影。她好像很想找我约一期独家专访。哪怕我多次拒绝，她也并不放弃。我本来有点生气的，但是她很坚定地对我说——她希望民众能够了解到一个更加真实的我，也相信民众可以理解我的苦衷。我不知道该如何回应她的好意，也许她说的有道理，但我还没有做好准备…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a2c928d986c8d8d1c8df3438590fe8df_8858015364784491075.mp3",
+          "audioName": "26关于夏洛蒂_en.mp3"
+        },
+        {
+          "name": "关于莱欧斯利",
+          "text": "我跟他交流不多，那维莱特说他值得信赖，所以我想他大概是个好人吧！哦对了，以前还收到过他寄来的茶，味道不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6e073af895fc6a45214eca8dedcd88f6_93719522208892394.mp3",
+          "audioName": "27关于莱欧斯利_en.mp3"
+        },
+        {
+          "name": "关于克洛琳德",
+          "text": "在我印象里，克洛琳德平时不喜交谈。但她几次站在我的身旁，保护我的安全，我对她非常信任。嗯…我还真有一点想念她，不过现在没什么去见她的理由了。对了！下次邀请她来一起开茶会吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/30e544ff6929e311a1af7697f2f7659c_4079083957301559018.mp3",
+          "audioName": "28关于克洛琳德_en.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "哦？没想到，你也认识我的「甜点大校」…多亏了爱可菲，我曾在限量的「德波大蛋糕」之外，获得过许多精彩的选择。可惜现在的我，已经支付不起沫芒宫开给她的那种薪水啦。嗯？别担心，我们保持着联络呢，我还是会用亲手制作的菜肴回应她的…最近我就研究了一款「香辛果鱼肉冻通心粉」…有兴趣吗？下次做给你尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/6f3508d72757c76ef0673746ca04e90d_4006773385044862699.mp3",
+          "audioName": "芙宁娜关于爱可菲en.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其一",
+          "text": "对我的事感兴趣？唉，真没办法，毕竟我曾经也是枫丹最受关注的大明星嘛！每天都有无数记者挖空心思想要探听我的隐私，我可是有丰富的经验将他们拒之门外。当然，我并不打算将这些经验用在你的身上，你可以用足够好吃的点心来和我交换秘密。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/56fbaf20bbfdcdf54d5b303bd6a0b2d7_8025051485938235949.mp3",
+          "audioName": "29想要了解芙宁娜·其一_en.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其二",
+          "text": "最近有人向我推荐了「冲浪」这项运动，我也去体验了一番。在惊涛骇浪中保持平衡并不是一件容易的事情，但我很快就掌握了技巧。也许是因为我有这方面的天赋？总之在海天相接的地方近距离地感受风与浪是一件还不错的事情，你也可以试一试。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/51a4b56f6b0e959405caa8f1a5fbab30_8155844979571984927.mp3",
+          "audioName": "30想要了解芙宁娜·其二_en.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其三",
+          "text": "有空的话，多和我讲讲旅行的见闻吧？我挺喜欢听你讲那些稀奇古怪的故事。怎么说呢…我很容易对各种事物产生兴趣，但用不了多久就会感到无聊。或许「热情」这种东西，越容易产生就越容易失去。跟你在一起时，我似乎能一直保持愉快的心情，真不可思议。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a70c15229b80b5746aed90448a0d177e_7302124423137336551.mp3",
+          "audioName": "31想要了解芙宁娜·其三_en.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其四",
+          "text": "最近我一直在想，过去我是不是有点亏待自己了？为了保持神明的矜持，几乎没有享受过生活。所以最近我迷上了购物，买了好多新奇的宝贝。像什么七色炫彩茶包、全自动伸缩刀叉、海马专用马鞍…最后发现大部分东西都用不上，我全部送去剧团当演出道具了。奇怪，付款前我明明觉得这些很有用的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d89c65ada9f87f96f44ddd46f60f86de_751689253361243563.mp3",
+          "audioName": "32想要了解芙宁娜·其四_en.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其五",
+          "text": "人们很喜欢谈论过去，为那些逝去的美好感到惋惜；也很喜欢谈论未来，仿佛为了缥缈的明天可以牺牲一切。我并不认同他们的做法，但也感到非常羡慕：因为我曾经生活在既没有过去、也没有未来的世界里。为了应对那种恐慌，我尝试塑造并扮演了一个更坚强、更像神明的自己，几百年的时间过去，我曾扮演的「形象」逐渐与真实的自己融为一体。如今连我也无法分辨…或许也没有分辨的必要了，过去的种种经历组成了现在的我，那场并不完美的演出也是我最重要的一部分啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6e0fb0dba8a0bab178a7d8bc1333c12b_7077079859891628705.mp3",
+          "audioName": "33想要了解芙宁娜·其五_en.mp3"
+        },
+        {
+          "name": "芙宁娜的爱好…",
+          "text": "《王后的荣冠》还没有出续作吗？真遗憾，这种正义战胜邪恶的经典作品总是让人百看不厌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2f63b379c8c82ffc2c0d36c1808f300c_8113730751406563102.mp3",
+          "audioName": "34芙宁娜的爱好…_en.mp3"
+        },
+        {
+          "name": "芙宁娜的烦恼…",
+          "text": "今晚的通心粉选什么酱好呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/39d207e11f61f9d7e74c94007659710d_6738381367847797390.mp3",
+          "audioName": "35芙宁娜的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "每个人都不会讨厌精致的糕点，但想要做到让我「喜欢」的程度，还需要多多努力才行。听好了，甜品就像歌剧，从「选角」到「布景」都需要花费心思，才能在最后的「演出」中大放异彩！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/475518d8dda91af4e3dae55300c084ad_4628634095393976679.mp3",
+          "audioName": "36喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "简单来说，我讨厌大部分「创意菜」。这些年我品尝过许多奇妙的料理，除了给我留下心理阴影外毫无用处。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/78514a53b57f8c6d30a5ddca9374ecee_1793035019551999795.mp3",
+          "audioName": "37讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哦？香味浓郁、口感细腻…没想到你对烹饪也有研究，很有品味嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0044ff91c319dbb1347c69c9d968d228_765958630090658690.mp3",
+          "audioName": "38收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "太「普通」了！哼，这种缺乏特色的料理得不到我的认可！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1e7041687a57c55b2f70b0a8e12c91da_8817550821228447391.mp3",
+          "audioName": "39收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你平时只吃这些吗？唉，我的通心粉分你一些好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3462ce857ca7bf578d92bef204588c65_2557516133928452988.mp3",
+          "audioName": "40收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！喏，作为生日礼物，这张票给你。这可是《欢乐日》的头等座哦，记得过来看。你问我《欢乐日》是什么？唉，本来还想留一点惊喜的…这是我亲自排练的一场歌剧，内容嘛，是很多人聚集在一起，为某个重要的人做庆贺。这么说你应该明白了吧？一定要来啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7bc2e768d6c2c154288e3290647688e7_3604081435442961234.mp3",
+          "audioName": "41生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "神之眼用起来还真不太习惯。你来教教我吧？呃…差点忘了，你也没用过神之眼啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/16cdd843c6e70662ab19628e5aefdda1_5105176283309033356.mp3",
+          "audioName": "42突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "靠自己锻炼得到的力量果然很充实。哼哼，多谢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f075630748d53bd5dff4adb17a1551c8_8377482899908211349.mp3",
+          "audioName": "43突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "渐入佳境！不愧是我，在任何情况下都能展现出闪耀的一面。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7c0ac3aaa8a6d57715320a4ecffc6432_694624866523199112.mp3",
+          "audioName": "44突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "没想到你会对我的事这么上心，这是否意味着你仍然需要我的「力量」呢？然而如今的我…或许无法给你足够的回报…你说看重的是我「本人」？既然这样，就让你我共同出演我们的未来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b5e089bf97965317282ee872fc43dc0d_8054090559366858759.mp3",
+          "audioName": "45突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "为我歌颂！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ade3395fffc42aad9d228700fb406a6e_4622330161666432739.mp3",
+          "audioName": "46元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "亮相啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/501d743a2d4d8594e35a83e62aaec48b_7569231029173222283.mp3",
+          "audioName": "47元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "噔噔！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1142ac1a170172db3e2721aebe98b920_2181137184880265223.mp3",
+          "audioName": "48元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "开幕。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/120b7d91db1d11a09afb8ea234efcc18_7816281683882629099.mp3",
+          "audioName": "49元素战技·其四_en.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "光芒啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/97b358686c8a0391d795a4b1b4b7bfef_6247324784821683309.mp3",
+          "audioName": "50元素战技·其五_en.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "为你献上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/091adccc76f2f9ed4d16e4f9baa15d6f_4603221637637503149.mp3",
+          "audioName": "51元素战技·其六_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "让世界热闹起来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/94716d6918395655ec9ec60b17522727_2999165492423077314.mp3",
+          "audioName": "52元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "闪耀时刻！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8e50e4e73706aa6013ed572192b6fb80_8803970266975893281.mp3",
+          "audioName": "53元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "欢唱，以我之名！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/61c5ef8dd01c74835b7f6ffca3b23b1b_1631803890359475573.mp3",
+          "audioName": "54元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "意外之喜，就像蛋糕上的王冠。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7e4d7bb9e5759e5ea4af018d6fcb24b3_8351244772650598727.mp3",
+          "audioName": "55打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "收下吧。咳…我准许了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/432cc8f5a88fcb67658b0ec34ec9be07_1145615660983858242.mp3",
+          "audioName": "56打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "有趣的东西当然是越多越好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/080426efa536ed5a77e83c56d4f4089d_215816017551944805.mp3",
+          "audioName": "57打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "总之先休战…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fabd1e649787ab43dee90589f6317d90_7669253860252015832.mp3",
+          "audioName": "58生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "情况不妙呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b4dc44706596621a00cdcb3a14a2b844_2852762510226596831.mp3",
+          "audioName": "59生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "救命啊——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f0bcda4e640ad85f515df9c5452cc57b_5146445701004782485.mp3",
+          "audioName": "60生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "见识下我的实力！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/aac154458d6f7807233438c7dd3e6169_918374929182509827.mp3",
+          "audioName": "61同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换我登场了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c991b24c13b0e5c58a50ed85f82bbd71_5380150580873871002.mp3",
+          "audioName": "62同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "算是…一种解脱吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/84e7199bcd66f7172d96dcf4374d550a_7713931548904647106.mp3",
+          "audioName": "63倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我还是没能做到…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/948d5a68258ed1aa61b05a10c713e431_153416139007221286.mp3",
+          "audioName": "64倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "别看我…丢人的样子…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e9fa7c97db3f061426893f1232fd0d8a_2953936488764646683.mp3",
+          "audioName": "65倒下·其三_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "干什么啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/bdaf97e86dfdd29570a6f285e53adf1e_2369548483860934516.mp3",
+          "audioName": "66重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "别打了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/bc509cc30ef8d51ed4ccd565daf1caa7_8473652239593003650.mp3",
+          "audioName": "67重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "果然还是离不开我啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3ddbe1c8065505180425a7780a9d296e_6734659084180386365.mp3",
+          "audioName": "68加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "希望是一次尽兴的旅途。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/132c6650b852712804f4468654972de2_3412305022768751865.mp3",
+          "audioName": "69加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "瞧好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/03cc109bedbd0eb2edb31799b57c88d9_7943158583417883526.mp3",
+          "audioName": "70加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "呆站在那里做什么？该不会是因为过于激动，说不出话了吧？没错，站在你面前的就是枫丹人人皆知的大明星——芙宁娜哦。我的档期可是很紧的，能约到我，说明你运气不错嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1547d19334d80fd0d837789a9be24005_6681889021561761229.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·茶会",
+          "text": "茶会是淑女的必修课。如果你想学习茶会礼仪的话，我可以教你喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/904aea807175e510691129c7cd3b3a94_7304245457727020511.mp3",
+          "audioName": "02闲聊·茶会_kr.mp3"
+        },
+        {
+          "name": "闲聊·乐子",
+          "text": "好无聊啊，没有什么更有趣的事吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/719acae5b1b9342d20821d287598ef33_8102861952905671177.mp3",
+          "audioName": "03闲聊·乐子_kr.mp3"
+        },
+        {
+          "name": "闲聊·人气",
+          "text": "唉，人气太高也是一种苦恼，谁让我这么受欢迎呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/08b1f92aee1d5d161306fe6ad0bf6f18_2407354388899353743.mp3",
+          "audioName": "04闲聊·人气_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "好大的雨！等等，水应该不会淹上来吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/af4d8c4c3a407b0315b65aad4f0900dd_567695062495711352.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "哇哦，这地方很适合映影取景。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e658886ffffae211a01f2c84e95c7afa_8518675203071655902.mp3",
+          "audioName": "06下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "这阳光的热度，都快赶上我平时用的影室灯了。还好太阳只有一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/79a1faf7b6d223ba85cbac66f8b88d12_181092085623618451.mp3",
+          "audioName": "07阳光很好…_kr.mp3"
+        },
+        {
+          "name": "刮大风了…",
+          "text": "「听，风中传来不安的低语，那是被遗忘的海兽做噩梦时的梦呓。」你问为什么是做噩梦？呃…因为，恐惧感是会向外传递的？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e22d17beeec560ecd91135060faccd96_8343125737222170811.mp3",
+          "audioName": "08刮大风了…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "真是一派荒芜的景象，让我赐予你们水的恩泽吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/42135154b611d1d2be0254c9ff0118d7_4625872553799145480.mp3",
+          "audioName": "09在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早安…需要起这么早吗？再多睡一会儿也没关系吧…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fef6ab7f45e4043adaf6cc85746889aa_1277015518200757678.mp3",
+          "audioName": "10早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "午安！我的蛋糕在哪里？什么什么，你说早上刚吃过？那已经隔了好——久啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d3118a5a107c8a5570b858d8ccdcdb7a_5841977284110127713.mp3",
+          "audioName": "11中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好。唉，谢贝蕾妲小姐最近总嘀咕着减肥，还说要拉上我一起。哼，比起上个月我肚子都瘦了一圈还不止呢，我已经很努力在控制体态了。喂，你，看得出来么？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0599ef321fe8094a4ef825705c21360f_5956722123631343685.mp3",
+          "audioName": "12晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "呼…正好我也困了。明天见，记得准时叫我起来…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/022665001eae62eab206218eb292e25f_6530153236902425239.mp3",
+          "audioName": "13晚安…_kr.mp3"
+        },
+        {
+          "name": "关于芙宁娜自己·亲友团",
+          "text": "你问我参加茶会的这几个小家伙？它们可是我忠实的追随者，咳，今天就破例为你介绍一下吧！这位是谢贝蕾妲小姐，最可爱的女仆，虽然有时会不小心剪坏我的衣服；这位是海薇玛夫人，可靠的管理人，将我的生活打理得井井有条；最后这位喜欢说教的是乌瑟勋爵，负责一切礼仪相关的事情。呵呵，虽然我已允许你参加我的茶会，但想要得到它们的认可，你还要多多努力才行！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/59dc33ce52fcd99140f298e04025e85e_3924956811281359850.mp3",
+          "audioName": "14关于芙宁娜自己·亲友团_kr.mp3"
+        },
+        {
+          "name": "关于芙宁娜自己·歌唱",
+          "text": "我对自己的歌唱水平还是很有自信的，不过值得我开口唱诵的段落可不多。希望那些剧团里的创作者们加把劲，不要让我等太久。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5ff179e2b72e976742df0f516efe9402_6454777641888335148.mp3",
+          "audioName": "15关于芙宁娜自己·歌唱_kr.mp3"
+        },
+        {
+          "name": "关于我们·关系",
+          "text": "咳。以我们之间的关系，你在我面前无需太过恭敬，可以更随意一些。等等，你那是什么表情，该不会是想说你从一开始就没有「敬仰」过我吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/65070d694930105f2dbb1913bb456e80_8230567239574204991.mp3",
+          "audioName": "16关于我们·关系_kr.mp3"
+        },
+        {
+          "name": "关于我们·同行",
+          "text": "「我」的故事已然落幕，接下来开场的是「我们」的故事了…这么说的话，出场费是不是也该翻倍啦？好开心哦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e641e749b1bbecca7f6d71cd063c122b_5611672202693740779.mp3",
+          "audioName": "17关于我们·同行_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "当那古老的预言终结、一切落幕之后，我曾经陷入很长时间的消沉。站在舞台上的人受到观众的追捧，同时也承受着更多的注视与期待。但我很清楚，他们期待的并不是我，而是我扮演的那位「神明」…在这个过程中，我真正得到的只有孤独。所以我一度厌恶任何跟表演有关的事，把自己关在房间里，直到再次站上舞台、再次面对观众的时候，我才发现不知不觉我内心的不安已经消失了。现在的我可以坦然承受他们的目光，也许是因为…我终于开始「扮演」我自己了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/040f9cfd89c0811316cd01d5d25dc8d2_1033699259021119111.mp3",
+          "audioName": "18关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享·歌剧",
+          "text": "枫丹的歌剧经历过几次革新，每次革新都会有许多反对的声音。在我印象里，经常有很多人聚在歌剧院吵来吵去，吵得我耳朵嗡嗡响。于是我吓唬他们说，「不准再争论这些无关紧要的问题」，那维莱特也顺势敲了一下他的手杖，歌剧院立刻就安静了。没办法，我总会不经意间表露出充满威严的一面，希望他们能够理解。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/aef0d8e5a3619ec6544ab0e33f0ad5a3_8897171651083477155.mp3",
+          "audioName": "19有什么想要分享·歌剧_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻·幽光星星",
+          "text": "我很喜欢幽光星星，这种生物在无人注视的地方也能发出自己的光亮，是我心目中最真实的「明星」。如果有让幽光星星当主角的歌剧就好了，我可以真情实感地在舞台上演绎一只可爱的离群海星。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/91a09b3d413040c7f08506bf31562416_2503733927278240758.mp3",
+          "audioName": "20感兴趣的见闻·幽光星星_kr.mp3"
+        },
+        {
+          "name": "关于林尼与琳妮特",
+          "text": "林尼与琳妮特我当然知道，以前我就经常光临他们的演出。他们的人气虽然高，但跟我比起来还是差了不少，有我出场的演出才是真正的座无虚席，连站票都卖得干干净净。至于现在…呃…现在我已经退隐了，人气下滑也很正常嘛！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ff513ee55d521e42709567a72310f211_2821484725687864838.mp3",
+          "audioName": "21关于林尼与琳妮特_kr.mp3"
+        },
+        {
+          "name": "关于那维莱特",
+          "text": "我很感谢那维莱特这几百年间为枫丹的辛苦付出，他似乎也不打算追究我欺骗民众的罪责。反正现在我们已经不需要对接什么工作，我也很久没去沫芒宫了，这对我们双方来说都是一件好事吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a7b0226560215618b57aee2e72ca42f7_6659405655427467886.mp3",
+          "audioName": "22关于那维莱特_kr.mp3"
+        },
+        {
+          "name": "关于娜维娅·甜点",
+          "text": "你尝过娜维娅烤的马卡龙吗？不得不承认，她对甜点的造诣已经非常深厚，完全不在我之下。口感和甜度暂且不提，她画在马卡龙上的图案也太可爱了吧？简直就是艺术品！她到底是怎么做到的，难道真的只是天赋？我的内心中竟然会产生一种挫败感…下次一定要向她好好打听一下！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c2126012087b99d8eed84c156c8baf24_5612999815445888849.mp3",
+          "audioName": "23关于娜维娅·甜点_kr.mp3"
+        },
+        {
+          "name": "关于娜维娅·内心",
+          "text": "她是一个很坚强的人。坚强的人不管发生什么都会很快振作起来，装作没事的样子，这样身边的人就无需背负额外的压力。我见证过卡雷斯与克洛琳德的决斗，娜维娅她…在这方面越来越像自己的父亲了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6c2c67ffd06f479c86634c0b6e240580_4059844145770592539.mp3",
+          "audioName": "24关于娜维娅·内心_kr.mp3"
+        },
+        {
+          "name": "关于「仆人」",
+          "text": "「仆人」？谁，谁呀？我已经忘掉了哦，把那么可怕的身影留在脑海中，晚上睡觉都会做噩梦的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0fdeb7e70c6a149e1bfffc577edd3b00_6826819038859111019.mp3",
+          "audioName": "25关于「仆人」_kr.mp3"
+        },
+        {
+          "name": "关于夏洛蒂",
+          "text": "最近经常见到夏洛蒂忙忙碌碌的身影。她好像很想找我约一期独家专访。哪怕我多次拒绝，她也并不放弃。我本来有点生气的，但是她很坚定地对我说——她希望民众能够了解到一个更加真实的我，也相信民众可以理解我的苦衷。我不知道该如何回应她的好意，也许她说的有道理，但我还没有做好准备…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4554c49bb99c26e95b2404cd91f96d53_6591048553443456499.mp3",
+          "audioName": "26关于夏洛蒂_kr.mp3"
+        },
+        {
+          "name": "关于莱欧斯利",
+          "text": "我跟他交流不多，那维莱特说他值得信赖，所以我想他大概是个好人吧！哦对了，以前还收到过他寄来的茶，味道不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/76b84114576921a461bea122b665ab31_71046493760626959.mp3",
+          "audioName": "27关于莱欧斯利_kr.mp3"
+        },
+        {
+          "name": "关于克洛琳德",
+          "text": "在我印象里，克洛琳德平时不喜交谈。但她几次站在我的身旁，保护我的安全，我对她非常信任。嗯…我还真有一点想念她，不过现在没什么去见她的理由了。对了！下次邀请她来一起开茶会吧！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/dfa8a3934232ed957b2ff0aab50a915b_2728634926957624424.mp3",
+          "audioName": "28关于克洛琳德_kr.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "哦？没想到，你也认识我的「甜点大校」…多亏了爱可菲，我曾在限量的「德波大蛋糕」之外，获得过许多精彩的选择。可惜现在的我，已经支付不起沫芒宫开给她的那种薪水啦。嗯？别担心，我们保持着联络呢，我还是会用亲手制作的菜肴回应她的…最近我就研究了一款「香辛果鱼肉冻通心粉」…有兴趣吗？下次做给你尝尝。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/dda1ad170e463f8a960b00128d262b4d_8297874305000395843.mp3",
+          "audioName": "芙宁娜关于爱可菲kr.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其一",
+          "text": "对我的事感兴趣？唉，真没办法，毕竟我曾经也是枫丹最受关注的大明星嘛！每天都有无数记者挖空心思想要探听我的隐私，我可是有丰富的经验将他们拒之门外。当然，我并不打算将这些经验用在你的身上，你可以用足够好吃的点心来和我交换秘密。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8ffe6853ba4856c41a18e5fb706dd473_6320314077189438065.mp3",
+          "audioName": "29想要了解芙宁娜·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其二",
+          "text": "最近有人向我推荐了「冲浪」这项运动，我也去体验了一番。在惊涛骇浪中保持平衡并不是一件容易的事情，但我很快就掌握了技巧。也许是因为我有这方面的天赋？总之在海天相接的地方近距离地感受风与浪是一件还不错的事情，你也可以试一试。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/797a166f48c0fd1096eda1617d1365a7_2653623832929947634.mp3",
+          "audioName": "30想要了解芙宁娜·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其三",
+          "text": "有空的话，多和我讲讲旅行的见闻吧？我挺喜欢听你讲那些稀奇古怪的故事。怎么说呢…我很容易对各种事物产生兴趣，但用不了多久就会感到无聊。或许「热情」这种东西，越容易产生就越容易失去。跟你在一起时，我似乎能一直保持愉快的心情，真不可思议。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f579a2ab91f4072a5f3b5c4ee06eaf30_7023679301050593262.mp3",
+          "audioName": "31想要了解芙宁娜·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其四",
+          "text": "最近我一直在想，过去我是不是有点亏待自己了？为了保持神明的矜持，几乎没有享受过生活。所以最近我迷上了购物，买了好多新奇的宝贝。像什么七色炫彩茶包、全自动伸缩刀叉、海马专用马鞍…最后发现大部分东西都用不上，我全部送去剧团当演出道具了。奇怪，付款前我明明觉得这些很有用的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a1f1a2bb6bb15ac83e625f3a8782f47e_1746157898714058855.mp3",
+          "audioName": "32想要了解芙宁娜·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解芙宁娜·其五",
+          "text": "人们很喜欢谈论过去，为那些逝去的美好感到惋惜；也很喜欢谈论未来，仿佛为了缥缈的明天可以牺牲一切。我并不认同他们的做法，但也感到非常羡慕：因为我曾经生活在既没有过去、也没有未来的世界里。为了应对那种恐慌，我尝试塑造并扮演了一个更坚强、更像神明的自己，几百年的时间过去，我曾扮演的「形象」逐渐与真实的自己融为一体。如今连我也无法分辨…或许也没有分辨的必要了，过去的种种经历组成了现在的我，那场并不完美的演出也是我最重要的一部分啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c0be194ecdc4ee691d9657bb15f5a630_335031738380358236.mp3",
+          "audioName": "33想要了解芙宁娜·其五_kr.mp3"
+        },
+        {
+          "name": "芙宁娜的爱好…",
+          "text": "《王后的荣冠》还没有出续作吗？真遗憾，这种正义战胜邪恶的经典作品总是让人百看不厌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/76c046874c7c4e892612eeffbbfff2c5_5691309333614916322.mp3",
+          "audioName": "34芙宁娜的爱好…_kr.mp3"
+        },
+        {
+          "name": "芙宁娜的烦恼…",
+          "text": "今晚的通心粉选什么酱好呢…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2635ec75ae12adda35b7627a589e3058_3132853391944767629.mp3",
+          "audioName": "35芙宁娜的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "每个人都不会讨厌精致的糕点，但想要做到让我「喜欢」的程度，还需要多多努力才行。听好了，甜品就像歌剧，从「选角」到「布景」都需要花费心思，才能在最后的「演出」中大放异彩！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/783616240b440136e61b6718adb69a04_8154357604449340840.mp3",
+          "audioName": "36喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "简单来说，我讨厌大部分「创意菜」。这些年我品尝过许多奇妙的料理，除了给我留下心理阴影外毫无用处。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c7e90247cde7a8813aa85bda79346e3b_6537652833782394904.mp3",
+          "audioName": "37讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哦？香味浓郁、口感细腻…没想到你对烹饪也有研究，很有品味嘛。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5631be998fd23da51bf5e66bbb3dd24b_3301749974503827406.mp3",
+          "audioName": "38收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "太「普通」了！哼，这种缺乏特色的料理得不到我的认可！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/df395c1641b4317a052345421d7df632_4927141796310111544.mp3",
+          "audioName": "39收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你平时只吃这些吗？唉，我的通心粉分你一些好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/287a83ccb9674fbd09e862b4e4271513_3989406481333992472.mp3",
+          "audioName": "40收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！喏，作为生日礼物，这张票给你。这可是《欢乐日》的头等座哦，记得过来看。你问我《欢乐日》是什么？唉，本来还想留一点惊喜的…这是我亲自排练的一场歌剧，内容嘛，是很多人聚集在一起，为某个重要的人做庆贺。这么说你应该明白了吧？一定要来啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8568351e374c91e4e8750c65fd0d7503_4501342328428144018.mp3",
+          "audioName": "41生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "神之眼用起来还真不太习惯。你来教教我吧？呃…差点忘了，你也没用过神之眼啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0ed8124ba04d926b3ba369ffe4c98325_2021465779175734890.mp3",
+          "audioName": "42突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "靠自己锻炼得到的力量果然很充实。哼哼，多谢了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e8c74c2362badc01183c8e75965f7668_7201509773009087277.mp3",
+          "audioName": "43突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "渐入佳境！不愧是我，在任何情况下都能展现出闪耀的一面。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7fd36aa82b3528e925d2115a00b7fc67_2807762711968295917.mp3",
+          "audioName": "44突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "没想到你会对我的事这么上心，这是否意味着你仍然需要我的「力量」呢？然而如今的我…或许无法给你足够的回报…你说看重的是我「本人」？既然这样，就让你我共同出演我们的未来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5df3b5da8bae9cb95e239257930827a9_3047704451610156771.mp3",
+          "audioName": "45突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "为我歌颂！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e54e8f9531ea57a93aefc7b9ef87451a_8410039972084084154.mp3",
+          "audioName": "46元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "亮相啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5f5d74bc5faf57e6145648b21d90d5bd_61515885409723537.mp3",
+          "audioName": "47元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "噔噔！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/bc7c76020cf842dbe81e07f02e7966fd_42891944070146912.mp3",
+          "audioName": "48元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "开幕。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4cbe4061cd158ec6140fe3260fa0beee_1614226478972622440.mp3",
+          "audioName": "49元素战技·其四_kr.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "光芒啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/595acb93ce6d05c60fed3bf5e7b967b2_1626512347467965385.mp3",
+          "audioName": "50元素战技·其五_kr.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "为你献上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/96202f310e8221a93ec1685c05dc6a67_2039365173497759991.mp3",
+          "audioName": "51元素战技·其六_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "让世界热闹起来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a8904b72a560d04e7dab2795faf55f60_6824845880830578898.mp3",
+          "audioName": "52元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "闪耀时刻！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/16d4bc754c23b957cbdb311116cac88a_4398088860567465582.mp3",
+          "audioName": "53元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "欢唱，以我之名！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3edfd4c6b8105739df3368ef987f70b6_3221299060959249190.mp3",
+          "audioName": "54元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "意外之喜，就像蛋糕上的王冠。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ea663ef36227f66b05f2885eba6815c3_6342404393613412110.mp3",
+          "audioName": "55打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "收下吧。咳…我准许了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c5cee0099e060fcb70623b23d27480f1_7731031623631746611.mp3",
+          "audioName": "56打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "有趣的东西当然是越多越好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d42c607afb1c6fcce6a63538ab69acb9_4802120715282324235.mp3",
+          "audioName": "57打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "总之先休战…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a50ef72f7a44f433504f4e469baa16c1_231999960292887080.mp3",
+          "audioName": "58生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "情况不妙呀！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2bd219d985da5b58bc07100670d22584_760550652434769840.mp3",
+          "audioName": "59生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "救命啊——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/40020bb4e00c58d9d3f7fb56c96ba2f3_2489766787333752798.mp3",
+          "audioName": "60生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "见识下我的实力！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e4013179a9eeaee1ab6da8fe57bb7450_4321196392711885277.mp3",
+          "audioName": "61同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "换我登场了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5d1ed098da6470891e60b619067fdb2f_4140998363261546878.mp3",
+          "audioName": "62同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "算是…一种解脱吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a8391ca18600fe17adeca92f54f21958_7136778177852923805.mp3",
+          "audioName": "63倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "我还是没能做到…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/16dd6e1d7b63a562620e2e4ce7c8581e_1002626769747085146.mp3",
+          "audioName": "64倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "别看我…丢人的样子…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7374a22e6a9eeeccadbdeeeb032a3933_7414263511464848709.mp3",
+          "audioName": "65倒下·其三_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "干什么啊！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8db49407519e48e3415f4184f62be2a0_400380510205066961.mp3",
+          "audioName": "66重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "别打了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5ce8c7c9f0896268e36ae842749d03fa_1676617959354952805.mp3",
+          "audioName": "67重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "果然还是离不开我啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/82820dc570bc7f685466c5bbcaf0c83f_4834645642747311108.mp3",
+          "audioName": "68加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "希望是一次尽兴的旅途。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6e6f2a8f9f4ba6d352a3fb8aaf22a82d_4479535681412352402.mp3",
+          "audioName": "69加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "瞧好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/cbb6d497678357e01e7d588f23d70c1f_7572915314337608597.mp3",
+          "audioName": "70加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

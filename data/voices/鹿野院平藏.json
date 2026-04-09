@@ -1,0 +1,1661 @@
+{
+  "id": "4197",
+  "name": "鹿野院平藏",
+  "alias": [
+    "鹿野院平藏"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我叫鹿野院平藏，是天领奉行里破案最多最快的侦探…哎呀呀，你身上一股麻烦缠身的味道。快坐下，这边坐，从头说给我听听吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/f6765530ef12ba9ee4d5e40b0c3aa4c7_7108513836162103926.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·罪案",
+          "text": "唔…我好像闻到了罪案的味道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/7ad91f2a5ab19d2af251938374410356_6705086236621720772.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·侦探",
+          "text": "侦探就要有侦探的样子，所以就得到处走走，搜集罪证才对嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/c329371b31a8c8b8c0c079a3f069d064_3833792545540151683.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·直觉",
+          "text": "我的直觉告诉我，马上就要有精彩的事件发生了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/a5baf8d2e4b300811d4a6a8ba82d2e92_8854125848743374709.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "刚才那场雨，可别冲散了线索啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/31e03fc63f0b4be5e59c76b81c7297ea_6581603041128579031.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哦？是哪个狡猾的犯人在发誓吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/58c7ee24d6e497bc5b29281c7eeb225d_3287438139209720415.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "你听说过吗？很久以前，发生在龙脊雪山上的午夜凶灵事件…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/1143dfcb24194a3545e2d5cf3d0fadd1_6572906301736078567.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "加油呀！这么点风力是成不了「风暴」的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/0e21000dec05c28866b29ca0a432a88a_6045491492230188385.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早呀，看你精神不好，没做噩梦吧？早知道的话，就该晚些再让你接触重案嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/c953f66966e7aa46ab6a712062b2b85a_1824258412069722185.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "吃饱了玩点锻炼脑力的游戏吧！继电石？哈哈，这个只能锻炼心态吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/36c87f888d9b4261240a3a4e5d7d71a1_7418597589214760988.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "太阳下班的时候，就轮到星星盯着犯人了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/4c0348dbaf58eaa2344f604ea238687f_1943817835127676956.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "真好啊，又到了睡觉时间！今天会做怎样的梦呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/c48aaacaf7dae3190b78793dd544c902_4937799605280296004.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏自己·侦探",
+          "text": "侦探，就该用脑力摧毁那些犯人企图逃脱的侥幸，所以说，真正的侦探，根本犯不着使用武力嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/c30805186ab3419662ce88d5487fa3d4_2897755495005141530.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏自己·关键词",
+          "text": "我习惯将见到的东西以关键词的形式记在脑子里，它们对推理大有帮助。你看这边这个人，干净裤腿上的猫毛，手腕处的抓痕，看来是想和动物玩，但却不太懂怎么逗猫。那位，很在意自己受伤的手，穿着和身份不符的新鞋…等等，说不定我要有新委托了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/4c49342824ac3a32ae3ed719ed382edd_7647125683562231595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·委托",
+          "text": "我看你身边的委托，就像永不干涸的井口一样，捞都捞不完。那我就来沾点便宜吧。你懂的，打架、跑腿、找东西之类的活我是不做的。只做解谜推理，只解重案要案…嘿嘿，记得帮我留意哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/be7c25dc8a3ecd6688a76bdeb1d2ac27_5993669410786619818.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·必然结果",
+          "text": "「巧合」是个好词，听起来就像是命中注定。但可惜侦探不相信巧合，我和你的相遇，是此前每一个选择、每一次行动的必然结果，也就是说，是我们自己决定的哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/d32db9052409277b1244f2f8c0d9bcb3_6797094685037450551.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "有传言说我不用神之眼也能放倒同僚？唔…我更正一下。第一，我虽然是奉行所同心，但也只是个侦探，动的是脑力。第二，我们平时是不会打架的。第三…欸，蒙不过你啊。那算了~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/cc558b0107518a700b6ed334a6316c96_1754160717686433944.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·成就感",
+          "text": "把线索串联起来，一步步找出真凶，直到亲手为拼图嵌上最后一块。那种成就感，哎呀呀，实在是太迷人了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/733836cb97a512ed24280333c4559f59_7418597589214760988.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·同心",
+          "text": "同心这个职位，既能带来声望，又离凶案现场最近，这舞台，比我在侦探社的时候大了不少。当然，当然…巡逻和抓捕这种活还是请厉害的人代劳吧，侦探的精力是有限的嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/3e7ac87077a488b0e6172935c1047d1a_5796807572773566421.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你对木材有什么研究吗？啊，没错，说的就是那种路边随处可见的树木。犯人蹭到了树皮啦，刮到了木屑啦，踩到了树叶啦，说不好就会留下些什么。根据它们的生长区域，有时还能推断出重要的线索。完全可以说，树是侦探的好朋友啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/c38b8024f9cb8c7c7942ea3b9f71c618_6153278517870157532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "九条裟罗大人啊…绝对是全天领奉行最严肃的人！真希望她能变得宽容一些，多多体谅下属，别再因为偶尔的缺勤责备我了。说到底，我也是为了查案嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/150a2f5719d514320ef0ca5d95748a10_7216949990259574896.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "受人所托，我去牢里给他捎过几次烤堇瓜，有次还正巧听到他在唱歌。说实话，歌词很烂，但唱得不错。蹲牢房的人能有这样的精神状态，不算多见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/bee719219e0d0ef897d817d2b4d971ad_2987869567730088660.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于久岐忍…",
+          "text": "荒泷派真是个自由多元的组织呀，无论是怎样的风格都能接纳。了不起，了不起，多亏那位阿忍小姐管教有方。我是怎么知道的？哈哈，这已经简单到连推理都算不上了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/74e475530e6aadb239917f02da1f0235_5080427979167225155.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "说起来，宫司大人的八重堂也会出版推理小说吧？什么时候能请你当面引荐一番？在这个时代，要成为名侦探，实力以外，宣传也不能落下。哎呀呀，我哪有别的心思啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/f18020b3e959b871ce75de7e4f1eda5d_6101784380277453227.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶·共通点",
+          "text": "万叶他呀，太可靠了。在他的提醒下，线索就像装宝石的匣子被翻倒一样，滚落得满地都是了。我要是也有他那种对于自然的感知力…哦！我明白了！「风」之于他，就像是「直觉」之于我吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/53394db6034634563af770eba352d753_8661793877723944919.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶·邀请",
+          "text": "好可惜呀！眼狩令废除后，我就不能堂堂正正地逮捕他了！不过这样一来，也就意味着…我可以光明正大地邀请他来天领奉行，跟我一起讨论案情了吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/5f7497ea09e07a1c0d84cd26ae226399_7059393319280967887.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于五郎…",
+          "text": "在这位大将的叮嘱下，我的海祇岛之旅可是热闹了不少，到哪都有军士们盯着。天地良心，我不过是个平平无奇的观光群众，最多算个小小侦探，连白萝卜也不会惦记半根的呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/fa99fd37de94b82d8e1f386372197d44_898590487680795973.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海…",
+          "text": "珊瑚宫大人我是没见过的。毕竟有她出席的场合，村民们会围个里三圈外三圈吧，我就不凑热闹啦。啊，对，最里面那层还要算上巫女！像我们这样的年轻人，想要获得大家的认可，总要多付出一点努力的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/d5c4a47e03c709287a336d7f5cfcedc9_2105976261464417183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "我和神里家的大小姐，只能算点头之交吧。还好我的家族不是什么名门。那种生活，可不适合我呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/dd01d6c01643f0a8ec32bcdd5f51ce76_5080427979167225155.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其一",
+          "text": "就算一个人保持沉默，也能从他的衣着、动作、表情来掌握信息哦。如果接下来我的话就此打住…你又能从我身上读到什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/1b9d538729cdaacb298974968eb9f3e1_842034700956970160.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其二",
+          "text": "某次旁听时，我受脑海中的推导鼓动，阻止了判决的下达。如果当时提出的异议无效，那它就不会成为我当侦探的契机，而会是——鹿野院平藏，因扰乱庭审秩序受到拘留处罚，哈哈哈…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/06fc95d80c13f8ae62d7be9bd00c896b_1360181022452677879.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其三",
+          "text": "调查外遇、寻找宠物…从侦探社接到的案件总是那么几类，不够我挑战自己的呀。我只好找机会溜去天领奉行喽。另一部分的原因，是我跟珊瑚社长的理念不太合拍啦，这也没办法。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/5955082e3b6494d1d5c04ffeedd368de_2105976261464417183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其四",
+          "text": "刚进天领奉行时，我拿未结案的卷宗来练手，不知不觉间，那座「卷宗山」也快被我咻地推平了…可惜啊，现在已经没时间再看以前的卷宗喽，很多案子都点名要我支援，忙得喘不过气啊…也没办法嘛。足够优秀的侦探，案子会自己找上门来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/a7d61559759bca25d69271c5c909a9ae_2260721400944278617.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其五",
+          "text": "面对犯罪的时候，侦探已经失败了。无论怎样还原真相，找出真正的犯人，都无法挽回事件发生造成的损失。所以，我才会想要扩大自己的名声，成为能让坏人想想就感到害怕的名侦探！也就是，扼杀犯罪在摇篮之中。好了，既然把这一点都告诉你了，就快来一起帮我的忙吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/562076b0123a90b63b0478371c75ffff_3165965081452433165.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "鹿野院平藏的爱好…",
+          "text": "要来旁听天领奉行的法庭判决吗？看着真相就像碎裂的剪贴画一样被拼接完整…我可以替你占个绝好的观看席位。我们只要装作不认识就行了，装作。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/bedfa549b977ac95b28d97fed27ffcdb_8563958600557489315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "鹿野院平藏的烦恼…",
+          "text": "总有人在最后关头暴力反抗，好像那就会管用一样。真是的，我明明期待的是对方在完整的证据和推理面前，认罪伏法的样子。侦探要是动手，不就已经输了吗。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/c834d082e5ec3cc2418c9d72dc04507a_864933606308263781.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "被油炸过的食物就没有不好吃的吧？不管是肉还是蔬菜，只要是从油锅里捞上来的，我都爱吃！而且…这种香味，对那些饿肚子的人来说，也很难拒绝得了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/a203b6683ba4e02f3a3d496274e8022c_1392538572056007999.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我很讨厌奉行所的晚饭，总是固定的菜品，规规矩矩的，味道也说不上好。食物嘛，要想吃什么就能吃到什么才会开心。可怜的我，就只能溜出去垫肚子喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/8dcfc001b3adcebb179d4c01195bf5b2_1698492871924657861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "喔…好吃好吃！费了不少力气吧，太谢谢你啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/b1c1de99770d00896d608f1223054ed3_1669411492795769003.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "烹饪该算体力活还是脑力活呢，或许都算吧，难怪你能做得这么好！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/a6279844f6154ee30b346c94918890a6_3881905481878045127.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "让我想想…你是在哪个步骤出错了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/8c77b423a7be801a05f8d51cf48483c7_8375644503968911010.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "在知道今天是你的生日之后，有那么一瞬间，我想把你带到一间摆满了机关与礼物的密室里，让你解出谜题后再出来…嘿嘿，开玩笑的啦，在确认你是否喜欢之前，我是不会这么做的。来，和我一起走吧，趁着太阳还没落山，有非常漂亮的景色想和你分享哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/2b8f8beed702cd7d947b1806760d2eac_9216394107171303027.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我的直觉告诉我…你想让我变强！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/decbcc55486427e475a33d772f9b6d42_8739647731354756964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "武力是增加了，脑力也有这样的增幅就好了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/0505ba4698c469bc0227b1f4447ad817_6971809687531847276.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "哎呀呀，我真要变成大家口中的「风暴」了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/79d81145430959b4478c4d7c7278da45_836038100524377289.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "谢谢你对我的信任和付出，我的搭档，能做到这一步多亏了你。来击掌吧，接下来也一起去解开更多的谜团！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/2bd3b40b778f4a1e8b248cb42e27835e_1324006707620739010.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "吃拳！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/b37851e4ea4dc4d59852a060dd27ca99_5832888386782034939.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "别抵赖！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/7c0f1a3e1ab79034f0b5cf7823ed07d0_4849917959146100216.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/dd113411a47d0151af48401be477f397_6971809687531847276.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "认罪吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/8391d0696a8a56366344ca329219704a_5817805754900764451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "风暴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/9bd0515d29d689d9a96a9106804a72b9_6610253420846339434.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "破开迷雾！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/7f9e65ec2915ba99529bbc074592ae1b_4145266282597172642.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "别让宝物翻箱出逃哦~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/1a2d5479a99825ce36e0f155df86d7de_6545935539111215187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "就是这个，我的直觉不错吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/4058e77e3ffaf1dd31a22b3333665eaf_2273779500529792631.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇，好耀眼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/bb6b962cfb928fc76fb760cce24233ed_2303380325919424733.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "唉，就非要动武吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/33e5a75a24e1c0d00f0945d62595026b_8249638661648370170.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "好猖狂哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/a190c4df3bd06669132eec3b255f3f91_2713820246919040346.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "这在侦探的职能以外了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/62f9d2921635cd1f6e5b132c1ca0055b_9038020724032379131.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "哎呀呀，小心哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/34b406480382e44b2dbd1af70813f4de_4154057438492673282.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "事关重大，换我来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/180f83ce5304b8fb8a19713a1a8c6f00_7900596777777036122.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这不是真相…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/0429da6e51cd1910af1143d496f0afa0_4145266282597172642.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "呵，侦探变成受害人了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/a463579d13227de474699b58b32f71ab_9126937238594004886.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我竟然会…失算…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/116fed43f239e7aff8e31d04347882fa_7260845955441034507.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "别这样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/b8ff9c36bd6e6f70f835ee03a04246fe_7374045761375199918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "真麻烦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/080501a650472c629b33e549de483ec1_2244123355437884958.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "有新案子？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/d6b19db7fdaeead4b6a617668d4bcbbd_8598688534542140519.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "遇上难题了？和我说说。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/506720c60100851baeecccb0cd701396_8067433037595184236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "出发吧，我的搭档。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/812255304be15eebfe03942d3f6cc05c_221712113946034941.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我叫鹿野院平藏，是天领奉行里破案最多最快的侦探…哎呀呀，你身上一股麻烦缠身的味道。快坐下，这边坐，从头说给我听听吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/bc84b230f3e8ae2fb46ca5d6540d05e8_3709143026331765467.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·罪案",
+          "text": "唔…我好像闻到了罪案的味道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/3cfac6d22ffbeecfd1ef03876a5c4491_7649556396788731146.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·侦探",
+          "text": "侦探就要有侦探的样子，所以就得到处走走，搜集罪证才对嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/6f5af6a29eab460cd03b9fef00fe942a_3556860211145143104.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·直觉",
+          "text": "我的直觉告诉我，马上就要有精彩的事件发生了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/6810fc3dc97fe60f646fa2f4edb6ac2b_3547906940565994123.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "刚才那场雨，可别冲散了线索啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/18/16576950/3bf5a0bc67bcc0706f4c509439cf0bb7_5161895240287287497.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哦？是哪个狡猾的犯人在发誓吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/d516b2caf786c924bb54541d4479649c_2817432087414158130.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "你听说过吗？很久以前，发生在龙脊雪山上的午夜凶灵事件…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/486abd6d6e8387b9622369972fafa02c_4085022560760870888.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "加油呀！这么点风力是成不了「风暴」的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/b331181fa1444d91a8f92176774ef43a_271731553806407855.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早呀，看你精神不好，没做噩梦吧？早知道的话，就该晚些再让你接触重案嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/c4b6b4d509cd63992e6d1115e6e61e7b_5152297857792481093.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "吃饱了玩点锻炼脑力的游戏吧！继电石？哈哈，这个只能锻炼心态吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/43777e6d8532c23c31a2af51bb6d0fb0_994301325187860411.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "太阳下班的时候，就轮到星星盯着犯人了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/c3bc750bcc4088844c9792833b999eb7_3237304160528763530.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "真好啊，又到了睡觉时间！今天会做怎样的梦呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/6b2d9d7f0c9b83222d3f72ef3be6bec6_1798893665725892291.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏自己·侦探",
+          "text": "侦探，就该用脑力摧毁那些犯人企图逃脱的侥幸，所以说，真正的侦探，根本犯不着使用武力嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/9e42ab8458c7fd38206738b6e4cea466_5821456562913782925.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏自己·关键词",
+          "text": "我习惯将见到的东西以关键词的形式记在脑子里，它们对推理大有帮助。你看这边这个人，干净裤腿上的猫毛，手腕处的抓痕，看来是想和动物玩，但却不太懂怎么逗猫。那位，很在意自己受伤的手，穿着和身份不符的新鞋…等等，说不定我要有新委托了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/b423a511098127ca61d4dd53635b0858_2919302322261766823.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·委托",
+          "text": "我看你身边的委托，就像永不干涸的井口一样，捞都捞不完。那我就来沾点便宜吧。你懂的，打架、跑腿、找东西之类的活我是不做的。只做解谜推理，只解重案要案…嘿嘿，记得帮我留意哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/e19329b7b4d38b015cfdac9cf7b5130a_4203898046410801177.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·必然结果",
+          "text": "「巧合」是个好词，听起来就像是命中注定。但可惜侦探不相信巧合，我和你的相遇，是此前每一个选择、每一次行动的必然结果，也就是说，是我们自己决定的哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/0192bd14ef00f0633584dfebb276d500_5698162730173841678.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "有传言说我不用神之眼也能放倒同僚？唔…我更正一下。第一，我虽然是奉行所同心，但也只是个侦探，动的是脑力。第二，我们平时是不会打架的。第三…欸，蒙不过你啊。那算了~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/af134cb1b8780ec03c283c0cd0559e90_5842212751632292038.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·成就感",
+          "text": "把线索串联起来，一步步找出真凶，直到亲手为拼图嵌上最后一块。那种成就感，哎呀呀，实在是太迷人了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/e88b9fe494ee9f8689c6b2fb55dc62f6_5085180043410634815.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·同心",
+          "text": "同心这个职位，既能带来声望，又离凶案现场最近，这舞台，比我在侦探社的时候大了不少。当然，当然…巡逻和抓捕这种活还是请厉害的人代劳吧，侦探的精力是有限的嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/671a87ae9a1c8165a5839b21af9ff968_2911643903559020938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你对木材有什么研究吗？啊，没错，说的就是那种路边随处可见的树木。犯人蹭到了树皮啦，刮到了木屑啦，踩到了树叶啦，说不好就会留下些什么。根据它们的生长区域，有时还能推断出重要的线索。完全可以说，树是侦探的好朋友啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/4e957a54ec402f727a901e5c99848f10_5085180043410634815.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "九条裟罗大人啊…绝对是全天领奉行最严肃的人！真希望她能变得宽容一些，多多体谅下属，别再因为偶尔的缺勤责备我了。说到底，我也是为了查案嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/163732aadf8e1b45a6e72050506da8f0_1851836348240276560.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "受人所托，我去牢里给他捎过几次烤堇瓜，有次还正巧听到他在唱歌。说实话，歌词很烂，但唱得不错。蹲牢房的人能有这样的精神状态，不算多见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/59148b07f5445bbe57c48ce21bcfec0d_1140065772389918853.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于久岐忍…",
+          "text": "荒泷派真是个自由多元的组织呀，无论是怎样的风格都能接纳。了不起，了不起，多亏那位阿忍小姐管教有方。我是怎么知道的？哈哈，这已经简单到连推理都算不上了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/1c99b7a024ad955b55dd817bbe7562ea_6086102153739052190.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "说起来，宫司大人的八重堂也会出版推理小说吧？什么时候能请你当面引荐一番？在这个时代，要成为名侦探，实力以外，宣传也不能落下。哎呀呀，我哪有别的心思啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/95e3781cbb7a77c8e427ba5b0104de5e_7903048472715109527.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶·共通点",
+          "text": "万叶他呀，太可靠了。在他的提醒下，线索就像装宝石的匣子被翻倒一样，滚落得满地都是了。我要是也有他那种对于自然的感知力…哦！我明白了！「风」之于他，就像是「直觉」之于我吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/30a3ae5aa9cad898dbfe861942e75426_7096196736219453291.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶·邀请",
+          "text": "好可惜呀！眼狩令废除后，我就不能堂堂正正地逮捕他了！不过这样一来，也就意味着…我可以光明正大地邀请他来天领奉行，跟我一起讨论案情了吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/d7187173d8791df97df335dd424f73ff_1140065772389918853.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于五郎…",
+          "text": "在这位大将的叮嘱下，我的海祇岛之旅可是热闹了不少，到哪都有军士们盯着。天地良心，我不过是个平平无奇的观光群众，最多算个小小侦探，连白萝卜也不会惦记半根的呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/8c59ca04b733b67bb5089ec6167e0921_3448029265177485530.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海…",
+          "text": "珊瑚宫大人我是没见过的。毕竟有她出席的场合，村民们会围个里三圈外三圈吧，我就不凑热闹啦。啊，对，最里面那层还要算上巫女！像我们这样的年轻人，想要获得大家的认可，总要多付出一点努力的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/770f4e1980771b6a4b1b7a7e5bb78f2b_6599470839448908411.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "我和神里家的大小姐，只能算点头之交吧。还好我的家族不是什么名门。那种生活，可不适合我呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/59a289c4e8b446583e53fa7a02a19cae_2396211094536112842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其一",
+          "text": "就算一个人保持沉默，也能从他的衣着、动作、表情来掌握信息哦。如果接下来我的话就此打住…你又能从我身上读到什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/030ea9fcc3114f7fbded6293ac86d307_1698461794487425419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其二",
+          "text": "某次旁听时，我受脑海中的推导鼓动，阻止了判决的下达。如果当时提出的异议无效，那它就不会成为我当侦探的契机，而会是——鹿野院平藏，因扰乱庭审秩序受到拘留处罚，哈哈哈…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/6b06c8c0d4e5924cb60068ed72fcf537_1000141677601733979.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其三",
+          "text": "调查外遇、寻找宠物…从侦探社接到的案件总是那么几类，不够我挑战自己的呀。我只好找机会溜去天领奉行喽。另一部分的原因，是我跟珊瑚社长的理念不太合拍啦，这也没办法。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/41d4961738abe56dfafcccf250b1d9e7_7484565965678775603.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其四",
+          "text": "刚进天领奉行时，我拿未结案的卷宗来练手，不知不觉间，那座「卷宗山」也快被我咻地推平了…可惜啊，现在已经没时间再看以前的卷宗喽，很多案子都点名要我支援，忙得喘不过气啊…也没办法嘛。足够优秀的侦探，案子会自己找上门来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/819dd9d4f2857d664202d527666ccc0b_1698461794487425419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其五",
+          "text": "面对犯罪的时候，侦探已经失败了。无论怎样还原真相，找出真正的犯人，都无法挽回事件发生造成的损失。所以，我才会想要扩大自己的名声，成为能让坏人想想就感到害怕的名侦探！也就是，扼杀犯罪在摇篮之中。好了，既然把这一点都告诉你了，就快来一起帮我的忙吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/c7b722ff6bfc6aee55594fb0dbee437f_3884696674857802796.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "鹿野院平藏的爱好…",
+          "text": "要来旁听天领奉行的法庭判决吗？看着真相就像碎裂的剪贴画一样被拼接完整…我可以替你占个绝好的观看席位。我们只要装作不认识就行了，装作。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/2429fd5552e532c794c5816c0726a013_5532983416702925795.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "鹿野院平藏的烦恼…",
+          "text": "总有人在最后关头暴力反抗，好像那就会管用一样。真是的，我明明期待的是对方在完整的证据和推理面前，认罪伏法的样子。侦探要是动手，不就已经输了吗。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/5681ecdb1b94b49f647dd7f893a84e6e_5734532105552612256.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "被油炸过的食物就没有不好吃的吧？不管是肉还是蔬菜，只要是从油锅里捞上来的，我都爱吃！而且…这种香味，对那些饿肚子的人来说，也很难拒绝得了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/1c7fe74c0fcb692aac372ba11fa0ab0d_5353787578762231277.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我很讨厌奉行所的晚饭，总是固定的菜品，规规矩矩的，味道也说不上好。食物嘛，要想吃什么就能吃到什么才会开心。可怜的我，就只能溜出去垫肚子喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/ea1ebd6bacb7344088035a0b3068c77e_8449135340328238719.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "喔…好吃好吃！费了不少力气吧，太谢谢你啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/6f7161164b3d9195ac010c4b13cf787e_8981471073819023346.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "烹饪该算体力活还是脑力活呢，或许都算吧，难怪你能做得这么好！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/c69ee8a725ffd22be04c0edf6fc1fddf_2330550287023056139.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "让我想想…你是在哪个步骤出错了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/0c020f99345e24c8f58330cfc41ec5bc_6685680526422797129.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "在知道今天是你的生日之后，有那么一瞬间，我想把你带到一间摆满了机关与礼物的密室里，让你解出谜题后再出来…嘿嘿，开玩笑的啦，在确认你是否喜欢之前，我是不会这么做的。来，和我一起走吧，趁着太阳还没落山，有非常漂亮的景色想和你分享哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/02f69858ceebbc1ce524a0012f0426ad_6319508746682802317.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我的直觉告诉我…你想让我变强！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/5057cf12f6b4a354898a871ce2db9a67_2848995088281543832.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "武力是增加了，脑力也有这样的增幅就好了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/d585791d5269644f74b22c9be5020683_2659267517767126944.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "哎呀呀，我真要变成大家口中的「风暴」了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/d3b0a5e481f56ce1b6f29271caab6189_7418991779734166616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "谢谢你对我的信任和付出，我的搭档，能做到这一步多亏了你。来击掌吧，接下来也一起去解开更多的谜团！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/f4b817282a075fb7f5cf42a9ec819797_2550168078995785034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "吃拳！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/874c6b37ca0218bf261afc864adb0336_2659267517767126944.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "别抵赖！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/082844b6c8207131b454ec7fa9f27c80_6471734639595019337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/e9364dc7c9ed4e6c96dd77b4ae4dba21_6060078734611591535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "认罪吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/085d786fecf2c94c8db5660f95692b47_6471734639595019337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "风暴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/c01332d5f30755862006a64414d3e8da_7833791781923195047.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "破开迷雾！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/05042a54cbaad52c3cc1cf5b64e53863_3755279168795395219.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "别让宝物翻箱出逃哦~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/dfb3afe7512730a84830c6f83f3ffc17_7702671156068563331.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "就是这个，我的直觉不错吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/ac48a0d7f6bc2d118c1c680d0d902098_4124061474217343682.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇，好耀眼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/e0cf1bca00e81788e9bf11da8e235a72_6522022831212817730.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "唉，就非要动武吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/0d172214535bc1eff1dec20e13b377a5_3576146601417172049.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "好猖狂哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/49f6555abe7dfd8a514c49de16299390_9018411497424045330.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "这在侦探的职能以外了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/b4cd983bf68ac2d39e824fdd2cd93bdd_8331924184820803268.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "哎呀呀，小心哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1d0ded7c03a885a39c1a8b8214000752_3588613860048327797.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "事关重大，换我来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/6e158e2cc13ca9e35af6e4418056f9fd_7362450592302366890.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这不是真相…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/285c0cd5725440567c8bcba4fb3c0152_792931309286957699.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "呵，侦探变成受害人了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/1d8a95952419c0364811f28faba572c0_2290043652234484795.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我竟然会…失算…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/2e58110474197d098328bd8f0ed59602_8523976553220147792.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "别这样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/1102ea250b6e455dabb66400c992d433_2754660342848234277.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "真麻烦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/950b8d8a02af0e59ce09eeec00dc8a2f_6110504398690352250.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "有新案子？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/49d9efae8f7646773f354379c3830f29_3015048174109501607.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "遇上难题了？和我说说。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/56664d9554c2c3dd951ec3b3a8da93f9_709134931901242439.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "出发吧，我的搭档。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/dc2f5c8fb1e0f8950b945d150a373ed2_8612565865290717534.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我叫鹿野院平藏，是天领奉行里破案最多最快的侦探…哎呀呀，你身上一股麻烦缠身的味道。快坐下，这边坐，从头说给我听听吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/dc9f4f033571c3cbbbdb4f5686466ab5_2024384329372244511.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·罪案",
+          "text": "唔…我好像闻到了罪案的味道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/0623fadf2b630362278b0458330e2d45_241808816143864316.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·侦探",
+          "text": "侦探就要有侦探的样子，所以就得到处走走，搜集罪证才对嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/e6f15db3086684377b11dc4b65407231_7352336607986955084.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·直觉",
+          "text": "我的直觉告诉我，马上就要有精彩的事件发生了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/7ace25047d99162d945da52d8acc2e56_7237062241143838609.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "刚才那场雨，可别冲散了线索啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/d3735797dc1d57ac41fb04710d9fec9d_3015303855358012840.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哦？是哪个狡猾的犯人在发誓吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/76a2ec4cd5c9c0f95609fa398e496544_750313632443220038.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "你听说过吗？很久以前，发生在龙脊雪山上的午夜凶灵事件…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/ffce425682185be97770a04c35d1fc7a_8425553635594997857.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "加油呀！这么点风力是成不了「风暴」的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/0e011a45b49eeb72e3f61b37979a7da0_5640586527756435287.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早呀，看你精神不好，没做噩梦吧？早知道的话，就该晚些再让你接触重案嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/8c72da5db160a9c6813e28635d1c997e_1253887341348297433.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "吃饱了玩点锻炼脑力的游戏吧！继电石？哈哈，这个只能锻炼心态吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/e7d4facbc29f5ea0ab3045fc35e18b16_1347516096459297574.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "太阳下班的时候，就轮到星星盯着犯人了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/a279195716c48269bedc3ddeaf2383ab_3323245429114296658.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "真好啊，又到了睡觉时间！今天会做怎样的梦呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/4e5107ce46a4c046b4ec96d776311d21_8194547615167263121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏自己·侦探",
+          "text": "侦探，就该用脑力摧毁那些犯人企图逃脱的侥幸，所以说，真正的侦探，根本犯不着使用武力嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/887dfc503513f2bef103faf289fb5cab_310050743020493578.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏自己·关键词",
+          "text": "我习惯将见到的东西以关键词的形式记在脑子里，它们对推理大有帮助。你看这边这个人，干净裤腿上的猫毛，手腕处的抓痕，看来是想和动物玩，但却不太懂怎么逗猫。那位，很在意自己受伤的手，穿着和身份不符的新鞋…等等，说不定我要有新委托了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/16e5a9f95f120f5a2b82c026e0e70373_8445424430513079176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·委托",
+          "text": "我看你身边的委托，就像永不干涸的井口一样，捞都捞不完。那我就来沾点便宜吧。你懂的，打架、跑腿、找东西之类的活我是不做的。只做解谜推理，只解重案要案…嘿嘿，记得帮我留意哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/38ad392e26c176116a913cb4c85866c5_3519496610622801341.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·必然结果",
+          "text": "「巧合」是个好词，听起来就像是命中注定。但可惜侦探不相信巧合，我和你的相遇，是此前每一个选择、每一次行动的必然结果，也就是说，是我们自己决定的哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/4151c526144d9ca89d32982fb4c0afa5_3638834111066699952.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "有传言说我不用神之眼也能放倒同僚？唔…我更正一下。第一，我虽然是奉行所同心，但也只是个侦探，动的是脑力。第二，我们平时是不会打架的。第三…欸，蒙不过你啊。那算了~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/6b25e45c37811f0265c3dda33295f5be_2414014507841319381.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·成就感",
+          "text": "把线索串联起来，一步步找出真凶，直到亲手为拼图嵌上最后一块。那种成就感，哎呀呀，实在是太迷人了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/28217a9ee8099a9c9ca37045b8db5539_4538970117597114737.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·同心",
+          "text": "同心这个职位，既能带来声望，又离凶案现场最近，这舞台，比我在侦探社的时候大了不少。当然，当然…巡逻和抓捕这种活还是请厉害的人代劳吧，侦探的精力是有限的嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/ded40367653f1818b83fe2b1be310cfa_5605676279861203867.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你对木材有什么研究吗？啊，没错，说的就是那种路边随处可见的树木。犯人蹭到了树皮啦，刮到了木屑啦，踩到了树叶啦，说不好就会留下些什么。根据它们的生长区域，有时还能推断出重要的线索。完全可以说，树是侦探的好朋友啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/e7cbd8f8eb1568b9c072a4e24866a8f6_4311892167990026520.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "九条裟罗大人啊…绝对是全天领奉行最严肃的人！真希望她能变得宽容一些，多多体谅下属，别再因为偶尔的缺勤责备我了。说到底，我也是为了查案嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/5793abd398b54d6b1effc26d427b0820_1277371300232248985.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "受人所托，我去牢里给他捎过几次烤堇瓜，有次还正巧听到他在唱歌。说实话，歌词很烂，但唱得不错。蹲牢房的人能有这样的精神状态，不算多见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/5ccd6d5fd4d4244dba574f396ed56ccc_1272925262036234237.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于久岐忍…",
+          "text": "荒泷派真是个自由多元的组织呀，无论是怎样的风格都能接纳。了不起，了不起，多亏那位阿忍小姐管教有方。我是怎么知道的？哈哈，这已经简单到连推理都算不上了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/f72ecdb667a5a7a9b5997887b763f659_272175977808701574.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "说起来，宫司大人的八重堂也会出版推理小说吧？什么时候能请你当面引荐一番？在这个时代，要成为名侦探，实力以外，宣传也不能落下。哎呀呀，我哪有别的心思啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/7d92c0f0dcbb19183b647325f85f9521_6040539671799552341.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶·共通点",
+          "text": "万叶他呀，太可靠了。在他的提醒下，线索就像装宝石的匣子被翻倒一样，滚落得满地都是了。我要是也有他那种对于自然的感知力…哦！我明白了！「风」之于他，就像是「直觉」之于我吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/dd06fa6cc72fb7b5d372926696fe0b47_8802105992289100417.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶·邀请",
+          "text": "好可惜呀！眼狩令废除后，我就不能堂堂正正地逮捕他了！不过这样一来，也就意味着…我可以光明正大地邀请他来天领奉行，跟我一起讨论案情了吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/d176808ea40b3541186db6127854b12e_8457702933246353450.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于五郎…",
+          "text": "在这位大将的叮嘱下，我的海祇岛之旅可是热闹了不少，到哪都有军士们盯着。天地良心，我不过是个平平无奇的观光群众，最多算个小小侦探，连白萝卜也不会惦记半根的呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/799f53debfc55122548b87b7301dbb79_338020651254022083.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海…",
+          "text": "珊瑚宫大人我是没见过的。毕竟有她出席的场合，村民们会围个里三圈外三圈吧，我就不凑热闹啦。啊，对，最里面那层还要算上巫女！像我们这样的年轻人，想要获得大家的认可，总要多付出一点努力的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/798f8bcb4bb8f06ff5688c142590f625_2066508536400992538.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "我和神里家的大小姐，只能算点头之交吧。还好我的家族不是什么名门。那种生活，可不适合我呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/d4f8d17075c74d87ebd67231df1a9d38_1287217845655323288.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其一",
+          "text": "就算一个人保持沉默，也能从他的衣着、动作、表情来掌握信息哦。如果接下来我的话就此打住…你又能从我身上读到什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/eeafb72c9fc5e581d76e719358a3a2d1_2570565805222158934.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其二",
+          "text": "某次旁听时，我受脑海中的推导鼓动，阻止了判决的下达。如果当时提出的异议无效，那它就不会成为我当侦探的契机，而会是——鹿野院平藏，因扰乱庭审秩序受到拘留处罚，哈哈哈…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/e2d45e1ed5380eaaecf71d1c6fc967c6_4157822496703589347.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其三",
+          "text": "调查外遇、寻找宠物…从侦探社接到的案件总是那么几类，不够我挑战自己的呀。我只好找机会溜去天领奉行喽。另一部分的原因，是我跟珊瑚社长的理念不太合拍啦，这也没办法。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/fc5b6099881aa87d33ff3a2dcd45fd3b_2831964477322757526.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其四",
+          "text": "刚进天领奉行时，我拿未结案的卷宗来练手，不知不觉间，那座「卷宗山」也快被我咻地推平了…可惜啊，现在已经没时间再看以前的卷宗喽，很多案子都点名要我支援，忙得喘不过气啊…也没办法嘛。足够优秀的侦探，案子会自己找上门来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/72056dc87b27f76e232f7b143255162e_3918741538105352500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其五",
+          "text": "面对犯罪的时候，侦探已经失败了。无论怎样还原真相，找出真正的犯人，都无法挽回事件发生造成的损失。所以，我才会想要扩大自己的名声，成为能让坏人想想就感到害怕的名侦探！也就是，扼杀犯罪在摇篮之中。好了，既然把这一点都告诉你了，就快来一起帮我的忙吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/79668db37b928bad952a70d026ba8c1f_7911986973488447908.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "鹿野院平藏的爱好…",
+          "text": "要来旁听天领奉行的法庭判决吗？看着真相就像碎裂的剪贴画一样被拼接完整…我可以替你占个绝好的观看席位。我们只要装作不认识就行了，装作。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/9e49cdd89988a4c74ef8cab0bb7fcf0e_6984862941186141714.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "鹿野院平藏的烦恼…",
+          "text": "总有人在最后关头暴力反抗，好像那就会管用一样。真是的，我明明期待的是对方在完整的证据和推理面前，认罪伏法的样子。侦探要是动手，不就已经输了吗。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/e67a048edb8c397f3504fad137410099_5456872243780679934.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "被油炸过的食物就没有不好吃的吧？不管是肉还是蔬菜，只要是从油锅里捞上来的，我都爱吃！而且…这种香味，对那些饿肚子的人来说，也很难拒绝得了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/9ce66a5f62184964ff7e362ad2c8357d_6782333110251916424.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我很讨厌奉行所的晚饭，总是固定的菜品，规规矩矩的，味道也说不上好。食物嘛，要想吃什么就能吃到什么才会开心。可怜的我，就只能溜出去垫肚子喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/b7b35cd42b6a0631bc184a82d03be14a_6474112524363355210.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "喔…好吃好吃！费了不少力气吧，太谢谢你啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/ea3a33c3d9cb4ae30ab34d4da14ccff0_195715091082040294.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "烹饪该算体力活还是脑力活呢，或许都算吧，难怪你能做得这么好！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/303856f406e271cbfb6e3f0a3fe57882_2808167474109198650.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "让我想想…你是在哪个步骤出错了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/3b5aa1ce2f9f6c0d963266ecf70dfd7d_311821701116508505.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "在知道今天是你的生日之后，有那么一瞬间，我想把你带到一间摆满了机关与礼物的密室里，让你解出谜题后再出来…嘿嘿，开玩笑的啦，在确认你是否喜欢之前，我是不会这么做的。来，和我一起走吧，趁着太阳还没落山，有非常漂亮的景色想和你分享哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/7178e2b2bd27a087fd5e82cb0ea183e9_5897891170944507549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我的直觉告诉我…你想让我变强！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/5af78d07ae8af24a723e0c7393799de2_2986691608892120774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "武力是增加了，脑力也有这样的增幅就好了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/427955e08298a69101568731aed9efeb_6498836823432406820.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "哎呀呀，我真要变成大家口中的「风暴」了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/42d2f7450244391b56653c68352048b9_6094621601230073023.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "谢谢你对我的信任和付出，我的搭档，能做到这一步多亏了你。来击掌吧，接下来也一起去解开更多的谜团！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/f06636032f629955ac0406b955d8ed86_9031618318898043790.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "吃拳！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/9d923f09c1ed5c6cbd9c0fa3ebc5ec05_5564236625696725093.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "别抵赖！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/593947a6bab422e177d437af92f7ce47_1188695482868332060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/0d251226fd3ebc9b8902173130f895f9_3295755964755576186.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "认罪吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/0bc4e51ac0b4ee6b799c7e74fb5b8b73_8953466350338533935.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "风暴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/83e000ecdef1c3010f13276a5b1fe10d_3476991739041253474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "破开迷雾！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/3f4555783f506ed341963f29d2456445_6307815946046219494.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "别让宝物翻箱出逃哦~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/24c06c5f7ae6ca88e469ec63e0bfcabc_1344109361698763668.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "就是这个，我的直觉不错吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/cdc8b4fe759785026c433ce0ff9f15d6_117072367938300516.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇，好耀眼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/30388e87b7d5abc76052ee58194533f2_8576186101029219726.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "唉，就非要动武吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/fcd53453710783a17fa5b52ab25e0206_6605327720091214042.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "好猖狂哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/42afff2102f8fcb37327fd3192a985d2_3507457175182304889.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "这在侦探的职能以外了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/a7371d52ce80a5ac05e5f56749d45264_421459993060985774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "哎呀呀，小心哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/79c4da9a91a199edb942d3e07fd3a608_4759929061178271620.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "事关重大，换我来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/04e3320edfc3612580934b1add4d9d14_9128782549414826504.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这不是真相…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/ac25e02b8d1bbac046dbac5508329259_7007305357941205089.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "呵，侦探变成受害人了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/31462515c3bb2d560a8585e0654ef78f_473135424092856639.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我竟然会…失算…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/2d8cbf980eb7bc10fa5b13c37cfbfa16_6307815946046219494.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "别这样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/e7a12abff07b43e5301fb95d32e26a7f_5599587817990294039.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "真麻烦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/c6b251e47361f8d18be44dcd0fddb07a_720264182195276825.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "有新案子？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/13df5e360ef8a597274b88d286562dcb_3452032841801046875.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "遇上难题了？和我说说。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/543a9349af85ca1d7abc94ea79aba57f_5304817044473449053.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "出发吧，我的搭档。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/c40b3fb44f11e75db47f7be3bc5f6485_6048566720374812273.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我叫鹿野院平藏，是天领奉行里破案最多最快的侦探…哎呀呀，你身上一股麻烦缠身的味道。快坐下，这边坐，从头说给我听听吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/ce9c6ea738f685443390c03ad5ae3681_3414740600974839790.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·罪案",
+          "text": "唔…我好像闻到了罪案的味道。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/b6f60cc3ca48a7c8d19af13bb9b605e4_5703995403275843395.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·侦探",
+          "text": "侦探就要有侦探的样子，所以就得到处走走，搜集罪证才对嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/ab552a034cecdef5ef285ed7cf756ca0_2127262694483824836.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·直觉",
+          "text": "我的直觉告诉我，马上就要有精彩的事件发生了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/2967eaa1991877ca7057d210e980f2f6_8364385603153839462.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "刚才那场雨，可别冲散了线索啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/30772932d19b9fcada7fd2883d4fda83_2328315108650299791.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "哦？是哪个狡猾的犯人在发誓吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/096819cc80a357c851083631064a51f0_3005775946536971710.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "你听说过吗？很久以前，发生在龙脊雪山上的午夜凶灵事件…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/6aaf2a73e5e00687fff28fcdfe49fd97_535259496659704503.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "加油呀！这么点风力是成不了「风暴」的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/0bff0bfa30f19fb14cd2f14cd9319950_529164467540575153.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早呀，看你精神不好，没做噩梦吧？早知道的话，就该晚些再让你接触重案嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/00f2c25f54a29c5d9400f93294f1f51e_8344426854114356883.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "吃饱了玩点锻炼脑力的游戏吧！继电石？哈哈，这个只能锻炼心态吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/92b5a04d43c6f7b5961f1960c2e365c4_9002132782673609602.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "太阳下班的时候，就轮到星星盯着犯人了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/5ee8396a9d376ae740cacb1884cd6c84_8326086905313951587.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "真好啊，又到了睡觉时间！今天会做怎样的梦呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/e71f3fe30b06558eb0df108a92a98a95_2144609400246516856.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏自己·侦探",
+          "text": "侦探，就该用脑力摧毁那些犯人企图逃脱的侥幸，所以说，真正的侦探，根本犯不着使用武力嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/2f74fd136d74924ee0737bcc20128892_7455288080410430009.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏自己·关键词",
+          "text": "我习惯将见到的东西以关键词的形式记在脑子里，它们对推理大有帮助。你看这边这个人，干净裤腿上的猫毛，手腕处的抓痕，看来是想和动物玩，但却不太懂怎么逗猫。那位，很在意自己受伤的手，穿着和身份不符的新鞋…等等，说不定我要有新委托了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/e01de09155146c4718d5b07cd088ba62_676733220318135687.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·委托",
+          "text": "我看你身边的委托，就像永不干涸的井口一样，捞都捞不完。那我就来沾点便宜吧。你懂的，打架、跑腿、找东西之类的活我是不做的。只做解谜推理，只解重案要案…嘿嘿，记得帮我留意哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/ccb2204d4fca1070d697e2f9815019f8_8134998187936412024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·必然结果",
+          "text": "「巧合」是个好词，听起来就像是命中注定。但可惜侦探不相信巧合，我和你的相遇，是此前每一个选择、每一次行动的必然结果，也就是说，是我们自己决定的哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/960ea6811fd83483d073a342b5cdd1b1_5536103724209252012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "有传言说我不用神之眼也能放倒同僚？唔…我更正一下。第一，我虽然是奉行所同心，但也只是个侦探，动的是脑力。第二，我们平时是不会打架的。第三…欸，蒙不过你啊。那算了~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/8e7da343b960d5df7ec8d6cb4640a0d4_7462611663273098575.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·成就感",
+          "text": "把线索串联起来，一步步找出真凶，直到亲手为拼图嵌上最后一块。那种成就感，哎呀呀，实在是太迷人了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/4e10ee39e4b9abb68826f9adebd2934f_7393873635085723824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·同心",
+          "text": "同心这个职位，既能带来声望，又离凶案现场最近，这舞台，比我在侦探社的时候大了不少。当然，当然…巡逻和抓捕这种活还是请厉害的人代劳吧，侦探的精力是有限的嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/4904703714757f978f98302c85986c74_5522855416151927960.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你对木材有什么研究吗？啊，没错，说的就是那种路边随处可见的树木。犯人蹭到了树皮啦，刮到了木屑啦，踩到了树叶啦，说不好就会留下些什么。根据它们的生长区域，有时还能推断出重要的线索。完全可以说，树是侦探的好朋友啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/c093de3344df6ee2d59f47ac4c4cc0af_3752455944331584710.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "九条裟罗大人啊…绝对是全天领奉行最严肃的人！真希望她能变得宽容一些，多多体谅下属，别再因为偶尔的缺勤责备我了。说到底，我也是为了查案嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/81e8af964092d7ffbf0e22423bd7c321_1646844100781478389.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于荒泷一斗…",
+          "text": "受人所托，我去牢里给他捎过几次烤堇瓜，有次还正巧听到他在唱歌。说实话，歌词很烂，但唱得不错。蹲牢房的人能有这样的精神状态，不算多见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/0bbb3a57b936d32ce992760b7018b4c6_8604137072679684188.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于久岐忍…",
+          "text": "荒泷派真是个自由多元的组织呀，无论是怎样的风格都能接纳。了不起，了不起，多亏那位阿忍小姐管教有方。我是怎么知道的？哈哈，这已经简单到连推理都算不上了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/2f7632c4002aae08f052a27b3f123830_121778961741078726.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "说起来，宫司大人的八重堂也会出版推理小说吧？什么时候能请你当面引荐一番？在这个时代，要成为名侦探，实力以外，宣传也不能落下。哎呀呀，我哪有别的心思啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/94b4361cecd3068799fab5b19ebf22e4_965151428291697929.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶·共通点",
+          "text": "万叶他呀，太可靠了。在他的提醒下，线索就像装宝石的匣子被翻倒一样，滚落得满地都是了。我要是也有他那种对于自然的感知力…哦！我明白了！「风」之于他，就像是「直觉」之于我吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/c20ee4eda52a1bf1069408286b4f78c3_733585584484164842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶·邀请",
+          "text": "好可惜呀！眼狩令废除后，我就不能堂堂正正地逮捕他了！不过这样一来，也就意味着…我可以光明正大地邀请他来天领奉行，跟我一起讨论案情了吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/a1579534816441fe01d5e24f1824dba9_1218820065320440632.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于五郎…",
+          "text": "在这位大将的叮嘱下，我的海祇岛之旅可是热闹了不少，到哪都有军士们盯着。天地良心，我不过是个平平无奇的观光群众，最多算个小小侦探，连白萝卜也不会惦记半根的呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/cad78f17ec2aae61c3cc0006786d37a5_7431061440549521011.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海…",
+          "text": "珊瑚宫大人我是没见过的。毕竟有她出席的场合，村民们会围个里三圈外三圈吧，我就不凑热闹啦。啊，对，最里面那层还要算上巫女！像我们这样的年轻人，想要获得大家的认可，总要多付出一点努力的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/fb893bd785cca253cad056551d76dc0c_8176759886594455830.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "我和神里家的大小姐，只能算点头之交吧。还好我的家族不是什么名门。那种生活，可不适合我呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/7a3e6d23e355135a526fb06124a5326c_965151428291697929.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其一",
+          "text": "就算一个人保持沉默，也能从他的衣着、动作、表情来掌握信息哦。如果接下来我的话就此打住…你又能从我身上读到什么呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/794859d2431573428c3deee88b7d8d1a_426613915222325269.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其二",
+          "text": "某次旁听时，我受脑海中的推导鼓动，阻止了判决的下达。如果当时提出的异议无效，那它就不会成为我当侦探的契机，而会是——鹿野院平藏，因扰乱庭审秩序受到拘留处罚，哈哈哈…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/d7e1841e14174580b90c57ccabc5c25c_5830886209439912020.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其三",
+          "text": "调查外遇、寻找宠物…从侦探社接到的案件总是那么几类，不够我挑战自己的呀。我只好找机会溜去天领奉行喽。另一部分的原因，是我跟珊瑚社长的理念不太合拍啦，这也没办法。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/549505883c2db3c4ff21f17fdb0af6a4_3426310899515257715.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其四",
+          "text": "刚进天领奉行时，我拿未结案的卷宗来练手，不知不觉间，那座「卷宗山」也快被我咻地推平了…可惜啊，现在已经没时间再看以前的卷宗喽，很多案子都点名要我支援，忙得喘不过气啊…也没办法嘛。足够优秀的侦探，案子会自己找上门来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/6f3316922996c85c59a5819dcd96b4c3_4930138428925269680.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解鹿野院平藏·其五",
+          "text": "面对犯罪的时候，侦探已经失败了。无论怎样还原真相，找出真正的犯人，都无法挽回事件发生造成的损失。所以，我才会想要扩大自己的名声，成为能让坏人想想就感到害怕的名侦探！也就是，扼杀犯罪在摇篮之中。好了，既然把这一点都告诉你了，就快来一起帮我的忙吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/a93ef4950f67c7ecdbec64810d40bc51_8326097282620269489.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "鹿野院平藏的爱好…",
+          "text": "要来旁听天领奉行的法庭判决吗？看着真相就像碎裂的剪贴画一样被拼接完整…我可以替你占个绝好的观看席位。我们只要装作不认识就行了，装作。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/8867ad04bd3484df4818a56b0736da8f_260490933105049760.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "鹿野院平藏的烦恼…",
+          "text": "总有人在最后关头暴力反抗，好像那就会管用一样。真是的，我明明期待的是对方在完整的证据和推理面前，认罪伏法的样子。侦探要是动手，不就已经输了吗。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/589752324c7dd6797bed3d7a388b477c_2767488836231713068.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "被油炸过的食物就没有不好吃的吧？不管是肉还是蔬菜，只要是从油锅里捞上来的，我都爱吃！而且…这种香味，对那些饿肚子的人来说，也很难拒绝得了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/c71061aa5c4367abd026cdd03050e388_1839419408491183143.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我很讨厌奉行所的晚饭，总是固定的菜品，规规矩矩的，味道也说不上好。食物嘛，要想吃什么就能吃到什么才会开心。可怜的我，就只能溜出去垫肚子喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/68a738f959a0d9acb4f2b65af2b82229_4687297013724636310.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "喔…好吃好吃！费了不少力气吧，太谢谢你啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/d13de94898bb799344739279185f4024_7119444375990719753.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "烹饪该算体力活还是脑力活呢，或许都算吧，难怪你能做得这么好！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/96a96480eeab88f4f5a7b216836fde9c_2780208098440315179.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "让我想想…你是在哪个步骤出错了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/294817d34e2cf2d8182a22270a17523d_3202974097576558356.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "在知道今天是你的生日之后，有那么一瞬间，我想把你带到一间摆满了机关与礼物的密室里，让你解出谜题后再出来…嘿嘿，开玩笑的啦，在确认你是否喜欢之前，我是不会这么做的。来，和我一起走吧，趁着太阳还没落山，有非常漂亮的景色想和你分享哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/abf585aa8aa8debd9d0dece9ddf98bb3_2830198004219786018.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "我的直觉告诉我…你想让我变强！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/b9ce4e4ee73541b9fd058a0c58c3b0c1_3215401203310849749.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "武力是增加了，脑力也有这样的增幅就好了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/9d4ef009013edf5240a9a80919b5a4cc_5180123071176973395.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "哎呀呀，我真要变成大家口中的「风暴」了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/c0731ad8c6e1689163eb151f77db72fe_6216415692925852593.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "谢谢你对我的信任和付出，我的搭档，能做到这一步多亏了你。来击掌吧，接下来也一起去解开更多的谜团！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/e473e67886e85f9feb3c9baf100d8809_2780208098440315179.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "吃拳！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/b58b87260ef0ad96e68cc0df30f60d1d_7275255629557180499.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "别抵赖！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/af88a123120d4ed20ae764ae3db632d0_6339746154143475951.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "来吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/7acf5f8f341b8961addaefee7694efa5_2863389812551519566.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "认罪吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/5cc0453c0acadb1752a1487c1b85c4bc_6339746154143475951.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "风暴！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/69d5e602c8e255bb8eb0d55c5d8aa302_394569725894035226.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "破开迷雾！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/8b8a6be325e0be0089dc7123c3eab0a6_906665436578157143.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "别让宝物翻箱出逃哦~",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/378077a628b35a62bda675f179e8f64a_3572635548394069621.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "就是这个，我的直觉不错吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/6a0926a5663ef94e4e2584e8ef9e6d97_3589886308777816475.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇，好耀眼！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/f6012a601e198731d5db8e1033606f44_7690379496573417913.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "唉，就非要动武吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/b5074ecbdbd49140b61aa8e31791a8a6_5688612652161823733.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "好猖狂哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/0f20ff6624319c6c61cec7a3ad0deb30_7076929799282372643.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "这在侦探的职能以外了吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/f0a172782a2d565b76bf44c3771f1560_4378553839258917460.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "哎呀呀，小心哦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/f4f3c5ebf6e5f548d796a511950c078e_464273333495704276.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "事关重大，换我来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/2ddf3a0ca71eaeb62b4134c192504bb5_5418545459916560587.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "这不是真相…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/d499ad7a4156532dae114ca8b831b107_4456301607277612707.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "呵，侦探变成受害人了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/0b18a4f2e1a9b7e4e7d5b3f657a6b1c1_2654214440541268924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我竟然会…失算…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/0716e6ec289953a41094b7ebcb687a2c_3392312998445390650.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "别这样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/ef77cd31fe65e80a2c14bc756ca73a75_5586180762853450959.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "真麻烦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/17ebdc2828dc6c7421bda89c44971fae_5106170805127899842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "有新案子？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/c831a49c4b2875bb7cf17887bcfab925_7842241558244426628.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "遇上难题了？和我说说。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/768c1fd5bc0e805a3d79301eeef30164_3137384884568788238.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "出发吧，我的搭档。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/07/19/16576950/9a82172475966c18f1427f5f4910779d_2341152031485755220.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

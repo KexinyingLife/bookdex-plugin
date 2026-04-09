@@ -1,0 +1,1397 @@
+{
+  "id": "2415",
+  "name": "埃洛伊",
+  "alias": [
+    "埃洛伊"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是埃洛伊，虽然对这个世界还不太了解，但我的弓和箭随时为你所用。如果你的队伍需要我，我会倾力相助。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b1384b50cf42337ffbacdec5e4c98588_8676245147937364512.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·动身",
+          "text": "别闲站着了，该动身了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/01ada27ea35dc4e6a0f1be73ceda713c_4931970318988331526.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·帮助",
+          "text": "现在不该停留，还有人需要我们帮助。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/385eded8d780543d99d35a6bedea3125_7641146574814571040.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨，可以洗净脏污。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4c4e9c49ad27948a308cd7c330b070a5_2547655004514318535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "雨停了，该把自己晾一晾了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2943ae5a7b26c5e2c6c76028f4634b00_6246966602461278907.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "下雪时，似乎整个世界都静下来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ec6adc00fef0d9cfbe2487db7f5b9d09_7728650958381612072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "又起风了，在风中呼吸的感觉真不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4e5b218613f9b9013c4163ab97c2c685_3345336794912000545.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风烈起来了，刮得脸上生疼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5b0a2a5ecc5a07bfaa7ab3e36256f518_118036753472881335.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。世界又充满了活力，我也一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/72a119223ec1311baa953299f946697b_3180363050508130352.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "日已过半，我们还有不少事要忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3498dae6a89bded1a09718badde56153_1351182463827086724.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "太阳落山了，再过不久星星就要出来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7836f4bc6309222936ebc78e02d522dc_8302285677008992345.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "晚上好。该休息了，除非你想借着星光继续行动。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/33a504c3c910ce3df7c4029693368e01_8925559567483401418.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于埃洛伊自己…",
+          "text": "我从小就是个流放者，那段日子很不好过。但在这里，即便是对待我这样的外人，大家也比我所降生的那个部落友好的多。感觉…很好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/06c2f391a9d68958e10ab924bc307a6d_6035834080266145261.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·行动",
+          "text": "我的一切行动都是为了拯救生命，而非带来死亡。这就是我与你并肩战斗的原因。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1a5dd7f636d7212c643a42cd66be219e_6199767938912711779.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·誓约",
+          "text": "立誓什么的，有点太循规蹈矩了。不过如果你想要我的誓约，那我的誓言与你同在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a7bb3e9e205391fd40e4275d266a67dc_3200514950097555313.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·前进",
+          "text": "我会尽全力与你一起前进，直到终点。我不会踌躇，也不会辜负。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8c7f0bf66a68ee382a21e3a8de81c96f_2734467990737959345.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "如果说有什么可以分享的话，那一定是我的弓与箭，我只为扶助他人而使用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9d16629678866a97250a6142f3e0aa32_1867449355049325751.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "和我那边的世界一样，这片天地的过去也充满了秘密。如果能有足够的时间，我一定要把一切秘密都揭开。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2ca9cb5c323a9b5543225f2ec9b7d2b1_684461579394801244.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其一",
+          "text": "我不太擅长谈论自己的事情，眼下的任务才是重点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8a50b12d515b608a1a678352eaf07da9_1171147489630922992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其二",
+          "text": "我没有父母，是一个叫罗斯特的男人抚养我长大的。他有点严厉，不过心肠很好，也很大方。他教了我很多东西，嗯…我很想他。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/38b4b300f643a875942613a590426f50_7618222251688240966.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其三",
+          "text": "以前，我花了很多时间在寻找我的生母，却没能找到「她」。取而代之的是，我找到了一些远古的留言，是我的…「克隆母体」留下的。听着那些留言，我觉得她似乎很了解我，也很会鼓励我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b807fdb183d5a90262e886d1ae759c49_1305022435992211084.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其四",
+          "text": "在成长的过程中，我没有什么朋友。虽然后来在旅途中认识了一些人，但当我离开那个世界时，我和他们的关系还称不上熟络。所以，能和你一同度过这么多时间，成为朋友，我真的很开心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5fdd51dfef3891d8727f9d8c93dcaea7_7938021254240791172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其五",
+          "text": "我不会轻易信任他人，但我确定你是可以信任的。你是我真正的伙伴，我可不经常这样评价别人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7268e20ff2b6e6d516ce098577500a83_8115210936284181530.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "埃洛伊的爱好…",
+          "text": "我不太清楚自己有什么爱好，「阅读古物」算一个吧。嗯，那就…历史？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d8aac2a8096f621aab245796f61b3a8b_3958190054890893880.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "埃洛伊的烦恼…",
+          "text": "除了我自己的世界，现在又多了一个世界需要拯救。唔…时间总是不够用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6483af59ee1a50965dde26e76922adf6_261678400208939245.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我不挑食。只要不饿着肚子旅行，吃什么都行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/179d5d2b0b8311690a52a0b4c17110ea_8625563979300356857.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我吃过一次「奥斯拉姆炖肉」，稠得都能当沥青铺路了，呕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4ada306168e307768f4ad1274d5049ec_6086038972157456744.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "我从来不怎么在意生日。在我出生的世界，大家都会纪念母亲，没人庆祝自己的生日。不过先不管那些。嗯…祝你生日快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b66a9ba7c113d5cdc9cc9e27ece4326_7521905650421566647.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "很好，咱们进展不错。但可不能止步于此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/538c2a0f4ca88ed3f8bad2cf41c8de59_8049130341157529304.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "有所成长，变得更强了，是件好事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/365944f383fc4ccb97b38be3311a04c7_7500595371768495160.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "无论现在是多精湛的猎手，总还能更进一步。不要因为自满而止步，不要停止学习。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d511955c10e84bc7da78c811ff67a69b_7421676662023429482.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我们刚开始搭伴旅行时，对我而言，你还只是一个陌生人，来自我所不熟悉的世界。但既然如今我们已经一同经历了这么多，我可以向你保证：我的弓永远与你同在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8e53608a8a0651e75d56f71613b98a9e_8925757808789664922.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "这玩意是会炸的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8bb069b4b996348308f3f5e1b5d5b6d4_6738292037328266313.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "猎手的小玩具。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/82797263b0f07336bb5a0cfe526ef4fd_8522187605470651283.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "见过这个吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c7e6f700738387be32b390e4e9b3317_5924408775048536186.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "禁锢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bab3eb91f16f1e21f24fb82626979cb0_3134717023317095278.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "一点新技巧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/633719408ebf451fa4932654d4dbcd38_8621496237034886735.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "这里是我的猎场！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e2b46c11c3f525a5314708d27d4b6a4e_8645157141712860047.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "这玩意用着还不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3aa6abdb5c692a17a3630032feb9bb7b_8759947398163147416.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "嗯…算是些有用的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/42ae11fd1aecab2fac292b00ec8c7917_6812910118759696990.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这些能吃…这些能用…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8ec0c0629d06f4a6f092147abb643efb_5976224435698966807.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这些，到底是谁留在这的呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe57c8ca80a7d04b0b07d82fb936e5b8_2635212488237869025.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "棘手的猎物…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4db4eb9ed37c42859eaad8fe35f2fb2f_5485267676157462325.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "弱点在哪…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fd64da8b1ebab83f90203a31678b6573_9004921574722760161.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "大意了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/279aae21bed8ad51ed50d4ac261fe172_3742835144065049828.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "当心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/08f77a151edfd75f2b5a4a89a75ac316_7337257863018694861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "别太冒进！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/553bcc74b358bcd61ca4672f8eb6ae16_2563119762377183522.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "哪里…出了错…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6f427fbcc3b5c872776b73f0c50b684e_6879842641625713211.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "抱歉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/afd843eea85b0544b8291f1a8f950977_2105182262302799932.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "失败的狩猎…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d2ee95d02e2825e6185c3983554ebc6_8310575575900226251.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2ad5fd1c5616403fd9beb4d59163f97d_4352925092135293208.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "小问题…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/08b2a38e03287b63bd2d5c027b6aef03_7772433641184954202.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "呃！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e294046f2745adbde91b09b962c36257_6450721968157659284.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "有点麻烦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f40e37c0febc48678b914503df0205c3_200814874617484215.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "这次要去哪转转？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0675145b03495e15e4b9728f26cccdcb_6621465821538315448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "埃洛伊，加入狩猎。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/393277973e3802a65e88241efc76fc03_7595325901751109145.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "需要帮手吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/484982aad139d0b56bdb4bc7693804d8_5638608330045783203.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是埃洛伊，虽然对这个世界还不太了解，但我的弓和箭随时为你所用。如果你的队伍需要我，我会倾力相助。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cfdd6d99fafaee065002383e8ee62578_359793862327001782.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·动身",
+          "text": "别闲站着了，该动身了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/94a60ecc339154d4d818d1c67c4f2f85_2806224234323116247.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·帮助",
+          "text": "现在不该停留，还有人需要我们帮助。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/642f467110fd84180c4cd2f3b6377638_3712551787018309625.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨，可以洗净脏污。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/01a8ea86657e89174969d1ae65c3ddc9_4990650349213440336.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "雨停了，该把自己晾一晾了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e4ed38feda5d259fbacaa124398730bd_6918465869362852095.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "下雪时，似乎整个世界都静下来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/07d820510619f37e51909cbe1a32b489_3934474469218137170.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "又起风了，在风中呼吸的感觉真不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/19c8df286081087e0fa947bb5b19e16d_7337734145461295612.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风烈起来了，刮得脸上生疼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9a34255f231e9df7831e65f3391a30e7_6191771915502285237.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。世界又充满了活力，我也一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/24a2f62a8b359b054f3dd32bfa182d85_6355796805869928590.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "日已过半，我们还有不少事要忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a68b899f7ad50da2604090afcd720139_3582979563100508394.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "太阳落山了，再过不久星星就要出来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f655a003eb37aa24c95bd7149cc5f681_1304490849252494484.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "晚上好。该休息了，除非你想借着星光继续行动。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ebbb307a38bd1093566c72d0f70af0c7_7118117760820627060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于埃洛伊自己…",
+          "text": "我从小就是个流放者，那段日子很不好过。但在这里，即便是对待我这样的外人，大家也比我所降生的那个部落友好的多。感觉…很好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e2fe2a48b4f555642c198f2ddfc988b5_4876377407213498718.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·行动",
+          "text": "我的一切行动都是为了拯救生命，而非带来死亡。这就是我与你并肩战斗的原因。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5bd5762e0c12b97c2d8c92c3c374d63e_8378022166292562369.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·誓约",
+          "text": "立誓什么的，有点太循规蹈矩了。不过如果你想要我的誓约，那我的誓言与你同在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/94456b247c4c9bf94ac94218c2af3c59_3611782004062683631.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·前进",
+          "text": "我会尽全力与你一起前进，直到终点。我不会踌躇，也不会辜负。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c6c44f7a2ec9e4268a7767883141160f_4983957464571162532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "如果说有什么可以分享的话，那一定是我的弓与箭，我只为扶助他人而使用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd5c1908a0d60001e0849ebdb769730c_6829355746784839938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "和我那边的世界一样，这片天地的过去也充满了秘密。如果能有足够的时间，我一定要把一切秘密都揭开。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9ba259c80abd2a0734054276c430dc3f_5665589143825725168.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其一",
+          "text": "我不太擅长谈论自己的事情，眼下的任务才是重点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f54cd69ec0d5890596767d089502a263_7215459875498225090.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其二",
+          "text": "我没有父母，是一个叫罗斯特的男人抚养我长大的。他有点严厉，不过心肠很好，也很大方。他教了我很多东西，嗯…我很想他。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2199b9b827b0b9dc5b99abd1674904e6_2441625950724821504.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其三",
+          "text": "以前，我花了很多时间在寻找我的生母，却没能找到「她」。取而代之的是，我找到了一些远古的留言，是我的…「克隆母体」留下的。听着那些留言，我觉得她似乎很了解我，也很会鼓励我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bf1b5183fcc5984ccf374fad0f820be0_3745292501165649291.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其四",
+          "text": "在成长的过程中，我没有什么朋友。虽然后来在旅途中认识了一些人，但当我离开那个世界时，我和他们的关系还称不上熟络。所以，能和你一同度过这么多时间，成为朋友，我真的很开心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e4423bc9b903e461565a3682276a9cf7_6360680581813252681.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其五",
+          "text": "我不会轻易信任他人，但我确定你是可以信任的。你是我真正的伙伴，我可不经常这样评价别人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3911602168711d559d364405c434171e_3526511537034271197.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "埃洛伊的爱好…",
+          "text": "我不太清楚自己有什么爱好，「阅读古物」算一个吧。嗯，那就…历史？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/da835742f66e7b565eb1c6a2dc320f93_36506067029080597.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "埃洛伊的烦恼…",
+          "text": "除了我自己的世界，现在又多了一个世界需要拯救。唔…时间总是不够用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77ccefa217cb9665f510b36000a0fc63_6228210593075054590.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我不挑食。只要不饿着肚子旅行，吃什么都行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/821ea0ceba25d07f7446f6120cbdcd22_660601911172888320.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我吃过一次「奥斯拉姆炖肉」，稠得都能当沥青铺路了，呕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2afd1fc0fe509bfdcb6d2ab78560f095_5732374284000987197.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "我从来不怎么在意生日。在我出生的世界，大家都会纪念母亲，没人庆祝自己的生日。不过先不管那些。嗯…祝你生日快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cafed6969bafb391d1734135e9e948cc_304015408236100367.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "很好，咱们进展不错。但可不能止步于此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7bf723eb30761329a2c8694b3af1e548_2251350361494157804.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "有所成长，变得更强了，是件好事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8ab0e63d3b80657340e31910fc819d93_398437176191597156.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "无论现在是多精湛的猎手，总还能更进一步。不要因为自满而止步，不要停止学习。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d828429bc64bad07b4becee5afbce8e3_3724511849279362043.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我们刚开始搭伴旅行时，对我而言，你还只是一个陌生人，来自我所不熟悉的世界。但既然如今我们已经一同经历了这么多，我可以向你保证：我的弓永远与你同在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/be3e877a9ebc29d00fbfa415e0713913_2967116678401551925.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "这玩意是会炸的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dccccce0a3608c50b70c61d721a0aeef_2910627857842565158.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "猎手的小玩具。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/34abbd9644b4ce32eaa819f951dd57ca_2623402177783488115.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "见过这个吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d91a0a900afb803e7b0ed04f1020195a_1482420493406173860.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "禁锢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dbc4b94ee867c6039dd9da09aa6885d1_4561572435584634703.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "一点新技巧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/37552660dd4dc372972a097bd9fd633d_6007941587675267066.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "这里是我的猎场！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e2fb398b1421b706207461e48804f45b_5285828984232198868.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "这玩意用着还不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7beaee0a73fd68da877eeebbabc3a065_3693303676496641667.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "嗯…算是些有用的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ff2ca300a97b915d7bb52ff66e0370d6_7740684492029112255.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这些能吃…这些能用…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4c2f0ec089b0bc6e149f05dfd14e4265_3660415989353926234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这些，到底是谁留在这的呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f35f5f3e0a648063d78337f0b833ebb1_2810108335170107152.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "棘手的猎物…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c01987f63baa84bdb26282a45d7161b8_1403001261900659595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "弱点在哪…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3506791b59d777d4bcd1ce788dc44674_8776071407971836782.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "大意了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d609774caeaf29dcca9c8c39832ae89c_6162205280175490911.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "当心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/3ff5643524af1bfc4a1aac46398e0d26_8741911280042422045.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "别太冒进！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/3f0fc344b55a84672e77aff28f182069_3723245687008530488.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "哪里…出了错…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6584eed8683ee8b5cd5230a1d9d56664_4662121475356821251.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "抱歉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/57051c0eff7d9afb13e4b43d8d70409f_7387346402790047369.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "失败的狩猎…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a66958222a9f824913b6eec94d8c2ea1_2232685378733227264.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e00446ce403d44d2dab7a0d9ebf860f6_1710646042844520244.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "小问题…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f5f533fe2a1517a43667baedd1f87d30_2967723174355009309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "呃！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5ee73171a8e46146ce9c0a681d3e6885_5781678591814948072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "有点麻烦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9d32258fda9d2e2fc4a286d813dcc85c_2800085718748688212.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "这次要去哪转转？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/814b3e6ddc133a17a8ed4d55db68971f_1897094810566094555.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "埃洛伊，加入狩猎。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c6801436da67f9222c855f2e845a1d3a_6785894185519897697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "需要帮手吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a3a4eb94eda864dffbf5b7dea940f370_6294965225652260614.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是埃洛伊，虽然对这个世界还不太了解，但我的弓和箭随时为你所用。如果你的队伍需要我，我会倾力相助。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f29b2b24680b6b8712d5a89063505d07_1015452627153498007.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·动身",
+          "text": "别闲站着了，该动身了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1d915deaa648f415e703f35f176ed68d_8685713925435200847.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·帮助",
+          "text": "现在不该停留，还有人需要我们帮助。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ecb5e2ef8201d5e9f8768f96d9460df9_2062727848582361600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨，可以洗净脏污。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c85348ed3773e913c52e55c74cd8b9e1_8191271969911598530.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "雨停了，该把自己晾一晾了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/58e5ae41f053f97a000bf16ef176f141_6729088766229998087.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "下雪时，似乎整个世界都静下来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5f95b90fa452f480a382ba05ca5926c0_4746364510051648568.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "又起风了，在风中呼吸的感觉真不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/73be64a430481a5cbdf5113c618c892d_5746359990433337618.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风烈起来了，刮得脸上生疼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cad83228e76b7a2fb8d2180b78dc13be_8636619242188248359.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。世界又充满了活力，我也一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9d3de30327ee07b5b3234f4d1263f31f_1283876254875627630.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "日已过半，我们还有不少事要忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/33184a7be7c019876b19119ba0eb010b_7398581001245534614.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "太阳落山了，再过不久星星就要出来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2d8a02bf17aeec40b5f1e9042b977e5e_2847007050624835077.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "晚上好。该休息了，除非你想借着星光继续行动。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c0abb5a84b0103dc6df243637de17d11_9003477045515079975.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于埃洛伊自己…",
+          "text": "我从小就是个流放者，那段日子很不好过。但在这里，即便是对待我这样的外人，大家也比我所降生的那个部落友好的多。感觉…很好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/077f87adc93e50a3d0f25cbc323267a4_3169871504598074102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·行动",
+          "text": "我的一切行动都是为了拯救生命，而非带来死亡。这就是我与你并肩战斗的原因。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/133a03ed09c59f4ebb7f2418353398bb_9026507684967256225.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·誓约",
+          "text": "立誓什么的，有点太循规蹈矩了。不过如果你想要我的誓约，那我的誓言与你同在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/57714986363465597e1e52cda60365de_576146978398282277.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·前进",
+          "text": "我会尽全力与你一起前进，直到终点。我不会踌躇，也不会辜负。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4e1d060ec73c502a5994e12f700095d3_6281165916343267180.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "如果说有什么可以分享的话，那一定是我的弓与箭，我只为扶助他人而使用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/63c00d5d0f2003c1bd7b6554e1592bdd_4211697414978062935.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "和我那边的世界一样，这片天地的过去也充满了秘密。如果能有足够的时间，我一定要把一切秘密都揭开。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3793e1fc526c0c5ff2f6c91f045c4c45_7776050094519857299.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其一",
+          "text": "我不太擅长谈论自己的事情，眼下的任务才是重点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/03656baf641dc3571785e94fbb0403d8_4310426183871233325.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其二",
+          "text": "我没有父母，是一个叫罗斯特的男人抚养我长大的。他有点严厉，不过心肠很好，也很大方。他教了我很多东西，嗯…我很想他。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c4db1a246d0c22886cc8d601cb09265e_1053924937006450616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其三",
+          "text": "以前，我花了很多时间在寻找我的生母，却没能找到「她」。取而代之的是，我找到了一些远古的留言，是我的…「克隆母体」留下的。听着那些留言，我觉得她似乎很了解我，也很会鼓励我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fc37caed35765cc4b75838ef44846e1a_5923845290023561692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其四",
+          "text": "在成长的过程中，我没有什么朋友。虽然后来在旅途中认识了一些人，但当我离开那个世界时，我和他们的关系还称不上熟络。所以，能和你一同度过这么多时间，成为朋友，我真的很开心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/430bc200c45c76b2c6e0e00aa9a16162_7122433612031577026.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其五",
+          "text": "我不会轻易信任他人，但我确定你是可以信任的。你是我真正的伙伴，我可不经常这样评价别人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9bd6a6b6c3244118a99c8b3ff1382041_1205130893741317436.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "埃洛伊的爱好…",
+          "text": "我不太清楚自己有什么爱好，「阅读古物」算一个吧。嗯，那就…历史？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8e9427674af83fc3cc5751050bc10ab7_725892639433571862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "埃洛伊的烦恼…",
+          "text": "除了我自己的世界，现在又多了一个世界需要拯救。唔…时间总是不够用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae11daf3a9a0fd58b1b426b633070993_1429953944064854379.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我不挑食。只要不饿着肚子旅行，吃什么都行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/10d792d1f67f3f73b050a81f43e903fd_4459745113250392314.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我吃过一次「奥斯拉姆炖肉」，稠得都能当沥青铺路了，呕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a6eb83eca7f799604b41972447ad620e_8379801275667859471.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "我从来不怎么在意生日。在我出生的世界，大家都会纪念母亲，没人庆祝自己的生日。不过先不管那些。嗯…祝你生日快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/744eab5dc19987cca4b793624ebe5521_4623837466514407547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "很好，咱们进展不错。但可不能止步于此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1f03143dc929ba7fbb6fec2197cda9f6_7354124914719582965.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "有所成长，变得更强了，是件好事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f030a289607672cc02081a28126699b9_4806503287667789991.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "无论现在是多精湛的猎手，总还能更进一步。不要因为自满而止步，不要停止学习。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8f2559c8d9d051ea6731dd361c897268_8243415071269702728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我们刚开始搭伴旅行时，对我而言，你还只是一个陌生人，来自我所不熟悉的世界。但既然如今我们已经一同经历了这么多，我可以向你保证：我的弓永远与你同在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/50739e8de71e4c2068a6ae82811f764c_8902775694175679303.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "这玩意是会炸的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/31fabc6b55989dca9f3a946b7a0856b5_5316370436600300076.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "猎手的小玩具。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ac0489b6bf0ab7192041e2ecdaec970e_334859861012296404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "见过这个吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7684a89d1c377f05effaeffe3dccd126_6020766558493789163.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "禁锢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/17bc2a5652a58ece65a5b237e4b432e0_8624446237411585942.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "一点新技巧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f5e8b77d2249bc3a789ffffab5c56e4a_954941262182396209.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "这里是我的猎场！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b87a319456feb2b03b4d3f47f4a3891f_2878129938197256517.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "这玩意用着还不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/69a1e066cd52b1c610af6e3d9e7c657b_4580248072746875657.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "嗯…算是些有用的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea229da5eca27842392c6582b8b911b4_4802869575074680890.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这些能吃…这些能用…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a32f0ec13fe4630d2d5b5bf5eb31f573_6304749115231300505.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这些，到底是谁留在这的呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e3f2d16a2074138c80838057d44b77af_137677395461342447.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "棘手的猎物…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f3e9e283169f685a58f77522c92f1822_7341082444388169854.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "弱点在哪…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6a0b865b93f3def112eb995e902659db_5939176910392726239.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "大意了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a35da0b2177c7bc00485cca5bcb33b8a_2843276627146357725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "当心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/300fa2dce593345ce997a31d8647f82d_360404673977684184.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "别太冒进！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8fc7f143a5f46369319d8cc976ffc38b_3606252983846879259.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "哪里…出了错…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/02bbd1152f2ae28c31afc9747fe6e9ad_8760690957260830864.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "抱歉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b6fb4b9f28aa387cadae4dc6c13194ff_1595889790633425863.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "失败的狩猎…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0edca58b97e8863d6ed402440a20b565_5912024436116158285.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c2bcbfe189078bb5a67773316635c1bd_2953568326315056971.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "小问题…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/6b38a3eb62bc9cf0a25db38062869b7b_5222938990937561426.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "呃！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/01556e1f10da4eacdcef19050df70398_4875815043649397100.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "有点麻烦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/55e84e84218f42b5693ba115d7d54e71_9082816673529814661.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "这次要去哪转转？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/12bf67d0875f3631d310beced08975e8_6073282851871160765.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "埃洛伊，加入狩猎。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6b1d364ae9bae80dd3edf37edaa4defc_3470467582807226013.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "需要帮手吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de184d0d6d11b34f8f9000e9d08e8042_4917783417693877853.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是埃洛伊，虽然对这个世界还不太了解，但我的弓和箭随时为你所用。如果你的队伍需要我，我会倾力相助。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea10ed9d2152778455fbdd5045d92a13_5277748050565906244.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·动身",
+          "text": "别闲站着了，该动身了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f133c642dbc5eaa9dadd266d518083e9_4554357325078082156.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·帮助",
+          "text": "现在不该停留，还有人需要我们帮助。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cb0574e2d2aefa517c977b74f3480d97_7542360684124237117.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "雨，可以洗净脏污。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e1d2da06969e2867573d8707ff5412c9_8379851834754480436.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "雨停了，该把自己晾一晾了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0566bc88105a91c5af0e8e0ed1c06eac_584556368615981162.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "下雪时，似乎整个世界都静下来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1b56041077097a4c559f369e38a46690_4973234436424948219.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "又起风了，在风中呼吸的感觉真不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/29997f92a42ba14d0c95576a379b5a61_8024476475685103861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "风烈起来了，刮得脸上生疼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2aa440c2323678a07ed409ee7efea1e8_1850329394853915700.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好。世界又充满了活力，我也一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/116afacb679c84d288542557b80abb78_3491140922305256003.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "日已过半，我们还有不少事要忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a40b4e243290f97830704f501d82f6f7_7554840609298670468.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "太阳落山了，再过不久星星就要出来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/181f5dd2d57df584923eb38280c66de6_4082333955223593146.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "晚上好。该休息了，除非你想借着星光继续行动。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8e772ab49045253314ae8e6ad66e1cfa_3962711129092213108.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于埃洛伊自己…",
+          "text": "我从小就是个流放者，那段日子很不好过。但在这里，即便是对待我这样的外人，大家也比我所降生的那个部落友好的多。感觉…很好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9fc4bb22f518e126129c45b45f657404_7373577001307970255.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·行动",
+          "text": "我的一切行动都是为了拯救生命，而非带来死亡。这就是我与你并肩战斗的原因。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/33543358fb0a63f65fbfecc060095ae9_3188878379212507228.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·誓约",
+          "text": "立誓什么的，有点太循规蹈矩了。不过如果你想要我的誓约，那我的誓言与你同在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0aa147b8d6f24d28d58119748b6efa31_5493177523575003073.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·前进",
+          "text": "我会尽全力与你一起前进，直到终点。我不会踌躇，也不会辜负。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0f94366b49492f98e69da39287e9ec84_1277354984840118791.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "如果说有什么可以分享的话，那一定是我的弓与箭，我只为扶助他人而使用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae0346cfb6c3e0beeb7bf9bd26e34e5a_2061932326044216942.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "和我那边的世界一样，这片天地的过去也充满了秘密。如果能有足够的时间，我一定要把一切秘密都揭开。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6ab6ba8522dfe103b6879b70e997de59_5813624323235303912.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其一",
+          "text": "我不太擅长谈论自己的事情，眼下的任务才是重点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/15ad8012cb31c11d54a713723d3f3d34_8729566333495927235.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其二",
+          "text": "我没有父母，是一个叫罗斯特的男人抚养我长大的。他有点严厉，不过心肠很好，也很大方。他教了我很多东西，嗯…我很想他。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/92eb5ef56da52ed209f74a639f511e69_1395030787220584646.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其三",
+          "text": "以前，我花了很多时间在寻找我的生母，却没能找到「她」。取而代之的是，我找到了一些远古的留言，是我的…「克隆母体」留下的。听着那些留言，我觉得她似乎很了解我，也很会鼓励我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4204d455871bfd5f738df701837cfd86_7271230705239994446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其四",
+          "text": "在成长的过程中，我没有什么朋友。虽然后来在旅途中认识了一些人，但当我离开那个世界时，我和他们的关系还称不上熟络。所以，能和你一同度过这么多时间，成为朋友，我真的很开心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/744aed2243797b8e043398a2b7c26073_8904857886452073484.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解埃洛伊·其五",
+          "text": "我不会轻易信任他人，但我确定你是可以信任的。你是我真正的伙伴，我可不经常这样评价别人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fc770703a813f7a29047e8936c94318b_8861512178596694400.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "埃洛伊的爱好…",
+          "text": "我不太清楚自己有什么爱好，「阅读古物」算一个吧。嗯，那就…历史？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f71bb399cc200000a39b4f651d8078a_4371517414068104741.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "埃洛伊的烦恼…",
+          "text": "除了我自己的世界，现在又多了一个世界需要拯救。唔…时间总是不够用。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1be7f46d27bf6fef732dcb06d8b6d509_8536181700799094589.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我不挑食。只要不饿着肚子旅行，吃什么都行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/35d84a8c28c32593ed23e8298310c2d2_732472043067133420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我吃过一次「奥斯拉姆炖肉」，稠得都能当沥青铺路了，呕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dfda0d12a4e57dc6a78c2e7a92942d23_1089939922170943794.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "我从来不怎么在意生日。在我出生的世界，大家都会纪念母亲，没人庆祝自己的生日。不过先不管那些。嗯…祝你生日快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b155289c1985f303795b3e2e774f902f_2928727912529414130.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "很好，咱们进展不错。但可不能止步于此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5af080af14a52e3e94e1eb6c58d140c7_3996373214438584821.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "有所成长，变得更强了，是件好事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0f0a5750143c162a6065833c774cef7d_7733321124283342115.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "无论现在是多精湛的猎手，总还能更进一步。不要因为自满而止步，不要停止学习。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/013c41265800f4d8c8c4fdef6ffba4de_1513197486209147400.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我们刚开始搭伴旅行时，对我而言，你还只是一个陌生人，来自我所不熟悉的世界。但既然如今我们已经一同经历了这么多，我可以向你保证：我的弓永远与你同在。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3676487a58b7cc0ac5108d940c1921a0_6456741263755182499.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "这玩意是会炸的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b3a11be2183eb25e0617d65ac3223b60_2330302225217611353.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "猎手的小玩具。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fea1c79a7edd6e08fee12542b146fda3_6802001858785573730.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "见过这个吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2f1536e5952a8417c36b407d4054b694_5698407750087048017.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "禁锢！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9493e941e42360e1e261ee0fbcb33887_1412064689320418216.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "一点新技巧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d9a6cb91d62d96e8d9d87f8fbd22f1c_2146434314738094856.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "这里是我的猎场！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/24efb0c6c3e99aeb2e5ce146ecf8a609_6227835014687529757.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "这玩意用着还不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d930d3c6635a31c5a8c234e65b3e1e0f_7250112493440074986.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "嗯…算是些有用的东西。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4e0a2d468604e325eda46087fc125363_2130217161226978993.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "这些能吃…这些能用…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/37e763fa04dd73dee570b1894997f019_7236361001836849806.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这些，到底是谁留在这的呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a00a1a11cc61c05dfe0622fd9885fc8_3148342537029428488.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "棘手的猎物…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b50fe89f1a0ce15b953488f69fb028da_9152963355481702720.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "弱点在哪…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/30940eac7d6ac0ff07980c11e604001e_6315949913699765372.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "大意了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea6b8039a82b68704fc7f38f518ce2f2_6035648971452402973.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "当心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/8823a67469ff0bd518d5c13dad071b39_1320045266753911744.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "别太冒进！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/cca90ed10e1054d677106aaeff81440e_599565948532982773.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "哪里…出了错…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8b9aa529f4980f18234339c407eb96ce_5182917944318504868.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "抱歉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3899692c215ddceeff685052dbd18eea_3826991620654263385.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "失败的狩猎…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/49e7de7ec07844cf9af8c08dc5cb5ddf_1325129010986033258.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/7b931c6ebda1cf2b1b6c3df81f8eecb4_3398717661811502033.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "小问题…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/19a7d77563713c9d34289e0d24f1fc1a_7584464630541219772.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "呃！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d27471d269a77d3de43900cdff21431f_4746858647749231759.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "有点麻烦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/284f725a52e9673b9181dfbf343e3a76_3938963925880922409.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "这次要去哪转转？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fd9e21fb09f99cb124684ddd7c60fd06_5213524956181608761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "埃洛伊，加入狩猎。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3ed5414a7d48fd8920e54524cf9a6ba7_255246572835421575.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "需要帮手吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8211be6ae7c273850157792b59ff993_4861688564774073117.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

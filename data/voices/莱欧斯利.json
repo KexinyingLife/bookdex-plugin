@@ -1,0 +1,1613 @@
+{
+  "id": "500286",
+  "name": "莱欧斯利",
+  "alias": [
+    "莱欧斯利"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，请尽量简洁地说明你的来意。嗯？不是公事？那我反而更紧张了。坐下详谈吧。顺便一提，你可以称呼我「公爵」，他们都是这么叫的，我也听习惯了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/3a7a917d548e5c4b9e298bbda47d3595_4391693671271229324.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·贴纸",
+          "text": "如果看到我背后粘着美露莘画的贴纸，帮我揭掉吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/b69af4bd4a4b284711a618f8fcb43e34_8507244393922080311.mp3",
+          "audioName": "02闲聊·贴纸_cn.mp3"
+        },
+        {
+          "name": "闲聊·宠物",
+          "text": "我曾经考虑过要不要在办公室里养宠物，但小猫小狗在不见阳光的地方生活太可怜了。还是算了吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/9c4f01638957595285339a6f601d3797_680210334915091536.mp3",
+          "audioName": "03闲聊·宠物_cn.mp3"
+        },
+        {
+          "name": "闲聊·忠告",
+          "text": "不要违法。还有什么需要叮嘱的吗？哦对了，不要违法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/f4876f5b51da9e4f71fdf999b727c0dd_7309456786713494836.mp3",
+          "audioName": "04闲聊·忠告_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨了？还好。要是在梅洛彼得堡感到头顶滴水的话，问题可就大了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/0cd7ecc08628f891f85fd4ba4dd8c352_4350786365561838380.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "心中无罪的人，在这种天气下也能安睡吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/0b93506ee8549154d5f9afc48a48c5db_2924261861701027957.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嗯…和水下的冷不太一样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/10c412131c32955550f6fc8e1019f4ee_8012654920216426421.mp3",
+          "audioName": "07下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "「太阳之下无新事」，但可以找个好地方野餐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/a6b911ef6242cb77516b96b2a6cccc09_194057430223437239.mp3",
+          "audioName": "08阳光很好…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早。晨报上的天气预测怎么说？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/e8aa867c882bc07e78275c8a83958f8f_7183596887095906597.mp3",
+          "audioName": "09早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "现在特许食堂人正多，我叫人送餐到办公室来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/85166b48dd8973f6264833a9f73fa5cb_1366035400613074942.mp3",
+          "audioName": "10中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "都这个时间了？总觉得才刚刚喝过下午茶。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/100c031716cb2cdd08ffbbcb9016f7e8_3820641883464573021.mp3",
+          "audioName": "11晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。我要等会儿再睡，趁夜深人静正好算几笔账。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/0441efa7759b747c0dc14dba801fd1d8_3421488153449217523.mp3",
+          "audioName": "12晚安…_cn.mp3"
+        },
+        {
+          "name": "关于莱欧斯利自己·误解",
+          "text": "他们不是把我想得太神秘，就是太全能了。我只有一双眼睛、一对耳朵，怎么可能照顾到梅洛彼得堡的每一个角落呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/6ccfbe24082635b24ed4afa80cd2708c_352668989441156770.mp3",
+          "audioName": "13关于莱欧斯利自己·误解_cn.mp3"
+        },
+        {
+          "name": "关于莱欧斯利自己·小憩",
+          "text": "我早已服完刑，现在是自由公民，当然可以来水上闲逛。不必担忧。要是梅洛彼得堡必须要我一直待在下面才能稳定运转，那也太不健康了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/1fb74db1b15b947fa62669f06ccf2f81_40438815710543181.mp3",
+          "audioName": "14关于莱欧斯利自己·小憩_cn.mp3"
+        },
+        {
+          "name": "关于我们·收监",
+          "text": "我对很多人的第一印象都是从收监登记表开始的，看来你也没能例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/89f524f4809690f6097f9bdd6e0566e2_3035946851538780272.mp3",
+          "audioName": "15关于我们·收监_cn.mp3"
+        },
+        {
+          "name": "关于我们·出狱",
+          "text": "都说没了利益牵扯才好做朋友，我们可以现在开始。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/bbdd0a3c5a79baf08c5aea8d7dae91a5_3971610923695904003.mp3",
+          "audioName": "16关于我们·出狱_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我以前跟一些罪人学过借助化学药剂使用元素的方法。无论「神之眼」的发放归哪个部门管，他们似乎不是很介意这点僭越之举。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/c9b8e7d8a00761f441ebdf80e791541e_193731991975020591.mp3",
+          "audioName": "17关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "知道怎么做更容易逃脱警备队的抓捕吗？给自己起个又长又难记的名字，然后他们在大喊「那个谁，把手举起来！」时就会卡壳。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/b8dfbea73f6447719bc4d292dbb8aff4_6776501674408807930.mp3",
+          "audioName": "18有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「不劳动者不得食」，这句话很久以前就刷在梅洛彼得堡墙上了。我也不知道是谁安排的，在水下的确很实用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/367402fdb8fa071eae750df6a027c4aa_2167229468011396048.mp3",
+          "audioName": "19感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "记得有次被那维莱特叫去上面谈事情，走到沫芒宫门口正好看到他在路边淋雨。我替他打了伞，他礼貌地道了谢，表情却不大自然。我大概是打扰到了什么吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/bd665f4987f1b9b1317adb8bb873eca6_1063025587550244735.mp3",
+          "audioName": "20关于那维莱特…_cn.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "可能是因为我认罪太快，芙宁娜小姐在当年的审判中看起来兴致索然，早早就退场了。让水神大人失望可是大事，只好今后多给她送些好茶了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/0c3636bf987832fd5afcba0a6f554104_6147551825649926501.mp3",
+          "audioName": "21关于芙宁娜…_cn.mp3"
+        },
+        {
+          "name": "关于希格雯…",
+          "text": "希格雯护士长具备一名医护人员所需的全部美德，并关心着身边每一位同伴。不过她似乎从我身上学走了一些坏习惯，比如时常和她的美露莘朋友们打赌，看谁能偷偷在我的东西上贴更多贴纸。不，我并不觉得困扰。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/01158bf5350a2a0ef9bc547f14400a92_6943234736143250042.mp3",
+          "audioName": "22关于希格雯…_cn.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德应该是你能找到的最好的决斗代理人了，实力有目共睹。我从未和她比试过，没有那个必要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/761b6699eac74c6c7ea1252a012ecb7f_5177447828009474819.mp3",
+          "audioName": "23关于克洛琳德…_cn.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "我承认，拔除「壁炉之家」安插在水下的眼线是种挑衅。而他们的回应是只派几个孩子下来，的确令我有些难办。是真心觉得他们也可以被牺牲，还是看准了我不会对小孩下狠手呢…唉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/03226aa373d4f1a585d7a4cf61b85546_6923974515363619706.mp3",
+          "audioName": "24关于林尼…_cn.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "梅洛彼得堡和刺玫会有一些物资方面的合作，但仅限于此。并不是不信任娜维娅小姐或是质疑她的能力——实际上恰恰相反——只不过，我们之间水下水上的事务互不干涉是我与卡雷斯先生约好的规矩，维持不变就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/7570dfeabdae9e262eefd755ea75482a_2791001471241207317.mp3",
+          "audioName": "25关于娜维娅…_cn.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "梅洛彼得堡应该用不上她的服务，有些痕迹就是作为「前车之鉴」被留下来的。…气味也是痕迹的一种，不是吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/cc01f77f8e64239258e447fddcc77491_7995060258667380689.mp3",
+          "audioName": "26关于艾梅莉埃…_cn.mp3"
+        },
+        {
+          "name": "关于夏沃蕾…",
+          "text": "被特巡队关照过的犯人大多挺老实的，这位队长功不可没。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/ef93e5c0a55684dd21725585ea65234c_5656508355561777358.mp3",
+          "audioName": "27关于夏沃蕾…_cn.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其一",
+          "text": "理论上来讲，完全不认识我的人会比较幸福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/b27d4ecf3231db7d23a38cb697a8908e_3437551542427825209.mp3",
+          "audioName": "28想要了解莱欧斯利·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其二",
+          "text": "身上的疤痕？曾有深海巨兽企图占领梅洛彼得堡，我和它搏斗时被抓伤了。…当然是假的，不要信。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/c0e92c1819ef20ba2385364825b78640_8401332251512980920.mp3",
+          "audioName": "29想要了解莱欧斯利·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其三",
+          "text": "你知道吗，手铐只要型号相近，大部分都能用通用的钥匙打开。只有我这副不一样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/0f6dfdd9813749e46003c0b9448162ed_207492166534911417.mp3",
+          "audioName": "30想要了解莱欧斯利·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其四",
+          "text": "我的个人能力其实很有限。你看，我既不会治病，也不会搞发明，更不会造大船。我只是知道该去哪里找人做这些事，而他们恰好愿意卖我这个面子而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/e789d9bbb793a535f93a13affaa13cac_3938392451282102785.mp3",
+          "audioName": "31想要了解莱欧斯利·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其五",
+          "text": "我现在过上了还不错的生活，但也仍然羡慕一些我得不到的东西——比如安逸快乐的童年，和轻易信赖他人的能力。可能有人认为这很矛盾，或者难以启齿，我倒觉得没什么不好承认的——何必和自己的本心过不去呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/c2677e595965de3fb25be7d93ee1420e_8189342899658382059.mp3",
+          "audioName": "32想要了解莱欧斯利·其五_cn.mp3"
+        },
+        {
+          "name": "莱欧斯利的爱好…",
+          "text": "拳击？不算是爱好吧，只是生活所需。你有什么其他推荐吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/4b9bf4b30885e85c8fbf9fd234c6d463_8987111157740601598.mp3",
+          "audioName": "33莱欧斯利的爱好…_cn.mp3"
+        },
+        {
+          "name": "莱欧斯利的烦恼…",
+          "text": "我确实有着枫丹人的长相，但没法百分之百肯定——只能跳胎海水确认咯？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/e247666e694b29598d0618aa499e49e0_2207953713100637822.mp3",
+          "audioName": "34莱欧斯利的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "喝咖啡时我习惯加奶，茶的话，两块糖就好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/502416456da1931a424931dd68d84878_2607565085949416588.mp3",
+          "audioName": "35喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "你喝过护士长做的奶昔吗？能从中尝出…「荒芜」的味道。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/1a2bc11405a8d16f3423b0d6a9f2c87a_9059427478098817507.mp3",
+          "audioName": "36讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "完美的调味，我就不擅长这个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/3a3f479333420ba00df40b3f655b00d5_5820137311680210622.mp3",
+          "audioName": "37收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "好吃。下次换我请客。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/25cda120c09e5d47c6401b92cb2a8120_5966023228724631385.mp3",
+          "audioName": "38收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "等我去泡杯茶。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/4bbbe2c2f00c89fdf174da14bb763195_8343714848546073992.mp3",
+          "audioName": "39收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "枫丹的孩子是伴随着双亲的心愿与祝福诞生的，不过我愿意相信这世上的每一个人都是如此。和这个比起来，我的祝愿就有些微不足道了。不，如果你犯事的话我是没办法帮你减刑的，只能在今天给你安排一份特殊的福利餐。所以生日期间还是安分一点，保证我们可以在水上庆祝，好吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/7aafdabd86d069d86cefa6d911e26451_7540005404499250196.mp3",
+          "audioName": "40生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "能获得你的信任，是我的荣幸。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/60fabd90f2dc16614130066304e1bdd2_8287364267533077794.mp3",
+          "audioName": "41突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这下必须还你一个人情了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/37fc41a81f299690d7f7c8bd1746c2e4_3465881858986527289.mp3",
+          "audioName": "42突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "哈，你怎么看起来比我要得意？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/8cc1da9ba04799fc724fe1e48f1ebe27_4554187076554969078.mp3",
+          "audioName": "43突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我喜欢力量和希望的信号，会让我感觉未来一切向好。这并非悲观，只是陈述事实，因为现实本就不可能一帆风顺。但有个好消息，就是当坏事发生时，我们可以站在同一阵线，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/43daed9e2caa956619cad7adabc2257b_526727464707078349.mp3",
+          "audioName": "44突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "开始吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/99633fb6564e941cee4f29e244adcc1b_2567664866916602362.mp3",
+          "audioName": "45元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "别跑啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/896c10aa9a9a6f3981ae3d142cb06558_2549586246794286483.mp3",
+          "audioName": "46元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "请留步。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/8ace4511cae26af6e70f4339969d4294_4781029809837049763.mp3",
+          "audioName": "47元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "一路顺风。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/ca1fd7c0385a13497d93d6b0916129de_1501875031050219757.mp3",
+          "audioName": "48元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "注意防寒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/c8cf925b263d35c747d901cc49d1d90d_5295357291771751111.mp3",
+          "audioName": "49元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "无需畏惧，直面罪责。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/4127c7fdb7bd7b7273ca4beea191f8e2_3131009286819508032.mp3",
+          "audioName": "50元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "没有锁吗？真方便啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/9b5e23cea7bc7488a92589acc6e497f4_5662000255819968432.mp3",
+          "audioName": "51打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "先收好吧，总能派上用场。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/d3e166a40305b749f45def568049bc94_7773609090986110803.mp3",
+          "audioName": "52打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "无主之物最好归公…所以这里什么都没有，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/5d0f0cdabed653fa0520226c208e4ca5_2739507301591869632.mp3",
+          "audioName": "53打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不慌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/bfb8ceae0f13c4759771a3f5fc6f15e5_745137879007179227.mp3",
+          "audioName": "54生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不叫增援？也行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/3dc90e7dee4ca37505bd391a109c4935_8230436690010631343.mp3",
+          "audioName": "55生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "见机行事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/11c561bd4617d3c8d98c5e30f45d16ab_4941033652959661709.mp3",
+          "audioName": "56生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "退后。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/def719b933c679f361a9ec049ed08327_1344433881614016737.mp3",
+          "audioName": "57同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "去医务室。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/28ba7c26e66530ce91f79f15701482d6_2855455057492768211.mp3",
+          "audioName": "58同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "抱歉，没能守住…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/1b663d4215f18f8ff49ebb905a15f468_7671179325197517529.mp3",
+          "audioName": "59倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "孤注一掷的后果…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/0c4d6cbe7da4ee49c0e571d779357581_741177953726381898.mp3",
+          "audioName": "60倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我没有异议。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/e1a191db4d46f445b263be25d36c72c5_403871102214009094.mp3",
+          "audioName": "61倒下·其三_cn.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "这么客气？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/04ecc131ecc7abbf48803d2a0a0fa97d_1690045151004976568.mp3",
+          "audioName": "62普通受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "…还可以。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/d6fdaad4d23f8188dd00ab9ed74877a2_8931081148975246396.mp3",
+          "audioName": "63重受击·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "开工。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/6c61d3c9b2fdcd3fb3c0a4b90355ce9c_2779119548363072281.mp3",
+          "audioName": "64加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "请我出外勤？走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/3eb392d9c792c3b2934ddabea36b42ef_6353562103022209535.mp3",
+          "audioName": "65加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我尽力，但不保证赢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/562872a34169c6b3c13561de2068aa23_1479488934504969991.mp3",
+          "audioName": "66加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，请尽量简洁地说明你的来意。嗯？不是公事？那我反而更紧张了。坐下详谈吧。顺便一提，你可以称呼我「公爵」，他们都是这么叫的，我也听习惯了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/b0ea6867e54ef1100cc4b797c29c6efe_3598407005800568196.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·贴纸",
+          "text": "如果看到我背后粘着美露莘画的贴纸，帮我揭掉吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/34b452520f5442a804165e31a6768244_4568265492039280285.mp3",
+          "audioName": "02闲聊·贴纸_jp.mp3"
+        },
+        {
+          "name": "闲聊·宠物",
+          "text": "我曾经考虑过要不要在办公室里养宠物，但小猫小狗在不见阳光的地方生活太可怜了。还是算了吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/41da2a5b3408bb28a4fabb80c553a34e_7901557000440012367.mp3",
+          "audioName": "03闲聊·宠物_jp.mp3"
+        },
+        {
+          "name": "闲聊·忠告",
+          "text": "不要违法。还有什么需要叮嘱的吗？哦对了，不要违法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/e05f7e7d9f955751478c61869b59ae42_4861280486110823876.mp3",
+          "audioName": "04闲聊·忠告_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨了？还好。要是在梅洛彼得堡感到头顶滴水的话，问题可就大了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/e2bda9e18bf30a3d0b8d7bd82f7952c0_5691602935374827112.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "心中无罪的人，在这种天气下也能安睡吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/f65ade1c4a590b7589f358ff34c7144e_678432746643822677.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嗯…和水下的冷不太一样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/691458161de8307bcf17d7eb2b953f8c_4915606754898441849.mp3",
+          "audioName": "07下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "「太阳之下无新事」，但可以找个好地方野餐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/bcba80fc313376cf08858c8823d67635_6956414884690881818.mp3",
+          "audioName": "08阳光很好…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早。晨报上的天气预测怎么说？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/371c9cdf92732bce945ede62dc03458b_6384109559394086576.mp3",
+          "audioName": "09早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "现在特许食堂人正多，我叫人送餐到办公室来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/5e9264ae12ffca4ab1905be629c6dd43_8803969821634312108.mp3",
+          "audioName": "10中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "都这个时间了？总觉得才刚刚喝过下午茶。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/31cfe8a61fba050ba97ab4173f900438_93154025353985606.mp3",
+          "audioName": "11晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。我要等会儿再睡，趁夜深人静正好算几笔账。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/badf527b5c88118728ef39f265177774_8482293483654618409.mp3",
+          "audioName": "12晚安…_jp.mp3"
+        },
+        {
+          "name": "关于莱欧斯利自己·误解",
+          "text": "他们不是把我想得太神秘，就是太全能了。我只有一双眼睛、一对耳朵，怎么可能照顾到梅洛彼得堡的每一个角落呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/3ce6cc38bb795525501bb267562605a9_3165519990731315629.mp3",
+          "audioName": "13关于莱欧斯利自己·误解_jp.mp3"
+        },
+        {
+          "name": "关于莱欧斯利自己·小憩",
+          "text": "我早已服完刑，现在是自由公民，当然可以来水上闲逛。不必担忧。要是梅洛彼得堡必须要我一直待在下面才能稳定运转，那也太不健康了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/b67b2e3b3cfd1cd4f9ac2ce8137c5144_8281348990045185478.mp3",
+          "audioName": "14关于莱欧斯利自己·小憩_jp.mp3"
+        },
+        {
+          "name": "关于我们·收监",
+          "text": "我对很多人的第一印象都是从收监登记表开始的，看来你也没能例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/bebf6a4ec0bc42d74a95113c193d8682_5197610653195970775.mp3",
+          "audioName": "15关于我们·收监_jp.mp3"
+        },
+        {
+          "name": "关于我们·出狱",
+          "text": "都说没了利益牵扯才好做朋友，我们可以现在开始。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/e7d858eae6613f96c27d36e91ce72546_4626668420555608092.mp3",
+          "audioName": "16关于我们·出狱_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我以前跟一些罪人学过借助化学药剂使用元素的方法。无论「神之眼」的发放归哪个部门管，他们似乎不是很介意这点僭越之举。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/eacef534838f9732fde7f17d1f58ae9e_2312238254731410791.mp3",
+          "audioName": "17关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "知道怎么做更容易逃脱警备队的抓捕吗？给自己起个又长又难记的名字，然后他们在大喊「那个谁，把手举起来！」时就会卡壳。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/c1ab557539b7c95107fc8538fa07250b_1127054419760234802.mp3",
+          "audioName": "18有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「不劳动者不得食」，这句话很久以前就刷在梅洛彼得堡墙上了。我也不知道是谁安排的，在水下的确很实用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/cc5cd86ed8add1942aee7fabd43a8126_7477440934241703812.mp3",
+          "audioName": "19感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "记得有次被那维莱特叫去上面谈事情，走到沫芒宫门口正好看到他在路边淋雨。我替他打了伞，他礼貌地道了谢，表情却不大自然。我大概是打扰到了什么吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/1f294b0ef6a4fddc5980e7de64b7fe58_5267263996742886335.mp3",
+          "audioName": "20关于那维莱特…_jp.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "可能是因为我认罪太快，芙宁娜小姐在当年的审判中看起来兴致索然，早早就退场了。让水神大人失望可是大事，只好今后多给她送些好茶了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/f8d8679709db1731ef104af63fc4f893_9142566616729106617.mp3",
+          "audioName": "21关于芙宁娜…_jp.mp3"
+        },
+        {
+          "name": "关于希格雯…",
+          "text": "希格雯护士长具备一名医护人员所需的全部美德，并关心着身边每一位同伴。不过她似乎从我身上学走了一些坏习惯，比如时常和她的美露莘朋友们打赌，看谁能偷偷在我的东西上贴更多贴纸。不，我并不觉得困扰。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/36f48aa1e99f41e8958c7595f94154d2_2102139307690191166.mp3",
+          "audioName": "22关于希格雯…_jp.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德应该是你能找到的最好的决斗代理人了，实力有目共睹。我从未和她比试过，没有那个必要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/5f2dd95f68ecdb42bb5638aae4f9a04e_2282703089130419306.mp3",
+          "audioName": "23关于克洛琳德…_jp.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "我承认，拔除「壁炉之家」安插在水下的眼线是种挑衅。而他们的回应是只派几个孩子下来，的确令我有些难办。是真心觉得他们也可以被牺牲，还是看准了我不会对小孩下狠手呢…唉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/3324e1fbc1b48bbc35680a407b00ec44_2537597450603777743.mp3",
+          "audioName": "24关于林尼…_jp.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "梅洛彼得堡和刺玫会有一些物资方面的合作，但仅限于此。并不是不信任娜维娅小姐或是质疑她的能力——实际上恰恰相反——只不过，我们之间水下水上的事务互不干涉是我与卡雷斯先生约好的规矩，维持不变就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/fcbb45fbe6e224c6ae38cb8103b06e77_1938708939323619620.mp3",
+          "audioName": "25关于娜维娅…_jp.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "梅洛彼得堡应该用不上她的服务，有些痕迹就是作为「前车之鉴」被留下来的。…气味也是痕迹的一种，不是吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/25f83bbc8917e5088a7f751c2877ecb7_119207655634305668.mp3",
+          "audioName": "26关于艾梅莉埃…_jp.mp3"
+        },
+        {
+          "name": "关于夏沃蕾…",
+          "text": "被特巡队关照过的犯人大多挺老实的，这位队长功不可没。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/9d26d2519b3fddecc82b54a9030b5ee6_2941943343789692801.mp3",
+          "audioName": "27关于夏沃蕾…_jp.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其一",
+          "text": "理论上来讲，完全不认识我的人会比较幸福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/5247fc1928bae09d3f5e603f64516328_6175315853381779412.mp3",
+          "audioName": "28想要了解莱欧斯利·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其二",
+          "text": "身上的疤痕？曾有深海巨兽企图占领梅洛彼得堡，我和它搏斗时被抓伤了。…当然是假的，不要信。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/599ba9260eb346d6e0d9135229a73c3a_8977691188968408937.mp3",
+          "audioName": "29想要了解莱欧斯利·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其三",
+          "text": "你知道吗，手铐只要型号相近，大部分都能用通用的钥匙打开。只有我这副不一样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/7eda9b6d57ffe853860504a5e4537be1_27407025817440906.mp3",
+          "audioName": "30想要了解莱欧斯利·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其四",
+          "text": "我的个人能力其实很有限。你看，我既不会治病，也不会搞发明，更不会造大船。我只是知道该去哪里找人做这些事，而他们恰好愿意卖我这个面子而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/6bb09b92f72518bbd2f78464b74da97a_2444393396918433045.mp3",
+          "audioName": "31想要了解莱欧斯利·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其五",
+          "text": "我现在过上了还不错的生活，但也仍然羡慕一些我得不到的东西——比如安逸快乐的童年，和轻易信赖他人的能力。可能有人认为这很矛盾，或者难以启齿，我倒觉得没什么不好承认的——何必和自己的本心过不去呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/43c2f34910fefbdccc678affd4bff50b_7292554227721810150.mp3",
+          "audioName": "32想要了解莱欧斯利·其五_jp.mp3"
+        },
+        {
+          "name": "莱欧斯利的爱好…",
+          "text": "拳击？不算是爱好吧，只是生活所需。你有什么其他推荐吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/25fbc986a060cef223e9f56a825044a9_2326947504236584214.mp3",
+          "audioName": "33莱欧斯利的爱好…_jp.mp3"
+        },
+        {
+          "name": "莱欧斯利的烦恼…",
+          "text": "我确实有着枫丹人的长相，但没法百分之百肯定——只能跳胎海水确认咯？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/ac22cdde89dced3c940607b50dbdd378_2221617784615996468.mp3",
+          "audioName": "34莱欧斯利的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "喝咖啡时我习惯加奶，茶的话，两块糖就好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/53405271bfa3743a9f303233882457c5_7556259111392408319.mp3",
+          "audioName": "35喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "你喝过护士长做的奶昔吗？能从中尝出…「荒芜」的味道。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/ec5745935d7781fae7bffbb16f891919_1755508895395697501.mp3",
+          "audioName": "36讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "完美的调味，我就不擅长这个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/9c22865a857010bc15c6f0bf207ac781_2382438807823490360.mp3",
+          "audioName": "37收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "好吃。下次换我请客。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/72f5fd7941991559a579ddd2ed5894d5_5462420833221724993.mp3",
+          "audioName": "38收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "等我去泡杯茶。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/16e5538667aa6e4cb2491046a50d5ec4_6232064589287830716.mp3",
+          "audioName": "39收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "枫丹的孩子是伴随着双亲的心愿与祝福诞生的，不过我愿意相信这世上的每一个人都是如此。和这个比起来，我的祝愿就有些微不足道了。不，如果你犯事的话我是没办法帮你减刑的，只能在今天给你安排一份特殊的福利餐。所以生日期间还是安分一点，保证我们可以在水上庆祝，好吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/6474ed83f45693db407117553530680a_8895477502037519602.mp3",
+          "audioName": "40生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "能获得你的信任，是我的荣幸。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/060ea09e21824c2b96861496dec73b67_477424968886382930.mp3",
+          "audioName": "41突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这下必须还你一个人情了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/afe4ebc39ab00bdf11359a9712de92d6_3297684548059612897.mp3",
+          "audioName": "42突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "哈，你怎么看起来比我要得意？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/a7dceb4b02a0a355e62d1dc046e40bb8_4218303747467335627.mp3",
+          "audioName": "43突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我喜欢力量和希望的信号，会让我感觉未来一切向好。这并非悲观，只是陈述事实，因为现实本就不可能一帆风顺。但有个好消息，就是当坏事发生时，我们可以站在同一阵线，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/128fdedb5f6e4e1d94cb16385416bf36_5838112561773981663.mp3",
+          "audioName": "44突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "开始吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/6d8a13db865106908c8ff58ae8765ebc_4993537852861458587.mp3",
+          "audioName": "45元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "别跑啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/24db6ee7a395b40ff0fc4d50c62a70b8_3064803407891766901.mp3",
+          "audioName": "46元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "请留步。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/9478c8fc9765c2783ee00273a60c2fbd_5924251255178377028.mp3",
+          "audioName": "47元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "一路顺风。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/5038dabef2c2d4be4ae808787c76b1ef_1055396197833235901.mp3",
+          "audioName": "48元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "注意防寒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/e412f9470c8a784b7d0a68b7196d1357_516393695543799927.mp3",
+          "audioName": "49元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "无需畏惧，直面罪责。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/a71500443b32453b31d9daf9160260b0_2393795878572546226.mp3",
+          "audioName": "50元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "没有锁吗？真方便啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/6e10a44f1f99ce1f2a21c94b20b8b060_7368879463688546361.mp3",
+          "audioName": "51打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "先收好吧，总能派上用场。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/3dc80966dc356ea209a523b2ff60295f_5734905960029446204.mp3",
+          "audioName": "52打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "无主之物最好归公…所以这里什么都没有，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/20e911f5ee130241375ebac3abc1f198_4315580889157567956.mp3",
+          "audioName": "53打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不慌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/6522b982ce68f5f154bf7fb1fa0ef1e2_2275964284738725450.mp3",
+          "audioName": "54生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不叫增援？也行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/70d1029b51b9bc81a697ff47c890ed87_409155702610565253.mp3",
+          "audioName": "55生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "见机行事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/6ae58f70e73f2c34595086b434ac36d0_9203341296040146616.mp3",
+          "audioName": "56生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "退后。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/9aafa1260eeaa92aa750cd51cf1b3b2c_7886174867852027047.mp3",
+          "audioName": "57同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "去医务室。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/9173d7819b60ca185c69c95cffa0dc8f_5498071453143869335.mp3",
+          "audioName": "58同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "抱歉，没能守住…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/746a02ba83c7cd108284bf6f9dc387aa_2544872568172120387.mp3",
+          "audioName": "59倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "孤注一掷的后果…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/3bd14b1154ded9d89ad387a8f5d78de0_2872510932716522636.mp3",
+          "audioName": "60倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我没有异议。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/dd5b19fdc49c877ae5251c97eba7fb32_6838010368045060612.mp3",
+          "audioName": "61倒下·其三_jp.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "这么客气？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/477144b9fdc1c3e439c395772a26b320_8420708846133128432.mp3",
+          "audioName": "62普通受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "…还可以。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/4ca787f0509eabf35594c8f7810e7534_8311913980651741401.mp3",
+          "audioName": "63重受击·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "开工。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/4c2fc3547a8f45f5fb9451cfd2dfad9b_1261525348551897970.mp3",
+          "audioName": "64加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "请我出外勤？走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/b09b231f278da54b9ff165154e863546_366682284479598124.mp3",
+          "audioName": "65加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我尽力，但不保证赢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/d150b14bfce7e99d9f2954f29cb1ca32_30094196768419569.mp3",
+          "audioName": "66加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，请尽量简洁地说明你的来意。嗯？不是公事？那我反而更紧张了。坐下详谈吧。顺便一提，你可以称呼我「公爵」，他们都是这么叫的，我也听习惯了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/0a9597cb0ed263554a91ee1032618eea_3073440677793658117.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·贴纸",
+          "text": "如果看到我背后粘着美露莘画的贴纸，帮我揭掉吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/bb28881ca694aa0fda7e143d22bf4687_444013789084234808.mp3",
+          "audioName": "02闲聊·贴纸_en.mp3"
+        },
+        {
+          "name": "闲聊·宠物",
+          "text": "我曾经考虑过要不要在办公室里养宠物，但小猫小狗在不见阳光的地方生活太可怜了。还是算了吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/ce052398e93a70d23a01366036292fb3_5063040837488037746.mp3",
+          "audioName": "03闲聊·宠物_en.mp3"
+        },
+        {
+          "name": "闲聊·忠告",
+          "text": "不要违法。还有什么需要叮嘱的吗？哦对了，不要违法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/96e88dd798d4043dc342bd9361cdac52_5799986908494351081.mp3",
+          "audioName": "04闲聊·忠告_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨了？还好。要是在梅洛彼得堡感到头顶滴水的话，问题可就大了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/8ae14522278e7aa064dcd082a29f6ec6_8709783363634050578.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "心中无罪的人，在这种天气下也能安睡吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/42a533a9fd74b5be1acf169d1c48c2d1_527038656892457089.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嗯…和水下的冷不太一样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/77ab4a6ab44a30d0072e592020508282_114832643790957371.mp3",
+          "audioName": "07下雪的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "「太阳之下无新事」，但可以找个好地方野餐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/60f76495a5431849f16dc52be8e5525b_7103113817604301306.mp3",
+          "audioName": "08阳光很好…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早。晨报上的天气预测怎么说？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/2ddb6514a853b53de404fc43faa222b9_3889829459184771263.mp3",
+          "audioName": "09早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "现在特许食堂人正多，我叫人送餐到办公室来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/c0a0f26c17f242a5b17e269d417f5cf2_3123124665567753887.mp3",
+          "audioName": "10中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "都这个时间了？总觉得才刚刚喝过下午茶。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/b62d61bfb057e9d9b42e67c004d7d298_2420342241825373432.mp3",
+          "audioName": "11晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。我要等会儿再睡，趁夜深人静正好算几笔账。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/72196e163ba304f65f159d21481e3e6d_7406806198557911130.mp3",
+          "audioName": "12晚安…_en.mp3"
+        },
+        {
+          "name": "关于莱欧斯利自己·误解",
+          "text": "他们不是把我想得太神秘，就是太全能了。我只有一双眼睛、一对耳朵，怎么可能照顾到梅洛彼得堡的每一个角落呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/d4b7292d9218009bb8d6a2871b67feb6_1583021499633139367.mp3",
+          "audioName": "13关于莱欧斯利自己·误解_en.mp3"
+        },
+        {
+          "name": "关于莱欧斯利自己·小憩",
+          "text": "我早已服完刑，现在是自由公民，当然可以来水上闲逛。不必担忧。要是梅洛彼得堡必须要我一直待在下面才能稳定运转，那也太不健康了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/6591cda9b3c0e888f12b753a20c9a261_6836162128486507464.mp3",
+          "audioName": "14关于莱欧斯利自己·小憩_en.mp3"
+        },
+        {
+          "name": "关于我们·收监",
+          "text": "我对很多人的第一印象都是从收监登记表开始的，看来你也没能例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/49eda51384bbb61337110bba93900e0b_2056445770092557059.mp3",
+          "audioName": "15关于我们·收监_en.mp3"
+        },
+        {
+          "name": "关于我们·出狱",
+          "text": "都说没了利益牵扯才好做朋友，我们可以现在开始。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/a0e9f94e2530bd23d52b5e21d0153d44_3962480031037383220.mp3",
+          "audioName": "16关于我们·出狱_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我以前跟一些罪人学过借助化学药剂使用元素的方法。无论「神之眼」的发放归哪个部门管，他们似乎不是很介意这点僭越之举。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/89c6ce728029dd3438db78f19bad2af5_6600504388082972091.mp3",
+          "audioName": "17关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "知道怎么做更容易逃脱警备队的抓捕吗？给自己起个又长又难记的名字，然后他们在大喊「那个谁，把手举起来！」时就会卡壳。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/e44bbd6f0c3bf3bf578d0bc789926720_1643474546477148253.mp3",
+          "audioName": "18有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「不劳动者不得食」，这句话很久以前就刷在梅洛彼得堡墙上了。我也不知道是谁安排的，在水下的确很实用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/af9da9485a9b34133611b44486253cf0_3218481167496485186.mp3",
+          "audioName": "19感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "记得有次被那维莱特叫去上面谈事情，走到沫芒宫门口正好看到他在路边淋雨。我替他打了伞，他礼貌地道了谢，表情却不大自然。我大概是打扰到了什么吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/04b6a8c7c6b017759f41ac488f166645_1099082464440741665.mp3",
+          "audioName": "20关于那维莱特…_en.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "可能是因为我认罪太快，芙宁娜小姐在当年的审判中看起来兴致索然，早早就退场了。让水神大人失望可是大事，只好今后多给她送些好茶了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/dcc763ef596f99f7641c9827d474ebc0_937082002874093255.mp3",
+          "audioName": "21关于芙宁娜…_en.mp3"
+        },
+        {
+          "name": "关于希格雯…",
+          "text": "希格雯护士长具备一名医护人员所需的全部美德，并关心着身边每一位同伴。不过她似乎从我身上学走了一些坏习惯，比如时常和她的美露莘朋友们打赌，看谁能偷偷在我的东西上贴更多贴纸。不，我并不觉得困扰。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/7de89de62517b8f41f5a919906cf5974_3856165196746433799.mp3",
+          "audioName": "22关于希格雯…_en.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德应该是你能找到的最好的决斗代理人了，实力有目共睹。我从未和她比试过，没有那个必要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/dd68957a67faf15349f34167ddaab713_9049506753369823707.mp3",
+          "audioName": "23关于克洛琳德…_en.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "我承认，拔除「壁炉之家」安插在水下的眼线是种挑衅。而他们的回应是只派几个孩子下来，的确令我有些难办。是真心觉得他们也可以被牺牲，还是看准了我不会对小孩下狠手呢…唉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/71767ee58b7ff9aab02dba7c84c09912_1432747914297368686.mp3",
+          "audioName": "24关于林尼…_en.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "梅洛彼得堡和刺玫会有一些物资方面的合作，但仅限于此。并不是不信任娜维娅小姐或是质疑她的能力——实际上恰恰相反——只不过，我们之间水下水上的事务互不干涉是我与卡雷斯先生约好的规矩，维持不变就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/5eb3e3869dc8dde937d27aff79bacfc7_8649321356861565309.mp3",
+          "audioName": "25关于娜维娅…_en.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "梅洛彼得堡应该用不上她的服务，有些痕迹就是作为「前车之鉴」被留下来的。…气味也是痕迹的一种，不是吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/84f5fae7f769a0e36f4eed162221168c_5392834730144195467.mp3",
+          "audioName": "26关于艾梅莉埃…_en.mp3"
+        },
+        {
+          "name": "关于夏沃蕾…",
+          "text": "被特巡队关照过的犯人大多挺老实的，这位队长功不可没。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/85a991ccfed5a95925a820b21ba0fe88_233088597174747488.mp3",
+          "audioName": "27关于夏沃蕾…_en.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其一",
+          "text": "理论上来讲，完全不认识我的人会比较幸福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/c8dee45e771f605e319969b4ae3c5c6a_3725462279061828019.mp3",
+          "audioName": "28想要了解莱欧斯利·其一_en.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其二",
+          "text": "身上的疤痕？曾有深海巨兽企图占领梅洛彼得堡，我和它搏斗时被抓伤了。…当然是假的，不要信。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/ac31c9fdaaab5bb16ba40305bd55fd3f_1397835032105236975.mp3",
+          "audioName": "29想要了解莱欧斯利·其二_en.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其三",
+          "text": "你知道吗，手铐只要型号相近，大部分都能用通用的钥匙打开。只有我这副不一样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/aba56ea8fb86a302cba20d53f7b6b30d_6850144616452709510.mp3",
+          "audioName": "30想要了解莱欧斯利·其三_en.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其四",
+          "text": "我的个人能力其实很有限。你看，我既不会治病，也不会搞发明，更不会造大船。我只是知道该去哪里找人做这些事，而他们恰好愿意卖我这个面子而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/0005d49277b51473601730095432ae47_7100512364890832728.mp3",
+          "audioName": "31想要了解莱欧斯利·其四_en.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其五",
+          "text": "我现在过上了还不错的生活，但也仍然羡慕一些我得不到的东西——比如安逸快乐的童年，和轻易信赖他人的能力。可能有人认为这很矛盾，或者难以启齿，我倒觉得没什么不好承认的——何必和自己的本心过不去呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/e294566420336aed3417a3ecb49eebfd_5730450926896363042.mp3",
+          "audioName": "32想要了解莱欧斯利·其五_en.mp3"
+        },
+        {
+          "name": "莱欧斯利的爱好…",
+          "text": "拳击？不算是爱好吧，只是生活所需。你有什么其他推荐吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/3d10ab87f08a689ad6094458be3a1966_2300754673466563384.mp3",
+          "audioName": "33莱欧斯利的爱好…_en.mp3"
+        },
+        {
+          "name": "莱欧斯利的烦恼…",
+          "text": "我确实有着枫丹人的长相，但没法百分之百肯定——只能跳胎海水确认咯？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/b13ffec8c959ad0dd00d99d9ba7db6f3_652321548227129105.mp3",
+          "audioName": "34莱欧斯利的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "喝咖啡时我习惯加奶，茶的话，两块糖就好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/53c9cd75f8443733897345d5cc7f44f6_5207092150047452808.mp3",
+          "audioName": "35喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "你喝过护士长做的奶昔吗？能从中尝出…「荒芜」的味道。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/34c1f3fce1fdd63901f22ff699a71a86_4375966736302042713.mp3",
+          "audioName": "36讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "完美的调味，我就不擅长这个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/077513aa66e75aaa7e2dbf85a9541af9_4990545778039511428.mp3",
+          "audioName": "37收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "好吃。下次换我请客。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/bfdec6cf50a5f99eb8277a571c44f1e0_4256872502986534541.mp3",
+          "audioName": "38收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "等我去泡杯茶。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/c1a32db492c6426198317350a9d9fa7c_6019917772980401391.mp3",
+          "audioName": "39收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "枫丹的孩子是伴随着双亲的心愿与祝福诞生的，不过我愿意相信这世上的每一个人都是如此。和这个比起来，我的祝愿就有些微不足道了。不，如果你犯事的话我是没办法帮你减刑的，只能在今天给你安排一份特殊的福利餐。所以生日期间还是安分一点，保证我们可以在水上庆祝，好吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/4e26c7bb312264e0d428c63858306a80_9152296599700037829.mp3",
+          "audioName": "40生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "能获得你的信任，是我的荣幸。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/40d463b2b06efbad74547e849a2e7bf9_1190757756188519954.mp3",
+          "audioName": "41突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这下必须还你一个人情了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/8685e0a6adfaa625a80330fe2e1c8ab7_1925705239020163363.mp3",
+          "audioName": "42突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "哈，你怎么看起来比我要得意？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/9d4115232291ada945c292304b4ec29f_6316088236086755490.mp3",
+          "audioName": "43突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我喜欢力量和希望的信号，会让我感觉未来一切向好。这并非悲观，只是陈述事实，因为现实本就不可能一帆风顺。但有个好消息，就是当坏事发生时，我们可以站在同一阵线，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/2841ff0ea1936ae41275ee46010bf920_8097041516497703936.mp3",
+          "audioName": "44突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "开始吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/05493f9d9aadb097a3824b9e7e5b2be5_8518080505714919003.mp3",
+          "audioName": "45元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "别跑啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/cb82b7705c6586519ed2566523790559_6369436023449128795.mp3",
+          "audioName": "46元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "请留步。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/b33d44f841c50d50aeb819ef7d1d352e_4416297489695229383.mp3",
+          "audioName": "47元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "一路顺风。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/2f9a397186f48c47f6f492d511ddad9e_4283738592207642973.mp3",
+          "audioName": "48元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "注意防寒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/683a3b2fa9016885a54960c48c5ecb87_7274840488761826855.mp3",
+          "audioName": "49元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "无需畏惧，直面罪责。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/3215b86502aa898e6a4bbbc3834c26ff_6998071604829765278.mp3",
+          "audioName": "50元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "没有锁吗？真方便啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/ce37d89eba7211f6d10fdfd712d5d5f8_8627203231652235443.mp3",
+          "audioName": "51打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "先收好吧，总能派上用场。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/70cd01b8822ed7e5bf226ce6e50ff365_8757662169208550042.mp3",
+          "audioName": "52打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "无主之物最好归公…所以这里什么都没有，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/5f9fe6e12499a472b0b757feb3424952_1780777605461166862.mp3",
+          "audioName": "53打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不慌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/7fb12d6dc96c362fdff2d9d960a80dc4_5627340662916957925.mp3",
+          "audioName": "54生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不叫增援？也行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/42d983f150a96bb84a0a7622fcfae66e_725742390770404897.mp3",
+          "audioName": "55生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "见机行事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/159af0cad15affc50eb6f52ddda0177b_6440677992392611507.mp3",
+          "audioName": "56生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "退后。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/f72aa0e1eb7b21a47927c14c06a550e8_1631468207295478688.mp3",
+          "audioName": "57同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "去医务室。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/8a0c46e972c8b7aafa71f7f4ca40d57b_498673608576411015.mp3",
+          "audioName": "58同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "抱歉，没能守住…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/22f96344c0bcc9d2b5960756009adf07_9075012196912917204.mp3",
+          "audioName": "59倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "孤注一掷的后果…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/25507a85a2152b142e9641238c20e6fd_7467558631687383489.mp3",
+          "audioName": "60倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我没有异议。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/ae640aa8aa96ac235bf387a81fec2ed6_7295101906608832130.mp3",
+          "audioName": "61倒下·其三_en.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "这么客气？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/8c4b50837bcf1f0f250e5c52a86e06e0_8834451468207855641.mp3",
+          "audioName": "62普通受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "…还可以。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/3069978a3eb0d4a1b0ba4c807d67b4ed_8687261439098687429.mp3",
+          "audioName": "63重受击·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "开工。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/3b264789d6f2c34747c9ebe33f21d688_2057640609606889510.mp3",
+          "audioName": "64加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "请我出外勤？走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/69d5c994a618e7a21fbf121cb090a8b6_4652437418195749462.mp3",
+          "audioName": "65加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我尽力，但不保证赢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/0367682062a108986f71b048ac158ca0_43032925569536705.mp3",
+          "audioName": "66加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，请尽量简洁地说明你的来意。嗯？不是公事？那我反而更紧张了。坐下详谈吧。顺便一提，你可以称呼我「公爵」，他们都是这么叫的，我也听习惯了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/77305286353b22b47a55e69bcb8415ad_6790824562934382272.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·贴纸",
+          "text": "如果看到我背后粘着美露莘画的贴纸，帮我揭掉吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/83ed2a7b0ec01a42a41ce4ca1b47da32_7876186763160097099.mp3",
+          "audioName": "02闲聊·贴纸_kr.mp3"
+        },
+        {
+          "name": "闲聊·宠物",
+          "text": "我曾经考虑过要不要在办公室里养宠物，但小猫小狗在不见阳光的地方生活太可怜了。还是算了吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/f741b807997eeb1579b8eec6ba6d16d2_628298061793648584.mp3",
+          "audioName": "03闲聊·宠物_kr.mp3"
+        },
+        {
+          "name": "闲聊·忠告",
+          "text": "不要违法。还有什么需要叮嘱的吗？哦对了，不要违法。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/5c892893362d93419ad79b7d0ae3b597_2295526523796422167.mp3",
+          "audioName": "04闲聊·忠告_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "下雨了？还好。要是在梅洛彼得堡感到头顶滴水的话，问题可就大了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/189723041d68a5cb46f87403ba8780b1_3961517843995529204.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "心中无罪的人，在这种天气下也能安睡吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/2942665b19fe4055f71481082987bf1b_2330744250271898086.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嗯…和水下的冷不太一样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/fd850025c30a8e52c6004f3660e4544f_4694737811402643882.mp3",
+          "audioName": "07下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "「太阳之下无新事」，但可以找个好地方野餐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/29419aa520c15b76d5b5ffcecbb140d1_1711281364791375204.mp3",
+          "audioName": "08阳光很好…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早。晨报上的天气预测怎么说？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/659c331fd3c48d1103371e12bac83a13_6742224612838757572.mp3",
+          "audioName": "09早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "现在特许食堂人正多，我叫人送餐到办公室来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/ed3966859a717b791191ce4ad5b89487_7299922104801164263.mp3",
+          "audioName": "10中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "都这个时间了？总觉得才刚刚喝过下午茶。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/7687160f6462b4b433de16040c2cd654_6448457535548693116.mp3",
+          "audioName": "11晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安。我要等会儿再睡，趁夜深人静正好算几笔账。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/90a7b88680b57ed67a83ebe027901f9e_8399831070300400718.mp3",
+          "audioName": "12晚安…_kr.mp3"
+        },
+        {
+          "name": "关于莱欧斯利自己·误解",
+          "text": "他们不是把我想得太神秘，就是太全能了。我只有一双眼睛、一对耳朵，怎么可能照顾到梅洛彼得堡的每一个角落呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/1f5850c53f3be1a65b7979d53e5ca419_2366513535824337433.mp3",
+          "audioName": "13关于莱欧斯利自己·误解_kr.mp3"
+        },
+        {
+          "name": "关于莱欧斯利自己·小憩",
+          "text": "我早已服完刑，现在是自由公民，当然可以来水上闲逛。不必担忧。要是梅洛彼得堡必须要我一直待在下面才能稳定运转，那也太不健康了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/8f38db2fdbda6f144f2b53a4c13ea97a_7976060897926714682.mp3",
+          "audioName": "14关于莱欧斯利自己·小憩_kr.mp3"
+        },
+        {
+          "name": "关于我们·收监",
+          "text": "我对很多人的第一印象都是从收监登记表开始的，看来你也没能例外。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/c936d691fec3ce42996709b27669198f_2557830498530492651.mp3",
+          "audioName": "15关于我们·收监_kr.mp3"
+        },
+        {
+          "name": "关于我们·出狱",
+          "text": "都说没了利益牵扯才好做朋友，我们可以现在开始。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/5f30a7e0f59cb0cd176217b388860baa_8135899506808820120.mp3",
+          "audioName": "16关于我们·出狱_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我以前跟一些罪人学过借助化学药剂使用元素的方法。无论「神之眼」的发放归哪个部门管，他们似乎不是很介意这点僭越之举。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/1c751f9d8453055c58ddf09cf5d053ee_6362275127489864772.mp3",
+          "audioName": "17关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "知道怎么做更容易逃脱警备队的抓捕吗？给自己起个又长又难记的名字，然后他们在大喊「那个谁，把手举起来！」时就会卡壳。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/56350a9be83027d6679ece77c16e1764_8725986698319422649.mp3",
+          "audioName": "18有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "「不劳动者不得食」，这句话很久以前就刷在梅洛彼得堡墙上了。我也不知道是谁安排的，在水下的确很实用。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/7b238cccb5b002ba7c2a8d077aeb48e9_7086685100436227198.mp3",
+          "audioName": "19感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "记得有次被那维莱特叫去上面谈事情，走到沫芒宫门口正好看到他在路边淋雨。我替他打了伞，他礼貌地道了谢，表情却不大自然。我大概是打扰到了什么吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/91fe21785485df464d39c4f86f84e35f_770593379051105402.mp3",
+          "audioName": "20关于那维莱特…_kr.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "可能是因为我认罪太快，芙宁娜小姐在当年的审判中看起来兴致索然，早早就退场了。让水神大人失望可是大事，只好今后多给她送些好茶了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/20a1c67c7b554e908cbed0ce2efc0258_8219931976556225709.mp3",
+          "audioName": "21关于芙宁娜…_kr.mp3"
+        },
+        {
+          "name": "关于希格雯…",
+          "text": "希格雯护士长具备一名医护人员所需的全部美德，并关心着身边每一位同伴。不过她似乎从我身上学走了一些坏习惯，比如时常和她的美露莘朋友们打赌，看谁能偷偷在我的东西上贴更多贴纸。不，我并不觉得困扰。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/1dc927169585483908b34006c857fba4_8978926416178460534.mp3",
+          "audioName": "22关于希格雯…_kr.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德应该是你能找到的最好的决斗代理人了，实力有目共睹。我从未和她比试过，没有那个必要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/641467b3a5adc1abc44b238cf81baa69_1042391913441668577.mp3",
+          "audioName": "23关于克洛琳德…_kr.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "我承认，拔除「壁炉之家」安插在水下的眼线是种挑衅。而他们的回应是只派几个孩子下来，的确令我有些难办。是真心觉得他们也可以被牺牲，还是看准了我不会对小孩下狠手呢…唉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/54838074c4cb2f0a3ee2e6af39738b7b_3254247945713014730.mp3",
+          "audioName": "24关于林尼…_kr.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "梅洛彼得堡和刺玫会有一些物资方面的合作，但仅限于此。并不是不信任娜维娅小姐或是质疑她的能力——实际上恰恰相反——只不过，我们之间水下水上的事务互不干涉是我与卡雷斯先生约好的规矩，维持不变就好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/842a8a929315bf8db73923aaa7cf2074_8655412357119923911.mp3",
+          "audioName": "25关于娜维娅…_kr.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "梅洛彼得堡应该用不上她的服务，有些痕迹就是作为「前车之鉴」被留下来的。…气味也是痕迹的一种，不是吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/a6eb25f1811776cceb92b0286ff8021f_757186730591423515.mp3",
+          "audioName": "26关于艾梅莉埃…_kr.mp3"
+        },
+        {
+          "name": "关于夏沃蕾…",
+          "text": "被特巡队关照过的犯人大多挺老实的，这位队长功不可没。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/c4df7b70aa7bd0d6d44fa36f91ba3527_6784860151715115427.mp3",
+          "audioName": "27关于夏沃蕾…_kr.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其一",
+          "text": "理论上来讲，完全不认识我的人会比较幸福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/80127fd5c445c6f0ba20d9325d8109d9_7130777311197665332.mp3",
+          "audioName": "28想要了解莱欧斯利·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其二",
+          "text": "身上的疤痕？曾有深海巨兽企图占领梅洛彼得堡，我和它搏斗时被抓伤了。…当然是假的，不要信。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/937813feb01684c50eba5ed708fec331_6388955366936394935.mp3",
+          "audioName": "29想要了解莱欧斯利·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其三",
+          "text": "你知道吗，手铐只要型号相近，大部分都能用通用的钥匙打开。只有我这副不一样。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/2fee6f457aacf91fbb17a7e3e6689451_262001748900702523.mp3",
+          "audioName": "30想要了解莱欧斯利·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其四",
+          "text": "我的个人能力其实很有限。你看，我既不会治病，也不会搞发明，更不会造大船。我只是知道该去哪里找人做这些事，而他们恰好愿意卖我这个面子而已。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/a4c39d58dce6aa81241620e686b8ff3f_4211388230606178178.mp3",
+          "audioName": "31想要了解莱欧斯利·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解莱欧斯利·其五",
+          "text": "我现在过上了还不错的生活，但也仍然羡慕一些我得不到的东西——比如安逸快乐的童年，和轻易信赖他人的能力。可能有人认为这很矛盾，或者难以启齿，我倒觉得没什么不好承认的——何必和自己的本心过不去呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/629e74e9bd67bf0488c0fc8bf4421ea3_2334175723956079424.mp3",
+          "audioName": "32想要了解莱欧斯利·其五_kr.mp3"
+        },
+        {
+          "name": "莱欧斯利的爱好…",
+          "text": "拳击？不算是爱好吧，只是生活所需。你有什么其他推荐吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/76b67c4ae804a0cd9931ad085929d877_4267583324129551618.mp3",
+          "audioName": "33莱欧斯利的爱好…_kr.mp3"
+        },
+        {
+          "name": "莱欧斯利的烦恼…",
+          "text": "我确实有着枫丹人的长相，但没法百分之百肯定——只能跳胎海水确认咯？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/14bab191ecbe709f901c20b045ea2073_1469379144864650598.mp3",
+          "audioName": "34莱欧斯利的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "喝咖啡时我习惯加奶，茶的话，两块糖就好了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/5292c9a71e0499563c64bc1d12f2990a_4891585792349018600.mp3",
+          "audioName": "35喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "你喝过护士长做的奶昔吗？能从中尝出…「荒芜」的味道。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/0cb287c9e7ef404ece22e20c0985c9e7_4873191782341870192.mp3",
+          "audioName": "36讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "完美的调味，我就不擅长这个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/d3062609e0a615bbe7acb847d32a4858_8018608256210634428.mp3",
+          "audioName": "37收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "好吃。下次换我请客。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/87a681066c09a796b2de395d08f6833e_6456050828774539917.mp3",
+          "audioName": "38收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "等我去泡杯茶。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/a272abda7b8de55af74cf3dc9073ae75_8016810734568409433.mp3",
+          "audioName": "39收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "枫丹的孩子是伴随着双亲的心愿与祝福诞生的，不过我愿意相信这世上的每一个人都是如此。和这个比起来，我的祝愿就有些微不足道了。不，如果你犯事的话我是没办法帮你减刑的，只能在今天给你安排一份特殊的福利餐。所以生日期间还是安分一点，保证我们可以在水上庆祝，好吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/b2eebbbc40d303406fe2b926e8a24da0_4723864361268044650.mp3",
+          "audioName": "40生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "能获得你的信任，是我的荣幸。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/8d541673ce61ce8365491a33fb7449b9_787459376691023662.mp3",
+          "audioName": "41突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这下必须还你一个人情了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/d060a27d03c2984531a92d6d47e0784a_4808705979586172428.mp3",
+          "audioName": "42突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "哈，你怎么看起来比我要得意？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/25fa46ea972ebc099239740391f0901e_4340526896743058902.mp3",
+          "audioName": "43突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我喜欢力量和希望的信号，会让我感觉未来一切向好。这并非悲观，只是陈述事实，因为现实本就不可能一帆风顺。但有个好消息，就是当坏事发生时，我们可以站在同一阵线，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/5dce7cbf7f6a9c06e48cf9daf6206f52_9157336043224481167.mp3",
+          "audioName": "44突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "开始吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/84c740cb109143793e4474fd909632aa_6404153370923704650.mp3",
+          "audioName": "45元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "别跑啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/44183df6fb1e09db628c3d666a7795dc_6383935606715984921.mp3",
+          "audioName": "46元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "请留步。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/42f631ecf54dd7eddb34c022d7f2db6f_7101355060662454466.mp3",
+          "audioName": "47元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "一路顺风。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/bc89b83edb1ff5e11f857805bcf98c77_7902719364575742405.mp3",
+          "audioName": "48元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "注意防寒。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/97e847fc9d1dbbf07ca465f4bf71db27_1861659591803550424.mp3",
+          "audioName": "49元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "无需畏惧，直面罪责。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/f34f39d46540570713c7b5c0027662e1_8426207758962619432.mp3",
+          "audioName": "50元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "没有锁吗？真方便啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/4a517456271cd8d3f229e94950ae8e03_3794430383221833114.mp3",
+          "audioName": "51打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "先收好吧，总能派上用场。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/977606fccb8151ad013ffa485c378622_278092627547570816.mp3",
+          "audioName": "52打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "无主之物最好归公…所以这里什么都没有，对吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/7db3d1acc38576828c5b9f4b7d514993_5554898861104207045.mp3",
+          "audioName": "53打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不慌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/fe8c604242fb60c38ed3fd1d6bd5c19c_6090004938532072938.mp3",
+          "audioName": "54生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "不叫增援？也行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/c157a79dd36fc59548491dec7bb74449_7256660290672038466.mp3",
+          "audioName": "55生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "见机行事。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/90fc6989770f3993bcf65dc0c71ff3a3_238256843732554816.mp3",
+          "audioName": "56生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "退后。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/fbac55b2b3c0966485819d10d89fcfd1_2024078625864543450.mp3",
+          "audioName": "57同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "去医务室。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/c4bc2efccd46f0d5a9e336d9e42fd226_466182454814843919.mp3",
+          "audioName": "58同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "抱歉，没能守住…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/d60684d83d5da71adfd194d782aa15fd_650095607446578373.mp3",
+          "audioName": "59倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "孤注一掷的后果…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/0924bbb8269024d591e81730497f7857_3191358227178782612.mp3",
+          "audioName": "60倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "我没有异议。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/a19dd09a4457cc9637d0fa3e9ca79ebd_1382368362015566625.mp3",
+          "audioName": "61倒下·其三_kr.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "这么客气？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/2dc04a70596bb337f50945d2b43b1210_7209769116579091954.mp3",
+          "audioName": "62普通受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "…还可以。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/91bdbf8dedf9da3ac2afc9942ecc431a_3881703728070382524.mp3",
+          "audioName": "63重受击·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "开工。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/5b7a29be69b6f09ed523f7d537c261f8_3091584070473367872.mp3",
+          "audioName": "64加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "请我出外勤？走。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/c445482de94056b6dc60985f598f192b_880850980661074568.mp3",
+          "audioName": "65加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我尽力，但不保证赢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/10/22/16576950/a01eaf90d84f71843f0752d62670ee3c_1186110815184663140.mp3",
+          "audioName": "66加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

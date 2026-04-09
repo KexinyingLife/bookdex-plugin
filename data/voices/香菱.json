@@ -1,0 +1,1805 @@
+{
+  "id": "112",
+  "name": "香菱",
+  "alias": [
+    "香菱"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是来自璃月的厨师香菱，最擅长的是做各种捞…捞，料理…哎呀，练了那么多次，还是会紧张，嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8940ef50b92e3197ff19f8d432f1a16c_7946268741442895365.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·点心",
+          "text": "要吃点点心休息一下吗？我准备了一箩！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8693c4b48beefdf9af3d66bf446bae43_4489140357757482019.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·火史莱姆",
+          "text": "火史莱姆，是椒盐…还是做成蒜香的好呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/61326541dddee387df9be0bcb4d251d4_9007345578173957979.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·觅食",
+          "text": "嗯，闲着也是闲着，还不如一起找找食材去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/57b7ae41abc91106c3016c25dfa65daa_5153143811187996257.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候·态度",
+          "text": "嗯…我不太喜欢雨天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5423932df9453e53f13d633de4638c6f_2387619771162115081.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候·疏忽",
+          "text": "我想想…今天有没有晒衣服出去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/24c9bfb2da65cd1ea390a492ce082196_5928181765321687620.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "走走走，我带你去找松茸！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/420788b09e42eb198345c9b9bdb0aaf6_5363773286635152036.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "风史莱姆最喜欢在这种天气活动，快趁机多收集点儿！我给你做史莱姆沙冰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d817bb695e75b17a786cb30f0dbf560_278919148283591136.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "来得正好！一起去补充点食材吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8232b8ac6b59672f912ec34829282892_7199281168251712682.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭已经做好了，快过来吃哦！啊呜…来晚了可就没了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/083bba9e99ccded46e7662077af16995_1231993651913261248.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "要吃夜宵吗？我这正好做了串炭烤岩蜥蜴。哎呀，别盯着了，快尝尝吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1ae4f4043f8d2f6fe9b431ae07f5315e_925216296926880796.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "喂…你不会是想背着我偷偷吃什么好东西吧？哦，只是休息啊…嘿嘿，那晚安喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/42c8168990bfcb92bff4c8daf8092cef_7675590020248418377.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱自己…",
+          "text": "你见过蒙德城的龙？有多大？哇，不是吧。那要是做成龙肉排——嗯，该有多棒啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5f4b41cb0f0537ad61c750cc8061a2a_850230895970503003.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·长处",
+          "text": "虽然比起认路我更擅长做饭，但…不管啦，出门喊我准没错！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd69aa38995892fc07fc64e5890dcdea_8976451536362019721.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·新知识",
+          "text": "自从认识你，我好像学会了不少料理以外的知识。欸？呃…你问我都有些什么？嗯…嗯…你突然这样问，我又有点想不起来了。算了算了，我原本就不擅长这些，还是给你做两道新菜尝尝吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6ec4cb8acc7488e6c7dec1f2201af23d_2210270077650009756.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "无论什么时候，我都要做出所有人都爱吃的料理。神一定也认为这是正确的事情，才授予了我这个连大师父也没有的「神之眼」…唔，怎么说来着…哦，以资鼓励！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/edb4ffc28dc84fc4ce34683f2bdf8fb2_6365845494041421207.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "如果拉肚子了，喝一杯霓裳花泡的茶就会好的！欸？我懂一点食疗方法也不用奇怪吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b20aa6b3f96a3a6efee45ea17187938a_7818807776414009232.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我喜欢洋葱！…我试过十几种切洋葱不会流泪的方法，没一个对我有用。但这也阻止不了我喜欢洋葱！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/29b9de40c911a41278d1acdf8ef10229_7480201758956576588.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术…",
+          "text": "嗯？我闻到了雾虚花的香气！是白先生，白先生来帮你看病了吗？你是哪里不舒服，头晕还是胃疼？还是嗓子痒？还是没力气？哦…没生病啊。那还好。不然白先生会给你超——苦的药哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/94c2fffb1b677047540ed1564b56e542_1680697399552010882.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凝光…",
+          "text": "哦！刚才那个，是「天权」大人啊…嗯，你凑过来点。再，再过来点。我跟你说哦，她可是一个特别厉害的人，港内的事情她什么都知道。所以，你也要小心一点，不要被她盯上了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d31286e02a8b15c75655db80ee22ff8e_8332185672973854415.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "唔，你是不是也被胡桃欺负过？她老是趁我不注意躲到我后面，这样突然拍我的后背，得逞了还嘿嘿地笑，哼。但我大人大量，看在她每次都会给我带酿梅花做线花糕的份上，才没跟她斤斤计较。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/62b983cfaf0cb3181704c4a2281fbf41_5596311943524600822.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪奥娜…",
+          "text": "清泉镇的迪奥娜！啊啊，听说她能调出特别好喝的酒，我专门拜访过她！想着如果能把调酒的秘方借鉴到料理上，说不定也能做出美味。但是，她给我的秘方，比如啤酒里泡蜥蜴尾巴，蒲公英酒里放小块熏鱼…做出来都不是很好吃。呜，果然还是要靠自己吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ef3c3f31780a47af3c5c9b051a241fbc_7586001320930283334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗姐姐人特别好！跟着她出去航海的话，每次都能捕获到好多新鲜的食材！章鱼脚拿来煲汤最好，海天青就要用辣椒好好炝一炝。不光北斗姐姐，「南十字」的船员们都很喜欢我做的菜呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e42a5c490d32e338d4e59bfedfd805bd_1752245684650746430.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "我遇到过不少挑剔的食客，但像钟离先生那种嘴巴上讲究，还能一针见血的，真的就只有他一个！那天我给他上的第一道菜是「椒盐豆腐」，他只尝了一口，就问我用的是什么盐，然后又说什么「不妨试试孤云阁浅海处提炼的海盐吧，它的层次感能够为豆腐赋予更多鲜味」。我试过之后味道真的大有不同。你说，他是不是好厉害！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d956619320173e385f5eccb7fbae16e1_1998303024922980327.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云…",
+          "text": "重云啊，他总是跟着行秋一起来「万民堂」吃饭…呃，或者应该说，是被行秋拖来的？但是重云不吃热食。每次热菜上桌，行秋就会客客气气地说一声「失敬」，然后动起筷子逐一评点起每道菜的美味之处，他那夸得呀，我都想冲过去尝一口！你是没见到重云那种眼神，哈哈哈。还挺有趣的呢，他俩。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cf6ddd20a8addc1d380e13a2032d0cd2_2178315601416347236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于甘雨…",
+          "text": "甘雨？嗯…啊啊有印象有印象，是那位只吃素食的客人吧！她来「万民堂」的次数不算多，每次都是一个人躲在小角落里不吭声地吃着饭。我嘛，看她孤孤单单有些可怜，就总帮她多舀两大勺菜。没想到，她每次都能全部吃完！真是不可貌相。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7805039912c89bcc17ab4a30ba0457ee_9194096061041581208.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶…",
+          "text": "嘿嘿，她啊，是我引以为豪的小师妹喔！不过呀，她很久没来「万民堂」玩儿了。是大师父放心不下吧…哼，明明生的云来大章鱼那么好吃，瑶瑶上次不光不让我吃，还叫上大师父一起训斥我，呜…有时候真不知道，到底谁才是师姐了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c0797f1a036f92af898ca6d304c22f8_7761290712025866601.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "辛焱经常来「万民堂」吃夜宵喔！像行秋、重云他们不敢试吃的新品，辛焱就会毫不犹豫地下筷…而且有八成以上的概率喜欢！哎，真是很不错的人呐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab9c48382dbb27f375a7478e21d34563_6129665000102823629.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夜兰…",
+          "text": "夜兰姐？我当然记得她啦。第一次见面时，我还猜她会喜欢那种清淡的菜式，没想到她是我见过最能吃辣的客人！菜肴里的辣味她觉得不够，居然把绝云椒椒直接嚼来吃！真了不起。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ca00f3d83c0fc7fee7523b8845c61a25_1566937897694458363.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于嘉明…",
+          "text": "哎呀，知道嘉明要来，我就会早早备上一大壶茶水，方便他涮辣菜。我提议说给他做一份不辣的，但他却摆着手说就喜欢原汁原味的配方…不会错的，那不是客套话，我能分辨出真正食客的眼神！嘿嘿，那我当然也不能让他失望啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/d0c650e583969a606918ec3e44fe7ac4_8759269559151823757.mp3",
+          "audioName": "香菱关于嘉明…cn.mp3"
+        },
+        {
+          "name": "关于蓝砚…",
+          "text": "锅巴很喜欢她！第一天见面就不停地跟她握手，不知道的还以为他们认识了很久呢哈哈！我已经跟蓝师傅约好啦，让她带我去抓昆虫，采野蕈…嘻嘻，等我的新菜创作出来之后，你们都要来吃哦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/ddbf4e21311bc488e22d6d0609d696e8_5073561078950652784.mp3",
+          "audioName": "香菱关于蓝砚…cn.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "啊！那个枫丹的厨师姐姐，我很喜欢她！那天她请我试吃了许多新奇的菜品，里边的口感非常…那个词怎么说的来着？哦，是「精准」！就像用各种味道的食材，在嘴里精雕细琢地制成了一尊雕塑！她对做菜过程中每个环节、每种原料的控制手法，都让我眼界大开。我是不是也该托申鹤去找闲云姨，做个能够定时定量还定温度的机关，再来学学她的手法呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/f4f610ee3f6830a3681ea5781a279b6c_3216323634428715352.mp3",
+          "audioName": "香菱-关于爱可菲cn.mp3"
+        },
+        {
+          "name": "想要了解香菱·其一",
+          "text": "烤鸽子肉，来两串？哎呀~尝尝嘛。加了我的独门秘方，绝对跟其他家的不一样！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b96ea6f87bf91a5961d40838ab108fd_3707740945186093855.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其二",
+          "text": "大师父教我的枪法，很厉害吧？你想学的话我也可以教给你哦！不过说到这个…要是你愿意跟我学厨就好了！我的这些技巧和配方，要流传得远远的才好呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ff8f2bce55c9436b07d6f4a4df2a2504_4565902363278830671.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其三",
+          "text": "问我的愿望吗？那当然是要创造全新的新菜系！璃菜和月菜都是有极限的。哦，关键一定在于辣味吧！事不宜迟，让我爆炒个锅巴辣椒给你尝尝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e973681ac637b2e2405d3a46601dc19b_6748561828998424044.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其四",
+          "text": "嗯！我看你已经快被我的厨艺征服了嘛~是时候给你品尝我苦心研制的新菜品了——七彩琉璃大煎饼。喏喏，这薄薄一层蛋皮里面包着红色的松鼠火腿，橙色的胡萝卜，黄色的太阳蛙肉，绿色的嘟嘟莲，蓝色的蝴蝶翅膀…呃？真的不想吃吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c584362d21a0e5b6ff545fbb8d3279a0_5404670266272775457.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其五",
+          "text": "我…有点想不明白，明明以前睡一觉就好了的，这可不是我的风格。啊呀，不行！还是让你来想吧！嗯…我很想让你一直试吃我的新菜，但不知道从什么时候起，如果你吃坏了肚子，我也会特别难受。我，我到底该怎么办呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a17ea78ddbe37c2994b9eb13aa047271_8861683923124362282.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "香菱的爱好…",
+          "text": "看着点哦！像这样烧热一锅油，然后，把去掉翅膀的晶蝶这样放下去炸…哎呀你别走啊，超香的啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/faf4537c4bcc0fec341c235a3b66c0f7_8243531060379323019.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "香菱的烦恼…",
+          "text": "呜，史莱姆滑蘑菇一份也没卖出去。就因为卖相不好吗？口感明明很棒的呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/051abb1d21d2d77210f7eaa29df898ec_2331955561184821868.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "喜欢的食物呀，嘿，那当然是尚且不知道味道的新菜啦！欸，我这样回答很狡猾？呜，明明说的是实话嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4bbb02ceb3aa394125f4ffeadf594577_2073529294380251981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我是不会对食物有什么偏见的！只有不合适的做法，没有不合格的食物！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1a98c8156f913bc2d70f49ab2dedca04_7477789919607322288.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇，这就是…「噼咔」的味道！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/981be55ed6847b54099e642cae1e6a5a_3196283412400104168.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "嗯，你做菜真有一套。下次就换我来露两手吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/87592dde33a235163b2f79b6f624e452_5248787401501325636.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "难道是做法的问题吗？总觉得哪里怪怪的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/389a71a66fcc4c0e62f5b2aa9cb3d781_1845140895806194936.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "啊，找到你了！快来，我给你做了一整桌的菜喔！嘿嘿，不用急着夸我，先等你尝过味道再慢慢说吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0562c89e6a58ae00e55a11e1664f9996_6404186389347520066.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "呼哇~！好爽！全身上下都充满了力量！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d780fe48a8b4e0dcdb721600b0ad77c_5753214182629597144.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "嘿、哈！好！一拳就能把野物打晕…保证食材新鲜！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d434ddcda68898d6936f8404c10f6e7b_8470173935006178307.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "有这种力量的话…终于可以…不好，口水要流下来了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/08/20/183046623/a725313c6ae3ca8095698a5b64c29fe9_8351675716221433193.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "父亲曾经说过：「想做出十分的菜肴，就要投入十二分的热情。」我懂的、我懂的！能走到今天这个地步，一定是因为有你付出了十二分的热情陪我练习。嗯，那我也要再加倍…用再加倍的热情来回应你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/38225f9ca2841d07cc481ba7d5fa56aa_5373016691985177423.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "锅巴，喷火！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b5d5b8503088808aa6e98cbe6d96c95e_3927306832490283215.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "热和热和嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9a92e1977dd3459c5ac2655e9fae19c8_6069783781018340118.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "开锅了开锅了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1ef66125a42a6b802a8b76f41976474c_8863877231018306976.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "嘿…哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dfaf05efeb47472458015e47a843ab43_1677749138251451012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "讲不通，就打扁咯！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/71b9b01569c8a85c6b864662d4e8f7ed_5588957650705821475.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "见识下师父的枪法！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4b1b806a6c7aadfb9aa8950b8e2f8fd7_8841818043208864055.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "跑起来跑起来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/534b1e92d555a36f8e4f657ba2c6aa1c_1588892870486159546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺结束·其一",
+          "text": "肚子岔气了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dba6502d3a9c0f690c87cacd91e336a1_7337023682732426910.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是新的食材！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a65deaf04709ad16333c0fb1572a8258_2488251037721523448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "大丰收大丰收！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a63e2bc0afaa29d274929ebf792d5712_2960843101434299281.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我会物尽其用！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f2d28d59b51f981bb6b715cd92a096c7_2497561731446133828.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "呜，今天的食材好凶啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d15d6c86943a43fbff72c2c7c93105a7_2844870432775264944.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "哎呀，疼疼疼…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/2bb7b7392ae627ff11e30654cb0f6d46_4396515448896335977.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我是不是惹了个不得了的家伙！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a062057c439cf8e94cf65ef85a7abeb5_6535347832378700436.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别着急，歇会儿再打吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/6e9ab9b38b502f9efcecc332d3489946_5728828812590714174.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "快回来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/28d8c8dfd33255d7185a957a3baf394c_242118783878903929.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "搞砸了呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/68feee4250c540de0c882b155058a5c7_6809269165509786264.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "突然…好渴啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8d5565a7d48abe6fa6a9fe4026a13b80_5825104231738982628.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "是不是…连累你了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/76fa5ee6de37974befbd676532c192b7_8694968448212541348.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不要打我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/6e03da76597f2cfa037422f9de486bb6_1167512344350886295.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "救命啊，食材打人啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/84298b093d5a70f6308bfc8992f752ca_4530179907570768475.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "还挺疼的唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/ab8ece5186c462ad92da802f823d62bd_7057094688438802713.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "佐料带全了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/740a79063e475d43066df34403064758_7615450288796580393.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "长枪磨亮了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8049c00135af0f638dad88a574b3edd7_2872974263141646172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "一刻都不想多等！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e97c3e603815cbbb22f5446ce15154a5_4824862707922286369.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是来自璃月的厨师香菱，最擅长的是做各种捞…捞，料理…哎呀，练了那么多次，还是会紧张，嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e5b12b3f658fbf8cca73fdd351fe8b69_236066486565742403.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·点心",
+          "text": "要吃点点心休息一下吗？我准备了一箩！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e43cbf8fb5248804b6a7c61f2c4be52e_7351319175891509119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·火史莱姆",
+          "text": "火史莱姆，是椒盐…还是做成蒜香的好呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c3d3768e72100a831e00d651fa9087d7_4183586625386173101.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·觅食",
+          "text": "嗯，闲着也是闲着，还不如一起找找食材去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1549e7c1780e817bf6ec08469ed675b2_9136329405783939210.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候·态度",
+          "text": "嗯…我不太喜欢雨天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e42a21f0122c1d124097362dd1e73449_4957556681078157183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候·疏忽",
+          "text": "我想想…今天有没有晒衣服出去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/96df93c8cae730cabf3bb857ceb187f3_1141180849149476511.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "走走走，我带你去找松茸！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1d6a6c9b5fc44bd0e71ad6c5b75514a9_2034083842168238653.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "风史莱姆最喜欢在这种天气活动，快趁机多收集点儿！我给你做史莱姆沙冰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4360578ca41c53c6ed11d8a6b346ed99_6463293231230387138.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "来得正好！一起去补充点食材吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7eac39b3cc5db7ce7cf0729b9b473d6a_6975649006476186944.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭已经做好了，快过来吃哦！啊呜…来晚了可就没了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bc069145631d2458e004b3f2f1e789e2_300710621950164932.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "要吃夜宵吗？我这正好做了串炭烤岩蜥蜴。哎呀，别盯着了，快尝尝吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/76adddbaa94bc4dc092f4d07a7e2de1c_2379964429949922142.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "喂…你不会是想背着我偷偷吃什么好东西吧？哦，只是休息啊…嘿嘿，那晚安喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea15c6355c250659fc670527e0bac0df_8087894459400683780.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱自己…",
+          "text": "你见过蒙德城的龙？有多大？哇，不是吧。那要是做成龙肉排——嗯，该有多棒啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a64a2a7a6f9ac30b0a7a3085fbd00da8_5588703077423940811.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·长处",
+          "text": "虽然比起认路我更擅长做饭，但…不管啦，出门喊我准没错！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2003e95a2b913678f8f62e374f23eeaa_587006955404500424.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·新知识",
+          "text": "自从认识你，我好像学会了不少料理以外的知识。欸？呃…你问我都有些什么？嗯…嗯…你突然这样问，我又有点想不起来了。算了算了，我原本就不擅长这些，还是给你做两道新菜尝尝吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/145b873d15f24a8197df7291234a5ae1_6953790077078863968.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "无论什么时候，我都要做出所有人都爱吃的料理。神一定也认为这是正确的事情，才授予了我这个连大师父也没有的「神之眼」…唔，怎么说来着…哦，以资鼓励！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b3c18bb2d3ffe9ef1347ea79fd76636b_7092677475704071340.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "如果拉肚子了，喝一杯霓裳花泡的茶就会好的！欸？我懂一点食疗方法也不用奇怪吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/22ca3c1ae6c2a6ef3a9b93a307908be4_6246193812647485422.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我喜欢洋葱！…我试过十几种切洋葱不会流泪的方法，没一个对我有用。但这也阻止不了我喜欢洋葱！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/41e58941a9df53681b9d9dadfb18fb08_2720274877639226172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术…",
+          "text": "嗯？我闻到了雾虚花的香气！是白先生，白先生来帮你看病了吗？你是哪里不舒服，头晕还是胃疼？还是嗓子痒？还是没力气？哦…没生病啊。那还好。不然白先生会给你超——苦的药哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b3fd118b7faa30d081bc169a4b9b97e4_5526332766116652694.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凝光…",
+          "text": "哦！刚才那个，是「天权」大人啊…嗯，你凑过来点。再，再过来点。我跟你说哦，她可是一个特别厉害的人，港内的事情她什么都知道。所以，你也要小心一点，不要被她盯上了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de277d4b7b653bb18014aedb985d3036_8796429875834421992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "唔，你是不是也被胡桃欺负过？她老是趁我不注意躲到我后面，这样突然拍我的后背，得逞了还嘿嘿地笑，哼。但我大人大量，看在她每次都会给我带酿梅花做线花糕的份上，才没跟她斤斤计较。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/078c62d06c04fb018cd91cb185627b11_7867285963314813700.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪奥娜…",
+          "text": "清泉镇的迪奥娜！啊啊，听说她能调出特别好喝的酒，我专门拜访过她！想着如果能把调酒的秘方借鉴到料理上，说不定也能做出美味。但是，她给我的秘方，比如啤酒里泡蜥蜴尾巴，蒲公英酒里放小块熏鱼…做出来都不是很好吃。呜，果然还是要靠自己吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5a60b43ff038f93e0e37c4c4fe668b6d_7877693432144825474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗姐姐人特别好！跟着她出去航海的话，每次都能捕获到好多新鲜的食材！章鱼脚拿来煲汤最好，海天青就要用辣椒好好炝一炝。不光北斗姐姐，「南十字」的船员们都很喜欢我做的菜呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e630c8cd418b3301c96b0d1d5a09c490_5670406009418237562.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "我遇到过不少挑剔的食客，但像钟离先生那种嘴巴上讲究，还能一针见血的，真的就只有他一个！那天我给他上的第一道菜是「椒盐豆腐」，他只尝了一口，就问我用的是什么盐，然后又说什么「不妨试试孤云阁浅海处提炼的海盐吧，它的层次感能够为豆腐赋予更多鲜味」。我试过之后味道真的大有不同。你说，他是不是好厉害！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/05c8914112e024887ad2f146f9ef1a3a_3311020002716977614.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云…",
+          "text": "重云啊，他总是跟着行秋一起来「万民堂」吃饭…呃，或者应该说，是被行秋拖来的？但是重云不吃热食。每次热菜上桌，行秋就会客客气气地说一声「失敬」，然后动起筷子逐一评点起每道菜的美味之处，他那夸得呀，我都想冲过去尝一口！你是没见到重云那种眼神，哈哈哈。还挺有趣的呢，他俩。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/002e0213f2e57a1133f7e94ba334b193_1060717226641254907.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于甘雨…",
+          "text": "甘雨？嗯…啊啊有印象有印象，是那位只吃素食的客人吧！她来「万民堂」的次数不算多，每次都是一个人躲在小角落里不吭声地吃着饭。我嘛，看她孤孤单单有些可怜，就总帮她多舀两大勺菜。没想到，她每次都能全部吃完！真是不可貌相。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b78b1c0c63bf76c9fa56495ed95818dd_2692783890185004981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶…",
+          "text": "嘿嘿，她啊，是我引以为豪的小师妹喔！不过呀，她很久没来「万民堂」玩儿了。是大师父放心不下吧…哼，明明生的云来大章鱼那么好吃，瑶瑶上次不光不让我吃，还叫上大师父一起训斥我，呜…有时候真不知道，到底谁才是师姐了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0bb225cdd8eae015eac901c7d6572c3e_6516502420824128385.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "辛焱经常来「万民堂」吃夜宵喔！像行秋、重云他们不敢试吃的新品，辛焱就会毫不犹豫地下筷…而且有八成以上的概率喜欢！哎，真是很不错的人呐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bfa8da97533e9d9fe45007e7481b42b8_4130643466182546678.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夜兰…",
+          "text": "夜兰姐？我当然记得她啦。第一次见面时，我还猜她会喜欢那种清淡的菜式，没想到她是我见过最能吃辣的客人！菜肴里的辣味她觉得不够，居然把绝云椒椒直接嚼来吃！真了不起。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0645954a2831f73edb07db96aad4f933_6342092912487906713.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于嘉明…",
+          "text": "哎呀，知道嘉明要来，我就会早早备上一大壶茶水，方便他涮辣菜。我提议说给他做一份不辣的，但他却摆着手说就喜欢原汁原味的配方…不会错的，那不是客套话，我能分辨出真正食客的眼神！嘿嘿，那我当然也不能让他失望啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/7279d8b47339bb4accbdc9a5c9695981_7452166956400046339.mp3",
+          "audioName": "香菱关于嘉明…jp.mp3"
+        },
+        {
+          "name": "关于蓝砚…",
+          "text": "锅巴很喜欢她！第一天见面就不停地跟她握手，不知道的还以为他们认识了很久呢哈哈！我已经跟蓝师傅约好啦，让她带我去抓昆虫，采野蕈…嘻嘻，等我的新菜创作出来之后，你们都要来吃哦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/dceefd3e2bc49649e85933d2fd53cc47_4662268806169361671.mp3",
+          "audioName": "香菱关于蓝砚…jp.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "啊！那个枫丹的厨师姐姐，我很喜欢她！那天她请我试吃了许多新奇的菜品，里边的口感非常…那个词怎么说的来着？哦，是「精准」！就像用各种味道的食材，在嘴里精雕细琢地制成了一尊雕塑！她对做菜过程中每个环节、每种原料的控制手法，都让我眼界大开。我是不是也该托申鹤去找闲云姨，做个能够定时定量还定温度的机关，再来学学她的手法呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/41c84df1d25768fb05fb4c6caa17f517_5154249190810061805.mp3",
+          "audioName": "香菱关于爱可菲jp.mp3"
+        },
+        {
+          "name": "想要了解香菱·其一",
+          "text": "烤鸽子肉，来两串？哎呀~尝尝嘛。加了我的独门秘方，绝对跟其他家的不一样！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c8293d427f7d606cc9033cf335e08dd9_1556898372591512504.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其二",
+          "text": "大师父教我的枪法，很厉害吧？你想学的话我也可以教给你哦！不过说到这个…要是你愿意跟我学厨就好了！我的这些技巧和配方，要流传得远远的才好呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/38dffdd31460c740184c7d6d4b31eda0_697104681103442615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其三",
+          "text": "问我的愿望吗？那当然是要创造全新的新菜系！璃菜和月菜都是有极限的。哦，关键一定在于辣味吧！事不宜迟，让我爆炒个锅巴辣椒给你尝尝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/47e4cddef446520e2ab53f79e79e5a0f_7978972528133437627.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其四",
+          "text": "嗯！我看你已经快被我的厨艺征服了嘛~是时候给你品尝我苦心研制的新菜品了——七彩琉璃大煎饼。喏喏，这薄薄一层蛋皮里面包着红色的松鼠火腿，橙色的胡萝卜，黄色的太阳蛙肉，绿色的嘟嘟莲，蓝色的蝴蝶翅膀…呃？真的不想吃吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/50954db380ad01f856e242356f9fc7e6_9196338223704131662.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其五",
+          "text": "我…有点想不明白，明明以前睡一觉就好了的，这可不是我的风格。啊呀，不行！还是让你来想吧！嗯…我很想让你一直试吃我的新菜，但不知道从什么时候起，如果你吃坏了肚子，我也会特别难受。我，我到底该怎么办呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/db7b6cdeaa2131f3b24924fe4a10da75_4142848911523364040.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "香菱的爱好…",
+          "text": "看着点哦！像这样烧热一锅油，然后，把去掉翅膀的晶蝶这样放下去炸…哎呀你别走啊，超香的啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/67090300703440356b1134ae4ab3f2d1_5006434148850005806.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "香菱的烦恼…",
+          "text": "呜，史莱姆滑蘑菇一份也没卖出去。就因为卖相不好吗？口感明明很棒的呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3c076a0bfe669372dc150e1e3331627e_2256424224458460464.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "喜欢的食物呀，嘿，那当然是尚且不知道味道的新菜啦！欸，我这样回答很狡猾？呜，明明说的是实话嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/66989b86d427194895fd9b19efef588a_6256004913510963409.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我是不会对食物有什么偏见的！只有不合适的做法，没有不合格的食物！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5d479d6c9610b2cb7dfcf5860c2b015_2976153818535132404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇，这就是…「噼咔」的味道！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/6633b1a6e1398d1c9a6c1d6b2cbd6a5e_5025418571259234805.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "嗯，你做菜真有一套。下次就换我来露两手吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8c9b56df7d7ee8506e476d6a3d628550_3076398242240500222.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "难道是做法的问题吗？总觉得哪里怪怪的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/426c858e6622e61fb80f38b5c4d2bd98_1503339175787420519.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "啊，找到你了！快来，我给你做了一整桌的菜喔！嘿嘿，不用急着夸我，先等你尝过味道再慢慢说吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ec3da521e6e8e43c6a9ab16835cccf3e_8267030256819170470.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "呼哇~！好爽！全身上下都充满了力量！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d41d8cd98f00b204e9800998ecf8427e_5299385920352049869.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "嘿、哈！好！一拳就能把野物打晕…保证食材新鲜！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d41d8cd98f00b204e9800998ecf8427e_8277414717764635624.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "有这种力量的话…终于可以…不好，口水要流下来了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/a95b912f6c42ea875f183b3d319be41a_6392375688265129828.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "父亲曾经说过：「想做出十分的菜肴，就要投入十二分的热情。」我懂的、我懂的！能走到今天这个地步，一定是因为有你付出了十二分的热情陪我练习。嗯，那我也要再加倍…用再加倍的热情来回应你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/e8a7abcfe92a04baa7915676842449e5_6252634536423042938.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "锅巴，喷火！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7447d78fd219ecb60bcf46766eefcf3b_7150027439410970732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "热和热和嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bdf451399657da0aa10b60da63623c97_1630656188698369281.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "开锅了开锅了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0f2f9057b57196e6eebef3d36d2be4b2_8342010120443836555.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "嘿…哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/af5e25d08d1ef2356844aec39003695b_5251937712952723388.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "讲不通，就打扁咯！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/32ddb0f4d0ccc1c8a8b3d2ff07dcffeb_6428739241868807800.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "见识下师父的枪法！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bfcbe8ff345d07374d6afcb74f40c85f_6403066174724122740.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "跑起来跑起来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/066aab2ce76fb9712f08ded8e24cffcf_261466499566652075.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺结束·其一",
+          "text": "肚子岔气了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/364d30c87e2fa5dfc4e9282323aa03e3_4840763133370366123.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是新的食材！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9d967124a92c82e1ec93e62611d76cd6_6957882778551696482.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "大丰收大丰收！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b11ccd3d9d5bc452a53fb49cf11ce928_5689538021944385404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我会物尽其用！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9591d2631ce43ba32e863d0d301e8ca8_6365331050253482183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "呜，今天的食材好凶啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b8548d21f0535cec9b2d8bc8a2394f0c_7017503540398049183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "哎呀，疼疼疼…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7c7a69403119a19645433a61dccc269d_4070894725685437452.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我是不是惹了个不得了的家伙！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d698a4023b070bf67f63aa7a2b9c365_7698413245379076633.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别着急，歇会儿再打吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d00dd738a136805855cbc60c4fea79a5_1827052770292576875.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "快回来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/edeba3ba5470535c550b67bfa2301b45_5556969361357350966.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "搞砸了呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/96ec72a663655a03eab9cb725cfb48aa_5193313859223145206.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "突然…好渴啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/230d157bfb2ab52ca21fed534b8ac8b3_6529761478054448820.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "是不是…连累你了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/44795ae91a817fabc4ef031d536835a5_395917972770494918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不要打我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/16104e837b6faa376f5a49d245bc584a_5387796869795973846.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "救命啊，食材打人啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/660009cbc9b9cfd9034cb289d0ad6a23_7705764677219188848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "还挺疼的唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/079fbd4ed890b39e3c515fdbd1f3aed4_4635914718399257003.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "佐料带全了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/712819f5cee2cb90c68d1fdc0faa4b89_718463559701024135.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "长枪磨亮了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e240e00f9866b9694a3c98c3c88513fe_7124613554975029391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "一刻都不想多等！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/79347040f2640426354007cea333dd07_9120111402149987086.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是来自璃月的厨师香菱，最擅长的是做各种捞…捞，料理…哎呀，练了那么多次，还是会紧张，嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a54df48f817899eac00371480861fdb3_3787065262970755546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·点心",
+          "text": "要吃点点心休息一下吗？我准备了一箩！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b482c2c22893581172b8a403ce8bd12_9193286468068531898.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·火史莱姆",
+          "text": "火史莱姆，是椒盐…还是做成蒜香的好呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c085ce42c1503603337c0615d8cb954b_4923705724599854482.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·觅食",
+          "text": "嗯，闲着也是闲着，还不如一起找找食材去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/36e040b1b51acfbaa9217112db4008a6_9142373902965591731.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候·态度",
+          "text": "嗯…我不太喜欢雨天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/48ba1be4906032cdaf1b702882d3fb1f_8056692548750045470.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候·疏忽",
+          "text": "我想想…今天有没有晒衣服出去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2c4ce16394cc4942cdbae2a688e1ef49_8838745035811441961.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "走走走，我带你去找松茸！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/178ebd3fe0c3e83a2dd087f2397d9e48_8085601937026326163.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "风史莱姆最喜欢在这种天气活动，快趁机多收集点儿！我给你做史莱姆沙冰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8a21389aab4b10569c9776e7ba948213_6953874249313165642.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "来得正好！一起去补充点食材吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b2e1489bdac9e9f7f403a3667b8bc4a6_5743103107271269688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭已经做好了，快过来吃哦！啊呜…来晚了可就没了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5550ddc3b1cfa2d374603ad16bcb8108_165915780580675688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "要吃夜宵吗？我这正好做了串炭烤岩蜥蜴。哎呀，别盯着了，快尝尝吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/17e3fbd0d67579312b9a2abee09678e4_439017713255188802.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "喂…你不会是想背着我偷偷吃什么好东西吧？哦，只是休息啊…嘿嘿，那晚安喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/655a398e445c44600eee44570b2304cb_2824110437973387194.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱自己…",
+          "text": "你见过蒙德城的龙？有多大？哇，不是吧。那要是做成龙肉排——嗯，该有多棒啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a1ff0614de59ec48cb30937906e03be1_3434546890659522803.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·长处",
+          "text": "虽然比起认路我更擅长做饭，但…不管啦，出门喊我准没错！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c0a8d4939899a923a2f5fd2ab88f079b_1636107859840494947.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·新知识",
+          "text": "自从认识你，我好像学会了不少料理以外的知识。欸？呃…你问我都有些什么？嗯…嗯…你突然这样问，我又有点想不起来了。算了算了，我原本就不擅长这些，还是给你做两道新菜尝尝吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fc7416eab31f53800842c10eacb4fadd_7120732947816398161.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "无论什么时候，我都要做出所有人都爱吃的料理。神一定也认为这是正确的事情，才授予了我这个连大师父也没有的「神之眼」…唔，怎么说来着…哦，以资鼓励！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/531b3f9f1f250b5f0f55477616a32b89_6585849735364240402.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "如果拉肚子了，喝一杯霓裳花泡的茶就会好的！欸？我懂一点食疗方法也不用奇怪吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/66dbd5d37cce6b2526244748d6a46455_4913601722957549033.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我喜欢洋葱！…我试过十几种切洋葱不会流泪的方法，没一个对我有用。但这也阻止不了我喜欢洋葱！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/896b66f015a1d2da0c4dd36252e9833e_8546909585550820857.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术…",
+          "text": "嗯？我闻到了雾虚花的香气！是白先生，白先生来帮你看病了吗？你是哪里不舒服，头晕还是胃疼？还是嗓子痒？还是没力气？哦…没生病啊。那还好。不然白先生会给你超——苦的药哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fdaf050fa25e80490dcb26807ee0cf9a_4760364405183821775.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凝光…",
+          "text": "哦！刚才那个，是「天权」大人啊…嗯，你凑过来点。再，再过来点。我跟你说哦，她可是一个特别厉害的人，港内的事情她什么都知道。所以，你也要小心一点，不要被她盯上了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e0f7d1818af67f508a84eb45f2c8d202_6547945565216986917.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "唔，你是不是也被胡桃欺负过？她老是趁我不注意躲到我后面，这样突然拍我的后背，得逞了还嘿嘿地笑，哼。但我大人大量，看在她每次都会给我带酿梅花做线花糕的份上，才没跟她斤斤计较。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a10f8a52d362271a5b51ced4cd2d9484_4310809295423282707.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪奥娜…",
+          "text": "清泉镇的迪奥娜！啊啊，听说她能调出特别好喝的酒，我专门拜访过她！想着如果能把调酒的秘方借鉴到料理上，说不定也能做出美味。但是，她给我的秘方，比如啤酒里泡蜥蜴尾巴，蒲公英酒里放小块熏鱼…做出来都不是很好吃。呜，果然还是要靠自己吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8a9da1f16be939a10f238ab7aa32e8e2_8145081712677611734.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗姐姐人特别好！跟着她出去航海的话，每次都能捕获到好多新鲜的食材！章鱼脚拿来煲汤最好，海天青就要用辣椒好好炝一炝。不光北斗姐姐，「南十字」的船员们都很喜欢我做的菜呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7ffa35c3fa092e1bd2d710999da5a4f1_8479032321712369117.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "我遇到过不少挑剔的食客，但像钟离先生那种嘴巴上讲究，还能一针见血的，真的就只有他一个！那天我给他上的第一道菜是「椒盐豆腐」，他只尝了一口，就问我用的是什么盐，然后又说什么「不妨试试孤云阁浅海处提炼的海盐吧，它的层次感能够为豆腐赋予更多鲜味」。我试过之后味道真的大有不同。你说，他是不是好厉害！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/864441a71fddb74073187173657ff848_6313398236650509398.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云…",
+          "text": "重云啊，他总是跟着行秋一起来「万民堂」吃饭…呃，或者应该说，是被行秋拖来的？但是重云不吃热食。每次热菜上桌，行秋就会客客气气地说一声「失敬」，然后动起筷子逐一评点起每道菜的美味之处，他那夸得呀，我都想冲过去尝一口！你是没见到重云那种眼神，哈哈哈。还挺有趣的呢，他俩。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6897eb61bc8d3a65807ff7294ddbcff5_3853008740648464176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于甘雨…",
+          "text": "甘雨？嗯…啊啊有印象有印象，是那位只吃素食的客人吧！她来「万民堂」的次数不算多，每次都是一个人躲在小角落里不吭声地吃着饭。我嘛，看她孤孤单单有些可怜，就总帮她多舀两大勺菜。没想到，她每次都能全部吃完！真是不可貌相。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/61b4be7c45b683cee4de4858729b472d_6462159757769508848.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶…",
+          "text": "嘿嘿，她啊，是我引以为豪的小师妹喔！不过呀，她很久没来「万民堂」玩儿了。是大师父放心不下吧…哼，明明生的云来大章鱼那么好吃，瑶瑶上次不光不让我吃，还叫上大师父一起训斥我，呜…有时候真不知道，到底谁才是师姐了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/84c812e1c098f9716691e93ba901d9d6_3529785569095946593.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "辛焱经常来「万民堂」吃夜宵喔！像行秋、重云他们不敢试吃的新品，辛焱就会毫不犹豫地下筷…而且有八成以上的概率喜欢！哎，真是很不错的人呐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/37fa75e077894b80c6fb45bd2338faa8_4281970886809385194.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夜兰…",
+          "text": "夜兰姐？我当然记得她啦。第一次见面时，我还猜她会喜欢那种清淡的菜式，没想到她是我见过最能吃辣的客人！菜肴里的辣味她觉得不够，居然把绝云椒椒直接嚼来吃！真了不起。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/83ad477eba7747d66b5f04b85e1bfc55_3088514030672622473.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于嘉明…",
+          "text": "哎呀，知道嘉明要来，我就会早早备上一大壶茶水，方便他涮辣菜。我提议说给他做一份不辣的，但他却摆着手说就喜欢原汁原味的配方…不会错的，那不是客套话，我能分辨出真正食客的眼神！嘿嘿，那我当然也不能让他失望啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/a5830c4b663219e35268fd1f9472661e_8182984798673707113.mp3",
+          "audioName": "香菱关于嘉明…kr.mp3"
+        },
+        {
+          "name": "关于蓝砚…",
+          "text": "锅巴很喜欢她！第一天见面就不停地跟她握手，不知道的还以为他们认识了很久呢哈哈！我已经跟蓝师傅约好啦，让她带我去抓昆虫，采野蕈…嘻嘻，等我的新菜创作出来之后，你们都要来吃哦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/0cb4d43dedddea47a2d74f66ac7e068f_1787550923046462596.mp3",
+          "audioName": "香菱关于蓝砚…kr.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "啊！那个枫丹的厨师姐姐，我很喜欢她！那天她请我试吃了许多新奇的菜品，里边的口感非常…那个词怎么说的来着？哦，是「精准」！就像用各种味道的食材，在嘴里精雕细琢地制成了一尊雕塑！她对做菜过程中每个环节、每种原料的控制手法，都让我眼界大开。我是不是也该托申鹤去找闲云姨，做个能够定时定量还定温度的机关，再来学学她的手法呢？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/b6074688d67e1fbfb2be2cfd9d00efd2_1750518113605320253.mp3",
+          "audioName": "香菱关于爱可菲kr.mp3"
+        },
+        {
+          "name": "想要了解香菱·其一",
+          "text": "烤鸽子肉，来两串？哎呀~尝尝嘛。加了我的独门秘方，绝对跟其他家的不一样！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/731e60d389efab7a8319a0679915c68e_3099054673998689250.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其二",
+          "text": "大师父教我的枪法，很厉害吧？你想学的话我也可以教给你哦！不过说到这个…要是你愿意跟我学厨就好了！我的这些技巧和配方，要流传得远远的才好呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1935fb04f94f8e500092b866390d8ea1_4681152510725471968.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其三",
+          "text": "问我的愿望吗？那当然是要创造全新的新菜系！璃菜和月菜都是有极限的。哦，关键一定在于辣味吧！事不宜迟，让我爆炒个锅巴辣椒给你尝尝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/71c824fe88971dada701c7bfcba1a7c4_7136508343511359005.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其四",
+          "text": "嗯！我看你已经快被我的厨艺征服了嘛~是时候给你品尝我苦心研制的新菜品了——七彩琉璃大煎饼。喏喏，这薄薄一层蛋皮里面包着红色的松鼠火腿，橙色的胡萝卜，黄色的太阳蛙肉，绿色的嘟嘟莲，蓝色的蝴蝶翅膀…呃？真的不想吃吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a8c4d81a0210349ca33cb1c19c628fa0_1952717153375824708.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其五",
+          "text": "我…有点想不明白，明明以前睡一觉就好了的，这可不是我的风格。啊呀，不行！还是让你来想吧！嗯…我很想让你一直试吃我的新菜，但不知道从什么时候起，如果你吃坏了肚子，我也会特别难受。我，我到底该怎么办呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dffe94fadb029e896721377165a0f5ff_4362532340486717190.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "香菱的爱好…",
+          "text": "看着点哦！像这样烧热一锅油，然后，把去掉翅膀的晶蝶这样放下去炸…哎呀你别走啊，超香的啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/32ad23a5eb0d5b98f6f9e927c509ff91_550741628703381160.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "香菱的烦恼…",
+          "text": "呜，史莱姆滑蘑菇一份也没卖出去。就因为卖相不好吗？口感明明很棒的呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f7b83eacafede710f17b75d337cc2797_4131484860666196919.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "喜欢的食物呀，嘿，那当然是尚且不知道味道的新菜啦！欸，我这样回答很狡猾？呜，明明说的是实话嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/43f377ad096e267a0c42d7ea82902057_7402808352185555253.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我是不会对食物有什么偏见的！只有不合适的做法，没有不合格的食物！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/517376f070e58c38a0550043ff771a5e_6092660717570802320.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇，这就是…「噼咔」的味道！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1589880ea012ec059e37e8def04bff65_393449677739685523.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "嗯，你做菜真有一套。下次就换我来露两手吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/9e43be20041611ed3c858f620a5cfc12_2434233496143381806.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "难道是做法的问题吗？总觉得哪里怪怪的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/5a0c1cf69dfcd338895c536634556ab3_3662441555021129779.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "啊，找到你了！快来，我给你做了一整桌的菜喔！嘿嘿，不用急着夸我，先等你尝过味道再慢慢说吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ed6eda843aa48213dbe4ff0ea40160e3_6534293134465268850.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "呼哇~！好爽！全身上下都充满了力量！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d41d8cd98f00b204e9800998ecf8427e_1098175923795090921.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "嘿、哈！好！一拳就能把野物打晕…保证食材新鲜！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d41d8cd98f00b204e9800998ecf8427e_8178809837462953015.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "有这种力量的话…终于可以…不好，口水要流下来了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/9d68af02232d9d5ef531978bc4083ce2_5636387898301789253.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "父亲曾经说过：「想做出十分的菜肴，就要投入十二分的热情。」我懂的、我懂的！能走到今天这个地步，一定是因为有你付出了十二分的热情陪我练习。嗯，那我也要再加倍…用再加倍的热情来回应你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/c755450d34aa3f86e8b42e7543bbbf86_7073445464300914487.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "锅巴，喷火！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d2ab740d5aa5c5348a1c487b9b0524f7_6595998516251901352.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "热和热和嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/54af4d2aca1be087514dd9d748f35c30_9132208672538999752.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "开锅了开锅了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eda40c14421f22288ead0e9f060c6440_2970362624466654653.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "嘿…哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c8938867c77029d27a5d5f8ef3cd2160_4177504224557887564.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "讲不通，就打扁咯！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d80c3bfa14a7773a2dd5ebeef5a3453c_390929140018590018.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "见识下师父的枪法！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0ca2379f35fb605c3a4f17ef3162e3b1_3661730091886288533.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "跑起来跑起来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d95d5fff65c2eb5eb43e191af38c5216_1820214805562372448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺结束·其一",
+          "text": "肚子岔气了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/daaac5e97828546907fd33ae169e4471_2699432138451278042.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是新的食材！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/96eca61d8e9b917d974aeca59d0f3a74_8702953755787942393.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "大丰收大丰收！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1e5b5a1c2a6a3c9559b4d0b9d2139bf3_6791665962570088399.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我会物尽其用！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f24142b92cb6a5f5e8c39cd70c1211dc_9119239169906954281.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "呜，今天的食材好凶啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/734c4b434750c405e7a48c2256d6fc94_7592102491744511161.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "哎呀，疼疼疼…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/33ce6619d6c9758fac03668092d463a3_1272865824103119303.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我是不是惹了个不得了的家伙！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2f15980dd6d2fa64d40c9795626863e1_7624847000533035344.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别着急，歇会儿再打吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1e9eb99981d12ddad35cd51d91c2d667_3660077890645766390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "快回来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ceb3a10448d9b3e3a0ff2e175a1c6034_2754866526462289176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "搞砸了呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/36ae16967a15def947d999ba2b8ac3e5_1811514667811038502.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "突然…好渴啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fcdb6e9a473ac70196a15987024f52a2_7250141017890237924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "是不是…连累你了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/299726ca9c0aa33d9febfd0cc624d09d_5009915009999549758.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不要打我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/20/16576950/6c8f69eadfa1aae82d7270867205090d_1916336796120636691.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "救命啊，食材打人啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/20/16576950/2d9db2cf9d16bd7b03c5fa2a64a7edb5_8099941734984304141.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "还挺疼的唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/03cf3a5c4950ed429fd3920284a4ba7e_1814736946899173585.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "佐料带全了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/35c70ffa181dd4cc77a6d994793a38c4_2656802093451268907.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "长枪磨亮了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1d2aa73aa911617074e7cb5ea3058659_6135962383433851695.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "一刻都不想多等！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f21725666c638112f06cfecb8f40690_2316524346007237124.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是来自璃月的厨师香菱，最擅长的是做各种捞…捞，料理…哎呀，练了那么多次，还是会紧张，嘿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c7fe6e74a627acc0dce195d8abfe06c6_5984984856321764043.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·点心",
+          "text": "要吃点点心休息一下吗？我准备了一箩！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/672d2c1d36553c9e6a1b7c985238a177_9091233635065246004.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·火史莱姆",
+          "text": "火史莱姆，是椒盐…还是做成蒜香的好呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b5e8d63a4f332d2d84c7530afb71a668_277293608963258581.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·觅食",
+          "text": "嗯，闲着也是闲着，还不如一起找找食材去！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/df18cf56eb8639bb820239cb592d5405_8010575151251421540.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候·态度",
+          "text": "嗯…我不太喜欢雨天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6efdfb4811e8b86ab1a0862a7ef320fa_5532145904367218305.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候·疏忽",
+          "text": "我想想…今天有没有晒衣服出去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5f2b58814211db2cd6135ea846f4a147_6269349326057812474.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "走走走，我带你去找松茸！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/45e0b5e69bc700c6f574eb24dd7c6c2d_7183788779454579356.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "起风的时候…",
+          "text": "风史莱姆最喜欢在这种天气活动，快趁机多收集点儿！我给你做史莱姆沙冰！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ee88a9b55db0a4993a8032ad2be502a3_2111125965823212840.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "来得正好！一起去补充点食材吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8c9317040f5c197c65d5559fd248bf3c_4126947193377485230.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭已经做好了，快过来吃哦！啊呜…来晚了可就没了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/30e5c905c58b9b4e392467a18bb675fe_7628822465219523887.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "要吃夜宵吗？我这正好做了串炭烤岩蜥蜴。哎呀，别盯着了，快尝尝吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/61baabb3da6dadac50d6688d4c902418_8126249183993081437.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "喂…你不会是想背着我偷偷吃什么好东西吧？哦，只是休息啊…嘿嘿，那晚安喔。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a3af4168db80dc493fa752eb74bf15e9_756817567572002401.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱自己…",
+          "text": "你见过蒙德城的龙？有多大？哇，不是吧。那要是做成龙肉排——嗯，该有多棒啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a4a871d7461b9bdde5f1622b78624a6e_2051573267191487531.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·长处",
+          "text": "虽然比起认路我更擅长做饭，但…不管啦，出门喊我准没错！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b59f6b23882d6ceb9120eb3f14b8b4e_6811591177246828359.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·新知识",
+          "text": "自从认识你，我好像学会了不少料理以外的知识。欸？呃…你问我都有些什么？嗯…嗯…你突然这样问，我又有点想不起来了。算了算了，我原本就不擅长这些，还是给你做两道新菜尝尝吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/87fb182200c31a03cd1c0bda97f57c99_7266784935502990259.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "无论什么时候，我都要做出所有人都爱吃的料理。神一定也认为这是正确的事情，才授予了我这个连大师父也没有的「神之眼」…唔，怎么说来着…哦，以资鼓励！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a53ae4198ba0b9da229917cbe29e2d02_2303705720110161.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "如果拉肚子了，喝一杯霓裳花泡的茶就会好的！欸？我懂一点食疗方法也不用奇怪吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f0903783ff5094aa269fbcaa47ccc4ad_3353089858640954470.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "我喜欢洋葱！…我试过十几种切洋葱不会流泪的方法，没一个对我有用。但这也阻止不了我喜欢洋葱！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b369ca2442de845fbf4afce199fb9a9_3367973289552219285.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于白术…",
+          "text": "嗯？我闻到了雾虚花的香气！是白先生，白先生来帮你看病了吗？你是哪里不舒服，头晕还是胃疼？还是嗓子痒？还是没力气？哦…没生病啊。那还好。不然白先生会给你超——苦的药哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c7760f0caaf318857fd88f6113681253_2255043470653116889.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凝光…",
+          "text": "哦！刚才那个，是「天权」大人啊…嗯，你凑过来点。再，再过来点。我跟你说哦，她可是一个特别厉害的人，港内的事情她什么都知道。所以，你也要小心一点，不要被她盯上了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8cd27814850bf8a1d4c357b00e61ec4f_527506842205646023.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "唔，你是不是也被胡桃欺负过？她老是趁我不注意躲到我后面，这样突然拍我的后背，得逞了还嘿嘿地笑，哼。但我大人大量，看在她每次都会给我带酿梅花做线花糕的份上，才没跟她斤斤计较。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7be5013706eae2503d03f9e4c80a381f_3223426551059364951.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪奥娜…",
+          "text": "清泉镇的迪奥娜！啊啊，听说她能调出特别好喝的酒，我专门拜访过她！想着如果能把调酒的秘方借鉴到料理上，说不定也能做出美味。但是，她给我的秘方，比如啤酒里泡蜥蜴尾巴，蒲公英酒里放小块熏鱼…做出来都不是很好吃。呜，果然还是要靠自己吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/104016ed7cf5621ac7a6b176a8be3149_3565924194927594952.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗姐姐人特别好！跟着她出去航海的话，每次都能捕获到好多新鲜的食材！章鱼脚拿来煲汤最好，海天青就要用辣椒好好炝一炝。不光北斗姐姐，「南十字」的船员们都很喜欢我做的菜呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1705744438303acbd2665b3c9b508643_5573311300778648882.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "我遇到过不少挑剔的食客，但像钟离先生那种嘴巴上讲究，还能一针见血的，真的就只有他一个！那天我给他上的第一道菜是「椒盐豆腐」，他只尝了一口，就问我用的是什么盐，然后又说什么「不妨试试孤云阁浅海处提炼的海盐吧，它的层次感能够为豆腐赋予更多鲜味」。我试过之后味道真的大有不同。你说，他是不是好厉害！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab90f28f8d51b7e345f427ba17e73041_8373793143245021675.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云…",
+          "text": "重云啊，他总是跟着行秋一起来「万民堂」吃饭…呃，或者应该说，是被行秋拖来的？但是重云不吃热食。每次热菜上桌，行秋就会客客气气地说一声「失敬」，然后动起筷子逐一评点起每道菜的美味之处，他那夸得呀，我都想冲过去尝一口！你是没见到重云那种眼神，哈哈哈。还挺有趣的呢，他俩。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ec3c443ee4b1182fe684d641354692c6_8930734122538009738.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于甘雨…",
+          "text": "甘雨？嗯…啊啊有印象有印象，是那位只吃素食的客人吧！她来「万民堂」的次数不算多，每次都是一个人躲在小角落里不吭声地吃着饭。我嘛，看她孤孤单单有些可怜，就总帮她多舀两大勺菜。没想到，她每次都能全部吃完！真是不可貌相。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ad9eff77df5b11a117cd50aff662ab04_7467422889847270629.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于瑶瑶…",
+          "text": "嘿嘿，她啊，是我引以为豪的小师妹喔！不过呀，她很久没来「万民堂」玩儿了。是大师父放心不下吧…哼，明明生的云来大章鱼那么好吃，瑶瑶上次不光不让我吃，还叫上大师父一起训斥我，呜…有时候真不知道，到底谁才是师姐了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b7170edb6de2c66c841e33af4537824_5126306493526985129.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "辛焱经常来「万民堂」吃夜宵喔！像行秋、重云他们不敢试吃的新品，辛焱就会毫不犹豫地下筷…而且有八成以上的概率喜欢！哎，真是很不错的人呐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a46cb62ca76af32b3cc62a9e8e50abb5_8913342417036172048.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夜兰…",
+          "text": "夜兰姐？我当然记得她啦。第一次见面时，我还猜她会喜欢那种清淡的菜式，没想到她是我见过最能吃辣的客人！菜肴里的辣味她觉得不够，居然把绝云椒椒直接嚼来吃！真了不起。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d3f3a07c3d884f36670aaefdda4fd67e_7290699816883814075.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于嘉明…",
+          "text": "哎呀，知道嘉明要来，我就会早早备上一大壶茶水，方便他涮辣菜。我提议说给他做一份不辣的，但他却摆着手说就喜欢原汁原味的配方…不会错的，那不是客套话，我能分辨出真正食客的眼神！嘿嘿，那我当然也不能让他失望啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/542b4b217e748d8389e1404d914b4b49_3928303393060586634.mp3",
+          "audioName": "香菱关于嘉明…en.mp3"
+        },
+        {
+          "name": "关于蓝砚…",
+          "text": "锅巴很喜欢她！第一天见面就不停地跟她握手，不知道的还以为他们认识了很久呢哈哈！我已经跟蓝师傅约好啦，让她带我去抓昆虫，采野蕈…嘻嘻，等我的新菜创作出来之后，你们都要来吃哦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/65a4ec5dedc0b6fa3edb37b2e51fe239_5033736360405883167.mp3",
+          "audioName": "香菱关于蓝砚…en.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "啊！那个枫丹的厨师姐姐，我很喜欢她！那天她请我试吃了许多新奇的菜品，里边的口感非常…那个词怎么说的来着？哦，是「精准」！就像用各种味道的食材，在嘴里精雕细琢地制成了一尊雕塑！她对做菜过程中每个环节、每种原料的控制手法，都让我眼界大开。我是不是也该托申鹤去找闲云姨，做个能够定时定量还定温度的机关，再来学学她的手法呢？",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其一",
+          "text": "烤鸽子肉，来两串？哎呀~尝尝嘛。加了我的独门秘方，绝对跟其他家的不一样！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b8349156ab88e86a181c3fd336e3740_6273652255171711088.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其二",
+          "text": "大师父教我的枪法，很厉害吧？你想学的话我也可以教给你哦！不过说到这个…要是你愿意跟我学厨就好了！我的这些技巧和配方，要流传得远远的才好呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/36c8a9cc986f971a5c149f6b4a46554e_5063130241148938466.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其三",
+          "text": "问我的愿望吗？那当然是要创造全新的新菜系！璃菜和月菜都是有极限的。哦，关键一定在于辣味吧！事不宜迟，让我爆炒个锅巴辣椒给你尝尝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3ae72787b409cbf892df7ad9872006c4_7558902349267890976.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其四",
+          "text": "嗯！我看你已经快被我的厨艺征服了嘛~是时候给你品尝我苦心研制的新菜品了——七彩琉璃大煎饼。喏喏，这薄薄一层蛋皮里面包着红色的松鼠火腿，橙色的胡萝卜，黄色的太阳蛙肉，绿色的嘟嘟莲，蓝色的蝴蝶翅膀…呃？真的不想吃吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8c771ac6e23aecc0a4d1a4fc3150291e_1947713751554169487.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解香菱·其五",
+          "text": "我…有点想不明白，明明以前睡一觉就好了的，这可不是我的风格。啊呀，不行！还是让你来想吧！嗯…我很想让你一直试吃我的新菜，但不知道从什么时候起，如果你吃坏了肚子，我也会特别难受。我，我到底该怎么办呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/75962cdf944bf7a7739d234723c9ca5e_8183171796540632643.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "香菱的爱好…",
+          "text": "看着点哦！像这样烧热一锅油，然后，把去掉翅膀的晶蝶这样放下去炸…哎呀你别走啊，超香的啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5748d71f13c148d665ddd31fb2a25ae8_8908955297326013137.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "香菱的烦恼…",
+          "text": "呜，史莱姆滑蘑菇一份也没卖出去。就因为卖相不好吗？口感明明很棒的呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3978e12fa885e059b3ab2a1b2edc5d24_4017558585118233427.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "喜欢的食物呀，嘿，那当然是尚且不知道味道的新菜啦！欸，我这样回答很狡猾？呜，明明说的是实话嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/26cd8446bdf8a8dc5db7e068e5bd7822_8027438967653322199.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我是不会对食物有什么偏见的！只有不合适的做法，没有不合格的食物！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/414ecdeed3a3feed67ec7312b9364189_8073257167237391011.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇，这就是…「噼咔」的味道！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/03/16576950/3f17cf63bd7aa7de3790cf3db3377f1f_6804124672285994364.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "嗯，你做菜真有一套。下次就换我来露两手吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/615235cf5360b820a1e93c996f382472_6084404095712753366.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "难道是做法的问题吗？总觉得哪里怪怪的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/931b59f7a75a97e4806a9feb7a0649b9_2327406901297139184.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "啊，找到你了！快来，我给你做了一整桌的菜喔！嘿嘿，不用急着夸我，先等你尝过味道再慢慢说吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/874dab26b377e9fefca205b40886d878_4332996763616005903.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "呼哇~！好爽！全身上下都充满了力量！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d41d8cd98f00b204e9800998ecf8427e_2745971772291269060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "嘿、哈！好！一拳就能把野物打晕…保证食材新鲜！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d41d8cd98f00b204e9800998ecf8427e_1879195703097338178.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "有这种力量的话…终于可以…不好，口水要流下来了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/e71a5d2841ac0b9cd630d704b090726f_7240671656440688394.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "父亲曾经说过：「想做出十分的菜肴，就要投入十二分的热情。」我懂的、我懂的！能走到今天这个地步，一定是因为有你付出了十二分的热情陪我练习。嗯，那我也要再加倍…用再加倍的热情来回应你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/2f2a09e6cd989c0583ef4660e22d7c7e_6257136485367220174.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "锅巴，喷火！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/61723e1389331255d686504620b42416_9023070389150155595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "热和热和嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4378d6b92ef4eda4560939a170c5f60c_7755691425873398886.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "开锅了开锅了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/84fb4e7ed3b8d408a8fb295fb15d6c20_6672872908645672824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "嘿…哈！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/60f11457ba1a75f06b2cc2e260c5afb9_387582623039166385.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "讲不通，就打扁咯！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/82f452f82f39d669e8200da97d0eb141_7373837860689568147.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "见识下师父的枪法！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d624b74a9b870f164527dd17c75d12a0_7159308462361914378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "跑起来跑起来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9c305f009563f663d34219bf75dae943_9101642148524795980.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺结束·其一",
+          "text": "肚子岔气了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7102062c8d26224c59282ab6af6fb777_2576905442401309831.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是新的食材！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d31b38ae939fd99ab8c96cf46800e22f_6164813368833486559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "大丰收大丰收！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4f1f914fa8c416d97264c318c2e11587_213420708705737336.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "我会物尽其用！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/78bfb877600be4957c5f519bce2fe0a5_7370111890745902997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "呜，今天的食材好凶啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0af3fe000f1d663b661afdf81ab0bab8_1551489746125574382.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "哎呀，疼疼疼…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/63d583f211fc2b37e7103678d794e6d9_1813540610979328292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "我是不是惹了个不得了的家伙！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a87114f785f4c82ebb9a5efe8f84d791_4257872017820254798.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别着急，歇会儿再打吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/36dcec6786204fa8bfc4534a509add61_4833398671421571709.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "快回来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/54694159c40d07c31e8321c92b6fecd8_281518372760634713.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "搞砸了呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/72fe1c7160b24837bace094917d0f78f_5044439801827461420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "突然…好渴啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/13daca9afffc45652177a7f09dacc1b6_7676471657556269231.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "是不是…连累你了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/274d3c21b7bffe334571485efef10f7b_8463388294890956218.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不要打我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/369eeb6e4dcd19883c0601ed37484414_6012025739475992388.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "救命啊，食材打人啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/01f1f58120606b639acd4edafb1e3dbd_7460069117831777700.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "还挺疼的唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/13/6276411/23bbda0e9117841cfee52fd00d5e3799_3235634596551260364.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "佐料带全了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/35e8195f5911ba601cb7cb52e6e5e6e5_5343915778825349643.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "长枪磨亮了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1bdabd3ffcc095c79d32f09ae6ed7b69_2550310444888373070.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "一刻都不想多等！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b522ade3186056233cc5456abcad0b42_7866081782774754523.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

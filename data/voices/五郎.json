@@ -1,0 +1,1733 @@
+{
+  "id": "3275",
+  "name": "五郎",
+  "alias": [
+    "五郎"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "海祇岛反抗军大将，五郎，前来助阵！早就听说过你的威名了，我将与你齐驱并进，一同攻夺胜利！哈哈，怎么样，我刚刚这句话的气势，还不错吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/28ce4a388893ae3223013b1c15178af2_6095640960485252661.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·军略",
+          "text": "枕戈坐甲，才能应对变数。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2e22c4a53dc514b52df5c54d5bb40e7f_4618624469488558063.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·训练",
+          "text": "难得没有战事，来场体能训练吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d7d5023d169a0a55e0989ebdf04e89e_893895946673456781.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·体格",
+          "text": "魁梧的体格是力量的象征，对鼓舞士气也很有帮助。我得再加把劲啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bfeeb31a6d3195ae1c63cc125d4d8574_1714598343371005199.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "尾巴湿了…找堆篝火烤一烤吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bffcf5048b9373e8d4033b0bcf0bf219_5814553280872740312.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "有敌情吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0c35d8195e52b94b137d313f4e47055c_6852782420128665729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "好冷…这种天气不适合露天活动啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/26d173bebbd965a0d7db3f765d34486b_7205942271658270728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "晒太阳虽好，士气却不能松懈啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/81fc35bfd76b47a3f6888d888b9e3d30_4567357281395809167.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "顺风进攻，我方占优。逆风作战，也不必畏惧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5111fe9313ad97e2cd1c6af317c57fb7_586063509342247286.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "晨练时间到了，要和我一起去登山吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4512e161a049031bbf684e8c16938c42_2113224704946893638.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭就吃鲜鱼炖萝卜和白米饭吧。这种搭配在反抗军中很流行，推荐你也试一试。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4bffe2bbe9a77ec9082cead02b07c79e_825716669756462984.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上也不能怠懈，要让眼睛充分适应黑暗。毕竟，黑灯瞎火的地方，也有可能变成战场。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/abebe60fa675ebd44de9a61b8268e200_4023619773423434337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "累了吗？那就安心休息吧。待在这里放哨的任务就交给我了！保证你回来的时候，一切都跟现在一模一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/540e9480ca9c4d525a374bf1ecca707d_7767937335660486309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于五郎自己·大哥",
+          "text": "「五郎大哥」？你是从哪里听到的啊！唉…实不相瞒。平时，我和将士们的交流都很密切，有什么好东西也都大家一起分享。他们敬重我，私底下就大哥大哥地叫了起来。可实际上，他们的年纪都比我大啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2d7b8a60935da1fd1ec0e3d4c095f9d2_7845897625783957125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于五郎自己·建议",
+          "text": "大概因为我总是打胜仗吧，总感觉将士们把我想象成了特别厉害的人，哪怕是小事也会来问我的建议。他们的眼神让我没法拒绝，但我的计策也有限…只能讲些大道理，或是凭直觉给出答案了。唉，会不会对不起他们呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a84024c389ce6adf72e65595da46e2b6_8512974418960820369.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·倾诉",
+          "text": "有什么烦恼，千万不要埋在心里，来和我说说吧。虽然我不是什么事情都在行，但我一定会尽力为你出谋划策的。就算…就算答案不够可靠，至少我也是你忠实的听众。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/89972aefcbf8b1c42b22fdb21d9c5dae_3454123232404718918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·同食同寝",
+          "text": "一起训练，一起吃饭，一起休息…方便随时交流，还能增进我们之间的默契。到了关键时刻，一个眼神就能传递重要的信息…欸？这样不合适吗？唔…我和其他兄弟都是这样熟悉起来的啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/960f582e327b69920dddf2966a8f0482_2779691684745657884.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」为我的战斗提供了许多帮助，让我能在战场上承担更多责任，为战友们开辟道路。但我也明白，个人的力量再强，都没法左右战争的胜负。大家齐心协力才是关键。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e64a421161f2bf7e90494c323f903bb4_496889769721247911.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·轻装上阵",
+          "text": "轻装上阵正是我的风格。我擅长灵活游走，寻找战机。我的箭矢会优先对准敌方最强的将士，挫伤对方的锐气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5cd0f8a68e792814e2d5c311fcc653ab_6760426661331150178.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·常胜将军",
+          "text": "将士们给我取了个绰号，叫「常胜的尖耳将军」，还有些奇怪的传闻，说是「摸到五郎大哥的耳朵，就能获得常胜将军的好运」。唔…摸是绝对不行的！他们笑得再开心也不行！欸？你也想摸？喂，喂…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b6f133a076332be9345a2cbfc6bea8ee_4277945197499454661.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "听说璃月有着高耸入云的群山，真想亲眼去看看，再尽情攀登一番。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/595d6ad4a0953686eb9f2cf3f593d844_7035101021632244422.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗船长重视情义、身手不凡，令人尊敬。她曾说不愿把同伴卷入纷争，我们也理解这一点。因此，只有到了必要的时候，才会请她来帮忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/52deafdb0d15dc2f86656ca6c7cacea0_3189909435955316861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶…",
+          "text": "我见过形形色色的浮浪人，万叶绝对是他们之中最特殊的一位。他就像一缕风，不会在任何地方停留，但总能给身边人带来些什么。和他并肩战斗期间，我就从他身上学会了几分「洒脱」。总之，我和万叶相当合拍！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2e9ac904ce3b095310423cb4834f3e88_3059969949874156944.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海·职责",
+          "text": "珊瑚宫大人作为海祇岛最高领袖，负责掌控大局，制定计划。我负责将细节落实，把控前线的形势。反抗军上下一心，只求胜利。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/efc8d024013490a8094a5ad84047af23_8006738352237662005.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海·态度",
+          "text": "我对珊瑚宫大人抱有崇高的敬意。珊瑚宫大人神机妙算，没有她的谋略和统筹，反抗军不可能取得如今的战果。只不过，私底下她似乎更偏好安静的生活。没有军事要务的话，我不会主动打搅她。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b464e106797b37c2aba85ea6bd051b5a_3541454978325841759.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "雷电将军…不论理由如何，我无法认同她以前的做法。现在，海祇岛与幕府签订了和平条约，但我绝不会放松警惕。假如冲突再次爆发，我必定会重返前线。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f26c20f278786899270606d1fce8a4ca_1307442285588068679.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "我对幕府军没有好感，但九条裟罗，也许是幕府军里最正直的一位将领了。我们之间进行过数次较量，各有胜负。我曾不成熟地想过，要是这样的人能够重视民众的愿望，不受幕府掌控就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c823a95e47ac0a0e2b542d57c1181da9_7171643031793270164.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "那个女人…我们可以不聊她吗？我来帮你干活，什么杂活都没有问题…呜…就当是为了我的身心健康着想，我们还是换个话题吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f3e5a9b49100e385d4933599ada9d44f_544436687170290652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "社奉行从属于幕府，但立场更倾向于民众。在这种两面为难的处境下，「白鹭公主」还能站稳脚跟，应该是特别冷静，又能把握做事分寸的人吧。这一点值得我学习。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f94bbc8a160573753e55107207dfd6c4_92435576704188334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于早柚…",
+          "text": "我军情报显示，那位忍者精通潜入之法，也许她的忍术能够在珊瑚宫大人的某些奇策中发挥作用…不过，情报里又说很难掌握她的行踪，看来不好招募啊…欸？你说她是社奉行的人？…呃，那还是算了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fa3ade13c4fe8c15a32a97e1fe89a2e3_2843576371905805138.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏…",
+          "text": "你说那个鬼鬼祟祟，游手好闲的侦探先生？毕竟是来自幕府的家伙，没办法完全信任，我会继续盯紧他的。说起来，他倒是有那么点探案的功夫。至于这是不是什么阴谋诡计…嗯，就得用时间来证明了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4225e41b3ed1e06d26357766958f6dbe_7481627454702474398.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其一",
+          "text": "毕竟我大多时间都在战场上，我的故事，可能不算很有趣…但如果你想听的话，我就慢慢和你说，想到什么说什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4520c08ba4b881d95d6eb70b47547fb3_7925760272261244199.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其二",
+          "text": "我没有令人敬畏的智谋，只有一双手和一条命。也许我的手足够有力，命足够硬吧，这么多年来，经历了不知多少场恶战，都成功活了下来。有人说，只要跟着我，不管遇上多绝望的战局，都能平安无事。就这样，不知不觉，我得到了大家的认可，成为了将领。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4ba8c751b46e354e614f065baac08469_6723848743481774116.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其三",
+          "text": "最初，我们的敌人是流寇、海贼和魔物，但后来，雷电将军颁布了「眼狩令」。气焰嚣张的幕府军来到了我们的面前，被我们迎头痛击。哈哈，大概他们也没想到，会遭受如此激烈的抵抗吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b837d6bdc56a717d252294932a40bdb4_7532811835981439347.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其四",
+          "text": "珊瑚宫大人曾经说过，我有个致命的弱点，战斗的时候太过忘我，只顾着深入敌阵。她说勇猛是好事，但对于统率一军的将领而言，这样并不称职。我…努力在改进这一点！你…能够在我身边，监督我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1b86e09df8eb1857f88c8e34b29ed59a_6327410445426566672.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其五",
+          "text": "我需要抗争到底的对象，并非特定的团体或阵营，而是一种「恶意」。这种「恶意」曾践踏大家的愿望，破坏大家平静的生活，肆意伤害大家…彻底消除它们后，我就能安心放下武器了。等那时候，我就换上便服，和你在海祇岛上随意地散步吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c5d6ce8e78f0b133a114ffaf617c3041_7040135676614015813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "五郎的爱好…",
+          "text": "我喜欢登山，越险峻的山越好。登山能锤炼我的肉体和精神，让我变得更强壮。还有，和同伴一起登山。在挥洒汗水后共同欣赏山间的美景，也是人生一大乐趣。不过，我不敢…不想攀爬稻妻的最高峰…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/56784f37e9abd178fc0524c0e729f215_786321583900770850.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "五郎的烦恼…",
+          "text": "轻装上阵也有不方便的时候，比如，一旦遇上火攻，我的尾巴就要格外小心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3a95e29f3ac9a4e51c0df51cce27ef31_6893394493946127767.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢蛋糕和三彩团子！嗯…大概是因为我很少吃到这类精致的点心吧。军营里的饭菜强调简便快捷，通常也不会用到太多调味料，至于糖，就更是珍贵物资了。甜味…我无法拒绝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f87f6341b1dd23ada89cc6cb42c146aa_2143861110718590668.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "大部分食物我都不忌口，可洋葱是个例外。有一次，后勤兵往饭菜里加了洋葱末，让我在饭桌上痛哭流涕…啊，那次实在太丢人了！弄得后勤兵也很过意不去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/71181d24e255995b14a597a102bc53e9_7491682792465623844.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这种甜味，完全无法抵抗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/4436dc49c01b1e35716258d2573f44dc_7984906070855006873.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "哦！心中气势大增！有什么需要我帮忙的吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c99eb1c7762a30a854c57d42bb28b520_154795527718569919.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "比想象中的还要辛辣…呜，我…我有些力不从心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f7952460faada662b42dc385c2e03447_3851763733508725687.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你的生日，是意义重大的一天，请允许我来为你庆祝吧。我们在海边生一堆篝火，抓来最新鲜的鱼和螃蟹，我想给你亲手做一顿大将级别的「士气晚餐」！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2c1441a59e6d7f224d1c7f26e27898ab_5443843928315205172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "强大的力量，是为了保护同伴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/29600dd67535583ae14d21e2708196e3_8748708325910940072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "要保护同伴，不能只是被动防守，必须积极进攻。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cb329a9a4db37041b7c2362df5cf8727_9144393835963106563.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "攻夺胜利的要领，是牢记战斗的意义，遵循正确的战法，拿出锐不可当的气势。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7edfc63746653cd65a57eafc9d389183_67987610065589440.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "有了锐不可当的气势，与战友们紧密配合，方可无往不胜。谢谢你的指点！这是属于你我二人共同的胜利。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/66c420c5fd87a203f2b2a2f317e591a1_7636570724353629589.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "进军！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/138ae035ad2cddfa7581469f2e554c51_3072469842039016163.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "强攻！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f43b9f7cda95927ae5c0b0575581667d_8147163745610416738.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "结阵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/186f833159773232a532f634e969cd48_2842664715842438448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "随我出征！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b872465a0db8d5eb1df8ef2218e4a619_6800385983487438326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "势如破竹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5c7284c472a6134c03432653149eb7c2_5764971520757102566.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "兵贵先声！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f6fbf135febeac12d0b238539809c0cb_3786248577091951254.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "今日运势不错！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6d6acb35c6ad589be12e30fd6816e826_4199405329627321722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "和同伴们一起分享收获吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f297df6d6a8ccc4be2098e33f07c9f26_6189021240682254605.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这个宝箱…埋伏了我？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/59765b22370f5ce32ece5cb90f1d78c8_365131705482351288.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "随我来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c5a62e392c300b7e03fff6fd46bf48a7_63540711100545459.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我还能战斗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ece99522ced514dfc70397a520feb8c7_7472543515270317419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "大意了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f1e7d947c324bfea3608a7a7aa0f9ce0_4216353236685271427.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "没到认输的时候！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f11de9b7cdb03f6a7833bd1791cf6e7e_2210703635950754245.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "按甲休兵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/81bce795108d3d6c05128716c4b27f57_6378362888177595443.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "不要乱了阵脚！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/262153ccde01ffe0346b5c3b93c7ae84_1342784809989464248.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "兵败了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/569acd7db688ad94196739310689d4ec_2172334153833832858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "海祇岛的…大家…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b7bedddbd09d399a1d9e345d744767bf_5142996644935499784.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "全军…撤退…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4e817c59bd042967f66e359b1b640367_5858497143195731455.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不痛不痒！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2eb71a755d30a8f3fd6dce113e8ab049_493289628139141733.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "再来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/63ffe7339618041980f4bcd411a7cb52_940564406721667177.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "整装待发！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/816407df07fbfd599a636b1d4d2c180b_2273989435876028592.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "准备进军！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/27a954e6323c289aefb0b2db86eb15f0_4424713542450826773.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "行兵列阵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c50558f42617f26531ed8ef5b43adbed_7251769036559239098.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "海祇岛反抗军大将，五郎，前来助阵！早就听说过你的威名了，我将与你齐驱并进，一同攻夺胜利！哈哈，怎么样，我刚刚这句话的气势，还不错吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/71ad9573d3d9cb6aff89f45476c21ee6_6743380524135153509.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·军略",
+          "text": "枕戈坐甲，才能应对变数。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/090da2c5a47372d6b0f80322ea858dd4_8292311927082891406.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·训练",
+          "text": "难得没有战事，来场体能训练吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/99aee35bcc8246a804710d6676e4e5d2_3240502725314317893.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·体格",
+          "text": "魁梧的体格是力量的象征，对鼓舞士气也很有帮助。我得再加把劲啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3e0c3f2d39348f719a3f4cad85676f77_5340837473848902546.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "尾巴湿了…找堆篝火烤一烤吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bdc5de10ef8a3497ddf7c2037130a729_2462518223451565613.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "有敌情吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c90b349b3ae7a390fe071049ba443cd_672196531793855414.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "好冷…这种天气不适合露天活动啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c1b51d60174c295f9e277d6e98e4ac35_40004500078841606.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "晒太阳虽好，士气却不能松懈啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0001f3732cbb051188686f19da455fe0_5756956517796679061.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "顺风进攻，我方占优。逆风作战，也不必畏惧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a58083d06df86425342b5982cacffd7c_8776206391390567245.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "晨练时间到了，要和我一起去登山吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0efc7a49877d6f174973cb9d1027aee0_8204228366854630775.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭就吃鲜鱼炖萝卜和白米饭吧。这种搭配在反抗军中很流行，推荐你也试一试。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f2144194de617dcaf5743446f248ff64_9035544298100985855.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上也不能怠懈，要让眼睛充分适应黑暗。毕竟，黑灯瞎火的地方，也有可能变成战场。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/84e2568dcf6f2d880c9d5da109080f27_5394687586213435660.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "累了吗？那就安心休息吧。待在这里放哨的任务就交给我了！保证你回来的时候，一切都跟现在一模一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/65c3f8e480ce403b3e53404e85365339_1590266965889275251.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于五郎自己·大哥",
+          "text": "「五郎大哥」？你是从哪里听到的啊！唉…实不相瞒。平时，我和将士们的交流都很密切，有什么好东西也都大家一起分享。他们敬重我，私底下就大哥大哥地叫了起来。可实际上，他们的年纪都比我大啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bfbed173248deffafe3b3eb2555157f8_2547966339104096646.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于五郎自己·建议",
+          "text": "大概因为我总是打胜仗吧，总感觉将士们把我想象成了特别厉害的人，哪怕是小事也会来问我的建议。他们的眼神让我没法拒绝，但我的计策也有限…只能讲些大道理，或是凭直觉给出答案了。唉，会不会对不起他们呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9501fda69ddd80516bb8fe431c5d0711_7825774430272682371.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·倾诉",
+          "text": "有什么烦恼，千万不要埋在心里，来和我说说吧。虽然我不是什么事情都在行，但我一定会尽力为你出谋划策的。就算…就算答案不够可靠，至少我也是你忠实的听众。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/964e7ae65b14a34eef329581ede84efd_8885995853562953672.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·同食同寝",
+          "text": "一起训练，一起吃饭，一起休息…方便随时交流，还能增进我们之间的默契。到了关键时刻，一个眼神就能传递重要的信息…欸？这样不合适吗？唔…我和其他兄弟都是这样熟悉起来的啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/483e0a501804d0d3b82a46ab9a0397da_1174054719340731559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」为我的战斗提供了许多帮助，让我能在战场上承担更多责任，为战友们开辟道路。但我也明白，个人的力量再强，都没法左右战争的胜负。大家齐心协力才是关键。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fdaed0412647e8dc89039e7a271854cd_4714590682659200991.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·轻装上阵",
+          "text": "轻装上阵正是我的风格。我擅长灵活游走，寻找战机。我的箭矢会优先对准敌方最强的将士，挫伤对方的锐气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e9fc36eb67c819104c6be09e83493b7a_7299016723656742196.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·常胜将军",
+          "text": "将士们给我取了个绰号，叫「常胜的尖耳将军」，还有些奇怪的传闻，说是「摸到五郎大哥的耳朵，就能获得常胜将军的好运」。唔…摸是绝对不行的！他们笑得再开心也不行！欸？你也想摸？喂，喂…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5eb42936b9afc843db487a2d7551cc8_410730047424069772.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "听说璃月有着高耸入云的群山，真想亲眼去看看，再尽情攀登一番。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5dc05fa848e937a383fac8ce194a8c30_6677449394977361953.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗船长重视情义、身手不凡，令人尊敬。她曾说不愿把同伴卷入纷争，我们也理解这一点。因此，只有到了必要的时候，才会请她来帮忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4ab9edbd1c7fbfb44e5f331954f8c645_4305295920619932693.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶…",
+          "text": "我见过形形色色的浮浪人，万叶绝对是他们之中最特殊的一位。他就像一缕风，不会在任何地方停留，但总能给身边人带来些什么。和他并肩战斗期间，我就从他身上学会了几分「洒脱」。总之，我和万叶相当合拍！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/644bdd7f9d3ec0878e4048c5e285fc7e_7825246429893683790.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海·职责",
+          "text": "珊瑚宫大人作为海祇岛最高领袖，负责掌控大局，制定计划。我负责将细节落实，把控前线的形势。反抗军上下一心，只求胜利。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c42ef5e204ea26d37de37150d0e1f957_6406578174749257659.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海·态度",
+          "text": "我对珊瑚宫大人抱有崇高的敬意。珊瑚宫大人神机妙算，没有她的谋略和统筹，反抗军不可能取得如今的战果。只不过，私底下她似乎更偏好安静的生活。没有军事要务的话，我不会主动打搅她。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c376bf167cb2b87ea3227db8b991e4c3_2360103942872674451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "雷电将军…不论理由如何，我无法认同她以前的做法。现在，海祇岛与幕府签订了和平条约，但我绝不会放松警惕。假如冲突再次爆发，我必定会重返前线。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/11c2b2a233bf75a8149171158c9afae4_5047702979579010861.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "我对幕府军没有好感，但九条裟罗，也许是幕府军里最正直的一位将领了。我们之间进行过数次较量，各有胜负。我曾不成熟地想过，要是这样的人能够重视民众的愿望，不受幕府掌控就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3bc618752002b76c8a4023e3fbb5dfd9_3912561388180955569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "那个女人…我们可以不聊她吗？我来帮你干活，什么杂活都没有问题…呜…就当是为了我的身心健康着想，我们还是换个话题吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/27d5388f0aa55af1420ea4693df1dfb6_7795154869291367141.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "社奉行从属于幕府，但立场更倾向于民众。在这种两面为难的处境下，「白鹭公主」还能站稳脚跟，应该是特别冷静，又能把握做事分寸的人吧。这一点值得我学习。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e72f11d1b1e0f0c91b8db652e4e476ec_5702613261029584806.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于早柚…",
+          "text": "我军情报显示，那位忍者精通潜入之法，也许她的忍术能够在珊瑚宫大人的某些奇策中发挥作用…不过，情报里又说很难掌握她的行踪，看来不好招募啊…欸？你说她是社奉行的人？…呃，那还是算了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e232a511b8d714cfd3c00c008a576ede_3842397813495402032.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏…",
+          "text": "你说那个鬼鬼祟祟，游手好闲的侦探先生？毕竟是来自幕府的家伙，没办法完全信任，我会继续盯紧他的。说起来，他倒是有那么点探案的功夫。至于这是不是什么阴谋诡计…嗯，就得用时间来证明了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9a2b1b1bfea6a3fb9bf3b5639514f771_814432260537167302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其一",
+          "text": "毕竟我大多时间都在战场上，我的故事，可能不算很有趣…但如果你想听的话，我就慢慢和你说，想到什么说什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fae8515d32922e9ac19edc714a12f048_8495321200684650212.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其二",
+          "text": "我没有令人敬畏的智谋，只有一双手和一条命。也许我的手足够有力，命足够硬吧，这么多年来，经历了不知多少场恶战，都成功活了下来。有人说，只要跟着我，不管遇上多绝望的战局，都能平安无事。就这样，不知不觉，我得到了大家的认可，成为了将领。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c7c59516a1021e67c6678306567d4b2b_8620073825217273185.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其三",
+          "text": "最初，我们的敌人是流寇、海贼和魔物，但后来，雷电将军颁布了「眼狩令」。气焰嚣张的幕府军来到了我们的面前，被我们迎头痛击。哈哈，大概他们也没想到，会遭受如此激烈的抵抗吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1d0c48f5608cef33edb3bba3e7d583d7_6226035332672944547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其四",
+          "text": "珊瑚宫大人曾经说过，我有个致命的弱点，战斗的时候太过忘我，只顾着深入敌阵。她说勇猛是好事，但对于统率一军的将领而言，这样并不称职。我…努力在改进这一点！你…能够在我身边，监督我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c7b45b03509acdd553b1c0c6791f6d45_7746764394551149842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其五",
+          "text": "我需要抗争到底的对象，并非特定的团体或阵营，而是一种「恶意」。这种「恶意」曾践踏大家的愿望，破坏大家平静的生活，肆意伤害大家…彻底消除它们后，我就能安心放下武器了。等那时候，我就换上便服，和你在海祇岛上随意地散步吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d69de5e384aca600a477197fbc3f69bc_1328644624458117227.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "五郎的爱好…",
+          "text": "我喜欢登山，越险峻的山越好。登山能锤炼我的肉体和精神，让我变得更强壮。还有，和同伴一起登山。在挥洒汗水后共同欣赏山间的美景，也是人生一大乐趣。不过，我不敢…不想攀爬稻妻的最高峰…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/202752e757d21b1f4b80807129cfe95e_8349831568827202434.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "五郎的烦恼…",
+          "text": "轻装上阵也有不方便的时候，比如，一旦遇上火攻，我的尾巴就要格外小心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b274d73cedfa52021abf5f0336cb2fb6_3189797603900179061.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢蛋糕和三彩团子！嗯…大概是因为我很少吃到这类精致的点心吧。军营里的饭菜强调简便快捷，通常也不会用到太多调味料，至于糖，就更是珍贵物资了。甜味…我无法拒绝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/73b4c29d94c40ce3b9f34e9bacc4846d_4342719410928213791.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "大部分食物我都不忌口，可洋葱是个例外。有一次，后勤兵往饭菜里加了洋葱末，让我在饭桌上痛哭流涕…啊，那次实在太丢人了！弄得后勤兵也很过意不去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fa81ff227848acb9e9846d0c22d24ecb_444702628340974455.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这种甜味，完全无法抵抗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1e7aa069c2e1cf0e080ae0a0c4b1e7b3_9104839924958263097.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "哦！心中气势大增！有什么需要我帮忙的吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/725fae77190137f03853d2a1212be0b0_8827516872604943774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "比想象中的还要辛辣…呜，我…我有些力不从心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/4534ed94c7437d936f9567cb2820d89e_1603226175223111240.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你的生日，是意义重大的一天，请允许我来为你庆祝吧。我们在海边生一堆篝火，抓来最新鲜的鱼和螃蟹，我想给你亲手做一顿大将级别的「士气晚餐」！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7099fb16d4a88821e9fe1df11f902bad_8534514647744524534.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "强大的力量，是为了保护同伴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b8c982a9726700a5e0cd066f5ad12d24_6263635713767782394.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "要保护同伴，不能只是被动防守，必须积极进攻。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab46c4cc8a666b8f84ee03daa4c2cbd6_5865678641945695322.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "攻夺胜利的要领，是牢记战斗的意义，遵循正确的战法，拿出锐不可当的气势。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8b4f5704527b9f18547bc01a4b92ec02_12714645605430707.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "有了锐不可当的气势，与战友们紧密配合，方可无往不胜。谢谢你的指点！这是属于你我二人共同的胜利。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/750a5f558bae4a0aa9a7bffc19e852c7_8633258575843797399.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "进军！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/566d195e95f35ade4b4580a9a890966d_1982068276110227552.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "强攻！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea53129d753dddc46c3a5fbe9fd90a9c_4330783072107325663.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "结阵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/60193463e2270ad002dfa81a6aeac56a_5488461158197579132.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "随我出征！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9c4bc522bb5083a5fce3ff942a7835c4_6394120895340463082.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "势如破竹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b70ee5a9279e7b11d4f99677ff4d4e3f_3774024345210914133.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "兵贵先声！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/425e9c75d22aedaecdde03854b15aafe_1503831472807704248.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "今日运势不错！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de2d327c5581d1af9fdd766958a6c1fb_6202891329612807561.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "和同伴们一起分享收获吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/96dda17cdb9177e2a85bc3be76242bdc_1977008049601476269.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这个宝箱…埋伏了我？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b4f1ee48a569029a0a363df6768e319_8706111398024669339.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "随我来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd7d65a09ba2518fdd8cd130a5a7980e_1305006285764175007.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我还能战斗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6ffd031367838c1415a59ae3bd3c93a2_1172070761607161206.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "大意了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b3f7b504d68aff7fee8d254df15756a8_2259049848556999774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "没到认输的时候！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/70ec7b5eda375ee429fb6f0421fae5dc_2946366985218083279.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "按甲休兵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ab662e7c0ed93131aef65babe0d20c66_3724144236551606540.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "不要乱了阵脚！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d255851414931acd17e5e03f59148312_4817817839457300133.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "兵败了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/56e80c0b6040a72be71dff6aa79dc69f_1001522259770709599.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "海祇岛的…大家…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f883ff76e34ef70980fa4446d2e5812_1210744540999090815.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "全军…撤退…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe8dbb9a9532482ad0ef2c45ee238c04_6838883535360971998.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不痛不痒！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/158b683e69ec27d0b8b8b9933b0292d3_2681379646755694573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "再来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a2562c4f7711f2f624b6f5eed3873792_3191726143405079343.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "整装待发！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4a841743ad412c361216feec5cf17f77_2842114184978099112.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "准备进军！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/33a8d88cac273109cd56e00de990ec78_6892705268210455089.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "行兵列阵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1093f5ce1d4adc85f56ec46ed5222e9f_295869663814418678.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "海祇岛反抗军大将，五郎，前来助阵！早就听说过你的威名了，我将与你齐驱并进，一同攻夺胜利！哈哈，怎么样，我刚刚这句话的气势，还不错吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e4267512b8edcbc454b5e2e753e7e037_7083809018465778738.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·军略",
+          "text": "枕戈坐甲，才能应对变数。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/986a30d40385f43f980fff1a67f087c7_5942300283120874586.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·训练",
+          "text": "难得没有战事，来场体能训练吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f87316a9394c46c544157d5c07b32562_8566116570178231548.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·体格",
+          "text": "魁梧的体格是力量的象征，对鼓舞士气也很有帮助。我得再加把劲啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/240b34b87ee0cd234c906a7c30ca089f_645108390407074227.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "尾巴湿了…找堆篝火烤一烤吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7d1439c81891466fe816113cc16217b4_8057382530923958150.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "有敌情吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6f863a6985a21a23bd86059a285df6d5_6658823926516331419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "好冷…这种天气不适合露天活动啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bfb46747c35a5f44804540b303821f0c_7209685758649609539.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "晒太阳虽好，士气却不能松懈啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/130e0e180558b587ee69e6d1bcc69b5f_911588605975522715.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "顺风进攻，我方占优。逆风作战，也不必畏惧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c16cf5ebe0512d4b750d56e8e617d98_5164959421949079676.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "晨练时间到了，要和我一起去登山吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a7e1dc61587bbc752a20ebce6c8f4cdb_6241301495615021891.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭就吃鲜鱼炖萝卜和白米饭吧。这种搭配在反抗军中很流行，推荐你也试一试。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/faedc79f75141d9a59a46c862b288e13_8784972525641673161.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上也不能怠懈，要让眼睛充分适应黑暗。毕竟，黑灯瞎火的地方，也有可能变成战场。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5ac692465e06119431ce380c1b36d8f8_4854283550809521446.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "累了吗？那就安心休息吧。待在这里放哨的任务就交给我了！保证你回来的时候，一切都跟现在一模一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f59b59cc3928556cf6e93471054757dd_5391010247513713560.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于五郎自己·大哥",
+          "text": "「五郎大哥」？你是从哪里听到的啊！唉…实不相瞒。平时，我和将士们的交流都很密切，有什么好东西也都大家一起分享。他们敬重我，私底下就大哥大哥地叫了起来。可实际上，他们的年纪都比我大啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/00527f85b7413840e4113a2277effa8b_1766799579218759868.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于五郎自己·建议",
+          "text": "大概因为我总是打胜仗吧，总感觉将士们把我想象成了特别厉害的人，哪怕是小事也会来问我的建议。他们的眼神让我没法拒绝，但我的计策也有限…只能讲些大道理，或是凭直觉给出答案了。唉，会不会对不起他们呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3bdee8b67d70fae3ca84b5f7545d6160_4186167797813851489.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·倾诉",
+          "text": "有什么烦恼，千万不要埋在心里，来和我说说吧。虽然我不是什么事情都在行，但我一定会尽力为你出谋划策的。就算…就算答案不够可靠，至少我也是你忠实的听众。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/15f21bcd5a36728be90db5077d34020a_3245595538831333435.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·同食同寝",
+          "text": "一起训练，一起吃饭，一起休息…方便随时交流，还能增进我们之间的默契。到了关键时刻，一个眼神就能传递重要的信息…欸？这样不合适吗？唔…我和其他兄弟都是这样熟悉起来的啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3c6bb30514ce1a0ac19f8bb607700c79_3217586306977044111.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」为我的战斗提供了许多帮助，让我能在战场上承担更多责任，为战友们开辟道路。但我也明白，个人的力量再强，都没法左右战争的胜负。大家齐心协力才是关键。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a013feabcbef4b500e43f8f71cf2fce6_8294867664097277300.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·轻装上阵",
+          "text": "轻装上阵正是我的风格。我擅长灵活游走，寻找战机。我的箭矢会优先对准敌方最强的将士，挫伤对方的锐气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd14a8e927f62b9f88cb9560bd1c1460_2761179849360901706.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·常胜将军",
+          "text": "将士们给我取了个绰号，叫「常胜的尖耳将军」，还有些奇怪的传闻，说是「摸到五郎大哥的耳朵，就能获得常胜将军的好运」。唔…摸是绝对不行的！他们笑得再开心也不行！欸？你也想摸？喂，喂…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c4d6591cb3d2aecd165e84128d1c1956_5086331443715046047.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "听说璃月有着高耸入云的群山，真想亲眼去看看，再尽情攀登一番。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d90102a09c9153e0b0bb6d24a48c9558_4290435791550354017.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗船长重视情义、身手不凡，令人尊敬。她曾说不愿把同伴卷入纷争，我们也理解这一点。因此，只有到了必要的时候，才会请她来帮忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ad7ec0d08b56bbf400db03a13eb98bef_836100128108275809.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶…",
+          "text": "我见过形形色色的浮浪人，万叶绝对是他们之中最特殊的一位。他就像一缕风，不会在任何地方停留，但总能给身边人带来些什么。和他并肩战斗期间，我就从他身上学会了几分「洒脱」。总之，我和万叶相当合拍！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9452f9a61ff6615bd46a997582d3d4c6_3311087737020744708.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海·职责",
+          "text": "珊瑚宫大人作为海祇岛最高领袖，负责掌控大局，制定计划。我负责将细节落实，把控前线的形势。反抗军上下一心，只求胜利。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/59ee915206145b237bde1e41f71da95b_7419804624156736044.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海·态度",
+          "text": "我对珊瑚宫大人抱有崇高的敬意。珊瑚宫大人神机妙算，没有她的谋略和统筹，反抗军不可能取得如今的战果。只不过，私底下她似乎更偏好安静的生活。没有军事要务的话，我不会主动打搅她。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e8f32c036e864633dc560a8f242e25da_4016019825885055939.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "雷电将军…不论理由如何，我无法认同她以前的做法。现在，海祇岛与幕府签订了和平条约，但我绝不会放松警惕。假如冲突再次爆发，我必定会重返前线。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a5335907849dc9df1fe010053f3fa423_3402328396095261515.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "我对幕府军没有好感，但九条裟罗，也许是幕府军里最正直的一位将领了。我们之间进行过数次较量，各有胜负。我曾不成熟地想过，要是这样的人能够重视民众的愿望，不受幕府掌控就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f594ad52d556ec5adbe3e9e0654304a4_8870948927321770704.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "那个女人…我们可以不聊她吗？我来帮你干活，什么杂活都没有问题…呜…就当是为了我的身心健康着想，我们还是换个话题吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77eb8da838a8c302477969b3e8226be1_156821625336609529.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "社奉行从属于幕府，但立场更倾向于民众。在这种两面为难的处境下，「白鹭公主」还能站稳脚跟，应该是特别冷静，又能把握做事分寸的人吧。这一点值得我学习。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c953f43e8de44392fde68f39b15c1530_1378576457850124987.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于早柚…",
+          "text": "我军情报显示，那位忍者精通潜入之法，也许她的忍术能够在珊瑚宫大人的某些奇策中发挥作用…不过，情报里又说很难掌握她的行踪，看来不好招募啊…欸？你说她是社奉行的人？…呃，那还是算了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6f2dd1ed8b382edfb5638d4e9bc97a1c_3334833877652344588.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏…",
+          "text": "你说那个鬼鬼祟祟，游手好闲的侦探先生？毕竟是来自幕府的家伙，没办法完全信任，我会继续盯紧他的。说起来，他倒是有那么点探案的功夫。至于这是不是什么阴谋诡计…嗯，就得用时间来证明了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77e328af4ecd975f471ab2d64c390341_2409592681731626270.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其一",
+          "text": "毕竟我大多时间都在战场上，我的故事，可能不算很有趣…但如果你想听的话，我就慢慢和你说，想到什么说什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/092a1fefd1bb17bfcee9cf5d67d1153b_8150332666885253573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其二",
+          "text": "我没有令人敬畏的智谋，只有一双手和一条命。也许我的手足够有力，命足够硬吧，这么多年来，经历了不知多少场恶战，都成功活了下来。有人说，只要跟着我，不管遇上多绝望的战局，都能平安无事。就这样，不知不觉，我得到了大家的认可，成为了将领。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d80b19680488647cbf0b58bfb0e0d6d9_7600295017141974046.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其三",
+          "text": "最初，我们的敌人是流寇、海贼和魔物，但后来，雷电将军颁布了「眼狩令」。气焰嚣张的幕府军来到了我们的面前，被我们迎头痛击。哈哈，大概他们也没想到，会遭受如此激烈的抵抗吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3b7093c4ee2c516448191bfa73ced737_2136800773742253871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其四",
+          "text": "珊瑚宫大人曾经说过，我有个致命的弱点，战斗的时候太过忘我，只顾着深入敌阵。她说勇猛是好事，但对于统率一军的将领而言，这样并不称职。我…努力在改进这一点！你…能够在我身边，监督我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/128778e2c9b23777c7e1db0de7b986b9_1708548221338064120.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其五",
+          "text": "我需要抗争到底的对象，并非特定的团体或阵营，而是一种「恶意」。这种「恶意」曾践踏大家的愿望，破坏大家平静的生活，肆意伤害大家…彻底消除它们后，我就能安心放下武器了。等那时候，我就换上便服，和你在海祇岛上随意地散步吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1a6906ee46a67115cdc9ed8c0afd02db_817806884441931562.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "五郎的爱好…",
+          "text": "我喜欢登山，越险峻的山越好。登山能锤炼我的肉体和精神，让我变得更强壮。还有，和同伴一起登山。在挥洒汗水后共同欣赏山间的美景，也是人生一大乐趣。不过，我不敢…不想攀爬稻妻的最高峰…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8efb6824812410112a1580d94029a07d_1060040334450960852.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "五郎的烦恼…",
+          "text": "轻装上阵也有不方便的时候，比如，一旦遇上火攻，我的尾巴就要格外小心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b732979bd6510da0e2b60cc2694bcb87_215112726740198068.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢蛋糕和三彩团子！嗯…大概是因为我很少吃到这类精致的点心吧。军营里的饭菜强调简便快捷，通常也不会用到太多调味料，至于糖，就更是珍贵物资了。甜味…我无法拒绝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/288efe2d3a66c16ddbf8b3eb09724c9a_8523545164895903260.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "大部分食物我都不忌口，可洋葱是个例外。有一次，后勤兵往饭菜里加了洋葱末，让我在饭桌上痛哭流涕…啊，那次实在太丢人了！弄得后勤兵也很过意不去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6e4f010e700ea9c04818aa5770d7bea0_7292879284842314662.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这种甜味，完全无法抵抗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/354b6d723b97d02034c7f7757631ecdb_8355639158257556754.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "哦！心中气势大增！有什么需要我帮忙的吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c2768da48a49f238439402c1ed2b2ca7_8046753501216119250.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "比想象中的还要辛辣…呜，我…我有些力不从心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/014ff88370ebfb487fbaba63f4063f72_5858257096522457776.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你的生日，是意义重大的一天，请允许我来为你庆祝吧。我们在海边生一堆篝火，抓来最新鲜的鱼和螃蟹，我想给你亲手做一顿大将级别的「士气晚餐」！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/09c7a36c1f82d43dbf9562c4a9bc9ee1_3952539249276129086.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "强大的力量，是为了保护同伴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/67b4fed37742ba4d0cd7edbb2bcf47a2_2138672693152683875.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "要保护同伴，不能只是被动防守，必须积极进攻。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/93c33a798ceb3b3c60022d9284083cde_2837619568867733968.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "攻夺胜利的要领，是牢记战斗的意义，遵循正确的战法，拿出锐不可当的气势。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9a11d63f53a15aa248cbe34e6bcd9fb2_4994821239185954008.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "有了锐不可当的气势，与战友们紧密配合，方可无往不胜。谢谢你的指点！这是属于你我二人共同的胜利。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab656d44a939a00bdceed576b850a6c5_2028850088664331137.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "进军！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e67c1396560aa1bd129925525c1a2f4b_6958666662996167029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "强攻！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cea304d8f2e7b438e0abbe601875708d_8300363453952803982.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "结阵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/68a31aa1a4c63b5fb252f76cc1bcf689_8686137890984424579.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "随我出征！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/511c2294e3974527485509e3a5dacbbd_4475740054379553776.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "势如破竹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5fd5cb7d6df92cec8cef067b574b76b9_296439065927770071.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "兵贵先声！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/29ad97b6536ea75cb73ae1d714f58e76_3640331777357786153.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "今日运势不错！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6239706ef29de94b0a90d106e56567c1_3233204105483235105.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "和同伴们一起分享收获吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6a7e30d26a260e03bba7108024370f53_956076004469415094.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这个宝箱…埋伏了我？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3ab405f13c0e8b4b1712bee084d27d9c_8628194134438497750.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "随我来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6f7df0a60d8c58247c7ab2a574bf6a8a_8904493512787487337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我还能战斗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/294dbcb41e365a7a420f6c1c4955473b_4168814530948466744.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "大意了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9bde1b96148026f24e2c038ca130eaa9_8662910375785621341.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "没到认输的时候！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ca1646df9f2605d84f66b25cfdd2ce59_5774011299715081888.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "按甲休兵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2e7cb3c929d4bf8c9be2afdb072a6934_3395087456622380571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "不要乱了阵脚！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1486997a11adf6dfd11257120acc1f64_8254679005265884643.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "兵败了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/035bc36d662c2791cfd771c5573fd8d3_8819810805596784739.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "海祇岛的…大家…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9d4d3c02c8b66aa44ccaed2688e649a9_2446475081150327097.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "全军…撤退…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/42d991be0ce033a09f129602c8da23e3_967440177007301666.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不痛不痒！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f46bed552b7dadd1796ac30d2ac95064_7162321332452723527.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "再来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f23a062015ea7a04c4854eb55d73df35_7069249388529275709.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "整装待发！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8b0822ba6fbe3d72d5c19eda6294cdcd_5994267951882367818.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "准备进军！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5e8dcfc847bb0be298565141b4504135_4144384491903171559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "行兵列阵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f68bd48ed0f2f8b552ce4ad0bd47ee1f_4928280990370925603.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "海祇岛反抗军大将，五郎，前来助阵！早就听说过你的威名了，我将与你齐驱并进，一同攻夺胜利！哈哈，怎么样，我刚刚这句话的气势，还不错吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2efc3e3646c86d7b06b15b695486e40a_5090183816489369157.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·军略",
+          "text": "枕戈坐甲，才能应对变数。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/be224438ba1b166229581debfe01983a_516891968894153420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·训练",
+          "text": "难得没有战事，来场体能训练吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6506a3fe6d5a2d20e1829c26603ce776_2619623453099359997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·体格",
+          "text": "魁梧的体格是力量的象征，对鼓舞士气也很有帮助。我得再加把劲啊！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b3bbc70adfbe980e7e720c5093749b30_6502761980421421614.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "尾巴湿了…找堆篝火烤一烤吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7ae214a69c04edee35660ea0f1fab71c_5705021836392421406.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "有敌情吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd9bcbfb3f5107560e7efea272987ac5_4601801950209692765.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "好冷…这种天气不适合露天活动啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/935eee929c80bee15d53dd544469c2c9_3592992211382089334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "晒太阳虽好，士气却不能松懈啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b22a53b1797ab3b30286ca960f7eb9f8_197073031115826477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "顺风进攻，我方占优。逆风作战，也不必畏惧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4c99b3b14b942f54aa138766ab6f31dd_5340694430746172876.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "晨练时间到了，要和我一起去登山吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/14db76ebcb29cba883f7d63e043225e7_7098463494389267745.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭就吃鲜鱼炖萝卜和白米饭吧。这种搭配在反抗军中很流行，推荐你也试一试。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/208feaa9c849c23fd7d3df0d0ad10437_6183241354978317349.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上也不能怠懈，要让眼睛充分适应黑暗。毕竟，黑灯瞎火的地方，也有可能变成战场。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2a9e72a74b110352edaf7caa98ad0045_5534656805109674731.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "累了吗？那就安心休息吧。待在这里放哨的任务就交给我了！保证你回来的时候，一切都跟现在一模一样。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d97686cee6589705c66267ae3e35c2a0_7950697482498252555.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于五郎自己·大哥",
+          "text": "「五郎大哥」？你是从哪里听到的啊！唉…实不相瞒。平时，我和将士们的交流都很密切，有什么好东西也都大家一起分享。他们敬重我，私底下就大哥大哥地叫了起来。可实际上，他们的年纪都比我大啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/34d98300b173a897a31ab2ed98fc5acb_274737232721166.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于五郎自己·建议",
+          "text": "大概因为我总是打胜仗吧，总感觉将士们把我想象成了特别厉害的人，哪怕是小事也会来问我的建议。他们的眼神让我没法拒绝，但我的计策也有限…只能讲些大道理，或是凭直觉给出答案了。唉，会不会对不起他们呢…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b500550f2995df364650661cca08047c_5141064775785120076.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·倾诉",
+          "text": "有什么烦恼，千万不要埋在心里，来和我说说吧。虽然我不是什么事情都在行，但我一定会尽力为你出谋划策的。就算…就算答案不够可靠，至少我也是你忠实的听众。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c0303b4634eb6bfa51329cf1f203f2a6_7231705677899187793.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·同食同寝",
+          "text": "一起训练，一起吃饭，一起休息…方便随时交流，还能增进我们之间的默契。到了关键时刻，一个眼神就能传递重要的信息…欸？这样不合适吗？唔…我和其他兄弟都是这样熟悉起来的啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dacf32a4618fe49e7f22b75974febbe3_5155350265449483405.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」为我的战斗提供了许多帮助，让我能在战场上承担更多责任，为战友们开辟道路。但我也明白，个人的力量再强，都没法左右战争的胜负。大家齐心协力才是关键。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/756758a920b89297f761f8d580b575b1_1415021931439606312.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·轻装上阵",
+          "text": "轻装上阵正是我的风格。我擅长灵活游走，寻找战机。我的箭矢会优先对准敌方最强的将士，挫伤对方的锐气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a5b4e27fb13bfe60384364bf6928f4c9_7887776294450741721.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享·常胜将军",
+          "text": "将士们给我取了个绰号，叫「常胜的尖耳将军」，还有些奇怪的传闻，说是「摸到五郎大哥的耳朵，就能获得常胜将军的好运」。唔…摸是绝对不行的！他们笑得再开心也不行！欸？你也想摸？喂，喂…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/103f5598758b9d2b7b0f21b3d7dc8379_2455465659873775805.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "听说璃月有着高耸入云的群山，真想亲眼去看看，再尽情攀登一番。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/766b7dfaa49753e31b3e30275857331b_3129912508527913497.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗船长重视情义、身手不凡，令人尊敬。她曾说不愿把同伴卷入纷争，我们也理解这一点。因此，只有到了必要的时候，才会请她来帮忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5dbde8ae1703a110f1017234a83d7af1_6034978102662068045.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于枫原万叶…",
+          "text": "我见过形形色色的浮浪人，万叶绝对是他们之中最特殊的一位。他就像一缕风，不会在任何地方停留，但总能给身边人带来些什么。和他并肩战斗期间，我就从他身上学会了几分「洒脱」。总之，我和万叶相当合拍！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/84098b6780775aeadc4dbfe666c19e80_8803237310834231129.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海·职责",
+          "text": "珊瑚宫大人作为海祇岛最高领袖，负责掌控大局，制定计划。我负责将细节落实，把控前线的形势。反抗军上下一心，只求胜利。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0e1edb9a216fdc97e8c567f0fbac20a3_424170909572261241.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于珊瑚宫心海·态度",
+          "text": "我对珊瑚宫大人抱有崇高的敬意。珊瑚宫大人神机妙算，没有她的谋略和统筹，反抗军不可能取得如今的战果。只不过，私底下她似乎更偏好安静的生活。没有军事要务的话，我不会主动打搅她。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ee90d377a455c37e56ca4dde70489bfb_2225216445934104213.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于雷电将军…",
+          "text": "雷电将军…不论理由如何，我无法认同她以前的做法。现在，海祇岛与幕府签订了和平条约，但我绝不会放松警惕。假如冲突再次爆发，我必定会重返前线。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6396ac108a0f1b44bda3ec406e770b06_251837016291194338.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于九条裟罗…",
+          "text": "我对幕府军没有好感，但九条裟罗，也许是幕府军里最正直的一位将领了。我们之间进行过数次较量，各有胜负。我曾不成熟地想过，要是这样的人能够重视民众的愿望，不受幕府掌控就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6f5b1d2d9b4401bc936a01589db83532_2937424603186469974.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于八重神子…",
+          "text": "那个女人…我们可以不聊她吗？我来帮你干活，什么杂活都没有问题…呜…就当是为了我的身心健康着想，我们还是换个话题吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9be21b1a8c8a784f64777a78964c6829_3729322175523422608.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于神里绫华…",
+          "text": "社奉行从属于幕府，但立场更倾向于民众。在这种两面为难的处境下，「白鹭公主」还能站稳脚跟，应该是特别冷静，又能把握做事分寸的人吧。这一点值得我学习。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/509fa71dea843a18defd1b3c10be1549_4952934393982210108.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于早柚…",
+          "text": "我军情报显示，那位忍者精通潜入之法，也许她的忍术能够在珊瑚宫大人的某些奇策中发挥作用…不过，情报里又说很难掌握她的行踪，看来不好招募啊…欸？你说她是社奉行的人？…呃，那还是算了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/db37538ef4b00089e5fbd05f0e72b31d_67549715815019902.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于鹿野院平藏…",
+          "text": "你说那个鬼鬼祟祟，游手好闲的侦探先生？毕竟是来自幕府的家伙，没办法完全信任，我会继续盯紧他的。说起来，他倒是有那么点探案的功夫。至于这是不是什么阴谋诡计…嗯，就得用时间来证明了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a51c8b5c3963e3ce6781b88d0adcf7d1_1157829699741323486.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其一",
+          "text": "毕竟我大多时间都在战场上，我的故事，可能不算很有趣…但如果你想听的话，我就慢慢和你说，想到什么说什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4bfcdce06ca6f6a02ecc1220ff4b5757_5864619154103592399.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其二",
+          "text": "我没有令人敬畏的智谋，只有一双手和一条命。也许我的手足够有力，命足够硬吧，这么多年来，经历了不知多少场恶战，都成功活了下来。有人说，只要跟着我，不管遇上多绝望的战局，都能平安无事。就这样，不知不觉，我得到了大家的认可，成为了将领。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/12cdcac8911d7a7bacea926b47ed3ab0_7639491773472006379.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其三",
+          "text": "最初，我们的敌人是流寇、海贼和魔物，但后来，雷电将军颁布了「眼狩令」。气焰嚣张的幕府军来到了我们的面前，被我们迎头痛击。哈哈，大概他们也没想到，会遭受如此激烈的抵抗吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/42b93743ea3c1f0f571e1128e0062658_5047304405603907249.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其四",
+          "text": "珊瑚宫大人曾经说过，我有个致命的弱点，战斗的时候太过忘我，只顾着深入敌阵。她说勇猛是好事，但对于统率一军的将领而言，这样并不称职。我…努力在改进这一点！你…能够在我身边，监督我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f3b03367cfdbebf9c28ecde10b447e7f_6749426634628341386.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解五郎·其五",
+          "text": "我需要抗争到底的对象，并非特定的团体或阵营，而是一种「恶意」。这种「恶意」曾践踏大家的愿望，破坏大家平静的生活，肆意伤害大家…彻底消除它们后，我就能安心放下武器了。等那时候，我就换上便服，和你在海祇岛上随意地散步吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9cdc19a201ad47e986623a08498c6152_1999153626397672729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "五郎的爱好…",
+          "text": "我喜欢登山，越险峻的山越好。登山能锤炼我的肉体和精神，让我变得更强壮。还有，和同伴一起登山。在挥洒汗水后共同欣赏山间的美景，也是人生一大乐趣。不过，我不敢…不想攀爬稻妻的最高峰…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/20ed529fff1586b5c04f0825be4ccc31_2466715571996145815.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "五郎的烦恼…",
+          "text": "轻装上阵也有不方便的时候，比如，一旦遇上火攻，我的尾巴就要格外小心。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/266ee1292fd18a0dfe3b901589e439de_1525784054988482116.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我喜欢蛋糕和三彩团子！嗯…大概是因为我很少吃到这类精致的点心吧。军营里的饭菜强调简便快捷，通常也不会用到太多调味料，至于糖，就更是珍贵物资了。甜味…我无法拒绝！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b6fa1dbaee94ec55c4eac98161e74221_3615327605932423945.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "大部分食物我都不忌口，可洋葱是个例外。有一次，后勤兵往饭菜里加了洋葱末，让我在饭桌上痛哭流涕…啊，那次实在太丢人了！弄得后勤兵也很过意不去。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5fe750087aa39d3709fdc4f8d377b0ff_2926210090725720826.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这种甜味，完全无法抵抗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/5a45fead4fcbf341194340ab98c8aa2f_7224143190543661628.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "哦！心中气势大增！有什么需要我帮忙的吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/9cddf99ea55ea75014215471570dee69_7452126232612626992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "比想象中的还要辛辣…呜，我…我有些力不从心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/3f05e6e46ee902f02429c77cc4eec444_1682488955134010467.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "今天是你的生日，是意义重大的一天，请允许我来为你庆祝吧。我们在海边生一堆篝火，抓来最新鲜的鱼和螃蟹，我想给你亲手做一顿大将级别的「士气晚餐」！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/50399f0063be4d3b7a7e2a2b9ec72006_5748837312574131008.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "强大的力量，是为了保护同伴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a18c2e6aff9d10631cded4bc5337dd35_9060650107301291608.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "要保护同伴，不能只是被动防守，必须积极进攻。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dde8a3f58d4284672e6f125e24466c97_4796507679554865780.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "攻夺胜利的要领，是牢记战斗的意义，遵循正确的战法，拿出锐不可当的气势。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/334170d179cb4bf19e94e78aafa9b276_262798174439097633.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "有了锐不可当的气势，与战友们紧密配合，方可无往不胜。谢谢你的指点！这是属于你我二人共同的胜利。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d65669bb3e3c0a9dbfcaf05c801e0b1b_6953320391291177085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "进军！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aa015062cfd4b79e3f7e24e415915412_3019953857916692742.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "强攻！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/96333f6f3ee125c952864c09d1fb90ab_1413181735321280868.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "结阵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c32d14794dbc688396353cec1924df23_2867459818730838809.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "随我出征！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3d21688f1bb32401c24d82abd6ac0feb_8952474383823055039.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "势如破竹！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/97e90e71abe0f70079e8e102806e2037_7379609867590179365.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "兵贵先声！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/48032f4ece25bfa851a608eb16b96890_5691318545095625509.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "今日运势不错！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/30d345ec3d44f041b038929542ee23e1_5130974821317559379.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "和同伴们一起分享收获吧！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f47ede3f10ec8608bc2b12274722f6f_7767861495190346806.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这个宝箱…埋伏了我？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/40a3ad53a8708a20f66af0c47cbb0f2e_489554312397119403.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "随我来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2072fb1a177f207e87ee6211fefdb75c_1099056252474219794.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我还能战斗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2ec788427dc97c8c10c87d5e6711a52d_633089491809740697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "大意了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/041014dc9de3f1b88729657a90c51e81_6517611227653440558.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "没到认输的时候！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/47978336ae4a2fa0c2abcb8998559105_4467043091146337685.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "按甲休兵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d31fdf441b8b4dff39fd40f749381530_6532164702185332931.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "不要乱了阵脚！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/6411acedfdfac8a112d4ffe7f297c2e6_3304131367621522785.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "兵败了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/da8ce031c08f3873525671a99fd6c4dc_4856096203370139116.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "海祇岛的…大家…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/10d80c40b9581bdba9222d9a4a887aec_2165775898079840554.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "全军…撤退…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/630ec212224c1ccc29cbd13cab0352fe_6315022473989897471.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不痛不痒！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/21c4e1f209581c0cd2c83eb540abb88e_3890461431726976106.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "再来！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1268cdc06bcb55ddf43b5432bd3adff9_428068738721991727.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "整装待发！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d9d5456a990bfafe21655a5d3363dfe3_999134949138994704.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "准备进军！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b13c21aa043e73e94526fd6bfd3d9df0_6911514930400285937.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "行兵列阵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d8418fba55faff7c1ae4a8c57ead8a2_244622988584111788.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

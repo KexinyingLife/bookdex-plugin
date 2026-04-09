@@ -1,0 +1,1685 @@
+{
+  "id": "500292",
+  "name": "夏洛蒂",
+  "alias": [
+    "夏洛蒂"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "初次见面，我是《蒸汽鸟报》记者夏洛蒂，很高兴见到你。有空的话，你愿意接受我的专项访谈吗？记者的直觉告诉我，你的身上能挖掘出不少爆炸性新闻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a7fb7b4dfb0a6d18bafc7cf41c01f6a0_4260662976217290008.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·新闻",
+          "text": "只要眼睛够尖，脑子够快，每天都能找到好新闻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/45c89151a8b579b3671152d0833efa82_5781614120431728742.mp3",
+          "audioName": "02闲聊·新闻_cn.mp3"
+        },
+        {
+          "name": "闲聊·记者",
+          "text": "枫丹廷里有许多记者，但并不是每一位都拥有合格的职业素质。如果你想接受采访的话，最好还是来找我喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5188bdece5bb3591a98fe22d6ab5bddd_2188160628977757967.mp3",
+          "audioName": "03闲聊·记者_cn.mp3"
+        },
+        {
+          "name": "闲聊·蒸汽鸟报",
+          "text": "《蒸汽鸟报》是一家优秀的报社，有一位开明的主编和许多出色的记者。最重要的是，稿费也结得非常迅速。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/eda662d50f6bd772742d908a3ebd042a_3526371169550197687.mp3",
+          "audioName": "04闲聊·蒸汽鸟报_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "留影机镜头可不能进水！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/49b44803de4858f71887adeafcb81fde_8110545004921653777.mp3",
+          "audioName": "05下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "欸！可惜，又没抓拍到闪电…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ae2023bf506a35be4a2559ee61467d38_4503397772457442540.mp3",
+          "audioName": "06打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "…真是够冷的，手指都摁不动快门了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2c471757a1d1b808d69d7c2fcd70b104_6327138968105317344.mp3",
+          "audioName": "07下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "哇，这光线真不错！来，快摆个姿势，我给你拍张画片！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6b5ff2e0f85d56e8a12e21d78aa5c8a2_5387470615550885573.mp3",
+          "audioName": "08阳光很好…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，今天的报纸看了吗？没有？那我念给你听。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7b3943797c00dc595b640205138110c3_6484706549684470305.mp3",
+          "audioName": "09早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "是午饭时间了呀，我知道一家餐厅很不错，跟我来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0c06ed67d34dce2b5f982c5c6af26b49_7111577778322823395.mp3",
+          "audioName": "10中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上最适合谈心了，你有什么故事愿意和我分享吗？放心，我们事先说好能不能登报，我一定遵守约定。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/cbeb5c8575e343a36f58037734b342a7_3647543303214772131.mp3",
+          "audioName": "11晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安，赶紧休息吧。我还要去报社校对稿件，明天见啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7e04e0a40b2d2c7a90ba8680c017b25c_309689614170959832.mp3",
+          "audioName": "12晚安…_cn.mp3"
+        },
+        {
+          "name": "关于夏洛蒂自己·职业",
+          "text": "记者并不是一个讨人喜欢的职业。毕竟就像那句话说的：「谎言处处圆滑，真相棱角分明。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5c7c924c75844005983fa275b601dedb_597266425101390184.mp3",
+          "audioName": "13关于夏洛蒂自己·职业_cn.mp3"
+        },
+        {
+          "name": "关于夏洛蒂自己·留影",
+          "text": "只有在拍摄有趣的东西时，我才能拍出一张好画片。对于某些无聊透顶的留影对象…我能摁下快门，就已经足够有耐心了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/984829a03a32e67997465bbd8479a79c_1250756937176159013.mp3",
+          "audioName": "14关于夏洛蒂自己·留影_cn.mp3"
+        },
+        {
+          "name": "关于我们·长篇专题",
+          "text": "嗨，准备好接受专访，成为最耀眼的大明星了吗？来，听我指挥，先摆一个好看的姿势…派蒙也飞得好看一点！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/cedcbc9fa2aadeeb6e6cbb39c6c2c439_3872723811064224409.mp3",
+          "audioName": "15关于我们·长篇专题_cn.mp3"
+        },
+        {
+          "name": "关于我们·扉页人物",
+          "text": "好消息！我已经说服了欧芙小姐，下一刊《蒸汽鸟报》的「扉页人物」就是你们了，而且还会搭配本记者亲自撰写的专题报道。欸…不用了？我可是求了欧芙小姐好久啊！再考虑一下吧？我…我可以再请你们吃一顿大餐！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fc0be822310a691d1add45915526036e_3163314541369765659.mp3",
+          "audioName": "16关于我们·扉页人物_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "说到这个…其实我更想要一枚「风元素」神之眼的呢。那样的话，也许我就能借助风飞来飞去，轻松地去各地采访了。但这枚「冰元素」的神之眼也不错，至少我不用担心留影机内部机关过热的问题了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4d4f269f2c8c383d4fcad634d0e114b9_7182484852136885522.mp3",
+          "audioName": "17关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "真实至上，故事超群。这就是我的工作原则，欸？哪一个是重点？那当然是「真实性」啦，「故事性」只是一种帮助读者们理解新闻的辅助手段。唉，但据我观察…比起「真相」，读者更愿意为「故事」付钱啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ef66808ce594cb943ed6919f8989d845_1678941903721426847.mp3",
+          "audioName": "18有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "为你介绍，我最好的伙伴和助手，独一无二的留影机「温亨廷先生」。瞧瞧他的帽子和领带，都是我专门找千织小姐订做的，是不是特别好看？我还给他订做了好几套不同风格的服饰，以应对不同的采访场合呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b2a76918fc0b9aa9a044a6cb59f11ed7_5773445156395717115.mp3",
+          "audioName": "19感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "娜维娅的父亲沉冤得雪，「少女连环失踪案」也结了案，她总算可以稍微放下点心了。真不知道为什么，她最近总是成为各种坏新闻的主角，还好我把报社里所有关于她的报道都揽了过来，尽量控制着稿件内容。虽然…因为这件事我也被欧芙小姐训了很多次，但为了帮上她，还有和她约好的那篇深度独家访谈，我挨点骂也值得了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a37fcd3969b1a70197b2b5ae220dd226_8255554350834386087.mp3",
+          "audioName": "20关于娜维娅…_cn.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "好吧，林尼先生又拒绝了我一次。这是第几次了来着…没关系！林尼先生越是拒绝我，我就越能确定，他的身上藏着某些富有巨大价值的故事，这个故事的爆炸性一定是前所未有的。我一定要挖掘出来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4c0c7cd7fc658167737e8faf9d2e7393_6239046212896505735.mp3",
+          "audioName": "21关于林尼…_cn.mp3"
+        },
+        {
+          "name": "关于琳妮特…",
+          "text": "无论被问的是什么问题，琳妮特小姐都只是安安静静地垂下眼眸，脸上没有任何表情，就像一个…一个发条人偶。我真想写一篇报道，就叫做《魔术的诀窍——天才魔术师的「人偶助手」》！但我觉得，她就算看见这篇报道也不会有任何反应…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4b6ffd8b90cd117186fba9e9e86d6d1e_9063707887374502749.mp3",
+          "audioName": "22关于琳妮特…_cn.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德小姐可是枫丹廷里最著名，也最神秘的「决斗代理人」，我从私人渠道打听到，她会用一些神秘的仪式维护自己的武器。也许这就是她在决斗中常胜不败的关键？可她曾公开表示过不想接受记者的采访…我应该没法当面问她这个问题了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/123221915aafd035a05fe58809fb0aaf_5316432593566888647.mp3",
+          "audioName": "23关于克洛琳德…_cn.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "最近有见到那位「公爵」吗？有没有帮我留意和他有关的信息呀？特许券、特许食堂…「不劳动者不得食」…这种大路消息就算了，有没有关于「公爵」个人的故事？什么，保密…怎么连你的口风也那么紧！把我的那顿大餐还来！哼，骗子！你干脆回去接着服刑啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3956f05d73bd649021568ba111e48e39_2714497998729774123.mp3",
+          "audioName": "24关于莱欧斯利…_cn.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "艾梅莉埃小姐的香水是整个枫丹廷里最好的！前两天她还向我推荐一款兼具驱虫、快速止汗、遮蔽汗水味的香水呢，这款香水对我这种经常出外勤的人可太重要了。我今天还喷了一些在手腕上…喏，你闻闻，可香了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/53c304b94d8161a7c78dc32ab5f05b6e_8853031272704922703.mp3",
+          "audioName": "25关于艾梅莉埃…_cn.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "我曾经仔细观察过「千织屋」。店里除了枫丹贵妇人和慕名而至的外国游客之外，还经常会来一些看起来就不好惹的角色！有的一身肌肉、脸上留疤，有的蒙面戴帽、怀里揣刀…但不管怎样，他们手上几乎都提着礼物样式的东西，态度也毕恭毕敬。呃…那些态度不好的，出门时都是飞出来的，我还抓拍过那样的瞬间呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/00ec18b6072b1dd6b57c7ed38ed269d8_519694328528963289.mp3",
+          "audioName": "26关于千织…_cn.mp3"
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "在那之后，我和菲米尼又见了几次面。他对我的留影机助手「温亨廷先生」很感兴趣，还帮我改良了镜头。说实话…他三两下就把「温亨廷先生」拆解成零件的时候，我的心可是提到了嗓子眼…没想到他安装的手法也一样干净、娴熟。我差点都以为他是枫丹科学院出来的了，但他否认了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fe54102ae90bb26e1ba8b09476579d82_8007217674354925105.mp3",
+          "audioName": "27关于菲米尼…_cn.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "如果有记者要去采访「最高审判官」的话，得提前定好所有采访问题，并且把这些问题送去给沫芒宫里的有关部门审定，只有通过审定的问题才能出现在采访中…以此保证整场采访不会出现任何问题。这样的流程实在是太繁琐了，光是想到这些我就精疲力尽了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/be365a9a4e47bed300cd99ad3ebf31fa_4808987260706128079.mp3",
+          "audioName": "28关于那维莱特…_cn.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "水神芙宁娜大人的言行举止都十分富有感染力，是一个天生的大明星。欧芙小姐之前还指派了一位记者专门去跟访她呢，但是他没过多久就辞职了。至于辞职的原因…据我打听到的消息，是因为这位记者每拍一张画片，都要拿去给芙宁娜大人看，如果她不满意就得重拍。最夸张的一次，这位老兄对着芙宁娜大人的一个姿势整整重拍了一百二十七次…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5f4bf2ff259885207f32d31f1c951fc4_6031213143174246329.mp3",
+          "audioName": "29关于芙宁娜…_cn.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "说起来都有点不好意思了，托爱可菲小姐的厨，我试吃了许多厉害的菜肴…她自己的新品，她酒店下属的新品，甚至是学员的新品…我都快变成兼职美食评论家了，一分摩拉都不用付，就能吃遍枫丹最新最棒的美食！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/e97809772644b94048c5dbc31054a186_6529043175698483921.mp3",
+          "audioName": "夏洛蒂关于爱可菲cn.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其一",
+          "text": "我很清楚地知道，追寻「真相」这种行为伴随着风险啦，不过，一个「独家真相」也意味着一篇「独家新闻」，我可不会放过…咳！我的意思是，我可不会放过这个…这个履行记者职责的大好机会。我一定要将最真实、最有力、最有趣的独家新闻报道带给所有人！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/dacf94199a44c18c319f9fb8fb8b23dc_1245139923889852238.mp3",
+          "audioName": "30想要了解夏洛蒂·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其二",
+          "text": "刚做记者的时候，我对写报道文章一窍不通，只能通过阅读其他报道来学习。除了《蒸汽鸟报》之外，还有一些在小范围印发的私人刊物。比如专门报道枫丹廷内各种明星八卦的《观窥者报》、持续关注各种娱乐活动和赛事的《娱乐家周刊》、评论美食的《主厨》、只会胡说八道和造谣传谣的《惊奇！》等等。这些报纸都给了我很大的启发，让我学会了…嗯，驾驭许多不同的行文风格。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e3111ff985b2d57fdf6559e4b384e902_8004016051068971039.mp3",
+          "audioName": "31想要了解夏洛蒂·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其三",
+          "text": "为了揭示真相，我曾经假扮成游民，混进了一家伪劣食品商的后厨做了六个月的杂工，在搜集到足够的第一手资料后，我就将他们干的事都写成报道，登在了报纸上。报道的反响十分强烈，那家伪劣食品商也受到了惩罚，但他们的报复也随之而来，我每天回家时床头柜上都放着一封恐吓信，报社的门口也总是被人泼泥巴…报社很快报了警，而我则被指派去蒙德做「七圣召唤」报道，过了好一阵子才回枫丹。唉，这样的事发生了很多次，真不知道欧芙小姐是怎么把它们全摆平的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c50b1a0ced6bb6b624a6f18f9845ad90_9161579968217477972.mp3",
+          "audioName": "32想要了解夏洛蒂·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其四",
+          "text": "在小时候，我还没入记者这行的时候，我的好奇心特别重，总觉得万事万物后都隐藏着秘密。对我来说，这个世界是一片巨大的藏宝地，藏匿着无数不为人知的故事等待发掘。每当遇见那些我觉得藏匿有秘密的事物，就会拿出留影机拍下一张画片，放在我的画片集里。这些画片都是只属于我的「藏宝图」…而我也一直不断用各种方法解读着它们，试图揭示出隐藏在画片中的「真相」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/bcc9ca64971e1f1069d24026b97ee3d6_6750939129368859990.mp3",
+          "audioName": "33想要了解夏洛蒂·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其五",
+          "text": "我不在意这些「真相」究竟有什么价值、代表着什么、或者说和什么事有关…我只是想要将它们揭示出来。如果用冒险家的说法，我应该是属于那种…专注于享受寻宝过程的人吧，至于最后究竟能寻到什么宝，我倒是不怎么执着啦。在求证的过程中，我认识了许多人。枫丹的朋友们，认为我天生就是做记者的料的欧芙小姐，还有陪我一起探寻和见证「真相」的你。没有大家的帮助，我恐怕还是那个只会到处拍照的野丫头吧。总之…我很高兴能接受你的「特殊采访」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/bfa36eb9243feeb3cbdf56841e289a01_4065123965949302759.mp3",
+          "audioName": "34想要了解夏洛蒂·其五_cn.mp3"
+        },
+        {
+          "name": "夏洛蒂的爱好…",
+          "text": "我最喜欢收藏各种各样的留影机镜头了。有些镜头有着超高的缩放焦距，有些镜头的视野非常广阔。对了，还有一些镜头有着特别功能，拍出来的画片会带着各种特别效果，你看这个镜头，用它拍摄人像的话，会把人的脸拍得胖乎乎的。来！我给你拍一张，派蒙也来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7e9fad6d453c67187c21a9250a017c0b_8915988054625826707.mp3",
+          "audioName": "35夏洛蒂的爱好…_cn.mp3"
+        },
+        {
+          "name": "夏洛蒂的烦恼…",
+          "text": "也许是因为我有时提问的态度会有些…激烈，导致一部分人对我的印象不太好。我每次去采访的时候，大家都是一副防备我的样子…唉，但对于某些采访对象，我必须得用这种态度来提问啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b62a6ebd228584d0f6e4abbb5fa6b96a_8176169008042046224.mp3",
+          "audioName": "36夏洛蒂的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "嘿嘿，我最喜欢甜甜的东西了。无论正餐吃多少东西， 都能继续吃甜点。用我妈妈的话来说就是…我的胃里永远给甜点留着空呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4f98429b8a294f26bd0f48e5f6f75704_762727755011174276.mp3",
+          "audioName": "37喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我吃不了辣的东西。我的胃里就像是装着一部超敏感的辣味监测机关一样，无论辣味有多淡，只要我敢吃，它就敢痛…而且一痛就是一整天，呜…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1207dcc321bea4dd176d9f55a07d7e32_1947518073699275187.mp3",
+          "audioName": "38讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇，你的手艺真好！要不要在报纸上做一个厨艺专栏？我都想好排版和构图了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/03fc2133753e0f95a1b4055672da3180_4217642897999937190.mp3",
+          "audioName": "39收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道不错呀，有空的话…下次也教教我吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c3c996e38a30605b82cb2d272106f158_778000053803986899.mp3",
+          "audioName": "40收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "唉…这道菜的味道…还有品尝这道菜的我，都足够上新闻了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/be295bb9e79d8cbdda86fefdb9417fc2_3576615004870117295.mp3",
+          "audioName": "41收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！你读了今天的《蒸汽鸟报》吗？我对你的生日祝福已经登载在上面啦。欸…你没买吗？没关系，我离开报社的时候顺手拿了一份，你瞧瞧，就在这里，这是我能争取到的最好版面啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6789258c3ae557b9e7f2ae008994d071_5223979205175751844.mp3",
+          "audioName": "42生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "这感觉真奇妙，得记录下来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/eb539e167491c64f2ad62879954e6bd0_7593204556651480245.mp3",
+          "audioName": "43突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这些东西居然真能助人成长？我之前只是听说，没想到今天能亲身体验。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3ce916ff01db302025e1ed61fe8bdeb7_788449403359197376.mp3",
+          "audioName": "44突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你之前也用这种方式帮过其他人吗？所用的材料有什么不同？还有…呃，不好意思，又犯职业病了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/41cb7d1cecd1a71b4e13cf976ceb4784_1203009416790320379.mp3",
+          "audioName": "45突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "喔！我能感觉到，思考的速度变快了，身体里也全是劲…我一定能抓住更多独家新闻！但在那之前，我们先合张影吧，给这个美好时刻留下点纪念。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/335c971fd688eecfeb574bf079a71676_2515612929657844116.mp3",
+          "audioName": "46突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "看镜头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4193b2471f09e83a16f6d04281d38ad4_3311368901676890272.mp3",
+          "audioName": "47元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "笑一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1796624b2f8e6be5b467586e5194832c_7823606750610055622.mp3",
+          "audioName": "48元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "摆个好姿势！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2eb2ee4fe6557525cba2d31ac16ca2c5_3263117652686596170.mp3",
+          "audioName": "49元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "真实至上！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b92006ac323487520c1e1cbb9465403a_7406758236192505313.mp3",
+          "audioName": "50元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "爆炸新闻！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a53087ed49f317b836a9a740c3b30fca_6690289229664674784.mp3",
+          "audioName": "51元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "夏洛蒂，为您报道！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4b715fcfa47aa8c39ece75d7cf1b1e77_7219776449772634300.mp3",
+          "audioName": "52元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "喔！看上去不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b3284f31e50f3d4902260c613a8744c3_8606716646856500979.mp3",
+          "audioName": "53打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真想采访一下把箱子放在这里的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5edc81f25d6a223b9da4a9cff51a654b_5478937325033288339.mp3",
+          "audioName": "54打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这些东西应该不在失物招领列表上吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5b2884e22422942b8bf3732102574c6d_1080142086854971899.mp3",
+          "audioName": "55打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我、我还能记录…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e854c44ee7a7cba74f93611d3964c423_4380006796520173875.mp3",
+          "audioName": "56生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还有新闻要报道！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/65e45cd7f874a1d9fb8c9fb72b019b51_5272790866909652792.mp3",
+          "audioName": "57生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "留影机还能用！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/37c236e7b887b8a2ee6cc5f5b140929d_6887383132584355849.mp3",
+          "audioName": "58生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "小心点！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/53bab8310130940437caf89f7f1a0a7b_3512657307423087134.mp3",
+          "audioName": "59同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "喂！我可不想写讣告！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4f8d6c78550a7e9182415425fbe0c851_6738391317264144839.mp3",
+          "audioName": "60同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "把报道…带回报社…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d312fe579ea2ca31444733cc600bb313_2948130275451188930.mp3",
+          "audioName": "61倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "至少…记录下来了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/43d357443d54821ef5171f9d2eeb4378_3723786959330496673.mp3",
+          "audioName": "62倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "标题，还没想…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/af6d2c6279e4346e7781212e233a8920_136907530048503054.mp3",
+          "audioName": "63倒下·其三_cn.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "真不礼貌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/16d0bb9073ba2cb9f1aa22b93c3181d8_2564165446071322115.mp3",
+          "audioName": "64普通受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "我的镜头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2012e5156c0246f06801c7f4840d2b90_2699607794020477425.mp3",
+          "audioName": "65重受击·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "采访开始喽！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/cbd31b799504ce6de383ecc2f71d0bb0_7452083841870880666.mp3",
+          "audioName": "66加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么新闻吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/387ce97491e3c3308d65c9f16e1938a8_651438471825044752.mp3",
+          "audioName": "67加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "靠得越近，报道越真实。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/58913231a62e28f0553b25a718b9d790_8555550516442426120.mp3",
+          "audioName": "68加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "初次见面，我是《蒸汽鸟报》记者夏洛蒂，很高兴见到你。有空的话，你愿意接受我的专项访谈吗？记者的直觉告诉我，你的身上能挖掘出不少爆炸性新闻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2cf9b8d360ed86879d37888774ed20f3_5985812699139251552.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·新闻",
+          "text": "只要眼睛够尖，脑子够快，每天都能找到好新闻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4efff6938202c2cd9f61f4b664d3ebaa_5658947452930226047.mp3",
+          "audioName": "02闲聊·新闻_jp.mp3"
+        },
+        {
+          "name": "闲聊·记者",
+          "text": "枫丹廷里有许多记者，但并不是每一位都拥有合格的职业素质。如果你想接受采访的话，最好还是来找我喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8af414abf050ce1c8a8b14cde2a61bb1_3263958948799844940.mp3",
+          "audioName": "03闲聊·记者_jp.mp3"
+        },
+        {
+          "name": "闲聊·蒸汽鸟报",
+          "text": "《蒸汽鸟报》是一家优秀的报社，有一位开明的主编和许多出色的记者。最重要的是，稿费也结得非常迅速。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ed743bbc01e7afd11b7e2ed636c18793_674709501220033656.mp3",
+          "audioName": "04闲聊·蒸汽鸟报_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "留影机镜头可不能进水！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1d6e8a9bc602e980eacfd74602020fc3_6498956746083788681.mp3",
+          "audioName": "05下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "欸！可惜，又没抓拍到闪电…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1a35a9374ba8fdf7361a42fb53eca5d1_1650099817373261792.mp3",
+          "audioName": "06打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "…真是够冷的，手指都摁不动快门了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/809e278f01de622772293a6b3f66d947_1963258075254287872.mp3",
+          "audioName": "07下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "哇，这光线真不错！来，快摆个姿势，我给你拍张画片！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b62c0f480fba2e0fb8a8a9874abbed58_2565360200274994736.mp3",
+          "audioName": "08阳光很好…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，今天的报纸看了吗？没有？那我念给你听。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3d0750fdc8b0b91251d0de899dbbab07_18067002925703954.mp3",
+          "audioName": "09早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "是午饭时间了呀，我知道一家餐厅很不错，跟我来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/55abf7a3665e293b08c84c45004f312e_5250893135771713915.mp3",
+          "audioName": "10中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上最适合谈心了，你有什么故事愿意和我分享吗？放心，我们事先说好能不能登报，我一定遵守约定。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/cdb1a820b0768e701960b1b179d83952_4549980117931481657.mp3",
+          "audioName": "11晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安，赶紧休息吧。我还要去报社校对稿件，明天见啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0d3afff54c984fdf2637fb872af6fcaf_4114592817483447662.mp3",
+          "audioName": "12晚安…_jp.mp3"
+        },
+        {
+          "name": "关于夏洛蒂自己·职业",
+          "text": "记者并不是一个讨人喜欢的职业。毕竟就像那句话说的：「谎言处处圆滑，真相棱角分明。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3e72e6095d42366134b6e4f2094e8ac5_1785005507105388982.mp3",
+          "audioName": "13关于夏洛蒂自己·职业_jp.mp3"
+        },
+        {
+          "name": "关于夏洛蒂自己·留影",
+          "text": "只有在拍摄有趣的东西时，我才能拍出一张好画片。对于某些无聊透顶的留影对象…我能摁下快门，就已经足够有耐心了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/09ca14bf1ca096a67280e0102b2b1a68_8059150626742855669.mp3",
+          "audioName": "14关于夏洛蒂自己·留影_jp.mp3"
+        },
+        {
+          "name": "关于我们·长篇专题",
+          "text": "嗨，准备好接受专访，成为最耀眼的大明星了吗？来，听我指挥，先摆一个好看的姿势…派蒙也飞得好看一点！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3557db951bc21a7616db9ab4c29b611c_110421022699327816.mp3",
+          "audioName": "15关于我们·长篇专题_jp.mp3"
+        },
+        {
+          "name": "关于我们·扉页人物",
+          "text": "好消息！我已经说服了欧芙小姐，下一刊《蒸汽鸟报》的「扉页人物」就是你们了，而且还会搭配本记者亲自撰写的专题报道。欸…不用了？我可是求了欧芙小姐好久啊！再考虑一下吧？我…我可以再请你们吃一顿大餐！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/21680a839da950ee3c8535f38632e8a4_1174368949659496764.mp3",
+          "audioName": "16关于我们·扉页人物_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "说到这个…其实我更想要一枚「风元素」神之眼的呢。那样的话，也许我就能借助风飞来飞去，轻松地去各地采访了。但这枚「冰元素」的神之眼也不错，至少我不用担心留影机内部机关过热的问题了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/9d69baec754a2f8784b3a72a07ca11af_5502779605753515923.mp3",
+          "audioName": "17关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "真实至上，故事超群。这就是我的工作原则，欸？哪一个是重点？那当然是「真实性」啦，「故事性」只是一种帮助读者们理解新闻的辅助手段。唉，但据我观察…比起「真相」，读者更愿意为「故事」付钱啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d05988eec7e9434b0db8754e9227bb17_6026269529022594544.mp3",
+          "audioName": "18有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "为你介绍，我最好的伙伴和助手，独一无二的留影机「温亨廷先生」。瞧瞧他的帽子和领带，都是我专门找千织小姐订做的，是不是特别好看？我还给他订做了好几套不同风格的服饰，以应对不同的采访场合呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0ad06ab5d7f4be1103b2240ddc3fb070_7695936412816760944.mp3",
+          "audioName": "19感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "娜维娅的父亲沉冤得雪，「少女连环失踪案」也结了案，她总算可以稍微放下点心了。真不知道为什么，她最近总是成为各种坏新闻的主角，还好我把报社里所有关于她的报道都揽了过来，尽量控制着稿件内容。虽然…因为这件事我也被欧芙小姐训了很多次，但为了帮上她，还有和她约好的那篇深度独家访谈，我挨点骂也值得了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8cd5ee4eaaadcdd1e4963ebefe494c1f_1621547658254294057.mp3",
+          "audioName": "20关于娜维娅…_jp.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "好吧，林尼先生又拒绝了我一次。这是第几次了来着…没关系！林尼先生越是拒绝我，我就越能确定，他的身上藏着某些富有巨大价值的故事，这个故事的爆炸性一定是前所未有的。我一定要挖掘出来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/177edc08b47e3b81bd7e818440c3a667_6635733801919071715.mp3",
+          "audioName": "21关于林尼…_jp.mp3"
+        },
+        {
+          "name": "关于琳妮特…",
+          "text": "无论被问的是什么问题，琳妮特小姐都只是安安静静地垂下眼眸，脸上没有任何表情，就像一个…一个发条人偶。我真想写一篇报道，就叫做《魔术的诀窍——天才魔术师的「人偶助手」》！但我觉得，她就算看见这篇报道也不会有任何反应…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/dae3bc0525e29cc9ae1b0fb330453c3e_3271214192314979076.mp3",
+          "audioName": "22关于琳妮特…_jp.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德小姐可是枫丹廷里最著名，也最神秘的「决斗代理人」，我从私人渠道打听到，她会用一些神秘的仪式维护自己的武器。也许这就是她在决斗中常胜不败的关键？可她曾公开表示过不想接受记者的采访…我应该没法当面问她这个问题了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2276e94bcd16fab479eb1ed6390373f5_8726885811135459087.mp3",
+          "audioName": "23关于克洛琳德…_jp.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "最近有见到那位「公爵」吗？有没有帮我留意和他有关的信息呀？特许券、特许食堂…「不劳动者不得食」…这种大路消息就算了，有没有关于「公爵」个人的故事？什么，保密…怎么连你的口风也那么紧！把我的那顿大餐还来！哼，骗子！你干脆回去接着服刑啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fdd627d7773293eb8861f2bede4cfb00_402307144585928536.mp3",
+          "audioName": "24关于莱欧斯利…_jp.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "艾梅莉埃小姐的香水是整个枫丹廷里最好的！前两天她还向我推荐一款兼具驱虫、快速止汗、遮蔽汗水味的香水呢，这款香水对我这种经常出外勤的人可太重要了。我今天还喷了一些在手腕上…喏，你闻闻，可香了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/69c24745bc5aa0fc7fb9ef67bd0fd5e7_3154438956416661015.mp3",
+          "audioName": "25关于艾梅莉埃…_jp.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "我曾经仔细观察过「千织屋」。店里除了枫丹贵妇人和慕名而至的外国游客之外，还经常会来一些看起来就不好惹的角色！有的一身肌肉、脸上留疤，有的蒙面戴帽、怀里揣刀…但不管怎样，他们手上几乎都提着礼物样式的东西，态度也毕恭毕敬。呃…那些态度不好的，出门时都是飞出来的，我还抓拍过那样的瞬间呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/dfdd30c8d514798cd26f1c65493eaf81_9078230032286943631.mp3",
+          "audioName": "26关于千织…_jp.mp3"
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "在那之后，我和菲米尼又见了几次面。他对我的留影机助手「温亨廷先生」很感兴趣，还帮我改良了镜头。说实话…他三两下就把「温亨廷先生」拆解成零件的时候，我的心可是提到了嗓子眼…没想到他安装的手法也一样干净、娴熟。我差点都以为他是枫丹科学院出来的了，但他否认了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/bc5c09c89dbd7583c3faa6b2843eca20_135547872838480008.mp3",
+          "audioName": "27关于菲米尼…_jp.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "如果有记者要去采访「最高审判官」的话，得提前定好所有采访问题，并且把这些问题送去给沫芒宫里的有关部门审定，只有通过审定的问题才能出现在采访中…以此保证整场采访不会出现任何问题。这样的流程实在是太繁琐了，光是想到这些我就精疲力尽了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c6d304ea6e61584e3d9cd8eea9f0a127_5890464333126119281.mp3",
+          "audioName": "28关于那维莱特…_jp.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "水神芙宁娜大人的言行举止都十分富有感染力，是一个天生的大明星。欧芙小姐之前还指派了一位记者专门去跟访她呢，但是他没过多久就辞职了。至于辞职的原因…据我打听到的消息，是因为这位记者每拍一张画片，都要拿去给芙宁娜大人看，如果她不满意就得重拍。最夸张的一次，这位老兄对着芙宁娜大人的一个姿势整整重拍了一百二十七次…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5806744c3e8ad099a19c54f353a7641c_7778335967428338378.mp3",
+          "audioName": "29关于芙宁娜…_jp.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "说起来都有点不好意思了，托爱可菲小姐的厨，我试吃了许多厉害的菜肴…她自己的新品，她酒店下属的新品，甚至是学员的新品…我都快变成兼职美食评论家了，一分摩拉都不用付，就能吃遍枫丹最新最棒的美食！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/bf3dc0a49def2aa4bd0b1461195d9d47_1076868988667100762.mp3",
+          "audioName": "夏洛蒂关于爱可菲jp.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其一",
+          "text": "我很清楚地知道，追寻「真相」这种行为伴随着风险啦，不过，一个「独家真相」也意味着一篇「独家新闻」，我可不会放过…咳！我的意思是，我可不会放过这个…这个履行记者职责的大好机会。我一定要将最真实、最有力、最有趣的独家新闻报道带给所有人！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/9274f86bd9158ee79c231b54ea4041d4_1962640481538709053.mp3",
+          "audioName": "30想要了解夏洛蒂·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其二",
+          "text": "刚做记者的时候，我对写报道文章一窍不通，只能通过阅读其他报道来学习。除了《蒸汽鸟报》之外，还有一些在小范围印发的私人刊物。比如专门报道枫丹廷内各种明星八卦的《观窥者报》、持续关注各种娱乐活动和赛事的《娱乐家周刊》、评论美食的《主厨》、只会胡说八道和造谣传谣的《惊奇！》等等。这些报纸都给了我很大的启发，让我学会了…嗯，驾驭许多不同的行文风格。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ad4ab93f809a2f0a18e315278341a8aa_2961519785368683809.mp3",
+          "audioName": "31想要了解夏洛蒂·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其三",
+          "text": "为了揭示真相，我曾经假扮成游民，混进了一家伪劣食品商的后厨做了六个月的杂工，在搜集到足够的第一手资料后，我就将他们干的事都写成报道，登在了报纸上。报道的反响十分强烈，那家伪劣食品商也受到了惩罚，但他们的报复也随之而来，我每天回家时床头柜上都放着一封恐吓信，报社的门口也总是被人泼泥巴…报社很快报了警，而我则被指派去蒙德做「七圣召唤」报道，过了好一阵子才回枫丹。唉，这样的事发生了很多次，真不知道欧芙小姐是怎么把它们全摆平的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d4b3bacf6fefbe28471d306b6ebc180f_6144236374357163988.mp3",
+          "audioName": "32想要了解夏洛蒂·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其四",
+          "text": "在小时候，我还没入记者这行的时候，我的好奇心特别重，总觉得万事万物后都隐藏着秘密。对我来说，这个世界是一片巨大的藏宝地，藏匿着无数不为人知的故事等待发掘。每当遇见那些我觉得藏匿有秘密的事物，就会拿出留影机拍下一张画片，放在我的画片集里。这些画片都是只属于我的「藏宝图」…而我也一直不断用各种方法解读着它们，试图揭示出隐藏在画片中的「真相」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d7a7322050baa8e125062b864cb8a380_143711429829956927.mp3",
+          "audioName": "33想要了解夏洛蒂·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其五",
+          "text": "我不在意这些「真相」究竟有什么价值、代表着什么、或者说和什么事有关…我只是想要将它们揭示出来。如果用冒险家的说法，我应该是属于那种…专注于享受寻宝过程的人吧，至于最后究竟能寻到什么宝，我倒是不怎么执着啦。在求证的过程中，我认识了许多人。枫丹的朋友们，认为我天生就是做记者的料的欧芙小姐，还有陪我一起探寻和见证「真相」的你。没有大家的帮助，我恐怕还是那个只会到处拍照的野丫头吧。总之…我很高兴能接受你的「特殊采访」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7829e2cc539e61a55d19fd31c585dea1_4391151043614705294.mp3",
+          "audioName": "34想要了解夏洛蒂·其五_jp.mp3"
+        },
+        {
+          "name": "夏洛蒂的爱好…",
+          "text": "我最喜欢收藏各种各样的留影机镜头了。有些镜头有着超高的缩放焦距，有些镜头的视野非常广阔。对了，还有一些镜头有着特别功能，拍出来的画片会带着各种特别效果，你看这个镜头，用它拍摄人像的话，会把人的脸拍得胖乎乎的。来！我给你拍一张，派蒙也来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d54d49e87772d5b898cff15cedcd771a_4269903879090579206.mp3",
+          "audioName": "35夏洛蒂的爱好…_jp.mp3"
+        },
+        {
+          "name": "夏洛蒂的烦恼…",
+          "text": "也许是因为我有时提问的态度会有些…激烈，导致一部分人对我的印象不太好。我每次去采访的时候，大家都是一副防备我的样子…唉，但对于某些采访对象，我必须得用这种态度来提问啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/616ae89bc057b936c0a47b6bf3687b4c_7114056450192303571.mp3",
+          "audioName": "36夏洛蒂的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "嘿嘿，我最喜欢甜甜的东西了。无论正餐吃多少东西， 都能继续吃甜点。用我妈妈的话来说就是…我的胃里永远给甜点留着空呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c157090d6c8ce38ecf2ed7bd4a6fcd94_454287115168907134.mp3",
+          "audioName": "37喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我吃不了辣的东西。我的胃里就像是装着一部超敏感的辣味监测机关一样，无论辣味有多淡，只要我敢吃，它就敢痛…而且一痛就是一整天，呜…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b8ddff4e3e60354f0768507c05f63979_9185770420745960834.mp3",
+          "audioName": "38讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇，你的手艺真好！要不要在报纸上做一个厨艺专栏？我都想好排版和构图了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5f76e4ff0736bbd53167b1bb2d7e9b91_936323375302750359.mp3",
+          "audioName": "39收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道不错呀，有空的话…下次也教教我吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d0b0ac4216cccd1364e73e431ebd50dd_7197035649011093509.mp3",
+          "audioName": "40收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "唉…这道菜的味道…还有品尝这道菜的我，都足够上新闻了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/14b783371907295bec406028f4325f09_6519270945591154957.mp3",
+          "audioName": "41收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！你读了今天的《蒸汽鸟报》吗？我对你的生日祝福已经登载在上面啦。欸…你没买吗？没关系，我离开报社的时候顺手拿了一份，你瞧瞧，就在这里，这是我能争取到的最好版面啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0a1035ee9e99c0c908f69fdd794b7dac_59028189456156794.mp3",
+          "audioName": "42生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "这感觉真奇妙，得记录下来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/87dfd6c9edda5f3b0c35c13ead3761ab_8324092723662678511.mp3",
+          "audioName": "43突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这些东西居然真能助人成长？我之前只是听说，没想到今天能亲身体验。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/671bd9e0bc4b16099867b96039031366_8454956040305476439.mp3",
+          "audioName": "44突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你之前也用这种方式帮过其他人吗？所用的材料有什么不同？还有…呃，不好意思，又犯职业病了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/38c381eb54968bba3a77b0f336efcfa3_4916501974142787100.mp3",
+          "audioName": "45突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "喔！我能感觉到，思考的速度变快了，身体里也全是劲…我一定能抓住更多独家新闻！但在那之前，我们先合张影吧，给这个美好时刻留下点纪念。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/69f4626a083282bfa1207ee526003c24_7901449960178300579.mp3",
+          "audioName": "46突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "看镜头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f1825e91a510b916068724ceef55f58d_2394125698399129702.mp3",
+          "audioName": "47元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "笑一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c42de79317510e3898399d87870e4f24_5454325946318153109.mp3",
+          "audioName": "48元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "摆个好姿势！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ebd341dcf680d77348da54a8b3b675ce_1807300947065830023.mp3",
+          "audioName": "49元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "真实至上！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7f2b7ad7f4866e195d7d5a0ba31dc20c_8614491255543392921.mp3",
+          "audioName": "50元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "爆炸新闻！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/57308beeb031d81d726ab21c293034cf_6480754428419905908.mp3",
+          "audioName": "51元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "夏洛蒂，为您报道！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0d3a9f6a468d29d4ebb7a8654eb9be7b_4087415941814802243.mp3",
+          "audioName": "52元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "喔！看上去不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/26d126dc02e569e38bbecd36af211bfd_6798268522433578662.mp3",
+          "audioName": "53打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真想采访一下把箱子放在这里的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/007340d7b1e6577c3a0af5d54b5a1de9_462496894117726174.mp3",
+          "audioName": "54打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这些东西应该不在失物招领列表上吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7b71cf3ac105351b3c3ec6450b9a263a_3913436916292176212.mp3",
+          "audioName": "55打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我、我还能记录…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4a844c8b400bb1fd0ad500893d42cad3_4795087011194459672.mp3",
+          "audioName": "56生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还有新闻要报道！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/af423205ab3ac4c9b75176eb67db5b9a_9023895388099567428.mp3",
+          "audioName": "57生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "留影机还能用！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/baf9068263c64481d2039e21fa0518ab_1499767656387808605.mp3",
+          "audioName": "58生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "小心点！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5b20f1f459e1b2adb85fa4ea4672b695_287580097572478304.mp3",
+          "audioName": "59同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "喂！我可不想写讣告！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7c824b437d9b02b452a3a3104232d91b_3862288144210759607.mp3",
+          "audioName": "60同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "把报道…带回报社…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a7713c030bc800f7570b1c185fbf621e_177532744999538505.mp3",
+          "audioName": "61倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "至少…记录下来了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/bb79a4eabc599e212fc4030e3aaac8db_8932786190277570316.mp3",
+          "audioName": "62倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "标题，还没想…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f9b80385c692a16e3a51ced3f1224676_4848531956012754105.mp3",
+          "audioName": "63倒下·其三_jp.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "真不礼貌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/edb184c9bea6ff48b2e1e94456260b35_214164086516427527.mp3",
+          "audioName": "64普通受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "我的镜头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/017cd3bc90cc96285be4dabbbce4423d_7190308773584812719.mp3",
+          "audioName": "65重受击·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "采访开始喽！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ae8adf631b8694e1a8a1c0076c371d86_2075554752985539043.mp3",
+          "audioName": "66加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么新闻吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f244766e66d57a06925a7ed2b393e9ad_4038166252304781278.mp3",
+          "audioName": "67加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "靠得越近，报道越真实。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/aedeaa92d1da704cdfbcdd0b3babc962_2009540668084552415.mp3",
+          "audioName": "68加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "初次见面，我是《蒸汽鸟报》记者夏洛蒂，很高兴见到你。有空的话，你愿意接受我的专项访谈吗？记者的直觉告诉我，你的身上能挖掘出不少爆炸性新闻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/99eb08247c4db221a0cb05f3a1db602b_6774238332707167045.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·新闻",
+          "text": "只要眼睛够尖，脑子够快，每天都能找到好新闻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2cdc09a7091437c905f98d207418147e_3404365171123605866.mp3",
+          "audioName": "02闲聊·新闻_en.mp3"
+        },
+        {
+          "name": "闲聊·记者",
+          "text": "枫丹廷里有许多记者，但并不是每一位都拥有合格的职业素质。如果你想接受采访的话，最好还是来找我喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ff80a7e291107959000c83e3495b3332_344503928402092583.mp3",
+          "audioName": "03闲聊·记者_en.mp3"
+        },
+        {
+          "name": "闲聊·蒸汽鸟报",
+          "text": "《蒸汽鸟报》是一家优秀的报社，有一位开明的主编和许多出色的记者。最重要的是，稿费也结得非常迅速。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3c5fbe51861a07f19e1d86ebc2c6309e_8025672609064237553.mp3",
+          "audioName": "04闲聊·蒸汽鸟报_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "留影机镜头可不能进水！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ca4eb8b95eb0b92b3f6a61153b1c86aa_5122724817079722025.mp3",
+          "audioName": "05下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "欸！可惜，又没抓拍到闪电…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8fbe0da8144f16020e5ddbf8eb51b72c_1253463002622979275.mp3",
+          "audioName": "06打雷的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "…真是够冷的，手指都摁不动快门了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d665e1f72dadc7e6c0ef93ead8ab7e6b_1345561983816720885.mp3",
+          "audioName": "07下雪的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "哇，这光线真不错！来，快摆个姿势，我给你拍张画片！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/151fee0d2b0a2884a944dce5cacf1918_7486545102996382205.mp3",
+          "audioName": "08阳光很好…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，今天的报纸看了吗？没有？那我念给你听。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3cb94f74e55688f04c830c9248c52750_1212465268700120752.mp3",
+          "audioName": "09早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "是午饭时间了呀，我知道一家餐厅很不错，跟我来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/aff216cf90f2cbd3c780446603507795_7462909281985995126.mp3",
+          "audioName": "10中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上最适合谈心了，你有什么故事愿意和我分享吗？放心，我们事先说好能不能登报，我一定遵守约定。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a66791ad28474e534a8cf94a1d54cfcb_1327972994809882465.mp3",
+          "audioName": "11晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安，赶紧休息吧。我还要去报社校对稿件，明天见啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/60f53c1a64ddca7474d7ac36f87b5c1f_476983141749343181.mp3",
+          "audioName": "12晚安…_en.mp3"
+        },
+        {
+          "name": "关于夏洛蒂自己·职业",
+          "text": "记者并不是一个讨人喜欢的职业。毕竟就像那句话说的：「谎言处处圆滑，真相棱角分明。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f00e7e113168326776844e88af6c7810_2123900445326565981.mp3",
+          "audioName": "13关于夏洛蒂自己·职业_en.mp3"
+        },
+        {
+          "name": "关于夏洛蒂自己·留影",
+          "text": "只有在拍摄有趣的东西时，我才能拍出一张好画片。对于某些无聊透顶的留影对象…我能摁下快门，就已经足够有耐心了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/cde57792abc3db53573088f43e8f61f7_1522595761498842436.mp3",
+          "audioName": "14关于夏洛蒂自己·留影_en.mp3"
+        },
+        {
+          "name": "关于我们·长篇专题",
+          "text": "嗨，准备好接受专访，成为最耀眼的大明星了吗？来，听我指挥，先摆一个好看的姿势…派蒙也飞得好看一点！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0db1ae807d2ea6039db3ffcdf5b1140b_2675679864650461353.mp3",
+          "audioName": "15关于我们·长篇专题_en.mp3"
+        },
+        {
+          "name": "关于我们·扉页人物",
+          "text": "好消息！我已经说服了欧芙小姐，下一刊《蒸汽鸟报》的「扉页人物」就是你们了，而且还会搭配本记者亲自撰写的专题报道。欸…不用了？我可是求了欧芙小姐好久啊！再考虑一下吧？我…我可以再请你们吃一顿大餐！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/dc3d5aeba3fd2144b07d49a61217ed33_7519699126734421705.mp3",
+          "audioName": "16关于我们·扉页人物_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "说到这个…其实我更想要一枚「风元素」神之眼的呢。那样的话，也许我就能借助风飞来飞去，轻松地去各地采访了。但这枚「冰元素」的神之眼也不错，至少我不用担心留影机内部机关过热的问题了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e829a8185adbe50dd57cd5baad97f41c_1392413362475727580.mp3",
+          "audioName": "17关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "真实至上，故事超群。这就是我的工作原则，欸？哪一个是重点？那当然是「真实性」啦，「故事性」只是一种帮助读者们理解新闻的辅助手段。唉，但据我观察…比起「真相」，读者更愿意为「故事」付钱啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7face0a21885d59a3ba6c8a0191d5765_6844891379517022410.mp3",
+          "audioName": "18有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "为你介绍，我最好的伙伴和助手，独一无二的留影机「温亨廷先生」。瞧瞧他的帽子和领带，都是我专门找千织小姐订做的，是不是特别好看？我还给他订做了好几套不同风格的服饰，以应对不同的采访场合呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/117eebc180ef5090888edf354a2c4686_4516218014680087432.mp3",
+          "audioName": "19感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "娜维娅的父亲沉冤得雪，「少女连环失踪案」也结了案，她总算可以稍微放下点心了。真不知道为什么，她最近总是成为各种坏新闻的主角，还好我把报社里所有关于她的报道都揽了过来，尽量控制着稿件内容。虽然…因为这件事我也被欧芙小姐训了很多次，但为了帮上她，还有和她约好的那篇深度独家访谈，我挨点骂也值得了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a94d23686bade593b08e6dfe3ccedb29_1842717579757261267.mp3",
+          "audioName": "20关于娜维娅…_en.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "好吧，林尼先生又拒绝了我一次。这是第几次了来着…没关系！林尼先生越是拒绝我，我就越能确定，他的身上藏着某些富有巨大价值的故事，这个故事的爆炸性一定是前所未有的。我一定要挖掘出来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/45baa53df771b0f32290ee23f5c7b3b6_1524077928262159712.mp3",
+          "audioName": "21关于林尼…_en.mp3"
+        },
+        {
+          "name": "关于琳妮特…",
+          "text": "无论被问的是什么问题，琳妮特小姐都只是安安静静地垂下眼眸，脸上没有任何表情，就像一个…一个发条人偶。我真想写一篇报道，就叫做《魔术的诀窍——天才魔术师的「人偶助手」》！但我觉得，她就算看见这篇报道也不会有任何反应…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/318faaed4f7f42d75f3cb8c2a95cb86d_2600583697136656891.mp3",
+          "audioName": "22关于琳妮特…_en.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德小姐可是枫丹廷里最著名，也最神秘的「决斗代理人」，我从私人渠道打听到，她会用一些神秘的仪式维护自己的武器。也许这就是她在决斗中常胜不败的关键？可她曾公开表示过不想接受记者的采访…我应该没法当面问她这个问题了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/85e1326fda2c3e60e027d1c13fb3d81f_7768301723621871205.mp3",
+          "audioName": "23关于克洛琳德…_en.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "最近有见到那位「公爵」吗？有没有帮我留意和他有关的信息呀？特许券、特许食堂…「不劳动者不得食」…这种大路消息就算了，有没有关于「公爵」个人的故事？什么，保密…怎么连你的口风也那么紧！把我的那顿大餐还来！哼，骗子！你干脆回去接着服刑啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/69d844902a35a8f8c98df3bdfaae2a4d_4955401415855662080.mp3",
+          "audioName": "24关于莱欧斯利…_en.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "艾梅莉埃小姐的香水是整个枫丹廷里最好的！前两天她还向我推荐一款兼具驱虫、快速止汗、遮蔽汗水味的香水呢，这款香水对我这种经常出外勤的人可太重要了。我今天还喷了一些在手腕上…喏，你闻闻，可香了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/300d4357b1a67028239441d2d869f236_4609075207740970350.mp3",
+          "audioName": "25关于艾梅莉埃…_en.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "我曾经仔细观察过「千织屋」。店里除了枫丹贵妇人和慕名而至的外国游客之外，还经常会来一些看起来就不好惹的角色！有的一身肌肉、脸上留疤，有的蒙面戴帽、怀里揣刀…但不管怎样，他们手上几乎都提着礼物样式的东西，态度也毕恭毕敬。呃…那些态度不好的，出门时都是飞出来的，我还抓拍过那样的瞬间呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/54a860930a3a6a177eb48216f70d6c40_4202484394195089799.mp3",
+          "audioName": "26关于千织…_en.mp3"
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "在那之后，我和菲米尼又见了几次面。他对我的留影机助手「温亨廷先生」很感兴趣，还帮我改良了镜头。说实话…他三两下就把「温亨廷先生」拆解成零件的时候，我的心可是提到了嗓子眼…没想到他安装的手法也一样干净、娴熟。我差点都以为他是枫丹科学院出来的了，但他否认了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8b158afeb407154de29bbb5ed816e085_7895511042949128791.mp3",
+          "audioName": "27关于菲米尼…_en.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "如果有记者要去采访「最高审判官」的话，得提前定好所有采访问题，并且把这些问题送去给沫芒宫里的有关部门审定，只有通过审定的问题才能出现在采访中…以此保证整场采访不会出现任何问题。这样的流程实在是太繁琐了，光是想到这些我就精疲力尽了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3e46bd99f6e338ff9e80e34b10576139_380126974769007177.mp3",
+          "audioName": "28关于那维莱特…_en.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "水神芙宁娜大人的言行举止都十分富有感染力，是一个天生的大明星。欧芙小姐之前还指派了一位记者专门去跟访她呢，但是他没过多久就辞职了。至于辞职的原因…据我打听到的消息，是因为这位记者每拍一张画片，都要拿去给芙宁娜大人看，如果她不满意就得重拍。最夸张的一次，这位老兄对着芙宁娜大人的一个姿势整整重拍了一百二十七次…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ce7a14cbc269593db1b7426c1ac9579a_6292827737713592620.mp3",
+          "audioName": "29关于芙宁娜…_en.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "说起来都有点不好意思了，托爱可菲小姐的厨，我试吃了许多厉害的菜肴…她自己的新品，她酒店下属的新品，甚至是学员的新品…我都快变成兼职美食评论家了，一分摩拉都不用付，就能吃遍枫丹最新最棒的美食！",
+          "audioUrl": "",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解夏洛蒂·其一",
+          "text": "我很清楚地知道，追寻「真相」这种行为伴随着风险啦，不过，一个「独家真相」也意味着一篇「独家新闻」，我可不会放过…咳！我的意思是，我可不会放过这个…这个履行记者职责的大好机会。我一定要将最真实、最有力、最有趣的独家新闻报道带给所有人！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/81f5675bbb7a76c9a71468aceb8da5c7_6374950154013950491.mp3",
+          "audioName": "30想要了解夏洛蒂·其一_en.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其二",
+          "text": "刚做记者的时候，我对写报道文章一窍不通，只能通过阅读其他报道来学习。除了《蒸汽鸟报》之外，还有一些在小范围印发的私人刊物。比如专门报道枫丹廷内各种明星八卦的《观窥者报》、持续关注各种娱乐活动和赛事的《娱乐家周刊》、评论美食的《主厨》、只会胡说八道和造谣传谣的《惊奇！》等等。这些报纸都给了我很大的启发，让我学会了…嗯，驾驭许多不同的行文风格。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2d172b5c639f23c39e107a27cb0d7c7f_9204107534588431451.mp3",
+          "audioName": "31想要了解夏洛蒂·其二_en.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其三",
+          "text": "为了揭示真相，我曾经假扮成游民，混进了一家伪劣食品商的后厨做了六个月的杂工，在搜集到足够的第一手资料后，我就将他们干的事都写成报道，登在了报纸上。报道的反响十分强烈，那家伪劣食品商也受到了惩罚，但他们的报复也随之而来，我每天回家时床头柜上都放着一封恐吓信，报社的门口也总是被人泼泥巴…报社很快报了警，而我则被指派去蒙德做「七圣召唤」报道，过了好一阵子才回枫丹。唉，这样的事发生了很多次，真不知道欧芙小姐是怎么把它们全摆平的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ffba76059e246e692ca6c1db6e923cfb_5276764814844754517.mp3",
+          "audioName": "32想要了解夏洛蒂·其三_en.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其四",
+          "text": "在小时候，我还没入记者这行的时候，我的好奇心特别重，总觉得万事万物后都隐藏着秘密。对我来说，这个世界是一片巨大的藏宝地，藏匿着无数不为人知的故事等待发掘。每当遇见那些我觉得藏匿有秘密的事物，就会拿出留影机拍下一张画片，放在我的画片集里。这些画片都是只属于我的「藏宝图」…而我也一直不断用各种方法解读着它们，试图揭示出隐藏在画片中的「真相」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/21a643ec02f2e802a19225da7d41a266_2074418943595446312.mp3",
+          "audioName": "33想要了解夏洛蒂·其四_en.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其五",
+          "text": "我不在意这些「真相」究竟有什么价值、代表着什么、或者说和什么事有关…我只是想要将它们揭示出来。如果用冒险家的说法，我应该是属于那种…专注于享受寻宝过程的人吧，至于最后究竟能寻到什么宝，我倒是不怎么执着啦。在求证的过程中，我认识了许多人。枫丹的朋友们，认为我天生就是做记者的料的欧芙小姐，还有陪我一起探寻和见证「真相」的你。没有大家的帮助，我恐怕还是那个只会到处拍照的野丫头吧。总之…我很高兴能接受你的「特殊采访」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/dd438bbc3f6ca526c1e38506733ef9ef_4879687721610331495.mp3",
+          "audioName": "34想要了解夏洛蒂·其五_en.mp3"
+        },
+        {
+          "name": "夏洛蒂的爱好…",
+          "text": "我最喜欢收藏各种各样的留影机镜头了。有些镜头有着超高的缩放焦距，有些镜头的视野非常广阔。对了，还有一些镜头有着特别功能，拍出来的画片会带着各种特别效果，你看这个镜头，用它拍摄人像的话，会把人的脸拍得胖乎乎的。来！我给你拍一张，派蒙也来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4223e165d7315a2225d46812dfc2d0fe_670577386388318714.mp3",
+          "audioName": "35夏洛蒂的爱好…_en.mp3"
+        },
+        {
+          "name": "夏洛蒂的烦恼…",
+          "text": "也许是因为我有时提问的态度会有些…激烈，导致一部分人对我的印象不太好。我每次去采访的时候，大家都是一副防备我的样子…唉，但对于某些采访对象，我必须得用这种态度来提问啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1830649f4b3f0c164e0c77c3727b6165_3745122289441212211.mp3",
+          "audioName": "36夏洛蒂的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "嘿嘿，我最喜欢甜甜的东西了。无论正餐吃多少东西， 都能继续吃甜点。用我妈妈的话来说就是…我的胃里永远给甜点留着空呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4f400fd4167fcfc210c0092d857e9bcb_29702514882325232.mp3",
+          "audioName": "37喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我吃不了辣的东西。我的胃里就像是装着一部超敏感的辣味监测机关一样，无论辣味有多淡，只要我敢吃，它就敢痛…而且一痛就是一整天，呜…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a6192c911911e34ce04e6aed3b09f22c_245008637942832880.mp3",
+          "audioName": "38讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇，你的手艺真好！要不要在报纸上做一个厨艺专栏？我都想好排版和构图了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4fe15eab82e9975ab40daff9f1434517_6685195734431006385.mp3",
+          "audioName": "39收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道不错呀，有空的话…下次也教教我吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ed4e386d4728f75b1bc194c73e7be103_26672544809330415.mp3",
+          "audioName": "40收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "唉…这道菜的味道…还有品尝这道菜的我，都足够上新闻了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6c59b3a9fc5a2d056f73b9c2493a0d6c_5527437580884313997.mp3",
+          "audioName": "41收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！你读了今天的《蒸汽鸟报》吗？我对你的生日祝福已经登载在上面啦。欸…你没买吗？没关系，我离开报社的时候顺手拿了一份，你瞧瞧，就在这里，这是我能争取到的最好版面啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5bfedf132dd6c06df00ac068a50705ac_666380308495585358.mp3",
+          "audioName": "42生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "这感觉真奇妙，得记录下来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fac1ca3ae1941701bab488b31ff229f8_2076874529838782534.mp3",
+          "audioName": "43突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这些东西居然真能助人成长？我之前只是听说，没想到今天能亲身体验。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/9cce2c87aeb188af25d0668106b02049_163254754976078039.mp3",
+          "audioName": "44突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你之前也用这种方式帮过其他人吗？所用的材料有什么不同？还有…呃，不好意思，又犯职业病了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1da3bac8cb27f662ea1875414f6b024e_4488606048035094425.mp3",
+          "audioName": "45突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "喔！我能感觉到，思考的速度变快了，身体里也全是劲…我一定能抓住更多独家新闻！但在那之前，我们先合张影吧，给这个美好时刻留下点纪念。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/07473782cddafdeb865109ca990ef88c_1996649142738811408.mp3",
+          "audioName": "46突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "看镜头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b295a5fd0d4993b26587687fa086f9c1_1009151669073443322.mp3",
+          "audioName": "47元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "笑一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7ba50539c368c1f382a76fa7415c1d82_7280661275132524424.mp3",
+          "audioName": "48元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "摆个好姿势！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/59ccb91ef87e4d5e2fcc8ff88e94fc24_3384238209100340445.mp3",
+          "audioName": "49元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "真实至上！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a57c8df63158195f651eabd04423fd3a_4134155296247703663.mp3",
+          "audioName": "50元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "爆炸新闻！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1626cc301acff85fe8b8340c6efc33ab_4335947707250756881.mp3",
+          "audioName": "51元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "夏洛蒂，为您报道！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fdb5fbc7c285358a55c9546ea04347ee_8715258263195740724.mp3",
+          "audioName": "52元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "喔！看上去不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8cf1c7d5907f5234ad0ef01311a1cd98_2718238550601260078.mp3",
+          "audioName": "53打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真想采访一下把箱子放在这里的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/89c3764b5cb86e2f80ef5c408a61c1fb_2483493303477977033.mp3",
+          "audioName": "54打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这些东西应该不在失物招领列表上吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b19eb287c5b43c4c7e03e79b0650ef58_8258879427008250123.mp3",
+          "audioName": "55打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我、我还能记录…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6c3d9914fcc66c038d04932205c48d95_835063955084876662.mp3",
+          "audioName": "56生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还有新闻要报道！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/65b2b52399c601163fa3ed6814c1277a_6245229751292567006.mp3",
+          "audioName": "57生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "留影机还能用！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a85675eda3aec8bed0b7e2556d7745bf_1224433606091026075.mp3",
+          "audioName": "58生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "小心点！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e63e88b53a9f9b69d83602e8f914dc0d_427203415656638374.mp3",
+          "audioName": "59同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "喂！我可不想写讣告！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/727d834689606d26188924558072bf45_7146302652878333821.mp3",
+          "audioName": "60同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "把报道…带回报社…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/b9d714f2b912df2a76f42b513de48ce4_6729860158067288706.mp3",
+          "audioName": "61倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "至少…记录下来了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/812a154769ba3572a3af429dc82b8ef5_2965030144621433826.mp3",
+          "audioName": "62倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "标题，还没想…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a8b241db9ef8888fe58346f672d69f5d_6352685353112341926.mp3",
+          "audioName": "63倒下·其三_en.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "真不礼貌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/1a484c590226b63bca9f1b2d31db47d4_7689143112749051840.mp3",
+          "audioName": "64普通受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "我的镜头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ab37b4abdc63e9c889983943c93efa23_2414487326192560269.mp3",
+          "audioName": "65重受击·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "采访开始喽！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0a38d02f85249d6db65b9cb63d63b32e_5020306250656241059.mp3",
+          "audioName": "66加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么新闻吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/759aca10217782d47adbf006ef563a4e_6857487384361489759.mp3",
+          "audioName": "67加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "靠得越近，报道越真实。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/94d6618467c990de268cc07aadc9b2de_5722326389466902536.mp3",
+          "audioName": "68加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "初次见面，我是《蒸汽鸟报》记者夏洛蒂，很高兴见到你。有空的话，你愿意接受我的专项访谈吗？记者的直觉告诉我，你的身上能挖掘出不少爆炸性新闻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/769fa7163248ee7cf8a3d8d737fdbd75_187837458663032847.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·新闻",
+          "text": "只要眼睛够尖，脑子够快，每天都能找到好新闻。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/44262272490c27fb696c78986a10e5db_7273515525869292656.mp3",
+          "audioName": "02闲聊·新闻_kr.mp3"
+        },
+        {
+          "name": "闲聊·记者",
+          "text": "枫丹廷里有许多记者，但并不是每一位都拥有合格的职业素质。如果你想接受采访的话，最好还是来找我喔。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/719df4f34bc7f925e5f29c79d7ada76b_4761102863168070287.mp3",
+          "audioName": "03闲聊·记者_kr.mp3"
+        },
+        {
+          "name": "闲聊·蒸汽鸟报",
+          "text": "《蒸汽鸟报》是一家优秀的报社，有一位开明的主编和许多出色的记者。最重要的是，稿费也结得非常迅速。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7257aa6f44122de51928bd7aef29ce6d_4917789108272008132.mp3",
+          "audioName": "04闲聊·蒸汽鸟报_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "留影机镜头可不能进水！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/38b4267228c04bc0340cb1bf9cc7c0d9_4317189596922764074.mp3",
+          "audioName": "05下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "欸！可惜，又没抓拍到闪电…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3e06db09ccbf0d9d537964e8698febac_281382474634775832.mp3",
+          "audioName": "06打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "…真是够冷的，手指都摁不动快门了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/359b693f78c6f056c4f1e1e28a85c483_2090666154943862297.mp3",
+          "audioName": "07下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "哇，这光线真不错！来，快摆个姿势，我给你拍张画片！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/463af2495881a7dd348ae9e32cdfd2fb_1927914955993376179.mp3",
+          "audioName": "08阳光很好…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，今天的报纸看了吗？没有？那我念给你听。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2e55e9734b4e80994e9d2889d5da8353_7800794403752419190.mp3",
+          "audioName": "09早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "是午饭时间了呀，我知道一家餐厅很不错，跟我来吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a320ea546669bafe1e5141353c941cbf_1063049111811443916.mp3",
+          "audioName": "10中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上最适合谈心了，你有什么故事愿意和我分享吗？放心，我们事先说好能不能登报，我一定遵守约定。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/c0e7a1e6a2d94fce4713b9e214f1bfd8_4337715283166787885.mp3",
+          "audioName": "11晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安，赶紧休息吧。我还要去报社校对稿件，明天见啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/27f4955fc7f70f47a5b7262a0b9b536d_1710897130430210046.mp3",
+          "audioName": "12晚安…_kr.mp3"
+        },
+        {
+          "name": "关于夏洛蒂自己·职业",
+          "text": "记者并不是一个讨人喜欢的职业。毕竟就像那句话说的：「谎言处处圆滑，真相棱角分明。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0710e8167f5aabacded3233502c76960_3231197812714328415.mp3",
+          "audioName": "13关于夏洛蒂自己·职业_kr.mp3"
+        },
+        {
+          "name": "关于夏洛蒂自己·留影",
+          "text": "只有在拍摄有趣的东西时，我才能拍出一张好画片。对于某些无聊透顶的留影对象…我能摁下快门，就已经足够有耐心了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f726c26d87ac9eb7105dd282b9fad7b9_3373616620226201406.mp3",
+          "audioName": "14关于夏洛蒂自己·留影_kr.mp3"
+        },
+        {
+          "name": "关于我们·长篇专题",
+          "text": "嗨，准备好接受专访，成为最耀眼的大明星了吗？来，听我指挥，先摆一个好看的姿势…派蒙也飞得好看一点！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fc7ea81892c0ee3a19f65ec0387fd1c9_3815371983286572359.mp3",
+          "audioName": "15关于我们·长篇专题_kr.mp3"
+        },
+        {
+          "name": "关于我们·扉页人物",
+          "text": "好消息！我已经说服了欧芙小姐，下一刊《蒸汽鸟报》的「扉页人物」就是你们了，而且还会搭配本记者亲自撰写的专题报道。欸…不用了？我可是求了欧芙小姐好久啊！再考虑一下吧？我…我可以再请你们吃一顿大餐！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/56c451d95e4aa755850e20d87907b8f1_7948153025694559619.mp3",
+          "audioName": "16关于我们·扉页人物_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "说到这个…其实我更想要一枚「风元素」神之眼的呢。那样的话，也许我就能借助风飞来飞去，轻松地去各地采访了。但这枚「冰元素」的神之眼也不错，至少我不用担心留影机内部机关过热的问题了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/bdd7c8c6b51546077b493103abbed612_5813710638753936660.mp3",
+          "audioName": "17关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "真实至上，故事超群。这就是我的工作原则，欸？哪一个是重点？那当然是「真实性」啦，「故事性」只是一种帮助读者们理解新闻的辅助手段。唉，但据我观察…比起「真相」，读者更愿意为「故事」付钱啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/47698e6185c406a1c77113c07670c5ab_5624252232422948263.mp3",
+          "audioName": "18有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "为你介绍，我最好的伙伴和助手，独一无二的留影机「温亨廷先生」。瞧瞧他的帽子和领带，都是我专门找千织小姐订做的，是不是特别好看？我还给他订做了好几套不同风格的服饰，以应对不同的采访场合呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d4b842b8d474b417e360d689b065aa77_6591667878968957695.mp3",
+          "audioName": "19感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于娜维娅…",
+          "text": "娜维娅的父亲沉冤得雪，「少女连环失踪案」也结了案，她总算可以稍微放下点心了。真不知道为什么，她最近总是成为各种坏新闻的主角，还好我把报社里所有关于她的报道都揽了过来，尽量控制着稿件内容。虽然…因为这件事我也被欧芙小姐训了很多次，但为了帮上她，还有和她约好的那篇深度独家访谈，我挨点骂也值得了！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/966e2b3e358abf9a81a1a4990dacd4f7_223014277881782591.mp3",
+          "audioName": "20关于娜维娅…_kr.mp3"
+        },
+        {
+          "name": "关于林尼…",
+          "text": "好吧，林尼先生又拒绝了我一次。这是第几次了来着…没关系！林尼先生越是拒绝我，我就越能确定，他的身上藏着某些富有巨大价值的故事，这个故事的爆炸性一定是前所未有的。我一定要挖掘出来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e8ff8431b89306b19147a80cdfc831d6_6010217158610310437.mp3",
+          "audioName": "21关于林尼…_kr.mp3"
+        },
+        {
+          "name": "关于琳妮特…",
+          "text": "无论被问的是什么问题，琳妮特小姐都只是安安静静地垂下眼眸，脸上没有任何表情，就像一个…一个发条人偶。我真想写一篇报道，就叫做《魔术的诀窍——天才魔术师的「人偶助手」》！但我觉得，她就算看见这篇报道也不会有任何反应…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/27ce90a5a780af42c75df4cf9bc738eb_319734912496135379.mp3",
+          "audioName": "22关于琳妮特…_kr.mp3"
+        },
+        {
+          "name": "关于克洛琳德…",
+          "text": "克洛琳德小姐可是枫丹廷里最著名，也最神秘的「决斗代理人」，我从私人渠道打听到，她会用一些神秘的仪式维护自己的武器。也许这就是她在决斗中常胜不败的关键？可她曾公开表示过不想接受记者的采访…我应该没法当面问她这个问题了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3150d55d3ad0ab0bada70d8ec69604dd_2668010150578897801.mp3",
+          "audioName": "23关于克洛琳德…_kr.mp3"
+        },
+        {
+          "name": "关于莱欧斯利…",
+          "text": "最近有见到那位「公爵」吗？有没有帮我留意和他有关的信息呀？特许券、特许食堂…「不劳动者不得食」…这种大路消息就算了，有没有关于「公爵」个人的故事？什么，保密…怎么连你的口风也那么紧！把我的那顿大餐还来！哼，骗子！你干脆回去接着服刑啦！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2ba65234248b378e42b956ce28adb160_8878964988352830239.mp3",
+          "audioName": "24关于莱欧斯利…_kr.mp3"
+        },
+        {
+          "name": "关于艾梅莉埃…",
+          "text": "艾梅莉埃小姐的香水是整个枫丹廷里最好的！前两天她还向我推荐一款兼具驱虫、快速止汗、遮蔽汗水味的香水呢，这款香水对我这种经常出外勤的人可太重要了。我今天还喷了一些在手腕上…喏，你闻闻，可香了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0b653a76a8efa6d65aa3547647a301cf_5623176814757599978.mp3",
+          "audioName": "25关于艾梅莉埃…_kr.mp3"
+        },
+        {
+          "name": "关于千织…",
+          "text": "我曾经仔细观察过「千织屋」。店里除了枫丹贵妇人和慕名而至的外国游客之外，还经常会来一些看起来就不好惹的角色！有的一身肌肉、脸上留疤，有的蒙面戴帽、怀里揣刀…但不管怎样，他们手上几乎都提着礼物样式的东西，态度也毕恭毕敬。呃…那些态度不好的，出门时都是飞出来的，我还抓拍过那样的瞬间呢！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/362be309ac607c20c9681fd75aa15ac2_6843560887429200631.mp3",
+          "audioName": "26关于千织…_kr.mp3"
+        },
+        {
+          "name": "关于菲米尼…",
+          "text": "在那之后，我和菲米尼又见了几次面。他对我的留影机助手「温亨廷先生」很感兴趣，还帮我改良了镜头。说实话…他三两下就把「温亨廷先生」拆解成零件的时候，我的心可是提到了嗓子眼…没想到他安装的手法也一样干净、娴熟。我差点都以为他是枫丹科学院出来的了，但他否认了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/306da1fb521e96cdbd0ba38c32d44c72_3223700121336532708.mp3",
+          "audioName": "27关于菲米尼…_kr.mp3"
+        },
+        {
+          "name": "关于那维莱特…",
+          "text": "如果有记者要去采访「最高审判官」的话，得提前定好所有采访问题，并且把这些问题送去给沫芒宫里的有关部门审定，只有通过审定的问题才能出现在采访中…以此保证整场采访不会出现任何问题。这样的流程实在是太繁琐了，光是想到这些我就精疲力尽了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/bfcb14e5e153178a4f17ad63b9c4e458_6994517482929626532.mp3",
+          "audioName": "28关于那维莱特…_kr.mp3"
+        },
+        {
+          "name": "关于芙宁娜…",
+          "text": "水神芙宁娜大人的言行举止都十分富有感染力，是一个天生的大明星。欧芙小姐之前还指派了一位记者专门去跟访她呢，但是他没过多久就辞职了。至于辞职的原因…据我打听到的消息，是因为这位记者每拍一张画片，都要拿去给芙宁娜大人看，如果她不满意就得重拍。最夸张的一次，这位老兄对着芙宁娜大人的一个姿势整整重拍了一百二十七次…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/5379f9bf6b9849805ebe83aab5c681d9_3087787958635272575.mp3",
+          "audioName": "29关于芙宁娜…_kr.mp3"
+        },
+        {
+          "name": "关于爱可菲",
+          "text": "说起来都有点不好意思了，托爱可菲小姐的厨，我试吃了许多厉害的菜肴…她自己的新品，她酒店下属的新品，甚至是学员的新品…我都快变成兼职美食评论家了，一分摩拉都不用付，就能吃遍枫丹最新最棒的美食！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/15/50494840/0dfc97dc70184567cb1dce479d0df2eb_5764181571794878760.mp3",
+          "audioName": "夏洛蒂关于爱可菲kr.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其一",
+          "text": "我很清楚地知道，追寻「真相」这种行为伴随着风险啦，不过，一个「独家真相」也意味着一篇「独家新闻」，我可不会放过…咳！我的意思是，我可不会放过这个…这个履行记者职责的大好机会。我一定要将最真实、最有力、最有趣的独家新闻报道带给所有人！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e0c3e3905a02a91b04d41198992a197a_4644145567463334860.mp3",
+          "audioName": "30想要了解夏洛蒂·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其二",
+          "text": "刚做记者的时候，我对写报道文章一窍不通，只能通过阅读其他报道来学习。除了《蒸汽鸟报》之外，还有一些在小范围印发的私人刊物。比如专门报道枫丹廷内各种明星八卦的《观窥者报》、持续关注各种娱乐活动和赛事的《娱乐家周刊》、评论美食的《主厨》、只会胡说八道和造谣传谣的《惊奇！》等等。这些报纸都给了我很大的启发，让我学会了…嗯，驾驭许多不同的行文风格。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/abe8fe169f0e7a0d5755717e7cf74be8_8165868877329033713.mp3",
+          "audioName": "31想要了解夏洛蒂·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其三",
+          "text": "为了揭示真相，我曾经假扮成游民，混进了一家伪劣食品商的后厨做了六个月的杂工，在搜集到足够的第一手资料后，我就将他们干的事都写成报道，登在了报纸上。报道的反响十分强烈，那家伪劣食品商也受到了惩罚，但他们的报复也随之而来，我每天回家时床头柜上都放着一封恐吓信，报社的门口也总是被人泼泥巴…报社很快报了警，而我则被指派去蒙德做「七圣召唤」报道，过了好一阵子才回枫丹。唉，这样的事发生了很多次，真不知道欧芙小姐是怎么把它们全摆平的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d83b1b0244fae6ad78acedbafe96190c_3264565340068739325.mp3",
+          "audioName": "32想要了解夏洛蒂·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其四",
+          "text": "在小时候，我还没入记者这行的时候，我的好奇心特别重，总觉得万事万物后都隐藏着秘密。对我来说，这个世界是一片巨大的藏宝地，藏匿着无数不为人知的故事等待发掘。每当遇见那些我觉得藏匿有秘密的事物，就会拿出留影机拍下一张画片，放在我的画片集里。这些画片都是只属于我的「藏宝图」…而我也一直不断用各种方法解读着它们，试图揭示出隐藏在画片中的「真相」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/504e322695bc2823d9b45aedf57c3c65_3652206006400155566.mp3",
+          "audioName": "33想要了解夏洛蒂·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解夏洛蒂·其五",
+          "text": "我不在意这些「真相」究竟有什么价值、代表着什么、或者说和什么事有关…我只是想要将它们揭示出来。如果用冒险家的说法，我应该是属于那种…专注于享受寻宝过程的人吧，至于最后究竟能寻到什么宝，我倒是不怎么执着啦。在求证的过程中，我认识了许多人。枫丹的朋友们，认为我天生就是做记者的料的欧芙小姐，还有陪我一起探寻和见证「真相」的你。没有大家的帮助，我恐怕还是那个只会到处拍照的野丫头吧。总之…我很高兴能接受你的「特殊采访」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/0074bb157f6be52ee76130a44db41b87_6398520006525127286.mp3",
+          "audioName": "34想要了解夏洛蒂·其五_kr.mp3"
+        },
+        {
+          "name": "夏洛蒂的爱好…",
+          "text": "我最喜欢收藏各种各样的留影机镜头了。有些镜头有着超高的缩放焦距，有些镜头的视野非常广阔。对了，还有一些镜头有着特别功能，拍出来的画片会带着各种特别效果，你看这个镜头，用它拍摄人像的话，会把人的脸拍得胖乎乎的。来！我给你拍一张，派蒙也来！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d1d8c31fb7680a48c87a63c1bbf19e50_1142702783230618626.mp3",
+          "audioName": "35夏洛蒂的爱好…_kr.mp3"
+        },
+        {
+          "name": "夏洛蒂的烦恼…",
+          "text": "也许是因为我有时提问的态度会有些…激烈，导致一部分人对我的印象不太好。我每次去采访的时候，大家都是一副防备我的样子…唉，但对于某些采访对象，我必须得用这种态度来提问啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/62a6c16191830e612371973ddc5f1a04_1106432064130162435.mp3",
+          "audioName": "36夏洛蒂的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "嘿嘿，我最喜欢甜甜的东西了。无论正餐吃多少东西， 都能继续吃甜点。用我妈妈的话来说就是…我的胃里永远给甜点留着空呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f824bd36a60fe2947eabd3cddb367e54_6525417131372729725.mp3",
+          "audioName": "37喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我吃不了辣的东西。我的胃里就像是装着一部超敏感的辣味监测机关一样，无论辣味有多淡，只要我敢吃，它就敢痛…而且一痛就是一整天，呜…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/2f9998c7b8a86e126cc69488ea90cdba_6258915232046411310.mp3",
+          "audioName": "38讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "哇，你的手艺真好！要不要在报纸上做一个厨艺专栏？我都想好排版和构图了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a607918ef835ab077329a741530eb9a1_8177358249190313506.mp3",
+          "audioName": "39收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "味道不错呀，有空的话…下次也教教我吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7d3b8c0fcf61517c621ce23bbb3979dc_2455681786208822014.mp3",
+          "audioName": "40收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "唉…这道菜的味道…还有品尝这道菜的我，都足够上新闻了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/725ec967c12cee44c34c57bb1b8b7f64_8895406015376373536.mp3",
+          "audioName": "41收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！你读了今天的《蒸汽鸟报》吗？我对你的生日祝福已经登载在上面啦。欸…你没买吗？没关系，我离开报社的时候顺手拿了一份，你瞧瞧，就在这里，这是我能争取到的最好版面啦。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a02d41afae84a7c8f83576b2db95bf2e_5697358152807414898.mp3",
+          "audioName": "42生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "这感觉真奇妙，得记录下来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/f2d22e7a3ae848161bb42430c97513da_3949329185397652132.mp3",
+          "audioName": "43突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这些东西居然真能助人成长？我之前只是听说，没想到今天能亲身体验。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a4216b073cff9fa6e92a20f621b4ca83_2163541834132647025.mp3",
+          "audioName": "44突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "你之前也用这种方式帮过其他人吗？所用的材料有什么不同？还有…呃，不好意思，又犯职业病了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a7d2c3577a286529e4f36f42eb01efce_5132063460468870281.mp3",
+          "audioName": "45突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "喔！我能感觉到，思考的速度变快了，身体里也全是劲…我一定能抓住更多独家新闻！但在那之前，我们先合张影吧，给这个美好时刻留下点纪念。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a7abf4a7effaef8828a730a7f2d2b167_1403250824719860900.mp3",
+          "audioName": "46突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "看镜头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/931ce775fc1942afb6a1b99c712b0d67_6710191721714970603.mp3",
+          "audioName": "47元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "笑一个。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/88716f7df02dd34fe0cba9dd8abf2730_5276706432581658764.mp3",
+          "audioName": "48元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "摆个好姿势！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/8fc2e18f3844f79a35701c5b26bcd0f9_788275693091904890.mp3",
+          "audioName": "49元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "真实至上！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fd9f079bcae5b9bb1479656795644a2e_8760511400525676785.mp3",
+          "audioName": "50元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "爆炸新闻！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/e3c326905fd78645d28b676a42e4232c_1009675035436421682.mp3",
+          "audioName": "51元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "夏洛蒂，为您报道！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a8c4a35f85dd6794028bb9f3a901a9de_1814869279224195402.mp3",
+          "audioName": "52元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "喔！看上去不错。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/07bba215b6257f14ce193ca95df29dab_5728821769790931809.mp3",
+          "audioName": "53打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真想采访一下把箱子放在这里的人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ec3201f71f8022ec0402de9d057e23d2_2151076674279733356.mp3",
+          "audioName": "54打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "这些东西应该不在失物招领列表上吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fdb32bf110e33ade14e343e978c9e565_4325241859748051541.mp3",
+          "audioName": "55打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "我、我还能记录…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ce38d5325f3c3016e091a6ab9e937f84_8832626089690455340.mp3",
+          "audioName": "56生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "还有新闻要报道！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/7af15ddccad01d38a3067b98f20e0d03_6432551645650539730.mp3",
+          "audioName": "57生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "留影机还能用！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/fb2e14545a61b9f42ce11110fc3314e6_4959635634546630640.mp3",
+          "audioName": "58生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "小心点！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/3d2f0796b5e4912dd4927265ecced76c_3796801399007925689.mp3",
+          "audioName": "59同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "喂！我可不想写讣告！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/93b7004c174b90bbe09714306cc6a0c6_8630039921317918275.mp3",
+          "audioName": "60同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "把报道…带回报社…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/ca7163b525f1f9255c700a6559d91dcf_193376157631654950.mp3",
+          "audioName": "61倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "至少…记录下来了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/6213cfe305068e35a365cf4fd87f2bed_1362907877802428582.mp3",
+          "audioName": "62倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "标题，还没想…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/a52da251d5a72b539f08b196a4e175b5_3876889546317204808.mp3",
+          "audioName": "63倒下·其三_kr.mp3"
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "真不礼貌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/86e3835faf9a3db3ccf525726ec92562_3861734636996695159.mp3",
+          "audioName": "64普通受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "我的镜头！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/860abda1c4c5df1bc6b5b0ab44aebfb5_4504330733061801824.mp3",
+          "audioName": "65重受击·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "采访开始喽！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/36bf4cb10929a3b5756f8ebab32f72fa_2638794891966969617.mp3",
+          "audioName": "66加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么新闻吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/4d30dca6716a1ab27096e63f4cdf725e_4254805819408295054.mp3",
+          "audioName": "67加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "靠得越近，报道越真实。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2023/11/09/16576950/d579137f11a77975992c3d13182f8761_951565987174510005.mp3",
+          "audioName": "68加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

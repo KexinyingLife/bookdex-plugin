@@ -1,0 +1,1709 @@
+{
+  "id": "1055",
+  "name": "砂糖",
+  "alias": [
+    "砂糖"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是砂糖，炼金术的…研究员。听说你去过很多地方，一定也…不，没什么，第一次见面，不该这么麻烦你。但…如果你愿意，和我讲讲路上有意思的事，那个…我，会很开心的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/64d99a26491ce8cf0a3264abe31d57dc_846850693979016782.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·好奇",
+          "text": "那是什么？啊…不见了，我可以去看看吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e80a5f2c7898b68593f13a3aa9c0620a_1600801433237043186.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·整理",
+          "text": "趁现在，赶快整理一下研究笔记…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8607647aa49ad909d8683b1e5325b4a9_4351444480327389558.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·深呼吸",
+          "text": "嗯——！好久没出来透气了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a1fd2070b2e3d82caa0ab89b1010f47_8761941291070043251.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "今天城里的风车，转得好快。欸，你说，如果在小动物背上，也装一个像风车一样的东西，会让它们跑得更快呢，还是会飞起来呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f1edfbe5a8a3bafd17e4897435cb179c_6248143783367078425.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "这么大的雪，一年都没有几次，错过了，想研究就要等明年了，所以就别拦我啦。啊…阿嚏！呃…我知道了，我多穿一点…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/074fcf945bcdc0a1a9288cf941174f34_1145043530057455790.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天…天已经亮了？！那、那再做最后一次实验吧，做完就休息！嗯，最后一次…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aa58b8b21a533082c220eda6a6546dad_6664779702632098334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "湿度上升，嗯…要不要再加一组实验呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8b722c73a24df77472d7375fe3ac1aa4_3812137187128166968.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，昨晚睡得还好吗？研究表明，只有睡眠充足，第二天的精神才会好，而且，脑袋的运转也会更高效哦。欸…什么？我总是熬夜？那个…唔，没办法嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a8272cd723b9c5a8f95e615b74c2eba8_5585107382844232351.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "呜哇！别、别过来！啊…不是，我的意思是，不要靠得太近，我在做实验，这个…可能会爆炸的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0cb082de78679eda55ce68afeb6451ef_6108617511143228780.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，啊…请稍等一下！「实验体玖零伍式」的光照分泌物其实有两种，为了明确区分，就叫「壹零叁叁式」和「壹零叁伍式」…嗯，好了，请问有什么事情要找我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1fd9c21289e384e066d174bd32fee088_3690969211435772363.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "不用等我，先去休息吧。唔…有这么不放心吗？实验已经在收尾了，不会熬夜的，真的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea10d68c66792ff045c7db21f23dc699_177974416384747722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖自己·「生物炼金」",
+          "text": "「生物炼金」，比起「创造」，更注重「改造」，找到生物隐藏起来的优点，然后放大，结合，结果往往都让人大吃一惊。嗯…生命真的是太神奇了，究竟还有多少我们不知道的东西呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/be9d431cc42c2705e3ac7815b67bfb8d_6376850951236007054.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖自己·怕生",
+          "text": "我…其实我不知道怎么和陌生人说话。每个人性格都不一样，在意的东西也不一样，一不小心就会不够礼貌，或者哪里冒犯了，唉…说话真的好难啊，比炼金术什么的难多了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aa541975a68cf5f2ad559f0cf824d290_4169113797273194015.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖自己·耳朵",
+          "text": "你…你注意到了啊。我的耳朵是家里遗传下来的，和其他人很不一样，所以平时我都会用头发尽量把它们藏起来…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ec036e52e23f4a7369a9a1caa32178cd_2617200417972884598.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·观察",
+          "text": "我对你的经历，特别好奇，所以…我可以「观察」你一段时间吗？我会很安静的，不会打扰你，这样…你会介意吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/366df5436a33cdfd729d31d1d0dcd8e3_5835293363208237499.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·收获",
+          "text": "老实说，一开始我看你不怎么说话，有点害怕…还以为是在哪里冒犯了你，后来时间长了才慢慢发现，原来，你还是挺好相处的。嘿嘿，这也算…「观察」的意外收获吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/59849433e6928c55a6dc5b438178f543_2092389898206482650.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·请求",
+          "text": "听说，是你赶走了风魔龙？战斗一定特别危险吧，幸好你没事。那个…有件小事，风魔龙它在战斗的时候，有没有，掉下来什么东西呢？鳞也好，皮也好，一点点就可以，我想，研究一下…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/322365b21518dfb07938c0eecee9072b_5889622338299318773.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」，是我最重要的实验器材。欸？就、就是实验器材啊，没有了「神之眼」，很多跟元素相关的实验，就没办法进行了。你说战斗？啊…偶尔吧，去野外找材料的时候，偶尔会用到。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/47194772132fc78b83bb71b93d639b79_8901708001656907733.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "这个房间里，都是我收藏的骨头。放在左边柜子里的，有蜥蜴，青蛙，还有草鱼，挂在前面的是野猪，右边角落里的那个，是丘丘人…啊，别紧张，不用害怕，其实都是很可爱的东西，习惯了就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eed0639ac4dea5a907072bda57ee2f73_4945239917803715757.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你看，种在这里的冰雾花，其实每一朵都不一样。这一朵冰元素含量更高，这一朵花期更长…嗯？你问那一朵，哦，那一朵叫「叁式冰雾花改十七号放大版」，特点，嗯…就是更大一点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/31b613bab81558c041d1b3f49fbf473a_7225577537245936136.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔…",
+          "text": "她…经常会主动帮我的忙，但有时候太热情了，反而…让我有点苦恼。有一次，她看到我实验室门前堆了三箱器材，就很麻利地帮我搬了进来，但其实…那些都是我刚刚搬出去的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7bcff6b26136264729c92de80c87c80f_6119564839787861128.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "她已经被琴团长关过好多次禁闭了，但只要被放出来，不久就又会闯祸，唉，不知道有没有真的反省过。啊…我答应她，要帮她做一个会蹦会跳，又很安全的蹦蹦，只不过现在，设计上还有不少问题…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e92cb870f0149ae1ff17dc8003e2ca5b_2095825545903018907.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "我有点不敢和琴团长说话，因为她太严肃了…我知道她是个很好的人，但、但知道归知道，害怕…还是会害怕。我一般都不会去打扰她，实在有不得不找她的事，我…我也会拜托阿贝多先生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/913a8f1cb36f23fdaa4bf60f60f5790f_304424039541549517.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "我觉得她，好像懂的特别多。她明明没有看过我的研究，但有好几次，都给了我最关键的建议。她到底是怎么知道的呢？是…观察？还是推理呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d1d5e64ea27c15cd0cc9cfa49af81b29_6068692745529494642.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "唔…我知道他喜欢开玩笑，也没有存心捉弄我的意思。可是，我实在是…分不清他的哪句话是真话，哪句话又是玩笑，所以最后要不然就变得很尴尬，要不然，就是我出洋相…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9183fc38f69ecd79cf31146b9908a9fa_3780073629900070697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多·艺术",
+          "text": "当他的助手，每天都能学到很多。重点不是知识，而是「天才」的思考方法，无论是多么复杂的问题，他总能抽丝剥茧，再一一解决。在我看来，那就是艺术…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e97f7c89fbff833e4ca8292e2ad15b50_7783811860393894997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多·天赋",
+          "text": "你说天赋？嗯…假如和他做同样的研究，可能确实一辈子都没法超过他。但，我研究「生物炼金」并没有故意要躲开他的意思，只是…嗯，我和他恰好有不同的爱好，还有梦想，仅此而已吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/467e4bd5c558941123cb8b24f7f4f97d_4219844469828822693.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "我很好奇，为什么她做的布偶，名字叫「兔兔伯爵」呢？和兔子没什么关系吧。唔…你说，头上的发带，很像兔耳朵？…有道理，但其实这是刻板印象，也有很多兔子耳朵是垂下来的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/47c9846374f72ee94ed266fa425278bc_6403881408514528842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔…",
+          "text": "你是说《菲谢尔皇女夜谭》？我知道，作者创造出的世界很有意思，要是能亲眼去看一看就好了…欸？你在说那个「菲谢尔」啊？她啊…嗯，她…应该是没办法带我去的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fd3ad0b612460c6f3e08cc0ff2f632f5_21994056346911882.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈…",
+          "text": "游击骑士的工作很危险，优菈小姐的行动又格外大胆，所以我给她制作了一个侦察装置，这样她就不用潜入敌人的营地了。但优菈小姐的气势太吓人，我有点怕她，告诉她使用方法的时候，不小心漏掉了几条注意事项，结果真的发生了意外…\n\n怎么办？我会不会被她记仇了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1d926bbb35fc403a0332168e9548ce92_8806557345327512881.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其一",
+          "text": "了解我？你…是对「生物炼金」感兴趣吗？你有疑问的话，我会尽量给你准确答案的。嗯？不是炼金，而是「我」？唔，这个，我也不知道该说什么…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/edb1a928204bf5bbf37a7fd7e614fe36_3916220054640674149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其二",
+          "text": "研究的本质，是寻找答案的过程。这个过程有时候很繁琐，也很累，但每次只要看看积累起来的成果，就会觉得…嗯，我是真的很喜欢做这样的事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/49b680f9a1967290806afd5ac194b19e_6735684524099447612.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其三",
+          "text": "小时候，我有两个好朋友，我们无话不说。本来我以为，我对她们了解得一清二楚，但后来发生了一些事，我突然就…看不透她们了。她们现在在哪儿，在做什么，还记不记得我，这些…我都不知道。就算再好的朋友，也会变成这样呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3d7b4f7ab7097bbb43d6745fd9c45084_2740406036054925298.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其四",
+          "text": "告诉你一个小秘密，我对谁都没有讲过。「生物炼金」的最终目标，是创造出「仙境」…对，就是童话里的那个，能找到永远的快乐与幸福的「仙境」。嘿嘿，有点幼稚对吧？但，我现在都还相信那个故事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4b7448d66c9209236c4b65570518f01c_845102613219009404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其五",
+          "text": "嗯…如果你忙的话，就去忙吧，我不想给你添麻烦。不忙？真的不忙吗？没事的，就算忙也没关系，一个人做实验我早就习惯了。啊…真、真的不忙？那…那可不可以，帮帮我的忙？或者…只是陪我说说话，什么的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/55c3b6167a1e99eb14cd8fd0d94a8036_2105240099058962451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "砂糖的爱好…",
+          "text": "我喜欢看起来很规则的东西，你看，书架上每一本实验记录，厚度都是一样的，实验台上的几百瓶药水，都是按功效与颜色分别排好…欸？…欸欸？！为什么这瓶紫色的药水会出现在这里！我、我要全部整理一遍！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6360d13f97b2c565011ca5179a49a517_1281638495569082754.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "砂糖的烦恼…",
+          "text": "我想知道，你平时休息的时候，会干些什么呢？每到休息日，我就找不到事情做，只能发呆…明明做实验的时候时间过得很快，休息的时候，怎么就有种度日如年的感觉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/20fb39a8231c80483b77e59e423501f5_7049343105588445177.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我会提炼出甜甜花的花蜜，做成糖块。脑袋转不动的时候吃一块，就又可以集中精神了。做研究，糖分的补充是很重要的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/df9c5b44951dca7709946f79454c4d18_3791373148087469148.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "知道了很多「生物炼金」的知识之后，我就不怎么吃蘑菇了…你应该知道吧？蘑菇，是长在死掉的生物上的，联想到同类的其他东西，我、我的胃口就…呃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bb1a56b2ecf3e38af806ceb0f7e907b8_7927207431189138581.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃！啊…趁着现在状态最好，赶紧把研究做完…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/bd8f338780912266511bdcdaaa29806a_5503807125751603484.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "比我做的营养餐好吃了不少。嗯，我也算改善伙食了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e0df0ecced8a2faef084836eec96c7a6_4512449494468480702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "对不起。我对这道菜，还是有点…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/9854b23b37add47d52290759dfb742d3_5795810513783013725.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！我做了好几个月的实验，终于，可以把这个药水送给你了。它能唤醒你这一年来最美好的回忆，名字叫做「生物秘药叁玖壹陆号」…唔，不是「叁壹玖陆号」，是「叁玖壹陆号」啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ad63e865b93455138f8d8579a0d1d2b9_8045822588849905458.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "「生物炼金」的研究，终于有突破了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7bb5533a92b67efdd16a396bbd4874c2_4456546089381669042.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这次旅行，我又收集到了很多研究材料，谢谢你，我会好好利用的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7a3739580f5b7b54af2f234e481d6394_209087778347730727.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "最近我在做实验的时候，经常会莫名地期待起来，什么时候又可以和你一起去冒险。唔…好奇怪，这是为什么呢？我要研究看看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a8752ebc07d9b23665e4a8408cb79c0d_4793093270281296285.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我收集到的研究材料，已经很足够了！花更多时间在我的身上，会…会很浪费的！至少…也让我用「生物炼金」，做点什么回礼给你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dab9e842475ad615e0eaede3146485e4_260261239039373004.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "吸附力测试。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3c6b26b6fd1d73ffa273277dee787105_8276775508605184616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "陆叁零捌式风单元！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/746fef36a9e8b073b5c0b9e4176a0fa2_6431726559888027366.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "确认…安全距离！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/81516880a78b50c30757fa8276236915_5830305302487221816.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "超扩散态！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/90598804e525f9009311d6fd74907543_3416362349620003939.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "柒伍式超级风模块！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e0382cd792a326ed4e590e9c78a793a8_6222434212748463948.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "无相之风…拟造！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5cf9db49d701cca9a57e82281b976bcc_3638356844286583183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "宝箱的出现成因…也值得研究。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fa0ae63c91e4233f175c9cd48479997a_6422952734580533492.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真希望实验材料也能成箱出现啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/73dcc31e09403938b4023eb1e7121ae7_1497668945762385017.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "太好了，有这么多素材！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/19cc24db7e891ee0f07c07c8bb430497_5272393533084791515.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "这种误差，还能接受…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/17e17e195547715ccc5b02033d097c88_5760309702920812909.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "有点，超出预想…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9071b524587263812c18c1b6f7f66542_3753863006173459097.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "不痛不痛，不痛的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/435a97fa99181b47f7ff322c40eb1b6f_3191495462424894723.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "快回来，我这里有药水！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/6386623919ee1e0363f70c276b4fbd1d_1213857572117577229.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "小心点，看准了再上！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/cf9cc81e833770ca0cf55ef69d81a0fd_2985192954703447142.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "研究…又失败了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/68d70264ee5e4846811b07ac9ffb6188_6078163725843326422.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "还需要…调整。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f97048686f5e8067e518630154df1320_4253044610230182615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "该…睡一会儿了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5d9c9fcce14a208b22408af8e1f07d0d_5224845279995532789.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不应该啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c74d82334c9e0fb4837f0dfb854130be_6380582397856867902.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "眼镜会碎掉的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5a4488d2f4218023ae1f997b28f6ed50_7809014286019933387.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "希望能帮上忙…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/85f3bcc17efe53ca3a2e96ac8c156c3b_1209227568111162542.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我、我会努力的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dd7463289ea98a8cf67939abba216adc_2886645140459420412.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "实验…一定要成功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/87fdf4ca4fc3a5d219b796871303a091_5971624008989008081.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是砂糖，炼金术的…研究员。听说你去过很多地方，一定也…不，没什么，第一次见面，不该这么麻烦你。但…如果你愿意，和我讲讲路上有意思的事，那个…我，会很开心的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fbd3a715159824e22e6d32d81437c851_164217004128795419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·好奇",
+          "text": "那是什么？啊…不见了，我可以去看看吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cce41620ddcea44ecc15a64242d475b3_6364919269510983432.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·整理",
+          "text": "趁现在，赶快整理一下研究笔记…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/be15a05c9675397f8db7fb5224890591_7036588913385921875.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·深呼吸",
+          "text": "嗯——！好久没出来透气了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5a3917e8b753300dc083505a112cf4c1_7869531205071319638.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "今天城里的风车，转得好快。欸，你说，如果在小动物背上，也装一个像风车一样的东西，会让它们跑得更快呢，还是会飞起来呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7531592af6415dd1f5b0fa893aac993f_4738089476471348090.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "这么大的雪，一年都没有几次，错过了，想研究就要等明年了，所以就别拦我啦。啊…阿嚏！呃…我知道了，我多穿一点…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7cb9d7a53200cf245f5e3d7ba16c8d75_8764153634292865236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天…天已经亮了？！那、那再做最后一次实验吧，做完就休息！嗯，最后一次…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/abbf9a4c39c0e20762df922e538c1973_17885811501827131.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "湿度上升，嗯…要不要再加一组实验呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d01dcd0fd07ed30d63a798cf3d3611b6_7760630014448778216.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，昨晚睡得还好吗？研究表明，只有睡眠充足，第二天的精神才会好，而且，脑袋的运转也会更高效哦。欸…什么？我总是熬夜？那个…唔，没办法嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5ae798c7f3f95ceeb358111207cc7a56_990080012320745074.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "呜哇！别、别过来！啊…不是，我的意思是，不要靠得太近，我在做实验，这个…可能会爆炸的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8c316323f7145312377a3c8aeb0b7c4f_7933752582402578487.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，啊…请稍等一下！「实验体玖零伍式」的光照分泌物其实有两种，为了明确区分，就叫「壹零叁叁式」和「壹零叁伍式」…嗯，好了，请问有什么事情要找我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2fee05686e361c95d54a201a38e2b9e2_7229664551931791531.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "不用等我，先去休息吧。唔…有这么不放心吗？实验已经在收尾了，不会熬夜的，真的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4782cfc31577444aee5f844dbb1c1af2_1361321012020315334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖自己·「生物炼金」",
+          "text": "「生物炼金」，比起「创造」，更注重「改造」，找到生物隐藏起来的优点，然后放大，结合，结果往往都让人大吃一惊。嗯…生命真的是太神奇了，究竟还有多少我们不知道的东西呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/32826d1dfd74ee3e92b344abc9c00288_7171611736172517851.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖自己·怕生",
+          "text": "我…其实我不知道怎么和陌生人说话。每个人性格都不一样，在意的东西也不一样，一不小心就会不够礼貌，或者哪里冒犯了，唉…说话真的好难啊，比炼金术什么的难多了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/08aabe299117c91b9609547e06cfe078_887534982282397566.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖自己·耳朵",
+          "text": "你…你注意到了啊。我的耳朵是家里遗传下来的，和其他人很不一样，所以平时我都会用头发尽量把它们藏起来…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e11905fe5c46fea1b293873dc0f545f8_8112094799422226111.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·观察",
+          "text": "我对你的经历，特别好奇，所以…我可以「观察」你一段时间吗？我会很安静的，不会打扰你，这样…你会介意吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/44b06dfe2dc04a44d2235fa8c045738e_6363212086658943799.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·收获",
+          "text": "老实说，一开始我看你不怎么说话，有点害怕…还以为是在哪里冒犯了你，后来时间长了才慢慢发现，原来，你还是挺好相处的。嘿嘿，这也算…「观察」的意外收获吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b51d8dd3f70a2897ce8820edd19a8f06_8716511482005787070.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·请求",
+          "text": "听说，是你赶走了风魔龙？战斗一定特别危险吧，幸好你没事。那个…有件小事，风魔龙它在战斗的时候，有没有，掉下来什么东西呢？鳞也好，皮也好，一点点就可以，我想，研究一下…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/59995d69ec5149eb6e0417277f0438c8_3620695882265886274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」，是我最重要的实验器材。欸？就、就是实验器材啊，没有了「神之眼」，很多跟元素相关的实验，就没办法进行了。你说战斗？啊…偶尔吧，去野外找材料的时候，偶尔会用到。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ac6802e06590ca61625869a686dd96f8_5436708908253540812.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "这个房间里，都是我收藏的骨头。放在左边柜子里的，有蜥蜴，青蛙，还有草鱼，挂在前面的是野猪，右边角落里的那个，是丘丘人…啊，别紧张，不用害怕，其实都是很可爱的东西，习惯了就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a723e6339adc5a18f42fa0d66b9612ae_7789566218479092358.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你看，种在这里的冰雾花，其实每一朵都不一样。这一朵冰元素含量更高，这一朵花期更长…嗯？你问那一朵，哦，那一朵叫「叁式冰雾花改十七号放大版」，特点，嗯…就是更大一点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e2c3b82f3ff44fb43645d43b86c36b04_222843712832953619.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔…",
+          "text": "她…经常会主动帮我的忙，但有时候太热情了，反而…让我有点苦恼。有一次，她看到我实验室门前堆了三箱器材，就很麻利地帮我搬了进来，但其实…那些都是我刚刚搬出去的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1740bb6ff729471281f8b38350a981a7_1148302275110118463.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "她已经被琴团长关过好多次禁闭了，但只要被放出来，不久就又会闯祸，唉，不知道有没有真的反省过。啊…我答应她，要帮她做一个会蹦会跳，又很安全的蹦蹦，只不过现在，设计上还有不少问题…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/20b97c3e647981fcd2313337a0eac870_2996080032427013640.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "我有点不敢和琴团长说话，因为她太严肃了…我知道她是个很好的人，但、但知道归知道，害怕…还是会害怕。我一般都不会去打扰她，实在有不得不找她的事，我…我也会拜托阿贝多先生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a8010a88f6782d158bddbb4c50a38d40_5808214710904722123.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "我觉得她，好像懂的特别多。她明明没有看过我的研究，但有好几次，都给了我最关键的建议。她到底是怎么知道的呢？是…观察？还是推理呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/126f7b93aab422ca5efef8efc083ba06_7868644833444569102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "唔…我知道他喜欢开玩笑，也没有存心捉弄我的意思。可是，我实在是…分不清他的哪句话是真话，哪句话又是玩笑，所以最后要不然就变得很尴尬，要不然，就是我出洋相…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5d56afd5f6bad0e90ad2717cc35a318_822050600421318397.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多·艺术",
+          "text": "当他的助手，每天都能学到很多。重点不是知识，而是「天才」的思考方法，无论是多么复杂的问题，他总能抽丝剥茧，再一一解决。在我看来，那就是艺术…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b53636e95acc5e1515965c8931ee8b26_3916786884015660573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多·天赋",
+          "text": "你说天赋？嗯…假如和他做同样的研究，可能确实一辈子都没法超过他。但，我研究「生物炼金」并没有故意要躲开他的意思，只是…嗯，我和他恰好有不同的爱好，还有梦想，仅此而已吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e25e7672e55ac9b550d8c95dafe16091_3951407439653874537.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "我很好奇，为什么她做的布偶，名字叫「兔兔伯爵」呢？和兔子没什么关系吧。唔…你说，头上的发带，很像兔耳朵？…有道理，但其实这是刻板印象，也有很多兔子耳朵是垂下来的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0778fc38d9c5279a649b19ff047daf62_7521905772310095642.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔…",
+          "text": "你是说《菲谢尔皇女夜谭》？我知道，作者创造出的世界很有意思，要是能亲眼去看一看就好了…欸？你在说那个「菲谢尔」啊？她啊…嗯，她…应该是没办法带我去的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1feb4027b72f0bf28764b4e2a133a286_422028725461548581.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈…",
+          "text": "游击骑士的工作很危险，优菈小姐的行动又格外大胆，所以我给她制作了一个侦察装置，这样她就不用潜入敌人的营地了。但优菈小姐的气势太吓人，我有点怕她，告诉她使用方法的时候，不小心漏掉了几条注意事项，结果真的发生了意外…\n\n怎么办？我会不会被她记仇了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9011a87c20cec9c574cde579c70af6ef_2078039672126694340.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其一",
+          "text": "了解我？你…是对「生物炼金」感兴趣吗？你有疑问的话，我会尽量给你准确答案的。嗯？不是炼金，而是「我」？唔，这个，我也不知道该说什么…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7440cca13978769c6a41ba7ccda9e7ea_1325284396876801094.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其二",
+          "text": "研究的本质，是寻找答案的过程。这个过程有时候很繁琐，也很累，但每次只要看看积累起来的成果，就会觉得…嗯，我是真的很喜欢做这样的事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/30d5ef81a54bbaa6a189f2004bc53b05_269873069530063207.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其三",
+          "text": "小时候，我有两个好朋友，我们无话不说。本来我以为，我对她们了解得一清二楚，但后来发生了一些事，我突然就…看不透她们了。她们现在在哪儿，在做什么，还记不记得我，这些…我都不知道。就算再好的朋友，也会变成这样呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b37fc34ae045f580716325e2b821343e_2940844656835434050.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其四",
+          "text": "告诉你一个小秘密，我对谁都没有讲过。「生物炼金」的最终目标，是创造出「仙境」…对，就是童话里的那个，能找到永远的快乐与幸福的「仙境」。嘿嘿，有点幼稚对吧？但，我现在都还相信那个故事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/14f50824ba19dd1f8b340cf87e95ecfe_1442113253971744422.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其五",
+          "text": "嗯…如果你忙的话，就去忙吧，我不想给你添麻烦。不忙？真的不忙吗？没事的，就算忙也没关系，一个人做实验我早就习惯了。啊…真、真的不忙？那…那可不可以，帮帮我的忙？或者…只是陪我说说话，什么的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4c61975983ef56427d81bf1312ed1b51_5525465424573274350.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "砂糖的爱好…",
+          "text": "我喜欢看起来很规则的东西，你看，书架上每一本实验记录，厚度都是一样的，实验台上的几百瓶药水，都是按功效与颜色分别排好…欸？…欸欸？！为什么这瓶紫色的药水会出现在这里！我、我要全部整理一遍！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/87ac78ad23a0cf9f1c95fec5dddbadea_4992672432623516072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "砂糖的烦恼…",
+          "text": "我想知道，你平时休息的时候，会干些什么呢？每到休息日，我就找不到事情做，只能发呆…明明做实验的时候时间过得很快，休息的时候，怎么就有种度日如年的感觉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aa3f358685252415c2e0fe4819823ebd_5587551469668299160.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我会提炼出甜甜花的花蜜，做成糖块。脑袋转不动的时候吃一块，就又可以集中精神了。做研究，糖分的补充是很重要的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a6c6786e2db2b287bed9dcd7d58de261_4690755583110315047.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "知道了很多「生物炼金」的知识之后，我就不怎么吃蘑菇了…你应该知道吧？蘑菇，是长在死掉的生物上的，联想到同类的其他东西，我、我的胃口就…呃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5aa97bfff2d157913468bf695e5a516e_2074299237733475915.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃！啊…趁着现在状态最好，赶紧把研究做完…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c4922102e8518890cf0cf55f3c0dc30e_5805981595771624342.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "比我做的营养餐好吃了不少。嗯，我也算改善伙食了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c4698e5d57b7ddb7df703debed282ef5_1302966357360724588.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "对不起。我对这道菜，还是有点…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ab6af23490ad67a7aae4b7f1d899ad75_5497156359538052369.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！我做了好几个月的实验，终于，可以把这个药水送给你了。它能唤醒你这一年来最美好的回忆，名字叫做「生物秘药叁玖壹陆号」…唔，不是「叁壹玖陆号」，是「叁玖壹陆号」啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/14c2f5149defc8424551dfee3de62d4d_7072427460469924527.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "「生物炼金」的研究，终于有突破了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5155c03828a4e5aac79942742dcaec65_2271604108553210302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这次旅行，我又收集到了很多研究材料，谢谢你，我会好好利用的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7223a70dca61a6b17fdad15654a7fe2a_4796267950318451029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "最近我在做实验的时候，经常会莫名地期待起来，什么时候又可以和你一起去冒险。唔…好奇怪，这是为什么呢？我要研究看看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/59018b9ba4f0909ddbc3a983decbd379_809216005379135047.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我收集到的研究材料，已经很足够了！花更多时间在我的身上，会…会很浪费的！至少…也让我用「生物炼金」，做点什么回礼给你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5d9c10af4f3cfa5cb47e98815acf344a_4623899247274085626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "吸附力测试。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8bf44ace0c8df73fe9c2b3133394e9e_6057370357460559122.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "陆叁零捌式风单元！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f31d389b02b9e22e7e7b73d6564dd73_2427954367066563293.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "确认…安全距离！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1575360df84d42007f32b935744133ec_6167025063345575384.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "超扩散态！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/846219498e158a82d87015f05636207e_5521951997203850635.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "柒伍式超级风模块！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0c52832621610a317255a134344b3372_5112803106130433793.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "无相之风…拟造！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3c9ea0be87d8ab0109c32bef264d4198_2110745131665524010.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "宝箱的出现成因…也值得研究。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/88a6a8a25a7e1fc9cd1c0b08786b8327_3909748274624534041.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真希望实验材料也能成箱出现啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9257fe605aa84bffcdbd78718bffaca0_4603676199658383424.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "太好了，有这么多素材！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1dfa1562a262d7d718f6bc9bfa6506fb_769928634965261923.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "这种误差，还能接受…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3509845bcade3de8f0add66240e80da4_8937121521851757962.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "有点，超出预想…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a05b53f6c1f5545605342c7d74ddb829_3463949156413739034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "不痛不痛，不痛的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/903627e08a669406aaad7c338dad13b7_3493849080041917526.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "快回来，我这里有药水！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d71b94dbc228d1e7c62594ecb8ec72a6_1414825596895290044.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "小心点，看准了再上！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/8b42fc473c24f72af4acfc2ce4acc2a7_4684660928333218662.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "研究…又失败了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9768810bab012babb5bfb825fb268706_7916077539865333200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "还需要…调整。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e07c746e5f8b4d477eece7da8a544771_7166433045724864856.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "该…睡一会儿了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/500f5549cfeca1845513d1a5028c72da_7605430408116366657.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不应该啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f44a4b387b03b506998a074ed83a827_5695221097693472674.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "眼镜会碎掉的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d10b1139ef9358c7a7d051c56d9e5a5_1501216457430638022.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "希望能帮上忙…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/10e35887ef1c90cf7aa2d72d98293fd0_503038458698333535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我、我会努力的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6dbb32b01a623ec4f5a9077e7b851cb0_2184022415359812784.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "实验…一定要成功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f62cf2b5997f496d44b14f59bf92dea2_6792998631408427386.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是砂糖，炼金术的…研究员。听说你去过很多地方，一定也…不，没什么，第一次见面，不该这么麻烦你。但…如果你愿意，和我讲讲路上有意思的事，那个…我，会很开心的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/12bd429aaef9a0b27d8bb5e668e9b684_3522292159110858896.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·好奇",
+          "text": "那是什么？啊…不见了，我可以去看看吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a59c6c94dcb55f7c6a16fedb47bb8339_8269424148509148970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·整理",
+          "text": "趁现在，赶快整理一下研究笔记…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/98f525d4b4aa0a31802ce16be35f566d_7357504575313214364.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·深呼吸",
+          "text": "嗯——！好久没出来透气了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e293620a9846cc74bc66a628ebafcc49_8715287848994749167.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "今天城里的风车，转得好快。欸，你说，如果在小动物背上，也装一个像风车一样的东西，会让它们跑得更快呢，还是会飞起来呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0cff53d2e2112544797a64acf40775af_2385787257184874833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "这么大的雪，一年都没有几次，错过了，想研究就要等明年了，所以就别拦我啦。啊…阿嚏！呃…我知道了，我多穿一点…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab6fee96d9c4a077359153383d313eb7_6136309164030666532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天…天已经亮了？！那、那再做最后一次实验吧，做完就休息！嗯，最后一次…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e7dc7f9b536f3aea805894e13f694d18_1700794253595523167.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "湿度上升，嗯…要不要再加一组实验呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b8f0c92bc61ed78012419a032ff173bf_9018728477739227698.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，昨晚睡得还好吗？研究表明，只有睡眠充足，第二天的精神才会好，而且，脑袋的运转也会更高效哦。欸…什么？我总是熬夜？那个…唔，没办法嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d13b5eca1197a2a415b70f9d6f1c0d44_6974851098610516654.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "呜哇！别、别过来！啊…不是，我的意思是，不要靠得太近，我在做实验，这个…可能会爆炸的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/47117f7d02f5faac151a4913a1ea226d_707503138181029776.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，啊…请稍等一下！「实验体玖零伍式」的光照分泌物其实有两种，为了明确区分，就叫「壹零叁叁式」和「壹零叁伍式」…嗯，好了，请问有什么事情要找我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/23efeff797dd65126662454c30216291_7333086936706140420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "不用等我，先去休息吧。唔…有这么不放心吗？实验已经在收尾了，不会熬夜的，真的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5d76f332dd71c961efb90e307300679a_8742090250123561347.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖自己·「生物炼金」",
+          "text": "「生物炼金」，比起「创造」，更注重「改造」，找到生物隐藏起来的优点，然后放大，结合，结果往往都让人大吃一惊。嗯…生命真的是太神奇了，究竟还有多少我们不知道的东西呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/94c8af1a746fb121951461aa2c55f3aa_1952841872792771821.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖自己·怕生",
+          "text": "我…其实我不知道怎么和陌生人说话。每个人性格都不一样，在意的东西也不一样，一不小心就会不够礼貌，或者哪里冒犯了，唉…说话真的好难啊，比炼金术什么的难多了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7a8ec144b8d2176c938824893f58c15d_6429736515333735281.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖自己·耳朵",
+          "text": "你…你注意到了啊。我的耳朵是家里遗传下来的，和其他人很不一样，所以平时我都会用头发尽量把它们藏起来…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/265558c8ccfe1d7b77c1486548623950_6761544520503486203.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·观察",
+          "text": "我对你的经历，特别好奇，所以…我可以「观察」你一段时间吗？我会很安静的，不会打扰你，这样…你会介意吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/749e39acb57996d47a3d2f689153e2bf_5473431551764056756.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·收获",
+          "text": "老实说，一开始我看你不怎么说话，有点害怕…还以为是在哪里冒犯了你，后来时间长了才慢慢发现，原来，你还是挺好相处的。嘿嘿，这也算…「观察」的意外收获吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/20cf0cc90ee77e9c3b5d09798300319f_2240753912043456160.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·请求",
+          "text": "听说，是你赶走了风魔龙？战斗一定特别危险吧，幸好你没事。那个…有件小事，风魔龙它在战斗的时候，有没有，掉下来什么东西呢？鳞也好，皮也好，一点点就可以，我想，研究一下…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3918aa67964b8599eaf8fdb98425ba6a_2259455969666237963.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」，是我最重要的实验器材。欸？就、就是实验器材啊，没有了「神之眼」，很多跟元素相关的实验，就没办法进行了。你说战斗？啊…偶尔吧，去野外找材料的时候，偶尔会用到。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae97376fdfbe7c880a347765288d87e6_1279162352063787217.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "这个房间里，都是我收藏的骨头。放在左边柜子里的，有蜥蜴，青蛙，还有草鱼，挂在前面的是野猪，右边角落里的那个，是丘丘人…啊，别紧张，不用害怕，其实都是很可爱的东西，习惯了就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9d3d1e4ea1475467e26989c0e44dd2ed_8107441580968313479.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你看，种在这里的冰雾花，其实每一朵都不一样。这一朵冰元素含量更高，这一朵花期更长…嗯？你问那一朵，哦，那一朵叫「叁式冰雾花改十七号放大版」，特点，嗯…就是更大一点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/497607f465f9ab3d1ae0f19e008ab66a_4176315943675319997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔…",
+          "text": "她…经常会主动帮我的忙，但有时候太热情了，反而…让我有点苦恼。有一次，她看到我实验室门前堆了三箱器材，就很麻利地帮我搬了进来，但其实…那些都是我刚刚搬出去的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5871e8f47065004e31115ed06dc2aa1_1959361101386282992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "她已经被琴团长关过好多次禁闭了，但只要被放出来，不久就又会闯祸，唉，不知道有没有真的反省过。啊…我答应她，要帮她做一个会蹦会跳，又很安全的蹦蹦，只不过现在，设计上还有不少问题…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8646f8d45c1d58a25017b4f9a13f997c_524362438157405374.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "我有点不敢和琴团长说话，因为她太严肃了…我知道她是个很好的人，但、但知道归知道，害怕…还是会害怕。我一般都不会去打扰她，实在有不得不找她的事，我…我也会拜托阿贝多先生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/73fa0ffd54ae974c198d3d240f2d18c2_3307290820980200731.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "我觉得她，好像懂的特别多。她明明没有看过我的研究，但有好几次，都给了我最关键的建议。她到底是怎么知道的呢？是…观察？还是推理呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4bfd9bfe24f0c6041d780705ebcd125f_2606519533624118220.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "唔…我知道他喜欢开玩笑，也没有存心捉弄我的意思。可是，我实在是…分不清他的哪句话是真话，哪句话又是玩笑，所以最后要不然就变得很尴尬，要不然，就是我出洋相…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/30def9e0610ce62eaf7a44ca885ad19f_1558661298505586553.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多·艺术",
+          "text": "当他的助手，每天都能学到很多。重点不是知识，而是「天才」的思考方法，无论是多么复杂的问题，他总能抽丝剥茧，再一一解决。在我看来，那就是艺术…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2e9015dd77ddb466917014f8171c428f_854354002185149177.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多·天赋",
+          "text": "你说天赋？嗯…假如和他做同样的研究，可能确实一辈子都没法超过他。但，我研究「生物炼金」并没有故意要躲开他的意思，只是…嗯，我和他恰好有不同的爱好，还有梦想，仅此而已吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a9f27e947410d8654663dd6700b34567_8285966104053990966.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "我很好奇，为什么她做的布偶，名字叫「兔兔伯爵」呢？和兔子没什么关系吧。唔…你说，头上的发带，很像兔耳朵？…有道理，但其实这是刻板印象，也有很多兔子耳朵是垂下来的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd70773adfb59936530cace84db7e6f7_3612749302760037193.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔…",
+          "text": "你是说《菲谢尔皇女夜谭》？我知道，作者创造出的世界很有意思，要是能亲眼去看一看就好了…欸？你在说那个「菲谢尔」啊？她啊…嗯，她…应该是没办法带我去的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c2324aedb73e55e050e532b39672f6cd_3973712554036362722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈…",
+          "text": "游击骑士的工作很危险，优菈小姐的行动又格外大胆，所以我给她制作了一个侦察装置，这样她就不用潜入敌人的营地了。但优菈小姐的气势太吓人，我有点怕她，告诉她使用方法的时候，不小心漏掉了几条注意事项，结果真的发生了意外…\n\n怎么办？我会不会被她记仇了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb7d5662752c20c5b570d01c31f4f06b_194352067577852228.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其一",
+          "text": "了解我？你…是对「生物炼金」感兴趣吗？你有疑问的话，我会尽量给你准确答案的。嗯？不是炼金，而是「我」？唔，这个，我也不知道该说什么…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fbd299a8229f2221b6859f5bbcb56d2a_3671263814485945739.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其二",
+          "text": "研究的本质，是寻找答案的过程。这个过程有时候很繁琐，也很累，但每次只要看看积累起来的成果，就会觉得…嗯，我是真的很喜欢做这样的事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/015dc1d616aea8a81e60ae39ddf2abd4_2261253760859830702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其三",
+          "text": "小时候，我有两个好朋友，我们无话不说。本来我以为，我对她们了解得一清二楚，但后来发生了一些事，我突然就…看不透她们了。她们现在在哪儿，在做什么，还记不记得我，这些…我都不知道。就算再好的朋友，也会变成这样呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb76954608439479ef72e6eac0143ae0_5840848032492526045.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其四",
+          "text": "告诉你一个小秘密，我对谁都没有讲过。「生物炼金」的最终目标，是创造出「仙境」…对，就是童话里的那个，能找到永远的快乐与幸福的「仙境」。嘿嘿，有点幼稚对吧？但，我现在都还相信那个故事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7a3b30f5c6ab8e685d3fd666ba4ee026_6631321545680001988.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其五",
+          "text": "嗯…如果你忙的话，就去忙吧，我不想给你添麻烦。不忙？真的不忙吗？没事的，就算忙也没关系，一个人做实验我早就习惯了。啊…真、真的不忙？那…那可不可以，帮帮我的忙？或者…只是陪我说说话，什么的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4e721b72a7c59f10296f417009540203_388772473435470537.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "砂糖的爱好…",
+          "text": "我喜欢看起来很规则的东西，你看，书架上每一本实验记录，厚度都是一样的，实验台上的几百瓶药水，都是按功效与颜色分别排好…欸？…欸欸？！为什么这瓶紫色的药水会出现在这里！我、我要全部整理一遍！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/25e3516632dda87b79ede8d6f14ececc_1504445672944566686.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "砂糖的烦恼…",
+          "text": "我想知道，你平时休息的时候，会干些什么呢？每到休息日，我就找不到事情做，只能发呆…明明做实验的时候时间过得很快，休息的时候，怎么就有种度日如年的感觉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/154796c7d39ddeed841e20d5681469aa_7408713687223804742.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我会提炼出甜甜花的花蜜，做成糖块。脑袋转不动的时候吃一块，就又可以集中精神了。做研究，糖分的补充是很重要的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bf2d4e275175aab2646d9297ddcf3b15_8283939187612869315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "知道了很多「生物炼金」的知识之后，我就不怎么吃蘑菇了…你应该知道吧？蘑菇，是长在死掉的生物上的，联想到同类的其他东西，我、我的胃口就…呃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/17ca02ec3eab0da68d61436a14bdd8e1_1315781055844258509.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃！啊…趁着现在状态最好，赶紧把研究做完…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/fc6ff08f814933b007232f3846cd55ff_6401302208453135460.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "比我做的营养餐好吃了不少。嗯，我也算改善伙食了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e586eb537f7c7de8714bb8f55a0a2677_4384880012968537735.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "对不起。我对这道菜，还是有点…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/61cb68519d4b08d5df659bbb60e54f28_4544778294704949637.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！我做了好几个月的实验，终于，可以把这个药水送给你了。它能唤醒你这一年来最美好的回忆，名字叫做「生物秘药叁玖壹陆号」…唔，不是「叁壹玖陆号」，是「叁玖壹陆号」啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ccc67e18caaa05062a5aefdaf70b2989_4777534337588277209.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "「生物炼金」的研究，终于有突破了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a2ae424ca5b028ead2a0dfe0f5c3f978_8509821107044336363.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这次旅行，我又收集到了很多研究材料，谢谢你，我会好好利用的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/575a434cae6dc145d9029bb8e8c558f4_4197506126800840749.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "最近我在做实验的时候，经常会莫名地期待起来，什么时候又可以和你一起去冒险。唔…好奇怪，这是为什么呢？我要研究看看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fd122743a735be5a9dc814eacb78085f_8676417289747820783.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我收集到的研究材料，已经很足够了！花更多时间在我的身上，会…会很浪费的！至少…也让我用「生物炼金」，做点什么回礼给你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/744f528b682ccf46242f991ffa8957c5_347335282474254382.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "吸附力测试。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8cffa2253116f07de9108efe2ad27fe1_2384810220283204887.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "陆叁零捌式风单元！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/21224c43ed7c57e1cdf4a4f5d981e014_5646552635447110106.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "确认…安全距离！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/36e422cacdefe3efa90e51b1c0323467_1581242660473041235.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "超扩散态！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/496b3ec99a433e201c9ee9fe1ae622a8_2549635473455607666.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "柒伍式超级风模块！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7195554890cf0762f3ff8d8a421ae5dd_3132752802595913580.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "无相之风…拟造！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fabadfa7fbf50fb66c14fcce75465fc5_3658540569884806951.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "宝箱的出现成因…也值得研究。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b45b231d9d778d421bbec5292fdc2113_2537086824759053985.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真希望实验材料也能成箱出现啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6a1da06b2774d9aacc0e2aee73162c9d_8814510122303260316.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "太好了，有这么多素材！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8c2b85854b0481eb8802527c05300794_1746680800147614697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "这种误差，还能接受…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/29d44e1173453b9a6736c2795aff3a20_9204808923614145652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "有点，超出预想…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0bfbd012a86de96156430ea832500fad_2683303738378986741.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "不痛不痛，不痛的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/35d14de1ad725b851f6646c063aa22b1_3709575458623316567.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "快回来，我这里有药水！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/b8e3c3179ea50057b2f020f10aa183d4_5958179751613966955.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "小心点，看准了再上！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/efa8c6da66536abb4510c53bc5d00357_6480187378884575501.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "研究…又失败了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ca67aae8fc7c2eebd4c087313db00472_8713851884876035772.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "还需要…调整。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5e08eb968a6e1bc99fbae3dab452eb6c_3740237373968377744.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "该…睡一会儿了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b3667813fc4703a35ca1f60c929fcd6a_7887384299464134898.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不应该啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b96aaea0a8d7dc0d8a2187a9685944d3_8637809153151430326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "眼镜会碎掉的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d486ed74974d7b944bd12546503bfc89_4699444141238909729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "希望能帮上忙…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dee8e2f06c67def7919babd3d6653e20_3806383437513207568.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我、我会努力的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a2e5a94adfcacf21f13f33905c21245_1014016815268800140.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "实验…一定要成功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5c767766c4cb2947cb7d02b323bee9cd_762631803683585825.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我是砂糖，炼金术的…研究员。听说你去过很多地方，一定也…不，没什么，第一次见面，不该这么麻烦你。但…如果你愿意，和我讲讲路上有意思的事，那个…我，会很开心的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6ff543acb31109a19387a9ec4cdffb91_7346677132083511399.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·好奇",
+          "text": "那是什么？啊…不见了，我可以去看看吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/04894047e34fc3f4ef57eb0b44a2dd2c_1437286701044225124.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·整理",
+          "text": "趁现在，赶快整理一下研究笔记…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab6d71c616b2cf111348ab6f4eca598a_434585175657211599.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·深呼吸",
+          "text": "嗯——！好久没出来透气了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/91346e15f49e15a15b02bd71eaee7357_5959087074373208946.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "今天城里的风车，转得好快。欸，你说，如果在小动物背上，也装一个像风车一样的东西，会让它们跑得更快呢，还是会飞起来呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/388f764d9656e84f5db9a1a7ae9d123e_8753873593689172660.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "这么大的雪，一年都没有几次，错过了，想研究就要等明年了，所以就别拦我啦。啊…阿嚏！呃…我知道了，我多穿一点…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e5c9e4472e6004a98169e83f20563074_6864932894595455610.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天…天已经亮了？！那、那再做最后一次实验吧，做完就休息！嗯，最后一次…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6d48eff930234b5bb34534eb7f92608b_8134576288979994608.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "湿度上升，嗯…要不要再加一组实验呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6c3faf44801bd4f89faef78cf3a69a0e_5507697282492043326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好，昨晚睡得还好吗？研究表明，只有睡眠充足，第二天的精神才会好，而且，脑袋的运转也会更高效哦。欸…什么？我总是熬夜？那个…唔，没办法嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1135765742d4b60e6dba0bd20c52181d_4152582096505213479.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "呜哇！别、别过来！啊…不是，我的意思是，不要靠得太近，我在做实验，这个…可能会爆炸的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b27246fb6662cc5668dfd3625149cc62_1571788956969247350.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，啊…请稍等一下！「实验体玖零伍式」的光照分泌物其实有两种，为了明确区分，就叫「壹零叁叁式」和「壹零叁伍式」…嗯，好了，请问有什么事情要找我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/809bce74e65b1eef688c1d9274198d32_8957299210897041201.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "不用等我，先去休息吧。唔…有这么不放心吗？实验已经在收尾了，不会熬夜的，真的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2ed60651dea40367f54d032ea4efcebe_4246151548179004487.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖自己·「生物炼金」",
+          "text": "「生物炼金」，比起「创造」，更注重「改造」，找到生物隐藏起来的优点，然后放大，结合，结果往往都让人大吃一惊。嗯…生命真的是太神奇了，究竟还有多少我们不知道的东西呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/43c5aa28155209659241875cbde79b99_8940298172540738982.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖自己·怕生",
+          "text": "我…其实我不知道怎么和陌生人说话。每个人性格都不一样，在意的东西也不一样，一不小心就会不够礼貌，或者哪里冒犯了，唉…说话真的好难啊，比炼金术什么的难多了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3ecd1f459ed53e1afdf243e12ef3f669_620084285745728524.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于砂糖自己·耳朵",
+          "text": "你…你注意到了啊。我的耳朵是家里遗传下来的，和其他人很不一样，所以平时我都会用头发尽量把它们藏起来…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c4d41b8507941144c26a52b82fb03f9d_6612306356307643274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·观察",
+          "text": "我对你的经历，特别好奇，所以…我可以「观察」你一段时间吗？我会很安静的，不会打扰你，这样…你会介意吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/df2f2e6754f56c7afce96ed0b4ebe27e_5331618571908235326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·收获",
+          "text": "老实说，一开始我看你不怎么说话，有点害怕…还以为是在哪里冒犯了你，后来时间长了才慢慢发现，原来，你还是挺好相处的。嘿嘿，这也算…「观察」的意外收获吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/05c3ee67df58ff528100d19a8aa0ac2b_1934287803908259894.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·请求",
+          "text": "听说，是你赶走了风魔龙？战斗一定特别危险吧，幸好你没事。那个…有件小事，风魔龙它在战斗的时候，有没有，掉下来什么东西呢？鳞也好，皮也好，一点点就可以，我想，研究一下…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/62118a7fb829ea1bfee0a0fafd33b5ee_8049912428285774150.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "「神之眼」，是我最重要的实验器材。欸？就、就是实验器材啊，没有了「神之眼」，很多跟元素相关的实验，就没办法进行了。你说战斗？啊…偶尔吧，去野外找材料的时候，偶尔会用到。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8b88fef2384961ce45c0523d476328ee_6717227388826056834.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "这个房间里，都是我收藏的骨头。放在左边柜子里的，有蜥蜴，青蛙，还有草鱼，挂在前面的是野猪，右边角落里的那个，是丘丘人…啊，别紧张，不用害怕，其实都是很可爱的东西，习惯了就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/89fd05d24353ed9fc964cfaabffc6c0f_8538027777702175789.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "你看，种在这里的冰雾花，其实每一朵都不一样。这一朵冰元素含量更高，这一朵花期更长…嗯？你问那一朵，哦，那一朵叫「叁式冰雾花改十七号放大版」，特点，嗯…就是更大一点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b676e5aafeb8f760fbecb9d3e7e1a35_2207703253736842646.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于诺艾尔…",
+          "text": "她…经常会主动帮我的忙，但有时候太热情了，反而…让我有点苦恼。有一次，她看到我实验室门前堆了三箱器材，就很麻利地帮我搬了进来，但其实…那些都是我刚刚搬出去的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d45f1527a63eeb2101b8c07831c2897b_6052705466985804742.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "她已经被琴团长关过好多次禁闭了，但只要被放出来，不久就又会闯祸，唉，不知道有没有真的反省过。啊…我答应她，要帮她做一个会蹦会跳，又很安全的蹦蹦，只不过现在，设计上还有不少问题…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/30f19db01e4595c89b6167223940ee6f_1276540612604355271.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "我有点不敢和琴团长说话，因为她太严肃了…我知道她是个很好的人，但、但知道归知道，害怕…还是会害怕。我一般都不会去打扰她，实在有不得不找她的事，我…我也会拜托阿贝多先生。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9060a0798ee8bf810db96eade610e5a5_8115592787456795115.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "我觉得她，好像懂的特别多。她明明没有看过我的研究，但有好几次，都给了我最关键的建议。她到底是怎么知道的呢？是…观察？还是推理呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3e390d19839de7132db5cb96d496edd1_3548380939933366160.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "唔…我知道他喜欢开玩笑，也没有存心捉弄我的意思。可是，我实在是…分不清他的哪句话是真话，哪句话又是玩笑，所以最后要不然就变得很尴尬，要不然，就是我出洋相…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5ae04cac7558317ae7c0e0ab29d4cc43_1185296730956675886.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多·艺术",
+          "text": "当他的助手，每天都能学到很多。重点不是知识，而是「天才」的思考方法，无论是多么复杂的问题，他总能抽丝剥茧，再一一解决。在我看来，那就是艺术…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a2f37080673954147678b61be660a03f_6265998909424389522.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多·天赋",
+          "text": "你说天赋？嗯…假如和他做同样的研究，可能确实一辈子都没法超过他。但，我研究「生物炼金」并没有故意要躲开他的意思，只是…嗯，我和他恰好有不同的爱好，还有梦想，仅此而已吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/84ee3d51175924eeac58410198faaba6_853941461645050202.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "我很好奇，为什么她做的布偶，名字叫「兔兔伯爵」呢？和兔子没什么关系吧。唔…你说，头上的发带，很像兔耳朵？…有道理，但其实这是刻板印象，也有很多兔子耳朵是垂下来的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3549e79619af42a344dccc42e22e82a5_7926991030228142492.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于菲谢尔…",
+          "text": "你是说《菲谢尔皇女夜谭》？我知道，作者创造出的世界很有意思，要是能亲眼去看一看就好了…欸？你在说那个「菲谢尔」啊？她啊…嗯，她…应该是没办法带我去的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/58ba8a46fd571e2a4d3e2966f0a2f204_6294075187370878955.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈…",
+          "text": "游击骑士的工作很危险，优菈小姐的行动又格外大胆，所以我给她制作了一个侦察装置，这样她就不用潜入敌人的营地了。但优菈小姐的气势太吓人，我有点怕她，告诉她使用方法的时候，不小心漏掉了几条注意事项，结果真的发生了意外…\n\n怎么办？我会不会被她记仇了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ef7f4b4d8125915ed3533035203da3b5_5360829966984021032.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其一",
+          "text": "了解我？你…是对「生物炼金」感兴趣吗？你有疑问的话，我会尽量给你准确答案的。嗯？不是炼金，而是「我」？唔，这个，我也不知道该说什么…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/defde47bc1cd4dcfddbada4bd18c5bbb_1227381987401387012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其二",
+          "text": "研究的本质，是寻找答案的过程。这个过程有时候很繁琐，也很累，但每次只要看看积累起来的成果，就会觉得…嗯，我是真的很喜欢做这样的事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/176f8806b175be1adff6562256dfb5e4_4370847023460137968.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其三",
+          "text": "小时候，我有两个好朋友，我们无话不说。本来我以为，我对她们了解得一清二楚，但后来发生了一些事，我突然就…看不透她们了。她们现在在哪儿，在做什么，还记不记得我，这些…我都不知道。就算再好的朋友，也会变成这样呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dd5970a9dd9f6f0452369812a2b01693_8254602391271380355.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其四",
+          "text": "告诉你一个小秘密，我对谁都没有讲过。「生物炼金」的最终目标，是创造出「仙境」…对，就是童话里的那个，能找到永远的快乐与幸福的「仙境」。嘿嘿，有点幼稚对吧？但，我现在都还相信那个故事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/35546df4928c0cbe5d77e3ef54e10f36_4174377137422538677.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解砂糖·其五",
+          "text": "嗯…如果你忙的话，就去忙吧，我不想给你添麻烦。不忙？真的不忙吗？没事的，就算忙也没关系，一个人做实验我早就习惯了。啊…真、真的不忙？那…那可不可以，帮帮我的忙？或者…只是陪我说说话，什么的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a7f2aa9e37657ec312d2d719914da0b8_3566953541492055451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "砂糖的爱好…",
+          "text": "我喜欢看起来很规则的东西，你看，书架上每一本实验记录，厚度都是一样的，实验台上的几百瓶药水，都是按功效与颜色分别排好…欸？…欸欸？！为什么这瓶紫色的药水会出现在这里！我、我要全部整理一遍！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aafc5c4f52b48614d641ec8af189628d_8122225379041726296.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "砂糖的烦恼…",
+          "text": "我想知道，你平时休息的时候，会干些什么呢？每到休息日，我就找不到事情做，只能发呆…明明做实验的时候时间过得很快，休息的时候，怎么就有种度日如年的感觉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/efa70bc136a705dd5bacbf639aafa362_5120958109759281720.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我会提炼出甜甜花的花蜜，做成糖块。脑袋转不动的时候吃一块，就又可以集中精神了。做研究，糖分的补充是很重要的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/671dc1d338d196f5990a3f278bcb8548_2795834744944873734.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "知道了很多「生物炼金」的知识之后，我就不怎么吃蘑菇了…你应该知道吧？蘑菇，是长在死掉的生物上的，联想到同类的其他东西，我、我的胃口就…呃…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d4c42f4bd67bd180164eb12d21d3d9f1_1046730168009023342.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "好吃！啊…趁着现在状态最好，赶紧把研究做完…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ea609e4d12687f7cdf22cab84ce8ba08_1400832470281176149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "比我做的营养餐好吃了不少。嗯，我也算改善伙食了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/47151df1bbe97a0e7e797c97f84f3ea4_5456915343265747043.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "对不起。我对这道菜，还是有点…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/39c4fa81e0de6fd246e3c2e737372e22_4727580565597168703.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐！我做了好几个月的实验，终于，可以把这个药水送给你了。它能唤醒你这一年来最美好的回忆，名字叫做「生物秘药叁玖壹陆号」…唔，不是「叁壹玖陆号」，是「叁玖壹陆号」啦！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/248d5787d8d9215b351407d45990ab9a_4269743978086126844.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "「生物炼金」的研究，终于有突破了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9a502d69f2ada83cd2a3c856f9faff2e_3488646785764983423.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "这次旅行，我又收集到了很多研究材料，谢谢你，我会好好利用的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/500ffe7ef96e5044ca99a85c410c000b_8112888468908886409.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "最近我在做实验的时候，经常会莫名地期待起来，什么时候又可以和你一起去冒险。唔…好奇怪，这是为什么呢？我要研究看看。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e16ce65c96cc55acd9c9d90e0b634c4c_4038361334006841806.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我收集到的研究材料，已经很足够了！花更多时间在我的身上，会…会很浪费的！至少…也让我用「生物炼金」，做点什么回礼给你！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4bc9421f7665b8ddcb52b9ab9b398eba_2950974979010078403.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "吸附力测试。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2afee4498d8e340499631d71a7743ab5_7214307247863253945.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "陆叁零捌式风单元！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e672e78fff245d818b2ca1083d86b7f5_8579403151478226233.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "确认…安全距离！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c18bcf46a9edb3b4db6fe83d0a08d88c_1240267712995848526.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "超扩散态！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/90e7f107084ec95ff101541400b3484c_7346550695544560824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "柒伍式超级风模块！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5e44ec29984b86e5ff5dc3b03325d20a_4700560548493348325.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "无相之风…拟造！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f609c27d671ff5afd36a1a5071e88026_1571044483656590502.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "宝箱的出现成因…也值得研究。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/74c4c0e4089adddec8703c79a69548a1_5993489803870277681.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "真希望实验材料也能成箱出现啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de8b6255292fa85c1c8da6e13749296b_2324109466378504435.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "太好了，有这么多素材！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/121014087b31ecd53228627dc60aa8bd_6869458221666793724.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "这种误差，还能接受…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/12613b1929616bd4032f9eab9375874c_7566975067350919587.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "有点，超出预想…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/587752c522675920c050ef33bdf5bb77_8485440466433401004.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "不痛不痛，不痛的…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e5315193b1ee4e565c576b861aee575c_353917205633097833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "快回来，我这里有药水！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/1fc72ecd11dde30f490213442a6ed0af_458416974028044488.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "小心点，看准了再上！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/5cd334a5e5103585b2e1e87e6c25bc8f_1505194229530914860.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "研究…又失败了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f065fa59426b9643204da448f9436233_326459491707627125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "还需要…调整。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d3c7794e82ef23f2d6ed489b928bb767_8721902583584424397.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "该…睡一会儿了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a554869ee387a967eaf7aa31e42880cd_684350005926287190.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不应该啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/db1172405550ee9009f4a6b811a7a834_5512483683892559733.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "眼镜会碎掉的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/085d65e57323ba5c2d19b45c3ad5838b_2115469655028981103.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "希望能帮上忙…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ad45f58df99257124dc57ad39245800a_2735087280419738176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "我、我会努力的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/493bd47a21f959d53034b58e5452e642_7510803607936231024.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "实验…一定要成功。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c1136a6c1d86c43e4923831ed76555a5_3635357194889589043.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

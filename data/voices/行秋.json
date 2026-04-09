@@ -1,0 +1,1877 @@
+{
+  "id": "241",
+  "name": "行秋",
+  "alias": [
+    "行秋"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "在下行秋，不过书海一蠹。某虽不才，仍愿为君略尽绵薄。难得有机会说这种风格的台词，感觉还不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/246787c7a5fa7d00881c09b28cff96c1_3548156909008814791.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·无人夜",
+          "text": "「有时明月无人夜，独向昭潭制恶龙。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a5bb544e41cf074342150428a5e843a9_4119454521412237280.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·文章",
+          "text": "「衣裓贮文章，自言学雕虫。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/52e3dc0288103ab835fc4070997a13bb_5770794313656930213.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·偷闲",
+          "text": "正所谓「偷得浮生半日闲」，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/be69c56b9a3e3aff83cdf52425aa74bc_5678434454939352512.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·阅卷",
+          "text": "如此如此，这般这般…欸？欲知后事如何，且听下回分解？唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e62018a4133892bf48c7cb268baca634_1767914918954130672.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·新书",
+          "text": "盘算着也该到「万文集舍」新进小说的日子了，不妨…我们顺道去看看？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8d98c5a11d0d23cc71aac2157e7a4f3_8866716471191357771.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "这么说来，我们家出品的锦缎伞，好像既不能遮阳也不能挡雨。唯一的用处就是挂在墙上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/28ebb6f1073d7ebcec57914be99b378e_5839091594226853833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "晴了就好，不然藏书会生霉的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b8bd604d0c0644848812205ab421f5ad_3666823370589400525.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "只有这种天气的时候，我才会觉得家里比书店好。家里炭火很足，而书堆里就不准用火。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9be7a580d9a5a63c6a6c60978034fcc6_2240785895681858362.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "练功的好…啊不，是看书的好时节啊。好啦，我脸上又没有写字，别一直盯着我看了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c09d932ec67968b60fb405315ee85471_4650045368632716842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早啊。早上的时间这么难得，能做做自己喜欢的事情就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/05f47fb08f5fed54d0fb0ce4c33bc0f5_317508042539469799.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭有点不想吃米饭，想吃糕点。待在书斋吃，父亲和兄长就不知道了…嗯？想一起来吗？嗯…只要你不把碎屑沾到书上就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7964676032a1c21fb79d438b2a129c71_1740464372800157464.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "去偷点萤火虫来看书，怎么样？唔，我的玩笑话你可别当真，对眼睛不好的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/219457fee727f2b440aa75fb866cff65_3037901495594241592.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "明天我也在老地方。只要你不中途迷了路，就准能找得到我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/01ff025aaef99a242786b97ee8bb0b09_2204012408261674529.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于行秋自己…",
+          "text": "在人前彬彬有礼，是因为大家见我是飞云商会的二少爷；在你面前能这么轻松，大概因为你看我的方式并不一样吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c93b2e38cbd5081f1132d5462a0cad44_7887698126653058304.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·书友",
+          "text": "你算是我的书友吧。什么？打架？古华派？战友？…唔！你都在说些什么呢。不是说好这是我们两人间的秘密吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/045e03beb327444084f1c6f655a9e0f9_887223783804590626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·结拜",
+          "text": "我要和你结拜，就去绝云间的祭坛那边。不行，不能拒绝。你知道了我的底细，也就知道了一直被我掩饰着的真实的自己…我不能放你走。除非…你答应我不会撒手不干！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3e0d97c673a135f51f84485fca31b9d1_3137983967038751211.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·古书",
+          "text": "「神之眼」的事情，虽然一般少有记载，但在我所收集的古书中却有一段特别的描述，待我找给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e99d7a31ffb434c8763e5a25adde5a4a_5788303096420673494.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·领悟",
+          "text": "受书中启发，我领会到，枪术与剑术的本质，正是瞳术。唔，解释起来可能有点费力…如果你真想知道，就跟我去「王山厅」走一趟吧。事先声明，到时候你可不准笑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/49822612e78ef8503a699d87f3cb9cf2_6294676475517842213.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "璃月非去不可的地方？这个问题很难回答，不过，如果消失了会让我很难过的地方…「万文集舍」稳排第一，「古华堂」能进前十吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2529042b38d74dab40adf187cc455b84_7764589090937850491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "以前是兔子，后来是鹿。对我来说，「请从绝处，读我侠义」是舍弃一切的觉悟，鹿却是绝处逢得新生的希望。真想再见它一次啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e5e78eddc1fe0f59c9f8d12dba6817ee_6407462060464980740.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗阁下是我非常敬重的人。不过希望她不要喊我「小子」，也不要一见面就揉我头发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/72dcb489cc953fd3f90cb6a24264166a_1863094787201589340.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凝光…",
+          "text": "「天权」大人是我不得不敬重的人。不然会给家父以及家兄添麻烦。嗯？对她本人，我想想。嗯…还是算了，不说人坏话了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c9e3dfd495d3c7d2653c98eb1bf9b875_1680023819583858286.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云…",
+          "text": "唉，重云这家伙，虽然也知道我的底细，但真要和他搭档去完成任务还得审慎。他现在还是执着「武」技，却不理解「侠」心的境界。需要多练练。尤其…是吃辣的方面，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d64cd22e22420db808ba5d2323ecb629_4974231470325543505.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于云堇…",
+          "text": "云堇啊，她只要能喝到满意的饮品，就会有动力去创作新戏。我呢，就一直在床底下囤着一小罐茶叶，就是为了等哪天她兴致索然的时候给她送去。这样，我就有听不完的异侠传奇了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2222838a2a09acc4df4f6c4beda50641_8590642543992868435.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "那个小姑娘，正是「往生堂」的当代堂主。嗯？问我怎样看待她的为人？…行事作风嘛，坊间传闻是作不了数的。真想了解一个人，还得看她真正想要的是什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4c565a25b0c22b7fe199f507012b87a8_8281972450455547039.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七…",
+          "text": "总感觉七七的身上藏着谜团。但只要白术先生在场，就跟她说不上几句话。除非，我们能找个白术先生外出看诊的机会，专门…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b28dca7afc37c8102988628873c6a7b8_7158534783510059444.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "见到香菱的时候，你可得多观察一下她的表情。尤其是刚刚添置完食材回来的香菱，笑得越开心，就越危险。要是被她缠上、逼你试吃新品…这种情况，我一般会靠重云来处理。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/61187188c7532c89b0d93b44394573e3_1181340807018553195.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "辛焱到底是在哪里演出的？从吃虎岩到玉京台，哪里都躲不过那种鸡飞狗跳的穿透力…唉，能够安静看书的时日是多么宝贵啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/adc44aab5982e4871e18e512c4a2af2d_1755984538647392519.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "下一卷、下下卷、下下下卷的重要场景，我都已经想好要配怎样的插画了！啊，必须赶快把灵感记下来，修书一封，寄给白垩老师…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/01ec1f456e62581b357707e98a4205ee_2367889403543893772.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "我看见过家父和家兄接待这位先生，就从他们行礼时候的恭敬态度来看…对方应该是很有地位的人物吧。我还听说他是给仙人办丧事的人，感觉很有底蕴。要不要一起去挖掘他身上的秘密呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/02778abf1c26b911804666c1dcd6528e_6609294832624266544.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于申鹤…",
+          "text": "总觉得申鹤小姐看我的眼神里略显凶恶，让我不敢随便跟她搭话。奇怪，难道我无意中得罪过她吗？或者…得罪过她身边的人？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/79eed08ebabad1018631fd18a7581001_1683508830100960506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夜兰…",
+          "text": "你听说过「一人千面」这个词语吗？夜兰小姐就给我这种感觉。上门来访的时候，家父和家兄以礼相待，她也还之以礼，就像是个亲切稳重的大姐姐。可在别的地方见到她时，又完全是不同的印象。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0a495b7eacb68ea0adc4fc8ab2fb2247_7237498255731655020.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于嘉明…",
+          "text": "嘉明的工作颇有侠之风范。试想，功夫盖世的黑衣少年携手威武镇煞的瑞兽，在月黑风高夜，将盗贼与恶徒打得落花流水，狼狈而逃…等他得空，真想听他多分享一些走镖路途中的见闻。你也一起来吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/17/16576950/ea559ca2bce1ed4d70280d1e5546ea18_7203352222725136980.mp3",
+          "audioName": "34关于嘉明…_cn.mp3"
+        },
+        {
+          "name": "想要了解行秋·其一",
+          "text": "阁下近来可好？如果闲来无事，可以来「万文集舍」转转。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cecf74f5b5ff86469eee7360acea0f39_5011274352672272264.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其二",
+          "text": "问我为什么总是一个人看书？好学…并不是什么坏习惯吧。没有什么特别的地方，嗯，真的没有。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f8e9844fd4bcf7558b632aa97d7e8c26_4493308994845546562.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其三",
+          "text": "今天的时间已经空出来了吗？好，我也随时可以出发。书？没关系，书可以回来接着看，那些需要我们帮助的人可不能等啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a5c8ea9c5bae08db4bc5e620569ec12c_3489325563981022093.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其四",
+          "text": "你说你有个好点子？用我们之前做的事情当原型，写一本探案集加武侠题材的小说，《万文集事件簿》？嗯，啊哈哈哈…是个好点子，但是不采纳。嗯，不会采纳的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4c3bed1391bf401648127fb438d46faf_1813900029711290731.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其五",
+          "text": "「洋洋万言，织诗成锦。」唉，我也想有这样的评价啊。这件事我只和你一个人说。其实，我也在写小说。现、现在当然不能给你看，以后…以后你会在书店里看到的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/813b2a8080ce47899a64ae21ca2f144b_7508699386288731315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "行秋的爱好…",
+          "text": "我的爱好自然是看书。什么书都会看。嗯？你一脸坏笑看着我干什么。唔，那事我们两个知道就行了，还是不适合明面上讲。说出来就没意思了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1b2b81686cbce51eb81de2e0c1fd91bc_682073966920121746.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "行秋的烦恼…",
+          "text": "烦恼啊，嗯…未来有朝一日兄长继承了家业，我会怎么样呢？这样无忧无虑的生活恐怕…啊，我不是在说身份之类的，我不在乎那些。我是觉得大哥太呆了，没我帮忙不太行啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0f2dc47e3986c2941b3487dd133003e7_8324359673430656262.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我比较喜欢吃糕点和月菜海鲜。主要是因为，我们家一直就吃得很清淡吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/52b5ee2c0aa13e035fd61d6ab40954ff_2178942123539671844.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我很讨厌胡萝卜，小时候家母经常捣碎胡萝卜做成…还是不要让我讲下去了。即使是在回忆里，那种味道也…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/560fd7dab9c018dbb35ab751a569703e_7348016866851921712.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "此等美食，吃过一次就再难忘怀了啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ab7a6aee1ddcd7f06853abb09e0f75bf_5788768974016145034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "既然你有这份手艺，不如我们开个路边餐馆，如何？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a74bbb0affd204b02885cb3849eb9b4c_1339169795956741006.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你吃你吃，不必客气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e05abc6bfd6ff7491f3bd45be72ae576_6951704093673971894.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日·祝福",
+          "text": "咳，咳咳。恭祝你福寿与天齐，庆贺你生辰快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3562fc0dd0a739200186cca41ed43529_3281113994561596617.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日·习俗",
+          "text": "据记载，天成石桥是上古战争时候，岩之神摩拉克斯投出的石枪倒塌后形成的。要是生日当天在桥上走一趟，往两边海里投点摩拉，就能保佑一年安康…生日一年只有一次，想去的话就快点去吧…没骗你，是真的。真的，快去吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7584d8b8d74849998153c06af90e4cd9_1348438922139540914.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "如果没有能力，那我心中的那个字，可能也就停在纸面上了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7a6105f8073e96ebfd32d9949ef83cb3_966699740639772400.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "如果心中没有善恶的标尺，努力就会错了方向。舍本逐末，变成追逐暴力的俗人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ae2dece8ccee1a3a66d68df37a8da694_4271320719541331287.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "我所追求的那个字，在璃月这方土地上并非处处通行。不过行道至此，我对这一点早就有了足够的认识。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77bd2ff25b399e9224d17b91d8df5275_6927165273915252101.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "多亏了你的陪伴。我对自己也很满意了——无论是武学，还是对那个字的理解。唉，算啦。我也不用对「侠」字讳莫如深了。我的「侠」，父亲和兄长应该也不会质疑了。只不过嘛，低调行事这点还是得保留的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1cb06812430b800b50d50746efd1eec5_6776849572170457305.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "雨线难画。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/253c055ce194d17ca6fc50d535a3d008_3911388063612842577.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "裁——！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/11bf907d6ae348fdbad4fe2918df1c79_858923339669263899.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "断！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d541449c538883b1a1f25b3d0da527f9_5346034521285877697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "古华深秘。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/51edd49f464e358dfcf5ce4ea6a07555_1777630822610047191.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "织诗成锦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/58f7c9d95b15eb0abc0eeadcfc8cf032_8746747433068972281.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "裁雨留虹。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2158b82c2cfd840e9175514a79b8d260_3151092309475920729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "形随神至。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd9b098ee36b8ef53be0bec8bf05490b_5137493443858336345.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "该行动了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/306218a638fec514891b3b401e51a7e1_4630386586684749294.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "甚好甚好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b038868a581539e24e94452bf752f8d1_3545447070741165050.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "寻得珍宝，真是充满侠意的经历。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/88d7c3dd519d71e5d9ccf9edd60a1a55_86367277045164016.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "倘若还有几卷失传的古书，就完满了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/33bccdd7d3f80cf98db57dacaae65d9a_1960321922653232819.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "计划有变…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/33d53cb0cc64aa962e90978a5257d45b_5033756428226084663.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "接下来就不再是「点到为止」了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f28b542dc7ee83a907f6c3cf949d086d_3074666049543775111.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "「请从绝处，读我侠义。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/02da249f4e3f992db5e2d50a636c2d20_7036978012903152677.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "过来这边，我有一计。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/74dcdf35b02833ee2820ed4f965f2ccb_8717646863548914797.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "小心行事为好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a2db360f0cabfbf030b141e8567264a1_7438558278444443541.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "承蒙…赐教…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/beec93d8749d4fc382d16d3a6a421290_1407970315698161175.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "灯华易散…我是知道的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2861c5786fa7c387ef4a2414b4f043c1_5989528085575310595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "失手了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/63813483ffc85bda53ddcbd82a2c94e1_3830626905642801793.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不妨事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7bbab6ec9c722adc964a620b23179fd9_234404592143764666.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "大意了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a9be589795003aca5a371171da051e32_5196775883232674187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "不好…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/091bafd192cb9be5e527765d9f112f68_2460318344880377663.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "厚积而薄发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7bc10697c7b8de6e78b4039a05736f7d_245445870178637372.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "不惭世上英。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/897f9982a79108396e03398bb0207485_8729966396637742911.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "扶善惩恶，当仁不让。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f230698abe8962c388f7eb5067ed3e5e_5910194884247450735.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "在下行秋，不过书海一蠹。某虽不才，仍愿为君略尽绵薄。难得有机会说这种风格的台词，感觉还不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e2480891fdc65bc21b573c8226e4b8b1_1482487256291611351.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·无人夜",
+          "text": "「有时明月无人夜，独向昭潭制恶龙。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c9d0cebe22c48c9e56b94479894f456f_849051056319913028.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·文章",
+          "text": "「衣裓贮文章，自言学雕虫。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b7561b7f22155fab013037161217517_8105780065127873333.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·偷闲",
+          "text": "正所谓「偷得浮生半日闲」，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ad29a63e61fc6056565e472c8910aea3_7284183641410855988.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·阅卷",
+          "text": "如此如此，这般这般…欸？欲知后事如何，且听下回分解？唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1df4d5b4e7ec8b6f50c525538615900d_2203613306617453197.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·新书",
+          "text": "盘算着也该到「万文集舍」新进小说的日子了，不妨…我们顺道去看看？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5fb499f5e32a0036a878978ec9c39836_5362681064718294535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "这么说来，我们家出品的锦缎伞，好像既不能遮阳也不能挡雨。唯一的用处就是挂在墙上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e213e02090c409c6f9e6652b94cbb8b4_4374459715893906831.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "晴了就好，不然藏书会生霉的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b7c51b8fccdedb117a854262560546e1_9005071793921537278.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "只有这种天气的时候，我才会觉得家里比书店好。家里炭火很足，而书堆里就不准用火。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/db234b55057b0179c0033693b7480376_2670882148946450521.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "练功的好…啊不，是看书的好时节啊。好啦，我脸上又没有写字，别一直盯着我看了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/73d445a438330b0f4429d95ed0ada815_5959250912473543134.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早啊。早上的时间这么难得，能做做自己喜欢的事情就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e95c83e5fd49b4ae907fc50530349ca1_6125280864222509611.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭有点不想吃米饭，想吃糕点。待在书斋吃，父亲和兄长就不知道了…嗯？想一起来吗？嗯…只要你不把碎屑沾到书上就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f4c6034af7022b5c93d2f43fbcc1d6b7_8763389738492618177.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "去偷点萤火虫来看书，怎么样？唔，我的玩笑话你可别当真，对眼睛不好的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e066c9b95842786ecba123e63185db45_2668133239968304071.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "明天我也在老地方。只要你不中途迷了路，就准能找得到我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f0aa0e63e6237d24addbee56324f669d_5608679476467751176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于行秋自己…",
+          "text": "在人前彬彬有礼，是因为大家见我是飞云商会的二少爷；在你面前能这么轻松，大概因为你看我的方式并不一样吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ef3ec89989c6d323fb5eef11ddaecc44_6790536167095039335.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·书友",
+          "text": "你算是我的书友吧。什么？打架？古华派？战友？…唔！你都在说些什么呢。不是说好这是我们两人间的秘密吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2d9fae4d826888ae21a2df2089c08e5b_6201046492497712378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·结拜",
+          "text": "我要和你结拜，就去绝云间的祭坛那边。不行，不能拒绝。你知道了我的底细，也就知道了一直被我掩饰着的真实的自己…我不能放你走。除非…你答应我不会撒手不干！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb9f986521232fc42ae10f1e1ec613e8_1540952127824436053.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·古书",
+          "text": "「神之眼」的事情，虽然一般少有记载，但在我所收集的古书中却有一段特别的描述，待我找给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/97aee15f78941e5bd978cb5613f4ce68_8535085859617961274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·领悟",
+          "text": "受书中启发，我领会到，枪术与剑术的本质，正是瞳术。唔，解释起来可能有点费力…如果你真想知道，就跟我去「王山厅」走一趟吧。事先声明，到时候你可不准笑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/578e14fae02c5bca20eca8f2efebb4e2_1171257691875347883.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "璃月非去不可的地方？这个问题很难回答，不过，如果消失了会让我很难过的地方…「万文集舍」稳排第一，「古华堂」能进前十吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/31c17974ad6207d7dee504e6fad83077_7150830078047971274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "以前是兔子，后来是鹿。对我来说，「请从绝处，读我侠义」是舍弃一切的觉悟，鹿却是绝处逢得新生的希望。真想再见它一次啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ce75650598267b4efa987e9c9a0d7c61_8049539826871681032.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗阁下是我非常敬重的人。不过希望她不要喊我「小子」，也不要一见面就揉我头发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c91e9d8da5836433902ecb88fa04fd99_3812584111010417175.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凝光…",
+          "text": "「天权」大人是我不得不敬重的人。不然会给家父以及家兄添麻烦。嗯？对她本人，我想想。嗯…还是算了，不说人坏话了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/92b25f6f1bda450211e74562b4356b75_404661509331778922.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云…",
+          "text": "唉，重云这家伙，虽然也知道我的底细，但真要和他搭档去完成任务还得审慎。他现在还是执着「武」技，却不理解「侠」心的境界。需要多练练。尤其…是吃辣的方面，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a7285872c6b60ea96305318703bff74c_1861951327626990290.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于云堇…",
+          "text": "云堇啊，她只要能喝到满意的饮品，就会有动力去创作新戏。我呢，就一直在床底下囤着一小罐茶叶，就是为了等哪天她兴致索然的时候给她送去。这样，我就有听不完的异侠传奇了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5c7f4acc0f041da3788ec697553f1282_3372774977871176875.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "那个小姑娘，正是「往生堂」的当代堂主。嗯？问我怎样看待她的为人？…行事作风嘛，坊间传闻是作不了数的。真想了解一个人，还得看她真正想要的是什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9417088f0da79629b3f89945ff831ce8_6399282270761300072.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七…",
+          "text": "总感觉七七的身上藏着谜团。但只要白术先生在场，就跟她说不上几句话。除非，我们能找个白术先生外出看诊的机会，专门…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6ad66b288cba3639d07a32cab78ff248_332040021821005753.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "见到香菱的时候，你可得多观察一下她的表情。尤其是刚刚添置完食材回来的香菱，笑得越开心，就越危险。要是被她缠上、逼你试吃新品…这种情况，我一般会靠重云来处理。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/990ed3b87c3110d64d214583f086e0e9_3451600758983593318.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "辛焱到底是在哪里演出的？从吃虎岩到玉京台，哪里都躲不过那种鸡飞狗跳的穿透力…唉，能够安静看书的时日是多么宝贵啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/230fa7aa535ff81e7316ab389665cb19_7323603913969762500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "下一卷、下下卷、下下下卷的重要场景，我都已经想好要配怎样的插画了！啊，必须赶快把灵感记下来，修书一封，寄给白垩老师…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5c147b331de9ae2a4bd7f6ddc5a1b51d_2840466395028586396.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "我看见过家父和家兄接待这位先生，就从他们行礼时候的恭敬态度来看…对方应该是很有地位的人物吧。我还听说他是给仙人办丧事的人，感觉很有底蕴。要不要一起去挖掘他身上的秘密呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e0f68e8ca518c9b05114d7004063bdf5_8000365744154500921.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于申鹤…",
+          "text": "总觉得申鹤小姐看我的眼神里略显凶恶，让我不敢随便跟她搭话。奇怪，难道我无意中得罪过她吗？或者…得罪过她身边的人？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2b7b828c8998c555f670473c0f2a4338_53164972460336317.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夜兰…",
+          "text": "你听说过「一人千面」这个词语吗？夜兰小姐就给我这种感觉。上门来访的时候，家父和家兄以礼相待，她也还之以礼，就像是个亲切稳重的大姐姐。可在别的地方见到她时，又完全是不同的印象。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/da7fd07ed466a0783be6bb6924ee0a39_166084939576284726.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于嘉明…",
+          "text": "嘉明的工作颇有侠之风范。试想，功夫盖世的黑衣少年携手威武镇煞的瑞兽，在月黑风高夜，将盗贼与恶徒打得落花流水，狼狈而逃…等他得空，真想听他多分享一些走镖路途中的见闻。你也一起来吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/17/16576950/ed6f742f9ee718fc91655fdadcdb62b6_1367017553394628617.mp3",
+          "audioName": "34关于嘉明…_jp.mp3"
+        },
+        {
+          "name": "想要了解行秋·其一",
+          "text": "阁下近来可好？如果闲来无事，可以来「万文集舍」转转。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4af13d40bad007fe3a58ff3142126612_1770898813275195613.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其二",
+          "text": "问我为什么总是一个人看书？好学…并不是什么坏习惯吧。没有什么特别的地方，嗯，真的没有。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/89c67b4e851c4d299c48e21d4a7de1fb_2782587096898501358.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其三",
+          "text": "今天的时间已经空出来了吗？好，我也随时可以出发。书？没关系，书可以回来接着看，那些需要我们帮助的人可不能等啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8dc9f2b2bb48a68067e58bc96a005883_4396031120529482202.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其四",
+          "text": "你说你有个好点子？用我们之前做的事情当原型，写一本探案集加武侠题材的小说，《万文集事件簿》？嗯，啊哈哈哈…是个好点子，但是不采纳。嗯，不会采纳的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1a5a7117bf57e6cbfa2f87b32a60a051_3102361547323583075.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其五",
+          "text": "「洋洋万言，织诗成锦。」唉，我也想有这样的评价啊。这件事我只和你一个人说。其实，我也在写小说。现、现在当然不能给你看，以后…以后你会在书店里看到的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7b6ef15dd6112399aa41d5408c9ce52a_5798315280609721569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "行秋的爱好…",
+          "text": "我的爱好自然是看书。什么书都会看。嗯？你一脸坏笑看着我干什么。唔，那事我们两个知道就行了，还是不适合明面上讲。说出来就没意思了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/38eb8bef4ff7ce611eba1840a4820b55_8660620187164585761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "行秋的烦恼…",
+          "text": "烦恼啊，嗯…未来有朝一日兄长继承了家业，我会怎么样呢？这样无忧无虑的生活恐怕…啊，我不是在说身份之类的，我不在乎那些。我是觉得大哥太呆了，没我帮忙不太行啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b0fa7b2f11c5e218fff9fc8c6d18c48b_2728848949689143389.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我比较喜欢吃糕点和月菜海鲜。主要是因为，我们家一直就吃得很清淡吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ee5e150bbf2c9702e83bab6fbea5d61e_7823279332308858616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我很讨厌胡萝卜，小时候家母经常捣碎胡萝卜做成…还是不要让我讲下去了。即使是在回忆里，那种味道也…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9385be065c09da584941f585d3b5d7c2_4908806039390754689.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "此等美食，吃过一次就再难忘怀了啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e3b9a93e33456a953baf74fc091efe96_2504239703476410626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "既然你有这份手艺，不如我们开个路边餐馆，如何？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ae51b0c8eff666acb391b57c4fccedf2_3867311603541866197.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你吃你吃，不必客气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/277e96412cb72326cfccc7abec59ca91_5882751416761071156.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日·祝福",
+          "text": "咳，咳咳。恭祝你福寿与天齐，庆贺你生辰快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d11f4083a1b2a09cde9b8abdc4c222d9_7440297882608165692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日·习俗",
+          "text": "据记载，天成石桥是上古战争时候，岩之神摩拉克斯投出的石枪倒塌后形成的。要是生日当天在桥上走一趟，往两边海里投点摩拉，就能保佑一年安康…生日一年只有一次，想去的话就快点去吧…没骗你，是真的。真的，快去吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd11d9182b77a187a62f0df5e30268ab_2407664080647321664.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "如果没有能力，那我心中的那个字，可能也就停在纸面上了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/daefa7d5b27a91468147a0af984c16f6_6695041660555279523.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "如果心中没有善恶的标尺，努力就会错了方向。舍本逐末，变成追逐暴力的俗人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/280d95e1e78223742e8be7a3d01ed964_2467364240925359695.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "我所追求的那个字，在璃月这方土地上并非处处通行。不过行道至此，我对这一点早就有了足够的认识。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2d57b79492ecabe415fccc5ba7d07c54_1088132441937215099.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "多亏了你的陪伴。我对自己也很满意了——无论是武学，还是对那个字的理解。唉，算啦。我也不用对「侠」字讳莫如深了。我的「侠」，父亲和兄长应该也不会质疑了。只不过嘛，低调行事这点还是得保留的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a0e928f694eca632cd85562a3ab199ae_203159995811174593.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "雨线难画。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9cb6d67afc8c6f085c14c60ed2859eee_6606209461706076903.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "裁——！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5218cd6e52fbb2b9db28cdeb052f4029_5226452121454618532.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "断！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb96296662d511fd343904885d8d8b17_1858598263072711582.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "古华深秘。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9e4c2c310232bb7ba5632278ffa5e1e4_4516477056614996077.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "织诗成锦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/32b684eb017799879470a1fe60b51b5e_9133236539842664141.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "裁雨留虹。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f5c2100c72455af66b68f855343a37a7_3427499867178633992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "形随神至。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4fd73cd62fb6ffe963438fba62b9fca2_8712516206234326229.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "该行动了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3022be09eb7fb1aefa80c768ba0b9b4b_9070657887991318261.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "甚好甚好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d2639d0293a1cb8ff472e9a573fd8cc1_7939697013448213069.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "寻得珍宝，真是充满侠意的经历。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4862f39b7e3604807ae0a9b10b2b98b6_6183670058610728304.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "倘若还有几卷失传的古书，就完满了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e7bbaa5be8a60a25de730d6d4c78a128_6964610749174529110.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "计划有变…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9ca948d688bdfd80c975bb713b33d322_1072083905657794993.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "接下来就不再是「点到为止」了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fdb3975d358860378c900947b660f9fb_6113338434016741334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "「请从绝处，读我侠义。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ff87fb8985af7ba2af6b4e47f916c0fc_7869460507925203832.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "过来这边，我有一计。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2c1e6cd6d414a7d6337aa446707e594b_584238299614027946.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "小心行事为好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/f1131c94fccb021fd36885366472e887_797860514816068773.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "承蒙…赐教…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/400a1f64af1a190b08ca30b8eea5d4e5_1949528918361428314.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "灯华易散…我是知道的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1eba9958e68d47e62f9b956e83c751a3_785158380855920062.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "失手了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab2374524e26af95c892ccd4281a05e8_5124542208088483033.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不妨事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9ca948d688bdfd80c975bb713b33d322_6699206721379894493.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "大意了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5e6944fd3d18f11b0eebb21f1af1ce0_12009527250656434.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "不好…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c5a73b1a9a0b92dd502fd4a8f780fdd2_9105121879417910292.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "厚积而薄发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ed71d901b1cec2576c924fe1d9daf3a9_4001106326887681211.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "不惭世上英。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6207df311580ba05e574280c8fa40bb6_3874339657048009875.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "扶善惩恶，当仁不让。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3e2ef5630521c29d5e2d910ee2d664de_840179982499578565.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "在下行秋，不过书海一蠹。某虽不才，仍愿为君略尽绵薄。难得有机会说这种风格的台词，感觉还不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d62f1292618a6f487dd5d1875723d7bd_5681273876015948732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·无人夜",
+          "text": "「有时明月无人夜，独向昭潭制恶龙。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de4e903f0b759139b4bd70c5fdf9c829_5705431735287135764.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·文章",
+          "text": "「衣裓贮文章，自言学雕虫。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0591ac6dd2d362bfe730b9270685e5d9_432357989863053534.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·偷闲",
+          "text": "正所谓「偷得浮生半日闲」，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/31895ca2666c15180d1ad58ac7c9e57c_2879420325989503824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·阅卷",
+          "text": "如此如此，这般这般…欸？欲知后事如何，且听下回分解？唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2faa30db592d8bf92aad2fd9b229a621_1528714097426004255.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·新书",
+          "text": "盘算着也该到「万文集舍」新进小说的日子了，不妨…我们顺道去看看？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f142b86e00d1450431841fdb062f5333_8030292848585645049.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "这么说来，我们家出品的锦缎伞，好像既不能遮阳也不能挡雨。唯一的用处就是挂在墙上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2df49ea90ee538b0d58a5da15db12314_8667118411545420678.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "晴了就好，不然藏书会生霉的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fed9caa1430ef55de9ad2cdf07611473_6247912630298929432.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "只有这种天气的时候，我才会觉得家里比书店好。家里炭火很足，而书堆里就不准用火。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f470b315c999fb0fbc591a88592857d1_8016620731086384302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "练功的好…啊不，是看书的好时节啊。好啦，我脸上又没有写字，别一直盯着我看了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2e24d9ec052ea4252c56bded39962490_3855491924613122439.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早啊。早上的时间这么难得，能做做自己喜欢的事情就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6b856cc37c7cd4b4fca0d6ef461b5287_5512652062593551378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭有点不想吃米饭，想吃糕点。待在书斋吃，父亲和兄长就不知道了…嗯？想一起来吗？嗯…只要你不把碎屑沾到书上就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c5c031e1b10969a4bd5af908f3a02441_2063991849555043035.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "去偷点萤火虫来看书，怎么样？唔，我的玩笑话你可别当真，对眼睛不好的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e632910ed252acd2376cca9f7f1e08f3_3947808558980051419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "明天我也在老地方。只要你不中途迷了路，就准能找得到我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a4bbec1ee150b4860e9256dec5e71307_2352273319542752560.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于行秋自己…",
+          "text": "在人前彬彬有礼，是因为大家见我是飞云商会的二少爷；在你面前能这么轻松，大概因为你看我的方式并不一样吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/196d2d5cd43bdf3a2ae62815e8dad5a4_4624305419434065970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·书友",
+          "text": "你算是我的书友吧。什么？打架？古华派？战友？…唔！你都在说些什么呢。不是说好这是我们两人间的秘密吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2cfef03939f46ea2ec4ff2c47e8b63c5_593157941202678913.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·结拜",
+          "text": "我要和你结拜，就去绝云间的祭坛那边。不行，不能拒绝。你知道了我的底细，也就知道了一直被我掩饰着的真实的自己…我不能放你走。除非…你答应我不会撒手不干！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e8dabd02c6ea922b1a0e548fe5eb4b05_44145196070940772.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·古书",
+          "text": "「神之眼」的事情，虽然一般少有记载，但在我所收集的古书中却有一段特别的描述，待我找给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/713f5c12659e0ea502b66aeb0cea69f4_3097876101139911600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·领悟",
+          "text": "受书中启发，我领会到，枪术与剑术的本质，正是瞳术。唔，解释起来可能有点费力…如果你真想知道，就跟我去「王山厅」走一趟吧。事先声明，到时候你可不准笑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a569b14a9ce1f7f43478618126fce494_3204274931061749667.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "璃月非去不可的地方？这个问题很难回答，不过，如果消失了会让我很难过的地方…「万文集舍」稳排第一，「古华堂」能进前十吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/01d7c6a00ee534f03869fe480bcb2d8a_7752569028547137559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "以前是兔子，后来是鹿。对我来说，「请从绝处，读我侠义」是舍弃一切的觉悟，鹿却是绝处逢得新生的希望。真想再见它一次啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/14f198947d0b89d6541149387dd59066_7703632385635016086.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗阁下是我非常敬重的人。不过希望她不要喊我「小子」，也不要一见面就揉我头发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3e640704981b3bb959738ffcf417588c_1804489293029967176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凝光…",
+          "text": "「天权」大人是我不得不敬重的人。不然会给家父以及家兄添麻烦。嗯？对她本人，我想想。嗯…还是算了，不说人坏话了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f31d0154abed5bcfe6dc9e8103aa6bd6_6823328090530394341.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云…",
+          "text": "唉，重云这家伙，虽然也知道我的底细，但真要和他搭档去完成任务还得审慎。他现在还是执着「武」技，却不理解「侠」心的境界。需要多练练。尤其…是吃辣的方面，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb10d30f363646052c84ed297f752d20_7055193356060009198.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于云堇…",
+          "text": "云堇啊，她只要能喝到满意的饮品，就会有动力去创作新戏。我呢，就一直在床底下囤着一小罐茶叶，就是为了等哪天她兴致索然的时候给她送去。这样，我就有听不完的异侠传奇了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ad844fa4d8ab26e7590db493498ac7c1_4699038330716002749.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "那个小姑娘，正是「往生堂」的当代堂主。嗯？问我怎样看待她的为人？…行事作风嘛，坊间传闻是作不了数的。真想了解一个人，还得看她真正想要的是什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/38490b434462942ad7ac79cb92e923b4_2190352561311199182.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七…",
+          "text": "总感觉七七的身上藏着谜团。但只要白术先生在场，就跟她说不上几句话。除非，我们能找个白术先生外出看诊的机会，专门…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f5295cfdb06d1c08ec996a8313a70cdc_5312322352937342149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "见到香菱的时候，你可得多观察一下她的表情。尤其是刚刚添置完食材回来的香菱，笑得越开心，就越危险。要是被她缠上、逼你试吃新品…这种情况，我一般会靠重云来处理。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8d709a7622668af45b91e003f6284d4d_3120266798101186600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "辛焱到底是在哪里演出的？从吃虎岩到玉京台，哪里都躲不过那种鸡飞狗跳的穿透力…唉，能够安静看书的时日是多么宝贵啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a8bfbcd71126a4d7b1e56c3e130ca55a_8061804497169643346.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "下一卷、下下卷、下下下卷的重要场景，我都已经想好要配怎样的插画了！啊，必须赶快把灵感记下来，修书一封，寄给白垩老师…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/24769bf81e8fa0497f48254934bd984e_1732763243179540176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "我看见过家父和家兄接待这位先生，就从他们行礼时候的恭敬态度来看…对方应该是很有地位的人物吧。我还听说他是给仙人办丧事的人，感觉很有底蕴。要不要一起去挖掘他身上的秘密呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d6b638b9cc378a46b1363163e2869a45_5735686656223562627.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于申鹤…",
+          "text": "总觉得申鹤小姐看我的眼神里略显凶恶，让我不敢随便跟她搭话。奇怪，难道我无意中得罪过她吗？或者…得罪过她身边的人？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/68a9a8d561b0a8d3f262c5c4d5e720df_8672023124873205489.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夜兰…",
+          "text": "你听说过「一人千面」这个词语吗？夜兰小姐就给我这种感觉。上门来访的时候，家父和家兄以礼相待，她也还之以礼，就像是个亲切稳重的大姐姐。可在别的地方见到她时，又完全是不同的印象。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea1e185548373cd6f38e2fb3e65718e5_2370278188084461998.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于嘉明…",
+          "text": "嘉明的工作颇有侠之风范。试想，功夫盖世的黑衣少年携手威武镇煞的瑞兽，在月黑风高夜，将盗贼与恶徒打得落花流水，狼狈而逃…等他得空，真想听他多分享一些走镖路途中的见闻。你也一起来吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/29/50494840/2d95a86dcf4be43fef448a5d5da88b1f_2198108006971511151.mp3",
+          "audioName": "关于嘉明…en.mp3"
+        },
+        {
+          "name": "想要了解行秋·其一",
+          "text": "阁下近来可好？如果闲来无事，可以来「万文集舍」转转。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e0aea9227c1d45b6dd99b13b4ce1d50f_7244488897130618786.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其二",
+          "text": "问我为什么总是一个人看书？好学…并不是什么坏习惯吧。没有什么特别的地方，嗯，真的没有。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1d6a03efb83680089a573a92df8e9de0_3629283703109125690.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其三",
+          "text": "今天的时间已经空出来了吗？好，我也随时可以出发。书？没关系，书可以回来接着看，那些需要我们帮助的人可不能等啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/687762bd4f994fc490ff17085ce94879_1039771900876473692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其四",
+          "text": "你说你有个好点子？用我们之前做的事情当原型，写一本探案集加武侠题材的小说，《万文集事件簿》？嗯，啊哈哈哈…是个好点子，但是不采纳。嗯，不会采纳的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0997228b57a166c329cd589b2a4445a8_5401092544179720121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其五",
+          "text": "「洋洋万言，织诗成锦。」唉，我也想有这样的评价啊。这件事我只和你一个人说。其实，我也在写小说。现、现在当然不能给你看，以后…以后你会在书店里看到的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/542b45584a971966b1b179af84fb790d_8973752458468397945.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "行秋的爱好…",
+          "text": "我的爱好自然是看书。什么书都会看。嗯？你一脸坏笑看着我干什么。唔，那事我们两个知道就行了，还是不适合明面上讲。说出来就没意思了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eac635414af69edd7f2e95df0a09a971_8049414640951100640.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "行秋的烦恼…",
+          "text": "烦恼啊，嗯…未来有朝一日兄长继承了家业，我会怎么样呢？这样无忧无虑的生活恐怕…啊，我不是在说身份之类的，我不在乎那些。我是觉得大哥太呆了，没我帮忙不太行啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d7d47b2c1b43d4178a279ae4c1ca4aa8_8781845099328925630.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我比较喜欢吃糕点和月菜海鲜。主要是因为，我们家一直就吃得很清淡吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/df307299d342b3d58a65d56a32b05f9d_3490443344833749616.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我很讨厌胡萝卜，小时候家母经常捣碎胡萝卜做成…还是不要让我讲下去了。即使是在回忆里，那种味道也…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7f22e85e89582c4d92cd76a34709a7b9_4205148647048357222.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "此等美食，吃过一次就再难忘怀了啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/bb63eeb897238688ea8431c338f1bbe5_8354371216286328711.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "既然你有这份手艺，不如我们开个路边餐馆，如何？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/4c8a7b45d4a1f5c3b150644799f93033_4223092260435606239.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你吃你吃，不必客气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/53f300ddcfd235b9a5fac23b96dd5db8_1559873459593449391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日·祝福",
+          "text": "咳，咳咳。恭祝你福寿与天齐，庆贺你生辰快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f2c1950cefe10ea2ac6f0ce646491594_8773927805011436855.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日·习俗",
+          "text": "据记载，天成石桥是上古战争时候，岩之神摩拉克斯投出的石枪倒塌后形成的。要是生日当天在桥上走一趟，往两边海里投点摩拉，就能保佑一年安康…生日一年只有一次，想去的话就快点去吧…没骗你，是真的。真的，快去吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0172c18e81d0730483e4a4f388aea259_1238220961537649008.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "如果没有能力，那我心中的那个字，可能也就停在纸面上了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f9290e70e1630caf6f29ebb3ffdfeb96_3604852040483549349.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "如果心中没有善恶的标尺，努力就会错了方向。舍本逐末，变成追逐暴力的俗人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/99ea8c432b92dd06fd4d4dd9ea9c6fbb_4866274802102838192.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "我所追求的那个字，在璃月这方土地上并非处处通行。不过行道至此，我对这一点早就有了足够的认识。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c65f86beb8e8ae1b231d727459b58642_8387500739888830404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "多亏了你的陪伴。我对自己也很满意了——无论是武学，还是对那个字的理解。唉，算啦。我也不用对「侠」字讳莫如深了。我的「侠」，父亲和兄长应该也不会质疑了。只不过嘛，低调行事这点还是得保留的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e622a0ef21d2528bfe82eeb664099566_5476592133793735847.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "雨线难画。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2572664270520fdaac3807faddb0ff39_8203174040734441993.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "裁——！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0d8a99f2b87815b5feafa84d1cb264bd_4431107689441956914.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "断！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/33d160692c72c67af9e2b725bc189719_7849752091857760934.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "古华深秘。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ba9253375aae028067aeebe6eda38b6b_3211275504541193574.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "织诗成锦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4d4e583717fb762438a7a36c369dd004_331351503227216300.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "裁雨留虹。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c2f410f6031bf7282b458cefc92a545_2239200185419958604.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "形随神至。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f50966961676b5c4ff02025c280209a1_2861183274097910997.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "该行动了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c25d6be590feefd5f8aadd7cb8aa6dd2_4055394371269304234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "甚好甚好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/196900cc02d881b11886a82568a12abe_7182419098381115752.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "寻得珍宝，真是充满侠意的经历。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c7b8d2dd37f979459aaec9fccbe14cdd_538461132595398505.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "倘若还有几卷失传的古书，就完满了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5c50b89c71c7f13a8a45215274653ab_939364470995655272.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "计划有变…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2fe16385de5eaefe34b58563e2df11c6_8550251676613296654.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "接下来就不再是「点到为止」了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/459361f693c472b53f84ad537311fdfd_6911136045003744478.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "「请从绝处，读我侠义。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cea0228c03c9c6e1a47830e1dee554dd_7173736701784169450.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "过来这边，我有一计。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/b244f348637668ab66a5e650ebed2145_4656778257416831500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "小心行事为好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/11/04/16576950/8595e74183ee2958bec75571c10e5f24_6209524623423700794.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "承蒙…赐教…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bd864cb33ca33296a85d7ca15be3e2d4_4433727206533646549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "灯华易散…我是知道的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/487c0052667b8ae634c174f06f88a8da_2107140232702218432.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "失手了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eb7069d1f76bf6025ca041d2eff1a7ac_2673311455815858378.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不妨事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d81eb194ef5bf36811d05de3f721a73a_8567508336111524298.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "大意了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/384640f681cbdd3bfda27e17d22c3909_232645791542697965.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "不好…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9e15055ef235720431fd1a029a6f3ee4_2134647287546972415.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "厚积而薄发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3b4788207dc0684a1346c3c051e17b12_1057091516610650535.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "不惭世上英。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c55ef8d2831a0fb65fa35ad19e864453_5447665343123491525.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "扶善惩恶，当仁不让。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/beb36269fe0064db5f27a205dec36109_887552759953015131.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "在下行秋，不过书海一蠹。某虽不才，仍愿为君略尽绵薄。难得有机会说这种风格的台词，感觉还不错。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/10a37adf2234750824cae65a01624c61_1864076895101747591.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·无人夜",
+          "text": "「有时明月无人夜，独向昭潭制恶龙。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8e357cd4761a50db5969480985d965e8_7258111568094189404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·文章",
+          "text": "「衣裓贮文章，自言学雕虫。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d17b79f9ff3f906ac8267461a69a16f7_8290241066364430504.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·偷闲",
+          "text": "正所谓「偷得浮生半日闲」，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e81247bf623c9df639910d79825e35c2_275468288756118529.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·阅卷",
+          "text": "如此如此，这般这般…欸？欲知后事如何，且听下回分解？唔…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fbfb6dc545964796e9776cb8df9827dd_7512752156224928420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·新书",
+          "text": "盘算着也该到「万文集舍」新进小说的日子了，不妨…我们顺道去看看？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8f43674abd816730057c7fc16ec4f5f8_792046486729191282.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "这么说来，我们家出品的锦缎伞，好像既不能遮阳也不能挡雨。唯一的用处就是挂在墙上。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/742665cdd4337bf5e6766ec841820a8b_4281234637694631855.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "晴了就好，不然藏书会生霉的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4a806b00d00a0847a03ebfbe40ada38d_1998327850995375347.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "只有这种天气的时候，我才会觉得家里比书店好。家里炭火很足，而书堆里就不准用火。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/28705d667ca877ccabd15f85241afac3_4137323935090543000.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "练功的好…啊不，是看书的好时节啊。好啦，我脸上又没有写字，别一直盯着我看了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4255ba2e6dfbd828819f2bda56734b28_2684953015656190785.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早啊。早上的时间这么难得，能做做自己喜欢的事情就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/21f639e0daa49bbfa8b3b477602f52a8_2985954416839365360.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "午饭有点不想吃米饭，想吃糕点。待在书斋吃，父亲和兄长就不知道了…嗯？想一起来吗？嗯…只要你不把碎屑沾到书上就行。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dacb1bbecc218db1e496737cb31c1157_7256749355325201453.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "去偷点萤火虫来看书，怎么样？唔，我的玩笑话你可别当真，对眼睛不好的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c43ead62ff8278c1b3e51862d1b491a2_4640913626566541582.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "明天我也在老地方。只要你不中途迷了路，就准能找得到我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/37ea74b022e3c8b42b1c37fb5229a45f_1650723461221755369.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于行秋自己…",
+          "text": "在人前彬彬有礼，是因为大家见我是飞云商会的二少爷；在你面前能这么轻松，大概因为你看我的方式并不一样吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fe7426f9d02e6bf828beeb10a2f1d5be_4735516531870301679.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·书友",
+          "text": "你算是我的书友吧。什么？打架？古华派？战友？…唔！你都在说些什么呢。不是说好这是我们两人间的秘密吗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6a8845aaa0ba145c1f45c5067e826bbc_1746375176436750264.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·结拜",
+          "text": "我要和你结拜，就去绝云间的祭坛那边。不行，不能拒绝。你知道了我的底细，也就知道了一直被我掩饰着的真实的自己…我不能放你走。除非…你答应我不会撒手不干！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9e9508f4ec2b6d50ee9a88745f385d9a_7966153861708277460.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·古书",
+          "text": "「神之眼」的事情，虽然一般少有记载，但在我所收集的古书中却有一段特别的描述，待我找给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1d8c7cc8ee6eb0f5a5a4dd9f5ee8e02c_41410928984090403.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·领悟",
+          "text": "受书中启发，我领会到，枪术与剑术的本质，正是瞳术。唔，解释起来可能有点费力…如果你真想知道，就跟我去「王山厅」走一趟吧。事先声明，到时候你可不准笑。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e7448af5e99a299193c99d1a0ca0d1dd_8874180210035389695.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "璃月非去不可的地方？这个问题很难回答，不过，如果消失了会让我很难过的地方…「万文集舍」稳排第一，「古华堂」能进前十吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7efa810626ba508fe6518e720ac2d574_2475785151577643781.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "以前是兔子，后来是鹿。对我来说，「请从绝处，读我侠义」是舍弃一切的觉悟，鹿却是绝处逢得新生的希望。真想再见它一次啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/36a73f0583c35b030a33b0ad85cc9d29_6219863321660376139.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于北斗…",
+          "text": "北斗阁下是我非常敬重的人。不过希望她不要喊我「小子」，也不要一见面就揉我头发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/19a52813e132a8c535f402a1733d77d9_8039762140859083651.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凝光…",
+          "text": "「天权」大人是我不得不敬重的人。不然会给家父以及家兄添麻烦。嗯？对她本人，我想想。嗯…还是算了，不说人坏话了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/524bf461be43741e8d3177443f2074bf_4177468169557488665.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于重云…",
+          "text": "唉，重云这家伙，虽然也知道我的底细，但真要和他搭档去完成任务还得审慎。他现在还是执着「武」技，却不理解「侠」心的境界。需要多练练。尤其…是吃辣的方面，哈哈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/98f8d1528cd92ec80da8f1190171f784_1506870703155544697.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于云堇…",
+          "text": "云堇啊，她只要能喝到满意的饮品，就会有动力去创作新戏。我呢，就一直在床底下囤着一小罐茶叶，就是为了等哪天她兴致索然的时候给她送去。这样，我就有听不完的异侠传奇了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cb30f8f9489742dcf8a75687ec927b39_2642498819959344595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于胡桃…",
+          "text": "那个小姑娘，正是「往生堂」的当代堂主。嗯？问我怎样看待她的为人？…行事作风嘛，坊间传闻是作不了数的。真想了解一个人，还得看她真正想要的是什么。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/825109b125124b19fd199e66cbe19e94_6027563822536842595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于七七…",
+          "text": "总感觉七七的身上藏着谜团。但只要白术先生在场，就跟她说不上几句话。除非，我们能找个白术先生外出看诊的机会，专门…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/12b30379a375cfcb4b1efc9590d7c3b1_4215944094044221549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于香菱…",
+          "text": "见到香菱的时候，你可得多观察一下她的表情。尤其是刚刚添置完食材回来的香菱，笑得越开心，就越危险。要是被她缠上、逼你试吃新品…这种情况，我一般会靠重云来处理。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c0af101c165b0e886b9fde84a2de5961_1706982164481916260.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于辛焱…",
+          "text": "辛焱到底是在哪里演出的？从吃虎岩到玉京台，哪里都躲不过那种鸡飞狗跳的穿透力…唉，能够安静看书的时日是多么宝贵啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e7cc9467dbbe88299e3cd8c3e70916ad_4682559774981202843.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "下一卷、下下卷、下下下卷的重要场景，我都已经想好要配怎样的插画了！啊，必须赶快把灵感记下来，修书一封，寄给白垩老师…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/83b3173224870a941badcc37ec612203_5369118688722906098.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于钟离…",
+          "text": "我看见过家父和家兄接待这位先生，就从他们行礼时候的恭敬态度来看…对方应该是很有地位的人物吧。我还听说他是给仙人办丧事的人，感觉很有底蕴。要不要一起去挖掘他身上的秘密呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c2ed1184378dc9ba5bc87b65bcf6c9ad_4575997966258804136.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于申鹤…",
+          "text": "总觉得申鹤小姐看我的眼神里略显凶恶，让我不敢随便跟她搭话。奇怪，难道我无意中得罪过她吗？或者…得罪过她身边的人？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c6f0deab8b1c1651bdcf1048e5173039_8146226009707281746.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于夜兰…",
+          "text": "你听说过「一人千面」这个词语吗？夜兰小姐就给我这种感觉。上门来访的时候，家父和家兄以礼相待，她也还之以礼，就像是个亲切稳重的大姐姐。可在别的地方见到她时，又完全是不同的印象。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6d1c4ff7543dd9cec3ed5fa5860cf87b_7867021271372191342.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于嘉明…",
+          "text": "嘉明的工作颇有侠之风范。试想，功夫盖世的黑衣少年携手威武镇煞的瑞兽，在月黑风高夜，将盗贼与恶徒打得落花流水，狼狈而逃…等他得空，真想听他多分享一些走镖路途中的见闻。你也一起来吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/06/29/50494840/5cbc01b18dc73a67fab2f826393a3d2b_2757314245693024712.mp3",
+          "audioName": "关于嘉明…kr.mp3"
+        },
+        {
+          "name": "想要了解行秋·其一",
+          "text": "阁下近来可好？如果闲来无事，可以来「万文集舍」转转。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/34850085cd335baacf0bab56f0e60cdf_916469609280649930.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其二",
+          "text": "问我为什么总是一个人看书？好学…并不是什么坏习惯吧。没有什么特别的地方，嗯，真的没有。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dac3b0096f495e777db27dbfc6c42cea_6005940040468929173.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其三",
+          "text": "今天的时间已经空出来了吗？好，我也随时可以出发。书？没关系，书可以回来接着看，那些需要我们帮助的人可不能等啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5e7326417484a8d529bc3413b4bc2dfd_3791710766376289871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其四",
+          "text": "你说你有个好点子？用我们之前做的事情当原型，写一本探案集加武侠题材的小说，《万文集事件簿》？嗯，啊哈哈哈…是个好点子，但是不采纳。嗯，不会采纳的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/238835ab780ae415ea699dac377fb929_638368396518188989.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解行秋·其五",
+          "text": "「洋洋万言，织诗成锦。」唉，我也想有这样的评价啊。这件事我只和你一个人说。其实，我也在写小说。现、现在当然不能给你看，以后…以后你会在书店里看到的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/470bfc8e06da5ba535664f5b70fc8d76_6338823346044833307.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "行秋的爱好…",
+          "text": "我的爱好自然是看书。什么书都会看。嗯？你一脸坏笑看着我干什么。唔，那事我们两个知道就行了，还是不适合明面上讲。说出来就没意思了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/50ef26dd182b10a60cca05a4853e310d_4153596289730048428.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "行秋的烦恼…",
+          "text": "烦恼啊，嗯…未来有朝一日兄长继承了家业，我会怎么样呢？这样无忧无虑的生活恐怕…啊，我不是在说身份之类的，我不在乎那些。我是觉得大哥太呆了，没我帮忙不太行啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/29c0c472fe6ba742872c299263d5a602_5652271075497209700.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "我比较喜欢吃糕点和月菜海鲜。主要是因为，我们家一直就吃得很清淡吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/72eacb8694432ce28fe92e39a88d3ed8_7967363746360354187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我很讨厌胡萝卜，小时候家母经常捣碎胡萝卜做成…还是不要让我讲下去了。即使是在回忆里，那种味道也…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/354c743603acd4e81ece42fa31aad501_2841458357578638520.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "此等美食，吃过一次就再难忘怀了啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/436d4b86c8feb683987c790233421c19_7381746218969981317.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "既然你有这份手艺，不如我们开个路边餐馆，如何？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/735e185c9bf511f82b6e581b2c953271_8480049269244926698.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "你吃你吃，不必客气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/7d1bdad42051463e911d6a22de2ac3be_20391428531201136.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日·祝福",
+          "text": "咳，咳咳。恭祝你福寿与天齐，庆贺你生辰快乐。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/668a40f7d2c11cfd7511741592915f45_2536626495899106627.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日·习俗",
+          "text": "据记载，天成石桥是上古战争时候，岩之神摩拉克斯投出的石枪倒塌后形成的。要是生日当天在桥上走一趟，往两边海里投点摩拉，就能保佑一年安康…生日一年只有一次，想去的话就快点去吧…没骗你，是真的。真的，快去吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/42b4e204ccd2c5fa77656099e896dd58_7017994800925051554.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "如果没有能力，那我心中的那个字，可能也就停在纸面上了吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f372aa61e60095aeb7149e2fea16252f_3435121688893930402.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "如果心中没有善恶的标尺，努力就会错了方向。舍本逐末，变成追逐暴力的俗人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/53b6fb144800c685417177ade8959354_4892349546826788640.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "我所追求的那个字，在璃月这方土地上并非处处通行。不过行道至此，我对这一点早就有了足够的认识。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8daeef047d4406c4276f9775a9d1a73e_256661477116888501.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "多亏了你的陪伴。我对自己也很满意了——无论是武学，还是对那个字的理解。唉，算啦。我也不用对「侠」字讳莫如深了。我的「侠」，父亲和兄长应该也不会质疑了。只不过嘛，低调行事这点还是得保留的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/460774e8b829da5614c37f1b9d5ca9b1_4132716199142805653.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "雨线难画。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/35901994e8b1207117ca688c8be8cb00_8351219804335533842.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "裁——！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/57e8db82cb387e69216e0b7cd947d206_1941506243045056285.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "断！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8f26d3c0166ceaeb8f48360bf2a4bdbc_2828637716252170286.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "古华深秘。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8890871a1ec8e9e9ba6c3585aeaa7934_8479913100976384274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "织诗成锦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/57e8db82cb387e69216e0b7cd947d206_3751332745291698580.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "裁雨留虹。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/14df727c1f8297889efda9e1e75c8784_3112109699755921525.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其一",
+          "text": "形随神至。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/12d854a53f4bd3b760ccd6fce61e3507_1116583275756377156.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "冲刺开始·其二",
+          "text": "该行动了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/914bffc99de6987b6b754b936f1185d8_7523309059208830556.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "甚好甚好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d4ebf9b8f821bf33c0c0ee21ff978639_8353719226232035565.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "寻得珍宝，真是充满侠意的经历。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/013ac3caa40b3455e3e1acd495429064_2294753069483271962.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "倘若还有几卷失传的古书，就完满了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d2756cd73db54f0ac6bd73fc11630928_6200970586314656353.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "计划有变…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a401fc34d6992ee1f634a8d92c6a8be7_3931027214066632050.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "接下来就不再是「点到为止」了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e2e938f46ab6e44726cc924e8dd03318_6042107206993176893.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "「请从绝处，读我侠义。」",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c897dda171aeef791895e07a241fe32b_8839189853928752710.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "过来这边，我有一计。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/13754ca74aed2fd8ec1e7099ec6d4815_5719854104207860628.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "小心行事为好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/60edd00c60593ad393786a78c98e8bb8_5696776580707257979.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "承蒙…赐教…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e0659d61e8d0f32de98352d4da242f08_8075012877271350139.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "灯华易散…我是知道的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/042014450b76af84a9b580b290233b43_5610462496928691060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "失手了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8c109d47101b0af0d2d222f8943ac5ba_5105024854216801686.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "不妨事。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b0ef829f96a9acfa90f284a7f174cd50_2490885137602245927.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "大意了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/62e7a1edea520206b93072dc3e5ac454_322548535270097661.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "不好…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a163e2cbc4b3ae60879e9ca3c6cfe774_6447891195848758068.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "厚积而薄发。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a88b5807dbd2f7d10f0667422804f6c2_9021059836701923370.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "不惭世上英。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1065c9f66840d06a56d4138e08a5c0b7_9041569246737843310.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "扶善惩恶，当仁不让。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2b49d66353a8e6d7641a73d7d83ceaa5_8228871181241315991.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1853 @@
+{
+  "id": "6285",
+  "name": "米卡",
+  "alias": [
+    "米卡"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "西风骑士团游击小队所属，前进测绘员米卡，向你报到。与你并肩作战是我的荣幸，请随意差遣我吧…我会竭尽全力，为你探清前路，查明敌情！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a495e53c1e94b8df1b19df5402c43725_5082273186957038391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·目标",
+          "text": "赶快调整好状态，不知道下个任务什么时候会来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/3b69274730f6841ceb0d7c61bef3f2ba_2417998921402707228.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·记录状况",
+          "text": "核对当前位置、向目标扇区测距…嗯，地理状况记录完毕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f65fd420328ff210d103e9d7a8387841_8796330048638366493.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·探明道路",
+          "text": "无论处在什么环境里，只要仔细探索，应该都可以找到通畅的道路。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/0a8ab9a19966041cf3bb050d4994915f_4958435128809722216.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "好大的雨…希望地面不要变得泥泞，不然就要帮大家擦靴子了…做饭的时间要不够了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/fc7458e7cc252e4c6a2db6842ede76f2_6442843014499829753.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "雷声可以掩盖行动的声响，是我们的好朋友。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/8616c9eec50e547e80a21951bac465bf_7139266523625316376.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "积雪很漂亮，但又会把原来的地貌覆盖掉，我不太喜欢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/b1f6c0bb771fa6a8ec50650fe8428c4e_8540493459043369586.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "阳光柔和，视距充足，观察条件良好。嗯，心情真舒畅！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e4b82380e06ca8acf8f541e78f9dd50c_556309194112961675.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这风…是出自风神的旨意，还是地形对大气的作用呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/1fc1ee3ee96a0e0d3031404e87bd9ca0_63836862125416955.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "哦！早啊，我准备了远征队常吃的早饭，不介意的话，请一边用餐，一边和我说说今天的行动计划吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f59a7f6eb81866eb67551059faed3aae_6141084145845205942.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "请稍等，游击小队最爱的三号野战午餐很快就准备好。待会儿我再看看，附近有没有适合午休的地方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/9bb038ebaec34b6e0821b3012c0390a8_3411966338042249796.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚饭完成了，虽然还是行军餐，有点简陋…但提供的营养肯定管够，请不要介意…如果有需要维护的装备，也请交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/7dbbfbd28234069249af5544b99163c1_2274602982713206309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "时间还早，我要整理一下今天的勘测记录。行军床已经准备好了，请你先休息吧？等到你的精力恢复，夜宵应该也做好了，到时候，我们可以交替值岗。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/9aa1471e683f10a97be0912d478fdd7f_6970738227092390845.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于米卡自己·工作",
+          "text": "前进测绘员？这个岗位的职责是率先进入未知的区域，探明地形，寻找最有价值的阵位，有时还要对付敌方的哨兵。所以，除了测绘地形，我也得掌握战斗、医疗和野外生存的技巧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/03c545932a0187026f5364b236afb4cf_6405598951759722434.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于米卡自己·琐事",
+          "text": "搭建营帐、生火做饭、维护装备，这些事总得有人来做嘛。如果别人嫌这些事麻烦，而我做得还勉强合格，那我至少可以…让大家轻松一点，开心一点？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e5f3f5607b5fae2766102a157478bfe8_45358251746508233.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·传闻",
+          "text": "对不起，刚回蒙德那几天，我听说了你们的事迹。像你和派蒙这样的超级强者，总有自己独特的原则。有些强者的脾气不太好，也许我说错一个词，就会让他们不高兴…好在你们都很和善，我根本不用担心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/961f1ff272f5ddd478f2b17a3674109a_7696951788580680746.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·暗语",
+          "text": "有的前锋会用「奥克塔维」表示「弩箭耗尽，正在返回营地」；用「薇拉」表示「状况良好，可以交战」。要不然，我们也约定几个暗语？毕竟我们会长期合作，这样更方便。哦，你说了算，我都听你的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/4fdd8c7507a7a3c9c59d320a7454be84_6646914702259457739.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "说实话，能够得到「神之眼」，我也很吃惊。它的确能为我提供不少帮助，但我不能依赖它的力量，而是要把它当成一种保险手段。作为骑士团的一员，我更应该重视团队合作，想办法和同伴们一起战胜困难。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/5760222c14ff824610e6893442d3d71d_1903135314954264734.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "有个简单的测距法，应该对你们有用：伸直手臂，竖起拇指对准目标，分别用右眼和拇指的轴线对准目标的左侧，左眼对准目标右侧，把两侧间的距离乘以一个数，就能提前确认山有多高，河有多宽，能不能一口气爬上山顶，游到对岸。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/22537bfe817337a8068e8f45d3885dcd_3266679693568917732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "听可莉前辈说，世上有种传递声音的植物，要是这种植物可以被随身携带就好了。这样一来，我就能实时汇报地形情况，甚至待在前方，为后方的同伴提供指引，用弩箭远远地抛射，早早排除威胁。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/506ce532f984be8e39d31f0686eb648d_4399752557266497729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "入团之前，我接受了许多测试，主考官就是凯亚队长。凯亚队长一直支持着我，给我各种建议…不过，有时我不太理解他的话，担心自己跟不上他的节奏，让他扫兴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/c64606c3651b21d0092d55d7bf1c7019_4934231792644864612.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽·教诲",
+          "text": "法尔伽大团长是万分可敬的强者，也是我在战斗方面的老师。他觉得我个子小，体力没优势，教导我「打架的理念要灵活」，「避免和敌人短兵相接」。所以，我才学着用长枪和手弩对付敌人，这样的战法的确更适合我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/793c13e5197c9aec5dc146ed88b41a48_6280848914247745319.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽·队长",
+          "text": "大团长还说，我要树立更高的目标，不断磨练本领，我一直是这么想的，但直到远征期间，我才明白事情的严重性。有一天，我们遇见了自称「队长」的愚人众执行官。我完全没法想象，该怎么招架那样的对手。强者的境界，对我来说实在太遥远了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/b900f11e0581b14e7adfdbc3dbf874d4_2360887685521569336.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "副团长…代理团长是让人安心的好前辈，一直守护着大家的强者。在工作排期、战地医疗、还有下厨这几个领域，我能向她学习的东西，简直无穷无尽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/0cd9f41b51bab04a516f9908d1dac640_144470052105647010.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏长官…安柏前辈是最可靠的前锋，侦察领域的强者！前进测绘员和侦察骑士的阵位很接近，总是提前于主力部队行动。安柏前辈的经验太丰富了，我从她那里学到了很多野外生存的技巧，还有维护弩弦和箭矢的窍门。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f4071d1988f721139336ce1e66f88ec1_7227075576439767557.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈·任务",
+          "text": "优菈队长是战斗风格独树一帜的强者，她一直很照顾我。我刚刚入队时，她就给我安排各种各样的任务，数量是其他队员的好几倍，更快地锻炼了我的适应力。只要习惯了她的表达方式，和她相处起来就很愉快！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/4c216cebf2ae4df8f63aa857b1c1617b_1592116301441793317.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈·作风",
+          "text": "其实，我很羡慕优菈队长，她为人友善，作风洒脱，内心特别强大。要是我也被别人用奇怪的目光盯住，还在背后不停议论，我大概会不敢出门吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/de5f38090a88f44b327769ba0dd69844_7793066961515162085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "在我自学测绘的时候，丽莎长官一直在帮我，为我找到了好多有用的书，要是我也像她那样博学就好了。知识总归是不嫌多的，也许哪天就能用到呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a02a2a5cf62156ffd9fac5ebe19d4cc1_4967451175226162719.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "可莉前辈？她的性格特别开朗，好像还是…和大团长旗鼓相当的强者？她好几次邀请我一起冒险，我们玩得超开心！虽然她偶尔会试验厉害的武器，让我重画很多地方的地图…不过，我也觉得很值得！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/10e7fb2a24eecf02adc6b1ba093afbb5_6091910539951088490.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "好喜欢那位吟游诗人，他是演奏乐器的强者，他的曲调总让我有种回到家里的亲切感。如果要选出最能代表蒙德的曲子，我一定投他的作品一票。可惜我平常待在城里的时间不多，不然就可以每天送他一些礼物了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/c734e539f97094e8d142862e9c768451_3255543986022432849.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "阿贝多长官对我有恩，我常用的测绘装备就是他帮我制作的，还有一种绘图笔，就算倒挂在树上，也能正常使用。嗯不过，测绘地图和画画好像并不相通？之前我对着目标区域画过几张写生，作为补充的情报，听说阿贝多长官看见之后，沉默了好久。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/7814382fee5d6a458883e6bf9b03f348_519063669424962737.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其一",
+          "text": "我自己的事？我只是个普通人，没什么有意思的故事。如果只聊我以前的经历，你愿意听吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/24cac25fd32189b92e044f852cff03ae_3929625158290859942.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其二",
+          "text": "从小时候起，我就想当一个地图测绘员，描绘出提瓦特每个角落的轮廓。后来我发现，骑士团正好有这样的岗位，就在哥哥和爸爸的支持下参加了选拔，当上了前进测绘员。这份工作让我过上了理想中的生活，我已经心满意足了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/55c303cba5bf3b4530aba7901bb31ddd_5557705009323912855.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其三",
+          "text": "骑士团的大家都好强，每个人都有值得我学习的地方。我从大家身上学到了新的本领，也应该给大家回报，如果大家有需要我的地方，我都会尽全力帮忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/ad60fa78c2e07506ba3d48b9b80126aa_8529564711314605544.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其四",
+          "text": "不过，帮大团长和优菈队长跑过几次腿后，有的同伴已经把我当成两位长官的信使了。如果我说错了话，给两位长官带来了困扰，那可就是我的过错了。所以，每次和不太熟悉的同伴交谈，我多少都有点拘束，让大家觉得我很胆小，这算是一种误解吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/33619dfbfecefbfc9a7421010dc254ee_2928334104902801837.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其五",
+          "text": "好在，经历过远征后，我没那么担心了。只要不给其他人添麻烦，就算大家对我有什么看法，我也不会介意。骑士团就像是我的第二个家，我要把前进测绘员的工作干得完美无缺，让我的家人们平平安安地完成任务，轻松愉快地度过每一天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/6a5d7c431483bf20732fa72ec9921092_870252868523149490.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "米卡的爱好…",
+          "text": "爱好吗…除了工作，我最喜欢的应该是…在陌生的地方野营了。沉浸在新鲜的美景里，搭一个舒舒服服的营地，升起篝火做一顿好吃的饭菜，真的很愉快！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/46a4b8a7fc3cca5cc194aa3dc06a36bb_4470305584666287607.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "米卡的烦恼…",
+          "text": "说实在的，我不擅长和陌生人打交道，也许是我不懂说话的技巧吧。这方面的窍门，能请你教一教我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/d366defbe86d33baa97bdd53d6189050_8333795576965512421.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "大团长说，我这种年轻人就该多吃肉，把力量和体能练得棒棒的。虽然我怎么也不可能长出一身结实的肌肉啦，但我确实很喜欢肉类料理，这一点倒是和游击小队的大家很合拍。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/7f7c780445a012f8d95179290ca5d935_8351785647829662702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "不像我的哥哥，我完全欣赏不了酒的风味，只要喝上一小口，我就会醉得不省人事，给大家添麻烦。碰上有的陈年烈酒，光是打开瓶塞后的气味，都能让我脚步发晃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/0a3ecbce94acb1859efb4dded5b00e27_1087822593860196251.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "太感谢了，这道料理实在太珍贵，我怎么舍得吃！可以把它收藏起来吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/de30ed033ac60cda1ddd66a8b538e3aa_3503443288117789891.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "口味和份量都无可挑剔，让你为我费心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/8c759e03431bafbfdf505172a8ba3d1a_1575453912099164496.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "唔…不管怎么样，这可是你为我做的饭菜，我一定会吃完的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/d75de6fa383a7b416e0754f7bec7a6d0_8459046699520491883.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "这种时候应该怎么说才好呢…嗯，今天是最特别的日子！应该用最热烈、最盛大的方式来庆祝！我为你准备了一本「蒙德绝景游览手册」，手册上记录了很多风景优美的地点，但没什么人知道这些地方哦。希望你从今天到明年的今天，每天都开开心心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a1db0d3cd147b1f0b614572210c27245_4740234503447016986.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "虽然比起你还差得远，但我现在有一点信心了，至少不会再拖你的后腿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/0b1bcb30b5c2a69c02bc2c8c1e8bfda2_6734435575985353009.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "希望我能给你带来更多有用的情报，真真切切地帮你分担压力！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/b30e43591075fffc9b829b23aeed511f_7454504913730040035.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "请允许我…一直和你同行，一起丈量脚下的大地！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/988642d5c83e24dc37a85b635c97637f_4487729327928464893.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "实在感谢！这下，我就距离目标更近了——让大家安安心心地前进，不必在崎岖的地形受苦受累，也不用惧怕角落里隐藏的危险！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/4b9c37ece2c6e407c07ba202cce4055f_1318594629672641635.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "速射牵制。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/1c7fd90aca903723be640733d3d2f2d6_6076640849475668620.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "试探攻击。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/52fc70b89a8df119e0e601131c9bb2ca_5875181895332365287.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "请你后退。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/eec4939c2c506e38aa7285bb2c70b042_251481215934778260.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "精确射击！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/641246dd4200830c1be62b993a37fd3c_8688502202868290824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "对不起了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/7414209882385ae7e3c8c34b861a42e5_5810281420929401060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "肃清威胁！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/af82c4453ac24ca674c6698afbf28ecf_1841934475695238404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "大家，请振作！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/925d6b36b7141473123254041ef728f4_8064511046536954803.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "我负责医疗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/54df93daa4e3510d9902d623f3b98d1b_4085647819593480177.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "打开突破口！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/81b773bedce9b63ecd046807ac0b2e46_6874632367967042438.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "从高处观察…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/7716a38aff87438f2e6bcb0ea859eed9_8947891171436779719.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是新的收获！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/b640ab15f69e092e381503673245decb_7954533127080571363.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "有战利品吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/270467dfdcbdaf14b9a7a6b39c297621_8129740594906473573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "找到了宝藏，恭喜大家！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/cf0992e9c46c2bc9a890c13963781f60_6601165149373411035.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "有点麻烦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/df9436aab9448848f35188305428a295_3653413767441928582.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "要改变战术吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/6a8c5da7cd130fb8e60ece66f3a93918_5888599064917085065.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "对手…很强啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/94bf5a654c2952c8b8963e8b3a06a698_3444637605283538864.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "请后撤，我来顶住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/28e083736f18e7a0201aa8c34dbdcb5d_6309233340388106078.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "要快点治疗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/2a9040ee309366d56b8d47aba0eaddbc_1499556924234550111.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "早知道…就迂回了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/db82bcae493994da2ae857e67409679b_4134618444584042020.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "对不起，大家…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a5176abfe281b270081b245fa54b7b7c_7254756752590628249.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "完了…我搞砸了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/89211394726dccb03b98fc4c7dcd1619_5159254417732430274.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "要忍住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a689f572b26baec3a07e5ad48e0feecd_6026445839563058602.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "没问题的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/41c12e500c7a89d7df9a1f550b5e73bd_7366356723651284419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不痛…不痛！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/32b67e4d6d58b1ac723dafcf68e99551_8735672738856879000.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "不能慌张…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/6722cdd06379d2351d9de9179a51c6f9_8312799669243729433.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "清点装备…一切就位。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/dad7e64714175d2415a3bd9742e22e55_3541403134735111401.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "嗯，长枪和弩箭都准备好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/ea1bcd285a81fccb79a5eb12bf60bda2_7341366896936436166.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我…我来为队伍探路！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/c91f354c6c49d88570b98e57cb8182a2_4219908434210057625.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "西风骑士团游击小队所属，前进测绘员米卡，向你报到。与你并肩作战是我的荣幸，请随意差遣我吧…我会竭尽全力，为你探清前路，查明敌情！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/12fd8383406acf45f763db7de67e33f8_8074604090506463603.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·目标",
+          "text": "赶快调整好状态，不知道下个任务什么时候会来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e6dd9375a700e71f7bfe24888a7b9fb3_4369340670490324455.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·记录状况",
+          "text": "核对当前位置、向目标扇区测距…嗯，地理状况记录完毕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/feab6ea4ca6b263e0abdd54883826110_5958106240673342167.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·探明道路",
+          "text": "无论处在什么环境里，只要仔细探索，应该都可以找到通畅的道路。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a81716b32eba24dd591901d58890f6a8_1656500594247038932.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "好大的雨…希望地面不要变得泥泞，不然就要帮大家擦靴子了…做饭的时间要不够了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/8569e74dcb8c217045363bf23ee24ec2_8253182551462096879.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "雷声可以掩盖行动的声响，是我们的好朋友。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/84b1271fae0537ddfda4f30f4ab4cad4_6068294979348543353.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "积雪很漂亮，但又会把原来的地貌覆盖掉，我不太喜欢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/2030e86a7eb9ec913ee171eecc619a23_2198637955964861785.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "阳光柔和，视距充足，观察条件良好。嗯，心情真舒畅！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/5f1b663a1359b9cee06260307db5fbc2_2795456078993152981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这风…是出自风神的旨意，还是地形对大气的作用呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/50e187a8052f89eba3c4ea5eb1055ef5_7908905134696041824.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "哦！早啊，我准备了远征队常吃的早饭，不介意的话，请一边用餐，一边和我说说今天的行动计划吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/fd2898ef7decb4946437d3069df614ed_2720988098474573125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "请稍等，游击小队最爱的三号野战午餐很快就准备好。待会儿我再看看，附近有没有适合午休的地方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/45a438811697bc15c7032346dc559800_4809147724399315797.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚饭完成了，虽然还是行军餐，有点简陋…但提供的营养肯定管够，请不要介意…如果有需要维护的装备，也请交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/6afbab9c62068f1dedc310206f6326be_5994171298395421236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "时间还早，我要整理一下今天的勘测记录。行军床已经准备好了，请你先休息吧？等到你的精力恢复，夜宵应该也做好了，到时候，我们可以交替值岗。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/b94991cc3508c01e09bc34e352b68f9f_7606476944553396833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于米卡自己·工作",
+          "text": "前进测绘员？这个岗位的职责是率先进入未知的区域，探明地形，寻找最有价值的阵位，有时还要对付敌方的哨兵。所以，除了测绘地形，我也得掌握战斗、医疗和野外生存的技巧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/897ca322079c2aff2ddf318c84f9b663_8300124342030573098.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于米卡自己·琐事",
+          "text": "搭建营帐、生火做饭、维护装备，这些事总得有人来做嘛。如果别人嫌这些事麻烦，而我做得还勉强合格，那我至少可以…让大家轻松一点，开心一点？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e1fe43cdf7a473b2349982ee2bad3aab_6579764043814980849.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·传闻",
+          "text": "对不起，刚回蒙德那几天，我听说了你们的事迹。像你和派蒙这样的超级强者，总有自己独特的原则。有些强者的脾气不太好，也许我说错一个词，就会让他们不高兴…好在你们都很和善，我根本不用担心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/febef8a5fd6bad5edfeff40c6069efbb_8932136092965631573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·暗语",
+          "text": "有的前锋会用「奥克塔维」表示「弩箭耗尽，正在返回营地」；用「薇拉」表示「状况良好，可以交战」。要不然，我们也约定几个暗语？毕竟我们会长期合作，这样更方便。哦，你说了算，我都听你的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/5b2e20a14c104813265674920f9ca420_8403339445632930347.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "说实话，能够得到「神之眼」，我也很吃惊。它的确能为我提供不少帮助，但我不能依赖它的力量，而是要把它当成一种保险手段。作为骑士团的一员，我更应该重视团队合作，想办法和同伴们一起战胜困难。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e983a9181de530ff271018683a99944d_8101530956085107476.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "有个简单的测距法，应该对你们有用：伸直手臂，竖起拇指对准目标，分别用右眼和拇指的轴线对准目标的左侧，左眼对准目标右侧，把两侧间的距离乘以一个数，就能提前确认山有多高，河有多宽，能不能一口气爬上山顶，游到对岸。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/eb56e8458a664e39779fad33683e0965_6740047690861565028.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "听可莉前辈说，世上有种传递声音的植物，要是这种植物可以被随身携带就好了。这样一来，我就能实时汇报地形情况，甚至待在前方，为后方的同伴提供指引，用弩箭远远地抛射，早早排除威胁。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/9fe19c39652b654dd3a4147523cd34fb_8060686593504472903.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "入团之前，我接受了许多测试，主考官就是凯亚队长。凯亚队长一直支持着我，给我各种建议…不过，有时我不太理解他的话，担心自己跟不上他的节奏，让他扫兴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/20f1b79a9392f7e7f8f1f607489077cb_6582023865732218177.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽·教诲",
+          "text": "法尔伽大团长是万分可敬的强者，也是我在战斗方面的老师。他觉得我个子小，体力没优势，教导我「打架的理念要灵活」，「避免和敌人短兵相接」。所以，我才学着用长枪和手弩对付敌人，这样的战法的确更适合我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/71c75a261d7a7a8e4f59c0e51c4357c9_4543652512920211581.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽·队长",
+          "text": "大团长还说，我要树立更高的目标，不断磨练本领，我一直是这么想的，但直到远征期间，我才明白事情的严重性。有一天，我们遇见了自称「队长」的愚人众执行官。我完全没法想象，该怎么招架那样的对手。强者的境界，对我来说实在太遥远了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/4181cb0cded62979550175132cbf4e31_1676984044439666500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "副团长…代理团长是让人安心的好前辈，一直守护着大家的强者。在工作排期、战地医疗、还有下厨这几个领域，我能向她学习的东西，简直无穷无尽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/2906d98d18e656ad3654fc8fa3ee8ce0_7510551951695085234.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏长官…安柏前辈是最可靠的前锋，侦察领域的强者！前进测绘员和侦察骑士的阵位很接近，总是提前于主力部队行动。安柏前辈的经验太丰富了，我从她那里学到了很多野外生存的技巧，还有维护弩弦和箭矢的窍门。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/45aa3b789059912acd2c77b29a90d402_5314997521116725185.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈·任务",
+          "text": "优菈队长是战斗风格独树一帜的强者，她一直很照顾我。我刚刚入队时，她就给我安排各种各样的任务，数量是其他队员的好几倍，更快地锻炼了我的适应力。只要习惯了她的表达方式，和她相处起来就很愉快！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/2c8b1921667e27d1ede7fc1c9733b299_1398516738754930286.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈·作风",
+          "text": "其实，我很羡慕优菈队长，她为人友善，作风洒脱，内心特别强大。要是我也被别人用奇怪的目光盯住，还在背后不停议论，我大概会不敢出门吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/91f119f1a3cbf4f60b09febe9043e148_3104112821354819075.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "在我自学测绘的时候，丽莎长官一直在帮我，为我找到了好多有用的书，要是我也像她那样博学就好了。知识总归是不嫌多的，也许哪天就能用到呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/2db2062091a3a925f059033d2e23b639_2655188377456092407.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "可莉前辈？她的性格特别开朗，好像还是…和大团长旗鼓相当的强者？她好几次邀请我一起冒险，我们玩得超开心！虽然她偶尔会试验厉害的武器，让我重画很多地方的地图…不过，我也觉得很值得！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/711b74cefc07664880b4287be8b50d6f_8473808048900995851.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "好喜欢那位吟游诗人，他是演奏乐器的强者，他的曲调总让我有种回到家里的亲切感。如果要选出最能代表蒙德的曲子，我一定投他的作品一票。可惜我平常待在城里的时间不多，不然就可以每天送他一些礼物了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/8ee35dc2a98a186de18ad0aaa2f2e075_2030662462059371447.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "阿贝多长官对我有恩，我常用的测绘装备就是他帮我制作的，还有一种绘图笔，就算倒挂在树上，也能正常使用。嗯不过，测绘地图和画画好像并不相通？之前我对着目标区域画过几张写生，作为补充的情报，听说阿贝多长官看见之后，沉默了好久。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/d0367a0fcd55f3bcceb2f0150d2bd26e_2558608592289720153.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其一",
+          "text": "我自己的事？我只是个普通人，没什么有意思的故事。如果只聊我以前的经历，你愿意听吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/49972e06d03423793de9c1ddcae13607_7901718530137510501.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其二",
+          "text": "从小时候起，我就想当一个地图测绘员，描绘出提瓦特每个角落的轮廓。后来我发现，骑士团正好有这样的岗位，就在哥哥和爸爸的支持下参加了选拔，当上了前进测绘员。这份工作让我过上了理想中的生活，我已经心满意足了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/67b3917390f71e5bf292aa5c7b45726f_4382933936513323346.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其三",
+          "text": "骑士团的大家都好强，每个人都有值得我学习的地方。我从大家身上学到了新的本领，也应该给大家回报，如果大家有需要我的地方，我都会尽全力帮忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/2474a0c7aabc265ad69a1c52e6099055_2633524023760342136.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其四",
+          "text": "不过，帮大团长和优菈队长跑过几次腿后，有的同伴已经把我当成两位长官的信使了。如果我说错了话，给两位长官带来了困扰，那可就是我的过错了。所以，每次和不太熟悉的同伴交谈，我多少都有点拘束，让大家觉得我很胆小，这算是一种误解吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/df71aa994c9962b4d94362094b5b3d69_1899980569421003458.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其五",
+          "text": "好在，经历过远征后，我没那么担心了。只要不给其他人添麻烦，就算大家对我有什么看法，我也不会介意。骑士团就像是我的第二个家，我要把前进测绘员的工作干得完美无缺，让我的家人们平平安安地完成任务，轻松愉快地度过每一天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a6bbb719dffff3eaead4ad643a16263c_4037159132636190673.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "米卡的爱好…",
+          "text": "爱好吗…除了工作，我最喜欢的应该是…在陌生的地方野营了。沉浸在新鲜的美景里，搭一个舒舒服服的营地，升起篝火做一顿好吃的饭菜，真的很愉快！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/edabdf5dc41c4a36c5b1c6ec70407d7d_747475679986965627.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "米卡的烦恼…",
+          "text": "说实在的，我不擅长和陌生人打交道，也许是我不懂说话的技巧吧。这方面的窍门，能请你教一教我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/32d3289109ae9df8adb95947dde092f2_1624602496832588307.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "大团长说，我这种年轻人就该多吃肉，把力量和体能练得棒棒的。虽然我怎么也不可能长出一身结实的肌肉啦，但我确实很喜欢肉类料理，这一点倒是和游击小队的大家很合拍。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/701c8dcc81c21c5d8a8403db90fb3047_7625771441825352949.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "不像我的哥哥，我完全欣赏不了酒的风味，只要喝上一小口，我就会醉得不省人事，给大家添麻烦。碰上有的陈年烈酒，光是打开瓶塞后的气味，都能让我脚步发晃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/d79f3b893cab66e69434e727896c658a_3146032909004740565.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "太感谢了，这道料理实在太珍贵，我怎么舍得吃！可以把它收藏起来吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/25b5b876d075180cfe428a37b0d7260f_5943080753336315509.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "口味和份量都无可挑剔，让你为我费心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/355a1835d156108b8305f63e1849c724_3381649924183094500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "唔…不管怎么样，这可是你为我做的饭菜，我一定会吃完的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/c9367aa733d450b6b9c4f1b9e2ebb778_2072564208440465301.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "这种时候应该怎么说才好呢…嗯，今天是最特别的日子！应该用最热烈、最盛大的方式来庆祝！我为你准备了一本「蒙德绝景游览手册」，手册上记录了很多风景优美的地点，但没什么人知道这些地方哦。希望你从今天到明年的今天，每天都开开心心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/2269ab0acce302cde26bcef437f6f829_6657386230275562562.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "虽然比起你还差得远，但我现在有一点信心了，至少不会再拖你的后腿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/ae720a9687dad068e360b4b7c94b73a2_5426288335757422722.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "希望我能给你带来更多有用的情报，真真切切地帮你分担压力！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/ceb4bde94d654649d791755dff2c3f62_2381957237662209153.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "请允许我…一直和你同行，一起丈量脚下的大地！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/07c5dbd6e11512fe7cadf31b613f918c_8594721163108550255.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "实在感谢！这下，我就距离目标更近了——让大家安安心心地前进，不必在崎岖的地形受苦受累，也不用惧怕角落里隐藏的危险！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/3add702cb0549aabcb70504d78af79d3_6528600964357185311.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "速射牵制。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/ebc7d4008bceec260168e6ceccec5026_8331061778216415421.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "试探攻击。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/bec40c1860148518a5a596e4db9f3541_652499191148153213.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "请你后退。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/1b57715a8224d6c6a6386fc00d0a49f8_9047950699247550867.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "精确射击！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/8542d736ba245ce016602901ed74597b_4772947716993380035.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "对不起了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/76f460633993c1e41cf4a82b9fadbc52_3599696957079905550.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "肃清威胁！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/0a26f24adc35abac34bb48a743c12fe7_4969107008630377776.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "大家，请振作！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/b73b3ebd47b64a8cb0ad03a3d2b0bb14_5748238715234680323.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "我负责医疗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/b3d0e192d2c94de4e01993000d69348f_4835384244996918014.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "打开突破口！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/6fa4ff6767e6a1180685090dc2436bab_4513944979744602376.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "从高处观察…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/b013c2702600762ef83b7c96898e64cc_3769960343722705565.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是新的收获！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/d2e995d77352494cd94770267caf6dec_3620943267220356566.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "有战利品吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/8a3251e371fde23ba86867144d58663c_7126724933353864596.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "找到了宝藏，恭喜大家！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e4eb16d3bc8088f49510d634a4c896b3_3944157111983047753.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "有点麻烦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/dfd3e212c9afe50197e7c9eff8eea88d_2213285046325383361.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "要改变战术吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/12ac3340fb1a36ccfbd7e5903b64f3a4_1314261509017257427.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "对手…很强啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/139707f91132d959999066b76d8e6c0b_7137362512634150423.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "请后撤，我来顶住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/1b71c1b55ac43d282e45d02f082c9838_1397544635512685875.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "要快点治疗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f7e17f10f1a3af5bf7e28e10d722f1d8_3646288826012130708.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "早知道…就迂回了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e08647b57722ce12493bc06db077adeb_8498445606714260728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "对不起，大家…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/38cf700454a0b255e925e7a9b35fe79c_4705090804532891247.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "完了…我搞砸了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/98c8ac419dd52d85e22d1a8035b3b314_2201053740506139068.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "要忍住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/508feeea1903cb1e7fcfa53d121259ec_3907417073828359309.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "没问题的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/fb4e5e8c509bd024e9fe962a9c1528a5_1376946514333213472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不痛…不痛！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/cb18860b725e2bd4ed6c8fd6afb70818_3941007578464642868.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "不能慌张…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/1158c00640ab9678292f8b34a441b582_5326846257378993314.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "清点装备…一切就位。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/3dbe5428ecde40ab7ca402ab35d2de18_2519033437944284111.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "嗯，长枪和弩箭都准备好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/25d7205ad342d3646a24ae9714ddcf24_8654223884853943338.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我…我来为队伍探路！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f0474327e548d0b491fa0b23e1dda34f_8742209681148430778.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "西风骑士团游击小队所属，前进测绘员米卡，向你报到。与你并肩作战是我的荣幸，请随意差遣我吧…我会竭尽全力，为你探清前路，查明敌情！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/0b9d6713e05d0247ae8250bcd3de4c9b_8184369809825409600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·目标",
+          "text": "赶快调整好状态，不知道下个任务什么时候会来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/2b8e002eaab97efbe3f4ee70f0f5d9f6_6751519287668117088.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·记录状况",
+          "text": "核对当前位置、向目标扇区测距…嗯，地理状况记录完毕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/bde4d5f903f801eafa3e09a787bf32d2_634295480964992860.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·探明道路",
+          "text": "无论处在什么环境里，只要仔细探索，应该都可以找到通畅的道路。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/d9d22aea5335f11eac3d7479b55aa833_6144840450804344732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "好大的雨…希望地面不要变得泥泞，不然就要帮大家擦靴子了…做饭的时间要不够了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/c17cf09f2305835ef5e66229f01dfac9_8683209276193861967.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "雷声可以掩盖行动的声响，是我们的好朋友。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/1403011171ef5af0e0427dd2e84800e8_924016581388674419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "积雪很漂亮，但又会把原来的地貌覆盖掉，我不太喜欢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/6b48cab1adc466ef9e877322ac894392_1215083568101358724.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "阳光柔和，视距充足，观察条件良好。嗯，心情真舒畅！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/78dd32b4bcb49507172069ca6639d98f_4595750317407751571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这风…是出自风神的旨意，还是地形对大气的作用呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/1d2aca7dabcb60bd8a4e38b565e9565c_8562630326916990667.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "哦！早啊，我准备了远征队常吃的早饭，不介意的话，请一边用餐，一边和我说说今天的行动计划吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/78190c0c74c08636e5437d7913b9fb1d_7116519742153168249.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "请稍等，游击小队最爱的三号野战午餐很快就准备好。待会儿我再看看，附近有没有适合午休的地方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/da128173aedfa0e95f49086965b1d0e2_6432954136130748331.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚饭完成了，虽然还是行军餐，有点简陋…但提供的营养肯定管够，请不要介意…如果有需要维护的装备，也请交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/039fbae1158c3014db4c10d11a0cf42e_6571289498027953094.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "时间还早，我要整理一下今天的勘测记录。行军床已经准备好了，请你先休息吧？等到你的精力恢复，夜宵应该也做好了，到时候，我们可以交替值岗。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/2e7989e1f3c574c75a464e949785de74_8486840611474664774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于米卡自己·工作",
+          "text": "前进测绘员？这个岗位的职责是率先进入未知的区域，探明地形，寻找最有价值的阵位，有时还要对付敌方的哨兵。所以，除了测绘地形，我也得掌握战斗、医疗和野外生存的技巧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/4d4f905aa650dd4f4a90fbe4a23de8c0_5246404088516466571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于米卡自己·琐事",
+          "text": "搭建营帐、生火做饭、维护装备，这些事总得有人来做嘛。如果别人嫌这些事麻烦，而我做得还勉强合格，那我至少可以…让大家轻松一点，开心一点？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/43b80b976db5439f24671e7e1375e0c3_3896560443675149059.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·传闻",
+          "text": "对不起，刚回蒙德那几天，我听说了你们的事迹。像你和派蒙这样的超级强者，总有自己独特的原则。有些强者的脾气不太好，也许我说错一个词，就会让他们不高兴…好在你们都很和善，我根本不用担心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/9db96f6fc33f17f48363aa9d24d8054c_5357088493142021488.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·暗语",
+          "text": "有的前锋会用「奥克塔维」表示「弩箭耗尽，正在返回营地」；用「薇拉」表示「状况良好，可以交战」。要不然，我们也约定几个暗语？毕竟我们会长期合作，这样更方便。哦，你说了算，我都听你的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/32c3a022edc757dffe5a3470ca4f69dc_6954541210836580738.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "说实话，能够得到「神之眼」，我也很吃惊。它的确能为我提供不少帮助，但我不能依赖它的力量，而是要把它当成一种保险手段。作为骑士团的一员，我更应该重视团队合作，想办法和同伴们一起战胜困难。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/9c393540327674ff90500e015de8383c_4681127560444625370.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "有个简单的测距法，应该对你们有用：伸直手臂，竖起拇指对准目标，分别用右眼和拇指的轴线对准目标的左侧，左眼对准目标右侧，把两侧间的距离乘以一个数，就能提前确认山有多高，河有多宽，能不能一口气爬上山顶，游到对岸。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/b6edea16fe2311514edfefd8b8124981_1205250575751675808.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "听可莉前辈说，世上有种传递声音的植物，要是这种植物可以被随身携带就好了。这样一来，我就能实时汇报地形情况，甚至待在前方，为后方的同伴提供指引，用弩箭远远地抛射，早早排除威胁。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/c048d8cc7e62144ba03c40d6c5873284_605980070929312498.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "入团之前，我接受了许多测试，主考官就是凯亚队长。凯亚队长一直支持着我，给我各种建议…不过，有时我不太理解他的话，担心自己跟不上他的节奏，让他扫兴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/ae9a2be0fb5cbe98f894ff2fcade06fb_1985047539349925445.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽·教诲",
+          "text": "法尔伽大团长是万分可敬的强者，也是我在战斗方面的老师。他觉得我个子小，体力没优势，教导我「打架的理念要灵活」，「避免和敌人短兵相接」。所以，我才学着用长枪和手弩对付敌人，这样的战法的确更适合我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a2d3f21f61b061a8e0c42c55c91db7b3_6068605556789481773.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽·队长",
+          "text": "大团长还说，我要树立更高的目标，不断磨练本领，我一直是这么想的，但直到远征期间，我才明白事情的严重性。有一天，我们遇见了自称「队长」的愚人众执行官。我完全没法想象，该怎么招架那样的对手。强者的境界，对我来说实在太遥远了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/1ee9966b079b7e3412944dda79e8a34d_8685981951609765924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "副团长…代理团长是让人安心的好前辈，一直守护着大家的强者。在工作排期、战地医疗、还有下厨这几个领域，我能向她学习的东西，简直无穷无尽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f2bd9e0def2850758314cec8ad174c60_1205384505047713395.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏长官…安柏前辈是最可靠的前锋，侦察领域的强者！前进测绘员和侦察骑士的阵位很接近，总是提前于主力部队行动。安柏前辈的经验太丰富了，我从她那里学到了很多野外生存的技巧，还有维护弩弦和箭矢的窍门。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a85287e20c1d26d2ab8da2a1ee6c5859_3101649837108877029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈·任务",
+          "text": "优菈队长是战斗风格独树一帜的强者，她一直很照顾我。我刚刚入队时，她就给我安排各种各样的任务，数量是其他队员的好几倍，更快地锻炼了我的适应力。只要习惯了她的表达方式，和她相处起来就很愉快！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e800fcd326f85b9b0d0be771529c6500_8398415180274107795.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈·作风",
+          "text": "其实，我很羡慕优菈队长，她为人友善，作风洒脱，内心特别强大。要是我也被别人用奇怪的目光盯住，还在背后不停议论，我大概会不敢出门吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a067e2bac49ac49891a7c6198fc593c0_5809752649793589375.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "在我自学测绘的时候，丽莎长官一直在帮我，为我找到了好多有用的书，要是我也像她那样博学就好了。知识总归是不嫌多的，也许哪天就能用到呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/53e43ad1509fa870c90842eea5afdf0f_6300858480799102448.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "可莉前辈？她的性格特别开朗，好像还是…和大团长旗鼓相当的强者？她好几次邀请我一起冒险，我们玩得超开心！虽然她偶尔会试验厉害的武器，让我重画很多地方的地图…不过，我也觉得很值得！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/4828e3a6669477896ae798f3a420ba6d_1440342755966331877.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "好喜欢那位吟游诗人，他是演奏乐器的强者，他的曲调总让我有种回到家里的亲切感。如果要选出最能代表蒙德的曲子，我一定投他的作品一票。可惜我平常待在城里的时间不多，不然就可以每天送他一些礼物了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/46c8c17f437dc9143824a5192668a5a7_691515830574264416.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "阿贝多长官对我有恩，我常用的测绘装备就是他帮我制作的，还有一种绘图笔，就算倒挂在树上，也能正常使用。嗯不过，测绘地图和画画好像并不相通？之前我对着目标区域画过几张写生，作为补充的情报，听说阿贝多长官看见之后，沉默了好久。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/869bcc5bca6d212ff0471793cbe0dc90_676086412871869666.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其一",
+          "text": "我自己的事？我只是个普通人，没什么有意思的故事。如果只聊我以前的经历，你愿意听吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/efab18353cc4f915e374b2c44b763645_622654834621166477.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其二",
+          "text": "从小时候起，我就想当一个地图测绘员，描绘出提瓦特每个角落的轮廓。后来我发现，骑士团正好有这样的岗位，就在哥哥和爸爸的支持下参加了选拔，当上了前进测绘员。这份工作让我过上了理想中的生活，我已经心满意足了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/bfdb3aff651fa47dee85fc0a8489ca1b_4630698312638132476.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其三",
+          "text": "骑士团的大家都好强，每个人都有值得我学习的地方。我从大家身上学到了新的本领，也应该给大家回报，如果大家有需要我的地方，我都会尽全力帮忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e8ffa6213031677566796ae9a306ceee_6603727958689765935.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其四",
+          "text": "不过，帮大团长和优菈队长跑过几次腿后，有的同伴已经把我当成两位长官的信使了。如果我说错了话，给两位长官带来了困扰，那可就是我的过错了。所以，每次和不太熟悉的同伴交谈，我多少都有点拘束，让大家觉得我很胆小，这算是一种误解吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/14728b8fa88cdc13d361b010d896920f_95854610983082777.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其五",
+          "text": "好在，经历过远征后，我没那么担心了。只要不给其他人添麻烦，就算大家对我有什么看法，我也不会介意。骑士团就像是我的第二个家，我要把前进测绘员的工作干得完美无缺，让我的家人们平平安安地完成任务，轻松愉快地度过每一天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/c7731259d83278d000642a3fd3c8e3b4_5540603685146821025.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "米卡的爱好…",
+          "text": "爱好吗…除了工作，我最喜欢的应该是…在陌生的地方野营了。沉浸在新鲜的美景里，搭一个舒舒服服的营地，升起篝火做一顿好吃的饭菜，真的很愉快！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/55b65ab8a895c3417d0cfe8d22fb7652_5199033685418708469.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "米卡的烦恼…",
+          "text": "说实在的，我不擅长和陌生人打交道，也许是我不懂说话的技巧吧。这方面的窍门，能请你教一教我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/87663060e5754ba482ff2f8e3ee6cd68_8453977219518731275.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "大团长说，我这种年轻人就该多吃肉，把力量和体能练得棒棒的。虽然我怎么也不可能长出一身结实的肌肉啦，但我确实很喜欢肉类料理，这一点倒是和游击小队的大家很合拍。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/aebcb80aac3d4aa170f3c38fc1534572_834224688559924804.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "不像我的哥哥，我完全欣赏不了酒的风味，只要喝上一小口，我就会醉得不省人事，给大家添麻烦。碰上有的陈年烈酒，光是打开瓶塞后的气味，都能让我脚步发晃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/4230d4cab8fc6e4e0ee9e9a076ae84cf_2177087413678667374.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "太感谢了，这道料理实在太珍贵，我怎么舍得吃！可以把它收藏起来吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/41dddad1d95f3865a0656985ad04d8f1_1817093507231548572.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "口味和份量都无可挑剔，让你为我费心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/7474f1aa86bf2197f938c03a14f4a702_3776122118404304170.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "唔…不管怎么样，这可是你为我做的饭菜，我一定会吃完的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e8c1f728c1223206582d864cda68a9da_6434314527502651452.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "这种时候应该怎么说才好呢…嗯，今天是最特别的日子！应该用最热烈、最盛大的方式来庆祝！我为你准备了一本「蒙德绝景游览手册」，手册上记录了很多风景优美的地点，但没什么人知道这些地方哦。希望你从今天到明年的今天，每天都开开心心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/79449daec785c907d15725276fd4ace8_6772058638563874871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "虽然比起你还差得远，但我现在有一点信心了，至少不会再拖你的后腿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/76544c4d19dbf92083c13b04545a511c_3218811771753983931.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "希望我能给你带来更多有用的情报，真真切切地帮你分担压力！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/2f0a001e5368bcb24a640d146d88626a_2248489704383928366.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "请允许我…一直和你同行，一起丈量脚下的大地！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/cc9219e69a56fe45c2627d513b0d7773_5529352583504851245.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "实在感谢！这下，我就距离目标更近了——让大家安安心心地前进，不必在崎岖的地形受苦受累，也不用惧怕角落里隐藏的危险！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/490bcc856fc848100f42ac56dea51eb1_2993452056103713090.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "速射牵制。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/84683fbdfd137d3012f642b2a85d47d5_7517771608812264150.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "试探攻击。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/5c685d9cc0cb623965eb506e95478540_4720638160797302197.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "请你后退。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/998f6cc3b21c8ac8b1fab6d4678bbddd_5257885832633350053.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "精确射击！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/c9724067ea4345e8b607467bce112101_934192350776129370.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "对不起了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/acff2183b3a6f61191d42b618527475a_2073537288941339931.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "肃清威胁！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/19a60140f5c77cd1ed41ed7546ad4689_2512526105650858263.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "大家，请振作！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/ce92e9ba8fc4909f18a78bd7dc6ba2a0_4396509866675004940.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "我负责医疗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/8b6798cc2779dad0977901f006949ba8_4696351564545183130.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "打开突破口！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/ecddac840dd577d03d59a9cf3ec42d11_9222662403024183020.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "从高处观察…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e443d8e1a9c7e1b931b3db77d4017278_2236624354769079152.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是新的收获！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/265b5494b3eb14dc011c25745c04f7de_8509673941547049333.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "有战利品吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/7d2e8642a7941499201d85902d2dd374_881246500171002549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "找到了宝藏，恭喜大家！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f099a3356cb4b79a01637ee073e3586a_1176316472627429286.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "有点麻烦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a40ffc7ef37e80201ae89190e7ff750a_321507263363534332.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "要改变战术吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/1e2974cca2d685a024da52687afdbf3f_2015355667211469887.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "对手…很强啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/6a584b1c022868f70a52e4b5c1b1d18b_337305555990452337.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "请后撤，我来顶住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/4d77bffabfa24141350451861910e8b7_4742850324897254948.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "要快点治疗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/7f8a22620f030b12eaacb3fce45e77e4_1365664174491925707.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "早知道…就迂回了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/90566199732797a382d5d977f2a1ea9b_622900486483266615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "对不起，大家…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/dbd8aab67b88001534c01e66519a2c70_1810172009943535783.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "完了…我搞砸了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f7c6a36b3d7dde641681dafc1cebaed0_711620449218304169.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "要忍住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/180d51ce2e251f047df012376457f67b_8221274939986411143.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "没问题的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/9c29f87879bd20947b5738c5b4ab7577_4464473899830624780.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不痛…不痛！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/aaeb27e881c5944369ca83c84f1637a1_9135423512858380233.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "不能慌张…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/105826fc3925c3e027d3a1a2c5f01f29_6072743162422307238.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "清点装备…一切就位。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/51fd2eba2d3fd584adf7451c98146145_4063310159239053881.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "嗯，长枪和弩箭都准备好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/07a4ace947241afd457be45c0fad51c2_3681896405405292334.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我…我来为队伍探路！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/2b4092597a4107379ffc8f02398f70ef_2947423027721508849.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "西风骑士团游击小队所属，前进测绘员米卡，向你报到。与你并肩作战是我的荣幸，请随意差遣我吧…我会竭尽全力，为你探清前路，查明敌情！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f4c6f13e035de8fbb9415d6dd878354d_5181714603322466901.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·目标",
+          "text": "赶快调整好状态，不知道下个任务什么时候会来。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/dc73c9619237c8150c89aeb48c6f8b90_3298773051796108917.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·记录状况",
+          "text": "核对当前位置、向目标扇区测距…嗯，地理状况记录完毕。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/dc143dc0f2b6af9f75974ebc86221d30_3895200176271208520.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·探明道路",
+          "text": "无论处在什么环境里，只要仔细探索，应该都可以找到通畅的道路。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f8c429db573f5c9882da9a7d57f44808_4832416574151231859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "好大的雨…希望地面不要变得泥泞，不然就要帮大家擦靴子了…做饭的时间要不够了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/7240e3f489f5a65ca3fe83f7ad36af12_1071865112728454228.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "雷声可以掩盖行动的声响，是我们的好朋友。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/185cb157dd650bdf88316e4464fad415_8997219634448957095.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "积雪很漂亮，但又会把原来的地貌覆盖掉，我不太喜欢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/16faf4d1871734486b287c332c2c77cb_4863107500564181929.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "阳光柔和，视距充足，观察条件良好。嗯，心情真舒畅！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/58095cfd8c4f3121df7eccc151003ae0_4110707650989657236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "这风…是出自风神的旨意，还是地形对大气的作用呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f08c55a7f1f8fa685e3f47368b0ff578_2324563475021266554.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "哦！早啊，我准备了远征队常吃的早饭，不介意的话，请一边用餐，一边和我说说今天的行动计划吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/d384d147186debdb4a1ced65fc338216_8838624112888923933.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "请稍等，游击小队最爱的三号野战午餐很快就准备好。待会儿我再看看，附近有没有适合午休的地方。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/c14533faa07ad606eae69b8cda340aab_5259319601910789916.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚饭完成了，虽然还是行军餐，有点简陋…但提供的营养肯定管够，请不要介意…如果有需要维护的装备，也请交给我吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/bd5137850e10d8bf777c0551acf90a64_1108569602834797713.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "时间还早，我要整理一下今天的勘测记录。行军床已经准备好了，请你先休息吧？等到你的精力恢复，夜宵应该也做好了，到时候，我们可以交替值岗。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/edc8e2497e206a2690aa31806ba1a548_4825963840450107390.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于米卡自己·工作",
+          "text": "前进测绘员？这个岗位的职责是率先进入未知的区域，探明地形，寻找最有价值的阵位，有时还要对付敌方的哨兵。所以，除了测绘地形，我也得掌握战斗、医疗和野外生存的技巧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/248723245191c684cc2136f557b7d62a_3642161038005228315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于米卡自己·琐事",
+          "text": "搭建营帐、生火做饭、维护装备，这些事总得有人来做嘛。如果别人嫌这些事麻烦，而我做得还勉强合格，那我至少可以…让大家轻松一点，开心一点？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e9b8cf7c7fe5516e9a637822ac1665b6_2434244139990054904.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·传闻",
+          "text": "对不起，刚回蒙德那几天，我听说了你们的事迹。像你和派蒙这样的超级强者，总有自己独特的原则。有些强者的脾气不太好，也许我说错一个词，就会让他们不高兴…好在你们都很和善，我根本不用担心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/b6001d8a28df8950d176db4be09fa110_1252157190232961014.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·暗语",
+          "text": "有的前锋会用「奥克塔维」表示「弩箭耗尽，正在返回营地」；用「薇拉」表示「状况良好，可以交战」。要不然，我们也约定几个暗语？毕竟我们会长期合作，这样更方便。哦，你说了算，我都听你的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/677d3d77b9c1560ecf488f2b451babf0_994391148066317121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "说实话，能够得到「神之眼」，我也很吃惊。它的确能为我提供不少帮助，但我不能依赖它的力量，而是要把它当成一种保险手段。作为骑士团的一员，我更应该重视团队合作，想办法和同伴们一起战胜困难。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a7796bcf514543540bf56ebf87d47718_4821978411994565655.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "有个简单的测距法，应该对你们有用：伸直手臂，竖起拇指对准目标，分别用右眼和拇指的轴线对准目标的左侧，左眼对准目标右侧，把两侧间的距离乘以一个数，就能提前确认山有多高，河有多宽，能不能一口气爬上山顶，游到对岸。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/8883da7314ceec2e8d369344f19f9bd4_997653912080217278.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "听可莉前辈说，世上有种传递声音的植物，要是这种植物可以被随身携带就好了。这样一来，我就能实时汇报地形情况，甚至待在前方，为后方的同伴提供指引，用弩箭远远地抛射，早早排除威胁。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/1f158a16c82a43fe371dd38374aa8fa5_2520634074873571887.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "入团之前，我接受了许多测试，主考官就是凯亚队长。凯亚队长一直支持着我，给我各种建议…不过，有时我不太理解他的话，担心自己跟不上他的节奏，让他扫兴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/31a6f2804546951e7a0292f8260e775d_1326240975061958813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽·教诲",
+          "text": "法尔伽大团长是万分可敬的强者，也是我在战斗方面的老师。他觉得我个子小，体力没优势，教导我「打架的理念要灵活」，「避免和敌人短兵相接」。所以，我才学着用长枪和手弩对付敌人，这样的战法的确更适合我。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/244a0a61b1f4d16080ebf5cd83e96595_7897663791325712634.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于法尔伽·队长",
+          "text": "大团长还说，我要树立更高的目标，不断磨练本领，我一直是这么想的，但直到远征期间，我才明白事情的严重性。有一天，我们遇见了自称「队长」的愚人众执行官。我完全没法想象，该怎么招架那样的对手。强者的境界，对我来说实在太遥远了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/9769cc1b88ebd65201d4b9b094e7e722_5354180049876141981.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "副团长…代理团长是让人安心的好前辈，一直守护着大家的强者。在工作排期、战地医疗、还有下厨这几个领域，我能向她学习的东西，简直无穷无尽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/7f1041b93610adcc823242e091c09402_4608763159287050183.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于安柏…",
+          "text": "安柏长官…安柏前辈是最可靠的前锋，侦察领域的强者！前进测绘员和侦察骑士的阵位很接近，总是提前于主力部队行动。安柏前辈的经验太丰富了，我从她那里学到了很多野外生存的技巧，还有维护弩弦和箭矢的窍门。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/447bd5008839084ff3757b408e14c69b_5661151475702404235.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈·任务",
+          "text": "优菈队长是战斗风格独树一帜的强者，她一直很照顾我。我刚刚入队时，她就给我安排各种各样的任务，数量是其他队员的好几倍，更快地锻炼了我的适应力。只要习惯了她的表达方式，和她相处起来就很愉快！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f12535cb74498aed516a930ec17d3bc6_1254031301735507460.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于优菈·作风",
+          "text": "其实，我很羡慕优菈队长，她为人友善，作风洒脱，内心特别强大。要是我也被别人用奇怪的目光盯住，还在背后不停议论，我大概会不敢出门吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/86de30d921035ffb7c23ea7e7854dbd7_1293458737869542322.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "在我自学测绘的时候，丽莎长官一直在帮我，为我找到了好多有用的书，要是我也像她那样博学就好了。知识总归是不嫌多的，也许哪天就能用到呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/3a2daa4422bea5b0c4b6ef6b89ec8f7d_1599293021411103319.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "可莉前辈？她的性格特别开朗，好像还是…和大团长旗鼓相当的强者？她好几次邀请我一起冒险，我们玩得超开心！虽然她偶尔会试验厉害的武器，让我重画很多地方的地图…不过，我也觉得很值得！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/0abc47a59670324957addeb2abee84bb_4894351022339919514.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "好喜欢那位吟游诗人，他是演奏乐器的强者，他的曲调总让我有种回到家里的亲切感。如果要选出最能代表蒙德的曲子，我一定投他的作品一票。可惜我平常待在城里的时间不多，不然就可以每天送他一些礼物了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a2f91fb21207d157217894b5b9af1efe_181974980382065550.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "阿贝多长官对我有恩，我常用的测绘装备就是他帮我制作的，还有一种绘图笔，就算倒挂在树上，也能正常使用。嗯不过，测绘地图和画画好像并不相通？之前我对着目标区域画过几张写生，作为补充的情报，听说阿贝多长官看见之后，沉默了好久。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/3b249cc74e1995bcc01ec811e058e7d7_1122019979951664673.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其一",
+          "text": "我自己的事？我只是个普通人，没什么有意思的故事。如果只聊我以前的经历，你愿意听吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/ab3c04f2093543018048753563a467e9_3589622171676091986.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其二",
+          "text": "从小时候起，我就想当一个地图测绘员，描绘出提瓦特每个角落的轮廓。后来我发现，骑士团正好有这样的岗位，就在哥哥和爸爸的支持下参加了选拔，当上了前进测绘员。这份工作让我过上了理想中的生活，我已经心满意足了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/b1a7972191a8d966ab7020ce2e19785e_1578013731553917283.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其三",
+          "text": "骑士团的大家都好强，每个人都有值得我学习的地方。我从大家身上学到了新的本领，也应该给大家回报，如果大家有需要我的地方，我都会尽全力帮忙。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/ce00fc907614f772562fb4f6ffc528a8_8327546878766323649.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其四",
+          "text": "不过，帮大团长和优菈队长跑过几次腿后，有的同伴已经把我当成两位长官的信使了。如果我说错了话，给两位长官带来了困扰，那可就是我的过错了。所以，每次和不太熟悉的同伴交谈，我多少都有点拘束，让大家觉得我很胆小，这算是一种误解吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/21d2a8f76cfc9c554f333a27a0da55a5_7245521676306485766.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解米卡·其五",
+          "text": "好在，经历过远征后，我没那么担心了。只要不给其他人添麻烦，就算大家对我有什么看法，我也不会介意。骑士团就像是我的第二个家，我要把前进测绘员的工作干得完美无缺，让我的家人们平平安安地完成任务，轻松愉快地度过每一天。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/d85ae5889a17f34645696bb362a0815d_407849578010736934.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "米卡的爱好…",
+          "text": "爱好吗…除了工作，我最喜欢的应该是…在陌生的地方野营了。沉浸在新鲜的美景里，搭一个舒舒服服的营地，升起篝火做一顿好吃的饭菜，真的很愉快！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/24740b83f36ff813a580345aa123d26d_3260472501844893387.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "米卡的烦恼…",
+          "text": "说实在的，我不擅长和陌生人打交道，也许是我不懂说话的技巧吧。这方面的窍门，能请你教一教我吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/0bb0b6e81a01782f54249cdb6ecc8b58_8120354792070679810.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "大团长说，我这种年轻人就该多吃肉，把力量和体能练得棒棒的。虽然我怎么也不可能长出一身结实的肌肉啦，但我确实很喜欢肉类料理，这一点倒是和游击小队的大家很合拍。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/3858ee774caf13e2d6e24dd6f760cd4c_2161166775484716172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "不像我的哥哥，我完全欣赏不了酒的风味，只要喝上一小口，我就会醉得不省人事，给大家添麻烦。碰上有的陈年烈酒，光是打开瓶塞后的气味，都能让我脚步发晃。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/612877bcdc77f32cd893e107fbd0b402_3383934181004609289.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "太感谢了，这道料理实在太珍贵，我怎么舍得吃！可以把它收藏起来吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/23f879c3f6ab970e4f0a4e867b78a7f7_2030710519168185740.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "口味和份量都无可挑剔，让你为我费心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/8c716aa2da7f379754fac532f6248614_6111544210661071647.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "唔…不管怎么样，这可是你为我做的饭菜，我一定会吃完的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f21d978a5013708d0f2d5c5aab6df2a6_4036933966538869680.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "这种时候应该怎么说才好呢…嗯，今天是最特别的日子！应该用最热烈、最盛大的方式来庆祝！我为你准备了一本「蒙德绝景游览手册」，手册上记录了很多风景优美的地点，但没什么人知道这些地方哦。希望你从今天到明年的今天，每天都开开心心！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/3d6620942ef75f43f79a52cd4ab91dbf_2910735838590382466.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "虽然比起你还差得远，但我现在有一点信心了，至少不会再拖你的后腿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/c2e0215fd722490164154ea0ca4deb7d_783502520368967280.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "希望我能给你带来更多有用的情报，真真切切地帮你分担压力！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/92a2d54b5300af648f845c5d043dea39_1863354863336905413.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "请允许我…一直和你同行，一起丈量脚下的大地！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e48f1b2c0f41c55343c3d8fa72f5a266_5093566197079739518.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "实在感谢！这下，我就距离目标更近了——让大家安安心心地前进，不必在崎岖的地形受苦受累，也不用惧怕角落里隐藏的危险！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/3182bdbd5cac703e028338ea4344463b_7661788904651221635.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "速射牵制。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/9a6dadd157630a53ae05909df8081a81_453208597319606664.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "试探攻击。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/535b48d7ddefe4c5a07b88cc518b8c3c_7007859862971514416.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "请你后退。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/7e1762c58cb8200744434d0a43887190_3629865831533244925.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "精确射击！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/5aa48a2cde46fb13534c0422ccfc083e_8614826980043488395.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "对不起了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/d3ac7402a4ca1490904a6c3b37491fe8_146716454670064989.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "肃清威胁！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e006737cb6434539e4cb170614349005_6389131688982405216.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "大家，请振作！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/4cbe56b7a1c190fbf7e42e41ce625ca4_1758776905849750473.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "我负责医疗！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/15a6f111c3f5e7019874775b58c4e9c3_5087246431648395313.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "打开突破口！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/c1723c59021790d64c048d7f8a9a4a37_5947727369624142188.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "从高处观察…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/d30a698325372a1b0ed62450dc22273f_3149976613790983858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "是新的收获！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/4bcd46572d42e46b4f329f996ef99043_1800916220446887851.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "有战利品吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/94eda5a6f504de95264ca8cca15bc1a6_4331699012008946160.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "找到了宝藏，恭喜大家！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/e966d4475b156730d986979dfd6e18e5_4301917563179858970.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "有点麻烦…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/67cb5287f079c96f5b337a7b2ddf8282_7842276492679471600.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "要改变战术吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/b2dc49fa73308c2ca33ceb4fc1779e9b_5489851095973393786.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "对手…很强啊。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/58df9c8e100d3898ddce062a33878e9b_1908389502763141710.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "请后撤，我来顶住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f2cf2eef2c8c4f31eb477bd2612c0031_3852523025160694763.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "要快点治疗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/a601fa392f168a4afe19f0edea096346_802470957768316492.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "早知道…就迂回了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/95bc8b26a315b8866547c6fe76df8675_3501305589013431012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "对不起，大家…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/183d67d7cf0485dad9ce0ee2029a1d96_8190352724730533472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "完了…我搞砸了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/17a98bb43862e92d996173cbe3805556_4016950489412576982.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "要忍住！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/beb890b00cf2d24fccb9f4d4a681821e_4463834702121307261.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其二",
+          "text": "没问题的！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/9d33fc278ce9dacc2d9ede9c5c941214_6365756733429048327.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不痛…不痛！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/5644eca7dc6a76d4b3db27e054400d0f_6845979402601065795.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "不能慌张…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/3eff0de8485e845cf4a7025f2c511f1c_5196307364847779205.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "清点装备…一切就位。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/f50fb46c424d23d3fe046880ea9fecca_591909245833936621.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "嗯，长枪和弩箭都准备好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/42ea42f264c7785f694cfc3cf2bf1c26_4541899055447712228.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我…我来为队伍探路！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2023/03/27/16576950/3de447d96487f8624297a38d7209e5b2_6605391045161641707.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

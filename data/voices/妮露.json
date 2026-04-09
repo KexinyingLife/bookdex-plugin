@@ -1,0 +1,1637 @@
+{
+  "id": "5020",
+  "name": "妮露",
+  "alias": [
+    "妮露"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我是来自祖拜尔剧场的妮露。今天上演的剧目是这一支舞。请你不要眨眼哦，要开始了——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/c42cc0113bacc16cdc342f057fab2d29_4872539180524372615.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·练习",
+          "text": "先这样…下一个动作是…这样吧，嗯…嗯！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/8cff44c25834ffc4daf63c2610d22402_1682839077553615940.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·困意",
+          "text": "深呼吸，吹一个大大的气球，把困意放进气球里，呼——气球飞走吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/10d40c2ad4ead10f7f620be5b25759cc_7455880023377772915.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·休息",
+          "text": "这样清闲的日子倒也不错嘛，优哉游哉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/19a134cace131e960d5c143aca93b5e9_7225441157885528305.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "天气和心情一样，有时候会变得阴沉沉的，但是不用着急，雨后的天空会更加澄澈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/7ea0eaa5e74a5323cfe170b33bf40033_8865335289060577159.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "雷声有点恐怖呢，你会害怕吗？我可以分享你一个神奇的方法哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/9295d0c95e64551f34ed62b65a8c0c68_5551445480972708038.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "欸？哇——下雪了。你听，下雪的簌簌声，加上旋转着的雪花，像不像自然的精灵在跳舞？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/5b1f1c99175affa40f37b4bd1acce151_9061207274440044032.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "阳光明媚的日子…晒得暖洋洋的。唔，会犯困…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/16dfabbcd7716813a581bdc2a0e6b2d7_1464177453762123215.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "你还好吗？小心风沙哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/6e1183be2d7e8b870aee749ef658b212_3723383414751401799.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好哦。欸？你盯着我看是…哦头、头发翘起来了吗？啊，先别看我，唔，我马上整理好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/f3fb94d03c148fe0a5bd607c083696a7_7478823200568507992.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "唔…嗯…中午吃饼好呢，还是吃饭呢…要不吃豆泥吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/cf95ec6e3bac1904d73ec0b7c81c2ca8_118377957213188186.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，今晚我在祖拜尔剧场有演出。给你两张剧票吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/1f66d862125d5d7327fcc7c2b146716c_8319777057925579301.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "睡前把烦恼全部都倾诉掉，会睡得比较香哦。如果你愿意，我很乐意当你的听众。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/24885e1673542f44d51afcb88ae6a02c_7929209484382308671.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露自己·肢体语言",
+          "text": "有时候，舞蹈比语言更能传达出心情，不知道该说什么好的时候，就跳舞吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/40cb993c460070865b8303d5f3d0f473_3623418843467434685.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露自己·舞蹈与知识",
+          "text": "探究知识需要很高很高的天赋，很多人拼了命地努力，结果劳累又沮丧…但跳舞就不一样了，就算看不懂门道，也能看个热闹。要是能从这份肢体动作中品味到艺术的美丽与价值，那我就更开心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/f43dae52ba5c4ee5b8fc9edf1a5575ca_5252974521655123265.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·缓解生气",
+          "text": "你会生闷气吗？嗯，生闷气是不好的。来，跟着我做。先在身前用右手画一个大大的圆，然后，双手把讨厌的事都从胸口里取出来，放在圆里。接着，用力地推出去！怎么样，心情好起来了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/ed7dad55b47416c3da2f790deb871813_7235757614117495551.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·外出冒险",
+          "text": "尽管我之前没离开过须弥城，但…我想和你一起去冒险。哦，到陌生的地方，我适应一下就好…唔，稻妻的沙滩下，真的不会有很大很大的沙虫，突然钻出来吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/c3106516c707454770a6fc89be2e4198_2052120768868941871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我的神之眼是第一次登台跳舞时拿到的。我想，神明大人会成为我的观众，一定也认可了人类艺术的美丽之处吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/210bcd8c33b601d242c4ba00665f8712_696233114249228360.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "努力没有结果，也是很正常的。就像我不管怎么努力，也没办法理解明论派的知识。嗯，这个时候晃一晃脑袋，让大脑转个弯，换个方向就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/ef7e458880ba4c9f0e8a8bb745b69cb4_7302629046752289769.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·晶蝶之舞",
+          "text": "晶蝶有各种各样的颜色，很漂亮。当你实在按捺不住好奇心，悄悄伸出手的时候，它们就会一下子跳起优美而迅疾的舞步，离你远去。啊，我要是会飞的话，就能学会晶蝶之舞了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/276899325d4756e3f579afee920b284e_5294456126596899016.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·帕蒂沙兰",
+          "text": "花神大人跳舞的时候，真正的帕蒂沙兰会在她踏足过的地上盛开。…啊，听起来就非常美好，真想见一见这样的场景。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/9f6bbd834901970438c64d6ae4b49a32_6150150067340034755.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "教令院的人，我不太敢接触，毕竟他们对歌舞艺术的印象都不好。我常常会想，那他们会通过什么来解闷呢？呃…你说赛诺的话，会玩「七圣召唤」？真是不可思议呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/b82daf81552ff6cd3e841f4f58090393_5987419608948458759.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "据说他是很厉害的植物学家。那他分辨蘑菇的本领肯定很厉害，至少不会吃到毒蘑菇…好羡慕呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/280624586d32b3322556cfe6406182bd_5413596600119901871.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱…",
+          "text": "她偶尔会来看我的演出，是一位很热心的见习巡林员呢。她还提醒过我小心迷路，这是为什么呢？我也没有迷路过呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/2a882d22ebbf53db87ee702b5fbe1c1b_8381827428120648294.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "我听说是他建造了华美的艾尔卡萨扎莱宫，能建造出那样的作品，过程应该快乐又陶醉吧。就像我练舞的时候一样，只要一想到能跳给大家看，就充满了喜悦和动力呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/0f5af496c9d9ba2505ad83bb18dd5c2d_8549998565444313949.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "最近发生了那么多事情，总觉得很不可思议。我原本想为迪希雅和迪娜泽黛挑选一些合适的礼物。但我自己拿不定主意，嗯…要是把大巴扎朋友们推荐的品种全送去，又太多了。哎呀，到底该怎么办才好呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/da48f18d1b350a52a165e351fe59d5a2_5479596791038993478.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "出手阔绰的多莉大商人也曾看过我跳舞。我记得，有一次她和祖拜尔先生商量了什么事情，之后就再也没来过了。会是什么事情呢？嗯…呃？你是说她可能想带我进行一场提瓦特巡演？不会吧，祖拜尔先生肯定帮忙拒绝了吧…应该拒绝了吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/2de4cb61faa61d1286654dc19b930aa3_2430931491014420041.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "大巴扎的大家都很喜欢小吉祥草王大人，好想听听她对我跳的花神之舞的评价呀…啊！不、不，还是算了算了。她真的来了，我肯定会紧张得不得了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/88561d80bedec362ccb1bb7aa60ae04d_2321158584607702908.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其一",
+          "text": "唔——啊！抱歉，我在想等下去吃什么好呢？有点出神了…你需要帮忙吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/0e668b10eb5813de171d66428c902527_1880210095675259336.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其二",
+          "text": "我的老师教过我很多跳舞的要领，但她说，最重要的还是要把情感都投入到舞蹈里，因为这样才是最能打动人的。有所感，才能抒发。想要传达美丽的话，我就要成为美丽本身吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/1b85699daae22ec3e8576b0fbca50784_7589598404200381699.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其三",
+          "text": "有时候我会收到观众们的来信，说他们因为我的舞蹈打起了精神。我会和祖拜尔剧场的大家共同分享这份快乐。虽然在观众眼里，我是在台前的那一个，但在我心中，这永远是靠所有人的努力才能取得的成果。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/7052bb63f64a21fa561a1d9084b42ac2_5064779758068079858.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其四",
+          "text": "大巴扎有时候会有一些杂技表演，比如说不停抛起球来又不停接住。以前我也试过这个，但是不知道怎么回事就是接不住球，反而全掉头上了。当时祖拜尔先生他们都笑了起来。嗯…好像在他们眼里，我的身体协调能力应该特别强一样…暴露短处了呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/a8c44c6e839603382005734f2f9b77f8_5875169809329698384.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其五",
+          "text": "以前有人说我就像是暖阳下的绿洲，让人感到治愈与温暖。我多多少少会高兴一下，但我的追求、我试图向大家呈现的价值不止在此。不过，和你相处久了我才知道，被人照顾和关怀是这样的感觉。现在…现在，我感觉那个比喻更适合你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/33ac6b4da46576ed927f69ffe817c826_2368812854758114618.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "妮露的爱好…",
+          "text": "我的人生就是跳舞，跳舞就是我的人生…到底该说哪个才比较好呢？哎呀，我果然不适合思考这些太有逻辑的东西。总之，我会一直跳下去的。用我的表演，让这份艺术之美被更多人看见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/babc200fa9f85de6b4d7d41a1fad4ec7_6241516274776278205.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "妮露的烦恼…",
+          "text": "我还是搞不懂哪些蘑菇有毒，哪些又没有…据说，颜色不管是鲜艳还是朴素的蘑菇，都有可能有毒。唔，好像明白了什么，又好像什么都没明白…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/8b81568793543b9c7f8ea59a604cb59c_9065232445228615549.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "甜食总能让人心情愉快，须弥大多数人都喜欢甜食哦！欸，你要不要也试试看？我可以给你一一介绍。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/a9d495513a177a0173d5ee0dfbb372ae_8853562649210706847.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我有点难以接受菌菇那一类，主要是害怕。不是那种见到了想逃走的害怕啦。我…我是小时候误吃过毒蘑菇，在床上躺了好几天…如果你想尝一尝须弥的菌菇美食，要记得确保是无毒蘑菇哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/3cc40c58995eb61351ba55da6c2bab77_7330931806663208311.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "原来美食在舌尖起舞，指的就是这样的感觉…好神奇呀！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/73e10ed35ed5ac039c83350813b69ffc_6688976075800948054.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "谢谢你。就像我不断练习跳舞一样，这道菜肴，一定也凝结着你的心血吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/6ff5c35a9c639803688d3cbb47906be3_8726595521483937500.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "抱歉，可能是我最近胃口不太好，你别介意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/58ae9316b9335084693395bf092a58d2_4170416335495729294.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "那个…生日快乐！我最近学会了一支新的舞蹈，想要跳给你看。呃，你问我紧张吗？呼——被你看出来了呀。因为，想要融合心意与技巧，不知不觉编得越来越难…总之，希望美好与快乐能永远留在你身边。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/10a6dc9091f8ddd0814c399d96370384_3998703626856152246.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "啊，这是什么感觉？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/fa0a378215af2506e7ed279868856792_930485621661878595.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "身体舒展开了，能比以往发挥得更出色吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/641734c92264cf078819dd8027696e89_3996142429632917906.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "我就像躺在一只大大的风史莱姆背上，好轻好轻。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/f0666fbb2c980c198ebd7603cc237a39_220886102061459937.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我喜欢和你待在一起。嗯…我也不知道为什么，总感觉好像有蝴蝶要从胸腔飞出来一般…还是让我跳一支舞给你看吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/9212b4577e21228db0562bf8fe0a6377_1600828732652661186.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "来了哟。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/4afbe472e8ba5bfa510aff155c321981_4523717383161642537.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "准备跳喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/1511a4ab2ad64709a90d7c3470a3dc74_8380044730837325618.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "全力以赴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/c2955a8a7361715633f5fd677cbcd0a9_7117119166845154955.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "和浪花共舞吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/fa95d12aa7ce7b813700623d92b151c2_3465519121503626157.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "请看好了哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/2ed9745bc09c26cef9b9524e0f13bc81_5272253172767618007.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "这支舞，献给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/3d374fbbdc5a4ab36bb95c6e17bec87a_2224470533990944132.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "都给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/9d278c09757ddc15ed21492a37bf9400_7339626896793196931.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "我来帮忙一起收吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/1742138945001196e858d3eb5df6d2a2_7723904070190809007.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇，是意外之喜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/fbb26f93728fcc0e17301871988a2034_1572135082910516689.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "唔，不用担心我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/8f6c422d2f5dafe5f1a544fff8fed443_4426573072931990402.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "真伤脑筋呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/6a029aa06e153d0719410cbad68beadb_7890254784749825102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "得快点深呼吸…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/abfbec7ecc76376fc581a2d632b256da_7285217515785135675.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别急，我来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/2bd76cecaf622ef3eebdf6c01b51759d_3691394365292651322.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "请让我来抵挡一阵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/16fec1aa73a27444978a9791521e303e_1365020003619555313.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还没来得及…谢幕…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/39fbcbf3e930aa785061baa6ba433315_5867059075488378913.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "不能…继续跳舞了吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/a4749180c8f65fcf5920a812c14c94c2_8557433875495954453.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "美丽之物，不要远去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/88d5f8889a09a38147564ee68e814d4e_6694529057291869810.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "啊，要稳住平衡。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/3b557bad8d002f2825284dfbcad52236_5596175243155780341.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "有点…疼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/9d7c30f4daa89e854255a4c6ed1f6bca_9127453401297160111.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "今天要去哪里跳舞呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/e86e367f32106576a5750197758718f2_4678978282934984960.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么我能帮忙的吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/9505cf3c3c1defb8db2c38cd96104f5e_6153213476888292529.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "啊…是叫我吗？来啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/0050a47bc947a3de08ad3f2212bd4eca_6366280634416571612.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我是来自祖拜尔剧场的妮露。今天上演的剧目是这一支舞。请你不要眨眼哦，要开始了——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/a1b389e5fa544e60e3fe9caed0214d02_4441660216755443594.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·练习",
+          "text": "先这样…下一个动作是…这样吧，嗯…嗯！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/d75176d55604aefee7591807ddf32dec_3872475811051742939.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·困意",
+          "text": "深呼吸，吹一个大大的气球，把困意放进气球里，呼——气球飞走吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/326d2094e862f8a4c65506ef7cca0884_1788444846758340306.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·休息",
+          "text": "这样清闲的日子倒也不错嘛，优哉游哉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/21c4232dac2995bf03b86a3a9d963c17_6223812033741174329.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "天气和心情一样，有时候会变得阴沉沉的，但是不用着急，雨后的天空会更加澄澈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/1963be22e6c3085d5e244860bedb63a6_6885748535862066314.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "雷声有点恐怖呢，你会害怕吗？我可以分享你一个神奇的方法哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/710c3277f7434f1fd3f3932063877082_1039533717663901560.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "欸？哇——下雪了。你听，下雪的簌簌声，加上旋转着的雪花，像不像自然的精灵在跳舞？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/a8e926f9a69d8ad861125c3117c6def4_5580820722386803813.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "阳光明媚的日子…晒得暖洋洋的。唔，会犯困…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/d20e63a2333cba82ffafc300b7eabb2a_3124920198368817077.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "你还好吗？小心风沙哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/359baeb21a8a7a9b88af0bed099b7e85_8783720037998915383.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好哦。欸？你盯着我看是…哦头、头发翘起来了吗？啊，先别看我，唔，我马上整理好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/9fe344bb6715b939a58cdcfab736f35f_4958971545466646135.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "唔…嗯…中午吃饼好呢，还是吃饭呢…要不吃豆泥吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/8027964c6c0618f9645db988e07d184e_1642438436074134191.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，今晚我在祖拜尔剧场有演出。给你两张剧票吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/626bc9b78076beebc0e0fa4bbc93f113_8285555609400228621.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "睡前把烦恼全部都倾诉掉，会睡得比较香哦。如果你愿意，我很乐意当你的听众。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/b8617d052926e40971caed7ac3dfa04a_32799331355216452.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露自己·肢体语言",
+          "text": "有时候，舞蹈比语言更能传达出心情，不知道该说什么好的时候，就跳舞吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/fbcae28559dddc64dac4786cdc75b79d_8775073629923140023.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露自己·舞蹈与知识",
+          "text": "探究知识需要很高很高的天赋，很多人拼了命地努力，结果劳累又沮丧…但跳舞就不一样了，就算看不懂门道，也能看个热闹。要是能从这份肢体动作中品味到艺术的美丽与价值，那我就更开心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/5d3101c0a2bf789f3e08046070b90d95_7153773836047837470.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·缓解生气",
+          "text": "你会生闷气吗？嗯，生闷气是不好的。来，跟着我做。先在身前用右手画一个大大的圆，然后，双手把讨厌的事都从胸口里取出来，放在圆里。接着，用力地推出去！怎么样，心情好起来了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/996f4794fc538c9bf378f9e902a27b56_716867424352483472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·外出冒险",
+          "text": "尽管我之前没离开过须弥城，但…我想和你一起去冒险。哦，到陌生的地方，我适应一下就好…唔，稻妻的沙滩下，真的不会有很大很大的沙虫，突然钻出来吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/eed0aad3e5f1cded0a76aeed9f92ad21_9017563345333112664.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我的神之眼是第一次登台跳舞时拿到的。我想，神明大人会成为我的观众，一定也认可了人类艺术的美丽之处吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/04b92c5c262d10f6d691b2e9056aad2a_2285375402156171407.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "努力没有结果，也是很正常的。就像我不管怎么努力，也没办法理解明论派的知识。嗯，这个时候晃一晃脑袋，让大脑转个弯，换个方向就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/0891aac3a389ada3b778b400aa42d1c8_8751736910163859277.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·晶蝶之舞",
+          "text": "晶蝶有各种各样的颜色，很漂亮。当你实在按捺不住好奇心，悄悄伸出手的时候，它们就会一下子跳起优美而迅疾的舞步，离你远去。啊，我要是会飞的话，就能学会晶蝶之舞了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/23ee1d1293efbbe231f628eae1305c96_3335770245782062100.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·帕蒂沙兰",
+          "text": "花神大人跳舞的时候，真正的帕蒂沙兰会在她踏足过的地上盛开。…啊，听起来就非常美好，真想见一见这样的场景。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/f039ea1c5d7cf6b8c698cebb25476fe0_6945700394793815627.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "教令院的人，我不太敢接触，毕竟他们对歌舞艺术的印象都不好。我常常会想，那他们会通过什么来解闷呢？呃…你说赛诺的话，会玩「七圣召唤」？真是不可思议呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/49a26a7a7cbee543a849741480762227_4660395108674321996.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "据说他是很厉害的植物学家。那他分辨蘑菇的本领肯定很厉害，至少不会吃到毒蘑菇…好羡慕呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/6964ed2d473b2c0b5202058fbd753499_6123548975764747653.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱…",
+          "text": "她偶尔会来看我的演出，是一位很热心的见习巡林员呢。她还提醒过我小心迷路，这是为什么呢？我也没有迷路过呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/386deb2bbac0359ff46cbc93eba64b2a_4406127629477403639.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "我听说是他建造了华美的艾尔卡萨扎莱宫，能建造出那样的作品，过程应该快乐又陶醉吧。就像我练舞的时候一样，只要一想到能跳给大家看，就充满了喜悦和动力呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/37571b641a06e2cc9c545499f4d39782_8818309591099301276.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "最近发生了那么多事情，总觉得很不可思议。我原本想为迪希雅和迪娜泽黛挑选一些合适的礼物。但我自己拿不定主意，嗯…要是把大巴扎朋友们推荐的品种全送去，又太多了。哎呀，到底该怎么办才好呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/fac45ad326269e09cad5498f247a1f1b_3073824372620826149.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "出手阔绰的多莉大商人也曾看过我跳舞。我记得，有一次她和祖拜尔先生商量了什么事情，之后就再也没来过了。会是什么事情呢？嗯…呃？你是说她可能想带我进行一场提瓦特巡演？不会吧，祖拜尔先生肯定帮忙拒绝了吧…应该拒绝了吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/04ee2a49ca5a861ee44719981de41b28_2785562263238399078.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "大巴扎的大家都很喜欢小吉祥草王大人，好想听听她对我跳的花神之舞的评价呀…啊！不、不，还是算了算了。她真的来了，我肯定会紧张得不得了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/9ac2e24e9754a92fdcd3efea726f77b2_3875615616404760141.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其一",
+          "text": "唔——啊！抱歉，我在想等下去吃什么好呢？有点出神了…你需要帮忙吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/8f11e892c7a8c67b841555e8d2771e7d_7037925394237047253.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其二",
+          "text": "我的老师教过我很多跳舞的要领，但她说，最重要的还是要把情感都投入到舞蹈里，因为这样才是最能打动人的。有所感，才能抒发。想要传达美丽的话，我就要成为美丽本身吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/d527563079bac7e79c5794344bc4bc5a_7102467741444018256.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其三",
+          "text": "有时候我会收到观众们的来信，说他们因为我的舞蹈打起了精神。我会和祖拜尔剧场的大家共同分享这份快乐。虽然在观众眼里，我是在台前的那一个，但在我心中，这永远是靠所有人的努力才能取得的成果。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/97f73101f8bf949b04d20f3ec7e722e8_2097761389390647410.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其四",
+          "text": "大巴扎有时候会有一些杂技表演，比如说不停抛起球来又不停接住。以前我也试过这个，但是不知道怎么回事就是接不住球，反而全掉头上了。当时祖拜尔先生他们都笑了起来。嗯…好像在他们眼里，我的身体协调能力应该特别强一样…暴露短处了呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/54b4e5bcd9f3d2a8710972e73d9a1210_7736247242808023539.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其五",
+          "text": "以前有人说我就像是暖阳下的绿洲，让人感到治愈与温暖。我多多少少会高兴一下，但我的追求、我试图向大家呈现的价值不止在此。不过，和你相处久了我才知道，被人照顾和关怀是这样的感觉。现在…现在，我感觉那个比喻更适合你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/77a89940a3b254adaf479ced531a7af3_9137097926753339360.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "妮露的爱好…",
+          "text": "我的人生就是跳舞，跳舞就是我的人生…到底该说哪个才比较好呢？哎呀，我果然不适合思考这些太有逻辑的东西。总之，我会一直跳下去的。用我的表演，让这份艺术之美被更多人看见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/961574838158f012e455b91d300e8682_356374098584475829.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "妮露的烦恼…",
+          "text": "我还是搞不懂哪些蘑菇有毒，哪些又没有…据说，颜色不管是鲜艳还是朴素的蘑菇，都有可能有毒。唔，好像明白了什么，又好像什么都没明白…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/81d1d368b6eb322b21382dfda156091d_1627336937440754019.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "甜食总能让人心情愉快，须弥大多数人都喜欢甜食哦！欸，你要不要也试试看？我可以给你一一介绍。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/f059a75f982121cc10a9c78da04045d9_3656279178541031877.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我有点难以接受菌菇那一类，主要是害怕。不是那种见到了想逃走的害怕啦。我…我是小时候误吃过毒蘑菇，在床上躺了好几天…如果你想尝一尝须弥的菌菇美食，要记得确保是无毒蘑菇哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/7b800c494dce2ff21228955ca01b038d_8157202101007189935.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "原来美食在舌尖起舞，指的就是这样的感觉…好神奇呀！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/21da7e4c91abc052321c1d129e121500_5945459744169863384.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "谢谢你。就像我不断练习跳舞一样，这道菜肴，一定也凝结着你的心血吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/45f48960112657edcc74d42c76894771_2263302235912019302.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "抱歉，可能是我最近胃口不太好，你别介意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/d614f6e29ce429e5b17960e42e64b96f_9045472441217416884.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "那个…生日快乐！我最近学会了一支新的舞蹈，想要跳给你看。呃，你问我紧张吗？呼——被你看出来了呀。因为，想要融合心意与技巧，不知不觉编得越来越难…总之，希望美好与快乐能永远留在你身边。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/5252372ae40882759b9d8938a38927d0_487075100188739102.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "啊，这是什么感觉？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/459aa2e6c7abb66f29683d048d670669_7973433061551743798.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "身体舒展开了，能比以往发挥得更出色吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/a18ef7ed88ca675ba7c684f577da1d50_5057302793407150093.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "我就像躺在一只大大的风史莱姆背上，好轻好轻。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/e9d7c364672101de85c10404ee0a76ea_3783350989886379573.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我喜欢和你待在一起。嗯…我也不知道为什么，总感觉好像有蝴蝶要从胸腔飞出来一般…还是让我跳一支舞给你看吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/87cc474e57ecb8ec8dcd799fe5c7e40a_2171913271223243953.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "来了哟。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/b937e61ee6a5e7d7b2ae75eb9d0506e2_4133243098090664410.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "准备跳喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/fbd5b79dc9321030c3596e2bae33a667_109781159111652429.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "全力以赴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/bc548613e0b74efb57536f1d4f548693_8141962196304993559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "和浪花共舞吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/a617a0624527545b82ea1f5559428981_3393584995611050587.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "请看好了哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/bf246f0f967e4bd8514e011ef8c625ad_7707268674401303304.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "这支舞，献给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/7df38e9690de8381b86d39bbde9b0887_3051734438582057003.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "都给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/eaab1fe116304fdeddcbbbafb0acc2d9_2031586438896657991.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "我来帮忙一起收吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/f067271153c0ebc8f34d1a2cdb265807_1886327802526709303.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇，是意外之喜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/28db6f31d9ed00655201c05916c3a2b1_1761861202217255663.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "唔，不用担心我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/c7d2d78ff6d846671d188ab563d82954_8523612522520198578.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "真伤脑筋呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/e201672323714c6e155b6464391fc97b_8519615962539576324.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "得快点深呼吸…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/a8769421f47f9a5676de6a53ad1f17f0_3365675892708837027.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别急，我来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/e0b0c440ef89e8420cccb052316ebd54_4821698657057842608.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "请让我来抵挡一阵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/7e120741fac0ea83cfe13a31f570186a_3521931307293664417.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还没来得及…谢幕…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/e98cc5d0261b785a12d0249052355c93_2875011704304903764.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "不能…继续跳舞了吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/98bcb85c91733ce1dfea4bfea82da1f6_8403588997697593479.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "美丽之物，不要远去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/62a00dfc20206970aed547071372aed3_1884791084335587085.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "啊，要稳住平衡。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/a2b24cc76c346553a60ed0dc7a024499_24885594191135734.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "有点…疼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/8977f7a83458f1d04831188ffe538236_6744059753397811559.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "今天要去哪里跳舞呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/ada53a7c85b852da596b88e4bfc5033b_5580794188060683394.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么我能帮忙的吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/9f4204a2854ce6fc975af16588141728_7939867452954309659.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "啊…是叫我吗？来啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/9f2d2311f4dc27216a780d1a4617964a_6039155452706147293.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我是来自祖拜尔剧场的妮露。今天上演的剧目是这一支舞。请你不要眨眼哦，要开始了——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/87cf56ce0241f763d8a951facf1c687c_871589910346197716.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·练习",
+          "text": "先这样…下一个动作是…这样吧，嗯…嗯！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/2160a41caa6254750889c8e424dcc3a1_3387276580816045187.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·困意",
+          "text": "深呼吸，吹一个大大的气球，把困意放进气球里，呼——气球飞走吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/2787a757d32e9ce2b7154992a4307e2c_8848971817378864973.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·休息",
+          "text": "这样清闲的日子倒也不错嘛，优哉游哉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/68665fb734fcee7edff133f19b1beb4a_5455038151353631582.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "天气和心情一样，有时候会变得阴沉沉的，但是不用着急，雨后的天空会更加澄澈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/fa4efa749c6b431730b10f8fda0f78aa_2665888136361169096.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "雷声有点恐怖呢，你会害怕吗？我可以分享你一个神奇的方法哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/139f85a818ce0dbaf895c51042643834_7668335672726640491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "欸？哇——下雪了。你听，下雪的簌簌声，加上旋转着的雪花，像不像自然的精灵在跳舞？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/0d8deabfa01469c8270a50d1d49c8273_8395374696208179982.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "阳光明媚的日子…晒得暖洋洋的。唔，会犯困…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/12b8648f2012b43e66fc888381b4dd6d_6336609940166099650.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "你还好吗？小心风沙哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/17906314456e4aaadaa014d2fb39c460_7918551379510618224.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好哦。欸？你盯着我看是…哦头、头发翘起来了吗？啊，先别看我，唔，我马上整理好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/8bf9f50ef883bd29e5d23e109b4ae985_7482189140610721702.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "唔…嗯…中午吃饼好呢，还是吃饭呢…要不吃豆泥吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/983bf3a16c305d728fb5d44e389623be_6356350705826806016.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，今晚我在祖拜尔剧场有演出。给你两张剧票吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/1d070e1f3bb4c6d900585c5405a9853c_8718894715657033514.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "睡前把烦恼全部都倾诉掉，会睡得比较香哦。如果你愿意，我很乐意当你的听众。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/c9f5628910dc9995fdaf969b4a9b8bf8_464674221573277703.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露自己·肢体语言",
+          "text": "有时候，舞蹈比语言更能传达出心情，不知道该说什么好的时候，就跳舞吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/e791cbb56504f2c314ee25d61509346f_3214597913230667347.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露自己·舞蹈与知识",
+          "text": "探究知识需要很高很高的天赋，很多人拼了命地努力，结果劳累又沮丧…但跳舞就不一样了，就算看不懂门道，也能看个热闹。要是能从这份肢体动作中品味到艺术的美丽与价值，那我就更开心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/84f5a504c460680f4c6580e84f5b561f_3399675015998224905.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·缓解生气",
+          "text": "你会生闷气吗？嗯，生闷气是不好的。来，跟着我做。先在身前用右手画一个大大的圆，然后，双手把讨厌的事都从胸口里取出来，放在圆里。接着，用力地推出去！怎么样，心情好起来了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/b6e7361bff798fbda097758cff45797f_1369179906247667330.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·外出冒险",
+          "text": "尽管我之前没离开过须弥城，但…我想和你一起去冒险。哦，到陌生的地方，我适应一下就好…唔，稻妻的沙滩下，真的不会有很大很大的沙虫，突然钻出来吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/46a34da055a71cc3f98e03fc7373f17f_8781512160160389679.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我的神之眼是第一次登台跳舞时拿到的。我想，神明大人会成为我的观众，一定也认可了人类艺术的美丽之处吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/2bb85033da16bd56e80ba56a17a70f02_1386781934230307117.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "努力没有结果，也是很正常的。就像我不管怎么努力，也没办法理解明论派的知识。嗯，这个时候晃一晃脑袋，让大脑转个弯，换个方向就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/0b1369b2afa2cfa9b69c1443bdf5a2be_2111074408066130503.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·晶蝶之舞",
+          "text": "晶蝶有各种各样的颜色，很漂亮。当你实在按捺不住好奇心，悄悄伸出手的时候，它们就会一下子跳起优美而迅疾的舞步，离你远去。啊，我要是会飞的话，就能学会晶蝶之舞了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/7b1858714663baa4a9d5588fabb6de8a_3037834443114116582.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·帕蒂沙兰",
+          "text": "花神大人跳舞的时候，真正的帕蒂沙兰会在她踏足过的地上盛开。…啊，听起来就非常美好，真想见一见这样的场景。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/6b6785130c8daa1d556b50ee95ba3fba_7414489243427080853.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "教令院的人，我不太敢接触，毕竟他们对歌舞艺术的印象都不好。我常常会想，那他们会通过什么来解闷呢？呃…你说赛诺的话，会玩「七圣召唤」？真是不可思议呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/1d02b065776caab49c2ccbf006fb1e55_6640291804379493291.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "据说他是很厉害的植物学家。那他分辨蘑菇的本领肯定很厉害，至少不会吃到毒蘑菇…好羡慕呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/09e90b9e99a8c2a62263feded563c9af_3547742244781286508.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱…",
+          "text": "她偶尔会来看我的演出，是一位很热心的见习巡林员呢。她还提醒过我小心迷路，这是为什么呢？我也没有迷路过呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/55a8f75e9fd3ae0168e4572e9f09083b_8266410528400522044.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "我听说是他建造了华美的艾尔卡萨扎莱宫，能建造出那样的作品，过程应该快乐又陶醉吧。就像我练舞的时候一样，只要一想到能跳给大家看，就充满了喜悦和动力呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/5d2890071b82773396551ee9a34d3956_1635903030150939368.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "最近发生了那么多事情，总觉得很不可思议。我原本想为迪希雅和迪娜泽黛挑选一些合适的礼物。但我自己拿不定主意，嗯…要是把大巴扎朋友们推荐的品种全送去，又太多了。哎呀，到底该怎么办才好呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/4a7c33eb1c60ad69d312201a60ccebca_2787677429088956459.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "出手阔绰的多莉大商人也曾看过我跳舞。我记得，有一次她和祖拜尔先生商量了什么事情，之后就再也没来过了。会是什么事情呢？嗯…呃？你是说她可能想带我进行一场提瓦特巡演？不会吧，祖拜尔先生肯定帮忙拒绝了吧…应该拒绝了吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/6f0703a9aae9972cbaa5ccc5191fc25f_1011302891108973554.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "大巴扎的大家都很喜欢小吉祥草王大人，好想听听她对我跳的花神之舞的评价呀…啊！不、不，还是算了算了。她真的来了，我肯定会紧张得不得了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/d196e6daab5d83e58634b2d3a356f752_1375017615427666778.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其一",
+          "text": "唔——啊！抱歉，我在想等下去吃什么好呢？有点出神了…你需要帮忙吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/5456ef5e179044550be9645d65932ef3_7484609384304171133.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其二",
+          "text": "我的老师教过我很多跳舞的要领，但她说，最重要的还是要把情感都投入到舞蹈里，因为这样才是最能打动人的。有所感，才能抒发。想要传达美丽的话，我就要成为美丽本身吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/cfb3a2caa7cc137e21830d34dd95fc55_4323712414546799924.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其三",
+          "text": "有时候我会收到观众们的来信，说他们因为我的舞蹈打起了精神。我会和祖拜尔剧场的大家共同分享这份快乐。虽然在观众眼里，我是在台前的那一个，但在我心中，这永远是靠所有人的努力才能取得的成果。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/6ac7b3da98969b383200adad1deb0ecf_4504660072121281155.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其四",
+          "text": "大巴扎有时候会有一些杂技表演，比如说不停抛起球来又不停接住。以前我也试过这个，但是不知道怎么回事就是接不住球，反而全掉头上了。当时祖拜尔先生他们都笑了起来。嗯…好像在他们眼里，我的身体协调能力应该特别强一样…暴露短处了呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/11dfa8b79c51df2d93d0dcef1575566b_7794157346823042311.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其五",
+          "text": "以前有人说我就像是暖阳下的绿洲，让人感到治愈与温暖。我多多少少会高兴一下，但我的追求、我试图向大家呈现的价值不止在此。不过，和你相处久了我才知道，被人照顾和关怀是这样的感觉。现在…现在，我感觉那个比喻更适合你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/0b8ab979d9f4d37efa73db13c1c92136_1328051038892128165.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "妮露的爱好…",
+          "text": "我的人生就是跳舞，跳舞就是我的人生…到底该说哪个才比较好呢？哎呀，我果然不适合思考这些太有逻辑的东西。总之，我会一直跳下去的。用我的表演，让这份艺术之美被更多人看见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/7f568e16b39e254939299c4a5b38be83_6211982589000369718.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "妮露的烦恼…",
+          "text": "我还是搞不懂哪些蘑菇有毒，哪些又没有…据说，颜色不管是鲜艳还是朴素的蘑菇，都有可能有毒。唔，好像明白了什么，又好像什么都没明白…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/ae11d617c92a73d6ac19b9eb71096743_1869222298839712125.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "甜食总能让人心情愉快，须弥大多数人都喜欢甜食哦！欸，你要不要也试试看？我可以给你一一介绍。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/431889eea336d3f14703006e77774033_5250774570463545206.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我有点难以接受菌菇那一类，主要是害怕。不是那种见到了想逃走的害怕啦。我…我是小时候误吃过毒蘑菇，在床上躺了好几天…如果你想尝一尝须弥的菌菇美食，要记得确保是无毒蘑菇哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/2c3954546aa2a698afa7a2cc56a22d64_1165510074233527092.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "原来美食在舌尖起舞，指的就是这样的感觉…好神奇呀！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/44ab9a33f18ad6aea3dc3e0e7be86e47_3819918979401512481.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "谢谢你。就像我不断练习跳舞一样，这道菜肴，一定也凝结着你的心血吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/60685b2343fb1d54b505a408c27b670d_8849409158207970237.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "抱歉，可能是我最近胃口不太好，你别介意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/829b33debc4ba01f283c49131b45b620_1739489289804403374.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "那个…生日快乐！我最近学会了一支新的舞蹈，想要跳给你看。呃，你问我紧张吗？呼——被你看出来了呀。因为，想要融合心意与技巧，不知不觉编得越来越难…总之，希望美好与快乐能永远留在你身边。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/aef4ef73d05b112585ad5821ca40375b_3046646908500109691.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "啊，这是什么感觉？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/b87a0bd0bbbc5c4c654662d9e63b7c23_2195719493625444727.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "身体舒展开了，能比以往发挥得更出色吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/9008b93fcb860ba0078ae7aa085a5474_3925014100606486045.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "我就像躺在一只大大的风史莱姆背上，好轻好轻。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/d876b3e86f98efba9fa944287d4a3cba_2201519762245502788.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我喜欢和你待在一起。嗯…我也不知道为什么，总感觉好像有蝴蝶要从胸腔飞出来一般…还是让我跳一支舞给你看吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/4651bc44949047e8d6eeab6f2dd6e55c_5590666610315163057.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "来了哟。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/cdf3b01038b1bf1e1d5254285df5aea7_3470856423233994303.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "准备跳喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/6ad50b2dc1023b0b33bcd10e697cb027_1454733388976300099.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "全力以赴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/02c8e1c06ca66b77f467dc11db91c80e_2499244397159911822.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "和浪花共舞吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/9dfc3705d49abca7fd8ae3b9bde26ab2_1099839738042048653.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "请看好了哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/38f266d330f0577117867ae478a2def1_647575465756579033.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "这支舞，献给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/591fbaa6d6b2fdace19616e0b2b2c712_2161883287506512046.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "都给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/b7d80527e0d9ecaf8bc4832b46a76fed_6182346541194153344.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "我来帮忙一起收吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/b33953717f66f31d30f2390908e59fc4_4675054221153476045.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇，是意外之喜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/06598a7270f8c73ac79dfe2653f2fcee_5187725792637738732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "唔，不用担心我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/a974117490ef125a083ca2bc87c72973_8469851171316699249.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "真伤脑筋呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/5b99e0a239d52ef07f7f2e776ec7a967_8202120738467631099.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "得快点深呼吸…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/be015b422eeefd6c1450af7d7eb7b820_5605627469296349256.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别急，我来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/c9637ebe347bd290da82284e9a8f1517_4259262724365337767.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "请让我来抵挡一阵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/488ac9da878855c58032b6b6d3f69126_3255871089227460580.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还没来得及…谢幕…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/2d9c75dbb48d0a2d1818c712863db1b4_221227253391973370.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "不能…继续跳舞了吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/f93bbc4f3125531f156ac95f125a4c16_890227559979423310.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "美丽之物，不要远去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/7523aadb30cb05811a39112986e59a9e_8701525899875431679.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "啊，要稳住平衡。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/6243087b2920090402da494a7474620d_2240640663329307167.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "有点…疼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/e04e0cb08db091b671b67c4741286607_5313651784524457153.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "今天要去哪里跳舞呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/0b83b56ee96a1fd84b44258d241d8d51_6039202752391212162.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么我能帮忙的吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/8a0f98a461cee8b76e036c54a3403069_2973034165205674683.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "啊…是叫我吗？来啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/8914fde9ce368d7de5d3d155e881b0e6_7675306082506035499.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "你好，我是来自祖拜尔剧场的妮露。今天上演的剧目是这一支舞。请你不要眨眼哦，要开始了——",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/4efad8a7a7b6e02e56f6605162854cb7_3513208800267365967.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·练习",
+          "text": "先这样…下一个动作是…这样吧，嗯…嗯！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/052cdf76a9db744d26f19ee6501e5891_1475574130445712428.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·困意",
+          "text": "深呼吸，吹一个大大的气球，把困意放进气球里，呼——气球飞走吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/e5454c5b451a24b7e587e3797e261bf0_6364719428607991564.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·休息",
+          "text": "这样清闲的日子倒也不错嘛，优哉游哉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/517a0a7a796d0649f9a2b87f7f31435c_9083257417194895029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "天气和心情一样，有时候会变得阴沉沉的，但是不用着急，雨后的天空会更加澄澈。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/ed549bda616482c5a07c8d585a89bc06_8863993106450794250.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "雷声有点恐怖呢，你会害怕吗？我可以分享你一个神奇的方法哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/ef025d9365a4778d43534eee81c911ec_3352515638013885845.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "欸？哇——下雪了。你听，下雪的簌簌声，加上旋转着的雪花，像不像自然的精灵在跳舞？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/1de02e6cd3b4f48033476578e681f960_2863482894666139627.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "阳光明媚的日子…晒得暖洋洋的。唔，会犯困…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/cc37c7b3617ad453c21607eb37b4f2ee_1815180132460328311.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "刮大风了…",
+          "text": "你还好吗？小心风沙哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/e397dbe912b5fe6686f1a3d8611e5e31_1944118104031466734.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "早上好哦。欸？你盯着我看是…哦头、头发翘起来了吗？啊，先别看我，唔，我马上整理好。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/96207b3a4e5cde765b051ffa99074300_7523293929248517472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "唔…嗯…中午吃饼好呢，还是吃饭呢…要不吃豆泥吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/d1a8d85135924c72fa05c3fe3d423132_3452019180602059571.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "晚上好，今晚我在祖拜尔剧场有演出。给你两张剧票吧？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/cb936e36c28092ae15fb7a9242c428ca_874425240040893386.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "睡前把烦恼全部都倾诉掉，会睡得比较香哦。如果你愿意，我很乐意当你的听众。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/9a59afa6fb66c86fe2f5ada27b12ff13_8740262735274579053.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露自己·肢体语言",
+          "text": "有时候，舞蹈比语言更能传达出心情，不知道该说什么好的时候，就跳舞吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/28142e1f07053d090d4f74c0a92fa268_1606148768288623181.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于妮露自己·舞蹈与知识",
+          "text": "探究知识需要很高很高的天赋，很多人拼了命地努力，结果劳累又沮丧…但跳舞就不一样了，就算看不懂门道，也能看个热闹。要是能从这份肢体动作中品味到艺术的美丽与价值，那我就更开心了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/3024f7a32ba492addc2afcdac2feb201_3440300163220955652.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·缓解生气",
+          "text": "你会生闷气吗？嗯，生闷气是不好的。来，跟着我做。先在身前用右手画一个大大的圆，然后，双手把讨厌的事都从胸口里取出来，放在圆里。接着，用力地推出去！怎么样，心情好起来了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/0f7b37486704798f6db1ae61358684e5_1657522720356730031.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·外出冒险",
+          "text": "尽管我之前没离开过须弥城，但…我想和你一起去冒险。哦，到陌生的地方，我适应一下就好…唔，稻妻的沙滩下，真的不会有很大很大的沙虫，突然钻出来吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/8152b7bb54fc2cee43f3df7a00fa1245_8105222266215105582.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "我的神之眼是第一次登台跳舞时拿到的。我想，神明大人会成为我的观众，一定也认可了人类艺术的美丽之处吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/325bfbb481cb800c8ace44fd679767fd_5007571482223831728.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "努力没有结果，也是很正常的。就像我不管怎么努力，也没办法理解明论派的知识。嗯，这个时候晃一晃脑袋，让大脑转个弯，换个方向就好了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/32dbf642508df1f8c3c2c32332f1b5b6_5300665259013557123.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·晶蝶之舞",
+          "text": "晶蝶有各种各样的颜色，很漂亮。当你实在按捺不住好奇心，悄悄伸出手的时候，它们就会一下子跳起优美而迅疾的舞步，离你远去。啊，我要是会飞的话，就能学会晶蝶之舞了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/65fe96f7552a78babb3e8571ebeb47a3_5427219600160807331.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻·帕蒂沙兰",
+          "text": "花神大人跳舞的时候，真正的帕蒂沙兰会在她踏足过的地上盛开。…啊，听起来就非常美好，真想见一见这样的场景。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/5b43e189de2cd4f8a34808b68b205239_1901742830354696606.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于赛诺…",
+          "text": "教令院的人，我不太敢接触，毕竟他们对歌舞艺术的印象都不好。我常常会想，那他们会通过什么来解闷呢？呃…你说赛诺的话，会玩「七圣召唤」？真是不可思议呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/f9604972696e320ae843d94d5cd825b0_8784414112018171196.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于提纳里…",
+          "text": "据说他是很厉害的植物学家。那他分辨蘑菇的本领肯定很厉害，至少不会吃到毒蘑菇…好羡慕呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/ca35890ae9f9633013be523389a6e108_6342909253500919052.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于柯莱…",
+          "text": "她偶尔会来看我的演出，是一位很热心的见习巡林员呢。她还提醒过我小心迷路，这是为什么呢？我也没有迷路过呀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/dd3611ff09989365e5004bd46e13122d_4498007262116120935.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于卡维…",
+          "text": "我听说是他建造了华美的艾尔卡萨扎莱宫，能建造出那样的作品，过程应该快乐又陶醉吧。就像我练舞的时候一样，只要一想到能跳给大家看，就充满了喜悦和动力呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/e8b3ce9bb787e730b022dc1c376051a0_6267344469896936846.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪希雅…",
+          "text": "最近发生了那么多事情，总觉得很不可思议。我原本想为迪希雅和迪娜泽黛挑选一些合适的礼物。但我自己拿不定主意，嗯…要是把大巴扎朋友们推荐的品种全送去，又太多了。哎呀，到底该怎么办才好呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/8941b312eb14d86d8c1c8e5887a93d72_2452630870861593804.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于多莉…",
+          "text": "出手阔绰的多莉大商人也曾看过我跳舞。我记得，有一次她和祖拜尔先生商量了什么事情，之后就再也没来过了。会是什么事情呢？嗯…呃？你是说她可能想带我进行一场提瓦特巡演？不会吧，祖拜尔先生肯定帮忙拒绝了吧…应该拒绝了吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/bcdb9b6dbd71d1be1c564bbcbe04d8b1_6459528051943762047.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于小吉祥草王…",
+          "text": "大巴扎的大家都很喜欢小吉祥草王大人，好想听听她对我跳的花神之舞的评价呀…啊！不、不，还是算了算了。她真的来了，我肯定会紧张得不得了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/1c7696ff9a29ff587d25c87155419435_4454100392610696840.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其一",
+          "text": "唔——啊！抱歉，我在想等下去吃什么好呢？有点出神了…你需要帮忙吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/748246d1b5353523d43b8d599e04b26a_6296697070612101626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其二",
+          "text": "我的老师教过我很多跳舞的要领，但她说，最重要的还是要把情感都投入到舞蹈里，因为这样才是最能打动人的。有所感，才能抒发。想要传达美丽的话，我就要成为美丽本身吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/ea8fccba749f6b30453973cf5b3c05f8_2715300748957890121.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其三",
+          "text": "有时候我会收到观众们的来信，说他们因为我的舞蹈打起了精神。我会和祖拜尔剧场的大家共同分享这份快乐。虽然在观众眼里，我是在台前的那一个，但在我心中，这永远是靠所有人的努力才能取得的成果。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/6f7efa31c29a4814ab0eacdcf30fbf35_7740926156641917112.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其四",
+          "text": "大巴扎有时候会有一些杂技表演，比如说不停抛起球来又不停接住。以前我也试过这个，但是不知道怎么回事就是接不住球，反而全掉头上了。当时祖拜尔先生他们都笑了起来。嗯…好像在他们眼里，我的身体协调能力应该特别强一样…暴露短处了呢。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/8f7603b106ea83c8ad72e5253d1a7758_8489715646761849660.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解妮露·其五",
+          "text": "以前有人说我就像是暖阳下的绿洲，让人感到治愈与温暖。我多多少少会高兴一下，但我的追求、我试图向大家呈现的价值不止在此。不过，和你相处久了我才知道，被人照顾和关怀是这样的感觉。现在…现在，我感觉那个比喻更适合你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/09a0f5da24d406d97d9e7d069989c820_4900684346748518803.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "妮露的爱好…",
+          "text": "我的人生就是跳舞，跳舞就是我的人生…到底该说哪个才比较好呢？哎呀，我果然不适合思考这些太有逻辑的东西。总之，我会一直跳下去的。用我的表演，让这份艺术之美被更多人看见。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/337e384f317f6156461a3e2ca67d40e2_644361041918345265.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "妮露的烦恼…",
+          "text": "我还是搞不懂哪些蘑菇有毒，哪些又没有…据说，颜色不管是鲜艳还是朴素的蘑菇，都有可能有毒。唔，好像明白了什么，又好像什么都没明白…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/384c7eee98690ea20f9d92d527b48a2d_569105171347911747.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "甜食总能让人心情愉快，须弥大多数人都喜欢甜食哦！欸，你要不要也试试看？我可以给你一一介绍。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/918985aef7295c5c5ffdd9868cbac618_6488473256196485219.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我有点难以接受菌菇那一类，主要是害怕。不是那种见到了想逃走的害怕啦。我…我是小时候误吃过毒蘑菇，在床上躺了好几天…如果你想尝一尝须弥的菌菇美食，要记得确保是无毒蘑菇哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/62ecf022b126efc045ae4e6384e41bc6_4760131966051420062.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "原来美食在舌尖起舞，指的就是这样的感觉…好神奇呀！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/2d6e5606028adbd6c9c9d6c34374bddd_2546496711262952849.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "谢谢你。就像我不断练习跳舞一样，这道菜肴，一定也凝结着你的心血吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/6cde1f19e9c66a716292bd8a999b3438_5954428913058516709.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "抱歉，可能是我最近胃口不太好，你别介意。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/66b85fb8fb0f153aa2867f1b770dee19_323427002895304545.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "那个…生日快乐！我最近学会了一支新的舞蹈，想要跳给你看。呃，你问我紧张吗？呼——被你看出来了呀。因为，想要融合心意与技巧，不知不觉编得越来越难…总之，希望美好与快乐能永远留在你身边。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/5ab7dcbed6a10f818a40f7550ec04b21_1348589018354418528.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "啊，这是什么感觉？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/5ee644d9f34b58753de23b6b025875fb_6855048188608741348.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "身体舒展开了，能比以往发挥得更出色吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/4861e80092fdcfbbfc779dbbfc55e33b_3106766746899687174.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "我就像躺在一只大大的风史莱姆背上，好轻好轻。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/dc4e56be3cc320ee080761c9fa24c9af_4410989120019199527.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我喜欢和你待在一起。嗯…我也不知道为什么，总感觉好像有蝴蝶要从胸腔飞出来一般…还是让我跳一支舞给你看吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/d51551aac365c1c9d272c6bb8f301734_7577646478834525436.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "来了哟。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/79d29018b3b5a992257441af12c5b097_7163366581058017850.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "准备跳喽。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/00eda588b47043e97b22ece0ff2a4837_3989189731761272622.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "全力以赴。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/b567364b2d60dc9edf9e3cdeca605367_3451341478883961629.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "和浪花共舞吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/d961b6f8ca5de71907181a7ef9c05827_7867912201306235623.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "请看好了哦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/119677cc8436276506488461f9c231f2_8508604922779698315.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "这支舞，献给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/753cfbaee1e1484411f26b04ef44b998_1280841771845037811.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "都给你。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/b7b27a21ec5fbb600a616c3129fafedb_6538772632233090567.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "我来帮忙一起收吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/70bd9fdd33fa6203259b7e3d2174c04f_5994173501202256805.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "哇，是意外之喜。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/2a898d0bfaf21befe86a60e77c5485c2_4999541467565235452.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "唔，不用担心我…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/513250b273e7f5c3f13450e34afebf37_1933390370520687968.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "真伤脑筋呀…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/296cef9f3732e6ee9a974c4d293de6a2_7099510781474511150.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "得快点深呼吸…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/42dfee0bf8a738219c2f023b0c11fbe2_678071259519379163.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "别急，我来了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/f683cad3bea9d642486cbad6e146da11_7793296074301498308.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "请让我来抵挡一阵！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/ae893201caa827a4caacad560c66fa9d_6828820040823089218.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "还没来得及…谢幕…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/324ca9f179ad667071fccd701a945e9c_45657616483840952.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "不能…继续跳舞了吗…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/b15f070f3fb552c8403d1303abca0132_5307021437463773540.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "美丽之物，不要远去…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/83e956b45618c2a221f26edc87bb1cff_4386085835898267398.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "啊，要稳住平衡。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/2958d0dbcab0f38fb23712330b71b8a2_960867777864617439.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其二",
+          "text": "有点…疼。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/6d71670265353931262ed1332005813d_3311498546293475451.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "今天要去哪里跳舞呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/e39483fe71663e5b21da8a8e64d1d98d_3547625299584494445.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "有什么我能帮忙的吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/15107d531ef1ded7889fe5557e25af08_780058042193439489.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "啊…是叫我吗？来啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/15/16576950/2c491364081946971f977548ec7e3ebe_5184764797350961176.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

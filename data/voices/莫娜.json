@@ -1,0 +1,1637 @@
+{
+  "id": "1057",
+  "name": "莫娜",
+  "alias": [
+    "莫娜"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我的名字是阿斯托洛吉斯·莫娜·梅姬斯图斯，意为「伟大的占星术士莫娜」。如果想找我占卜，记住我的名字是最基本的尊重…而且要一次性全念对！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/116dfca19ae5c60c952493c7e2f05da0_2388150007267137585.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·占卜",
+          "text": "占卜就是把既定的命运准确地展示出来。过度的修饰，只会让人们产生误解。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/90962b4c63f37bd6e04881fb21d98504_9172605448578804723.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·生活",
+          "text": "限制物欲是占星术士修行的一部分，只有简朴地生活，才能窥探到世界的真实。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/188930a466393d65538038063dc4b990_5345476549786422299.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·命运",
+          "text": "正是因为无法更改，无可违逆，只能接受，命运才会被称之为命运。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8f8eb7d2f2b2ef1224f4e3a954fbfd16_8510524100378891557.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "这么大的雨…不仅看不见星光，连水占盘都模糊了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cb7c8aed9317c70d11ae08c1b7fe6959_1276168796517588833.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这些落雷…究竟是从哪个星空降下的呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/27632afe35e4d22d2541d109b8f1bd16_2298400704943203941.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "纯净的融雪之水，很适合用在水占盘里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cb4b5b201938acf57a5d41c87406e851_7116555289907898221.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "嗯，是个无须占卜也能感觉到的好天气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/eccd506e73504a1af126a376322ed258_8735415662811079888.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "你来得不巧，清晨的启明星刚刚消失了…早餐？我，我已经吃过了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f0e7722c566d816ef51eb07ee09fc40b_8036163090085114286.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "已经正午了，去吃点东西吧，嗯？我…我吃份沙拉就行了，呃…简朴的生活是…是占星术士修行的一环！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3a52b0f1367876d1270f34d15ddf5759_1528780578840458593.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "入夜了，过会就可以开始占卜…呃，昨天的稿子我写了没…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/480b63465d51a1cc419455dd0325c2ac_773055904720592781.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "已经这么晚了，明天截稿的稿子一点没动…什么？你要去休息了？呜…我也想去睡觉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/364bc460f43e361093eb726f5aedf34d_7110662852430541547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜自己…",
+          "text": "占星术士的工作，是向人们明确地展示他们即将面对的命运，我也是这么做的…不过，总有些人不愿意接受。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e2039bd0b37b1aa3f8c93d629f6e5b18_8036674100525328200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·工作",
+          "text": "为什么要写稿，不用占卜来赚钱？…我才不会为摩拉而使用「水占术」…我也不是因为这个而学习「水占术」的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3efbe4f8c879748a8ee9505efb6cc25e_8134824662016198836.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·我的命运",
+          "text": "我不知道。除非万不得已，占星术士不会占卜自己的命运。老太婆以前说过，这种行为可能会导致命运的自相矛盾，很危险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/428e805afb23b2a5426097eef7397ace_1868637865595135915.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·你的命运",
+          "text": "你不是这个世界的人，所以我无法准确地为你预言。我只能告诉你，你要走的路还远未到尽头。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/3ae413342696eda29ec44f0a4ccd0717_5277592124680442511.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·嫌弃",
+          "text": "我刚刚拿到「神之眼」的时候，那个老太婆还假模假样地说什么「愿你求真之心永在」。结果这东西在「水占术」上一点用场都派不上，只会糊我一身水…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5fda3edd27ed93c95d235abcac00ce79_5389386352934180001.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·价值",
+          "text": "哎…不过，「神之眼」当成个小饰品，装在身上倒是无所谓。毕竟，这也算那个抠门老太婆破天荒送我的「教具」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8371e83f6643d74780d512695f98599f_7184534816578543902.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "你听说过「命之座」吗？占星术士认为，「命之座」是「神之眼」持有者的命运在星空上的映射，过去，现在和未来，所有的一切都在其中昭示。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a6cbddc192caaa5d86ccafce4e0a5758_5978957112622133855.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "欸——你身边带着的这个小家伙，到底来自哪里？无论我用什么方法，都没法找到一丝关于她命运的踪迹。\n\n…哈？你也不知道？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f0437696844bb42d33825416bfcd0e5b_3165726956439777506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "那位西风骑士团代理团长？她的「命之座」是「幼狮座」，象征着力量，还有过早担负的责任。「雄狮」早早离群，但她会继续成长，直到能完全继承狮群的荣耀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0fdb06d714145bbc3f519e7fb60926d2_6221218113654479353.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "阿贝多？啊…我真羡慕他，只用专注于研究就好，不用管其他的杂事，真是美好的生活啊。如果那个老太婆脑筋正常一点，我应该也过着这种生活吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8d03a467084057590b4a195db239d30c_7925867390326032987.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "你是说，艾莉丝的女儿啊。她住在西风骑士团，还有阿贝多照顾…怎么说呢，哎…她的「命之座」不愧是象征着幸运的「四叶草」啊，真羡慕…\n\n啊不过，要是我也有这么好的运气，首先就不会遇见那个老太婆了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3dc94d5bd57c7041bf2384c35eb84fbe_4575333108582587795.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "迪卢克·莱艮芬德。「夜枭」是他的「命之座」，象征着黑夜中的警觉，和孤独的守望。在他所认可的白昼来临之前，他都将孤独前行。\n\n等等，「夜枭」象不象征财富来着？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c9b28a058f0cd2b630c222c8b715edde_2692403992940634692.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "凯亚·亚尔伯里奇吗？他的「孔雀羽座」象征着高贵，但同时也象征着「华丽的掩饰」。他以为已经和过去一刀两断。但到了命中注定的那天，他依然必须做出自己的选择。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/63fb5b02db0919bd1d413d09ac290560_2289925816514595792.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "她的「命之座」以「沙漏」为名，象征着知识、时间与等价交换。一粒沙子落下，时间…或者说生命，就消逝一刹。如果想要止住沙粒奔流，只能平放沙漏，让它永不流动。嗨…简单来说，就是变着法偷懒啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/420a3bb8d2c379feda1709b778fd0f7b_2728988450250499989.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "温迪？那个成天无所事事的吟游诗人？咦，他有什么有趣的吗？我占卜看看…\n\n咦，水占盘怎么…什么也看不清，怎，怎么起风了，眼睛都睁不开了！我的帽子！衣服，衣服要被吹跑了！停下来！我不干了！我不干了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5bcb446ae95cdea5a2a145c47d6af965_3155147835151025106.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其一",
+          "text": "你的意思是…想要闲聊？唔，我很少做这种浪费时间的事，而且稿子还有很多没写…嗯，不过，对象是你的话，也不是不行。呵呵，就当是换个心情吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/de70f2281d1964b9b48a672faa2e569e_598936392281648802.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其二",
+          "text": "占卜的收入…？不要用钱财这种…「东西」来衡量占星术！你听好了，我的「水占术」可是这片提瓦特大陆上，唯一能窥探到真实命运的占卜术！无论是摩拉还是宝石，都无法用来称量「命运」！所以，不要再问这种蠢问题了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d7e87e6a6705c3548abd450cfdb7165d_5358262729657866299.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其三",
+          "text": "我的占卜术？说了你也不明白，哼，不过…给你解释一下也不是不行。\n\n我使用的是「水占术」。是基由星空映射在水面上的幻象进行推演的占卜术，以水中幻相倒映虚假之天，以此来窥探着世界的真实。这是那个老太婆唯一一个正经的研究成果。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ba2844f6e7ec9294036711644b6ee6d8_4716875804323557312.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其四",
+          "text": "阿斯托洛吉斯·莫娜·梅姬斯图斯。这是那个老太婆之前和我一起定的名字，她说这名字的拼写里有一些她很喜欢的要素。哼，不过她有时会叫我「梅姬」，和常用的「莫娜」不一样，更像是小名…喂！你不能这么叫！很害羞的！早知道…早知道就不告诉你了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1e9036c1529b5754ebc7658c37672e37_7228602249480297506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其五",
+          "text": "占卜师有一个禁忌：在占卜时只陈述预言，绝不提出任何建议。以免自己也陷入别人的「命运」之中。但如果占卜对象是你，那这个「禁忌」就无所谓了。\n\n因为，我们的「命运」早就交织在一起了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8c9a9d9a546fffe9fef82d03d8befd7a_785910317002009597.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莫娜的爱好…",
+          "text": "我的爱好？仰望星空。在这个真实得太过分的世界里，每个人都需要仰望星空，更何况，我还是个占星术士。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4bc81f08afa62acb9354640f8658d1bd_8585016984938266916.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莫娜的烦恼…",
+          "text": "仪器修缮费，预订的星象仪要补款了，学术杂志的订购钱也没交，还有下个月的房租…到底先交哪个比较好。果然还是…先把星象仪的尾款补了，不然被抢购光了就糟糕了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5ba08ee829479ef9aa442c5df29c394c_8011214847667741859.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "沙拉，沙拉是天底下最棒的食物。原料便宜，容易做，饱肚子。而且吃起来很方便，在写稿或者修理仪器的时候，可以很快吃掉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/21a390dc62d912d6da5225e484912688_3038623433851243467.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "各种…价格很昂贵，吃起来又很麻烦的食物。因为，呃…用摩拉去满足不必要的食欲，是低俗又危险的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/09d0a334837898b3e8e1889c82cbe130_7308360116092428194.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "啊，好满足——没想到，认识你还是挺不错的嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e0726a1c630b720f3765acdd71cb006d_8223721367072114761.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "我再确认一下。真的是…你请客吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d5789fea6817c0e414a5c5f70d90e137_5938866589097569545.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "我没有什么想挑剔的。就是…唔…没怎么吃饱。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/aa1906222245bbdac9bfacf2fc524e2b_7728033573914775236.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。这个袋子给你，里面有一个帮你渡过难关的「建议」。别着急打开，在往后的一年之内，这个袋子会有自己打开的机会。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/82238bd99237da6b6902d3c40788ef87_8632538537642386788.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "命中当如此，我早已预知到了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7979892fa8223231aef04e21ca802d10_6725067527380096161.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "…再进一步，就能找到世界的真实了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d99ca3905f45714646af8b4ed9b0f0d9_1170460475145041756.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "虚假之天，星空下的命运早已注定。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5655e0b30f6e06407cab01821a2db8d8_2194487664090531838.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "水中之影，涟漪中窥见启明星升起。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/670271a7e9d6cad20cfeab01a392357a_6084528570868878769.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "水中幻愿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4368f211526a516a60cff22b35dba996_6016663699003358816.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "…命运的虚影。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/da4a07b236ef60134a5099771cad0cad_7336755019197918088.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "命运，倒映水中。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/099fd89b1e2ae83a080f94e4601a58fb_5241974459905343903.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "命运，在此显现。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5b8626d388a9f972f21979f4761cf4c7_4521041303108617967.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "命定于此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2bc17301e8dffaf92be91e81514d62da_1513906519467206693.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "天命既定！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5e6ec038d35fe3ce37c982a8c76edc56_8687411514306814732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "这样更能看清星空了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/98c9d629dfee67c23293a1de2d8d30d1_6740667731669093427.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "希望这种好事能多来几次…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5d627619a217c7374c520d9be7d25d74_4816341015428991819.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "房租和伙食费，都有着落了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a2fdebd12785d375d046a6c16bb6957c_3514577627286401280.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "呜…找到宝物的感觉真棒啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d2c019bfe4eb6c89083f5a31676f9025_5953850114386717025.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "无法判断…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5fbed86512feb40de080509c657d38c2_6049877858218100952.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "讨厌的命运…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c53245266e5154eb82b98d30faf724a9_9081541345794931163.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "还没…推算到这！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b0f578d947bf5a1f1459835fc3b06745_4743077102120827067.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "再硬撑，你就会倒下咯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/d0e582e5a776fa4dbf45208aa1cdd418_5307649703391562707.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "你还没到命运的终点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/4313b3f314cc2d04d8c8efab203d0d04_3127562261585995789.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "星空…黯淡…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/33869a935024c1dcf34c3d44840b3717_2018251551845636075.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "无法违抗的…命运…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bbee49223004b55811e0d53000cc71e6_7568241688529896192.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "推算结束了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6c602b7847f75189d0ec93192d897f0f_5676295113335746257.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "烦人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/abfe0c9f9f9b1793e3675307e1ccdba8_2630223312574935281.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "离我…远点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2ab3cbfdfb70c9343711bd7bf276e45e_3251273639061898747.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "此乃，命运。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/91d211d207ce5fec38bf968483f331e3_2722442972243938931.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "真没办法。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ea0e551cca9a4507e8debf819d83674d_6296666648108283217.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "繁星，尽在掌握。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4f96ce3da922e40cc372fc97d02d3b7b_1982008730732983433.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我的名字是阿斯托洛吉斯·莫娜·梅姬斯图斯，意为「伟大的占星术士莫娜」。如果想找我占卜，记住我的名字是最基本的尊重…而且要一次性全念对！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f938396f950f5575836a5203ed403731_3024171608360553969.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·占卜",
+          "text": "占卜就是把既定的命运准确地展示出来。过度的修饰，只会让人们产生误解。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ebf2a26980628d06da8874e66b17e26b_6565127706533306304.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·生活",
+          "text": "限制物欲是占星术士修行的一部分，只有简朴地生活，才能窥探到世界的真实。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/260dd9c0a9733d9e3f684c73d73351b0_9030948980692535194.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·命运",
+          "text": "正是因为无法更改，无可违逆，只能接受，命运才会被称之为命运。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bf401c28fce61f37c53a8dd58b8fd9c9_2288842106584165045.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "这么大的雨…不仅看不见星光，连水占盘都模糊了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/40b4787e639465d57a201e5445179560_6933194637692693267.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这些落雷…究竟是从哪个星空降下的呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/71939f1759f12f8a7cdd0cf984d15686_3524800454593796751.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "纯净的融雪之水，很适合用在水占盘里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1c75e7512dfda3793d3a53a4f2ed1d9e_14481399376877317.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "嗯，是个无须占卜也能感觉到的好天气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b73a73202a3a13ac59cad95d22a685b8_7048531291092603355.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "你来得不巧，清晨的启明星刚刚消失了…早餐？我，我已经吃过了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ba49c24e0715c577b9d890df287d8b1b_4955881747519749391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "已经正午了，去吃点东西吧，嗯？我…我吃份沙拉就行了，呃…简朴的生活是…是占星术士修行的一环！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aad88c5e504a2133ea0f15dd4692302d_1660465585785318326.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "入夜了，过会就可以开始占卜…呃，昨天的稿子我写了没…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a2f90f495cf6a8542e0406ba688238b2_4289491625769971879.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "已经这么晚了，明天截稿的稿子一点没动…什么？你要去休息了？呜…我也想去睡觉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5663c751c4582eaba5cd8d05d6ec09e4_1381553556008675499.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜自己…",
+          "text": "占星术士的工作，是向人们明确地展示他们即将面对的命运，我也是这么做的…不过，总有些人不愿意接受。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3f1b6a6a70b8f57e8b11727646c81891_1142412763918570079.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·工作",
+          "text": "为什么要写稿，不用占卜来赚钱？…我才不会为摩拉而使用「水占术」…我也不是因为这个而学习「水占术」的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/29aa19c40d802f17493911a5bb7aa594_2656629816621580984.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·我的命运",
+          "text": "我不知道。除非万不得已，占星术士不会占卜自己的命运。老太婆以前说过，这种行为可能会导致命运的自相矛盾，很危险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d6c6511ae29809f861a780a8a3f2576c_2219221646497052518.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·你的命运",
+          "text": "你不是这个世界的人，所以我无法准确地为你预言。我只能告诉你，你要走的路还远未到尽头。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/aef480223c57d45f003d15df723641aa_5040347191275216145.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·嫌弃",
+          "text": "我刚刚拿到「神之眼」的时候，那个老太婆还假模假样地说什么「愿你求真之心永在」。结果这东西在「水占术」上一点用场都派不上，只会糊我一身水…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f480a8901673e5b392591ae6f70cea9a_6323052868174588303.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·价值",
+          "text": "哎…不过，「神之眼」当成个小饰品，装在身上倒是无所谓。毕竟，这也算那个抠门老太婆破天荒送我的「教具」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cfd6cdc21392460d91c2de73ab76cd01_2205434810614301097.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "你听说过「命之座」吗？占星术士认为，「命之座」是「神之眼」持有者的命运在星空上的映射，过去，现在和未来，所有的一切都在其中昭示。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a83be7bc667f03ffa8db490d03fda4cc_8613629150004045805.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "欸——你身边带着的这个小家伙，到底来自哪里？无论我用什么方法，都没法找到一丝关于她命运的踪迹。\n\n…哈？你也不知道？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4ab1b324c6e51d8dd2f450cd57783710_901704482291121613.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "那位西风骑士团代理团长？她的「命之座」是「幼狮座」，象征着力量，还有过早担负的责任。「雄狮」早早离群，但她会继续成长，直到能完全继承狮群的荣耀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9e91ff04ee437c8ac18d1c98a41a87f9_6259416304842858435.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "阿贝多？啊…我真羡慕他，只用专注于研究就好，不用管其他的杂事，真是美好的生活啊。如果那个老太婆脑筋正常一点，我应该也过着这种生活吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d382bb6638fb03057eefded3364e8810_2109979795852374562.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "你是说，艾莉丝的女儿啊。她住在西风骑士团，还有阿贝多照顾…怎么说呢，哎…她的「命之座」不愧是象征着幸运的「四叶草」啊，真羡慕…\n\n啊不过，要是我也有这么好的运气，首先就不会遇见那个老太婆了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2a9f73a3d7735f56a17d93caf197b24e_8390063989293076576.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "迪卢克·莱艮芬德。「夜枭」是他的「命之座」，象征着黑夜中的警觉，和孤独的守望。在他所认可的白昼来临之前，他都将孤独前行。\n\n等等，「夜枭」象不象征财富来着？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cf7327c36b0cf825dc26524eedc1901e_5373812332003494643.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "凯亚·亚尔伯里奇吗？他的「孔雀羽座」象征着高贵，但同时也象征着「华丽的掩饰」。他以为已经和过去一刀两断。但到了命中注定的那天，他依然必须做出自己的选择。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2136aa17f883036728bff5ac4dadc918_3262361880821975065.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "她的「命之座」以「沙漏」为名，象征着知识、时间与等价交换。一粒沙子落下，时间…或者说生命，就消逝一刹。如果想要止住沙粒奔流，只能平放沙漏，让它永不流动。嗨…简单来说，就是变着法偷懒啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/fcfed75fb47864d3d47d2d51fc23f731_8668788782327763421.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "温迪？那个成天无所事事的吟游诗人？咦，他有什么有趣的吗？我占卜看看…\n\n咦，水占盘怎么…什么也看不清，怎，怎么起风了，眼睛都睁不开了！我的帽子！衣服，衣服要被吹跑了！停下来！我不干了！我不干了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/06d6a36c3af25c7d0e8c25bb8bf0f79f_5637273497454413762.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其一",
+          "text": "你的意思是…想要闲聊？唔，我很少做这种浪费时间的事，而且稿子还有很多没写…嗯，不过，对象是你的话，也不是不行。呵呵，就当是换个心情吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/45122b23e036e847cfede4b170a99860_4316053671870714985.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其二",
+          "text": "占卜的收入…？不要用钱财这种…「东西」来衡量占星术！你听好了，我的「水占术」可是这片提瓦特大陆上，唯一能窥探到真实命运的占卜术！无论是摩拉还是宝石，都无法用来称量「命运」！所以，不要再问这种蠢问题了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ce57ddbb1d41f554add2c89db3b51cca_2055464533184274140.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其三",
+          "text": "我的占卜术？说了你也不明白，哼，不过…给你解释一下也不是不行。\n\n我使用的是「水占术」。是基由星空映射在水面上的幻象进行推演的占卜术，以水中幻相倒映虚假之天，以此来窥探着世界的真实。这是那个老太婆唯一一个正经的研究成果。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/16d04b6e59bf00b52102bf26f33746ba_9073313579100273538.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其四",
+          "text": "阿斯托洛吉斯·莫娜·梅姬斯图斯。这是那个老太婆之前和我一起定的名字，她说这名字的拼写里有一些她很喜欢的要素。哼，不过她有时会叫我「梅姬」，和常用的「莫娜」不一样，更像是小名…喂！你不能这么叫！很害羞的！早知道…早知道就不告诉你了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e2537d4ad9a172456a24719198c82b91_989377024001639312.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其五",
+          "text": "占卜师有一个禁忌：在占卜时只陈述预言，绝不提出任何建议。以免自己也陷入别人的「命运」之中。但如果占卜对象是你，那这个「禁忌」就无所谓了。\n\n因为，我们的「命运」早就交织在一起了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d895cb7838f6fb21336d59a3608d74d8_6659958265944194724.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莫娜的爱好…",
+          "text": "我的爱好？仰望星空。在这个真实得太过分的世界里，每个人都需要仰望星空，更何况，我还是个占星术士。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b155e9c5049225e99a1c387716b130d2_2104205065459290732.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莫娜的烦恼…",
+          "text": "仪器修缮费，预订的星象仪要补款了，学术杂志的订购钱也没交，还有下个月的房租…到底先交哪个比较好。果然还是…先把星象仪的尾款补了，不然被抢购光了就糟糕了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/68c2c4cdff4b8240cd856612919490b2_2347865205817706943.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "沙拉，沙拉是天底下最棒的食物。原料便宜，容易做，饱肚子。而且吃起来很方便，在写稿或者修理仪器的时候，可以很快吃掉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a7f5e142d943c723bb6e491230f967fe_1323011760138070680.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "各种…价格很昂贵，吃起来又很麻烦的食物。因为，呃…用摩拉去满足不必要的食欲，是低俗又危险的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1d67b4392261fb277496c5e173629039_3098282495412719394.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "啊，好满足——没想到，认识你还是挺不错的嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/21da3ab15bd52c33975fd1d15cfa8161_1575608307905500668.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "我再确认一下。真的是…你请客吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/c7b19e9e0e2bd04b2e94732898b7a106_1256147686284054172.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "我没有什么想挑剔的。就是…唔…没怎么吃饱。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/7a1ee07159c7ec34d961bf81cb312fe1_3111703855897356084.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。这个袋子给你，里面有一个帮你渡过难关的「建议」。别着急打开，在往后的一年之内，这个袋子会有自己打开的机会。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cdf47d7901dbad3bb313994cf5420ba6_1965044215637783803.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "命中当如此，我早已预知到了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f3abc165bc747f90a881d43d565740bf_4450569531097719062.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "…再进一步，就能找到世界的真实了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9e38e5ec9881844caaf3febd08c5188a_4628254060198623959.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "虚假之天，星空下的命运早已注定。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1b8970b85ad3e59f2d660967c5a0af89_2138518567429077276.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "水中之影，涟漪中窥见启明星升起。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b656bff62a2ff3d463072074b0a72ffa_3513443914322310447.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "水中幻愿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/89fa19f15db44c22a9f3ca7a1bf9dc07_5773314355426109259.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "…命运的虚影。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/178ea5074957631d0d6ceda832d0b1db_7353266192088245915.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "命运，倒映水中。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d061dec890705f2ae1d6438262660c7e_5852936079282911715.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "命运，在此显现。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c35ca5bc32f0c4a30d5b9d8eab1d7b26_6766229405403009295.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "命定于此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b3953f8a6cafa8744e22c88e4708c83a_3961456840767321200.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "天命既定！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5afdaa45ea36576d24f705dcca32f782_8514751122336274301.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "这样更能看清星空了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bb7fc89312416306b3fe4f1de58360c1_5909611548459590625.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "希望这种好事能多来几次…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ceebdf78c0c67a332272c0f3db1bf6b6_4062776566397981147.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "房租和伙食费，都有着落了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1d89d69366bd3466866be1b761fa26e7_8739728399830674689.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "呜…找到宝物的感觉真棒啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4cb7a094a3cb0eba70e501acf007f705_5091041151013451628.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "无法判断…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8f62cf0688b62940c061657cefa3ca39_5273650328652697980.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "讨厌的命运…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/46a784fcb32de475041ba0e3fb1b1776_7556303288881830953.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "还没…推算到这！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2d6f5da6bf0537a80eb224a4540527f3_9027573963809344590.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "再硬撑，你就会倒下咯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/e67434023496c4b2c3a087f29113489d_3010768295710003391.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "你还没到命运的终点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/ce93135b4ff3f3b691d6171b0f9c3740_5163212927005576629.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "星空…黯淡…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0afd7c7745ecc2d039d33ae9bc2924a1_7413428252928113936.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "无法违抗的…命运…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2502aacfb661da8118ea322722164141_1575429798966339830.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "推算结束了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c4a8d2f2156b5eba64532579bddca16c_5655022100625152420.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "烦人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/89c5d9e6c0d3d0241206e9c3046b75ad_2981218571512251467.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "离我…远点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1f07d606e2864c193f4b53b02a92db89_4436214117598745837.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "此乃，命运。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5daaef4ea50f649afb1ca3134bd338b3_1598240886360655207.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "真没办法。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/451d8e21263a5d274601405aa1468efc_7336866862894421480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "繁星，尽在掌握。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8062c7b2b46f5c8692625137dd65636b_7974868802260411261.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我的名字是阿斯托洛吉斯·莫娜·梅姬斯图斯，意为「伟大的占星术士莫娜」。如果想找我占卜，记住我的名字是最基本的尊重…而且要一次性全念对！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8db524bac5090b3ad2c70f3f5992570e_7663413903149228383.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·占卜",
+          "text": "占卜就是把既定的命运准确地展示出来。过度的修饰，只会让人们产生误解。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e03e98b16e31d5712a2657fddfea7120_7665669418198512445.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·生活",
+          "text": "限制物欲是占星术士修行的一部分，只有简朴地生活，才能窥探到世界的真实。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d4123ef94c13429f6fe702a23af22304_2910419637482665128.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·命运",
+          "text": "正是因为无法更改，无可违逆，只能接受，命运才会被称之为命运。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/31c8c1271eea5ba35bf7f69e2411b10a_6891083819041627862.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "这么大的雨…不仅看不见星光，连水占盘都模糊了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/91e828fe33735208d20d6a4e79e027b2_8646999741840526519.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这些落雷…究竟是从哪个星空降下的呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d906345c29c531c5a2fd81098ec0635c_5373682141542287506.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "纯净的融雪之水，很适合用在水占盘里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5c45114bb1204418d1513258fcb1cd80_6327968937600134730.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "嗯，是个无须占卜也能感觉到的好天气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3fa00984177905a58e15cd97a25c8a35_8363626391072498501.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "你来得不巧，清晨的启明星刚刚消失了…早餐？我，我已经吃过了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ed4bb4b61a2b0a33723608d11a9f6e06_1252086316997482784.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "已经正午了，去吃点东西吧，嗯？我…我吃份沙拉就行了，呃…简朴的生活是…是占星术士修行的一环！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bf4b38c47511ec2aebac17ecc8e4677a_2637243642140834729.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "入夜了，过会就可以开始占卜…呃，昨天的稿子我写了没…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/274fe234752a81a7970222a38c2911f1_1853287022017472060.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "已经这么晚了，明天截稿的稿子一点没动…什么？你要去休息了？呜…我也想去睡觉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/221c8b57bbff47f5b5716e74fe80073a_3543479293919614040.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜自己…",
+          "text": "占星术士的工作，是向人们明确地展示他们即将面对的命运，我也是这么做的…不过，总有些人不愿意接受。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cffee555b3ca9adc59be9b6793de6534_5034275976146728080.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·工作",
+          "text": "为什么要写稿，不用占卜来赚钱？…我才不会为摩拉而使用「水占术」…我也不是因为这个而学习「水占术」的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/95124f66ccdfd0dec59bf7d927fd897f_5288069823465352239.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·我的命运",
+          "text": "我不知道。除非万不得已，占星术士不会占卜自己的命运。老太婆以前说过，这种行为可能会导致命运的自相矛盾，很危险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/28bd393174c8d8834931e293ef7a01da_3498228326452475140.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·你的命运",
+          "text": "你不是这个世界的人，所以我无法准确地为你预言。我只能告诉你，你要走的路还远未到尽头。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/fd0b5077fa32a642beffa9710982d445_4894216667088766547.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·嫌弃",
+          "text": "我刚刚拿到「神之眼」的时候，那个老太婆还假模假样地说什么「愿你求真之心永在」。结果这东西在「水占术」上一点用场都派不上，只会糊我一身水…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f5edd4b56414baf97682979362aaa74e_6944245558560436921.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·价值",
+          "text": "哎…不过，「神之眼」当成个小饰品，装在身上倒是无所谓。毕竟，这也算那个抠门老太婆破天荒送我的「教具」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/abb9a3b23adb0585bc41463071b1ac84_4235729786990374715.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "你听说过「命之座」吗？占星术士认为，「命之座」是「神之眼」持有者的命运在星空上的映射，过去，现在和未来，所有的一切都在其中昭示。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/681a0ef9bb7688772e9587b32086b7fa_2009646434029355724.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "欸——你身边带着的这个小家伙，到底来自哪里？无论我用什么方法，都没法找到一丝关于她命运的踪迹。\n\n…哈？你也不知道？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2de16a0bad532216254afd01dd3f7cfc_1331526820657945139.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "那位西风骑士团代理团长？她的「命之座」是「幼狮座」，象征着力量，还有过早担负的责任。「雄狮」早早离群，但她会继续成长，直到能完全继承狮群的荣耀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/243c298a0c9c6d079e7ec8a69b1c1366_5308370241410495427.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "阿贝多？啊…我真羡慕他，只用专注于研究就好，不用管其他的杂事，真是美好的生活啊。如果那个老太婆脑筋正常一点，我应该也过着这种生活吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/736ca8263cb81ee28915d68c1d669996_5855967249492010176.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "你是说，艾莉丝的女儿啊。她住在西风骑士团，还有阿贝多照顾…怎么说呢，哎…她的「命之座」不愧是象征着幸运的「四叶草」啊，真羡慕…\n\n啊不过，要是我也有这么好的运气，首先就不会遇见那个老太婆了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bf692fb9ed5954f9a9c36e314e971ba0_113803875692975620.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "迪卢克·莱艮芬德。「夜枭」是他的「命之座」，象征着黑夜中的警觉，和孤独的守望。在他所认可的白昼来临之前，他都将孤独前行。\n\n等等，「夜枭」象不象征财富来着？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/37400c1b8340b456e9153820258b549f_6085280108697015993.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "凯亚·亚尔伯里奇吗？他的「孔雀羽座」象征着高贵，但同时也象征着「华丽的掩饰」。他以为已经和过去一刀两断。但到了命中注定的那天，他依然必须做出自己的选择。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e2d8ad2d78c0346c956cfb21818ea4cd_9116028855912550642.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "她的「命之座」以「沙漏」为名，象征着知识、时间与等价交换。一粒沙子落下，时间…或者说生命，就消逝一刹。如果想要止住沙粒奔流，只能平放沙漏，让它永不流动。嗨…简单来说，就是变着法偷懒啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e02d9e205eb398cc94e9855b262af31d_6209228629994048252.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "温迪？那个成天无所事事的吟游诗人？咦，他有什么有趣的吗？我占卜看看…\n\n咦，水占盘怎么…什么也看不清，怎，怎么起风了，眼睛都睁不开了！我的帽子！衣服，衣服要被吹跑了！停下来！我不干了！我不干了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3cc9f2b82aff634adffdd8dc4ff7608a_7986574674733494032.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其一",
+          "text": "你的意思是…想要闲聊？唔，我很少做这种浪费时间的事，而且稿子还有很多没写…嗯，不过，对象是你的话，也不是不行。呵呵，就当是换个心情吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/40eed0160c8ba4cfb103c63d05cd6e1e_8270293170724360918.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其二",
+          "text": "占卜的收入…？不要用钱财这种…「东西」来衡量占星术！你听好了，我的「水占术」可是这片提瓦特大陆上，唯一能窥探到真实命运的占卜术！无论是摩拉还是宝石，都无法用来称量「命运」！所以，不要再问这种蠢问题了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3ff04f14f16f6717e3b150737b48e68c_7133690245659641971.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其三",
+          "text": "我的占卜术？说了你也不明白，哼，不过…给你解释一下也不是不行。\n\n我使用的是「水占术」。是基由星空映射在水面上的幻象进行推演的占卜术，以水中幻相倒映虚假之天，以此来窥探着世界的真实。这是那个老太婆唯一一个正经的研究成果。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f042546c2c93b317749d2a3a9e687635_555523756499676919.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其四",
+          "text": "阿斯托洛吉斯·莫娜·梅姬斯图斯。这是那个老太婆之前和我一起定的名字，她说这名字的拼写里有一些她很喜欢的要素。哼，不过她有时会叫我「梅姬」，和常用的「莫娜」不一样，更像是小名…喂！你不能这么叫！很害羞的！早知道…早知道就不告诉你了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1f1502bed2d37859952e047a5946eca7_6819495121347936094.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其五",
+          "text": "占卜师有一个禁忌：在占卜时只陈述预言，绝不提出任何建议。以免自己也陷入别人的「命运」之中。但如果占卜对象是你，那这个「禁忌」就无所谓了。\n\n因为，我们的「命运」早就交织在一起了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b98ff0e3abf6f1226d0354d482e8e5d9_7204277448982992410.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莫娜的爱好…",
+          "text": "我的爱好？仰望星空。在这个真实得太过分的世界里，每个人都需要仰望星空，更何况，我还是个占星术士。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4ca8f86919777d5e1443dc92c1f5f1d2_422141021305433889.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莫娜的烦恼…",
+          "text": "仪器修缮费，预订的星象仪要补款了，学术杂志的订购钱也没交，还有下个月的房租…到底先交哪个比较好。果然还是…先把星象仪的尾款补了，不然被抢购光了就糟糕了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/963730410a42e12bf20255726d35add6_3884496214920436731.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "沙拉，沙拉是天底下最棒的食物。原料便宜，容易做，饱肚子。而且吃起来很方便，在写稿或者修理仪器的时候，可以很快吃掉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3f8b6b61748173e7868f1eda27fbcd5e_9065947894811112626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "各种…价格很昂贵，吃起来又很麻烦的食物。因为，呃…用摩拉去满足不必要的食欲，是低俗又危险的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9b96f0b00340148f5f38dd2eb6c5cbba_5972896449593395509.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "啊，好满足——没想到，认识你还是挺不错的嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/0d4d113032b689345f4d144f2b6a124d_3934967111773615247.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "我再确认一下。真的是…你请客吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/19b2e1699ad68d9387c4f5e583d4e588_1926383907560110876.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "我没有什么想挑剔的。就是…唔…没怎么吃饱。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/3a0b33c2238e5f9ed15099e0c1817f82_2376624663197795925.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。这个袋子给你，里面有一个帮你渡过难关的「建议」。别着急打开，在往后的一年之内，这个袋子会有自己打开的机会。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ecea5a5363dea4bb214f69004940342a_70621768105554204.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "命中当如此，我早已预知到了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/19701218ab7abac5807ef721d93e801c_3098149025330644012.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "…再进一步，就能找到世界的真实了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e7b65532d62e1523749e07357ddb3903_5355382269559342857.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "虚假之天，星空下的命运早已注定。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5a676405bfb90a6715d8c942f4e6afdd_5916445251044720214.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "水中之影，涟漪中窥见启明星升起。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/94bccca97bb03a6c8650b78fbf60e169_5009648299450957772.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "水中幻愿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/66d93dc5105d138954b784eae667125a_4482868671778285809.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "…命运的虚影。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dbfe278f99513137aaaa66596667c0d3_3584866205705942579.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "命运，倒映水中。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/24432b45b19f8bb26b02238219f3e8e3_722346112489017537.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "命运，在此显现。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8ada4b6eeef0e45255a553bb24d947b2_4671414162272712587.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "命定于此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a55e0681e3a14789b90cb24d48bf75d0_1488655603316324874.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "天命既定！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/96de5a8b834f88dc646cfd70e717c460_1604404437528274316.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "这样更能看清星空了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/a7e2eb7045564132151f63928fd12f5c_7240858192889860160.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "希望这种好事能多来几次…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c5d244ec6397eaec8448d606b3605498_57393323139545989.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "房租和伙食费，都有着落了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/50feedf6ac539c8c37c8b1923f414ce9_5908479632405356526.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "呜…找到宝物的感觉真棒啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1acc79de7dfeeb87d0b41eaf01ff9591_8046828718147262333.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "无法判断…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/77d29a7b1590cd1f524060688c2ef23c_5888657488219151270.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "讨厌的命运…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/95bd02882f930bc98b0cfd135d589fcc_1380820097811946029.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "还没…推算到这！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7c51a08d7039e55af159f4dece1078ff_3987723170378620619.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "再硬撑，你就会倒下咯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2558168ba3c2416c290b718c31008f00_2703437440812258345.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "你还没到命运的终点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/dbbde8b78d99fff28571ef643bfe7cac_1096029801122610640.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "星空…黯淡…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/cc59842c78aa681791e18affcee00a29_148886455044367900.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "无法违抗的…命运…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0f6442751d06ddeb9ae94516ecf1321a_5297995048579588238.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "推算结束了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/966e7e1380eed3e57896be122111a3b1_4918054596941780694.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "烦人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f14a7f82760771a6fafaf40265ac3565_4147535596861079314.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "离我…远点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9f8627f98293f4daf08e517dd077c0cb_5647245297271696146.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "此乃，命运。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/df93c3cccb65d4de0f5b9f5acb21bf77_448917891477124478.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "真没办法。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/aa8cdb79e18265a196ca3ca91e1e4a5e_6869222369722396655.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "繁星，尽在掌握。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/695c52b704117301a5c63a742f07bba0_9084634493217157986.mp3",
+          "audioName": ""
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "我的名字是阿斯托洛吉斯·莫娜·梅姬斯图斯，意为「伟大的占星术士莫娜」。如果想找我占卜，记住我的名字是最基本的尊重…而且要一次性全念对！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/06b8045b53ef174c72ac86b7b11197d3_9029359460541415093.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·占卜",
+          "text": "占卜就是把既定的命运准确地展示出来。过度的修饰，只会让人们产生误解。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bdf714741b563470bd893c47c951ee45_8008016523849147217.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·生活",
+          "text": "限制物欲是占星术士修行的一部分，只有简朴地生活，才能窥探到世界的真实。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ec66b43f491af745a7d101d5373b0a10_8758534940608175497.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "闲聊·命运",
+          "text": "正是因为无法更改，无可违逆，只能接受，命运才会被称之为命运。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5fe059854a084c24a1e40cad17520d72_2753709425531133640.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "这么大的雨…不仅看不见星光，连水占盘都模糊了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2aef7c7bd20114cdc3c7debb22be6f37_7480119537782026651.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "这些落雷…究竟是从哪个星空降下的呢？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e71611345eb9e43a0ad53de5f232ffdd_5811621074054974460.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "纯净的融雪之水，很适合用在水占盘里。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/02f5a52d38e3af11bd14657a9af9685a_5237062650739878419.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "阳光很好…",
+          "text": "嗯，是个无须占卜也能感觉到的好天气。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c8847aaa626a0db11ac522290d80ac97_3690197560171931626.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "早上好…",
+          "text": "你来得不巧，清晨的启明星刚刚消失了…早餐？我，我已经吃过了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/390480dff44b44ca6fd3a36f52c22888_6770236547267945610.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "中午好…",
+          "text": "已经正午了，去吃点东西吧，嗯？我…我吃份沙拉就行了，呃…简朴的生活是…是占星术士修行的一环！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e2afc988a59414f51d3f3634c7f934cf_571591514754212687.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚上好…",
+          "text": "入夜了，过会就可以开始占卜…呃，昨天的稿子我写了没…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/9cdabdb7be5b05069dc994cf84763ea2_7630571498927398034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "晚安…",
+          "text": "已经这么晚了，明天截稿的稿子一点没动…什么？你要去休息了？呜…我也想去睡觉…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7c1256a376a8cd5e9cfb20f292164225_2956809084721010425.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于莫娜自己…",
+          "text": "占星术士的工作，是向人们明确地展示他们即将面对的命运，我也是这么做的…不过，总有些人不愿意接受。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8c71fb9132f58e45a36638dc1c9c2fb2_747058872821210483.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·工作",
+          "text": "为什么要写稿，不用占卜来赚钱？…我才不会为摩拉而使用「水占术」…我也不是因为这个而学习「水占术」的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/915b01528d0c8c669f547e6205bc8166_3811690181693846313.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·我的命运",
+          "text": "我不知道。除非万不得已，占星术士不会占卜自己的命运。老太婆以前说过，这种行为可能会导致命运的自相矛盾，很危险。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/100048b51ec9a536570d6544ce2c7066_3382418770505018507.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于我们·你的命运",
+          "text": "你不是这个世界的人，所以我无法准确地为你预言。我只能告诉你，你要走的路还远未到尽头。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/2359163cf3367a2a7b1d36a5e23e66ef_7529518622760213119.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·嫌弃",
+          "text": "我刚刚拿到「神之眼」的时候，那个老太婆还假模假样地说什么「愿你求真之心永在」。结果这东西在「水占术」上一点用场都派不上，只会糊我一身水…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b22e297358078c1d7381febc89a6a305_2503736197268169774.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于「神之眼」·价值",
+          "text": "哎…不过，「神之眼」当成个小饰品，装在身上倒是无所谓。毕竟，这也算那个抠门老太婆破天荒送我的「教具」。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d9c806afe642f60cfe8e7c78bcf0ce48_4878889802065544376.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "你听说过「命之座」吗？占星术士认为，「命之座」是「神之眼」持有者的命运在星空上的映射，过去，现在和未来，所有的一切都在其中昭示。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/4f9d73132c7af5bcfac833ceaabb9389_6519572803043842480.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "欸——你身边带着的这个小家伙，到底来自哪里？无论我用什么方法，都没法找到一丝关于她命运的踪迹。\n\n…哈？你也不知道？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0cae8a2034d99b04f32ba63d774b8744_2041504277372842881.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于琴…",
+          "text": "那位西风骑士团代理团长？她的「命之座」是「幼狮座」，象征着力量，还有过早担负的责任。「雄狮」早早离群，但她会继续成长，直到能完全继承狮群的荣耀。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c255552dd2ad77917701657802f22066_3253618512025103569.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于阿贝多…",
+          "text": "阿贝多？啊…我真羡慕他，只用专注于研究就好，不用管其他的杂事，真是美好的生活啊。如果那个老太婆脑筋正常一点，我应该也过着这种生活吧…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/20ec12f8ec624f6e5864eb0d49da5773_6789166589067154097.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于可莉…",
+          "text": "你是说，艾莉丝的女儿啊。她住在西风骑士团，还有阿贝多照顾…怎么说呢，哎…她的「命之座」不愧是象征着幸运的「四叶草」啊，真羡慕…\n\n啊不过，要是我也有这么好的运气，首先就不会遇见那个老太婆了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f686fce52c3cd1fcd23763605e2c5ba2_4808710672421388800.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于迪卢克…",
+          "text": "迪卢克·莱艮芬德。「夜枭」是他的「命之座」，象征着黑夜中的警觉，和孤独的守望。在他所认可的白昼来临之前，他都将孤独前行。\n\n等等，「夜枭」象不象征财富来着？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/5633bec3340c57ae22b8cfffed1d41e1_9053729613384099158.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于凯亚…",
+          "text": "凯亚·亚尔伯里奇吗？他的「孔雀羽座」象征着高贵，但同时也象征着「华丽的掩饰」。他以为已经和过去一刀两断。但到了命中注定的那天，他依然必须做出自己的选择。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/1164e39b3686e35a4960a769a7f2aff7_2647294596313702320.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于丽莎…",
+          "text": "她的「命之座」以「沙漏」为名，象征着知识、时间与等价交换。一粒沙子落下，时间…或者说生命，就消逝一刹。如果想要止住沙粒奔流，只能平放沙漏，让它永不流动。嗨…简单来说，就是变着法偷懒啦。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/169dc842e05c7bcade338e3b01842080_3903907658435981825.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "关于温迪…",
+          "text": "温迪？那个成天无所事事的吟游诗人？咦，他有什么有趣的吗？我占卜看看…\n\n咦，水占盘怎么…什么也看不清，怎，怎么起风了，眼睛都睁不开了！我的帽子！衣服，衣服要被吹跑了！停下来！我不干了！我不干了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/42569883755d1eb192cd0be3e75b9410_4547969038739975386.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其一",
+          "text": "你的意思是…想要闲聊？唔，我很少做这种浪费时间的事，而且稿子还有很多没写…嗯，不过，对象是你的话，也不是不行。呵呵，就当是换个心情吧。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/db91982527f743fb4f170a7f7db24ee6_2328215700204881635.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其二",
+          "text": "占卜的收入…？不要用钱财这种…「东西」来衡量占星术！你听好了，我的「水占术」可是这片提瓦特大陆上，唯一能窥探到真实命运的占卜术！无论是摩拉还是宝石，都无法用来称量「命运」！所以，不要再问这种蠢问题了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ab3910e3956938f2c4fa40951c0bc125_6595489230886363354.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其三",
+          "text": "我的占卜术？说了你也不明白，哼，不过…给你解释一下也不是不行。\n\n我使用的是「水占术」。是基由星空映射在水面上的幻象进行推演的占卜术，以水中幻相倒映虚假之天，以此来窥探着世界的真实。这是那个老太婆唯一一个正经的研究成果。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2e67ac2858bd4e5012893dd83c241d13_4267791111294347207.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其四",
+          "text": "阿斯托洛吉斯·莫娜·梅姬斯图斯。这是那个老太婆之前和我一起定的名字，她说这名字的拼写里有一些她很喜欢的要素。哼，不过她有时会叫我「梅姬」，和常用的「莫娜」不一样，更像是小名…喂！你不能这么叫！很害羞的！早知道…早知道就不告诉你了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5fe2d83e717b125b76a6fb34c317b3b_1810287648441388247.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "想要了解莫娜·其五",
+          "text": "占卜师有一个禁忌：在占卜时只陈述预言，绝不提出任何建议。以免自己也陷入别人的「命运」之中。但如果占卜对象是你，那这个「禁忌」就无所谓了。\n\n因为，我们的「命运」早就交织在一起了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ffbeb34c22a3ae13ba513cda6eabdd04_3462922877972320783.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莫娜的爱好…",
+          "text": "我的爱好？仰望星空。在这个真实得太过分的世界里，每个人都需要仰望星空，更何况，我还是个占星术士。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7890218e7fc83fc3dff00c381b9a6834_7694238303685486240.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "莫娜的烦恼…",
+          "text": "仪器修缮费，预订的星象仪要补款了，学术杂志的订购钱也没交，还有下个月的房租…到底先交哪个比较好。果然还是…先把星象仪的尾款补了，不然被抢购光了就糟糕了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0bb94487064bbba2bf8e96d58191f63f_462158686926014925.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "沙拉，沙拉是天底下最棒的食物。原料便宜，容易做，饱肚子。而且吃起来很方便，在写稿或者修理仪器的时候，可以很快吃掉。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f84ab6c065c4e79de9feaeb31c3a3f5d_3076618970197418688.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "各种…价格很昂贵，吃起来又很麻烦的食物。因为，呃…用摩拉去满足不必要的食欲，是低俗又危险的。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/8c86024c828280ecc851deb3cf43eb24_7986545943597109002.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "啊，好满足——没想到，认识你还是挺不错的嘛。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/828dc91f8f3279aaf971f71e8bc70246_1614958064058460397.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "我再确认一下。真的是…你请客吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/82d0698036051b380adf55a72a63778e_1856257490652943594.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "我没有什么想挑剔的。就是…唔…没怎么吃饱。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/3f5a78c4542e56ebf7e1201f11edde13_7450337016308274407.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生日…",
+          "text": "生日快乐。这个袋子给你，里面有一个帮你渡过难关的「建议」。别着急打开，在往后的一年之内，这个袋子会有自己打开的机会。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/dcceab4d81a610d30f8b17610c5670b1_2376080439298855777.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "命中当如此，我早已预知到了。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/f4cb838961ee183f5b60581cec28c3d2_293042394438847404.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "…再进一步，就能找到世界的真实了吗？",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/51bd7c320deaf728bbb380c58e46c156_4738661132054643964.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "虚假之天，星空下的命运早已注定。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5405fe48acb2d39c0b417459eb5e8eb_7789452094575630737.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "水中之影，涟漪中窥见启明星升起。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/76d2e0e15b3345b0cd22d174941d0883_5779066404859974392.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "水中幻愿。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/2546398df45eebd5d99082561e23c881_460919823679658436.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "…命运的虚影。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/ff3b9c4615f3cfc1494bc93e19fcb44c_5661665966858241656.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "命运，倒映水中。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/3d5fa5518bc74320f26f1298126de317_8591213463006654764.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "命运，在此显现。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6a94bc36267efcf6dcf5e5fd57385c69_5188624150679530016.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "命定于此。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b8a31f8ade6428baf74f31c43fb0c14b_1703262340624148749.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "天命既定！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/932b7fbcf1514ee2b61d546375912448_6868723292529951536.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开风之翼·其一",
+          "text": "这样更能看清星空了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/c8f71da9fe39aab6cc113d46732d4b6f_5297903520310745061.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "希望这种好事能多来几次…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/6fe00c1f28a0b026b6601e4617587bf8_8664909072897719246.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "房租和伙食费，都有着落了！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/50d5d02b21b23dc4cfb3a3e2a749416e_8359591462629418901.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "呜…找到宝物的感觉真棒啊…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/7066d26dc29b1e096a61172267e55e45_3169322930709841886.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "无法判断…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/faf02b5a821b1b07e34baa3aa9abbac0_6460501069958863836.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "讨厌的命运…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/300ae23fe7b40f0417f3dad2cbca596a_5527364124692012472.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "还没…推算到这！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/bae3e5530f0ba689a773f9951e594191_1355389295962844611.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "再硬撑，你就会倒下咯。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/a83d0f64927fc49fe74d26461b120d99_8707028291854419740.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "你还没到命运的终点。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/10/31/16576950/787c6fb94c5a23eaacde844d8fdea26c_1941680042476745034.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其一",
+          "text": "星空…黯淡…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/0cce831fea9b64a2f37a66bfde9af8b5_6911936202732070491.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其二",
+          "text": "无法违抗的…命运…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/729d866b7641848ed723f95c60281057_3679319721835664156.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "倒下·其三",
+          "text": "推算结束了…",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/b3cba62cf164e53c7f6ba6cb118dd8f6_3064101465145597288.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "普通受击·其一",
+          "text": "烦人。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/e88cf810c801ba0f5b86044efbf98baf_7115973022327148433.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "重受击·其一",
+          "text": "离我…远点！",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/79459792c5b935648ef79e07d43162bd_3499782006398396901.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "此乃，命运。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/d5cace557b2fcaa8bbbcb4bebf64ec23_8034802433254303239.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "真没办法。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/da0338f353fc5a7b125a05931342e464_4018446314199005492.mp3",
+          "audioName": ""
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "繁星，尽在掌握。",
+          "audioUrl": "https://uploadstatic.mihoyo.com/ys-obc/2022/05/12/6276411/63f71492a095cc7ceace818620711506_4695739101433826969.mp3",
+          "audioName": ""
+        }
+      ]
+    }
+  ]
+}

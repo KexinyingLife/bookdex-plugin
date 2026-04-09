@@ -1,0 +1,1805 @@
+{
+  "id": "503613",
+  "name": "玛薇卡",
+  "alias": [
+    "玛薇卡"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "追寻火焰在时间长河中的足迹，我们将至黑之地以血泪铸成家园，而今，长路向前延续，旅途正待新篇。现任火神玛薇卡，助你的视野中再无漆黑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/be8426a17890a840035aff653b9e72b1_268725790233922218.mp3",
+          "audioName": "01初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·冒险",
+          "text": "探索与挑战…嗯，冒险家的生活很合我的胃口。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/338bb32d9b16d2877c28f13474a047ea_2993111841625822562.mp3",
+          "audioName": "02闲聊·冒险_cn.mp3"
+        },
+        {
+          "name": "闲聊·体验",
+          "text": "神明总是在天上待着，不常来地上走走可不行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/1419c5a8f0aa2ec0b2279887930211a1_7688551810883603542.mp3",
+          "audioName": "03闲聊·体验_cn.mp3"
+        },
+        {
+          "name": "闲聊·循光",
+          "text": "许多昆虫有循光而行的本能，人类也是如此，只是我们称那道光为「希望」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/fef6a624aae39d450b0c19e26d4896db_426675514211952012.mp3",
+          "audioName": "04闲聊·循光_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嗯——好凉快啊，纳塔可没有这样的好地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/42ac7c0a414e7c5da122cc5d4209328d_7126234616606134330.mp3",
+          "audioName": "05下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气真好，很适合户外观光。走，上车，跟我去跑两圈？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/1edfc1f48dce43290b25deb25414b0ff_8600509889243999232.mp3",
+          "audioName": "06阳光很好…_cn.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "湿漉漉的很不舒服吧？正好休息片刻，我用火帮你烘干一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/718924365601faa083876714dd4ef77d_6022564949099238062.mp3",
+          "audioName": "07雨过天晴…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "沙子是火焰与文明的天敌，唯有断壁残垣还在讲述着过往。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/be71f31860c2a3c4376a7c23c516f3a8_5715736172615842477.mp3",
+          "audioName": "08在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "醒过来的时候，我会把一天的计划在脑中快速过一次，然后…就会失望地发现，我必须起床了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d5c390cb8519135a90156f720fd1a9e6_3695656188947242748.mp3",
+          "audioName": "09早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "吃过午饭了吗？「沃陆之邦」送来了新鲜的水果，我感觉是很棒的餐后甜点，尝尝看吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/e162e47baf7baca617a167a6781e0fbc_9096999412850412072.mp3",
+          "audioName": "10中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "「回声之子」道路整修的方案及预算，嗯…哦，晚上好，已经这个时间了啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/fe34ad9b4de3dbc658f4bbeeb36dfb3e_5584800430208695790.mp3",
+          "audioName": "11晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安，我还要再忙一些事，就当是休息了。啊，我的意思是，「忙碌」对我而言是一种享受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/2d37b8baacafa17d701742fb88749cfa_569161238307146479.mp3",
+          "audioName": "12晚安…_cn.mp3"
+        },
+        {
+          "name": "关于玛薇卡自己·头发",
+          "text": "好奇我的头发？放心吧，这是种非常友善的火，一点都不烫，也不会引燃任何物品，它只会在敌人的身上展现出全部的威力——你明白我的意思吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/215d086374bd97f98453e21851aaba21_1250723387001791120.mp3",
+          "audioName": "13关于玛薇卡自己·头发_cn.mp3"
+        },
+        {
+          "name": "关于玛薇卡自己·留言",
+          "text": "纳塔历史上存在很多火神，他们都会选出最关键的知识与记忆放入圣火，提供给继位者学习。由于信息量很大，有时候甚至会影响到学习者的神智，所以我在火中留下了一句话——「成为火之前，请先为自我的存在而骄傲。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/b8d83ec0a63147af0eff62f63b871c21_910859665531816374.mp3",
+          "audioName": "14关于玛薇卡自己·留言_cn.mp3"
+        },
+        {
+          "name": "关于我们·执剑",
+          "text": "计划是最可靠的指引，但也绝非不可改动的神圣律令，我在五百年前无法预知你的到来，但当我见到并了解你之后，我就知道计划值得因你而变动。从结果上看，与你一同执剑，是无比正确的决断。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/3d39ce0f2a6126f0fb3b9da4a1c68e48_5152164116264047156.mp3",
+          "audioName": "15关于我们·执剑_cn.mp3"
+        },
+        {
+          "name": "关于我们·古名",
+          "text": "你可能还没有意识到「杜麦尼」这个全新的古名会在未来的纳塔留下多么重要的影响：之后的每一代人讲起「杜麦尼」的故事，就会提到这场战斗，提及每一位英雄，而「杜麦尼」会和「基扬戈兹」紧密相连，我们将会和纳塔一同存续到永远。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/8dc1f54ae6ea439fbc0b8105b1361ad6_7704658834270506913.mp3",
+          "audioName": "16关于我们·古名_cn.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "对人类来说，「神之眼」和「古名」都是来自神明的馈赠，区别在于前者赐予了元素力，而后者提供的则是精神上的支持。但我始终认为，有无身外之物的加持都不妨碍一个人变得伟大，成为英雄，因为更重要的东西，是炽热的「心」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/4b53c91f13f6ca062bf543ba2e14b095_4799652928607311748.mp3",
+          "audioName": "17关于「神之眼」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "小时候我父亲告诉我，一个木桶能装多少水，取决于最短的那块木板，但如果想要不断进步，就要甘愿成为那块最短的木板——承认自我的不足，向优秀者请教，这样的人并不是失败者，而是进取者。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/568405b07405aecd1ac23d1250b4180e_718529304864201637.mp3",
+          "audioName": "18有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "幼年的匿叶龙特别可爱，我的龙伙伴希塔塔特别特别黏人，只要看见我，不管离我多远，都会开心地冲进我怀里来。这让我妹妹伊妮有点嫉妒，所以她看到希塔塔跑过来的时候，她也会跑过来，我得同时接住他们两个，哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/006b2f43794b944db4128df378c39052_406368892192244015.mp3",
+          "audioName": "19感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "希诺宁是纳塔最优秀的工匠之一，不仅掌握古名的打造方法，还对秘源技术颇有研究，就算是需要创造前所未有的东西，她也勇于挑战，总能拿出好的结果，虽然过程通常会有点波折…嗯，比如改设计之类的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/815d3e3ed1998ab13eaf1fd570edeb96_4651376960939050469.mp3",
+          "audioName": "20关于希诺宁…_cn.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "很多人觉得她脾气古怪，难以相处，我认为只是普通的琐事不配让她放在心上。当真正需要她担心的事出现，她会有多认真，你们应该已经见识过了…有时候我觉得像她这样的性格很容易被卷入险境，所以我会向她隐瞒一些东西，可是…想要不被她洞察到也很难，她太敏锐了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/dc3893ecae7833194ad30ab5e34d9da9_462131850986721379.mp3",
+          "audioName": "21关于茜特菈莉…_cn.mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "能在深渊的影响下存活，本就是种奇迹，更令人感动的是，她在纳塔邂逅的人与龙，共同帮助她找到了活下去的「理由」。现在我已无须担心她的坚韧，但我还是想要尽我所能，为她留出一个更加温柔的「居所」——再坚强的人，也需要休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/b700d99601f63489cc1260ceba79d3f2_7484197828405985276.mp3",
+          "audioName": "22关于恰斯卡…_cn.mp3"
+        },
+        {
+          "name": "关于欧洛伦…",
+          "text": "在我看来，他的真实性格和外在表现出的东西相去甚远，他就像是一块被冰块包裹的熔岩，让他冷静下来的东西是族人与朋友，让他躁动不安的则是守护他们的冲动，与成为英雄的使命感…这种情绪并不理智，但又难能可贵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/b094a7cec958029c7a83f1a4ba133a8e_1241218358620749711.mp3",
+          "audioName": "23关于欧洛伦…_cn.mp3"
+        },
+        {
+          "name": "关于伊安珊·纠缠",
+          "text": "伊安珊刚刚获得古名参加归火圣夜巡礼的时候，总是被人当成软柿子，所以在团体赛的时候找她战斗的人非常多，虽然她每次都能赢，但也会消耗大量的体能，这也让她起初的成绩并不好。而越是这样，她就越容易被人缠上…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/222db08de9c314b43c4b6749ca07baa1_2312425746292057515.mp3",
+          "audioName": "24关于伊安珊·纠缠_cn.mp3"
+        },
+        {
+          "name": "关于伊安珊·证明",
+          "text": "我给了她建议，只要大家都知道她是个强者，就不会有那么多人找麻烦了。但我没想到的是，伊安珊沉思片刻，想到的方法竟然是在归火圣夜巡礼的时候和我打一场。哈哈哈，她的实力远超我的预料，这一场也很有效果，再也不会有人瞧不起她了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/c8d3d11f14dbb73df68a80e9220ef2d3_63322702020043984.mp3",
+          "audioName": "25关于伊安珊·证明_cn.mp3"
+        },
+        {
+          "name": "关于玛拉妮…",
+          "text": "她和图帕克的性格完全不同，却都继承了「沃摩延」之名。「团结」重要的并不是方式，而是内心中珍视友人与家园，愿意为此献出全力的精神…虽然我这么说，但当时的玛拉妮一定没想这么多，她只是很清楚，卡齐娜与她自己的生命同等重要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/4737befbd533f712256ccec4a99a5d1b_1735095533488295072.mp3",
+          "audioName": "26关于玛拉妮…_cn.mp3"
+        },
+        {
+          "name": "关于基尼奇…",
+          "text": "「马力卜」除了回火还有一个含义是「代价」，你们可能会疑问，相较于其他古名，这并非是一个表达积极含义的词语。但其实「代价」象征着时刻保持清醒，敢于分析现状，提出问题，哪怕是泼冷水和说丧气话，如果没有这样的人在，众人很容易因情绪而陷入死局，因小失大。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/9fc1aad204b3a985029d974a01c540e8_5675440010586869563.mp3",
+          "audioName": "27关于基尼奇…_cn.mp3"
+        },
+        {
+          "name": "关于卡齐娜…",
+          "text": "在你们帮助卡齐娜从夜神之国平安归来之后，我去了她家，和首领一起再次表达了歉意，还送去了一些慰问品。迷失在夜神之国的这段经历会在卡齐娜的成长中残留很多影响，而这些影响本不应该发生…我对此负有责任。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/c85b2a8bc8293bc8ab885abdea612cea_612627216932465317.mp3",
+          "audioName": "28关于卡齐娜…_cn.mp3"
+        },
+        {
+          "name": "关于瓦雷莎…",
+          "text": "归火圣夜巡礼举办期间，「倦意之屋」的消费都由我个人承担，但每次去结账的时候，都会发现有个客人点了八十人份的套餐。起初我还以为是大型的亲朋好友观光团，结果没想到…居然就是她一个人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/b62439379f349530667ba84db0ff31f0_7680705495149201247.mp3",
+          "audioName": "29关于瓦雷莎…_cn.mp3"
+        },
+        {
+          "name": "关于伊法…",
+          "text": "除了精湛的医术外，一个好医生往往拥有很强的沟通能力。而当与医患语言不通时，就需要更敏锐的观察力和同理心。这就是为什么伊法总是能和不同性格的人交上朋友吧。所以说，如有人或者龙和伊法关系不好…哈哈，我想应该不是伊法的问题。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/e13c062ef345a667c63639d55f0a7403_3517749415735490156.mp3",
+          "audioName": "30关于伊法…_cn.mp3"
+        },
+        {
+          "name": "关于「队长」…",
+          "text": "同样是五百年的时间，我想对他而言会更加漫长，当死亡的权利被剥夺，人生就成为了没有终点的旅途，人类的精神很容易就在这种虚无中耗竭。可是他依然抓住了唯一的胜利机会，获得了他所追求的圆满。我对像他这般的战士充满敬意。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/b620348a023c6e0fd48a485ecfc0ec01_2941432407473387748.mp3",
+          "audioName": "31关于「队长」…_cn.mp3"
+        },
+        {
+          "name": "关于尘世七执政…",
+          "text": "很遗憾，我对他们的了解甚至还不如你多，但我相信只有最优秀的领导者，才能让国度存续至今并且向前发展。在纳塔抗击深渊的历史告一段落之后，我也打算和其他国家建立更多联系，并为纳塔接下来的发展做好准备。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d7cea87e80542e0035edaf69581d7c1c_2413611586833157229.mp3",
+          "audioName": "32关于尘世七执政…_cn.mp3"
+        },
+        {
+          "name": "关于梦见月瑞希…",
+          "text": "我对这位稻妻客人印象不错。听说她初来纳塔的时候，对「流泉之众」那边的温泉颇为上心，还四处打听和温泉有关的技艺。但她的钻研不为谋利，而是旨在改善人们的精神状态。如此纯粹的目的，理应获得我们的敬重与帮助。\n说起来…稻妻的现任执政也喜欢泡温泉吗？要是此事属实，我似乎知道该如何和她拉近关系了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/79b03b4dfd149aed13302728a94a10aa_4924159811584597159.mp3",
+          "audioName": "关于梦见月瑞希…cn.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其一",
+          "text": "哦？没问题，我还挺喜欢讲故事的，只不过就这么讲未免单调了点，我们先去来上两杯吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d142a1d7921d968757535d1af13507f3_4731724516987995671.mp3",
+          "audioName": "33想要了解玛薇卡·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其二",
+          "text": "驰轮车的操控并不复杂，只要稍加练习就能驾驭，不过如果想要高速行驶，还需要加装许多安全配件。什么？你说我现在已经骑得很快了？用希诺宁的原话来解释——「你身强体壮，用不着这个。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/428455ab8bd70e4eee9987718ba17553_8597418938179323793.mp3",
+          "audioName": "34想要了解玛薇卡·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其三",
+          "text": "我的遗憾当然也有很多。因为使命在身，我无法为任何人驻足停留，我所积累的知识和力量能最有效率地解决问题，但很多时候人们需要的只是「陪伴」…在这方面，我让很多人失望过。优柔寡断只会带来更深重的痛苦，我唯一能做的就是克制。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/647eee3b7767d0dffe134938b1db4b1c_3078030451712241977.mp3",
+          "audioName": "35想要了解玛薇卡·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其四",
+          "text": "解放神座之力升上高空之后，我的灵魂也和地脉紧紧相连，我能感受到战士的热血，普通人的坚强，以及受害者的伤痛…亲历这些情绪，已经是第二次了，所幸有你和英雄们的帮助，这次的结局完全不同，这也证明了我们的坚持是有价值的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/185116069034d77c9b0a4d83f5dd0451_1424504689101164259.mp3",
+          "audioName": "36想要了解玛薇卡·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其五",
+          "text": "我作为火神最重要的职责已经告一段落，原本在这崭新的纳塔里并没有我的位置，我在几百年前就接受了这一切，而现在这种状态，反而让我有点手足无措…不过在你的身上，我已经看到了我应该前往的方向——去探寻，去学习，去拯救。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d49b4d18a9847f340a4f224482468aea_8915180951648746287.mp3",
+          "audioName": "37想要了解玛薇卡·其五_cn.mp3"
+        },
+        {
+          "name": "玛薇卡的爱好…",
+          "text": "变强。比如完成艰难的挑战，解开复杂的谜题，战胜强大的敌人…比起重复相同的事，成就感才是我的快乐源泉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/3cfb7522fba7c617235f0a88fff1bc8b_2185977888171899205.mp3",
+          "audioName": "38玛薇卡的爱好…_cn.mp3"
+        },
+        {
+          "name": "玛薇卡的烦恼…",
+          "text": "「『恐龙与遗迹侦探』由于人气不佳，决定不再制作拓展内容和解密合集…」这可是我最喜欢的桌面谜题，不能因为它的题目太难，规则难以理解，就认为它做得不好吧。唉，不过既然是销量原因也没办法，写一封匿名信鼓励作者吧，希望以后还能玩到他的新作。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/532e1ba5cce5cbf31d3d91ede6b9ecc3_878189787669961016.mp3",
+          "audioName": "39玛薇卡的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "哪怕是最简单的家常菜，每家人做出来的味道也不一样，有时候差别还很大。我在圣火竞技场吃过好几种炖肉，每种都很好吃，做法都有独到之处，但轮到我自己做的时候，我还是会选择我家的味道。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/2b9e6055f68a00bde9adcafbb34de20c_853028041884032745.mp3",
+          "audioName": "40喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我没有不喜欢的食材，但我比较反感形式大于内容的食物，比如要花三个小时才能走完全程的「正餐」…虽然能感受到厨师的创意与巧思，但我还是愿意将时间投入到更有效率的事情上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5d60ada9d9e45e5c7db2140954d2940d_5385636248988895258.mp3",
+          "audioName": "41讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "谢谢你，相当合我的口味，你有菜谱吗？我也想学学看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/33e2acfc1bf2df52022b03cd4e1ff4a1_6692310612350113291.mp3",
+          "audioName": "42收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "我大体满意，不过还能想到几个改进点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/2bb1d373c5aa00934ae8a4963ee5c766_5107885003926098170.mp3",
+          "audioName": "43收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "没想到吃起来还不坏，我能够接受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/ca0f8c5b0d7f9337a7e3321a59a568a3_8199402381993473378.mp3",
+          "audioName": "44收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "从今天开始，你可以把每个值得纪念的成就都写在纸上，保存到下一次生日的时候再拿出来，这样你就会拥有一份来自自己的生日礼物。希望这些记录，能够让你时刻记住，你有多么了不起，生日快乐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/4cbf5750b52684f8bfa53c6ec31fa11c_484126448987881338.mp3",
+          "audioName": "45生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "舒展筋骨的感觉，我喜欢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d840214875ff3b31eed9b130ce0db5eb_557591092293796877.mp3",
+          "audioName": "46突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "力量越来越强，不过我的实力还远不止此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/b9b7cf29fab8c8acb5b8c1920b6152cc_4138721280823889586.mp3",
+          "audioName": "47突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "火焰愈发澄澈，我的灵魂与肉体也愈发契合，这等力量，才是践行「领袖」职责的保证。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/e666053f33d1f9ee347b4fcf397de2b3_7138396440337668353.mp3",
+          "audioName": "48突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "自从与你相遇，我的力量再次获得了质的飞跃。我们各自拥有不同的使命，是责任感与正义感将我们相连。对于你所提供的帮助，我感激不尽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/3fc34c742e4585a8abeab2a7156193a5_5185784238983456243.mp3",
+          "audioName": "49突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "点燃吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/08ea2e623cefcb82dd6f0a1773b0efe0_2579208867124173963.mp3",
+          "audioName": "50元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "焚灭不净！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/695c3914a48ed8336d1d18a599e3836a_3863880180016990212.mp3",
+          "audioName": "51元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "烈日随我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/90aa870ddb8133a1bed711e41072bb48_856071035636991768.mp3",
+          "audioName": "52元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "要加速了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/566fa554bf5307e6663c2c251e70e7ec_8592288046249639944.mp3",
+          "audioName": "53元素战技·其四_cn.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "动力全开！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/cd07d830e95d75adf567e5ebc1f8543d_1393143267021263493.mp3",
+          "audioName": "54元素战技·其五_cn.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "谁要阻拦？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/cc4a869b618c238e75226ed65ee2872d_3940492145532416238.mp3",
+          "audioName": "55元素战技·其六_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "恭听太阳的轰鸣！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/1b15b9147af2d3612e1ec23d154b51fb_7169683234460268266.mp3",
+          "audioName": "56元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "无赦天火！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/bf337a06b6997f25782474cbd95e99b6_264138802806708627.mp3",
+          "audioName": "57元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "埋葬于赤焰之下！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/e2fd0efe93818a55f929a12e8da77731_6613207357494204034.mp3",
+          "audioName": "58元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "冒险的嘉奖，很有纪念意义。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/7ae31820f2da395faa160761245b404d_6256510702670726562.mp3",
+          "audioName": "59打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "多了一份能加入收藏的东西。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/8fd8dfef98b2dd00f1cc5d64fcfde2cc_7666287870779586461.mp3",
+          "audioName": "60打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "还不错，我很喜欢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5e02167057b09dec15a80c7971d9cb28_5863827005786167260.mp3",
+          "audioName": "61打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不能再失误了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/a6717f8b8d4ea1856934f0e4c85fbfb3_3975364358645576360.mp3",
+          "audioName": "62生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "需要调整。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/17/16576950/9ec9c709e9bf69e2520cf8055a2c8cd5_3773870991943496533.mp3",
+          "audioName": "63生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "也该认真起来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/bee97334d821720627d655a13a665543_8230785351980222638.mp3",
+          "audioName": "64生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "战斗的事交给我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/717332542984f9ca68fd4ab766051f41_844032684229283367.mp3",
+          "audioName": "65同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "不要勉强自己。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/6803dc2e6e8e54095303cdeff3ce7089_6226320196396850265.mp3",
+          "audioName": "66同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "火，不会熄灭…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/8cf4f999dcac64347a6e9e5dbf89bb57_759428467258806422.mp3",
+          "audioName": "67倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "传承，终结了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/8ca0b2541b97ec52551d8a0fbe2478ed_4619166709217731850.mp3",
+          "audioName": "68倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "命运，如此？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5489e50e825ed3ff76e61b008c0d8a56_693547056531042989.mp3",
+          "audioName": "69倒下·其三_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不错啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/a35cee00c7dc2133c809a8ddbe293aa3_9138819875486421691.mp3",
+          "audioName": "70重受击·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "火神玛薇卡，参战。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/fa75de22a56a9b12833f83e5611b4777_2342642310592523250.mp3",
+          "audioName": "71加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "当然没问题。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/9aedec50f3f16ee73e20f7b788623ae1_6878379873909453598.mp3",
+          "audioName": "72加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我随时准备就绪。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/dc9144ca906e3535ed6f3e32414de48b_7926283372469491066.mp3",
+          "audioName": "73加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "追寻火焰在时间长河中的足迹，我们将至黑之地以血泪铸成家园，而今，长路向前延续，旅途正待新篇。现任火神玛薇卡，助你的视野中再无漆黑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/0b78efe7e4a1072aef60a75985a5d010_8266382433966022872.mp3",
+          "audioName": "01初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·冒险",
+          "text": "探索与挑战…嗯，冒险家的生活很合我的胃口。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/8cab15d4633ae4ec20f18e606f591bd9_8463721326405525085.mp3",
+          "audioName": "02闲聊·冒险_jp.mp3"
+        },
+        {
+          "name": "闲聊·体验",
+          "text": "神明总是在天上待着，不常来地上走走可不行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/a8e1e41f53283571854fef00bcbf40dc_8278049159350030045.mp3",
+          "audioName": "03闲聊·体验_jp.mp3"
+        },
+        {
+          "name": "闲聊·循光",
+          "text": "许多昆虫有循光而行的本能，人类也是如此，只是我们称那道光为「希望」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/fddad8fd4bf9ac2576da161cd4a53ecf_690957958387648408.mp3",
+          "audioName": "04闲聊·循光_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嗯——好凉快啊，纳塔可没有这样的好地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/8157106413253d6d7dc748a288fcad1e_1436555984718435983.mp3",
+          "audioName": "05下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气真好，很适合户外观光。走，上车，跟我去跑两圈？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/c43f1981ce9d1400f60cd971c5266992_7306804186187629479.mp3",
+          "audioName": "06阳光很好…_jp.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "湿漉漉的很不舒服吧？正好休息片刻，我用火帮你烘干一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/02cfa5de6987e4e88e8d45ce2016f9ce_405920184162572817.mp3",
+          "audioName": "07雨过天晴…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "沙子是火焰与文明的天敌，唯有断壁残垣还在讲述着过往。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/bce538d6b38f193d2d102603bf3bc335_3434486412461275989.mp3",
+          "audioName": "08在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "醒过来的时候，我会把一天的计划在脑中快速过一次，然后…就会失望地发现，我必须起床了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/a2df3fd95a1082b29c0f1db63c259b93_3589123730187692716.mp3",
+          "audioName": "09早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "吃过午饭了吗？「沃陆之邦」送来了新鲜的水果，我感觉是很棒的餐后甜点，尝尝看吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/e86ce77fa7e3ad809d979626e949cf8b_459559317611125498.mp3",
+          "audioName": "10中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "「回声之子」道路整修的方案及预算，嗯…哦，晚上好，已经这个时间了啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/2b4f0ec4fec9d552ccd4b0213e438029_2082115158249667351.mp3",
+          "audioName": "11晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安，我还要再忙一些事，就当是休息了。啊，我的意思是，「忙碌」对我而言是一种享受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/8f2f322072b0f2933bcf30f4c2b4dbac_7527778276154800650.mp3",
+          "audioName": "12晚安…_jp.mp3"
+        },
+        {
+          "name": "关于玛薇卡自己·头发",
+          "text": "好奇我的头发？放心吧，这是种非常友善的火，一点都不烫，也不会引燃任何物品，它只会在敌人的身上展现出全部的威力——你明白我的意思吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5e04581d6d5061af94df9076199e0850_2115344922464805838.mp3",
+          "audioName": "13关于玛薇卡自己·头发_jp.mp3"
+        },
+        {
+          "name": "关于玛薇卡自己·留言",
+          "text": "纳塔历史上存在很多火神，他们都会选出最关键的知识与记忆放入圣火，提供给继位者学习。由于信息量很大，有时候甚至会影响到学习者的神智，所以我在火中留下了一句话——「成为火之前，请先为自我的存在而骄傲。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/8a8dbe39fb205bb245f863d707b08cca_2370847308173973259.mp3",
+          "audioName": "14关于玛薇卡自己·留言_jp.mp3"
+        },
+        {
+          "name": "关于我们·执剑",
+          "text": "计划是最可靠的指引，但也绝非不可改动的神圣律令，我在五百年前无法预知你的到来，但当我见到并了解你之后，我就知道计划值得因你而变动。从结果上看，与你一同执剑，是无比正确的决断。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/8ff05a62c59342b381294782e3bbfc8e_3633265614806012888.mp3",
+          "audioName": "15关于我们·执剑_jp.mp3"
+        },
+        {
+          "name": "关于我们·古名",
+          "text": "你可能还没有意识到「杜麦尼」这个全新的古名会在未来的纳塔留下多么重要的影响：之后的每一代人讲起「杜麦尼」的故事，就会提到这场战斗，提及每一位英雄，而「杜麦尼」会和「基扬戈兹」紧密相连，我们将会和纳塔一同存续到永远。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/7b9ad9e6e1fcef800b236d77c64dc542_1425069500527385487.mp3",
+          "audioName": "16关于我们·古名_jp.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "对人类来说，「神之眼」和「古名」都是来自神明的馈赠，区别在于前者赐予了元素力，而后者提供的则是精神上的支持。但我始终认为，有无身外之物的加持都不妨碍一个人变得伟大，成为英雄，因为更重要的东西，是炽热的「心」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/4fa3ffd4a2b2de75d6b7ee6e331b89d6_4532283243848049662.mp3",
+          "audioName": "17关于「神之眼」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "小时候我父亲告诉我，一个木桶能装多少水，取决于最短的那块木板，但如果想要不断进步，就要甘愿成为那块最短的木板——承认自我的不足，向优秀者请教，这样的人并不是失败者，而是进取者。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/dbd92c1f3a4da4e7097909b9b5bf764e_7832753353095937956.mp3",
+          "audioName": "18有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "幼年的匿叶龙特别可爱，我的龙伙伴希塔塔特别特别黏人，只要看见我，不管离我多远，都会开心地冲进我怀里来。这让我妹妹伊妮有点嫉妒，所以她看到希塔塔跑过来的时候，她也会跑过来，我得同时接住他们两个，哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d4b887cc26c11b49e4e18204181a268e_8401332051980209383.mp3",
+          "audioName": "19感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "希诺宁是纳塔最优秀的工匠之一，不仅掌握古名的打造方法，还对秘源技术颇有研究，就算是需要创造前所未有的东西，她也勇于挑战，总能拿出好的结果，虽然过程通常会有点波折…嗯，比如改设计之类的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/438acd8c501cd0e1850a10bd4f6f7c9b_7072674617336733031.mp3",
+          "audioName": "20关于希诺宁…_jp.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "很多人觉得她脾气古怪，难以相处，我认为只是普通的琐事不配让她放在心上。当真正需要她担心的事出现，她会有多认真，你们应该已经见识过了…有时候我觉得像她这样的性格很容易被卷入险境，所以我会向她隐瞒一些东西，可是…想要不被她洞察到也很难，她太敏锐了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5610e3ed00e5f0f9fc51464aa9cccdb9_7900956757202247081.mp3",
+          "audioName": "21关于茜特菈莉…_jp.mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "能在深渊的影响下存活，本就是种奇迹，更令人感动的是，她在纳塔邂逅的人与龙，共同帮助她找到了活下去的「理由」。现在我已无须担心她的坚韧，但我还是想要尽我所能，为她留出一个更加温柔的「居所」——再坚强的人，也需要休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/76085bc3dd055813d3174e6069c1da56_9022922818558744497.mp3",
+          "audioName": "22关于恰斯卡…_jp.mp3"
+        },
+        {
+          "name": "关于欧洛伦…",
+          "text": "在我看来，他的真实性格和外在表现出的东西相去甚远，他就像是一块被冰块包裹的熔岩，让他冷静下来的东西是族人与朋友，让他躁动不安的则是守护他们的冲动，与成为英雄的使命感…这种情绪并不理智，但又难能可贵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/c95a2c85987e39ed10b97590c6391d0e_8140639447966358849.mp3",
+          "audioName": "23关于欧洛伦…_jp.mp3"
+        },
+        {
+          "name": "关于伊安珊·纠缠",
+          "text": "伊安珊刚刚获得古名参加归火圣夜巡礼的时候，总是被人当成软柿子，所以在团体赛的时候找她战斗的人非常多，虽然她每次都能赢，但也会消耗大量的体能，这也让她起初的成绩并不好。而越是这样，她就越容易被人缠上…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/3301994c08f10878fc2cb6b02ca3f69e_6625605961133291195.mp3",
+          "audioName": "24关于伊安珊·纠缠_jp.mp3"
+        },
+        {
+          "name": "关于伊安珊·证明",
+          "text": "我给了她建议，只要大家都知道她是个强者，就不会有那么多人找麻烦了。但我没想到的是，伊安珊沉思片刻，想到的方法竟然是在归火圣夜巡礼的时候和我打一场。哈哈哈，她的实力远超我的预料，这一场也很有效果，再也不会有人瞧不起她了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/208078ffce1ea5d729a997cc23fa47fe_7563907810318467587.mp3",
+          "audioName": "25关于伊安珊·证明_jp.mp3"
+        },
+        {
+          "name": "关于玛拉妮…",
+          "text": "她和图帕克的性格完全不同，却都继承了「沃摩延」之名。「团结」重要的并不是方式，而是内心中珍视友人与家园，愿意为此献出全力的精神…虽然我这么说，但当时的玛拉妮一定没想这么多，她只是很清楚，卡齐娜与她自己的生命同等重要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/dd0e12fa56c29044e44578a9f71a20b9_1699914715101264695.mp3",
+          "audioName": "26关于玛拉妮…_jp.mp3"
+        },
+        {
+          "name": "关于基尼奇…",
+          "text": "「马力卜」除了回火还有一个含义是「代价」，你们可能会疑问，相较于其他古名，这并非是一个表达积极含义的词语。但其实「代价」象征着时刻保持清醒，敢于分析现状，提出问题，哪怕是泼冷水和说丧气话，如果没有这样的人在，众人很容易因情绪而陷入死局，因小失大。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/4778097095ab15b4f776ebcaf155df79_9059212162806518212.mp3",
+          "audioName": "27关于基尼奇…_jp.mp3"
+        },
+        {
+          "name": "关于卡齐娜…",
+          "text": "在你们帮助卡齐娜从夜神之国平安归来之后，我去了她家，和首领一起再次表达了歉意，还送去了一些慰问品。迷失在夜神之国的这段经历会在卡齐娜的成长中残留很多影响，而这些影响本不应该发生…我对此负有责任。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/9bf61743558538614e1e568dd7bb02f6_6560155507589423906.mp3",
+          "audioName": "28关于卡齐娜…_jp.mp3"
+        },
+        {
+          "name": "关于瓦雷莎…",
+          "text": "归火圣夜巡礼举办期间，「倦意之屋」的消费都由我个人承担，但每次去结账的时候，都会发现有个客人点了八十人份的套餐。起初我还以为是大型的亲朋好友观光团，结果没想到…居然就是她一个人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/61d376278fe8461ff0ce9c3c5da4be24_1587885554207478186.mp3",
+          "audioName": "29关于瓦雷莎…_jp.mp3"
+        },
+        {
+          "name": "关于伊法…",
+          "text": "除了精湛的医术外，一个好医生往往拥有很强的沟通能力。而当与医患语言不通时，就需要更敏锐的观察力和同理心。这就是为什么伊法总是能和不同性格的人交上朋友吧。所以说，如有人或者龙和伊法关系不好…哈哈，我想应该不是伊法的问题。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/43ea815deed9e836d6c80b23da09efa5_4998364960491376748.mp3",
+          "audioName": "30关于伊法…_jp.mp3"
+        },
+        {
+          "name": "关于「队长」…",
+          "text": "同样是五百年的时间，我想对他而言会更加漫长，当死亡的权利被剥夺，人生就成为了没有终点的旅途，人类的精神很容易就在这种虚无中耗竭。可是他依然抓住了唯一的胜利机会，获得了他所追求的圆满。我对像他这般的战士充满敬意。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/385d70f9cf85a2a275ae304d6fcd4cdf_4168352646248320665.mp3",
+          "audioName": "31关于「队长」…_jp.mp3"
+        },
+        {
+          "name": "关于尘世七执政…",
+          "text": "很遗憾，我对他们的了解甚至还不如你多，但我相信只有最优秀的领导者，才能让国度存续至今并且向前发展。在纳塔抗击深渊的历史告一段落之后，我也打算和其他国家建立更多联系，并为纳塔接下来的发展做好准备。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/a3bf6991d93581ec3e58342756143c5a_171887818038459112.mp3",
+          "audioName": "32关于尘世七执政…_jp.mp3"
+        },
+        {
+          "name": "关于梦见月瑞希…",
+          "text": "我对这位稻妻客人印象不错。听说她初来纳塔的时候，对「流泉之众」那边的温泉颇为上心，还四处打听和温泉有关的技艺。但她的钻研不为谋利，而是旨在改善人们的精神状态。如此纯粹的目的，理应获得我们的敬重与帮助。\n说起来…稻妻的现任执政也喜欢泡温泉吗？要是此事属实，我似乎知道该如何和她拉近关系了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/15ae797ad30366f23f0d17db0c5d80cd_1850583824221275624.mp3",
+          "audioName": "关于梦见月瑞希…jp.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其一",
+          "text": "哦？没问题，我还挺喜欢讲故事的，只不过就这么讲未免单调了点，我们先去来上两杯吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/0651de7e04115ea73cb763c2610a4d32_1297921207449674876.mp3",
+          "audioName": "33想要了解玛薇卡·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其二",
+          "text": "驰轮车的操控并不复杂，只要稍加练习就能驾驭，不过如果想要高速行驶，还需要加装许多安全配件。什么？你说我现在已经骑得很快了？用希诺宁的原话来解释——「你身强体壮，用不着这个。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/3f10459bbe64f6a44ce0fd8bc4422e10_6293208162674880935.mp3",
+          "audioName": "34想要了解玛薇卡·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其三",
+          "text": "我的遗憾当然也有很多。因为使命在身，我无法为任何人驻足停留，我所积累的知识和力量能最有效率地解决问题，但很多时候人们需要的只是「陪伴」…在这方面，我让很多人失望过。优柔寡断只会带来更深重的痛苦，我唯一能做的就是克制。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5e288fc2612115dd82c1d4319de3d1bd_3313083465577288798.mp3",
+          "audioName": "35想要了解玛薇卡·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其四",
+          "text": "解放神座之力升上高空之后，我的灵魂也和地脉紧紧相连，我能感受到战士的热血，普通人的坚强，以及受害者的伤痛…亲历这些情绪，已经是第二次了，所幸有你和英雄们的帮助，这次的结局完全不同，这也证明了我们的坚持是有价值的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/0a9e902d37713333894849c989eddbe8_8234034111387004777.mp3",
+          "audioName": "36想要了解玛薇卡·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其五",
+          "text": "我作为火神最重要的职责已经告一段落，原本在这崭新的纳塔里并没有我的位置，我在几百年前就接受了这一切，而现在这种状态，反而让我有点手足无措…不过在你的身上，我已经看到了我应该前往的方向——去探寻，去学习，去拯救。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/1eacca4289edba3f7c37dc2fee71dd0e_4705945216309532718.mp3",
+          "audioName": "37想要了解玛薇卡·其五_jp.mp3"
+        },
+        {
+          "name": "玛薇卡的爱好…",
+          "text": "变强。比如完成艰难的挑战，解开复杂的谜题，战胜强大的敌人…比起重复相同的事，成就感才是我的快乐源泉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/56e140e350442b93409eca6183297242_6296470206055766179.mp3",
+          "audioName": "38玛薇卡的爱好…_jp.mp3"
+        },
+        {
+          "name": "玛薇卡的烦恼…",
+          "text": "「『恐龙与遗迹侦探』由于人气不佳，决定不再制作拓展内容和解密合集…」这可是我最喜欢的桌面谜题，不能因为它的题目太难，规则难以理解，就认为它做得不好吧。唉，不过既然是销量原因也没办法，写一封匿名信鼓励作者吧，希望以后还能玩到他的新作。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/32268e7e123a5a41271691daa22ec56f_6534770005692357684.mp3",
+          "audioName": "39玛薇卡的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "哪怕是最简单的家常菜，每家人做出来的味道也不一样，有时候差别还很大。我在圣火竞技场吃过好几种炖肉，每种都很好吃，做法都有独到之处，但轮到我自己做的时候，我还是会选择我家的味道。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/87c2ac2b4fd2ff398d83c317b1378a8b_1040668623215337688.mp3",
+          "audioName": "40喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我没有不喜欢的食材，但我比较反感形式大于内容的食物，比如要花三个小时才能走完全程的「正餐」…虽然能感受到厨师的创意与巧思，但我还是愿意将时间投入到更有效率的事情上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/c5fcf696c1e3832bedff830f0f5bfc89_6155722168328794864.mp3",
+          "audioName": "41讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "谢谢你，相当合我的口味，你有菜谱吗？我也想学学看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/3c06c1c49737b5e538171cc8ca45700e_7921778748661289661.mp3",
+          "audioName": "42收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "我大体满意，不过还能想到几个改进点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/c456ac6c44bdceea7a002d337082aaba_2893617201164394657.mp3",
+          "audioName": "43收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "没想到吃起来还不坏，我能够接受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/cbfa3a95da7bf5dcd339aea1b26979b8_8082625327749725033.mp3",
+          "audioName": "44收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "从今天开始，你可以把每个值得纪念的成就都写在纸上，保存到下一次生日的时候再拿出来，这样你就会拥有一份来自自己的生日礼物。希望这些记录，能够让你时刻记住，你有多么了不起，生日快乐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/ca9d47f6f9fb9ff63993469b9a963628_900293431280123775.mp3",
+          "audioName": "45生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "舒展筋骨的感觉，我喜欢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/3750e0518740dc28891624ac4b5357c5_2284660901683854599.mp3",
+          "audioName": "46突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "力量越来越强，不过我的实力还远不止此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d472720eefd8be933bdf429abce5656e_2676562082757884287.mp3",
+          "audioName": "47突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "火焰愈发澄澈，我的灵魂与肉体也愈发契合，这等力量，才是践行「领袖」职责的保证。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/ade648d5aee5f7146dc86856c0aa622d_7186188686144817614.mp3",
+          "audioName": "48突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "自从与你相遇，我的力量再次获得了质的飞跃。我们各自拥有不同的使命，是责任感与正义感将我们相连。对于你所提供的帮助，我感激不尽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/294658e3db3fa7b38a1fa9926776d012_5609283823905754984.mp3",
+          "audioName": "49突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "点燃吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/45bef3398ccdc6e21540751bdfeb1229_5943828229663883853.mp3",
+          "audioName": "50元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "焚灭不净！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/6a5df1e131a78f4b347a13346cfafc8f_8010625803475924583.mp3",
+          "audioName": "51元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "烈日随我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/2d1433267a8b9f91ba306a1a501afd2f_2881547625660609847.mp3",
+          "audioName": "52元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "要加速了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5f42ab8261c303ca171e2e2b8a563eb9_6019834897425354019.mp3",
+          "audioName": "53元素战技·其四_jp.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "动力全开！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/9f618b0efbd84d1c0ecf70e03f669359_6344246433072777581.mp3",
+          "audioName": "54元素战技·其五_jp.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "谁要阻拦？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/82ee8e45ce58285821f08f7d3df894a4_4116964796295907892.mp3",
+          "audioName": "55元素战技·其六_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "恭听太阳的轰鸣！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/4532ee2ee35a17f819f2d3a65be86a3a_5226398270710281878.mp3",
+          "audioName": "56元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "无赦天火！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/76e4b14c52982b4604a24b0a4033afe5_5867974135317505199.mp3",
+          "audioName": "57元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "埋葬于赤焰之下！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/95675d4a835f816c8d90dece912d6fe9_2054495940799467995.mp3",
+          "audioName": "58元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "冒险的嘉奖，很有纪念意义。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/bd5d6230cb4bfd2fe17995b456fbf7e6_2255055985445776495.mp3",
+          "audioName": "59打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "多了一份能加入收藏的东西。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/193251ec38a9ad560abcb9a98056eebd_6584846939887642080.mp3",
+          "audioName": "60打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "还不错，我很喜欢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/82db98c89d6b184ff554a644a4f2d34c_5729504852943328925.mp3",
+          "audioName": "61打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不能再失误了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d7ef664003c8a4ee8c8124c45f61b699_3412995102461459623.mp3",
+          "audioName": "62生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "需要调整。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/05769360b05b41515bde434f0208638b_3677000898450927115.mp3",
+          "audioName": "63生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "也该认真起来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/00683177f5f8672a792dc3523587c249_4515710628746700165.mp3",
+          "audioName": "64生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "战斗的事交给我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/ae70f4a341c85e07bcb860a9f9dd7257_5196963165896805469.mp3",
+          "audioName": "65同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "不要勉强自己。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/75047280ad8340362aa451eb4ff227f4_5701084146199175122.mp3",
+          "audioName": "66同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "火，不会熄灭…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/ef47250a9de2ba3c1a2bac16283529fc_8064934110351414813.mp3",
+          "audioName": "67倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "传承，终结了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/28dbdeab93438701c766827a46dc345a_8130543688830397384.mp3",
+          "audioName": "68倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "命运，如此？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/9a8b8d23a8f4b30930f2e5d3cf7f4d9e_7546789313443811441.mp3",
+          "audioName": "69倒下·其三_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不错啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/aab5c7fbbcdfd222be2a52645ed8ca17_1726343131107373714.mp3",
+          "audioName": "70重受击·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "火神玛薇卡，参战。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/49b55d6e212d2621e777f0a6adae028c_3304993881794171677.mp3",
+          "audioName": "71加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "当然没问题。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/53687f1504eee33d091a992aaf02f107_5160115195170086551.mp3",
+          "audioName": "72加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我随时准备就绪。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/9c301037926ca43003bea2e5214f4bba_4144536397189223903.mp3",
+          "audioName": "73加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "追寻火焰在时间长河中的足迹，我们将至黑之地以血泪铸成家园，而今，长路向前延续，旅途正待新篇。现任火神玛薇卡，助你的视野中再无漆黑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/78d84f9871560761f9c29e8c5524692a_1551404667901832827.mp3",
+          "audioName": "01初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·冒险",
+          "text": "探索与挑战…嗯，冒险家的生活很合我的胃口。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/b09930aeb5d20eaa15105117aabd2fdb_5775578611046537664.mp3",
+          "audioName": "02闲聊·冒险_en.mp3"
+        },
+        {
+          "name": "闲聊·体验",
+          "text": "神明总是在天上待着，不常来地上走走可不行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/8c323599a477d428ca243d804476048c_3374386568425047018.mp3",
+          "audioName": "03闲聊·体验_en.mp3"
+        },
+        {
+          "name": "闲聊·循光",
+          "text": "许多昆虫有循光而行的本能，人类也是如此，只是我们称那道光为「希望」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/6742c30881185698a408a3a493e8df66_4317699721458402242.mp3",
+          "audioName": "04闲聊·循光_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嗯——好凉快啊，纳塔可没有这样的好地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/dda5e3af40c51cf2d7f58c6434a750a0_1382578973194336432.mp3",
+          "audioName": "05下雪的时候…_en.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气真好，很适合户外观光。走，上车，跟我去跑两圈？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/0d1d1fa4a693bb463233731ecee5aa94_3384686928534833590.mp3",
+          "audioName": "06阳光很好…_en.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "湿漉漉的很不舒服吧？正好休息片刻，我用火帮你烘干一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5f1af104c52ad2e258145f175b7aa323_1166351725060797954.mp3",
+          "audioName": "07雨过天晴…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "沙子是火焰与文明的天敌，唯有断壁残垣还在讲述着过往。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/392bd4a2aa72213631a29efddb49ee19_5745595311426121379.mp3",
+          "audioName": "08在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "醒过来的时候，我会把一天的计划在脑中快速过一次，然后…就会失望地发现，我必须起床了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/963efcb7beb4d97a2c1ee95929ff3a9f_4274709983671645382.mp3",
+          "audioName": "09早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "吃过午饭了吗？「沃陆之邦」送来了新鲜的水果，我感觉是很棒的餐后甜点，尝尝看吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/c0acd0f375ddd69b0aa5ed9953711f0a_2764309126660337115.mp3",
+          "audioName": "10中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "「回声之子」道路整修的方案及预算，嗯…哦，晚上好，已经这个时间了啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/c4022eb3bf1b1ed0aca523b7ccad5d15_6089176378623985381.mp3",
+          "audioName": "11晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安，我还要再忙一些事，就当是休息了。啊，我的意思是，「忙碌」对我而言是一种享受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/e7202c599313f4b7c7f55374cfc953ec_2752449204595613528.mp3",
+          "audioName": "12晚安…_en.mp3"
+        },
+        {
+          "name": "关于玛薇卡自己·头发",
+          "text": "好奇我的头发？放心吧，这是种非常友善的火，一点都不烫，也不会引燃任何物品，它只会在敌人的身上展现出全部的威力——你明白我的意思吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/6d7ce35b4fb056eea49485bcc2f03593_7114024177811311476.mp3",
+          "audioName": "13关于玛薇卡自己·头发_en.mp3"
+        },
+        {
+          "name": "关于玛薇卡自己·留言",
+          "text": "纳塔历史上存在很多火神，他们都会选出最关键的知识与记忆放入圣火，提供给继位者学习。由于信息量很大，有时候甚至会影响到学习者的神智，所以我在火中留下了一句话——「成为火之前，请先为自我的存在而骄傲。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/36c7f2fe51fa979b9c9bb0a7c4843748_5579030044160015732.mp3",
+          "audioName": "14关于玛薇卡自己·留言_en.mp3"
+        },
+        {
+          "name": "关于我们·执剑",
+          "text": "计划是最可靠的指引，但也绝非不可改动的神圣律令，我在五百年前无法预知你的到来，但当我见到并了解你之后，我就知道计划值得因你而变动。从结果上看，与你一同执剑，是无比正确的决断。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/2a919752135f4a738f30f09c6404f3f0_2902084272395857888.mp3",
+          "audioName": "15关于我们·执剑_en.mp3"
+        },
+        {
+          "name": "关于我们·古名",
+          "text": "你可能还没有意识到「杜麦尼」这个全新的古名会在未来的纳塔留下多么重要的影响：之后的每一代人讲起「杜麦尼」的故事，就会提到这场战斗，提及每一位英雄，而「杜麦尼」会和「基扬戈兹」紧密相连，我们将会和纳塔一同存续到永远。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/39b74bfe5c5b1d7ed7036c63015d0945_1243822366196661049.mp3",
+          "audioName": "16关于我们·古名_en.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "对人类来说，「神之眼」和「古名」都是来自神明的馈赠，区别在于前者赐予了元素力，而后者提供的则是精神上的支持。但我始终认为，有无身外之物的加持都不妨碍一个人变得伟大，成为英雄，因为更重要的东西，是炽热的「心」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/461366f7adc93797a69ac8a5bcc991f4_797608907166461217.mp3",
+          "audioName": "17关于「神之眼」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "小时候我父亲告诉我，一个木桶能装多少水，取决于最短的那块木板，但如果想要不断进步，就要甘愿成为那块最短的木板——承认自我的不足，向优秀者请教，这样的人并不是失败者，而是进取者。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5997f61108c1cc392a58170f59af858f_3579808873524803947.mp3",
+          "audioName": "18有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "幼年的匿叶龙特别可爱，我的龙伙伴希塔塔特别特别黏人，只要看见我，不管离我多远，都会开心地冲进我怀里来。这让我妹妹伊妮有点嫉妒，所以她看到希塔塔跑过来的时候，她也会跑过来，我得同时接住他们两个，哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/0f44466f1a237c10e5d5eb7e1a6711c0_2743831183861501400.mp3",
+          "audioName": "19感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "希诺宁是纳塔最优秀的工匠之一，不仅掌握古名的打造方法，还对秘源技术颇有研究，就算是需要创造前所未有的东西，她也勇于挑战，总能拿出好的结果，虽然过程通常会有点波折…嗯，比如改设计之类的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/822be2b8721293cfb7ccef2ff9e12709_4844128033426721989.mp3",
+          "audioName": "20关于希诺宁…_en.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "很多人觉得她脾气古怪，难以相处，我认为只是普通的琐事不配让她放在心上。当真正需要她担心的事出现，她会有多认真，你们应该已经见识过了…有时候我觉得像她这样的性格很容易被卷入险境，所以我会向她隐瞒一些东西，可是…想要不被她洞察到也很难，她太敏锐了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d73c0d34c55a00ab6c16820419e3c1f0_533563402710011091.mp3",
+          "audioName": "21关于茜特菈莉…_en.mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "能在深渊的影响下存活，本就是种奇迹，更令人感动的是，她在纳塔邂逅的人与龙，共同帮助她找到了活下去的「理由」。现在我已无须担心她的坚韧，但我还是想要尽我所能，为她留出一个更加温柔的「居所」——再坚强的人，也需要休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/6f10596234da7e22d3b32c98da01c6f5_2397889659607183960.mp3",
+          "audioName": "22关于恰斯卡…_en.mp3"
+        },
+        {
+          "name": "关于欧洛伦…",
+          "text": "在我看来，他的真实性格和外在表现出的东西相去甚远，他就像是一块被冰块包裹的熔岩，让他冷静下来的东西是族人与朋友，让他躁动不安的则是守护他们的冲动，与成为英雄的使命感…这种情绪并不理智，但又难能可贵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/578ad8bd2a8edbf692220e5dcd4063c8_4310227217919951917.mp3",
+          "audioName": "23关于欧洛伦…_en.mp3"
+        },
+        {
+          "name": "关于伊安珊·纠缠",
+          "text": "伊安珊刚刚获得古名参加归火圣夜巡礼的时候，总是被人当成软柿子，所以在团体赛的时候找她战斗的人非常多，虽然她每次都能赢，但也会消耗大量的体能，这也让她起初的成绩并不好。而越是这样，她就越容易被人缠上…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/983a4d244d56f69b21e891bc3517b4da_2972567189736647866.mp3",
+          "audioName": "24关于伊安珊·纠缠_en.mp3"
+        },
+        {
+          "name": "关于伊安珊·证明",
+          "text": "我给了她建议，只要大家都知道她是个强者，就不会有那么多人找麻烦了。但我没想到的是，伊安珊沉思片刻，想到的方法竟然是在归火圣夜巡礼的时候和我打一场。哈哈哈，她的实力远超我的预料，这一场也很有效果，再也不会有人瞧不起她了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/6205a337f4e5bdc3d5948b266196a163_491150564328486218.mp3",
+          "audioName": "25关于伊安珊·证明_en.mp3"
+        },
+        {
+          "name": "关于玛拉妮…",
+          "text": "她和图帕克的性格完全不同，却都继承了「沃摩延」之名。「团结」重要的并不是方式，而是内心中珍视友人与家园，愿意为此献出全力的精神…虽然我这么说，但当时的玛拉妮一定没想这么多，她只是很清楚，卡齐娜与她自己的生命同等重要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/44e056b99cf93c951dae372d0269b879_8211627634359243313.mp3",
+          "audioName": "26关于玛拉妮…_en.mp3"
+        },
+        {
+          "name": "关于基尼奇…",
+          "text": "「马力卜」除了回火还有一个含义是「代价」，你们可能会疑问，相较于其他古名，这并非是一个表达积极含义的词语。但其实「代价」象征着时刻保持清醒，敢于分析现状，提出问题，哪怕是泼冷水和说丧气话，如果没有这样的人在，众人很容易因情绪而陷入死局，因小失大。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d972176db637894ca024ef06c9217802_6487372884686055782.mp3",
+          "audioName": "27关于基尼奇…_en.mp3"
+        },
+        {
+          "name": "关于卡齐娜…",
+          "text": "在你们帮助卡齐娜从夜神之国平安归来之后，我去了她家，和首领一起再次表达了歉意，还送去了一些慰问品。迷失在夜神之国的这段经历会在卡齐娜的成长中残留很多影响，而这些影响本不应该发生…我对此负有责任。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/998d733d55a6a236b28dfe776338304a_3258409930165970162.mp3",
+          "audioName": "28关于卡齐娜…_en.mp3"
+        },
+        {
+          "name": "关于瓦雷莎…",
+          "text": "归火圣夜巡礼举办期间，「倦意之屋」的消费都由我个人承担，但每次去结账的时候，都会发现有个客人点了八十人份的套餐。起初我还以为是大型的亲朋好友观光团，结果没想到…居然就是她一个人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5d4a4ca8f73b84e2e1638c1375c3ea2d_5993230993070308646.mp3",
+          "audioName": "29关于瓦雷莎…_en.mp3"
+        },
+        {
+          "name": "关于伊法…",
+          "text": "除了精湛的医术外，一个好医生往往拥有很强的沟通能力。而当与医患语言不通时，就需要更敏锐的观察力和同理心。这就是为什么伊法总是能和不同性格的人交上朋友吧。所以说，如有人或者龙和伊法关系不好…哈哈，我想应该不是伊法的问题。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/db5658f322d71f0086d67785a8d0bd1c_2966696805163208454.mp3",
+          "audioName": "30关于伊法…_en.mp3"
+        },
+        {
+          "name": "关于「队长」…",
+          "text": "同样是五百年的时间，我想对他而言会更加漫长，当死亡的权利被剥夺，人生就成为了没有终点的旅途，人类的精神很容易就在这种虚无中耗竭。可是他依然抓住了唯一的胜利机会，获得了他所追求的圆满。我对像他这般的战士充满敬意。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/79a73c75ac73e9defadaa7c2fd582e26_4009504165604651952.mp3",
+          "audioName": "31关于「队长」…_en.mp3"
+        },
+        {
+          "name": "关于尘世七执政…",
+          "text": "很遗憾，我对他们的了解甚至还不如你多，但我相信只有最优秀的领导者，才能让国度存续至今并且向前发展。在纳塔抗击深渊的历史告一段落之后，我也打算和其他国家建立更多联系，并为纳塔接下来的发展做好准备。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/86096624841286a3cf08cd61fdc10ea6_4173970941482387782.mp3",
+          "audioName": "32关于尘世七执政…_en.mp3"
+        },
+        {
+          "name": "关于梦见月瑞希…",
+          "text": "我对这位稻妻客人印象不错。听说她初来纳塔的时候，对「流泉之众」那边的温泉颇为上心，还四处打听和温泉有关的技艺。但她的钻研不为谋利，而是旨在改善人们的精神状态。如此纯粹的目的，理应获得我们的敬重与帮助。\n说起来…稻妻的现任执政也喜欢泡温泉吗？要是此事属实，我似乎知道该如何和她拉近关系了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/78f3d44cc3ef6304f1bd7ac88d693cd6_285537464465466030.mp3",
+          "audioName": "关于梦见月瑞希…en.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其一",
+          "text": "哦？没问题，我还挺喜欢讲故事的，只不过就这么讲未免单调了点，我们先去来上两杯吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/fe6d8ebe446a8c3939c69f8a8193268f_2052858391190264435.mp3",
+          "audioName": "33想要了解玛薇卡·其一_en.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其二",
+          "text": "驰轮车的操控并不复杂，只要稍加练习就能驾驭，不过如果想要高速行驶，还需要加装许多安全配件。什么？你说我现在已经骑得很快了？用希诺宁的原话来解释——「你身强体壮，用不着这个。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/56371cc8bb9ca661d44ce656c833f5e4_7824969989703474133.mp3",
+          "audioName": "34想要了解玛薇卡·其二_en.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其三",
+          "text": "我的遗憾当然也有很多。因为使命在身，我无法为任何人驻足停留，我所积累的知识和力量能最有效率地解决问题，但很多时候人们需要的只是「陪伴」…在这方面，我让很多人失望过。优柔寡断只会带来更深重的痛苦，我唯一能做的就是克制。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/2bc0dc61123f1d7e45cb98c82cd5083b_7655384672169779674.mp3",
+          "audioName": "35想要了解玛薇卡·其三_en.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其四",
+          "text": "解放神座之力升上高空之后，我的灵魂也和地脉紧紧相连，我能感受到战士的热血，普通人的坚强，以及受害者的伤痛…亲历这些情绪，已经是第二次了，所幸有你和英雄们的帮助，这次的结局完全不同，这也证明了我们的坚持是有价值的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/bc547e76a01be64008cb3b318f7fa15a_3799367008763446926.mp3",
+          "audioName": "36想要了解玛薇卡·其四_en.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其五",
+          "text": "我作为火神最重要的职责已经告一段落，原本在这崭新的纳塔里并没有我的位置，我在几百年前就接受了这一切，而现在这种状态，反而让我有点手足无措…不过在你的身上，我已经看到了我应该前往的方向——去探寻，去学习，去拯救。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/09ea16419631563923d7103bbf7cf14e_3541282147796336323.mp3",
+          "audioName": "37想要了解玛薇卡·其五_en.mp3"
+        },
+        {
+          "name": "玛薇卡的爱好…",
+          "text": "变强。比如完成艰难的挑战，解开复杂的谜题，战胜强大的敌人…比起重复相同的事，成就感才是我的快乐源泉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/f788ffa0be414c5555a12cd3528c0e8a_7043399416647260856.mp3",
+          "audioName": "38玛薇卡的爱好…_en.mp3"
+        },
+        {
+          "name": "玛薇卡的烦恼…",
+          "text": "「『恐龙与遗迹侦探』由于人气不佳，决定不再制作拓展内容和解密合集…」这可是我最喜欢的桌面谜题，不能因为它的题目太难，规则难以理解，就认为它做得不好吧。唉，不过既然是销量原因也没办法，写一封匿名信鼓励作者吧，希望以后还能玩到他的新作。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/2af1dabd3977cddd1d1e9c9de0d9e05c_6755220136584875391.mp3",
+          "audioName": "39玛薇卡的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "哪怕是最简单的家常菜，每家人做出来的味道也不一样，有时候差别还很大。我在圣火竞技场吃过好几种炖肉，每种都很好吃，做法都有独到之处，但轮到我自己做的时候，我还是会选择我家的味道。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/7add491b529389b5598681a5a6140d42_7204720322008197562.mp3",
+          "audioName": "40喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我没有不喜欢的食材，但我比较反感形式大于内容的食物，比如要花三个小时才能走完全程的「正餐」…虽然能感受到厨师的创意与巧思，但我还是愿意将时间投入到更有效率的事情上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/bfdd34abcefdc36df26f90df3f5d1dd6_2677456999678845499.mp3",
+          "audioName": "41讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "谢谢你，相当合我的口味，你有菜谱吗？我也想学学看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/3e1e28e6a4b78bab5d855a49d277cc06_2839070315451878513.mp3",
+          "audioName": "42收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "我大体满意，不过还能想到几个改进点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/fba19b99bc26e5b9a1d7edbac2a8b7cc_6298783153550782332.mp3",
+          "audioName": "43收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "没想到吃起来还不坏，我能够接受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/526b281df83c460b38639e7ed3bcd236_7121749053145319534.mp3",
+          "audioName": "44收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "从今天开始，你可以把每个值得纪念的成就都写在纸上，保存到下一次生日的时候再拿出来，这样你就会拥有一份来自自己的生日礼物。希望这些记录，能够让你时刻记住，你有多么了不起，生日快乐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/4adc6b7f7198c4addd345dd38f79438c_5349109508395648156.mp3",
+          "audioName": "45生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "舒展筋骨的感觉，我喜欢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/1ef4dfc5ff5901eb1c20e6b2d123ee00_2468025782767292425.mp3",
+          "audioName": "46突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "力量越来越强，不过我的实力还远不止此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/23a1437ef43ce9ce6a8a31b59038fec2_3322817361853985879.mp3",
+          "audioName": "47突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "火焰愈发澄澈，我的灵魂与肉体也愈发契合，这等力量，才是践行「领袖」职责的保证。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/216d429522a1e098562e647a2bcf3f60_1534033523711802623.mp3",
+          "audioName": "48突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "自从与你相遇，我的力量再次获得了质的飞跃。我们各自拥有不同的使命，是责任感与正义感将我们相连。对于你所提供的帮助，我感激不尽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/3687b8c8dd443a0e49f6d5fcdad9b8d9_5895325000189959462.mp3",
+          "audioName": "49突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "点燃吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/528a62eb1b1e2c1135622b09f20a372b_5455773758602736067.mp3",
+          "audioName": "50元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "焚灭不净！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/41e8dd663532c4f76672b609cede653b_4744762440839195215.mp3",
+          "audioName": "51元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "烈日随我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/51c96df1c9a816d66c6cb083a34ef611_963526499126916653.mp3",
+          "audioName": "52元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "要加速了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/4e6ccf1d67e1f532787980361767c586_5321854564385059090.mp3",
+          "audioName": "53元素战技·其四_en.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "动力全开！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/610b8121fd00eaf2fd34a133df28d353_6602184701348735215.mp3",
+          "audioName": "54元素战技·其五_en.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "谁要阻拦？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/6e02e3f5e5438cffabeaa716700dc17f_2617647847171704699.mp3",
+          "audioName": "55元素战技·其六_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "恭听太阳的轰鸣！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/2f0c7f119bc769e603721896d297cc94_9177136242829753743.mp3",
+          "audioName": "56元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "无赦天火！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/a5e3dc4672006a2bcffc384c3f7b787e_4426902128508001078.mp3",
+          "audioName": "57元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "埋葬于赤焰之下！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d998ebc6aab51eabd364819d09a6f518_3951074196421815742.mp3",
+          "audioName": "58元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "冒险的嘉奖，很有纪念意义。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/43bacadaa061e7d20104a8ed4a780515_1250666416756394829.mp3",
+          "audioName": "59打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "多了一份能加入收藏的东西。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/6a7de8f9e8b7d20c036a2933a5c657e9_1007367012108614722.mp3",
+          "audioName": "60打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "还不错，我很喜欢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/e09ab63a4dafd787dd04d0aec8bebd92_5730855541841686937.mp3",
+          "audioName": "61打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不能再失误了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d1a4928b30f2a89b883583ba029b1f55_5030353656594337427.mp3",
+          "audioName": "62生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "需要调整。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/faab117257831195105da3b701eedbdb_8113383654734527899.mp3",
+          "audioName": "63生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "也该认真起来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/dd40dd286701a4053ee68f08171a65cf_2611427457584530966.mp3",
+          "audioName": "64生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "战斗的事交给我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d1a4928b30f2a89b883583ba029b1f55_8829487000010100976.mp3",
+          "audioName": "65同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "不要勉强自己。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/027d71a3b1803beb54deba098ffd5f9c_7900240344098715791.mp3",
+          "audioName": "66同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "火，不会熄灭…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5559beb1cbcd9f6555fe7f07e7780600_2228970562924099395.mp3",
+          "audioName": "67倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "传承，终结了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/4a0f6a1ba11bbd7b1d4b51235cbc8ca0_5749410189997956659.mp3",
+          "audioName": "68倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "命运，如此？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/db1be8f4511699380c77dd3cb1840a03_7884678202752640255.mp3",
+          "audioName": "69倒下·其三_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不错啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/121ceff70d7da4f00cfb5553e4fd89d7_2261325675466110610.mp3",
+          "audioName": "70重受击·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "火神玛薇卡，参战。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/2dc5b13adaebfe76c397c0b2dba1a941_6159548497351460006.mp3",
+          "audioName": "71加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "当然没问题。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d1c54e496a5cd722f83efcde412e8e58_753955363803273183.mp3",
+          "audioName": "72加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我随时准备就绪。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/677f75a52b30e5c78d6f173f890f662e_5923673938247111475.mp3",
+          "audioName": "73加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "追寻火焰在时间长河中的足迹，我们将至黑之地以血泪铸成家园，而今，长路向前延续，旅途正待新篇。现任火神玛薇卡，助你的视野中再无漆黑。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/c3e529221136c87892068da5be21401e_5227690395926726441.mp3",
+          "audioName": "01初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·冒险",
+          "text": "探索与挑战…嗯，冒险家的生活很合我的胃口。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/22feef7f1dc0d94c05129111e2c7dc19_3369652338390788515.mp3",
+          "audioName": "02闲聊·冒险_kr.mp3"
+        },
+        {
+          "name": "闲聊·体验",
+          "text": "神明总是在天上待着，不常来地上走走可不行。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/f18b51ecabec24ffbaed597d95539011_1728837911898585207.mp3",
+          "audioName": "03闲聊·体验_kr.mp3"
+        },
+        {
+          "name": "闲聊·循光",
+          "text": "许多昆虫有循光而行的本能，人类也是如此，只是我们称那道光为「希望」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/0e75f94dae9e27bdfecb7be54ef57366_7230374611444632519.mp3",
+          "audioName": "04闲聊·循光_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "嗯——好凉快啊，纳塔可没有这样的好地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/ef4d4867a0d94c7e817575c0714421ad_5955079064712808532.mp3",
+          "audioName": "05下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "阳光很好…",
+          "text": "天气真好，很适合户外观光。走，上车，跟我去跑两圈？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/2aa3ad6c898baa438df6616b23205c54_6331251959403514965.mp3",
+          "audioName": "06阳光很好…_kr.mp3"
+        },
+        {
+          "name": "雨过天晴…",
+          "text": "湿漉漉的很不舒服吧？正好休息片刻，我用火帮你烘干一下。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/114e95c28564be2e7ebe7553e2947d35_1420933679238639314.mp3",
+          "audioName": "07雨过天晴…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "沙子是火焰与文明的天敌，唯有断壁残垣还在讲述着过往。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/06bffe6f35e3f5a629ced294ceb7d6b0_4885488463415936409.mp3",
+          "audioName": "08在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "醒过来的时候，我会把一天的计划在脑中快速过一次，然后…就会失望地发现，我必须起床了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/bf9af3a67c0b9a1bb0301a0977ebe103_1013835102186985459.mp3",
+          "audioName": "09早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "吃过午饭了吗？「沃陆之邦」送来了新鲜的水果，我感觉是很棒的餐后甜点，尝尝看吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/4f019234e330948f9e7461fdd531ea2b_3476640451210371595.mp3",
+          "audioName": "10中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "「回声之子」道路整修的方案及预算，嗯…哦，晚上好，已经这个时间了啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/e6aaa9c8dade78f9430cee2171ac02b1_21092435047445541.mp3",
+          "audioName": "11晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "晚安，我还要再忙一些事，就当是休息了。啊，我的意思是，「忙碌」对我而言是一种享受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/7cdf361641c0f9d45db2a35102def366_8422184212933530218.mp3",
+          "audioName": "12晚安…_kr.mp3"
+        },
+        {
+          "name": "关于玛薇卡自己·头发",
+          "text": "好奇我的头发？放心吧，这是种非常友善的火，一点都不烫，也不会引燃任何物品，它只会在敌人的身上展现出全部的威力——你明白我的意思吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/269cc47c5ef3e87491b4a32365075222_5113913537514304040.mp3",
+          "audioName": "13关于玛薇卡自己·头发_kr.mp3"
+        },
+        {
+          "name": "关于玛薇卡自己·留言",
+          "text": "纳塔历史上存在很多火神，他们都会选出最关键的知识与记忆放入圣火，提供给继位者学习。由于信息量很大，有时候甚至会影响到学习者的神智，所以我在火中留下了一句话——「成为火之前，请先为自我的存在而骄傲。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/8981f9f50404b52a8026c93ad582a71f_2822293439987979791.mp3",
+          "audioName": "14关于玛薇卡自己·留言_kr.mp3"
+        },
+        {
+          "name": "关于我们·执剑",
+          "text": "计划是最可靠的指引，但也绝非不可改动的神圣律令，我在五百年前无法预知你的到来，但当我见到并了解你之后，我就知道计划值得因你而变动。从结果上看，与你一同执剑，是无比正确的决断。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/aeaaf2b763998db4569232ab69e15345_6251665375771504487.mp3",
+          "audioName": "15关于我们·执剑_kr.mp3"
+        },
+        {
+          "name": "关于我们·古名",
+          "text": "你可能还没有意识到「杜麦尼」这个全新的古名会在未来的纳塔留下多么重要的影响：之后的每一代人讲起「杜麦尼」的故事，就会提到这场战斗，提及每一位英雄，而「杜麦尼」会和「基扬戈兹」紧密相连，我们将会和纳塔一同存续到永远。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/68ac077c65bee2c46de9351e1364864d_1701228009325471773.mp3",
+          "audioName": "16关于我们·古名_kr.mp3"
+        },
+        {
+          "name": "关于「神之眼」…",
+          "text": "对人类来说，「神之眼」和「古名」都是来自神明的馈赠，区别在于前者赐予了元素力，而后者提供的则是精神上的支持。但我始终认为，有无身外之物的加持都不妨碍一个人变得伟大，成为英雄，因为更重要的东西，是炽热的「心」。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/0efcf01bd1adb64880f6bb9bc9891130_3113319829317702349.mp3",
+          "audioName": "17关于「神之眼」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "小时候我父亲告诉我，一个木桶能装多少水，取决于最短的那块木板，但如果想要不断进步，就要甘愿成为那块最短的木板——承认自我的不足，向优秀者请教，这样的人并不是失败者，而是进取者。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/703ada6178b12f892ca31f6acf9e5c4a_4045164754690205780.mp3",
+          "audioName": "18有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "幼年的匿叶龙特别可爱，我的龙伙伴希塔塔特别特别黏人，只要看见我，不管离我多远，都会开心地冲进我怀里来。这让我妹妹伊妮有点嫉妒，所以她看到希塔塔跑过来的时候，她也会跑过来，我得同时接住他们两个，哈哈哈。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/79d55b4a5fc1feab7d60fa48b545c355_164523014786337972.mp3",
+          "audioName": "19感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于希诺宁…",
+          "text": "希诺宁是纳塔最优秀的工匠之一，不仅掌握古名的打造方法，还对秘源技术颇有研究，就算是需要创造前所未有的东西，她也勇于挑战，总能拿出好的结果，虽然过程通常会有点波折…嗯，比如改设计之类的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/43916c7829bf3243a0edabae80fbd252_6589286869462761567.mp3",
+          "audioName": "20关于希诺宁…_kr.mp3"
+        },
+        {
+          "name": "关于茜特菈莉…",
+          "text": "很多人觉得她脾气古怪，难以相处，我认为只是普通的琐事不配让她放在心上。当真正需要她担心的事出现，她会有多认真，你们应该已经见识过了…有时候我觉得像她这样的性格很容易被卷入险境，所以我会向她隐瞒一些东西，可是…想要不被她洞察到也很难，她太敏锐了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/dfe6aecfd64c84c77eafacc0f7c1ea0b_7839840937029485806.mp3",
+          "audioName": "21关于茜特菈莉…_kr.mp3"
+        },
+        {
+          "name": "关于恰斯卡…",
+          "text": "能在深渊的影响下存活，本就是种奇迹，更令人感动的是，她在纳塔邂逅的人与龙，共同帮助她找到了活下去的「理由」。现在我已无须担心她的坚韧，但我还是想要尽我所能，为她留出一个更加温柔的「居所」——再坚强的人，也需要休息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/a635e942ec067afb202de18f4eb35249_2290922675433869864.mp3",
+          "audioName": "22关于恰斯卡…_kr.mp3"
+        },
+        {
+          "name": "关于欧洛伦…",
+          "text": "在我看来，他的真实性格和外在表现出的东西相去甚远，他就像是一块被冰块包裹的熔岩，让他冷静下来的东西是族人与朋友，让他躁动不安的则是守护他们的冲动，与成为英雄的使命感…这种情绪并不理智，但又难能可贵。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d90cbe2f4df2a0ce8c340dff95ce63bc_5340944586570184383.mp3",
+          "audioName": "23关于欧洛伦…_kr.mp3"
+        },
+        {
+          "name": "关于伊安珊·纠缠",
+          "text": "伊安珊刚刚获得古名参加归火圣夜巡礼的时候，总是被人当成软柿子，所以在团体赛的时候找她战斗的人非常多，虽然她每次都能赢，但也会消耗大量的体能，这也让她起初的成绩并不好。而越是这样，她就越容易被人缠上…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/312361580ec9d644291eab28eb8095f0_541984651848067168.mp3",
+          "audioName": "24关于伊安珊·纠缠_kr.mp3"
+        },
+        {
+          "name": "关于伊安珊·证明",
+          "text": "我给了她建议，只要大家都知道她是个强者，就不会有那么多人找麻烦了。但我没想到的是，伊安珊沉思片刻，想到的方法竟然是在归火圣夜巡礼的时候和我打一场。哈哈哈，她的实力远超我的预料，这一场也很有效果，再也不会有人瞧不起她了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/f0884a54f0a8a82ee99e5245769760fe_1698249725204372982.mp3",
+          "audioName": "25关于伊安珊·证明_kr.mp3"
+        },
+        {
+          "name": "关于玛拉妮…",
+          "text": "她和图帕克的性格完全不同，却都继承了「沃摩延」之名。「团结」重要的并不是方式，而是内心中珍视友人与家园，愿意为此献出全力的精神…虽然我这么说，但当时的玛拉妮一定没想这么多，她只是很清楚，卡齐娜与她自己的生命同等重要。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/075c4778e9eec64000c2efeb76526858_6530905855267792395.mp3",
+          "audioName": "26关于玛拉妮…_kr.mp3"
+        },
+        {
+          "name": "关于基尼奇…",
+          "text": "「马力卜」除了回火还有一个含义是「代价」，你们可能会疑问，相较于其他古名，这并非是一个表达积极含义的词语。但其实「代价」象征着时刻保持清醒，敢于分析现状，提出问题，哪怕是泼冷水和说丧气话，如果没有这样的人在，众人很容易因情绪而陷入死局，因小失大。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/254887a73fe12a2a3d81d707aa3c4fb1_5581860384083502052.mp3",
+          "audioName": "27关于基尼奇…_kr.mp3"
+        },
+        {
+          "name": "关于卡齐娜…",
+          "text": "在你们帮助卡齐娜从夜神之国平安归来之后，我去了她家，和首领一起再次表达了歉意，还送去了一些慰问品。迷失在夜神之国的这段经历会在卡齐娜的成长中残留很多影响，而这些影响本不应该发生…我对此负有责任。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/aabdba63e5da1322eeb13e1e3b78ab6a_79939466493847984.mp3",
+          "audioName": "28关于卡齐娜…_kr.mp3"
+        },
+        {
+          "name": "关于瓦雷莎…",
+          "text": "归火圣夜巡礼举办期间，「倦意之屋」的消费都由我个人承担，但每次去结账的时候，都会发现有个客人点了八十人份的套餐。起初我还以为是大型的亲朋好友观光团，结果没想到…居然就是她一个人。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/87154f87ea50c6fa17a28ba16bc00573_2011226359984930764.mp3",
+          "audioName": "29关于瓦雷莎…_kr.mp3"
+        },
+        {
+          "name": "关于伊法…",
+          "text": "除了精湛的医术外，一个好医生往往拥有很强的沟通能力。而当与医患语言不通时，就需要更敏锐的观察力和同理心。这就是为什么伊法总是能和不同性格的人交上朋友吧。所以说，如有人或者龙和伊法关系不好…哈哈，我想应该不是伊法的问题。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/30fad3c7b7a185e6b4a576dc673a11b6_4344171165529790719.mp3",
+          "audioName": "30关于伊法…_kr.mp3"
+        },
+        {
+          "name": "关于「队长」…",
+          "text": "同样是五百年的时间，我想对他而言会更加漫长，当死亡的权利被剥夺，人生就成为了没有终点的旅途，人类的精神很容易就在这种虚无中耗竭。可是他依然抓住了唯一的胜利机会，获得了他所追求的圆满。我对像他这般的战士充满敬意。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/7fdff9d29fae0113affe4638648e1642_3529274034085561549.mp3",
+          "audioName": "31关于「队长」…_kr.mp3"
+        },
+        {
+          "name": "关于尘世七执政…",
+          "text": "很遗憾，我对他们的了解甚至还不如你多，但我相信只有最优秀的领导者，才能让国度存续至今并且向前发展。在纳塔抗击深渊的历史告一段落之后，我也打算和其他国家建立更多联系，并为纳塔接下来的发展做好准备。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/c53a37760fb430051604d0bae97a513d_3445199499710349751.mp3",
+          "audioName": "32关于尘世七执政…_kr.mp3"
+        },
+        {
+          "name": "关于梦见月瑞希…",
+          "text": "我对这位稻妻客人印象不错。听说她初来纳塔的时候，对「流泉之众」那边的温泉颇为上心，还四处打听和温泉有关的技艺。但她的钻研不为谋利，而是旨在改善人们的精神状态。如此纯粹的目的，理应获得我们的敬重与帮助。\n说起来…稻妻的现任执政也喜欢泡温泉吗？要是此事属实，我似乎知道该如何和她拉近关系了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/05/14/50494840/1a2570b5d0e82a23e87175668278627b_5111893014415386967.mp3",
+          "audioName": "关于梦见月瑞希…kr.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其一",
+          "text": "哦？没问题，我还挺喜欢讲故事的，只不过就这么讲未免单调了点，我们先去来上两杯吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/878697a5977c7251a0f13a87d7044eed_3817214549780249793.mp3",
+          "audioName": "33想要了解玛薇卡·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其二",
+          "text": "驰轮车的操控并不复杂，只要稍加练习就能驾驭，不过如果想要高速行驶，还需要加装许多安全配件。什么？你说我现在已经骑得很快了？用希诺宁的原话来解释——「你身强体壮，用不着这个。」",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/9f12d3693e566d7d93f80daae6de3ce6_7004872531910262785.mp3",
+          "audioName": "34想要了解玛薇卡·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其三",
+          "text": "我的遗憾当然也有很多。因为使命在身，我无法为任何人驻足停留，我所积累的知识和力量能最有效率地解决问题，但很多时候人们需要的只是「陪伴」…在这方面，我让很多人失望过。优柔寡断只会带来更深重的痛苦，我唯一能做的就是克制。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/ca671089f038e6c2685792a7b1116cd5_6724669005370647694.mp3",
+          "audioName": "35想要了解玛薇卡·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其四",
+          "text": "解放神座之力升上高空之后，我的灵魂也和地脉紧紧相连，我能感受到战士的热血，普通人的坚强，以及受害者的伤痛…亲历这些情绪，已经是第二次了，所幸有你和英雄们的帮助，这次的结局完全不同，这也证明了我们的坚持是有价值的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/7877bcce0636e2c4edf6cf84f038a253_2685187735040258882.mp3",
+          "audioName": "36想要了解玛薇卡·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解玛薇卡·其五",
+          "text": "我作为火神最重要的职责已经告一段落，原本在这崭新的纳塔里并没有我的位置，我在几百年前就接受了这一切，而现在这种状态，反而让我有点手足无措…不过在你的身上，我已经看到了我应该前往的方向——去探寻，去学习，去拯救。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/c1dfe69107917d511d76acd52f125435_3226497151401574677.mp3",
+          "audioName": "37想要了解玛薇卡·其五_kr.mp3"
+        },
+        {
+          "name": "玛薇卡的爱好…",
+          "text": "变强。比如完成艰难的挑战，解开复杂的谜题，战胜强大的敌人…比起重复相同的事，成就感才是我的快乐源泉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5cb5e3c12f9703d72294ff8a0a22e4e1_9206849009716288744.mp3",
+          "audioName": "38玛薇卡的爱好…_kr.mp3"
+        },
+        {
+          "name": "玛薇卡的烦恼…",
+          "text": "「『恐龙与遗迹侦探』由于人气不佳，决定不再制作拓展内容和解密合集…」这可是我最喜欢的桌面谜题，不能因为它的题目太难，规则难以理解，就认为它做得不好吧。唉，不过既然是销量原因也没办法，写一封匿名信鼓励作者吧，希望以后还能玩到他的新作。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5bab6c350d7f4189092dffe12597c2ec_2719636148772136190.mp3",
+          "audioName": "39玛薇卡的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "哪怕是最简单的家常菜，每家人做出来的味道也不一样，有时候差别还很大。我在圣火竞技场吃过好几种炖肉，每种都很好吃，做法都有独到之处，但轮到我自己做的时候，我还是会选择我家的味道。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/c242324500132d51adf8751c52cd2a78_2736251291919533681.mp3",
+          "audioName": "40喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "我没有不喜欢的食材，但我比较反感形式大于内容的食物，比如要花三个小时才能走完全程的「正餐」…虽然能感受到厨师的创意与巧思，但我还是愿意将时间投入到更有效率的事情上。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d6d6ba9f39feabaf7658dcf323703804_188176548220786248.mp3",
+          "audioName": "41讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "谢谢你，相当合我的口味，你有菜谱吗？我也想学学看。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/1be137f6f4e5d1e1505a9b0249772282_3383453424709067072.mp3",
+          "audioName": "42收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "我大体满意，不过还能想到几个改进点。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/0baf03f05d9eca6a48934b82da66fb07_6905971244892856172.mp3",
+          "audioName": "43收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "没想到吃起来还不坏，我能够接受。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/1b38ed11d235c150ccca7f2a16afe492_2612023778976802988.mp3",
+          "audioName": "44收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "从今天开始，你可以把每个值得纪念的成就都写在纸上，保存到下一次生日的时候再拿出来，这样你就会拥有一份来自自己的生日礼物。希望这些记录，能够让你时刻记住，你有多么了不起，生日快乐。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/680d4965b4c83b4d213500d2bc44284b_7066863630581673902.mp3",
+          "audioName": "45生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "舒展筋骨的感觉，我喜欢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/39a2108bdf07afd65a054a26d7a89f45_4509913229523844392.mp3",
+          "audioName": "46突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "力量越来越强，不过我的实力还远不止此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/0fb66d7925b9d41f6bf5193abc1a4942_3058174176201792630.mp3",
+          "audioName": "47突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "火焰愈发澄澈，我的灵魂与肉体也愈发契合，这等力量，才是践行「领袖」职责的保证。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/e5c858cd79f9f7fb34b0d884018a3e4e_4090612092544180055.mp3",
+          "audioName": "48突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "自从与你相遇，我的力量再次获得了质的飞跃。我们各自拥有不同的使命，是责任感与正义感将我们相连。对于你所提供的帮助，我感激不尽。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/13cfa26062d48baff64d9a51fba29f81_1295130522449896914.mp3",
+          "audioName": "49突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "点燃吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/e17a19e26a2ebf1484f207218edc1265_670830426570230496.mp3",
+          "audioName": "50元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "焚灭不净！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/92cfd6e092c333886329bbe7faf51ae7_8753375545496221470.mp3",
+          "audioName": "51元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "烈日随我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/670f4e08be8af0ac1425a1fc8391fa02_5674598614845300806.mp3",
+          "audioName": "52元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "要加速了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/866aaa89553153c03248f52cc82f7aff_7452283971623996816.mp3",
+          "audioName": "53元素战技·其四_kr.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "动力全开！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/215c81056f9e526dbf7fe44441627296_7684023366539171604.mp3",
+          "audioName": "54元素战技·其五_kr.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "谁要阻拦？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/7d84327acf5540ad09a2e2fd2bd03819_2743431417120539252.mp3",
+          "audioName": "55元素战技·其六_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "恭听太阳的轰鸣！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/0a21843f9e9f9af10897f353b24fc3dc_5440567265986337568.mp3",
+          "audioName": "56元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "无赦天火！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5afbbd084ff8d606b70007437f91d14c_1358354302895619423.mp3",
+          "audioName": "57元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "埋葬于赤焰之下！",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/2cbb54db7f7a48e7c7ac7b13383f17a3_6229394164712020137.mp3",
+          "audioName": "58元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "冒险的嘉奖，很有纪念意义。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/d2aff26926d31067cc62e7af093e3156_5844352776344218418.mp3",
+          "audioName": "59打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "多了一份能加入收藏的东西。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/b0751252d710bbaeb41dd870b0ebb40a_2957690381730905495.mp3",
+          "audioName": "60打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "还不错，我很喜欢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/2f733b68d566f10539ff47d7b40337b0_7293914225858228756.mp3",
+          "audioName": "61打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "不能再失误了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/5d8827133ed9082e338bff84a637c978_7567597178400882047.mp3",
+          "audioName": "62生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "需要调整。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/41cb7de2f4692fed80cdd96b2384f741_6974130827847491038.mp3",
+          "audioName": "63生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "也该认真起来了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/de5dfcf1950c80c76bd4d6cbf1932476_8984129271922679430.mp3",
+          "audioName": "64生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "战斗的事交给我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/37c946887903bd2771c587e819661924_8995782452067370948.mp3",
+          "audioName": "65同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "不要勉强自己。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/fd6918287739c36ac75b4f34436add6f_1147597376455676917.mp3",
+          "audioName": "66同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "火，不会熄灭…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/86e52dd585b1fd1775785c3111fcc29f_7781248990488704510.mp3",
+          "audioName": "67倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "传承，终结了吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/ad29104de4ed21f1dd9d5a0a7c77f4c1_4333914422710925710.mp3",
+          "audioName": "68倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "命运，如此？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/363b22f88ee06aca3980cd8409bb7279_3326011054538203211.mp3",
+          "audioName": "69倒下·其三_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "不错啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/7cbfb3bbaf506a3a6a4551da7764a32c_8925571216824157556.mp3",
+          "audioName": "70重受击·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "火神玛薇卡，参战。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/7bbd7fa5f26695f29e7b23b17a37558e_8875764266452483727.mp3",
+          "audioName": "71加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "当然没问题。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/ed5b1d6a13c8bcee8f4f6e9cedd59a18_4868752490411946989.mp3",
+          "audioName": "72加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "我随时准备就绪。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/01/04/16576950/ea35abd690be633b8b5264131e8d137a_7459746836856677045.mp3",
+          "audioName": "73加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}

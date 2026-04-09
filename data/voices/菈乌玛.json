@@ -1,0 +1,1685 @@
+{
+  "id": "505973",
+  "name": "菈乌玛",
+  "alias": [
+    "菈乌玛"
+  ],
+  "tabs": [
+    {
+      "lang": "汉语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "睁开眼睛。我名菈乌玛，此地乃霜月之光慷慨弥散的谧林。无论去往何方，皆在天目所及之处。现在，闭上眼睛，你不再迷路了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/3bf8ff8ea925a4cd42820b77ae35f22e_4552340809239182593.mp3",
+          "audioName": "01_1006_初次见面…_cn.mp3"
+        },
+        {
+          "name": "闲聊·月光",
+          "text": "即使不在夜晚，即使看不到天空，月光也从未消散。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/f24d8645b68f575bb863ab6dba8d8ba4_4319389072586227341.mp3",
+          "audioName": "02_1101_闲聊·月光_cn.mp3"
+        },
+        {
+          "name": "闲聊·动物",
+          "text": "在挪德卡莱，如果有动物的行为让你不解，可以来找我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/0bcaabad0cdaafcf2fafa9d7c568ea96_6883773019325939293.mp3",
+          "audioName": "03_1102_闲聊·动物_cn.mp3"
+        },
+        {
+          "name": "闲聊·旅途",
+          "text": "想好要去哪边了吗？或者，找块草坪休息一会吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/1d08fe0e0a98aa4dbc26d7cbe9deeff1_4683164497589261753.mp3",
+          "audioName": "04_1103_闲聊·旅途_cn.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊，又快到草木繁茂的季节了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/f2156e1c0d75f7d084b65dd2b3a401df_3609865271818993641.mp3",
+          "audioName": "05_1201_下雨的时候…_cn.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "一瞬的闪耀，比月光更难捕捉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/d5af41023e30c42c57b145ab438b15a7_3238136096947163104.mp3",
+          "audioName": "06_1202_打雷的时候…_cn.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "听说不能长时间注视如此纯粹的白，是这样的吗？我还挺喜欢的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/e3ecd8370c60cd3adfad8edcc4536fb8_256166359833274391.mp3",
+          "audioName": "07_1203_下雪的时候…_cn.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "听奈芙尔提过世界上有像这样的地方…原来是这般风貌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/a2473bb7e0977f5fc5b0a8d56733d00b_9061867920732338339.mp3",
+          "audioName": "08_1204_在沙漠的时候…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早安。月神保佑，不论日夜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/044f9795698914678b418863d0bba3d8_3856890656733554891.mp3",
+          "audioName": "09_1001_早上好…_cn.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早安。月光联系着你我，不论日夜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/6144ffc7b42d17584b22c0c247c756c5_2893294436107081970.mp3",
+          "audioName": "10_1005_早上好…_cn.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "…啊，我刚刚打瞌睡了吗？抱歉。有什么需要，请讲吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/3eca45f0e50a4eef592b45741dbbcdc7_67205311268077070.mp3",
+          "audioName": "11_1002_中午好…_cn.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "今晚的月光很平静。要一起去树林里走走吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/6871ed67f662bce92c8de76556359b86_4991096582067735235.mp3",
+          "audioName": "12_1003_晚上好…_cn.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "群星已互道过晚安，轮到我们了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/502676b9387016e49d91316e0269d8be_3627830385276603502.mp3",
+          "audioName": "13_1004_晚安…_cn.mp3"
+        },
+        {
+          "name": "关于菈乌玛自己·责任",
+          "text": "诸律无法则为把戏，人之无心即为伪神。无论何地，人群聚集的地方都需要规则。即使是像「霜月之子」这样有着共同信仰的地方，也必须要有属于人的规矩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/ba25478ea7961bf4c266bedf1c695098_4053941064016313113.mp3",
+          "audioName": "14_2001_关于菈乌玛自己·责任_cn.mp3"
+        },
+        {
+          "name": "关于菈乌玛自己·解忧",
+          "text": "我本应是听取教众烦恼、为他人解忧的神使，但很多时候却在听动物们叽喳呢…呵呵…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/6c26ccc32f1b996d744a3064ad44c381_8277391932634557880.mp3",
+          "audioName": "15_2005_关于菈乌玛自己·解忧_cn.mp3"
+        },
+        {
+          "name": "关于我们·溪流",
+          "text": "林间溪流总是朝向大海而行，或许我们的相遇也是既定的命运。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/4d4823ed6f0d52ef8486652b98db8d88_6587028919141109664.mp3",
+          "audioName": "16_2003_关于我们·溪流_cn.mp3"
+        },
+        {
+          "name": "关于我们·草木",
+          "text": "草木扎根于泥土，向上，也同时向下生长。星辰与深渊都难以穷尽，希望我们的未来亦是如此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/b99e5b30451bf1ff68a5f7461dcc7a38_8922963452942674433.mp3",
+          "audioName": "17_2002_关于我们·草木_cn.mp3"
+        },
+        {
+          "name": "关于「月之轮」…",
+          "text": "这是神明的慈悲，据称以愿望衡量。为什么说「据称」？嗯…因为没有地方去确认啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/2ec40c58da4cb3a1ec962015bf88e8b6_4325357273616315251.mp3",
+          "audioName": "18_3006_关于「月之轮」…_cn.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "置一盆水于月下，对其诉说你的快乐与烦恼吧。如果月影应邀浮现在水面，那么你便得到了月光的祝福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/46ef72c64a2de512188110e0d705836f_3162965113477973785.mp3",
+          "audioName": "19_3002_有什么想要分享…_cn.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "想听动物们对你的评价吗？呵呵…那可能得讲上好多轮月升月落。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/55c5a56a180488e10e02b29eb964061a_3695919540811547604.mp3",
+          "audioName": "20_3003_感兴趣的见闻…_cn.mp3"
+        },
+        {
+          "name": "关于伊涅芙…",
+          "text": "在挪德卡莱有不少经过义体改造的人，但全身都由机械构成就是别的问题了…不过转念一想，和那些心怀不轨的人相比，如此温和、友善、又充满好奇心的她，反而更像理想化的人类呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/6bd4394b3d7eb9b8c1b05a75dd6635d0_1299335145119846302.mp3",
+          "audioName": "21_4001_关于伊涅芙…_cn.mp3"
+        },
+        {
+          "name": "关于爱诺…",
+          "text": "十分聪慧，却又命运坎坷的孩子。她的发明帮助了许多人，挪德卡莱应当为拥有这样的宝物感到荣幸。如果她想来霜月之坊生活，我一定会保证她营养充足，摄取足够的新鲜蔬果与甘泉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/f8b37f81499462af874d2bb07a002de9_8475078179846110055.mp3",
+          "audioName": "22_4002_关于爱诺…_cn.mp3"
+        },
+        {
+          "name": "关于菲林斯…",
+          "text": "他看上去是位很讲究礼节的先生，然而动物们却似乎畏惧着他的存在…我会保持警惕，但不想在没有证据的前提下就对不熟悉的人妄下定论。每次他路过霜月之坊时，我都会让他收下一份今日收获。你说他不是坏人，只是名字太长…嗯…真的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/605fadd7b466e69871d102d6f4ffa20c_8996221355079725785.mp3",
+          "audioName": "23_4003_关于菲林斯…_cn.mp3"
+        },
+        {
+          "name": "关于奈芙尔…",
+          "text": "她和我的行事风格很不一样，但我始终认为，我们并不是无法相处的类型。无论如何，月光都会庇佑她的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/0bb84fda03995676f907666444bc32e8_8789128278245997525.mp3",
+          "audioName": "24_4004_关于奈芙尔…_cn.mp3"
+        },
+        {
+          "name": "关于雅珂达…",
+          "text": "在结伴潜入试验设计局前，我只知道她是「秘闻馆」的成员，是奈芙尔值得信赖的部下。夹在奈芙尔和各种客户之间一定很辛苦吧，我一直想好好招待她一次…呵呵，不知道奈芙尔以前是怎么在她面前称呼我的呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/8e018479dacd9adcc66b2e41f5ab6e6d_2541358374905780279.mp3",
+          "audioName": "25_4005_关于雅珂达…_cn.mp3"
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "虽然挪德卡莱一向人员混杂，但也很难见到比这位先生融入得更好的外乡人了。他待人接物时有一种天然的亲和力，是难能可贵的品质。记得第一次见面，他便向我称赞「霜月之子」分发餐品的美味…虽然我不记得自己曾给过他任何食物，但奇怪的是，我并不怀疑他的诚恳。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/824fbe093ebf511cbd6cc9c8ec87b5b3_538533901444638196.mp3",
+          "audioName": "26_4006_关于法尔伽…_cn.mp3"
+        },
+        {
+          "name": "关于「库塔尔」…",
+          "text": "新生的神明无法从任何地方学到与信众共处的方法，过去的她一定很难过吧…为了能找到调和这种关系的办法，我对神明提出了近乎无礼的要求。虽然她声称自己的确更喜欢独处，但我总还是怀有一丝希望，希望有朝一日，「库塔尔」与「霜月之子」，明月与仰望明月的人，能够在同一片天空下共饮。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/b07cc1a2d05f877744ab04c918d4b17b_6644051334346515381.mp3",
+          "audioName": "27_4007_关于「库塔尔」…_cn.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其一",
+          "text": "看看月亮吧。它永远在那里，无声无息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/598c0a34263449059458f7574c7f428d_5204416978847223191.mp3",
+          "audioName": "28_5001_想要了解菈乌玛·其一_cn.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其二",
+          "text": "在很多地方，残月都是厄运的征兆。但月亮并不是自己想要破碎的…它们也只是命运颠簸的结果。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/53239b4145da4ea12a5a607237f8f736_3658024898195998966.mp3",
+          "audioName": "29_5002_想要了解菈乌玛·其二_cn.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其三",
+          "text": "有时，神的代言人需要比神本身表现得更有「神性」，这样才能符合人们的期待。信众对神明的任性往往表现出超脱常识的宽容，但对使节就不一样了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/c6f98631a30e45d9e235024f1f1b0b97_3676148312490294222.mp3",
+          "audioName": "30_5003_想要了解菈乌玛·其三_cn.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其四",
+          "text": "水果放得时间稍微长一点，就会散发酒的味道。我没有喝酒的习惯，但闻到这种气味时总觉得会更放松些…我，应该不太适合喝酒吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/9faa7336a098257a89abbd979f325ab5_6740089036013025223.mp3",
+          "audioName": "31_5004_想要了解菈乌玛·其四_cn.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其五",
+          "text": "「霜月之子」的小孩子们，很喜欢将轻薄的白纱举过头顶奔跑，因为大人们总是哄他们说，身披白纱就像被月光照拂，一切灾厄都将被隔绝在外。不过一旦过了一定年纪，大家便不再这样嬉闹，转而对着夜幕下苍白的月色礼拜。我也做过么？当然。人都是从小孩开始，一点一点长大的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/53cd8b31eef80235966af033fb2d551f_8732667137795775576.mp3",
+          "audioName": "32_5005_想要了解菈乌玛·其五_cn.mp3"
+        },
+        {
+          "name": "菈乌玛的爱好…",
+          "text": "我喜欢漆黑的夜色中，独自一人的时光。只有风吹过树叶的声响，鸟兽也不再言语。这样最安静。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/3fea6c7ff862f8b6c7eb9d93fe355d58_3783954191033455246.mp3",
+          "audioName": "33_6001_菈乌玛的爱好…_cn.mp3"
+        },
+        {
+          "name": "菈乌玛的烦恼…",
+          "text": "头顶…很重。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/b8678a5095d95c66a5f6cc361a372868_4832985628253728423.mp3",
+          "audioName": "34_6012_菈乌玛的烦恼…_cn.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "无关戒律与信仰，清淡的饮食对我来说最易入口。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/430c706044d5de669a1563fc82d55e78_4963709459139235257.mp3",
+          "audioName": "35_6003_喜欢的食物…_cn.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "油脂丰富，或者缺乏水汽的…我适应不来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/247b721ee6a8b2b104cf35e73e8a78f6_3029192311242082780.mp3",
+          "audioName": "36_6004_讨厌的食物…_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这样新鲜的食材，让你费心了，就由我带给教众们吧。…什么，只给我吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/be9bcb077d284bbf4d2565278821869c_8858429834511932372.mp3",
+          "audioName": "37_6007_收到赠礼·其一_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "感谢你的礼物，不如一起分享吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/0fda7bca695575986a54eb29e5df9ddd_5548566924408143502.mp3",
+          "audioName": "38_6008_收到赠礼·其二_cn.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "应该有比我更需要的人，我会帮你留意的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/0d134742b3ea5307a6dda684781f26d8_6663736137997237520.mp3",
+          "audioName": "39_6009_收到赠礼·其三_cn.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "一柄带着祝福的匕首，赠与被月辉与谧林宠爱的贵客。匕首并非一定是凶物，偶尔也作为礼器在祝祷仪式中出现。当然，你想用它做什么都是自由的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/1b8d1af97b57b32e00a978cad2c6d9c0_2503588189492978121.mp3",
+          "audioName": "40_7001_生日…_cn.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "不可贪求捷径…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/4562fa1860f23c76f3be55916fed5f94_6536081887418913256.mp3",
+          "audioName": "41_8001_突破的感受·起_cn.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "不可贪享力量…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/00fbf3a0e1103d6b0817a2d3e7d04a56_7135559660584666257.mp3",
+          "audioName": "42_8002_突破的感受·承_cn.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "若一切都是为了与「真实」相见——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/3922f4298c246aa3b0028d7cc0b55561_1487434965253677606.mp3",
+          "audioName": "43_8003_突破的感受·转_cn.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我愿意为此献上求道者的血泪。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/312077f3a373b7058aaf6f372112f9f2_6183563488721958788.mp3",
+          "audioName": "44_8004_突破的感受·合_cn.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "苍林的守护。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/17c52ade017cc573e6b33429efa83474_5940535089613075479.mp3",
+          "audioName": "45_100001_元素战技·其一_cn.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "迷途之子啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/f571af36ec5fea13b4dfbb13ec3626e9_3159802810876231492.mp3",
+          "audioName": "46_100002_元素战技·其二_cn.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "去吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/8b4e760c063ba4947e82117da63b8868_7392585873189645477.mp3",
+          "audioName": "47_100003_元素战技·其三_cn.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "如月辉绽放。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/3ffcc1a2265125b85634ad31789558ec_9086933187822821287.mp3",
+          "audioName": "48_100004_元素战技·其四_cn.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "林风之颂。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/8e8cc1395bb8785960b4c6aa99eadd00_8256432108534987020.mp3",
+          "audioName": "49_100005_元素战技·其五_cn.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "带去我的祝福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/44d1f737ffe45bd40247aa857ffd176e_5786248691037850008.mp3",
+          "audioName": "50_100006_元素战技·其六_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "愿霜月如故。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/09/18/16576950/1439a68b31b6640c164175d2fe9485e6_6197912373622975673.mp3",
+          "audioName": "51_200001_元素爆发·其一_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "愿林野如初。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/2d4ee06f2a4bbdf9f4d7f16879c661a5_6647543239586021415.mp3",
+          "audioName": "52_200002_元素爆发·其二_cn.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "祈祷，为众心之所向。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/aa1838a99f19f97b7a6057e8902df856_6490178798005474264.mp3",
+          "audioName": "53_200003_元素爆发·其三_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "对辛劳者的赠礼。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/7530345dd8769a49be8c22f590b2ea05_34672029840426146.mp3",
+          "audioName": "54_300001_打开宝箱·其一_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "是世界在对你示好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/df40f5e2d91b9547fc69f81660ab59cb_6351775167868102775.mp3",
+          "audioName": "55_300002_打开宝箱·其二_cn.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "或许，它一直在等你的到来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/76258a4b258f49b14fbcbb59590157e3_3788127535916128778.mp3",
+          "audioName": "56_300003_打开宝箱·其三_cn.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "呼…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/82dfa2369aab2fdb3ab815214268beef_8339764121489721854.mp3",
+          "audioName": "57_410001_生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "是对我的考验…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/74449d38705c4d38b7fba5ee80f17429_3048908292071090922.mp3",
+          "audioName": "58_410002_生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "应当反省。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/12f45f9e0afb2be1d5e9b9232535ca4e_2883579318866543669.mp3",
+          "audioName": "59_410003_生命值低·其三_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "密林的影子会为你掩护。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/1a8b84d1def1c75391dce166e227e53d_6214846435363806761.mp3",
+          "audioName": "60_400001_同伴生命值低·其一_cn.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "送还霜月的怀抱。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/66cd5a8ab682d110ada103ee16401cc8_3670837458123065902.mp3",
+          "audioName": "61_400002_同伴生命值低·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "深林啊，请收下，这折断的角冠…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/df6b4da491b366bfc8562aa69e7c63e3_1051237841806312639.mp3",
+          "audioName": "62_500001_倒下·其一_cn.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "月汐的扰动，终于结束了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/2e7706da7dfea65904dbd9ad4b7d33b7_7910833655455235469.mp3",
+          "audioName": "63_500002_倒下·其二_cn.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "无月的夜幕…降临。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/91e2b7225e5d2f0d2a371a67230e67c7_1790142461167680961.mp3",
+          "audioName": "64_500003_倒下·其三_cn.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "请别这样…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/280f15b0ccec74691f1fd71e2525d4ef_7262840151173771858.mp3",
+          "audioName": "65_910001_重受击·其一_cn.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "…不义之举。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/6d09356cc735b2b3ac3a58d4e678a101_1158218015207287969.mp3",
+          "audioName": "66_910002_重受击·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "走吧，去月色温柔的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/d6b549c61b99d0213bc0a979b2634c3d_2662299733996132159.mp3",
+          "audioName": "67_600001_加入队伍·其一_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "圣者自会走上正途，无光亦然。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/2b95546764d97425949bd4101cc39de4_8808045248157085596.mp3",
+          "audioName": "68_600002_加入队伍·其二_cn.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "无需顾虑，我应愿而来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/bbbab595c2119cd0099b296e94b99ebd_1945922579592557294.mp3",
+          "audioName": "69_600003_加入队伍·其三_cn.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "日语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "睁开眼睛。我名菈乌玛，此地乃霜月之光慷慨弥散的谧林。无论去往何方，皆在天目所及之处。现在，闭上眼睛，你不再迷路了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/7127a345bc45988d55e0693e13d9d232_1446963767122697155.mp3",
+          "audioName": "01_1006_初次见面…_jp.mp3"
+        },
+        {
+          "name": "闲聊·月光",
+          "text": "即使不在夜晚，即使看不到天空，月光也从未消散。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/86e8199238f49dbc3cfb691d8430be36_6906270849375966675.mp3",
+          "audioName": "02_1101_闲聊·月光_jp.mp3"
+        },
+        {
+          "name": "闲聊·动物",
+          "text": "在挪德卡莱，如果有动物的行为让你不解，可以来找我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a9a15eb780b709b757bcc49952d3a972_1370769656276175077.mp3",
+          "audioName": "03_1102_闲聊·动物_jp.mp3"
+        },
+        {
+          "name": "闲聊·旅途",
+          "text": "想好要去哪边了吗？或者，找块草坪休息一会吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/8c9ab3eb91d9752cf19f43a4b53da71a_3646930956026047423.mp3",
+          "audioName": "04_1103_闲聊·旅途_jp.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊，又快到草木繁茂的季节了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/b7d2d0368164f9947b05c4c735bcca43_8328473952485435182.mp3",
+          "audioName": "05_1201_下雨的时候…_jp.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "一瞬的闪耀，比月光更难捕捉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/016e1d6787ef36b63b4b6b178ad85140_332045219958603276.mp3",
+          "audioName": "06_1202_打雷的时候…_jp.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "听说不能长时间注视如此纯粹的白，是这样的吗？我还挺喜欢的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/8a209e5cf8df584c63f35b011bfcaeaa_1368913630445629373.mp3",
+          "audioName": "07_1203_下雪的时候…_jp.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "听奈芙尔提过世界上有像这样的地方…原来是这般风貌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/edbd7443855d8eb50a144b0bcf5151b8_5140109980809603266.mp3",
+          "audioName": "08_1204_在沙漠的时候…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早安。月神保佑，不论日夜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/46d923bac973bd17a7d6ffb5781351d6_5972155565812795420.mp3",
+          "audioName": "09_1001_早上好…_jp.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早安。月光联系着你我，不论日夜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/85548b2e46e6c89294cc85f4bc48f59d_627038417027629185.mp3",
+          "audioName": "10_1005_早上好…_jp.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "…啊，我刚刚打瞌睡了吗？抱歉。有什么需要，请讲吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/1e140e53c4db0bc78ebf451a2e7c3fc0_1055907461058783547.mp3",
+          "audioName": "11_1002_中午好…_jp.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "今晚的月光很平静。要一起去树林里走走吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/ec912b8611c2c3ed390cc1bfac97483a_8359561580290835116.mp3",
+          "audioName": "12_1003_晚上好…_jp.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "群星已互道过晚安，轮到我们了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/e24480689d669d979efb4c21b14cc71b_8938762664656415486.mp3",
+          "audioName": "13_1004_晚安…_jp.mp3"
+        },
+        {
+          "name": "关于菈乌玛自己·责任",
+          "text": "诸律无法则为把戏，人之无心即为伪神。无论何地，人群聚集的地方都需要规则。即使是像「霜月之子」这样有着共同信仰的地方，也必须要有属于人的规矩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a48e7f1e38889651e3d90739b8ede884_8588367905706047655.mp3",
+          "audioName": "14_2001_关于菈乌玛自己·责任_jp.mp3"
+        },
+        {
+          "name": "关于菈乌玛自己·解忧",
+          "text": "我本应是听取教众烦恼、为他人解忧的神使，但很多时候却在听动物们叽喳呢…呵呵…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/8805d8d300f694bc440cec6487acca35_1614810176197827544.mp3",
+          "audioName": "15_2005_关于菈乌玛自己·解忧_jp.mp3"
+        },
+        {
+          "name": "关于我们·溪流",
+          "text": "林间溪流总是朝向大海而行，或许我们的相遇也是既定的命运。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/2a7e463d3e8ddc0be32bb4a45a6f3d5a_4510131131447408377.mp3",
+          "audioName": "16_2003_关于我们·溪流_jp.mp3"
+        },
+        {
+          "name": "关于我们·草木",
+          "text": "草木扎根于泥土，向上，也同时向下生长。星辰与深渊都难以穷尽，希望我们的未来亦是如此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/4fad2f19b28bf4a37f0e1c766c4be718_5131252482421913484.mp3",
+          "audioName": "17_2002_关于我们·草木_jp.mp3"
+        },
+        {
+          "name": "关于「月之轮」…",
+          "text": "这是神明的慈悲，据称以愿望衡量。为什么说「据称」？嗯…因为没有地方去确认啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/2f01e53a0b72fd4f4ca4d5cd17fe1223_5046688588431129021.mp3",
+          "audioName": "18_3006_关于「月之轮」…_jp.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "置一盆水于月下，对其诉说你的快乐与烦恼吧。如果月影应邀浮现在水面，那么你便得到了月光的祝福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/62940f1759deb2b5bf018ac802244d00_2889492648804576370.mp3",
+          "audioName": "19_3002_有什么想要分享…_jp.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "想听动物们对你的评价吗？呵呵…那可能得讲上好多轮月升月落。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/9f405d457afcb26d26d23fe45193ff97_8336051089840073124.mp3",
+          "audioName": "20_3003_感兴趣的见闻…_jp.mp3"
+        },
+        {
+          "name": "关于伊涅芙…",
+          "text": "在挪德卡莱有不少经过义体改造的人，但全身都由机械构成就是别的问题了…不过转念一想，和那些心怀不轨的人相比，如此温和、友善、又充满好奇心的她，反而更像理想化的人类呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/1a1642ec67fa41e55276e39cda11fcb6_7967552896613347969.mp3",
+          "audioName": "21_4001_关于伊涅芙…_jp.mp3"
+        },
+        {
+          "name": "关于爱诺…",
+          "text": "十分聪慧，却又命运坎坷的孩子。她的发明帮助了许多人，挪德卡莱应当为拥有这样的宝物感到荣幸。如果她想来霜月之坊生活，我一定会保证她营养充足，摄取足够的新鲜蔬果与甘泉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/92e0cd842ca3aec74a1ed6854ada111f_6562882534541132705.mp3",
+          "audioName": "22_4002_关于爱诺…_jp.mp3"
+        },
+        {
+          "name": "关于菲林斯…",
+          "text": "他看上去是位很讲究礼节的先生，然而动物们却似乎畏惧着他的存在…我会保持警惕，但不想在没有证据的前提下就对不熟悉的人妄下定论。每次他路过霜月之坊时，我都会让他收下一份今日收获。你说他不是坏人，只是名字太长…嗯…真的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a0c3e8b5f6d276c54cd25177928404ba_1558420991251394000.mp3",
+          "audioName": "23_4003_关于菲林斯…_jp.mp3"
+        },
+        {
+          "name": "关于奈芙尔…",
+          "text": "她和我的行事风格很不一样，但我始终认为，我们并不是无法相处的类型。无论如何，月光都会庇佑她的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a5ef1100ccbfeab5223ce566a71ff6bd_8522742080290288063.mp3",
+          "audioName": "24_4004_关于奈芙尔…_jp.mp3"
+        },
+        {
+          "name": "关于雅珂达…",
+          "text": "在结伴潜入试验设计局前，我只知道她是「秘闻馆」的成员，是奈芙尔值得信赖的部下。夹在奈芙尔和各种客户之间一定很辛苦吧，我一直想好好招待她一次…呵呵，不知道奈芙尔以前是怎么在她面前称呼我的呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/78aeb1818727e499dc2635863b3f517c_8325228171326565824.mp3",
+          "audioName": "25_4005_关于雅珂达…_jp.mp3"
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "虽然挪德卡莱一向人员混杂，但也很难见到比这位先生融入得更好的外乡人了。他待人接物时有一种天然的亲和力，是难能可贵的品质。记得第一次见面，他便向我称赞「霜月之子」分发餐品的美味…虽然我不记得自己曾给过他任何食物，但奇怪的是，我并不怀疑他的诚恳。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/42baa8dcdeb66aad88b6d8c96cd8cff5_1736398672508426172.mp3",
+          "audioName": "26_4006_关于法尔伽…_jp.mp3"
+        },
+        {
+          "name": "关于「库塔尔」…",
+          "text": "新生的神明无法从任何地方学到与信众共处的方法，过去的她一定很难过吧…为了能找到调和这种关系的办法，我对神明提出了近乎无礼的要求。虽然她声称自己的确更喜欢独处，但我总还是怀有一丝希望，希望有朝一日，「库塔尔」与「霜月之子」，明月与仰望明月的人，能够在同一片天空下共饮。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/6979f2123711a476e1f2ec9aa9b94a6f_7570548900375022273.mp3",
+          "audioName": "27_4007_关于「库塔尔」…_jp.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其一",
+          "text": "看看月亮吧。它永远在那里，无声无息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/f4ee8accb557a88474384d4107018fa7_5548525729763290972.mp3",
+          "audioName": "28_5001_想要了解菈乌玛·其一_jp.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其二",
+          "text": "在很多地方，残月都是厄运的征兆。但月亮并不是自己想要破碎的…它们也只是命运颠簸的结果。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/c8f81b97862fd5187be429af54a393c8_3310071803221011393.mp3",
+          "audioName": "29_5002_想要了解菈乌玛·其二_jp.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其三",
+          "text": "有时，神的代言人需要比神本身表现得更有「神性」，这样才能符合人们的期待。信众对神明的任性往往表现出超脱常识的宽容，但对使节就不一样了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/39357937ac9237b22aefd254a5485978_5682642864037288994.mp3",
+          "audioName": "30_5003_想要了解菈乌玛·其三_jp.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其四",
+          "text": "水果放得时间稍微长一点，就会散发酒的味道。我没有喝酒的习惯，但闻到这种气味时总觉得会更放松些…我，应该不太适合喝酒吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/135d613e0c8533d5872bf0cd1f4582b2_2829672205860733709.mp3",
+          "audioName": "31_5004_想要了解菈乌玛·其四_jp.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其五",
+          "text": "「霜月之子」的小孩子们，很喜欢将轻薄的白纱举过头顶奔跑，因为大人们总是哄他们说，身披白纱就像被月光照拂，一切灾厄都将被隔绝在外。不过一旦过了一定年纪，大家便不再这样嬉闹，转而对着夜幕下苍白的月色礼拜。我也做过么？当然。人都是从小孩开始，一点一点长大的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/ced31738cff96839d91cac991237f5d6_1580957068746397830.mp3",
+          "audioName": "32_5005_想要了解菈乌玛·其五_jp.mp3"
+        },
+        {
+          "name": "菈乌玛的爱好…",
+          "text": "我喜欢漆黑的夜色中，独自一人的时光。只有风吹过树叶的声响，鸟兽也不再言语。这样最安静。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/5bb25173017c30bde73a5377e0d2c660_131382745791091195.mp3",
+          "audioName": "33_6001_菈乌玛的爱好…_jp.mp3"
+        },
+        {
+          "name": "菈乌玛的烦恼…",
+          "text": "头顶…很重。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/13bf945388ffd7153fb17882673c2a61_6936704854375752866.mp3",
+          "audioName": "34_6012_菈乌玛的烦恼…_jp.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "无关戒律与信仰，清淡的饮食对我来说最易入口。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/fa47c6ded5122c207abda053b0da2255_4105760057236732961.mp3",
+          "audioName": "35_6003_喜欢的食物…_jp.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "油脂丰富，或者缺乏水汽的…我适应不来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/63b633e9dd5478a20c8c87cbbbc141d5_1941956832527381255.mp3",
+          "audioName": "36_6004_讨厌的食物…_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这样新鲜的食材，让你费心了，就由我带给教众们吧。…什么，只给我吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/f71aca17fd21be47fd746c5f34f35a01_4253141568001423039.mp3",
+          "audioName": "37_6007_收到赠礼·其一_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "感谢你的礼物，不如一起分享吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/53bde5fb8a28a41c29c8374bdb00a7ae_94089856775231933.mp3",
+          "audioName": "38_6008_收到赠礼·其二_jp.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "应该有比我更需要的人，我会帮你留意的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/1759b70007018b7a3da2cadb8183913e_4686441284056829302.mp3",
+          "audioName": "39_6009_收到赠礼·其三_jp.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "一柄带着祝福的匕首，赠与被月辉与谧林宠爱的贵客。匕首并非一定是凶物，偶尔也作为礼器在祝祷仪式中出现。当然，你想用它做什么都是自由的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a572c865427b5897e8252ed80a202976_377897169246474506.mp3",
+          "audioName": "40_7001_生日…_jp.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "不可贪求捷径…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/3c3af8a9f7ed263f62bfa5ef7f1beb68_9194736125973710262.mp3",
+          "audioName": "41_8001_突破的感受·起_jp.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "不可贪享力量…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/438136b968911a8d026fd9179976bb62_2417718624941175957.mp3",
+          "audioName": "42_8002_突破的感受·承_jp.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "若一切都是为了与「真实」相见——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/bf78b282517dd4681ad4b6429155041a_2188395838395125899.mp3",
+          "audioName": "43_8003_突破的感受·转_jp.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我愿意为此献上求道者的血泪。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/b52e6181f38345ddb875e2ec204b0de1_8531349106882323550.mp3",
+          "audioName": "44_8004_突破的感受·合_jp.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "苍林的守护。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/d86b0407559d5d2be1695cb751cda1e6_9213966090688856028.mp3",
+          "audioName": "45_100001_元素战技·其一_jp.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "迷途之子啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/7f1c7cf2588f14e865491672eaaac3d1_1026605036482181151.mp3",
+          "audioName": "46_100002_元素战技·其二_jp.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "去吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/4c38bd9f972e1bd22a26205019a4c1ef_5479768690032203572.mp3",
+          "audioName": "47_100003_元素战技·其三_jp.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "如月辉绽放。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/c594cec8d5e1eead0132b34aef5daaef_6489050185769860500.mp3",
+          "audioName": "48_100004_元素战技·其四_jp.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "林风之颂。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/9d3f6b555da591f4e4a8d34143a8b41c_3381033052666171495.mp3",
+          "audioName": "49_100005_元素战技·其五_jp.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "带去我的祝福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/58352c647279f2d9f3d703a01d7139fb_3393187859939151429.mp3",
+          "audioName": "50_100006_元素战技·其六_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "愿霜月如故。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a8eac6bd08358b8c88071eff6373b0c3_1114041568431911350.mp3",
+          "audioName": "51_200001_元素爆发·其一_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "愿林野如初。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/6e203f76ee631b656c5e2a51bb2a36ac_3007064487281932657.mp3",
+          "audioName": "52_200002_元素爆发·其二_jp.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "祈祷，为众心之所向。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/0641e39312107331c17c610cd9045530_5837329630350243107.mp3",
+          "audioName": "53_200003_元素爆发·其三_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "对辛劳者的赠礼。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/8f324eca186f76755210740f3a2dceba_8882745927885211270.mp3",
+          "audioName": "54_300001_打开宝箱·其一_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "是世界在对你示好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/bae4918f3d9b1c07134ae9b1fff5125e_3440554644467721161.mp3",
+          "audioName": "55_300002_打开宝箱·其二_jp.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "或许，它一直在等你的到来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a7344d8b23cadd92fe4b03ff4bf508fa_3479352531357732322.mp3",
+          "audioName": "56_300003_打开宝箱·其三_jp.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "呼…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/2fd145a37e6d23bed60324cc29121e69_742785095370838021.mp3",
+          "audioName": "57_410001_生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "是对我的考验…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/17f1be316e3d61349fb27cc808a6495e_2157724859198946609.mp3",
+          "audioName": "58_410002_生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "应当反省。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/5aa75db60c24b9df7d6a4c7b416cdf5a_6039252331227726427.mp3",
+          "audioName": "59_410003_生命值低·其三_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "密林的影子会为你掩护。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/edc6b01f8e2e7c8620b339b824d50f85_8711573907371980469.mp3",
+          "audioName": "60_400001_同伴生命值低·其一_jp.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "送还霜月的怀抱。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/313cd6cdaa051e198a2420446da1d26a_950762082618263224.mp3",
+          "audioName": "61_400002_同伴生命值低·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "深林啊，请收下，这折断的角冠…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/647e6883105df850ff56ff87420737f5_1905187139331076201.mp3",
+          "audioName": "62_500001_倒下·其一_jp.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "月汐的扰动，终于结束了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/8728465396180e1554172cd3f17d6eb7_624168790308351231.mp3",
+          "audioName": "63_500002_倒下·其二_jp.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "无月的夜幕…降临。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a55dd98ab62db32e9bbac569ab220900_2922991936191016235.mp3",
+          "audioName": "64_500003_倒下·其三_jp.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "请别这样…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/c65100010852dc28cb56d96060182af2_1043013155071222169.mp3",
+          "audioName": "65_910001_重受击·其一_jp.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "…不义之举。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/edfd5d6c2b6b580cd9a5b02635500d00_5726848699381077879.mp3",
+          "audioName": "66_910002_重受击·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "走吧，去月色温柔的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/f8693bf6bbb2aa6e69bd187864e4dacf_4238188849919327209.mp3",
+          "audioName": "67_600001_加入队伍·其一_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "圣者自会走上正途，无光亦然。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/d7e08967670572a2a47f5f296feb3c64_8750093958987643286.mp3",
+          "audioName": "68_600002_加入队伍·其二_jp.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "无需顾虑，我应愿而来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/233da422d5f4633dfb0830a7944a3f54_352998437192534081.mp3",
+          "audioName": "69_600003_加入队伍·其三_jp.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "英语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "睁开眼睛。我名菈乌玛，此地乃霜月之光慷慨弥散的谧林。无论去往何方，皆在天目所及之处。现在，闭上眼睛，你不再迷路了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/6a66f352d05c45c11d6c6b94d509cf01_4705760878395086773.mp3",
+          "audioName": "01_1006_初次见面…_en.mp3"
+        },
+        {
+          "name": "闲聊·月光",
+          "text": "即使不在夜晚，即使看不到天空，月光也从未消散。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/bf2567efe30b178e9fcbf982de373f1d_371226917712057653.mp3",
+          "audioName": "02_1101_闲聊·月光_en.mp3"
+        },
+        {
+          "name": "闲聊·动物",
+          "text": "在挪德卡莱，如果有动物的行为让你不解，可以来找我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/5be94cbde7c7a36419d8a3353e336b41_7842975616222675572.mp3",
+          "audioName": "03_1102_闲聊·动物_en.mp3"
+        },
+        {
+          "name": "闲聊·旅途",
+          "text": "想好要去哪边了吗？或者，找块草坪休息一会吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/5cf3cfc2165f02073d8f93f572b6f496_7713003223351028914.mp3",
+          "audioName": "04_1103_闲聊·旅途_en.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊，又快到草木繁茂的季节了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/3fd5c421e9904b3183b728abee0dd732_777056079671132413.mp3",
+          "audioName": "05_1201_下雨的时候…_en.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "一瞬的闪耀，比月光更难捕捉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/bc47e645ec929ecaf262ca2420afc553_4693621415147934237.mp3",
+          "audioName": "06_1202_打雷的时候…_en.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "听说不能长时间注视如此纯粹的白，是这样的吗？我还挺喜欢的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/70024a5dbefb3ddf8414358c195b0bcd_2609431090180193837.mp3",
+          "audioName": "07_1203_下雪的时候…_en.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "听奈芙尔提过世界上有像这样的地方…原来是这般风貌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/5fcccfc8d2174f65cb6d571f79c8f237_8815434931515583298.mp3",
+          "audioName": "08_1204_在沙漠的时候…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早安。月神保佑，不论日夜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/c0cf47515e54632b64b03184ab4d7c99_612348788721898566.mp3",
+          "audioName": "09_1001_早上好…_en.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早安。月光联系着你我，不论日夜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/6d97c9d19843e0fcf37b24cfed4d7d34_4330474224763979190.mp3",
+          "audioName": "10_1005_早上好…_en.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "…啊，我刚刚打瞌睡了吗？抱歉。有什么需要，请讲吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/06d7c1d2081769fc963b7868e927f882_2320448292512483986.mp3",
+          "audioName": "11_1002_中午好…_en.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "今晚的月光很平静。要一起去树林里走走吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/7dced6cf3edc4c4f31452e0a70c452e6_6506950633278803819.mp3",
+          "audioName": "12_1003_晚上好…_en.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "群星已互道过晚安，轮到我们了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/f530e36f8e66ec1fd3653c6b1ca778c3_1422725806761704881.mp3",
+          "audioName": "13_1004_晚安…_en.mp3"
+        },
+        {
+          "name": "关于菈乌玛自己·责任",
+          "text": "诸律无法则为把戏，人之无心即为伪神。无论何地，人群聚集的地方都需要规则。即使是像「霜月之子」这样有着共同信仰的地方，也必须要有属于人的规矩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/4e37dd43260a40d8c22d25cbb7bcd17a_3068210063935348875.mp3",
+          "audioName": "14_2001_关于菈乌玛自己·责任_en.mp3"
+        },
+        {
+          "name": "关于菈乌玛自己·解忧",
+          "text": "我本应是听取教众烦恼、为他人解忧的神使，但很多时候却在听动物们叽喳呢…呵呵…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/5d401d28c5e1ee268b86080284d1b3f4_3988560616281953328.mp3",
+          "audioName": "15_2005_关于菈乌玛自己·解忧_en.mp3"
+        },
+        {
+          "name": "关于我们·溪流",
+          "text": "林间溪流总是朝向大海而行，或许我们的相遇也是既定的命运。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/c1dbbc332fa92f91d8c93cf1770599b3_1595277410677401195.mp3",
+          "audioName": "16_2003_关于我们·溪流_en.mp3"
+        },
+        {
+          "name": "关于我们·草木",
+          "text": "草木扎根于泥土，向上，也同时向下生长。星辰与深渊都难以穷尽，希望我们的未来亦是如此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/278e4ce84993990562950f12aeff4acc_5140403596031086654.mp3",
+          "audioName": "17_2002_关于我们·草木_en.mp3"
+        },
+        {
+          "name": "关于「月之轮」…",
+          "text": "这是神明的慈悲，据称以愿望衡量。为什么说「据称」？嗯…因为没有地方去确认啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/e58f3d1d9aad3cc82e50a7b9cb112136_8596115364557559222.mp3",
+          "audioName": "18_3006_关于「月之轮」…_en.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "置一盆水于月下，对其诉说你的快乐与烦恼吧。如果月影应邀浮现在水面，那么你便得到了月光的祝福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/c585ef9a0cfdf486ffa9e64ba9ade697_2129764302826773752.mp3",
+          "audioName": "19_3002_有什么想要分享…_en.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "想听动物们对你的评价吗？呵呵…那可能得讲上好多轮月升月落。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/00fc76d13044e9a11567a764a3296e29_6886754513881889940.mp3",
+          "audioName": "20_3003_感兴趣的见闻…_en.mp3"
+        },
+        {
+          "name": "关于伊涅芙…",
+          "text": "在挪德卡莱有不少经过义体改造的人，但全身都由机械构成就是别的问题了…不过转念一想，和那些心怀不轨的人相比，如此温和、友善、又充满好奇心的她，反而更像理想化的人类呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/8ef99b0aefba4c6c5215181000af130c_5562478224207898923.mp3",
+          "audioName": "21_4001_关于伊涅芙…_en.mp3"
+        },
+        {
+          "name": "关于爱诺…",
+          "text": "十分聪慧，却又命运坎坷的孩子。她的发明帮助了许多人，挪德卡莱应当为拥有这样的宝物感到荣幸。如果她想来霜月之坊生活，我一定会保证她营养充足，摄取足够的新鲜蔬果与甘泉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/02176921efda0f2d4949f94527037188_7350932723487308620.mp3",
+          "audioName": "22_4002_关于爱诺…_en.mp3"
+        },
+        {
+          "name": "关于菲林斯…",
+          "text": "他看上去是位很讲究礼节的先生，然而动物们却似乎畏惧着他的存在…我会保持警惕，但不想在没有证据的前提下就对不熟悉的人妄下定论。每次他路过霜月之坊时，我都会让他收下一份今日收获。你说他不是坏人，只是名字太长…嗯…真的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/d5d227131169746026b4ee3367a923a9_4833839985158487432.mp3",
+          "audioName": "23_4003_关于菲林斯…_en.mp3"
+        },
+        {
+          "name": "关于奈芙尔…",
+          "text": "她和我的行事风格很不一样，但我始终认为，我们并不是无法相处的类型。无论如何，月光都会庇佑她的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a4eea3cd458e524bcd207e9f484c7db6_5371908811207797954.mp3",
+          "audioName": "24_4004_关于奈芙尔…_en.mp3"
+        },
+        {
+          "name": "关于雅珂达…",
+          "text": "在结伴潜入试验设计局前，我只知道她是「秘闻馆」的成员，是奈芙尔值得信赖的部下。夹在奈芙尔和各种客户之间一定很辛苦吧，我一直想好好招待她一次…呵呵，不知道奈芙尔以前是怎么在她面前称呼我的呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/002de3af45aaf4bfc65564ea9c021cf5_3576989518427184420.mp3",
+          "audioName": "25_4005_关于雅珂达…_en.mp3"
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "虽然挪德卡莱一向人员混杂，但也很难见到比这位先生融入得更好的外乡人了。他待人接物时有一种天然的亲和力，是难能可贵的品质。记得第一次见面，他便向我称赞「霜月之子」分发餐品的美味…虽然我不记得自己曾给过他任何食物，但奇怪的是，我并不怀疑他的诚恳。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/8f29eb49b607824acd61205b544497bd_3236112089737525520.mp3",
+          "audioName": "26_4006_关于法尔伽…_en.mp3"
+        },
+        {
+          "name": "关于「库塔尔」…",
+          "text": "新生的神明无法从任何地方学到与信众共处的方法，过去的她一定很难过吧…为了能找到调和这种关系的办法，我对神明提出了近乎无礼的要求。虽然她声称自己的确更喜欢独处，但我总还是怀有一丝希望，希望有朝一日，「库塔尔」与「霜月之子」，明月与仰望明月的人，能够在同一片天空下共饮。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/143314a53d415779378ee186d4e8b0d6_1975930230692309754.mp3",
+          "audioName": "27_4007_关于「库塔尔」…_en.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其一",
+          "text": "看看月亮吧。它永远在那里，无声无息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/e52a9d9f6014d0efacc075785f4a3e81_4519608755760652368.mp3",
+          "audioName": "28_5001_想要了解菈乌玛·其一_en.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其二",
+          "text": "在很多地方，残月都是厄运的征兆。但月亮并不是自己想要破碎的…它们也只是命运颠簸的结果。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/d0e4d1051ba39c3089ebb6bef6139901_7338165016980956584.mp3",
+          "audioName": "29_5002_想要了解菈乌玛·其二_en.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其三",
+          "text": "有时，神的代言人需要比神本身表现得更有「神性」，这样才能符合人们的期待。信众对神明的任性往往表现出超脱常识的宽容，但对使节就不一样了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/af2cc32db33d83e10e5ee4e636d855ab_3789344640728323539.mp3",
+          "audioName": "30_5003_想要了解菈乌玛·其三_en.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其四",
+          "text": "水果放得时间稍微长一点，就会散发酒的味道。我没有喝酒的习惯，但闻到这种气味时总觉得会更放松些…我，应该不太适合喝酒吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/3c948b416cd6eb0128ff882d62b6828a_1301127142358110294.mp3",
+          "audioName": "31_5004_想要了解菈乌玛·其四_en.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其五",
+          "text": "「霜月之子」的小孩子们，很喜欢将轻薄的白纱举过头顶奔跑，因为大人们总是哄他们说，身披白纱就像被月光照拂，一切灾厄都将被隔绝在外。不过一旦过了一定年纪，大家便不再这样嬉闹，转而对着夜幕下苍白的月色礼拜。我也做过么？当然。人都是从小孩开始，一点一点长大的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/8224ef09254a981555cfd6fa95fe6d32_2674529113900904293.mp3",
+          "audioName": "32_5005_想要了解菈乌玛·其五_en.mp3"
+        },
+        {
+          "name": "菈乌玛的爱好…",
+          "text": "我喜欢漆黑的夜色中，独自一人的时光。只有风吹过树叶的声响，鸟兽也不再言语。这样最安静。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/7e0c95458d2ce8732a23bb934921c581_6287253036587361738.mp3",
+          "audioName": "33_6001_菈乌玛的爱好…_en.mp3"
+        },
+        {
+          "name": "菈乌玛的烦恼…",
+          "text": "头顶…很重。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/11983d99c7917d6e338db4f69ffafae4_4000544670657862974.mp3",
+          "audioName": "34_6012_菈乌玛的烦恼…_en.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "无关戒律与信仰，清淡的饮食对我来说最易入口。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/fb8ffc5f66a73e15441cbbfdcccf3de1_1651910162819914732.mp3",
+          "audioName": "35_6003_喜欢的食物…_en.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "油脂丰富，或者缺乏水汽的…我适应不来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a2fc7d48bd5964bad4f76222d9b74d48_9014185966748019217.mp3",
+          "audioName": "36_6004_讨厌的食物…_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这样新鲜的食材，让你费心了，就由我带给教众们吧。…什么，只给我吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/c620a9e6a0fbc6a97cc0e0a9777eccc3_2040505601414435506.mp3",
+          "audioName": "37_6007_收到赠礼·其一_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "感谢你的礼物，不如一起分享吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/12f41bf3e29321696b3a12013a3ff3ec_4520167531140633261.mp3",
+          "audioName": "38_6008_收到赠礼·其二_en.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "应该有比我更需要的人，我会帮你留意的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/d4e1bd497d6257908ec0fabe4f4c08f3_4151830727453024461.mp3",
+          "audioName": "39_6009_收到赠礼·其三_en.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "一柄带着祝福的匕首，赠与被月辉与谧林宠爱的贵客。匕首并非一定是凶物，偶尔也作为礼器在祝祷仪式中出现。当然，你想用它做什么都是自由的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/12ee15c2c2804961c28053d5dcc1f234_1453464231352199264.mp3",
+          "audioName": "40_7001_生日…_en.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "不可贪求捷径…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/556909227c31c7d5d002d754d49ffb81_6210326045663661098.mp3",
+          "audioName": "41_8001_突破的感受·起_en.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "不可贪享力量…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/6e23f8679c196f7ba13e5268a185ec6f_4681048828277869214.mp3",
+          "audioName": "42_8002_突破的感受·承_en.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "若一切都是为了与「真实」相见——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/35045584fb91f1bee6e7b052b0e8d7d8_1821925487272481760.mp3",
+          "audioName": "43_8003_突破的感受·转_en.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我愿意为此献上求道者的血泪。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/63ca5adbfae8fd50b90d9a2459feeb3a_7293560127240382237.mp3",
+          "audioName": "44_8004_突破的感受·合_en.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "苍林的守护。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/bf50efdcdaac4d751fda1242b41e972f_7420932105144647077.mp3",
+          "audioName": "45_100001_元素战技·其一_en.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "迷途之子啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/525eea7730078435f77da2748446931a_7390230851469013644.mp3",
+          "audioName": "46_100002_元素战技·其二_en.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "去吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/e55d06636f927bcb3401794bd78d8f03_3330665065268135791.mp3",
+          "audioName": "47_100003_元素战技·其三_en.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "如月辉绽放。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/87b199cd69f8d82c0a4967309e6ba52b_4832355160716619509.mp3",
+          "audioName": "48_100004_元素战技·其四_en.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "林风之颂。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/44ee938b4469612d5e7e64e0e656bbd1_7858874153501769030.mp3",
+          "audioName": "49_100005_元素战技·其五_en.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "带去我的祝福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/f3fe1fd2709d2518fd09028fdf7a1114_906520929348280686.mp3",
+          "audioName": "50_100006_元素战技·其六_en.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "愿霜月如故。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/d3958952b25feb483350bf409c95c298_1515756114183366742.mp3",
+          "audioName": "51_200001_元素爆发·其一_en.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "愿林野如初。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/59d25cb46294528131c96d7969a6bcac_6349558198955806647.mp3",
+          "audioName": "52_200002_元素爆发·其二_en.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "祈祷，为众心之所向。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/ed257db9af8157ff9846ed07bcc00be0_2939588187121914688.mp3",
+          "audioName": "53_200003_元素爆发·其三_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "对辛劳者的赠礼。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/f53e947e88b7863a3b34d5c4af54ff19_1213542799786126309.mp3",
+          "audioName": "54_300001_打开宝箱·其一_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "是世界在对你示好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/f69ea1f9a8cbef7dedae575df2a0bd61_5970632255606872779.mp3",
+          "audioName": "55_300002_打开宝箱·其二_en.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "或许，它一直在等你的到来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a5a7bbcf247f475aa6d10cb277e11d4d_4483893225225387497.mp3",
+          "audioName": "56_300003_打开宝箱·其三_en.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "呼…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/40f9a6d311e43c44856a329008ee852b_3288770589078317966.mp3",
+          "audioName": "57_410001_生命值低·其一_en.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "是对我的考验…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/67270119c9be9d127841a66dce7b12b5_6352943809926945243.mp3",
+          "audioName": "58_410002_生命值低·其二_en.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "应当反省。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/95ca1a924c6c25a59cc78a0f9cbff50f_8781385069213915962.mp3",
+          "audioName": "59_410003_生命值低·其三_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "密林的影子会为你掩护。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/6ebad158e4a5a6c01702206c63e92ab4_6998831441684080386.mp3",
+          "audioName": "60_400001_同伴生命值低·其一_en.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "送还霜月的怀抱。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a1b290764f250c119555f807bd5a1f1e_2727865723014035043.mp3",
+          "audioName": "61_400002_同伴生命值低·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "深林啊，请收下，这折断的角冠…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a201cf5b40f49fd0c82c32135b6398db_724030103312625096.mp3",
+          "audioName": "62_500001_倒下·其一_en.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "月汐的扰动，终于结束了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/c7e0c818f0579f5a4d4f1026c4157d5d_3424665764840041404.mp3",
+          "audioName": "63_500002_倒下·其二_en.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "无月的夜幕…降临。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/1b7cfb13058e4d276619acfc7cb71c20_3467116978415745113.mp3",
+          "audioName": "64_500003_倒下·其三_en.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "请别这样…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/70259d376491ffee16bfbcc37cdac4c0_217944120301256005.mp3",
+          "audioName": "65_910001_重受击·其一_en.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "…不义之举。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a1d2a445fe17293cd41fe571363ec699_785402873833286784.mp3",
+          "audioName": "66_910002_重受击·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "走吧，去月色温柔的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/50c05fec41abfa1ab636d5918c13cc04_4691286344281135992.mp3",
+          "audioName": "67_600001_加入队伍·其一_en.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "圣者自会走上正途，无光亦然。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/bc612dd3ea1a7266b6e18e37eefc40df_2953142114774024066.mp3",
+          "audioName": "68_600002_加入队伍·其二_en.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "无需顾虑，我应愿而来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/d99ceeb0efa5d5d3216b6174683abb3b_5572158264252413029.mp3",
+          "audioName": "69_600003_加入队伍·其三_en.mp3"
+        }
+      ]
+    },
+    {
+      "lang": "韩语",
+      "items": [
+        {
+          "name": "初次见面…",
+          "text": "睁开眼睛。我名菈乌玛，此地乃霜月之光慷慨弥散的谧林。无论去往何方，皆在天目所及之处。现在，闭上眼睛，你不再迷路了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/ea4c10e92bfa572fba9a1cd3b593a7b1_8740197938949171833.mp3",
+          "audioName": "01_1006_初次见面…_kr.mp3"
+        },
+        {
+          "name": "闲聊·月光",
+          "text": "即使不在夜晚，即使看不到天空，月光也从未消散。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/c79b2bd2cad26989d227a038dc9113b1_7047520557872914506.mp3",
+          "audioName": "02_1101_闲聊·月光_kr.mp3"
+        },
+        {
+          "name": "闲聊·动物",
+          "text": "在挪德卡莱，如果有动物的行为让你不解，可以来找我。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/5982062b79f69599a2a3299e466e20b5_1498529781372731627.mp3",
+          "audioName": "03_1102_闲聊·动物_kr.mp3"
+        },
+        {
+          "name": "闲聊·旅途",
+          "text": "想好要去哪边了吗？或者，找块草坪休息一会吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/caf0b8681093b2df965a7c145b5727cd_7498971959355670190.mp3",
+          "audioName": "04_1103_闲聊·旅途_kr.mp3"
+        },
+        {
+          "name": "下雨的时候…",
+          "text": "啊，又快到草木繁茂的季节了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/3869b9bd606f9d4975875c620f4a9203_8555481570529822560.mp3",
+          "audioName": "05_1201_下雨的时候…_kr.mp3"
+        },
+        {
+          "name": "打雷的时候…",
+          "text": "一瞬的闪耀，比月光更难捕捉…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/3bbc691a5e39120bd9c4ebccb809fb5c_6519132429084592953.mp3",
+          "audioName": "06_1202_打雷的时候…_kr.mp3"
+        },
+        {
+          "name": "下雪的时候…",
+          "text": "听说不能长时间注视如此纯粹的白，是这样的吗？我还挺喜欢的…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/5205d77dfd67c44c1db2cff84f734f46_9097218902306184641.mp3",
+          "audioName": "07_1203_下雪的时候…_kr.mp3"
+        },
+        {
+          "name": "在沙漠的时候…",
+          "text": "听奈芙尔提过世界上有像这样的地方…原来是这般风貌。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/6cefba7e4e5ab61e97c1f9fe67c867c4_6471186075488567359.mp3",
+          "audioName": "08_1204_在沙漠的时候…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早安。月神保佑，不论日夜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/4d89b69826af59f1768c8abcbfd6ba5f_3515298469634384226.mp3",
+          "audioName": "09_1001_早上好…_kr.mp3"
+        },
+        {
+          "name": "早上好…",
+          "text": "早安。月光联系着你我，不论日夜。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/0372d3410375e1479d5454120aa31896_7619785044976176258.mp3",
+          "audioName": "10_1005_早上好…_kr.mp3"
+        },
+        {
+          "name": "中午好…",
+          "text": "…啊，我刚刚打瞌睡了吗？抱歉。有什么需要，请讲吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/bfd6cd0de6f439881eb039b99663c50e_6166265455197191639.mp3",
+          "audioName": "11_1002_中午好…_kr.mp3"
+        },
+        {
+          "name": "晚上好…",
+          "text": "今晚的月光很平静。要一起去树林里走走吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/c1f8403fc4ada1463688591d0586c8ce_259418270266606582.mp3",
+          "audioName": "12_1003_晚上好…_kr.mp3"
+        },
+        {
+          "name": "晚安…",
+          "text": "群星已互道过晚安，轮到我们了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/0c29d32f43a6dcbdb3f6363343875efd_7007145857897805044.mp3",
+          "audioName": "13_1004_晚安…_kr.mp3"
+        },
+        {
+          "name": "关于菈乌玛自己·责任",
+          "text": "诸律无法则为把戏，人之无心即为伪神。无论何地，人群聚集的地方都需要规则。即使是像「霜月之子」这样有着共同信仰的地方，也必须要有属于人的规矩。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/b0335ba42ce47a388387504172c9c167_7094233104791326424.mp3",
+          "audioName": "14_2001_关于菈乌玛自己·责任_kr.mp3"
+        },
+        {
+          "name": "关于菈乌玛自己·解忧",
+          "text": "我本应是听取教众烦恼、为他人解忧的神使，但很多时候却在听动物们叽喳呢…呵呵…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/09dfa376f9c1af6b38d1c229f8c7e413_7950339301903047381.mp3",
+          "audioName": "15_2005_关于菈乌玛自己·解忧_kr.mp3"
+        },
+        {
+          "name": "关于我们·溪流",
+          "text": "林间溪流总是朝向大海而行，或许我们的相遇也是既定的命运。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/9a3b1c4ce7d461e3f74330c6194162b2_8594269683776281351.mp3",
+          "audioName": "16_2003_关于我们·溪流_kr.mp3"
+        },
+        {
+          "name": "关于我们·草木",
+          "text": "草木扎根于泥土，向上，也同时向下生长。星辰与深渊都难以穷尽，希望我们的未来亦是如此。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/898530d7377117d454ac4522e1d884c7_9118002575094436604.mp3",
+          "audioName": "17_2002_关于我们·草木_kr.mp3"
+        },
+        {
+          "name": "关于「月之轮」…",
+          "text": "这是神明的慈悲，据称以愿望衡量。为什么说「据称」？嗯…因为没有地方去确认啊。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/9ea237d498122fc26b04b80127a7b427_5906924816537134521.mp3",
+          "audioName": "18_3006_关于「月之轮」…_kr.mp3"
+        },
+        {
+          "name": "有什么想要分享…",
+          "text": "置一盆水于月下，对其诉说你的快乐与烦恼吧。如果月影应邀浮现在水面，那么你便得到了月光的祝福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/2858fedc051fb4bf633423de34b4f9bd_8775476327864309760.mp3",
+          "audioName": "19_3002_有什么想要分享…_kr.mp3"
+        },
+        {
+          "name": "感兴趣的见闻…",
+          "text": "想听动物们对你的评价吗？呵呵…那可能得讲上好多轮月升月落。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/fcff4f9d67d6302dd1cc8766fff0c1d6_7985175243216453740.mp3",
+          "audioName": "20_3003_感兴趣的见闻…_kr.mp3"
+        },
+        {
+          "name": "关于伊涅芙…",
+          "text": "在挪德卡莱有不少经过义体改造的人，但全身都由机械构成就是别的问题了…不过转念一想，和那些心怀不轨的人相比，如此温和、友善、又充满好奇心的她，反而更像理想化的人类呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/488ca85d5d8892ce3f4fade4138e1d82_4475909672449182908.mp3",
+          "audioName": "21_4001_关于伊涅芙…_kr.mp3"
+        },
+        {
+          "name": "关于爱诺…",
+          "text": "十分聪慧，却又命运坎坷的孩子。她的发明帮助了许多人，挪德卡莱应当为拥有这样的宝物感到荣幸。如果她想来霜月之坊生活，我一定会保证她营养充足，摄取足够的新鲜蔬果与甘泉。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/4a450911bc52e6392fdb889153475295_1633888179107872757.mp3",
+          "audioName": "22_4002_关于爱诺…_kr.mp3"
+        },
+        {
+          "name": "关于菲林斯…",
+          "text": "他看上去是位很讲究礼节的先生，然而动物们却似乎畏惧着他的存在…我会保持警惕，但不想在没有证据的前提下就对不熟悉的人妄下定论。每次他路过霜月之坊时，我都会让他收下一份今日收获。你说他不是坏人，只是名字太长…嗯…真的吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/dab459ccf30762af7b87c3352a5f2e88_6197634384845254998.mp3",
+          "audioName": "23_4003_关于菲林斯…_kr.mp3"
+        },
+        {
+          "name": "关于奈芙尔…",
+          "text": "她和我的行事风格很不一样，但我始终认为，我们并不是无法相处的类型。无论如何，月光都会庇佑她的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/42d25e337170e8da88377e34c4a09dfd_673661797021366578.mp3",
+          "audioName": "24_4004_关于奈芙尔…_kr.mp3"
+        },
+        {
+          "name": "关于雅珂达…",
+          "text": "在结伴潜入试验设计局前，我只知道她是「秘闻馆」的成员，是奈芙尔值得信赖的部下。夹在奈芙尔和各种客户之间一定很辛苦吧，我一直想好好招待她一次…呵呵，不知道奈芙尔以前是怎么在她面前称呼我的呢。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/7e49068792fe63302f93334a78845f57_4261188901484409494.mp3",
+          "audioName": "25_4005_关于雅珂达…_kr.mp3"
+        },
+        {
+          "name": "关于法尔伽…",
+          "text": "虽然挪德卡莱一向人员混杂，但也很难见到比这位先生融入得更好的外乡人了。他待人接物时有一种天然的亲和力，是难能可贵的品质。记得第一次见面，他便向我称赞「霜月之子」分发餐品的美味…虽然我不记得自己曾给过他任何食物，但奇怪的是，我并不怀疑他的诚恳。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/4e8ba78dd874ce2b49a530a527d932a6_8544305097314911287.mp3",
+          "audioName": "26_4006_关于法尔伽…_kr.mp3"
+        },
+        {
+          "name": "关于「库塔尔」…",
+          "text": "新生的神明无法从任何地方学到与信众共处的方法，过去的她一定很难过吧…为了能找到调和这种关系的办法，我对神明提出了近乎无礼的要求。虽然她声称自己的确更喜欢独处，但我总还是怀有一丝希望，希望有朝一日，「库塔尔」与「霜月之子」，明月与仰望明月的人，能够在同一片天空下共饮。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/189bf614224a0027ad9e1b0568257a5a_7662689718477331461.mp3",
+          "audioName": "27_4007_关于「库塔尔」…_kr.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其一",
+          "text": "看看月亮吧。它永远在那里，无声无息。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/bfb755849829f2d9deffc8aa55406bd2_4871134796247544556.mp3",
+          "audioName": "28_5001_想要了解菈乌玛·其一_kr.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其二",
+          "text": "在很多地方，残月都是厄运的征兆。但月亮并不是自己想要破碎的…它们也只是命运颠簸的结果。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/53a5779d9c696c715591f82b53583e2e_2899249175957113600.mp3",
+          "audioName": "29_5002_想要了解菈乌玛·其二_kr.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其三",
+          "text": "有时，神的代言人需要比神本身表现得更有「神性」，这样才能符合人们的期待。信众对神明的任性往往表现出超脱常识的宽容，但对使节就不一样了。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/40a005a7a86952d022bbbd2bff1b5852_5971920914927457909.mp3",
+          "audioName": "30_5003_想要了解菈乌玛·其三_kr.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其四",
+          "text": "水果放得时间稍微长一点，就会散发酒的味道。我没有喝酒的习惯，但闻到这种气味时总觉得会更放松些…我，应该不太适合喝酒吧？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/6c8efd323ac7e9e94bd06598292af511_2088147653477943099.mp3",
+          "audioName": "31_5004_想要了解菈乌玛·其四_kr.mp3"
+        },
+        {
+          "name": "想要了解菈乌玛·其五",
+          "text": "「霜月之子」的小孩子们，很喜欢将轻薄的白纱举过头顶奔跑，因为大人们总是哄他们说，身披白纱就像被月光照拂，一切灾厄都将被隔绝在外。不过一旦过了一定年纪，大家便不再这样嬉闹，转而对着夜幕下苍白的月色礼拜。我也做过么？当然。人都是从小孩开始，一点一点长大的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a0e3b856b1f0b22e73924f66f5a1b0d4_7493365954854678430.mp3",
+          "audioName": "32_5005_想要了解菈乌玛·其五_kr.mp3"
+        },
+        {
+          "name": "菈乌玛的爱好…",
+          "text": "我喜欢漆黑的夜色中，独自一人的时光。只有风吹过树叶的声响，鸟兽也不再言语。这样最安静。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/ab6d05340f04a171b698b1db9384caff_2683758568433898334.mp3",
+          "audioName": "33_6001_菈乌玛的爱好…_kr.mp3"
+        },
+        {
+          "name": "菈乌玛的烦恼…",
+          "text": "头顶…很重。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/892862119a93fc6bf8cd5d02741a36ef_5006938874591759704.mp3",
+          "audioName": "34_6012_菈乌玛的烦恼…_kr.mp3"
+        },
+        {
+          "name": "喜欢的食物…",
+          "text": "无关戒律与信仰，清淡的饮食对我来说最易入口。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/1b9f7899cafbeb15facb519a78dad818_6695936950957470688.mp3",
+          "audioName": "35_6003_喜欢的食物…_kr.mp3"
+        },
+        {
+          "name": "讨厌的食物…",
+          "text": "油脂丰富，或者缺乏水汽的…我适应不来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/684489a8d37884e5e7fe8eaae83a7bd2_244423771728368659.mp3",
+          "audioName": "36_6004_讨厌的食物…_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其一",
+          "text": "这样新鲜的食材，让你费心了，就由我带给教众们吧。…什么，只给我吗？",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/1838ce1b3ac02f49dc6189fe8af1d2bf_598497208339346064.mp3",
+          "audioName": "37_6007_收到赠礼·其一_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其二",
+          "text": "感谢你的礼物，不如一起分享吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/91ad11b1c32e7f5e3399863317d37ff5_836415542677724353.mp3",
+          "audioName": "38_6008_收到赠礼·其二_kr.mp3"
+        },
+        {
+          "name": "收到赠礼·其三",
+          "text": "应该有比我更需要的人，我会帮你留意的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/89a68df4ab6a484c0890ebedf4f34ee5_8735266285523292897.mp3",
+          "audioName": "39_6009_收到赠礼·其三_kr.mp3"
+        },
+        {
+          "name": "生日…",
+          "text": "一柄带着祝福的匕首，赠与被月辉与谧林宠爱的贵客。匕首并非一定是凶物，偶尔也作为礼器在祝祷仪式中出现。当然，你想用它做什么都是自由的。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/0b00ac5e73004d829c1a5dfb47c1a44d_8368200132287916759.mp3",
+          "audioName": "40_7001_生日…_kr.mp3"
+        },
+        {
+          "name": "突破的感受·起",
+          "text": "不可贪求捷径…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/2d3e14584762900f25b578579cc9e78b_8557221255435831404.mp3",
+          "audioName": "41_8001_突破的感受·起_kr.mp3"
+        },
+        {
+          "name": "突破的感受·承",
+          "text": "不可贪享力量…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/d234a5e6d4a7358e4c4080b0560b093d_4276580775557372163.mp3",
+          "audioName": "42_8002_突破的感受·承_kr.mp3"
+        },
+        {
+          "name": "突破的感受·转",
+          "text": "若一切都是为了与「真实」相见——",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/39576eaec7cf64bb60e483cc99f8a9c8_5302952237776301311.mp3",
+          "audioName": "43_8003_突破的感受·转_kr.mp3"
+        },
+        {
+          "name": "突破的感受·合",
+          "text": "我愿意为此献上求道者的血泪。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/7c05b191b31b76deba3b576e2891f031_5070649855864237299.mp3",
+          "audioName": "44_8004_突破的感受·合_kr.mp3"
+        },
+        {
+          "name": "元素战技·其一",
+          "text": "苍林的守护。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/735974b8595f8d0abe231e7fdd161f60_1322818363658394433.mp3",
+          "audioName": "45_100001_元素战技·其一_kr.mp3"
+        },
+        {
+          "name": "元素战技·其二",
+          "text": "迷途之子啊…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/a4e3698c50daa4cf0327bbf99d82920f_5895509994396838489.mp3",
+          "audioName": "46_100002_元素战技·其二_kr.mp3"
+        },
+        {
+          "name": "元素战技·其三",
+          "text": "去吧。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/6373fa7d97f05192088b91d89ef8a148_4978039235514355086.mp3",
+          "audioName": "47_100003_元素战技·其三_kr.mp3"
+        },
+        {
+          "name": "元素战技·其四",
+          "text": "如月辉绽放。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/366088eb7d6bbfa4ea3b11134b197773_1711111903404020805.mp3",
+          "audioName": "48_100004_元素战技·其四_kr.mp3"
+        },
+        {
+          "name": "元素战技·其五",
+          "text": "林风之颂。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/f877a0dfb5292ec0b9eff9b3705f9225_3372790099249147282.mp3",
+          "audioName": "49_100005_元素战技·其五_kr.mp3"
+        },
+        {
+          "name": "元素战技·其六",
+          "text": "带去我的祝福。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/e2b7359e4bb6b701068a220e8479f903_3287194184662652826.mp3",
+          "audioName": "50_100006_元素战技·其六_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其一",
+          "text": "愿霜月如故。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/fc401368231a2da9ee180e2e68a2fa5a_7370752360455172884.mp3",
+          "audioName": "51_200001_元素爆发·其一_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其二",
+          "text": "愿林野如初。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/bbe393cbdaf6c539e6630a6a5f23e2e5_6925888318302561125.mp3",
+          "audioName": "52_200002_元素爆发·其二_kr.mp3"
+        },
+        {
+          "name": "元素爆发·其三",
+          "text": "祈祷，为众心之所向。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/6271c37a682bd4dc24ccfacaa37b9b93_3522157797194303332.mp3",
+          "audioName": "53_200003_元素爆发·其三_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其一",
+          "text": "对辛劳者的赠礼。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/30831a8d3481421296ac599abc1ac35f_4376972277012490770.mp3",
+          "audioName": "54_300001_打开宝箱·其一_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其二",
+          "text": "是世界在对你示好。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/ff02adb2c10c1718bdca68ffe9ec321e_8295319497091992391.mp3",
+          "audioName": "55_300002_打开宝箱·其二_kr.mp3"
+        },
+        {
+          "name": "打开宝箱·其三",
+          "text": "或许，它一直在等你的到来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/c38e961ab2a85c2bf553973ce3bd883b_4127308118429328933.mp3",
+          "audioName": "56_300003_打开宝箱·其三_kr.mp3"
+        },
+        {
+          "name": "生命值低·其一",
+          "text": "呼…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/d310c648db6c364f7b10a8a5f63ca040_8963484757625254829.mp3",
+          "audioName": "57_410001_生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "生命值低·其二",
+          "text": "是对我的考验…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/68ec9c5c3e3688813c2072e471ffd2d4_7729144090975481372.mp3",
+          "audioName": "58_410002_生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "生命值低·其三",
+          "text": "应当反省。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/ef15b40edab951f2561d583f5b8d7dbf_8382780559493252128.mp3",
+          "audioName": "59_410003_生命值低·其三_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其一",
+          "text": "密林的影子会为你掩护。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/02d9c0db67b59053036261094bce6810_7745487948284557096.mp3",
+          "audioName": "60_400001_同伴生命值低·其一_kr.mp3"
+        },
+        {
+          "name": "同伴生命值低·其二",
+          "text": "送还霜月的怀抱。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/08c9bab8cd494b698460f15bb4d62e71_1277766883556513616.mp3",
+          "audioName": "61_400002_同伴生命值低·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其一",
+          "text": "深林啊，请收下，这折断的角冠…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/6224d360580a22501cdcf8ca9a2b3f9d_5181512966771625330.mp3",
+          "audioName": "62_500001_倒下·其一_kr.mp3"
+        },
+        {
+          "name": "倒下·其二",
+          "text": "月汐的扰动，终于结束了…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/99754f2933722b6dba828c369b3bbbe2_782790370617705620.mp3",
+          "audioName": "63_500002_倒下·其二_kr.mp3"
+        },
+        {
+          "name": "倒下·其三",
+          "text": "无月的夜幕…降临。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/4210d6ffd9775b1182265e422fc49b5f_7354798647443017328.mp3",
+          "audioName": "64_500003_倒下·其三_kr.mp3"
+        },
+        {
+          "name": "重受击·其一",
+          "text": "请别这样…",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/5c67c690e5c2d1c41047c63e566698e5_3470448311372396953.mp3",
+          "audioName": "65_910001_重受击·其一_kr.mp3"
+        },
+        {
+          "name": "重受击·其二",
+          "text": "…不义之举。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/2ed826303a080d1cd0ce01c48a9ba743_4587869408687153333.mp3",
+          "audioName": "66_910002_重受击·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其一",
+          "text": "走吧，去月色温柔的地方。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/cee8e7dd71dc89d04de9c7ace09c69ee_2320275424822595923.mp3",
+          "audioName": "67_600001_加入队伍·其一_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其二",
+          "text": "圣者自会走上正途，无光亦然。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/aebc920662339a34b23747c4e6e49106_8277871811108647257.mp3",
+          "audioName": "68_600002_加入队伍·其二_kr.mp3"
+        },
+        {
+          "name": "加入队伍·其三",
+          "text": "无需顾虑，我应愿而来。",
+          "audioUrl": "https://act-upload.mihoyo.com/wiki-user-upload/2025/10/10/16576950/e809f162fd8a09a75c0ef3414b728215_3597531949764211528.mp3",
+          "audioName": "69_600003_加入队伍·其三_kr.mp3"
+        }
+      ]
+    }
+  ]
+}
