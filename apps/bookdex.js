@@ -11,6 +11,8 @@ import {
   relicRoot,
   weaponRoot,
   voiceRoot,
+  anecdoteRoot,
+  cardRoot,
   TEXT_PAGE_CHARS,
   TEXT_FORWARD_BATCH_SIZE,
   slugify,
@@ -22,7 +24,9 @@ import {
   loadWeaponIndex,
   loadVoiceIndex,
   loadPlotIndex,
-  loadMapIndex
+  loadMapIndex,
+  loadAnecdoteIndex,
+  loadCardIndex
 } from '../lib/bookdex/base.js'
 import {
   rebuildBooksFromInbox,
@@ -33,19 +37,34 @@ import {
   renderVoiceEntryText,
   renderPlotText,
   renderMapText,
+  renderAnecdoteText,
+  renderCardText,
   sendVoiceRecord,
   renderRelicText,
   renderWeaponText,
   normalizeRoleName,
   resolvePlotFile,
   resolveMapFile,
+  resolveAnecdoteFile,
+  resolveCardFile,
   fetchBooksFromWiki,
+  updateOneBookByName,
   fetchRoleStoryAll,
+  updateOneRoleStoryByName,
   fetchVoiceAll,
+  updateOneVoiceByName,
   fetchPlotAll,
+  updateOnePlotByName,
   fetchMapAll,
+  fetchAnecdoteAll,
+  fetchCardAll,
+  updateOneMapByName,
+  updateOneAnecdoteByName,
+  updateOneCardByName,
   fetchRelicAll,
+  updateOneRelicByName,
   fetchWeaponAll,
+  updateOneWeaponByName,
   makeSnippet,
   chunkLines,
   splitTextPages,
@@ -94,7 +113,7 @@ export class BookDex extends plugin {
   constructor() {
     super({
       name: '书籍角色文本图鉴（bookdex-plugin）',
-      dsc: '书籍、角色故事、剧情、地图文本、圣遗物与武器文本检索',
+      dsc: '书籍、角色故事、剧情、地图文本、角色逸闻、月谕圣牌、圣遗物与武器文本检索',
       event: 'message',
       priority: 5000,
       rule: [
@@ -142,6 +161,61 @@ export class BookDex extends plugin {
           permission: 'master'
         },
         {
+          reg: '^#角色逸闻更新$',
+          fnc: 'updateAnecdotes',
+          permission: 'master'
+        },
+        {
+          reg: '^#月谕圣牌更新$',
+          fnc: 'updateCards',
+          permission: 'master'
+        },
+        {
+          reg: '^#.+书籍更新$',
+          fnc: 'updateOneBook',
+          permission: 'master'
+        },
+        {
+          reg: '^#.+故事更新$',
+          fnc: 'updateOneRoleStory',
+          permission: 'master'
+        },
+        {
+          reg: '^#.+语音更新$',
+          fnc: 'updateOneVoice',
+          permission: 'master'
+        },
+        {
+          reg: '^#.+剧情更新$',
+          fnc: 'updateOnePlot',
+          permission: 'master'
+        },
+        {
+          reg: '^#.+地图文本更新$',
+          fnc: 'updateOneMap',
+          permission: 'master'
+        },
+        {
+          reg: '^#.+角色逸闻更新$',
+          fnc: 'updateOneAnecdote',
+          permission: 'master'
+        },
+        {
+          reg: '^#.+月谕圣牌更新$',
+          fnc: 'updateOneCard',
+          permission: 'master'
+        },
+        {
+          reg: '^#.+圣遗物更新$',
+          fnc: 'updateOneRelic',
+          permission: 'master'
+        },
+        {
+          reg: '^#.+武器故事更新$',
+          fnc: 'updateOneWeapon',
+          permission: 'master'
+        },
+        {
           reg: '^#角色故事帮助$',
           fnc: 'roleStoryHelp'
         },
@@ -158,6 +232,14 @@ export class BookDex extends plugin {
           fnc: 'mapHelp'
         },
         {
+          reg: '^#角色逸闻帮助$',
+          fnc: 'anecdoteHelp'
+        },
+        {
+          reg: '^#月谕圣牌帮助$',
+          fnc: 'cardHelp'
+        },
+        {
           reg: '^#.+语音(?:文本|图片)?$',
           fnc: 'voiceRead'
         },
@@ -168,6 +250,14 @@ export class BookDex extends plugin {
         {
           reg: '^#.+地图文本(?:文本|图片)?$',
           fnc: 'mapRead'
+        },
+        {
+          reg: '^#.+角色逸闻(?:文本|图片)?$',
+          fnc: 'anecdoteRead'
+        },
+        {
+          reg: '^#.+月谕圣牌(?:文本|图片)?$',
+          fnc: 'cardRead'
         },
         {
           reg: '^#.+故事(详情)?(?:文本|图片)?$',
@@ -226,6 +316,14 @@ export class BookDex extends plugin {
         {
           reg: '^#地图文本搜索\\s*.+$',
           fnc: 'searchMaps'
+        },
+        {
+          reg: '^#角色逸闻搜索\\s*.+$',
+          fnc: 'searchAnecdotes'
+        },
+        {
+          reg: '^#月谕圣牌搜索\\s*.+$',
+          fnc: 'searchCards'
         },
         {
           reg: '^#搜索\s*.+$',
@@ -304,7 +402,9 @@ export class BookDex extends plugin {
         { key: 'weapon', label: '武器故事数据', runner: () => fetchWeaponAll({ dryRun: true }), exec: () => fetchWeaponAll(this.makeUpdateReporter('武器故事更新', silent, 100)) },
         { key: 'voice', label: '角色语音数据', runner: () => fetchVoiceAll({ dryRun: true }), exec: () => fetchVoiceAll(this.makeUpdateReporter('角色语音更新', silent)) },
         { key: 'plot', label: '剧情文本数据', runner: () => fetchPlotAll({ dryRun: true }), exec: () => fetchPlotAll(this.makeUpdateReporter('剧情文本更新', silent, 100)) },
-        { key: 'map', label: '地图文本数据', runner: () => fetchMapAll({ dryRun: true }), exec: () => fetchMapAll(this.makeUpdateReporter('地图文本更新', silent, 100)) }
+        { key: 'map', label: '地图文本数据', runner: () => fetchMapAll({ dryRun: true }), exec: () => fetchMapAll(this.makeUpdateReporter('地图文本更新', silent, 100)) },
+        { key: 'anecdote', label: '角色逸闻数据', runner: () => fetchAnecdoteAll({ dryRun: true }), exec: () => fetchAnecdoteAll(this.makeUpdateReporter('角色逸闻更新', silent, 100)) },
+        { key: 'card', label: '月谕圣牌数据', runner: () => fetchCardAll({ dryRun: true }), exec: () => fetchCardAll(this.makeUpdateReporter('月谕圣牌更新', silent, 100)) }
       ]
 
       const plan = []
@@ -335,7 +435,9 @@ export class BookDex extends plugin {
         weapon: '武器故事',
         voice: '角色语音',
         plot: '剧情文本',
-        map: '地图文本'
+        map: '地图文本',
+        anecdote: '角色逸闻',
+        card: '月谕圣牌'
       }
 
       const lines = [`统一更新完成 ✅（${active.length}/${active.length}）`]
@@ -558,7 +660,7 @@ export class BookDex extends plugin {
       const entries = []
       for (const item of arr) {
         orderedPlots.push(item)
-        entries.push(`${no}. ${item.name}`)
+        entries.push(`${no}. ${item.name}${item.subtitle ? `｜${item.subtitle}` : ''}`)
         no++
       }
       const parts = chunkLines(entries, 25)
@@ -645,6 +747,108 @@ export class BookDex extends plugin {
     if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${meta.name}`)
     const item = JSON.parse(await fs.readFile(file, 'utf8'))
     const text = renderMapText(item, 'full')
+    return this.replyContent(item.name, text, wantImage)
+  }
+
+  async updateAnecdotes() {
+    await this.reply('开始抓取角色逸闻，请稍等（首次可能需要几分钟）')
+    const ret = await fetchAnecdoteAll(this.makeUpdateReporter('角色逸闻更新', false, 100))
+    if (!ret.updated) return this.reply('角色逸闻更新完成：当前没有检测到增量内容')
+    return this.reply(`角色逸闻更新完成：共 ${ret.total} 条。\n命令：#角色逸闻帮助`)
+  }
+
+  async anecdoteHelp() {
+    const idx = await loadAnecdoteIndex()
+    const items = idx.items || []
+    if (!items.length) return this.reply('暂无角色逸闻数据，请先发送 #角色逸闻更新')
+
+    let session = this.saveSession({
+      type: 'anecdote',
+      anecdotes: items
+    })
+
+    const lines = items.map((item, i) => `${i + 1}. ${item.name}`)
+    session = await this.replyChunkedListWithSession(
+      [`📚 角色逸闻列表（共 ${items.length}）`, '命令：#角色名角色逸闻 / #角色名角色逸闻图片 / #角色逸闻搜索 关键词'],
+      lines,
+      30,
+      session
+    )
+    return Boolean(session)
+  }
+
+  async anecdoteRead() {
+    const msg = this.e.msg.trim()
+    const m = msg.match(/^#(.+?)角色逸闻(?:文本|图片)?$/)
+    if (!m) return false
+    const raw = this.trimOutputSuffix((m[1] || '').trim())
+    const { wantImage } = this.outputMode(msg)
+    if (!raw) return false
+
+    const idx = await loadAnecdoteIndex()
+    const items = idx.items || []
+    if (!items.length) return this.reply('暂无角色逸闻数据，请先发送 #角色逸闻更新')
+
+    const key = normalizeRoleName(raw)
+    const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
+      || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
+    if (!meta) return false
+
+    const file = resolveAnecdoteFile(meta)
+    if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${meta.name}`)
+    const item = JSON.parse(await fs.readFile(file, 'utf8'))
+    const text = renderAnecdoteText(item, 'full')
+    return this.replyContent(item.name, text, wantImage)
+  }
+
+  async updateCards() {
+    await this.reply('开始抓取月谕圣牌，请稍等（首次可能需要几分钟）')
+    const ret = await fetchCardAll(this.makeUpdateReporter('月谕圣牌更新', false, 100))
+    if (!ret.updated) return this.reply('月谕圣牌更新完成：当前没有检测到增量内容')
+    return this.reply(`月谕圣牌更新完成：共 ${ret.total} 条。\n命令：#月谕圣牌帮助`)
+  }
+
+  async cardHelp() {
+    const idx = await loadCardIndex()
+    const items = idx.items || []
+    if (!items.length) return this.reply('暂无月谕圣牌数据，请先发送 #月谕圣牌更新')
+
+    let session = this.saveSession({
+      type: 'card',
+      cards: items
+    })
+
+    const lines = items.map((item, i) => `${i + 1}. ${item.name}`)
+    session = await this.replyChunkedListWithSession(
+      [`🃏 月谕圣牌列表（共 ${items.length}）`, '命令：#圣牌名月谕圣牌 / #圣牌名月谕圣牌图片 / #月谕圣牌搜索 关键词'],
+      lines,
+      30,
+      session
+    )
+    return Boolean(session)
+  }
+
+  async cardRead() {
+    const msg = this.e.msg.trim()
+    const m = msg.match(/^#(.+?)月谕圣牌(?:文本|图片)?$/)
+    if (!m) return false
+    const raw = this.trimOutputSuffix((m[1] || '').trim())
+    const { wantImage } = this.outputMode(msg)
+    if (!raw) return false
+
+    const idx = await loadCardIndex()
+    const items = idx.items || []
+    if (!items.length) return this.reply('暂无月谕圣牌数据，请先发送 #月谕圣牌更新')
+
+    const key = normalizeRoleName(raw)
+    const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
+      || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
+    if (!meta) return false
+
+    const file = resolveCardFile(meta)
+    if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${meta.name}`)
+    const item = JSON.parse(await fs.readFile(file, 'utf8'))
+    const text = renderCardText(item, 'full')
     return this.replyContent(item.name, text, wantImage)
   }
 
@@ -746,6 +950,73 @@ export class BookDex extends plugin {
     return this.reply(`书籍更新完成：共 ${ret.total} 本。\n命令：#书籍帮助`)
   }
 
+  extractSingleUpdateTarget(suffix) {
+    const raw = String(this.e.msg || '').trim().replace(/^#/, '').trim()
+    if (!raw.endsWith(suffix)) return ''
+    return raw.slice(0, -suffix.length).trim()
+  }
+
+  async replySingleUpdateResult(label, target, updater) {
+    if (!target) return this.reply(`请输入要更新的${label}名称`)
+    await this.reply(`开始单条更新${label}：${target}`)
+    try {
+      const ret = await updater(target)
+      if (ret?.ok) return this.reply(`单条更新成功：${label}「${ret.name || target}」`)
+      if (ret?.reason === 'not_found') return this.reply(`未找到对应条目：${target}`)
+      if (ret?.reason === 'entry_missing') return this.reply(`更新失败：未拿到词条详情（${target}）`)
+      if (ret?.reason === 'empty') return this.reply(`更新失败：词条缺少可用文本（${target}）`)
+      return this.reply(`更新失败：${target}`)
+    } catch (err) {
+      logger.error(`[bookdex.singleUpdate.${label}]`, err)
+      return this.reply(`更新失败：${err?.message || err}`)
+    }
+  }
+
+  async updateOneBook() {
+    const target = this.extractSingleUpdateTarget('书籍更新')
+    return this.replySingleUpdateResult('书籍', target, updateOneBookByName)
+  }
+
+  async updateOneRoleStory() {
+    const target = this.extractSingleUpdateTarget('故事更新')
+    return this.replySingleUpdateResult('角色故事', target, updateOneRoleStoryByName)
+  }
+
+  async updateOneVoice() {
+    const target = this.extractSingleUpdateTarget('语音更新')
+    return this.replySingleUpdateResult('角色语音', target, updateOneVoiceByName)
+  }
+
+  async updateOnePlot() {
+    const target = this.extractSingleUpdateTarget('剧情更新')
+    return this.replySingleUpdateResult('剧情文本', target, updateOnePlotByName)
+  }
+
+  async updateOneMap() {
+    const target = this.extractSingleUpdateTarget('地图文本更新')
+    return this.replySingleUpdateResult('地图文本', target, updateOneMapByName)
+  }
+
+  async updateOneAnecdote() {
+    const target = this.extractSingleUpdateTarget('角色逸闻更新')
+    return this.replySingleUpdateResult('角色逸闻', target, updateOneAnecdoteByName)
+  }
+
+  async updateOneCard() {
+    const target = this.extractSingleUpdateTarget('月谕圣牌更新')
+    return this.replySingleUpdateResult('月谕圣牌', target, updateOneCardByName)
+  }
+
+  async updateOneRelic() {
+    const target = this.extractSingleUpdateTarget('圣遗物更新')
+    return this.replySingleUpdateResult('圣遗物', target, updateOneRelicByName)
+  }
+
+  async updateOneWeapon() {
+    const target = this.extractSingleUpdateTarget('武器故事更新')
+    return this.replySingleUpdateResult('武器故事', target, updateOneWeaponByName)
+  }
+
   async runTextSearch(keyword, types = ['book']) {
     const rows = []
 
@@ -829,12 +1100,14 @@ ${item.text || ''}`
         if (!full || !fss.existsSync(full)) continue
         const data = JSON.parse(await fs.readFile(full, 'utf8'))
         const merged = [
+          data.subtitle || '',
           (data.sections || []).map(s => `${s.title || ''}\n${s.text || ''}`).join('\n'),
           data.searchText || ''
         ].join('\n')
-        const titleHit = it.name.includes(keyword) || (data.category || '').includes(keyword)
+        const titleHit = it.name.includes(keyword) || (data.subtitle || '').includes(keyword) || (data.category || '').includes(keyword)
         const textHit = merged.includes(keyword)
-        if (titleHit || textHit) rows.push({ type: 'plot', id: it.id, file: it.file || '', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
+        const showName = data.subtitle ? `${it.name}｜${data.subtitle}` : it.name
+        if (titleHit || textHit) rows.push({ type: 'plot', id: it.id, file: it.file || '', name: showName, snippet: textHit ? makeSnippet(merged, keyword) : '' })
       }
     }
 
@@ -854,6 +1127,38 @@ ${item.text || ''}`
       }
     }
 
+    if (types.includes('anecdote')) {
+      const ai = await loadAnecdoteIndex()
+      for (const it of ai.items || []) {
+        const full = resolveAnecdoteFile(it)
+        if (!full || !fss.existsSync(full)) continue
+        const data = JSON.parse(await fs.readFile(full, 'utf8'))
+        const merged = [
+          (data.sections || []).map(s => `${s.title || ''}\n${s.text || ''}`).join('\n'),
+          data.searchText || ''
+        ].join('\n')
+        const titleHit = it.name.includes(keyword)
+        const textHit = merged.includes(keyword)
+        if (titleHit || textHit) rows.push({ type: 'anecdote', id: it.id, file: it.file || '', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
+      }
+    }
+
+    if (types.includes('card')) {
+      const ci = await loadCardIndex()
+      for (const it of ci.items || []) {
+        const full = resolveCardFile(it)
+        if (!full || !fss.existsSync(full)) continue
+        const data = JSON.parse(await fs.readFile(full, 'utf8'))
+        const merged = [
+          (data.sections || []).map(s => `${s.title || ''}\n${s.text || ''}`).join('\n'),
+          data.searchText || ''
+        ].join('\n')
+        const titleHit = it.name.includes(keyword)
+        const textHit = merged.includes(keyword)
+        if (titleHit || textHit) rows.push({ type: 'card', id: it.id, file: it.file || '', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
+      }
+    }
+
     return rows
   }
 
@@ -867,7 +1172,7 @@ ${item.text || ''}`
       results: rows
     })
 
-    const mapLabel = { book: '书籍', role: '角色', relic: '圣遗物', weapon: '武器', voice: '语音', plot: '剧情', map: '地图文本' }
+    const mapLabel = { book: '书籍', role: '角色', relic: '圣遗物', weapon: '武器', voice: '语音', plot: '剧情', map: '地图文本', anecdote: '角色逸闻', card: '月谕圣牌' }
     const lines = rows.map((r, i) => `${i + 1}. [${mapLabel[r.type]}] ${r.name}${r.snippet ? `\n  ↳ ${r.snippet}` : ''}`)
 
     session = await this.replyChunkedListWithSession([`🔎 关键词：${keyword}`, `共找到 ${rows.length} 条`, '可引用本搜索结果发序号查看详情（可加“图片”或“语音”）'], lines, 10, session)
@@ -911,10 +1216,22 @@ ${item.text || ''}`
     return this.replySearch(keyword, ['map'])
   }
 
+  async searchAnecdotes() {
+    const keyword = this.e.msg.replace(/^#角色逸闻搜索\s*/, '').trim()
+    if (!keyword) return this.reply('请输入关键词')
+    return this.replySearch(keyword, ['anecdote'])
+  }
+
+  async searchCards() {
+    const keyword = this.e.msg.replace(/^#月谕圣牌搜索\s*/, '').trim()
+    if (!keyword) return this.reply('请输入关键词')
+    return this.replySearch(keyword, ['card'])
+  }
+
   async searchAll() {
     const keyword = this.e.msg.replace(/^#搜索\s*/, '').trim()
     if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['book', 'role', 'relic', 'weapon', 'voice', 'plot', 'map'])
+    return this.replySearch(keyword, ['book', 'role', 'relic', 'weapon', 'voice', 'plot', 'map', 'anecdote', 'card'])
   }
 
   async searchBooks() {
@@ -1288,6 +1605,26 @@ ${item.text || ''}`
       return this.replyContent(item.name, text, wantImage)
     }
 
+    if (session?.type === 'anecdote' && Array.isArray(session.anecdotes)) {
+      const meta = session.anecdotes[idx - 1]
+      if (!meta) return this.reply('序号超出范围，请先发送 #角色逸闻帮助')
+      const file = resolveAnecdoteFile(meta)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${meta.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderAnecdoteText(item, 'full')
+      return this.replyContent(item.name, text, wantImage)
+    }
+
+    if (session?.type === 'card' && Array.isArray(session.cards)) {
+      const meta = session.cards[idx - 1]
+      if (!meta) return this.reply('序号超出范围，请先发送 #月谕圣牌帮助')
+      const file = resolveCardFile(meta)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${meta.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderCardText(item, 'full')
+      return this.replyContent(item.name, text, wantImage)
+    }
+
     if (session?.type === 'voice-entry' && Array.isArray(session.entries)) {
       const entry = session.entries[idx - 1]
       if (!entry) return this.reply('序号超出范围，请先重新打开语音列表')
@@ -1358,6 +1695,20 @@ ${item.text || ''}`
         const text = renderMapText(item, 'full')
         return this.replyContent(item.name, text, wantImage)
       }
+      if (row.type === 'anecdote') {
+        const f = resolveAnecdoteFile(row)
+        if (!f || !fss.existsSync(f)) return this.reply(`未找到角色逸闻：${row.name}`)
+        const item = JSON.parse(await fs.readFile(f, 'utf8'))
+        const text = renderAnecdoteText(item, 'full')
+        return this.replyContent(item.name, text, wantImage)
+      }
+      if (row.type === 'card') {
+        const f = resolveCardFile(row)
+        if (!f || !fss.existsSync(f)) return this.reply(`未找到月谕圣牌：${row.name}`)
+        const item = JSON.parse(await fs.readFile(f, 'utf8'))
+        const text = renderCardText(item, 'full')
+        return this.replyContent(item.name, text, wantImage)
+      }
     }
 
     // 2) 默认按书籍序号（仅限已有书籍帮助/搜索会话）
@@ -1393,6 +1744,12 @@ ${item.text || ''}`
     const mapsIndex = await loadMapIndex()
     const maps = mapsIndex.items || []
     const exactMap = maps.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+    const anecdotesIndex = await loadAnecdoteIndex()
+    const anecdotes = anecdotesIndex.items || []
+    const exactAnecdote = anecdotes.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+    const cardsIndex = await loadCardIndex()
+    const cards = cardsIndex.items || []
+    const exactCard = cards.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
     const storyIndex = await loadStoryIndex()
     const roles = storyIndex.roles || []
     const exactRole = roles.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
@@ -1426,6 +1783,22 @@ ${item.text || ''}`
       if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${exactMap.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderMapText(item, 'full')
+      return this.replyContent(item.name, text, wantImage)
+    }
+
+    if (exactAnecdote) {
+      const file = resolveAnecdoteFile(exactAnecdote)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${exactAnecdote.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderAnecdoteText(item, 'full')
+      return this.replyContent(item.name, text, wantImage)
+    }
+
+    if (exactCard) {
+      const file = resolveCardFile(exactCard)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${exactCard.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderCardText(item, 'full')
       return this.replyContent(item.name, text, wantImage)
     }
 
@@ -1472,27 +1845,35 @@ ${item.text || ''}`
     const fuzzy = books.find(b => b.title.includes(title) || title.includes(b.title))
     const fuzzyPlot = plots.find(item => {
       const name = normalizeRoleName(item.name)
-      return name.includes(norm) || norm.includes(name)
+      return name.includes(norm)
     })
     const fuzzyMap = maps.find(item => {
       const name = normalizeRoleName(item.name)
-      return name.includes(norm) || norm.includes(name)
+      return name.includes(norm)
+    })
+    const fuzzyAnecdote = anecdotes.find(item => {
+      const name = normalizeRoleName(item.name)
+      return name.includes(norm)
+    })
+    const fuzzyCard = cards.find(item => {
+      const name = normalizeRoleName(item.name)
+      return name.includes(norm)
     })
     const fuzzyRole = roles.find(item => {
       const name = normalizeRoleName(item.name)
-      return name.includes(norm) || norm.includes(name)
+      return name.includes(norm)
     })
     const fuzzyVoice = voiceRoles.find(item => {
       const name = normalizeRoleName(item.name)
-      return name.includes(norm) || norm.includes(name)
+      return name.includes(norm)
     })
     const fuzzyRelic = relics.find(item => {
       const name = normalizeRoleName(item.name)
-      return name.includes(norm) || norm.includes(name)
+      return name.includes(norm)
     })
     const fuzzyWeapon = weapons.find(item => {
       const name = normalizeRoleName(item.name)
-      return name.includes(norm) || norm.includes(name)
+      return name.includes(norm)
     })
 
     if (fuzzy) {
@@ -1515,6 +1896,22 @@ ${item.text || ''}`
       if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${fuzzyMap.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderMapText(item, 'full')
+      return this.replyContent(item.name, text, wantImage)
+    }
+
+    if (fuzzyAnecdote) {
+      const file = resolveAnecdoteFile(fuzzyAnecdote)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${fuzzyAnecdote.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderAnecdoteText(item, 'full')
+      return this.replyContent(item.name, text, wantImage)
+    }
+
+    if (fuzzyCard) {
+      const file = resolveCardFile(fuzzyCard)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${fuzzyCard.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderCardText(item, 'full')
       return this.replyContent(item.name, text, wantImage)
     }
 
