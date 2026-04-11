@@ -21,7 +21,8 @@ import {
   loadRelicIndex,
   loadWeaponIndex,
   loadVoiceIndex,
-  loadPlotIndex
+  loadPlotIndex,
+  loadMapIndex
 } from '../lib/bookdex/base.js'
 import {
   rebuildBooksFromInbox,
@@ -31,15 +32,18 @@ import {
   renderVoiceListText,
   renderVoiceEntryText,
   renderPlotText,
+  renderMapText,
   sendVoiceRecord,
   renderRelicText,
   renderWeaponText,
   normalizeRoleName,
   resolvePlotFile,
+  resolveMapFile,
   fetchBooksFromWiki,
   fetchRoleStoryAll,
   fetchVoiceAll,
   fetchPlotAll,
+  fetchMapAll,
   fetchRelicAll,
   fetchWeaponAll,
   makeSnippet,
@@ -90,7 +94,7 @@ export class BookDex extends plugin {
   constructor() {
     super({
       name: '书籍角色文本图鉴（bookdex-plugin）',
-      dsc: '书籍、角色故事、圣遗物与武器文本检索',
+      dsc: '书籍、角色故事、剧情、地图文本、圣遗物与武器文本检索',
       event: 'message',
       priority: 5000,
       rule: [
@@ -133,6 +137,11 @@ export class BookDex extends plugin {
           permission: 'master'
         },
         {
+          reg: '^#地图文本更新$',
+          fnc: 'updateMaps',
+          permission: 'master'
+        },
+        {
           reg: '^#角色故事帮助$',
           fnc: 'roleStoryHelp'
         },
@@ -145,12 +154,20 @@ export class BookDex extends plugin {
           fnc: 'plotHelp'
         },
         {
+          reg: '^#地图文本帮助$',
+          fnc: 'mapHelp'
+        },
+        {
           reg: '^#.+语音(?:文本|图片)?$',
           fnc: 'voiceRead'
         },
         {
           reg: '^#.+剧情(?:文本|图片)?$',
           fnc: 'plotRead'
+        },
+        {
+          reg: '^#.+地图文本(?:文本|图片)?$',
+          fnc: 'mapRead'
         },
         {
           reg: '^#.+故事(详情)?(?:文本|图片)?$',
@@ -205,6 +222,10 @@ export class BookDex extends plugin {
         {
           reg: '^#剧情搜索\s*.+$',
           fnc: 'searchPlots'
+        },
+        {
+          reg: '^#地图文本搜索\\s*.+$',
+          fnc: 'searchMaps'
         },
         {
           reg: '^#搜索\s*.+$',
@@ -282,7 +303,8 @@ export class BookDex extends plugin {
         { key: 'relic', label: '圣遗物数据', runner: () => fetchRelicAll({ dryRun: true }), exec: () => fetchRelicAll(this.makeUpdateReporter('圣遗物更新', silent)) },
         { key: 'weapon', label: '武器故事数据', runner: () => fetchWeaponAll({ dryRun: true }), exec: () => fetchWeaponAll(this.makeUpdateReporter('武器故事更新', silent, 100)) },
         { key: 'voice', label: '角色语音数据', runner: () => fetchVoiceAll({ dryRun: true }), exec: () => fetchVoiceAll(this.makeUpdateReporter('角色语音更新', silent)) },
-        { key: 'plot', label: '剧情文本数据', runner: () => fetchPlotAll({ dryRun: true }), exec: () => fetchPlotAll(this.makeUpdateReporter('剧情文本更新', silent, 100)) }
+        { key: 'plot', label: '剧情文本数据', runner: () => fetchPlotAll({ dryRun: true }), exec: () => fetchPlotAll(this.makeUpdateReporter('剧情文本更新', silent, 100)) },
+        { key: 'map', label: '地图文本数据', runner: () => fetchMapAll({ dryRun: true }), exec: () => fetchMapAll(this.makeUpdateReporter('地图文本更新', silent, 100)) }
       ]
 
       const plan = []
@@ -312,7 +334,8 @@ export class BookDex extends plugin {
         relic: '圣遗物',
         weapon: '武器故事',
         voice: '角色语音',
-        plot: '剧情文本'
+        plot: '剧情文本',
+        map: '地图文本'
       }
 
       const lines = [`统一更新完成 ✅（${active.length}/${active.length}）`]
@@ -574,6 +597,57 @@ export class BookDex extends plugin {
     return this.replyContent(item.name, text, wantImage)
   }
 
+  async updateMaps() {
+    await this.reply('开始抓取地图文本，请稍等（首次可能需要几分钟）')
+    const ret = await fetchMapAll(this.makeUpdateReporter('地图文本更新', false, 100))
+    if (!ret.updated) return this.reply('地图文本更新完成：当前没有检测到增量内容')
+    return this.reply(`地图文本更新完成：共 ${ret.total} 条地图交互文本。\n命令：#地图文本帮助`)
+  }
+
+  async mapHelp() {
+    const idx = await loadMapIndex()
+    const items = idx.items || []
+    if (!items.length) return this.reply('暂无地图文本数据，请先发送 #地图文本更新')
+
+    let session = this.saveSession({
+      type: 'map',
+      maps: items
+    })
+
+    const lines = items.map((item, i) => `${i + 1}. ${item.name}`)
+    session = await this.replyChunkedListWithSession(
+      [`🗺️ 地图文本列表（共 ${items.length}）`, '命令：#地图名地图文本 / #地图名地图文本图片 / #地图文本搜索 关键词'],
+      lines,
+      30,
+      session
+    )
+    return Boolean(session)
+  }
+
+  async mapRead() {
+    const msg = this.e.msg.trim()
+    const m = msg.match(/^#(.+?)地图文本(?:文本|图片)?$/)
+    if (!m) return false
+    const raw = this.trimOutputSuffix((m[1] || '').trim())
+    const { wantImage } = this.outputMode(msg)
+    if (!raw) return false
+
+    const idx = await loadMapIndex()
+    const items = idx.items || []
+    if (!items.length) return this.reply('暂无地图文本数据，请先发送 #地图文本更新')
+
+    const key = normalizeRoleName(raw)
+    const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
+      || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
+    if (!meta) return false
+
+    const file = resolveMapFile(meta)
+    if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${meta.name}`)
+    const item = JSON.parse(await fs.readFile(file, 'utf8'))
+    const text = renderMapText(item, 'full')
+    return this.replyContent(item.name, text, wantImage)
+  }
+
   async updateRelics() {
     await this.reply('开始抓取圣遗物文本，请稍等（约1-2分钟）')
     const ret = await fetchRelicAll(this.makeUpdateReporter('圣遗物更新'))
@@ -764,6 +838,22 @@ ${item.text || ''}`
       }
     }
 
+    if (types.includes('map')) {
+      const mi = await loadMapIndex()
+      for (const it of mi.items || []) {
+        const full = resolveMapFile(it)
+        if (!full || !fss.existsSync(full)) continue
+        const data = JSON.parse(await fs.readFile(full, 'utf8'))
+        const merged = [
+          (data.sections || []).map(s => `${s.title || ''}\n${s.text || ''}`).join('\n'),
+          data.searchText || ''
+        ].join('\n')
+        const titleHit = it.name.includes(keyword)
+        const textHit = merged.includes(keyword)
+        if (titleHit || textHit) rows.push({ type: 'map', id: it.id, file: it.file || '', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
+      }
+    }
+
     return rows
   }
 
@@ -777,7 +867,7 @@ ${item.text || ''}`
       results: rows
     })
 
-    const mapLabel = { book: '书籍', role: '角色', relic: '圣遗物', weapon: '武器', voice: '语音', plot: '剧情' }
+    const mapLabel = { book: '书籍', role: '角色', relic: '圣遗物', weapon: '武器', voice: '语音', plot: '剧情', map: '地图文本' }
     const lines = rows.map((r, i) => `${i + 1}. [${mapLabel[r.type]}] ${r.name}${r.snippet ? `\n  ↳ ${r.snippet}` : ''}`)
 
     session = await this.replyChunkedListWithSession([`🔎 关键词：${keyword}`, `共找到 ${rows.length} 条`, '可引用本搜索结果发序号查看详情（可加“图片”或“语音”）'], lines, 10, session)
@@ -815,10 +905,16 @@ ${item.text || ''}`
     return this.replySearch(keyword, ['plot'])
   }
 
+  async searchMaps() {
+    const keyword = this.e.msg.replace(/^#地图文本搜索\s*/, '').trim()
+    if (!keyword) return this.reply('请输入关键词')
+    return this.replySearch(keyword, ['map'])
+  }
+
   async searchAll() {
     const keyword = this.e.msg.replace(/^#搜索\s*/, '').trim()
     if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['book', 'role', 'relic', 'weapon', 'voice', 'plot'])
+    return this.replySearch(keyword, ['book', 'role', 'relic', 'weapon', 'voice', 'plot', 'map'])
   }
 
   async searchBooks() {
@@ -1182,6 +1278,16 @@ ${item.text || ''}`
       return this.replyContent(item.name, text, wantImage)
     }
 
+    if (session?.type === 'map' && Array.isArray(session.maps)) {
+      const meta = session.maps[idx - 1]
+      if (!meta) return this.reply('序号超出范围，请先发送 #地图文本帮助')
+      const file = resolveMapFile(meta)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${meta.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderMapText(item, 'full')
+      return this.replyContent(item.name, text, wantImage)
+    }
+
     if (session?.type === 'voice-entry' && Array.isArray(session.entries)) {
       const entry = session.entries[idx - 1]
       if (!entry) return this.reply('序号超出范围，请先重新打开语音列表')
@@ -1245,6 +1351,13 @@ ${item.text || ''}`
         const text = renderPlotText(item, 'full')
         return this.replyContent(item.name, text, wantImage)
       }
+      if (row.type === 'map') {
+        const f = resolveMapFile(row)
+        if (!f || !fss.existsSync(f)) return this.reply(`未找到地图文本：${row.name}`)
+        const item = JSON.parse(await fs.readFile(f, 'utf8'))
+        const text = renderMapText(item, 'full')
+        return this.replyContent(item.name, text, wantImage)
+      }
     }
 
     // 2) 默认按书籍序号（仅限已有书籍帮助/搜索会话）
@@ -1277,6 +1390,9 @@ ${item.text || ''}`
     const plotsIndex = await loadPlotIndex()
     const plots = plotsIndex.items || []
     const exactPlot = plots.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+    const mapsIndex = await loadMapIndex()
+    const maps = mapsIndex.items || []
+    const exactMap = maps.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
     const storyIndex = await loadStoryIndex()
     const roles = storyIndex.roles || []
     const exactRole = roles.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
@@ -1302,6 +1418,14 @@ ${item.text || ''}`
       if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${exactPlot.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderPlotText(item, 'full')
+      return this.replyContent(item.name, text, wantImage)
+    }
+
+    if (exactMap) {
+      const file = resolveMapFile(exactMap)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${exactMap.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderMapText(item, 'full')
       return this.replyContent(item.name, text, wantImage)
     }
 
@@ -1350,6 +1474,10 @@ ${item.text || ''}`
       const name = normalizeRoleName(item.name)
       return name.includes(norm) || norm.includes(name)
     })
+    const fuzzyMap = maps.find(item => {
+      const name = normalizeRoleName(item.name)
+      return name.includes(norm) || norm.includes(name)
+    })
     const fuzzyRole = roles.find(item => {
       const name = normalizeRoleName(item.name)
       return name.includes(norm) || norm.includes(name)
@@ -1379,6 +1507,14 @@ ${item.text || ''}`
       if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${fuzzyPlot.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderPlotText(item, 'full')
+      return this.replyContent(item.name, text, wantImage)
+    }
+
+    if (fuzzyMap) {
+      const file = resolveMapFile(fuzzyMap)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${fuzzyMap.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderMapText(item, 'full')
       return this.replyContent(item.name, text, wantImage)
     }
 
