@@ -26,7 +26,8 @@ import {
   loadPlotIndex,
   loadMapIndex,
   loadAnecdoteIndex,
-  loadCardIndex
+  loadCardIndex,
+  loadBackpackIndex
 } from '../lib/bookdex/base.js'
 import {
   rebuildBooksFromInbox,
@@ -39,6 +40,7 @@ import {
   renderMapText,
   renderAnecdoteText,
   renderCardText,
+  renderBackpackText,
   sendVoiceRecord,
   renderRelicText,
   renderWeaponText,
@@ -47,6 +49,7 @@ import {
   resolveMapFile,
   resolveAnecdoteFile,
   resolveCardFile,
+  resolveBackpackFile,
   fetchBooksFromWiki,
   updateOneBookByName,
   fetchRoleStoryAll,
@@ -58,9 +61,11 @@ import {
   fetchMapAll,
   fetchAnecdoteAll,
   fetchCardAll,
+  fetchBackpackAll,
   updateOneMapByName,
   updateOneAnecdoteByName,
   updateOneCardByName,
+  updateOneBackpackByName,
   fetchRelicAll,
   updateOneRelicByName,
   fetchWeaponAll,
@@ -171,6 +176,11 @@ export class BookDex extends plugin {
           permission: 'master'
         },
         {
+          reg: '^#背包更新$',
+          fnc: 'updateBackpacks',
+          permission: 'master'
+        },
+        {
           reg: '^#.+书籍更新$',
           fnc: 'updateOneBook',
           permission: 'master'
@@ -203,6 +213,11 @@ export class BookDex extends plugin {
         {
           reg: '^#.+月谕圣牌更新$',
           fnc: 'updateOneCard',
+          permission: 'master'
+        },
+        {
+          reg: '^#.+背包更新$',
+          fnc: 'updateOneBackpack',
           permission: 'master'
         },
         {
@@ -240,6 +255,10 @@ export class BookDex extends plugin {
           fnc: 'cardHelp'
         },
         {
+          reg: '^#背包帮助$',
+          fnc: 'backpackHelp'
+        },
+        {
           reg: '^#.+语音(?:文本|图片)?$',
           fnc: 'voiceRead'
         },
@@ -258,6 +277,10 @@ export class BookDex extends plugin {
         {
           reg: '^#.+月谕圣牌(?:文本|图片)?$',
           fnc: 'cardRead'
+        },
+        {
+          reg: '^#.+背包(?:文本|图片)?$',
+          fnc: 'backpackRead'
         },
         {
           reg: '^#.+故事(详情)?(?:文本|图片)?$',
@@ -324,6 +347,10 @@ export class BookDex extends plugin {
         {
           reg: '^#月谕圣牌搜索\\s*.+$',
           fnc: 'searchCards'
+        },
+        {
+          reg: '^#背包搜索\\s*.+$',
+          fnc: 'searchBackpacks'
         },
         {
           reg: '^#搜索\s*.+$',
@@ -395,37 +422,30 @@ export class BookDex extends plugin {
   async updateAllTexts(silent = false) {
     if (typeof silent !== 'boolean') silent = false
     try {
-      const preview = [
-        { key: 'book', label: '书籍数据', runner: () => fetchBooksFromWiki({ dryRun: true }), exec: () => fetchBooksFromWiki(this.makeUpdateReporter('书籍更新', silent)) },
-        { key: 'role', label: '角色故事数据', runner: () => fetchRoleStoryAll({ dryRun: true }), exec: () => fetchRoleStoryAll(this.makeUpdateReporter('角色故事更新', silent)) },
-        { key: 'relic', label: '圣遗物数据', runner: () => fetchRelicAll({ dryRun: true }), exec: () => fetchRelicAll(this.makeUpdateReporter('圣遗物更新', silent)) },
-        { key: 'weapon', label: '武器故事数据', runner: () => fetchWeaponAll({ dryRun: true }), exec: () => fetchWeaponAll(this.makeUpdateReporter('武器故事更新', silent, 100)) },
-        { key: 'voice', label: '角色语音数据', runner: () => fetchVoiceAll({ dryRun: true }), exec: () => fetchVoiceAll(this.makeUpdateReporter('角色语音更新', silent)) },
-        { key: 'plot', label: '剧情文本数据', runner: () => fetchPlotAll({ dryRun: true }), exec: () => fetchPlotAll(this.makeUpdateReporter('剧情文本更新', silent, 100)) },
-        { key: 'map', label: '地图文本数据', runner: () => fetchMapAll({ dryRun: true }), exec: () => fetchMapAll(this.makeUpdateReporter('地图文本更新', silent, 100)) },
-        { key: 'anecdote', label: '角色逸闻数据', runner: () => fetchAnecdoteAll({ dryRun: true }), exec: () => fetchAnecdoteAll(this.makeUpdateReporter('角色逸闻更新', silent, 100)) },
-        { key: 'card', label: '月谕圣牌数据', runner: () => fetchCardAll({ dryRun: true }), exec: () => fetchCardAll(this.makeUpdateReporter('月谕圣牌更新', silent, 100)) }
+      const tasks = [
+        { key: 'book', label: '书籍数据', exec: () => fetchBooksFromWiki(this.makeUpdateReporter('书籍更新', silent)) },
+        { key: 'role', label: '角色故事数据', exec: () => fetchRoleStoryAll({ ...this.makeUpdateReporter('角色故事更新', silent), deepCompare: silent }) },
+        { key: 'relic', label: '圣遗物数据', exec: () => fetchRelicAll(this.makeUpdateReporter('圣遗物更新', silent)) },
+        { key: 'weapon', label: '武器故事数据', exec: () => fetchWeaponAll(this.makeUpdateReporter('武器故事更新', silent, 500)) },
+        { key: 'voice', label: '角色语音数据', exec: () => fetchVoiceAll({ ...this.makeUpdateReporter('角色语音更新', silent), deepCompare: silent }) },
+        { key: 'plot', label: '剧情文本数据', exec: () => fetchPlotAll(this.makeUpdateReporter('剧情文本更新', silent, 500)) },
+        { key: 'map', label: '地图文本数据', exec: () => fetchMapAll(this.makeUpdateReporter('地图文本更新', silent, 500)) },
+        { key: 'anecdote', label: '角色逸闻数据', exec: () => fetchAnecdoteAll(this.makeUpdateReporter('角色逸闻更新', silent, 500)) },
+        { key: 'card', label: '月谕圣牌数据', exec: () => fetchCardAll(this.makeUpdateReporter('月谕圣牌更新', silent, 500)) },
+        { key: 'backpack', label: '背包数据', exec: () => fetchBackpackAll(this.makeUpdateReporter('背包更新', silent, 500)) }
       ]
 
       const plan = []
-      for (const item of preview) {
-        const ret = await item.runner()
-        plan.push({ ...item, preview: ret })
+      for (const item of tasks) {
+        const ret = await item.exec()
+        plan.push({ ...item, result: ret })
       }
 
-      const active = plan.filter(item => Number(item.preview?.updated || 0) > 0)
+      const active = plan.filter(item => Number(item.result?.updated || 0) > 0)
       if (!active.length) {
         if (!silent) return this.reply('统一更新完成：当前没有检测到增量内容')
         logger.mark('[bookdex.autoUpdate] no incremental updates')
         return true
-      }
-
-      if (!silent) await this.reply(`开始统一更新：检测到 ${active.length} 个有增量的分类`)
-
-      const results = {}
-      for (const [idx, item] of active.entries()) {
-        if (!silent) await this.reply(`统一更新（${idx + 1}/${active.length}）：正在更新${item.label}…`)
-        results[item.key] = await item.exec()
       }
 
       const labelMap = {
@@ -437,13 +457,13 @@ export class BookDex extends plugin {
         plot: '剧情文本',
         map: '地图文本',
         anecdote: '角色逸闻',
-        card: '月谕圣牌'
+        card: '月谕圣牌',
+        backpack: '背包'
       }
 
       const lines = [`统一更新完成 ✅（${active.length}/${active.length}）`]
       for (const item of active) {
-        const ret = results[item.key]
-        lines.push(`${labelMap[item.key]}：${ret.total} 条目（本次变更 ${item.preview.updated}）`)
+        lines.push(`${labelMap[item.key]}：${item.result.total} 条目（本次变更 ${item.result.updated}）`)
       }
       const msg = lines.join('\n')
 
@@ -852,6 +872,57 @@ export class BookDex extends plugin {
     return this.replyContent(item.name, text, wantImage)
   }
 
+  async updateBackpacks() {
+    await this.reply('开始抓取背包文本，请稍等（首次可能需要几分钟）')
+    const ret = await fetchBackpackAll(this.makeUpdateReporter('背包更新', false, 100))
+    if (!ret.updated) return this.reply('背包更新完成：当前没有检测到增量内容')
+    return this.reply(`背包更新完成：共 ${ret.total} 条。\n命令：#背包帮助`)
+  }
+
+  async backpackHelp() {
+    const idx = await loadBackpackIndex()
+    const items = idx.items || []
+    if (!items.length) return this.reply('暂无背包数据，请先发送 #背包更新')
+
+    let session = this.saveSession({
+      type: 'backpack',
+      backpacks: items
+    })
+
+    const lines = items.map((item, i) => `${i + 1}. ${item.name}`)
+    session = await this.replyChunkedListWithSession(
+      [`🎒 背包列表（共 ${items.length}）`, '命令：#背包名背包 / #背包名背包图片 / #背包搜索 关键词'],
+      lines,
+      30,
+      session
+    )
+    return Boolean(session)
+  }
+
+  async backpackRead() {
+    const msg = this.e.msg.trim()
+    const m = msg.match(/^#(.+?)背包(?:文本|图片)?$/)
+    if (!m) return false
+    const raw = this.trimOutputSuffix((m[1] || '').trim())
+    const { wantImage } = this.outputMode(msg)
+    if (!raw) return false
+
+    const idx = await loadBackpackIndex()
+    const items = idx.items || []
+    if (!items.length) return this.reply('暂无背包数据，请先发送 #背包更新')
+
+    const key = normalizeRoleName(raw)
+    const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
+      || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
+    if (!meta) return false
+
+    const file = resolveBackpackFile(meta)
+    if (!file || !fss.existsSync(file)) return this.reply(`未找到背包：${meta.name}`)
+    const item = JSON.parse(await fs.readFile(file, 'utf8'))
+    const text = renderBackpackText(item)
+    return this.replyContent(item.name, text, wantImage)
+  }
+
   async updateRelics() {
     await this.reply('开始抓取圣遗物文本，请稍等（约1-2分钟）')
     const ret = await fetchRelicAll(this.makeUpdateReporter('圣遗物更新'))
@@ -1007,6 +1078,11 @@ export class BookDex extends plugin {
     return this.replySingleUpdateResult('月谕圣牌', target, updateOneCardByName)
   }
 
+  async updateOneBackpack() {
+    const target = this.extractSingleUpdateTarget('背包更新')
+    return this.replySingleUpdateResult('背包', target, updateOneBackpackByName)
+  }
+
   async updateOneRelic() {
     const target = this.extractSingleUpdateTarget('圣遗物更新')
     return this.replySingleUpdateResult('圣遗物', target, updateOneRelicByName)
@@ -1159,6 +1235,19 @@ ${item.text || ''}`
       }
     }
 
+    if (types.includes('backpack')) {
+      const bi = await loadBackpackIndex()
+      for (const it of bi.items || []) {
+        const full = resolveBackpackFile(it)
+        if (!full || !fss.existsSync(full)) continue
+        const data = JSON.parse(await fs.readFile(full, 'utf8'))
+        const merged = data.searchText || data.desc || ''
+        const titleHit = it.name.includes(keyword)
+        const textHit = merged.includes(keyword)
+        if (titleHit || textHit) rows.push({ type: 'backpack', id: it.id, file: it.file || '', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
+      }
+    }
+
     return rows
   }
 
@@ -1172,7 +1261,7 @@ ${item.text || ''}`
       results: rows
     })
 
-    const mapLabel = { book: '书籍', role: '角色', relic: '圣遗物', weapon: '武器', voice: '语音', plot: '剧情', map: '地图文本', anecdote: '角色逸闻', card: '月谕圣牌' }
+    const mapLabel = { book: '书籍', role: '角色', relic: '圣遗物', weapon: '武器', voice: '语音', plot: '剧情', map: '地图文本', anecdote: '角色逸闻', card: '月谕圣牌', backpack: '背包' }
     const lines = rows.map((r, i) => `${i + 1}. [${mapLabel[r.type]}] ${r.name}${r.snippet ? `\n  ↳ ${r.snippet}` : ''}`)
 
     session = await this.replyChunkedListWithSession([`🔎 关键词：${keyword}`, `共找到 ${rows.length} 条`, '可引用本搜索结果发序号查看详情（可加“图片”或“语音”）'], lines, 10, session)
@@ -1228,10 +1317,16 @@ ${item.text || ''}`
     return this.replySearch(keyword, ['card'])
   }
 
+  async searchBackpacks() {
+    const keyword = this.e.msg.replace(/^#背包搜索\s*/, '').trim()
+    if (!keyword) return this.reply('请输入关键词')
+    return this.replySearch(keyword, ['backpack'])
+  }
+
   async searchAll() {
     const keyword = this.e.msg.replace(/^#搜索\s*/, '').trim()
     if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['book', 'role', 'relic', 'weapon', 'voice', 'plot', 'map', 'anecdote', 'card'])
+    return this.replySearch(keyword, ['book', 'role', 'relic', 'weapon', 'voice', 'plot', 'map', 'anecdote', 'card', 'backpack'])
   }
 
   async searchBooks() {
@@ -1625,6 +1720,16 @@ ${item.text || ''}`
       return this.replyContent(item.name, text, wantImage)
     }
 
+    if (session?.type === 'backpack' && Array.isArray(session.backpacks)) {
+      const meta = session.backpacks[idx - 1]
+      if (!meta) return this.reply('序号超出范围，请先发送 #背包帮助')
+      const file = resolveBackpackFile(meta)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到背包：${meta.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderBackpackText(item)
+      return this.replyContent(item.name, text, wantImage)
+    }
+
     if (session?.type === 'voice-entry' && Array.isArray(session.entries)) {
       const entry = session.entries[idx - 1]
       if (!entry) return this.reply('序号超出范围，请先重新打开语音列表')
@@ -1709,6 +1814,13 @@ ${item.text || ''}`
         const text = renderCardText(item, 'full')
         return this.replyContent(item.name, text, wantImage)
       }
+      if (row.type === 'backpack') {
+        const f = resolveBackpackFile(row)
+        if (!f || !fss.existsSync(f)) return this.reply(`未找到背包：${row.name}`)
+        const item = JSON.parse(await fs.readFile(f, 'utf8'))
+        const text = renderBackpackText(item)
+        return this.replyContent(item.name, text, wantImage)
+      }
     }
 
     // 2) 默认按书籍序号（仅限已有书籍帮助/搜索会话）
@@ -1750,6 +1862,9 @@ ${item.text || ''}`
     const cardsIndex = await loadCardIndex()
     const cards = cardsIndex.items || []
     const exactCard = cards.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+    const backpacksIndex = await loadBackpackIndex()
+    const backpacks = backpacksIndex.items || []
+    const exactBackpack = backpacks.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
     const storyIndex = await loadStoryIndex()
     const roles = storyIndex.roles || []
     const exactRole = roles.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
@@ -1799,6 +1914,14 @@ ${item.text || ''}`
       if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${exactCard.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderCardText(item, 'full')
+      return this.replyContent(item.name, text, wantImage)
+    }
+
+    if (exactBackpack) {
+      const file = resolveBackpackFile(exactBackpack)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到背包：${exactBackpack.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderBackpackText(item)
       return this.replyContent(item.name, text, wantImage)
     }
 
@@ -1859,6 +1982,10 @@ ${item.text || ''}`
       const name = normalizeRoleName(item.name)
       return name.includes(norm)
     })
+    const fuzzyBackpack = backpacks.find(item => {
+      const name = normalizeRoleName(item.name)
+      return name.includes(norm)
+    })
     const fuzzyRole = roles.find(item => {
       const name = normalizeRoleName(item.name)
       return name.includes(norm)
@@ -1912,6 +2039,14 @@ ${item.text || ''}`
       if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${fuzzyCard.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderCardText(item, 'full')
+      return this.replyContent(item.name, text, wantImage)
+    }
+
+    if (fuzzyBackpack) {
+      const file = resolveBackpackFile(fuzzyBackpack)
+      if (!file || !fss.existsSync(file)) return this.reply(`未找到背包：${fuzzyBackpack.name}`)
+      const item = JSON.parse(await fs.readFile(file, 'utf8'))
+      const text = renderBackpackText(item)
       return this.replyContent(item.name, text, wantImage)
     }
 
