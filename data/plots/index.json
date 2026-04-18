@@ -4798,6 +4798,19 @@
       "plotSchemaVersion": 3
     },
     {
+      "id": "508441",
+      "name": "空之神殿「地狱」",
+      "file": "空之神殿「地狱」__508441.json",
+      "alias": [
+        "空之神殿「地狱」"
+      ],
+      "category": "世界任务",
+      "subtitle": "狮子奋迅",
+      "sectionCount": 1,
+      "selectorSig": "94fa287a9de50957dbfd7214a474ff35f43357bd",
+      "plotSchemaVersion": 3
+    },
+    {
       "id": "508347",
       "name": "空之神殿「魔山」",
       "file": "空之神殿「魔山」__508347.json",
@@ -4808,6 +4821,32 @@
       "subtitle": "风停了",
       "sectionCount": 1,
       "selectorSig": "394c33e5b0ef1436379a5ac4a71e8879d7c58be0",
+      "plotSchemaVersion": 3
+    },
+    {
+      "id": "508442",
+      "name": "空之神殿「审判」",
+      "file": "空之神殿「审判」__508442.json",
+      "alias": [
+        "空之神殿「审判」"
+      ],
+      "category": "世界任务",
+      "subtitle": "最后的审判",
+      "sectionCount": 1,
+      "selectorSig": "7d0210f92701709aec9182f56dc124076fd46586",
+      "plotSchemaVersion": 3
+    },
+    {
+      "id": "508440",
+      "name": "空之神殿「天堂」",
+      "file": "空之神殿「天堂」__508440.json",
+      "alias": [
+        "空之神殿「天堂」"
+      ],
+      "category": "世界任务",
+      "subtitle": "圣殿的一日春秋 / 厲作古典 / 「沙上楼阁」稗记 / 生命万岁",
+      "sectionCount": 4,
+      "selectorSig": "c114b2e3f1539be4cfe34f73598fb558eeeb8bd2",
       "plotSchemaVersion": 3
     },
     {
@@ -4847,6 +4886,45 @@
       "subtitle": "狂风，听谁号令",
       "sectionCount": 1,
       "selectorSig": "44b0a4993009078d44dd84bf20811b5f8fc36ce2",
+      "plotSchemaVersion": 3
+    },
+    {
+      "id": "508445",
+      "name": "矿物调查·虹滴晶",
+      "file": "矿物调查·虹滴晶__508445.json",
+      "alias": [
+        "矿物调查·虹滴晶"
+      ],
+      "category": "世界任务",
+      "subtitle": "矿物调查·虹滴晶",
+      "sectionCount": 1,
+      "selectorSig": "0508c183627a7a6c33f1103e1911156d28ccce8b",
+      "plotSchemaVersion": 3
+    },
+    {
+      "id": "508446",
+      "name": "矿物调查·松珀香",
+      "file": "矿物调查·松珀香__508446.json",
+      "alias": [
+        "矿物调查·松珀香"
+      ],
+      "category": "世界任务",
+      "subtitle": "矿物调查·松珀香",
+      "sectionCount": 1,
+      "selectorSig": "b97cd3116c1219ebf74c16e1e79d4556162bf75b",
+      "plotSchemaVersion": 3
+    },
+    {
+      "id": "508447",
+      "name": "矿物调查·月落银",
+      "file": "矿物调查·月落银__508447.json",
+      "alias": [
+        "矿物调查·月落银"
+      ],
+      "category": "世界任务",
+      "subtitle": "矿物调查·月落银",
+      "sectionCount": 1,
+      "selectorSig": "8f14513edbc5be8fb3c1c2cd10ec4ddb94901b5d",
       "plotSchemaVersion": 3
     },
     {
@@ -6875,6 +6953,19 @@
       "subtitle": "前卫理念与涂鸦先锋！",
       "sectionCount": 1,
       "selectorSig": "7fef21404c60597c4a1f726e1b205e2792cf51e0",
+      "plotSchemaVersion": 3
+    },
+    {
+      "id": "508443",
+      "name": "潜龙飞凤",
+      "file": "潜龙飞凤__508443.json",
+      "alias": [
+        "潜龙飞凤"
+      ],
+      "category": "世界任务",
+      "subtitle": "潜龙飞凤",
+      "sectionCount": 1,
+      "selectorSig": "fc0ed1bd26c9c23780804d0a681e980e879e6391",
       "plotSchemaVersion": 3
     },
     {
@@ -12312,5 +12403,5 @@
       "plotSchemaVersion": 3
     }
   ],
-  "updatedAt": 1776075642354
+  "updatedAt": 1776522885360
 }

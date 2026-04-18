@@ -1305,6 +1305,14 @@
       "selectorSig": "23419e41e5cfb4ce1273670fe3c86b309761b7cb"
     },
     {
+      "id": "175",
+      "name": "铁蜂刺",
+      "alias": [
+        "铁蜂刺"
+      ],
+      "selectorSig": "d670dfb1fce3fc61a4c6749c8c6a2d2e027221ae"
+    },
+    {
       "id": "160",
       "name": "铁尖枪",
       "alias": [
@@ -1841,5 +1849,5 @@
       "selectorSig": "3d6d660119369b526cc9903c11903ba643a52dec"
     }
   ],
-  "updatedAt": 1776075640304
+  "updatedAt": 1776521819852
 }
