@@ -2289,6 +2289,71 @@
       "plotSchemaVersion": 3
     },
     {
+      "id": "508487",
+      "name": "动物调查·金鳅鳅",
+      "file": "动物调查·金鳅鳅__508487.json",
+      "alias": [
+        "动物调查·金鳅鳅"
+      ],
+      "category": "世界任务",
+      "subtitle": "动物调查·金鳅鳅",
+      "sectionCount": 1,
+      "selectorSig": "dad2fc9bbb3e0e7ad5c241ece2d6d70431df8775",
+      "plotSchemaVersion": 3
+    },
+    {
+      "id": "508486",
+      "name": "动物调查·帔髦獾",
+      "file": "动物调查·帔髦獾__508486.json",
+      "alias": [
+        "动物调查·帔髦獾"
+      ],
+      "category": "世界任务",
+      "subtitle": "动物调查·帔髦獾",
+      "sectionCount": 1,
+      "selectorSig": "c857804e35d144d5d1d064b2692eda014e2dca36",
+      "plotSchemaVersion": 3
+    },
+    {
+      "id": "508489",
+      "name": "动物调查·霜鳍鲸",
+      "file": "动物调查·霜鳍鲸__508489.json",
+      "alias": [
+        "动物调查·霜鳍鲸"
+      ],
+      "category": "世界任务",
+      "subtitle": "动物调查·霜鳍鲸",
+      "sectionCount": 1,
+      "selectorSig": "d630d0808fed5e47838d46b7663fb02460007662",
+      "plotSchemaVersion": 3
+    },
+    {
+      "id": "508488",
+      "name": "动物调查·豚兽",
+      "file": "动物调查·豚兽__508488.json",
+      "alias": [
+        "动物调查·豚兽"
+      ],
+      "category": "世界任务",
+      "subtitle": "动物调查·豚兽",
+      "sectionCount": 1,
+      "selectorSig": "da04f271ee25a1c67ccfd3e3e3b9fa53cc232dc3",
+      "plotSchemaVersion": 3
+    },
+    {
+      "id": "508490",
+      "name": "动物调查特别授课",
+      "file": "动物调查特别授课__508490.json",
+      "alias": [
+        "动物调查特别授课"
+      ],
+      "category": "世界任务",
+      "subtitle": "动物调查特别授课",
+      "sectionCount": 1,
+      "selectorSig": "199408cda5fef5184951535f289e42bea9e7068b",
+      "plotSchemaVersion": 3
+    },
+    {
       "id": "506729",
       "name": "嘟嘟可爆轰大乱斗！",
       "file": "嘟嘟可爆轰大乱斗！__506729.json",
@@ -4844,7 +4909,7 @@
         "空之神殿「天堂」"
       ],
       "category": "世界任务",
-      "subtitle": "圣殿的一日春秋 / 厲作古典 / 「沙上楼阁」稗记 / 生命万岁",
+      "subtitle": "圣殿的一日春秋 / 「沙上楼阁」稗记 / 生命万岁 / 厲作古典",
       "sectionCount": 4,
       "selectorSig": "c114b2e3f1539be4cfe34f73598fb558eeeb8bd2",
       "plotSchemaVersion": 3
@@ -4889,6 +4954,19 @@
       "plotSchemaVersion": 3
     },
     {
+      "id": "508476",
+      "name": "矿物调查·寒涌石",
+      "file": "矿物调查·寒涌石__508476.json",
+      "alias": [
+        "矿物调查·寒涌石"
+      ],
+      "category": "世界任务",
+      "subtitle": "矿物调查·寒涌石",
+      "sectionCount": 1,
+      "selectorSig": "37e342e6dcb812f34c102e068e8ea6e123e46a3f",
+      "plotSchemaVersion": 3
+    },
+    {
       "id": "508445",
       "name": "矿物调查·虹滴晶",
       "file": "矿物调查·虹滴晶__508445.json",
@@ -4925,6 +5003,19 @@
       "subtitle": "矿物调查·月落银",
       "sectionCount": 1,
       "selectorSig": "8f14513edbc5be8fb3c1c2cd10ec4ddb94901b5d",
+      "plotSchemaVersion": 3
+    },
+    {
+      "id": "508474",
+      "name": "矿物调查特别授课",
+      "file": "矿物调查特别授课__508474.json",
+      "alias": [
+        "矿物调查特别授课"
+      ],
+      "category": "世界任务",
+      "subtitle": "矿物调查特别授课",
+      "sectionCount": 1,
+      "selectorSig": "e2d9dda3b130f90e9610b442ba885af9f01a7a20",
       "plotSchemaVersion": 3
     },
     {
@@ -5676,7 +5767,7 @@
         "龙选者的旅迹"
       ],
       "category": "世界任务",
-      "subtitle": "宝物和收藏家 / 爱龙人的平凡生活 / 石子、椰子、龙贩子 / 特别的朋友 / 龙医生的困境 / 火与水的好友 / 来拍映影吧！ / 赠礼与回礼 / 名为夜的孤岛 / 嵴锋龙躲猫猫 / 待种子萌出新芽 / 今天是吃鱼的心情！ / 谎言与约定 / 沉重的翅膀",
+      "subtitle": "宝物和收藏家 / 嵴锋龙躲猫猫 / 待种子萌出新芽 / 龙医生的困境 / 特别的朋友 / 赠礼与回礼 / 石子、椰子、龙贩子 / 火与水的好友 / 今天是吃鱼的心情！ / 来拍映影吧！ / 爱龙人的平凡生活 / 名为夜的孤岛 / 沉重的翅膀 / 谎言与约定",
       "sectionCount": 14,
       "selectorSig": "4fb1668a686a0d35ac606b819bfec164340b03df",
       "plotSchemaVersion": 3
@@ -8669,6 +8760,19 @@
       "subtitle": "终末番的任务 - 顶替者的秘密 - 蒲公英的归宿",
       "sectionCount": 2,
       "selectorSig": "777b352fac2f95069df7bfc8ba5e1b2d741f46be",
+      "plotSchemaVersion": 3
+    },
+    {
+      "id": "508491",
+      "name": "特别调查·美露莘？",
+      "file": "特别调查·美露莘？__508491.json",
+      "alias": [
+        "特别调查·美露莘？"
+      ],
+      "category": "世界任务",
+      "subtitle": "特别调查·美露莘？",
+      "sectionCount": 1,
+      "selectorSig": "8c87d3743bff01411c30a0ccb29ee79063a05ccd",
       "plotSchemaVersion": 3
     },
     {
@@ -12403,5 +12507,5 @@
       "plotSchemaVersion": 3
     }
   ],
-  "updatedAt": 1776522885360
+  "updatedAt": 1777094327062
 }
