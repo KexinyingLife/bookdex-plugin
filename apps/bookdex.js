@@ -71,10 +71,14 @@ import {
   fetchWeaponAll,
   updateOneWeaponByName,
   makeSnippet,
+  runBookDexTextSearch,
   chunkLines,
   splitTextPages,
   splitLeadingTitle
 } from '../lib/bookdex/core.js'
+import { formatFetchError } from '../lib/bookdex/core/crypto-api.js'
+import { startBookDexWebUi, getBookDexWebUiInfo } from '../lib/bookdex/webui.js'
+import { shouldRunBookDexAutoUpdate, consumeCustomAutoRun } from '../lib/bookdex/webui-config.js'
 
 const helpSessionCache = new Map()
 let helpSessionCacheLoaded = false
@@ -143,6 +147,11 @@ export class BookDex extends plugin {
         {
           reg: '^#(统一更新|书籍图鉴更新)$',
           fnc: 'updateAllTextsCommand',
+          permission: 'master'
+        },
+        {
+          reg: '^#书籍图鉴网页$',
+          fnc: 'showWebUi',
           permission: 'master'
         },
         {
@@ -374,6 +383,7 @@ export class BookDex extends plugin {
   }
 
   init() {
+    startBookDexWebUi({ logger }).catch(err => logger.error('[bookdex.webui.start]', err))
     this.task = [
       {
         name: '文本库自动更新窗口检查',
@@ -389,13 +399,13 @@ export class BookDex extends plugin {
   }
 
   shouldRunAutoUpdateWindow() {
-    // 基准：2026-04-08 00:00 (GMT+8)
-    // 用户要求：1-5天，不包含当天0点 => 只在 cycleDay 1..5 执行
-    const baseUtc = Date.UTC(2026, 3, 7, 16, 0, 0)
-    const now = Date.now()
-    const days = Math.floor((now - baseUtc) / 86400000)
-    const cycleDay = ((days % 42) + 42) % 42
-    return cycleDay >= 1 && cycleDay <= 5
+    return shouldRunBookDexAutoUpdate()
+  }
+
+  async showWebUi() {
+    const info = getBookDexWebUiInfo() || await startBookDexWebUi({ logger })
+    if (!info) return this.reply('原神文本助手网页未启用。')
+    return this.reply(`原神文本助手网页：${info.url}`)
   }
 
   makeUpdateReporter(label, silent = false, progressEvery = 0) {
@@ -410,7 +420,7 @@ export class BookDex extends plugin {
         if (silent) return
         const at = done && total ? `（${done}/${total}）` : ''
         const who = name ? `：${name}` : ''
-        await this.reply(`${label}报错${at}${who}\n${error?.message || error}`)
+        await this.reply(`${label}报错${at}${who}\n${formatFetchError(error)}`)
       }
     }
   }
@@ -456,14 +466,27 @@ export class BookDex extends plugin {
       }
 
       const checks = []
+      const failures = []
       for (const item of tasks) {
-        const ret = await confirmCheck(item)
-        checks.push({ ...item, checkResult: ret })
+        try {
+          const ret = await confirmCheck(item)
+          checks.push({ ...item, checkResult: ret })
+        } catch (error) {
+          failures.push({ ...item, stage: '检测', error })
+          logger.error(`[bookdex.updateAllTexts] ${item.label} check failed`, error)
+        }
       }
 
       const active = checks.filter(item => Number(item.checkResult?.updated || 0) > 0)
       if (!active.length) {
-        if (!silent) return this.reply('统一更新完成：本次检测到 0 个分量有更新，当前没有增量内容')
+        if (!silent) {
+          const lines = ['统一更新完成：本次检测到 0 个分量有更新，当前没有增量内容']
+          if (failures.length) {
+            lines.push(`但有 ${failures.length} 个分量因网络或接口错误跳过检测，旧缓存已保留：`)
+            for (const item of failures) lines.push(`${labelMap[item.key] || item.label}：${formatFetchError(item.error)}`)
+          }
+          return this.reply(lines.join('\n'))
+        }
         logger.mark('[bookdex.autoUpdate] no incremental updates')
         return true
       }
@@ -472,17 +495,27 @@ export class BookDex extends plugin {
       for (const item of active) {
         summaryLines.push(`${labelMap[item.key]}：预计变更 ${item.checkResult.updated}`)
       }
+      if (failures.length) summaryLines.push(`另有 ${failures.length} 个分量检测失败，本轮将跳过并保留旧缓存`)
       if (!silent) await this.reply(summaryLines.join('\n'))
       else logger.mark('[bookdex.autoUpdate] ' + summaryLines.join(' | '))
 
       const plan = []
       for (const item of active) {
-        const ret = await item.exec()
-        plan.push({ ...item, result: ret })
+        try {
+          const ret = await item.exec()
+          plan.push({ ...item, result: ret })
+        } catch (error) {
+          failures.push({ ...item, stage: '执行', error })
+          logger.error(`[bookdex.updateAllTexts] ${item.label} exec failed`, error)
+        }
       }
 
       const lines = ['统一更新执行完成']
       for (const item of plan) lines.push(`${labelMap[item.key]}：${item.result.total} 条目（本次变更 ${item.result.updated}）`)
+      if (failures.length) {
+        lines.push(`有 ${failures.length} 个分量失败或跳过，旧缓存已保留，可稍后重试：`)
+        for (const item of failures) lines.push(`${labelMap[item.key] || item.label}${item.stage ? `（${item.stage}）` : ''}：${formatFetchError(item.error)}`)
+      }
       const msg = lines.join('\n')
 
       if (!silent) return this.reply(msg)
@@ -490,7 +523,7 @@ export class BookDex extends plugin {
       return true
     } catch (err) {
       logger.error('[bookdex.updateAllTexts] ', err)
-      if (!silent) return this.reply(`统一更新失败：${err?.message || err}`)
+      if (!silent) return this.reply(`统一更新失败：${formatFetchError(err)}`)
       throw err
     }
   }
@@ -506,6 +539,7 @@ export class BookDex extends plugin {
     if (!this.shouldRunAutoUpdateWindow()) return false
     try {
       await this.updateAllTexts(true)
+      await consumeCustomAutoRun()
     } catch (err) {
       logger.error('[bookdex.autoUpdateWindowTick]', err)
     }
@@ -1111,161 +1145,7 @@ export class BookDex extends plugin {
   }
 
   async runTextSearch(keyword, types = ['book']) {
-    const rows = []
-
-    if (types.includes('book')) {
-      const bi = await loadIndex()
-      for (const b of bi.books || []) {
-        const full = path.join(booksRoot, b.file)
-        if (!fss.existsSync(full)) continue
-        const text = await fs.readFile(full, 'utf8')
-        const titleHit = b.title.includes(keyword)
-        const textHit = text.includes(keyword)
-        if (titleHit || textHit) rows.push({ type: 'book', name: b.title, snippet: textHit ? makeSnippet(text, keyword) : '' })
-      }
-    }
-
-    if (types.includes('role')) {
-      const ri = await loadStoryIndex()
-      for (const r of ri.roles || []) {
-        const full = path.join(storyRoot, `${slugify(r.name)}.json`)
-        if (!fss.existsSync(full)) continue
-        const data = JSON.parse(await fs.readFile(full, 'utf8'))
-        const merged = [data.detail || '', ...(data.stories || []).map(s => s.text || ''), ...(data.others || []).map(s => s.text || '')].join('\n')
-        const titleHit = r.name.includes(keyword)
-        const textHit = merged.includes(keyword)
-        if (titleHit || textHit) rows.push({ type: 'role', name: r.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
-      }
-    }
-
-    if (types.includes('relic')) {
-      const ri = await loadRelicIndex()
-      for (const s of ri.sets || []) {
-        const full = path.join(relicRoot, `${slugify(s.name)}.json`)
-        if (!fss.existsSync(full)) continue
-        const data = JSON.parse(await fs.readFile(full, 'utf8'))
-        const merged = (data.pieces || []).map(p => `${p.name}\n${p.desc}\n${p.story}`).join('\n')
-        const titleHit = s.name.includes(keyword)
-        const textHit = merged.includes(keyword)
-        if (titleHit || textHit) rows.push({ type: 'relic', name: s.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
-      }
-    }
-
-    if (types.includes('weapon')) {
-      const wi = await loadWeaponIndex()
-      for (const w of wi.weapons || []) {
-        const full = path.join(weaponRoot, `${slugify(w.name)}.json`)
-        if (!fss.existsSync(full)) continue
-        const data = JSON.parse(await fs.readFile(full, 'utf8'))
-        const merged = data.story || ''
-        const titleHit = w.name.includes(keyword)
-        const textHit = merged.includes(keyword)
-        if (titleHit || textHit) rows.push({ type: 'weapon', name: w.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
-      }
-    }
-
-    if (types.includes('voice')) {
-      const vi = await loadVoiceIndex()
-
-      for (const r of vi.roles || []) {
-        const full = path.join(voiceRoot, `${slugify(r.name)}.json`)
-        if (!fss.existsSync(full)) continue
-        const data = JSON.parse(await fs.readFile(full, 'utf8'))
-        for (const tab of data.tabs || []) {
-          if (!['汉语', '中文'].includes(tab.lang)) continue
-          for (const item of tab.items || []) {
-            const merged = `${item.name || ''}
-${item.text || ''}`
-            const titleHit = r.name.includes(keyword) || (item.name || '').includes(keyword)
-            const textHit = merged.includes(keyword)
-            if (titleHit || textHit) {
-              rows.push({ type: 'voice', name: `${r.name}｜${item.name}`, role: r.name, lang: tab.lang, voiceName: item.name, text: item.text || '', audioUrl: item.audioUrl || '', snippet: textHit ? makeSnippet(merged, keyword) : '' })
-            }
-          }
-        }
-      }
-    }
-
-    if (types.includes('plot')) {
-      const pi = await loadPlotIndex()
-      for (const it of pi.items || []) {
-        const full = resolvePlotFile(it)
-        if (!full || !fss.existsSync(full)) continue
-        const data = JSON.parse(await fs.readFile(full, 'utf8'))
-        const merged = [
-          data.subtitle || '',
-          (data.sections || []).map(s => `${s.title || ''}\n${s.text || ''}`).join('\n'),
-          data.searchText || ''
-        ].join('\n')
-        const titleHit = it.name.includes(keyword) || (data.subtitle || '').includes(keyword) || (data.category || '').includes(keyword)
-        const textHit = merged.includes(keyword)
-        const showName = data.subtitle ? `${it.name}｜${data.subtitle}` : it.name
-        if (titleHit || textHit) rows.push({ type: 'plot', id: it.id, file: it.file || '', name: showName, snippet: textHit ? makeSnippet(merged, keyword) : '' })
-      }
-    }
-
-    if (types.includes('map')) {
-      const mi = await loadMapIndex()
-      for (const it of mi.items || []) {
-        const full = resolveMapFile(it)
-        if (!full || !fss.existsSync(full)) continue
-        const data = JSON.parse(await fs.readFile(full, 'utf8'))
-        const merged = [
-          (data.sections || []).map(s => `${s.title || ''}\n${s.text || ''}`).join('\n'),
-          data.searchText || ''
-        ].join('\n')
-        const titleHit = it.name.includes(keyword)
-        const textHit = merged.includes(keyword)
-        if (titleHit || textHit) rows.push({ type: 'map', id: it.id, file: it.file || '', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
-      }
-    }
-
-    if (types.includes('anecdote')) {
-      const ai = await loadAnecdoteIndex()
-      for (const it of ai.items || []) {
-        const full = resolveAnecdoteFile(it)
-        if (!full || !fss.existsSync(full)) continue
-        const data = JSON.parse(await fs.readFile(full, 'utf8'))
-        const merged = [
-          (data.sections || []).map(s => `${s.title || ''}\n${s.text || ''}`).join('\n'),
-          data.searchText || ''
-        ].join('\n')
-        const titleHit = it.name.includes(keyword)
-        const textHit = merged.includes(keyword)
-        if (titleHit || textHit) rows.push({ type: 'anecdote', id: it.id, file: it.file || '', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
-      }
-    }
-
-    if (types.includes('card')) {
-      const ci = await loadCardIndex()
-      for (const it of ci.items || []) {
-        const full = resolveCardFile(it)
-        if (!full || !fss.existsSync(full)) continue
-        const data = JSON.parse(await fs.readFile(full, 'utf8'))
-        const merged = [
-          (data.sections || []).map(s => `${s.title || ''}\n${s.text || ''}`).join('\n'),
-          data.searchText || ''
-        ].join('\n')
-        const titleHit = it.name.includes(keyword)
-        const textHit = merged.includes(keyword)
-        if (titleHit || textHit) rows.push({ type: 'card', id: it.id, file: it.file || '', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
-      }
-    }
-
-    if (types.includes('backpack')) {
-      const bi = await loadBackpackIndex()
-      for (const it of bi.items || []) {
-        const full = resolveBackpackFile(it)
-        if (!full || !fss.existsSync(full)) continue
-        const data = JSON.parse(await fs.readFile(full, 'utf8'))
-        const merged = data.searchText || data.desc || ''
-        const titleHit = it.name.includes(keyword)
-        const textHit = merged.includes(keyword)
-        if (titleHit || textHit) rows.push({ type: 'backpack', id: it.id, file: it.file || '', name: it.name, snippet: textHit ? makeSnippet(merged, keyword) : '' })
-      }
-    }
-
-    return rows
+    return runBookDexTextSearch(keyword, types)
   }
 
   async replySearch(keyword, types) {

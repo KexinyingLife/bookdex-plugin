@@ -1,5 +1,7 @@
 # 书籍角色文本图鉴（bookdex-plugin）
 
+已添加webUI，默认端口为14522，可发送 `#书籍图鉴网页` 查看具体网址。
+
 运行 `#xxx更新` 可以对某条数据进行单独更新。
 
 ![help](./resources/help-main.jpg)
