@@ -74,7 +74,8 @@ import {
   runBookDexTextSearch,
   chunkLines,
   splitTextPages,
-  splitLeadingTitle
+  splitLeadingTitle,
+  renderBookTextWithDescription
 } from '../lib/bookdex/core.js'
 import { formatFetchError } from '../lib/bookdex/core/crypto-api.js'
 import { startBookDexWebUi, getBookDexWebUiInfo } from '../lib/bookdex/webui.js'
@@ -1247,7 +1248,7 @@ export class BookDex extends plugin {
         const full = path.join(booksRoot, b.file)
         if (fss.existsSync(full)) {
           try {
-            const content = await fs.readFile(full, 'utf8')
+            const content = renderBookTextWithDescription(b.title, await fs.readFile(full, 'utf8'), b.desc)
             const idx = content.indexOf(keyword)
             if (idx >= 0) {
               contentHit = true
@@ -1682,7 +1683,7 @@ export class BookDex extends plugin {
         if (!b) return this.reply(`未找到书籍：${row.name}`)
         const full = path.join(booksRoot, b.file)
         const content = await fs.readFile(full, 'utf8')
-        return this.replyContent(b.title, content, wantImage)
+        return this.replyContent(b.title, renderBookTextWithDescription(b.title, content, b.desc), wantImage)
       }
       if (row.type === 'role') {
         const f = path.join(storyRoot, `${slugify(row.name)}.json`)
@@ -1756,7 +1757,7 @@ export class BookDex extends plugin {
     const full = path.join(booksRoot, book.file)
     if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${book.title}`)
     const content = await fs.readFile(full, 'utf8')
-    return this.replyContent(book.title, content, wantImage)
+    return this.replyContent(book.title, renderBookTextWithDescription(book.title, content, book.desc), wantImage)
   }
 
   async pickByTitle() {
@@ -1806,7 +1807,7 @@ export class BookDex extends plugin {
       const full = path.join(booksRoot, exact.file)
       if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${exact.title}`)
       const content = await fs.readFile(full, 'utf8')
-      return this.replyContent(exact.title, content, wantImage)
+      return this.replyContent(exact.title, renderBookTextWithDescription(exact.title, content, exact.desc), wantImage)
     }
 
     if (exactPlot) {
@@ -1930,7 +1931,7 @@ export class BookDex extends plugin {
       const full = path.join(booksRoot, fuzzy.file)
       if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${fuzzy.title}`)
       const content = await fs.readFile(full, 'utf8')
-      return this.replyContent(fuzzy.title, content, wantImage)
+      return this.replyContent(fuzzy.title, renderBookTextWithDescription(fuzzy.title, content, fuzzy.desc), wantImage)
     }
 
     if (fuzzyPlot) {
