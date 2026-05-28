@@ -1549,7 +1549,7 @@ export class BookDex extends plugin {
   async replyBackpackContent(item, wantImage = false, session = null) {
     const text = renderBackpackText(item)
     const imageUrls = this.getBackpackImageUrls(item)
-    if (!imageUrls.length) return this.replyContent(item.name, text, wantImage, session)
+    if (!wantImage && !imageUrls.length) return this.replyContent(item.name, text, false, session)
 
     const tracked = isValidTrackedSession(session)
     try {
