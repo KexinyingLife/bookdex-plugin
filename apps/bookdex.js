@@ -402,7 +402,7 @@ export class BookDex extends plugin {
   }
 
   shouldRunAutoUpdateWindow() {
-    return shouldRunBookDexAutoUpdate()
+    return true
   }
 
   async showWebUi() {
