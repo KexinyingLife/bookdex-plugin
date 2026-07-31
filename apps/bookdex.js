@@ -2,82 +2,82 @@ import fs from 'node:fs/promises'
 import fss from 'node:fs'
 import path from 'node:path'
 import {
-  pluginDir,
-  pluginFolder,
-  cacheRoot,
-  sessionCacheFile,
-  booksRoot,
-  storyRoot,
-  relicRoot,
-  weaponRoot,
-  voiceRoot,
-  anecdoteRoot,
-  cardRoot,
-  TEXT_PAGE_CHARS,
-  TEXT_FORWARD_BATCH_SIZE,
-  slugify,
-  ensureDirs,
-  loadIndex,
-  clearPluginData,
-  loadStoryIndex,
-  loadRelicIndex,
-  loadWeaponIndex,
-  loadVoiceIndex,
-  loadPlotIndex,
-  loadMapIndex,
-  loadAnecdoteIndex,
-  loadCardIndex,
-  loadBackpackIndex
+    pluginDir,
+    pluginFolder,
+    cacheRoot,
+    sessionCacheFile,
+    booksRoot,
+    storyRoot,
+    relicRoot,
+    weaponRoot,
+    voiceRoot,
+    anecdoteRoot,
+    cardRoot,
+    TEXT_PAGE_CHARS,
+    TEXT_FORWARD_BATCH_SIZE,
+    slugify,
+    ensureDirs,
+    loadIndex,
+    clearPluginData,
+    loadStoryIndex,
+    loadRelicIndex,
+    loadWeaponIndex,
+    loadVoiceIndex,
+    loadPlotIndex,
+    loadMapIndex,
+    loadAnecdoteIndex,
+    loadCardIndex,
+    loadBackpackIndex
 } from '../lib/bookdex/base.js'
 import {
-  rebuildBooksFromInbox,
-  renderTextAsImages,
-  renderRichItemImages,
-  renderPlotRichImages,
-  pickDefaultVoiceTab,
-  renderRoleStoryText,
-  renderVoiceListText,
-  renderVoiceEntryText,
-  renderPlotText,
-  renderMapText,
-  renderAnecdoteText,
-  renderCardText,
-  renderBackpackText,
-  sendVoiceRecord,
-  renderRelicText,
-  renderWeaponText,
-  normalizeRoleName,
-  resolvePlotFile,
-  resolveMapFile,
-  resolveAnecdoteFile,
-  resolveCardFile,
-  resolveBackpackFile,
-  fetchBooksFromWiki,
-  updateOneBookByName,
-  fetchRoleStoryAll,
-  updateOneRoleStoryByName,
-  fetchVoiceAll,
-  updateOneVoiceByName,
-  fetchPlotAll,
-  updateOnePlotByName,
-  fetchMapAll,
-  fetchAnecdoteAll,
-  fetchCardAll,
-  fetchBackpackAll,
-  updateOneMapByName,
-  updateOneAnecdoteByName,
-  updateOneCardByName,
-  updateOneBackpackByName,
-  fetchRelicAll,
-  updateOneRelicByName,
-  fetchWeaponAll,
-  updateOneWeaponByName,
-  makeSnippet,
-  runBookDexTextSearch,
-  chunkLines,
-  splitTextPages,
-  splitLeadingTitle,
-  renderBookTextWithDescription
+    rebuildBooksFromInbox,
+    renderTextAsImages,
+    renderRichItemImages,
+    renderPlotRichImages,
+    pickDefaultVoiceTab,
+    renderRoleStoryText,
+    renderVoiceListText,
+    renderVoiceEntryText,
+    renderPlotText,
+    renderMapText,
+    renderAnecdoteText,
+    renderCardText,
+    renderBackpackText,
+    sendVoiceRecord,
+    renderRelicText,
+    renderWeaponText,
+    normalizeRoleName,
+    resolvePlotFile,
+    resolveMapFile,
+    resolveAnecdoteFile,
+    resolveCardFile,
+    resolveBackpackFile,
+    fetchBooksFromWiki,
+    updateOneBookByName,
+    fetchRoleStoryAll,
+    updateOneRoleStoryByName,
+    fetchVoiceAll,
+    updateOneVoiceByName,
+    fetchPlotAll,
+    updateOnePlotByName,
+    fetchMapAll,
+    fetchAnecdoteAll,
+    fetchCardAll,
+    fetchBackpackAll,
+    updateOneMapByName,
+    updateOneAnecdoteByName,
+    updateOneCardByName,
+    updateOneBackpackByName,
+    fetchRelicAll,
+    updateOneRelicByName,
+    fetchWeaponAll,
+    updateOneWeaponByName,
+    makeSnippet,
+    runBookDexTextSearch,
+    chunkLines,
+    splitTextPages,
+    splitLeadingTitle,
+    renderBookTextWithDescription
 } from '../lib/bookdex/core.js'
 import { formatFetchError } from '../lib/bookdex/core/crypto-api.js'
 import { startBookDexWebUi, getBookDexWebUiInfo } from '../lib/bookdex/webui.js'
@@ -87,1993 +87,2081 @@ const helpSessionCache = new Map()
 let helpSessionCacheLoaded = false
 
 function loadHelpSessionCache() {
-  if (helpSessionCacheLoaded) return
-  helpSessionCacheLoaded = true
-  try {
-    if (fss.existsSync(sessionCacheFile) === false) return
-    const raw = fss.readFileSync(sessionCacheFile, 'utf8')
-    const parsed = JSON.parse(raw)
-    for (const [key, value] of Object.entries(parsed || {})) {
-      const sessions = Array.isArray(value) ? value : value ? [value] : []
-      helpSessionCache.set(key, sessions.filter(Boolean))
-    }
-  } catch {}
+    if (helpSessionCacheLoaded) return
+    helpSessionCacheLoaded = true
+    try {
+        if (fss.existsSync(sessionCacheFile) === false) return
+        const raw = fss.readFileSync(sessionCacheFile, 'utf8')
+        const parsed = JSON.parse(raw)
+        for (const [key, value] of Object.entries(parsed || {})) {
+            const sessions = Array.isArray(value) ? value : value ? [value] : []
+            helpSessionCache.set(key, sessions.filter(Boolean))
+        }
+    } catch { }
 }
 
 function persistHelpSessionCache() {
-  try {
-    fss.mkdirSync(cacheRoot, { recursive: true })
-    const data = Object.fromEntries(helpSessionCache)
-    fss.writeFileSync(sessionCacheFile, JSON.stringify(data, null, 2), 'utf8')
-  } catch {}
+    try {
+        fss.mkdirSync(cacheRoot, { recursive: true })
+        const data = Object.fromEntries(helpSessionCache)
+        fss.writeFileSync(sessionCacheFile, JSON.stringify(data, null, 2), 'utf8')
+    } catch { }
 }
 
 function isValidTrackedSession(session) {
-  return Boolean(session && typeof session === 'object' && session.type)
+    return Boolean(session && typeof session === 'object' && session.type)
 }
 
 function isReplyError(res) {
-  return Boolean(res && typeof res === 'object' && Array.isArray(res.error) && res.error.length)
+    return Boolean(res && typeof res === 'object' && Array.isArray(res.error) && res.error.length)
 }
 
 function makeReplyError(res, label = 'reply failed') {
-  const msg = res?.error?.[0]?.message || res?.error?.[0]?.wording || label
-  return new Error(msg)
+    const msg = res?.error?.[0]?.message || res?.error?.[0]?.wording || label
+    return new Error(msg)
 }
 
 export class BookDex extends plugin {
-  constructor() {
-    super({
-      name: '书籍角色文本图鉴（bookdex-plugin）',
-      dsc: '书籍、角色故事、剧情、地图文本、角色逸闻、月谕圣牌、圣遗物与武器文本检索',
-      event: 'message',
-      priority: 5000,
-      rule: [
-        {
-          reg: '^#(书角图鉴帮助|书籍图鉴帮助|bookdex帮助)$',
-          fnc: 'totalHelp'
-        },
-        {
-          reg: '^#书籍帮助\\d*$',
-          fnc: 'bookHelp'
-        },
-        {
-          reg: '^#书籍导入$',
-          fnc: 'importBooks',
-          permission: 'master'
-        },
-        {
-          reg: '^#书籍更新$',
-          fnc: 'updateBooksFromWiki',
-          permission: 'master'
-        },
-        {
-          reg: '^#(统一更新|书籍图鉴更新)$',
-          fnc: 'updateAllTextsCommand',
-          permission: 'master'
-        },
-        {
-          reg: '^#书籍图鉴网页$',
-          fnc: 'showWebUi',
-          permission: 'master'
-        },
-        {
-          reg: '^#角色故事更新$',
-          fnc: 'updateRoleStories',
-          permission: 'master'
-        },
-        {
-          reg: '^#语音更新$',
-          fnc: 'updateVoices',
-          permission: 'master'
-        },
-        {
-          reg: '^#剧情更新$',
-          fnc: 'updatePlots',
-          permission: 'master'
-        },
-        {
-          reg: '^#地图文本更新$',
-          fnc: 'updateMaps',
-          permission: 'master'
-        },
-        {
-          reg: '^#角色逸闻更新$',
-          fnc: 'updateAnecdotes',
-          permission: 'master'
-        },
-        {
-          reg: '^#月谕圣牌更新$',
-          fnc: 'updateCards',
-          permission: 'master'
-        },
-        {
-          reg: '^#背包更新$',
-          fnc: 'updateBackpacks',
-          permission: 'master'
-        },
-        {
-          reg: '^#.+书籍更新$',
-          fnc: 'updateOneBook',
-          permission: 'master'
-        },
-        {
-          reg: '^#.+故事更新$',
-          fnc: 'updateOneRoleStory',
-          permission: 'master'
-        },
-        {
-          reg: '^#.+语音更新$',
-          fnc: 'updateOneVoice',
-          permission: 'master'
-        },
-        {
-          reg: '^#.+剧情更新$',
-          fnc: 'updateOnePlot',
-          permission: 'master'
-        },
-        {
-          reg: '^#.+地图文本更新$',
-          fnc: 'updateOneMap',
-          permission: 'master'
-        },
-        {
-          reg: '^#.+角色逸闻更新$',
-          fnc: 'updateOneAnecdote',
-          permission: 'master'
-        },
-        {
-          reg: '^#.+月谕圣牌更新$',
-          fnc: 'updateOneCard',
-          permission: 'master'
-        },
-        {
-          reg: '^#.+背包更新$',
-          fnc: 'updateOneBackpack',
-          permission: 'master'
-        },
-        {
-          reg: '^#.+圣遗物更新$',
-          fnc: 'updateOneRelic',
-          permission: 'master'
-        },
-        {
-          reg: '^#.+武器故事更新$',
-          fnc: 'updateOneWeapon',
-          permission: 'master'
-        },
-        {
-          reg: '^#角色故事帮助$',
-          fnc: 'roleStoryHelp'
-        },
-        {
-          reg: '^#语音帮助$',
-          fnc: 'voiceHelp'
-        },
-        {
-          reg: '^#剧情帮助$',
-          fnc: 'plotHelp'
-        },
-        {
-          reg: '^#地图文本帮助$',
-          fnc: 'mapHelp'
-        },
-        {
-          reg: '^#角色逸闻帮助$',
-          fnc: 'anecdoteHelp'
-        },
-        {
-          reg: '^#月谕圣牌帮助$',
-          fnc: 'cardHelp'
-        },
-        {
-          reg: '^#背包帮助$',
-          fnc: 'backpackHelp'
-        },
-        {
-          reg: '^#.+语音(?:文本|图片)?$',
-          fnc: 'voiceRead'
-        },
-        {
-          reg: '^#.+剧情(?:文本|图片)?$',
-          fnc: 'plotRead'
-        },
-        {
-          reg: '^#.+地图文本(?:文本|图片)?$',
-          fnc: 'mapRead'
-        },
-        {
-          reg: '^#.+角色逸闻(?:文本|图片)?$',
-          fnc: 'anecdoteRead'
-        },
-        {
-          reg: '^#.+月谕圣牌(?:文本|图片)?$',
-          fnc: 'cardRead'
-        },
-        {
-          reg: '^#.+背包(?:文本|图片)?$',
-          fnc: 'backpackRead'
-        },
-        {
-          reg: '^#.+故事(详情)?(?:文本|图片)?$',
-          fnc: 'roleStoryRead'
-        },
-        {
-          reg: '^#圣遗物更新$',
-          fnc: 'updateRelics',
-          permission: 'master'
-        },
-        {
-          reg: '^#圣遗物帮助$',
-          fnc: 'relicHelp'
-        },
-        {
-          reg: '^#.+圣遗物(?:文本|图片)?$',
-          fnc: 'relicRead'
-        },
-        {
-          reg: '^#武器更新$',
-          fnc: 'updateWeapons',
-          permission: 'master'
-        },
-        {
-          reg: '^#武器帮助$',
-          fnc: 'weaponHelp'
-        },
-        {
-          reg: '^#.+武器故事(?:文本|图片)?$',
-          fnc: 'weaponRead'
-        },
-        {
-          reg: '^#(书籍搜索|搜书).*$',
-          fnc: 'searchBooks'
-        },
-        {
-          reg: '^#角色故事搜索\s*.+$',
-          fnc: 'searchRoleStories'
-        },
-        {
-          reg: '^#圣遗物搜索\s*.+$',
-          fnc: 'searchRelics'
-        },
-        {
-          reg: '^#武器搜索\s*.+$',
-          fnc: 'searchWeapons'
-        },
-        {
-          reg: '^#语音搜索\s*.+$',
-          fnc: 'searchVoices'
-        },
-        {
-          reg: '^#剧情搜索\s*.+$',
-          fnc: 'searchPlots'
-        },
-        {
-          reg: '^#地图文本搜索\\s*.+$',
-          fnc: 'searchMaps'
-        },
-        {
-          reg: '^#角色逸闻搜索\\s*.+$',
-          fnc: 'searchAnecdotes'
-        },
-        {
-          reg: '^#月谕圣牌搜索\\s*.+$',
-          fnc: 'searchCards'
-        },
-        {
-          reg: '^#背包搜索\\s*.+$',
-          fnc: 'searchBackpacks'
-        },
-        {
-          reg: '^#搜索\s*.+$',
-          fnc: 'searchAll'
-        },
-        {
-          reg: '^[#＃]?[0-9０-９]{1,4}\\s*(文本|图片|语音)?$',
-          fnc: 'pickByIndex'
-        },
-        {
-          reg: '^#重置更新$',
-          fnc: 'resetAndUpdate',
-          permission: 'master'
-        },
-        {
-          reg: '^#([^\\s#].+)$',
-          fnc: 'pickByTitle'
-        }
-      ]
-    })
-  }
-
-  init() {
-    startBookDexWebUi({ logger }).catch(err => logger.error('[bookdex.webui.start]', err))
-    this.task = [
-      {
-        name: '文本库自动更新窗口检查',
-        cron: '0 0 0 * * ?',
-        fnc: this.autoUpdateWindowTick.bind(this)
-      }
-    ]
-  }
-
-  getNowGmt8() {
-    const now = Date.now()
-    return new Date(now + 8 * 3600 * 1000)
-  }
-
-  shouldRunAutoUpdateWindow() {
-    return shouldRunBookDexAutoUpdate()
-  }
-
-  async showWebUi() {
-    const info = getBookDexWebUiInfo() || await startBookDexWebUi({ logger })
-    if (!info) return this.reply('原神文本助手网页未启用。')
-    return this.reply(`原神文本助手网页：${info.url}`)
-  }
-
-  makeUpdateReporter(label, silent = false, progressEvery = 0) {
-    return {
-      onProgress: async ({ done, total }) => {
-        if (silent || !done || !total) return
-        if (!progressEvery) return
-        if (done % progressEvery !== 0 && done !== total) return
-        await this.reply(`${label}进度：${done}/${total}`)
-      },
-      onError: async ({ done, total, name, error }) => {
-        if (silent) return
-        const at = done && total ? `（${done}/${total}）` : ''
-        const who = name ? `：${name}` : ''
-        await this.reply(`${label}报错${at}${who}\n${formatFetchError(error)}`)
-      }
-    }
-  }
-
-  async updateAllTextsCommand() {
-    return this.updateAllTexts(false)
-  }
-
-  async updateAllTexts(silent = false) {
-    if (typeof silent !== 'boolean') silent = false
-    try {
-      const labelMap = {
-        book: '书籍',
-        role: '角色故事',
-        relic: '圣遗物',
-        weapon: '武器故事',
-        voice: '角色语音',
-        plot: '剧情文本',
-        map: '地图文本',
-        anecdote: '角色逸闻',
-        card: '月谕圣牌',
-        backpack: '背包'
-      }
-      const tasks = [
-        { key: 'book', label: '书籍数据', check: () => fetchBooksFromWiki({ dryRun: true }), exec: () => fetchBooksFromWiki(this.makeUpdateReporter('书籍更新', silent)) },
-        { key: 'role', label: '角色故事数据', check: () => fetchRoleStoryAll({ dryRun: true }), exec: () => fetchRoleStoryAll({ ...this.makeUpdateReporter('角色故事更新', silent), deepCompare: silent }) },
-        { key: 'relic', label: '圣遗物数据', check: () => fetchRelicAll({ dryRun: true }), exec: () => fetchRelicAll(this.makeUpdateReporter('圣遗物更新', silent)) },
-        { key: 'weapon', label: '武器故事数据', check: () => fetchWeaponAll({ dryRun: true }), exec: () => fetchWeaponAll(this.makeUpdateReporter('武器故事更新', silent, 500)) },
-        { key: 'voice', label: '角色语音数据', check: () => fetchVoiceAll({ dryRun: true }), exec: () => fetchVoiceAll({ ...this.makeUpdateReporter('角色语音更新', silent), deepCompare: silent }) },
-        { key: 'plot', label: '剧情文本数据', check: () => fetchPlotAll({ dryRun: true }), exec: () => fetchPlotAll(this.makeUpdateReporter('剧情文本更新', silent, 500)) },
-        { key: 'map', label: '地图文本数据', check: () => fetchMapAll({ dryRun: true }), exec: () => fetchMapAll(this.makeUpdateReporter('地图文本更新', silent, 500)) },
-        { key: 'anecdote', label: '角色逸闻数据', check: () => fetchAnecdoteAll({ dryRun: true }), exec: () => fetchAnecdoteAll(this.makeUpdateReporter('角色逸闻更新', silent, 500)) },
-        { key: 'card', label: '月谕圣牌数据', check: () => fetchCardAll({ dryRun: true }), exec: () => fetchCardAll(this.makeUpdateReporter('月谕圣牌更新', silent, 500)) },
-        { key: 'backpack', label: '背包数据', check: () => fetchBackpackAll({ dryRun: true }), exec: () => fetchBackpackAll(this.makeUpdateReporter('背包更新', silent, 500)) }
-      ]
-
-      const confirmCheck = async (item) => {
-        const first = await item.check()
-        if (Number(first?.updated || 0) <= 0) return first
-        const second = await item.check()
-        if (Number(second?.updated || 0) <= 0) return { ...first, updated: 0, unstableUpdated: first.updated }
-        return second
-      }
-
-      const checks = []
-      const failures = []
-      for (const item of tasks) {
-        try {
-          const ret = await confirmCheck(item)
-          checks.push({ ...item, checkResult: ret })
-        } catch (error) {
-          failures.push({ ...item, stage: '检测', error })
-          logger.error(`[bookdex.updateAllTexts] ${item.label} check failed`, error)
-        }
-      }
-
-      const active = checks.filter(item => Number(item.checkResult?.updated || 0) > 0)
-      if (!active.length) {
-        if (!silent) {
-          const lines = ['统一更新完成：本次检测到 0 个分量有更新，当前没有增量内容']
-          if (failures.length) {
-            lines.push(`但有 ${failures.length} 个分量因网络或接口错误跳过检测，旧缓存已保留：`)
-            for (const item of failures) lines.push(`${labelMap[item.key] || item.label}：${formatFetchError(item.error)}`)
-          }
-          return this.reply(lines.join('\n'))
-        }
-        logger.mark('[bookdex.autoUpdate] no incremental updates')
-        return true
-      }
-
-      const summaryLines = [`统一更新开始：本次检测到 ${active.length} 个分量有更新`]
-      for (const item of active) {
-        summaryLines.push(`${labelMap[item.key]}：预计变更 ${item.checkResult.updated}`)
-      }
-      if (failures.length) summaryLines.push(`另有 ${failures.length} 个分量检测失败，本轮将跳过并保留旧缓存`)
-      if (!silent) await this.reply(summaryLines.join('\n'))
-      else logger.mark('[bookdex.autoUpdate] ' + summaryLines.join(' | '))
-
-      const plan = []
-      for (const item of active) {
-        try {
-          const ret = await item.exec()
-          plan.push({ ...item, result: ret })
-        } catch (error) {
-          failures.push({ ...item, stage: '执行', error })
-          logger.error(`[bookdex.updateAllTexts] ${item.label} exec failed`, error)
-        }
-      }
-
-      const lines = ['统一更新执行完成']
-      for (const item of plan) lines.push(`${labelMap[item.key]}：${item.result.total} 条目（本次变更 ${item.result.updated}）`)
-      if (failures.length) {
-        lines.push(`有 ${failures.length} 个分量失败或跳过，旧缓存已保留，可稍后重试：`)
-        for (const item of failures) lines.push(`${labelMap[item.key] || item.label}${item.stage ? `（${item.stage}）` : ''}：${formatFetchError(item.error)}`)
-      }
-      const msg = lines.join('\n')
-
-      if (!silent) return this.reply(msg)
-      logger.mark('[bookdex.autoUpdate] ' + msg.replace(/\n/g, ' | '))
-      return true
-    } catch (err) {
-      logger.error('[bookdex.updateAllTexts] ', err)
-      if (!silent) return this.reply(`统一更新失败：${formatFetchError(err)}`)
-      throw err
-    }
-  }
-
-  async resetAndUpdate() {
-    await this.reply('开始重置 bookdex 数据（1/2）：正在清空本地缓存与文本库…')
-    await clearPluginData()
-    await this.reply('重置完成（2/2）：开始重新全量拉取数据…')
-    return this.updateAllTexts(false)
-  }
-
-  async autoUpdateWindowTick() {
-    if (!this.shouldRunAutoUpdateWindow()) return false
-    try {
-      await this.updateAllTexts(true)
-      await consumeCustomAutoRun()
-    } catch (err) {
-      logger.error('[bookdex.autoUpdateWindowTick]', err)
-    }
-    return true
-  }
-
-  async totalHelp() {
-    await ensureDirs()
-    const helpImg = path.join(pluginDir, 'resources', 'help-main.jpg')
-    if (fss.existsSync(helpImg)) {
-      await this.reply(segment.image(`file://${helpImg}`))
-      return true
-    }
-    return this.reply('总帮助图缺失，请先更新插件资源后重试。')
-  }
-
-  async bookHelp() {
-    await ensureDirs()
-    const index = await loadIndex()
-    const books = index.books || []
-
-    let session = this.saveSession({
-      type: 'book',
-      books
-    })
-
-    if (!books.length) {
-      return this.reply(`暂无书籍。请先将 txt/docx 放入 plugins/${pluginFolder}/data/inbox 后，发送 #书籍导入`)
+    constructor() {
+        super({
+            name: '书籍角色文本图鉴（bookdex-plugin）',
+            dsc: '书籍、角色故事、剧情、地图文本、角色逸闻、月谕圣牌、圣遗物与武器文本检索',
+            event: 'message',
+            priority: 5000,
+            rule: [
+                {
+                    reg: '^#(书角图鉴帮助|书籍图鉴帮助|bookdex帮助)$',
+                    fnc: 'totalHelp'
+                },
+                {
+                    reg: '^#书籍帮助\\d*$',
+                    fnc: 'bookHelp'
+                },
+                {
+                    reg: '^#书籍导入$',
+                    fnc: 'importBooks',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#书籍更新$',
+                    fnc: 'updateBooksFromWiki',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#(统一更新|书籍图鉴更新)$',
+                    fnc: 'updateAllTextsCommand',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#书籍图鉴网页$',
+                    fnc: 'showWebUi',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#角色故事更新$',
+                    fnc: 'updateRoleStories',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#语音更新$',
+                    fnc: 'updateVoices',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#剧情更新$',
+                    fnc: 'updatePlots',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#地图文本更新$',
+                    fnc: 'updateMaps',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#角色逸闻更新$',
+                    fnc: 'updateAnecdotes',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#月谕圣牌更新$',
+                    fnc: 'updateCards',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#背包更新$',
+                    fnc: 'updateBackpacks',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#.+书籍更新$',
+                    fnc: 'updateOneBook',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#.+故事更新$',
+                    fnc: 'updateOneRoleStory',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#.+语音更新$',
+                    fnc: 'updateOneVoice',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#.+剧情更新$',
+                    fnc: 'updateOnePlot',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#.+地图文本更新$',
+                    fnc: 'updateOneMap',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#.+角色逸闻更新$',
+                    fnc: 'updateOneAnecdote',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#.+月谕圣牌更新$',
+                    fnc: 'updateOneCard',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#.+背包更新$',
+                    fnc: 'updateOneBackpack',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#.+圣遗物更新$',
+                    fnc: 'updateOneRelic',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#.+武器故事更新$',
+                    fnc: 'updateOneWeapon',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#角色故事帮助$',
+                    fnc: 'roleStoryHelp'
+                },
+                {
+                    reg: '^#语音帮助$',
+                    fnc: 'voiceHelp'
+                },
+                {
+                    reg: '^#剧情帮助$',
+                    fnc: 'plotHelp'
+                },
+                {
+                    reg: '^#地图文本帮助$',
+                    fnc: 'mapHelp'
+                },
+                {
+                    reg: '^#角色逸闻帮助$',
+                    fnc: 'anecdoteHelp'
+                },
+                {
+                    reg: '^#月谕圣牌帮助$',
+                    fnc: 'cardHelp'
+                },
+                {
+                    reg: '^#背包帮助$',
+                    fnc: 'backpackHelp'
+                },
+                {
+                    reg: '^#.+语音(?:文本|图片)?$',
+                    fnc: 'voiceRead'
+                },
+                {
+                    reg: '^#.+剧情(?:文本|图片)?$',
+                    fnc: 'plotRead'
+                },
+                {
+                    reg: '^#.+地图文本(?:文本|图片)?$',
+                    fnc: 'mapRead'
+                },
+                {
+                    reg: '^#.+角色逸闻(?:文本|图片)?$',
+                    fnc: 'anecdoteRead'
+                },
+                {
+                    reg: '^#.+月谕圣牌(?:文本|图片)?$',
+                    fnc: 'cardRead'
+                },
+                {
+                    reg: '^#.+背包(?:文本|图片)?$',
+                    fnc: 'backpackRead'
+                },
+                {
+                    reg: '^#.+故事(详情)?(?:文本|图片)?$',
+                    fnc: 'roleStoryRead'
+                },
+                {
+                    reg: '^#圣遗物更新$',
+                    fnc: 'updateRelics',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#圣遗物帮助$',
+                    fnc: 'relicHelp'
+                },
+                {
+                    reg: '^#.+圣遗物(?:文本|图片)?$',
+                    fnc: 'relicRead'
+                },
+                {
+                    reg: '^#武器更新$',
+                    fnc: 'updateWeapons',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#武器帮助$',
+                    fnc: 'weaponHelp'
+                },
+                {
+                    reg: '^#.+武器故事(?:文本|图片)?$',
+                    fnc: 'weaponRead'
+                },
+                {
+                    reg: '^#(书籍搜索|搜书).*$',
+                    fnc: 'searchBooks'
+                },
+                {
+                    reg: '^#角色故事搜索\s*.+$',
+                    fnc: 'searchRoleStories'
+                },
+                {
+                    reg: '^#圣遗物搜索\s*.+$',
+                    fnc: 'searchRelics'
+                },
+                {
+                    reg: '^#武器搜索\s*.+$',
+                    fnc: 'searchWeapons'
+                },
+                {
+                    reg: '^#语音搜索\s*.+$',
+                    fnc: 'searchVoices'
+                },
+                {
+                    reg: '^#剧情搜索\s*.+$',
+                    fnc: 'searchPlots'
+                },
+                {
+                    reg: '^#地图文本搜索\\s*.+$',
+                    fnc: 'searchMaps'
+                },
+                {
+                    reg: '^#角色逸闻搜索\\s*.+$',
+                    fnc: 'searchAnecdotes'
+                },
+                {
+                    reg: '^#月谕圣牌搜索\\s*.+$',
+                    fnc: 'searchCards'
+                },
+                {
+                    reg: '^#背包搜索\\s*.+$',
+                    fnc: 'searchBackpacks'
+                },
+                {
+                    reg: '^#搜索\s*.+$',
+                    fnc: 'searchAll'
+                },
+                {
+                    reg: '^[#＃]?[0-9０-９]{1,4}\\s*(文本|图片|语音)?$',
+                    fnc: 'pickByIndex'
+                },
+                {
+                    reg: '^#重置更新$',
+                    fnc: 'resetAndUpdate',
+                    permission: 'master'
+                },
+                {
+                    reg: '^#([^\\s#].+)$',
+                    fnc: 'pickByTitle'
+                }
+            ]
+        })
     }
 
-    const lines = books.map((b, i) => `${i + 1}. ${b.title}`)
-    session = await this.replyChunkedListWithSession(
-      [`📚 书籍图鉴（共 ${books.length} 本）`, '发送：引用本条后输入序号，或 #书名；加“图片”返回图片'],
-      lines,
-      40,
-      session
-    )
-    return Boolean(session)
-  }
-
-  async importBooks() {
-    const ret = await rebuildBooksFromInbox()
-    return this.reply(`导入完成：新增/重建 ${ret.created} 本，当前书库 ${ret.total} 本。\n命令：#书籍帮助`)
-  }
-
-  async updateRoleStories() {
-    await this.reply('开始抓取角色故事，请稍等（首次可能1-3分钟）')
-    const ret = await fetchRoleStoryAll(this.makeUpdateReporter('角色故事更新'))
-    if (!ret.updated) return this.reply('角色故事更新完成：当前没有检测到增量内容')
-    return this.reply(`角色故事更新完成：共 ${ret.total} 个角色。\n命令：#角色故事帮助`)
-  }
-
-  async roleStoryHelp() {
-    const idx = await loadStoryIndex()
-    const roles = idx.roles || []
-    if (!roles.length) {
-      return this.reply('暂无角色故事数据，请先发送 #角色故事更新')
-    }
-
-    let session = this.saveSession({
-      type: 'role',
-      roles
-    })
-
-    const lines = roles.map((r, i) => `${i + 1}. ${r.name}`)
-    const head = [
-      `📚 角色故事列表（共 ${roles.length}）`,
-      '命令：#角色名故事 / #角色名故事详情 / 可加“图片”'
-    ]
-    session = await this.replyChunkedListWithSession(head, lines, 40, session)
-    return Boolean(session)
-  }
-
-  async roleStoryRead() {
-    const msg = this.e.msg.trim()
-    const m = msg.match(/^#(.+?)故事(详情)?(?:文本|图片)?$/)
-    if (!m) return false
-
-    const roleNameRaw = this.trimOutputSuffix((m[1] || '').trim())
-    const wantDetail = Boolean(m[2])
-    const { wantImage } = this.outputMode(msg)
-    if (!roleNameRaw) return false
-
-    const idx = await loadStoryIndex()
-    const roles = idx.roles || []
-    if (!roles.length) return this.reply('暂无角色故事数据，请先发送 #角色故事更新')
-
-    const key = normalizeRoleName(roleNameRaw)
-    const roleMeta = roles.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
-      || roles.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
-
-    if (!roleMeta) return false
-
-    const file = path.join(storyRoot, `${slugify(roleMeta.name)}.json`)
-    if (!fss.existsSync(file)) return this.reply(`未找到角色故事：${roleMeta.name}`)
-    const role = JSON.parse(await fs.readFile(file, 'utf8'))
-
-    const text = renderRoleStoryText(role, wantDetail ? 'detail' : 'story')
-    return this.replyRichItemContent(role, wantDetail ? `${role.name}故事详情` : `${role.name}故事`, text, wantImage)
-  }
-
-
-  async updateVoices() {
-    await this.reply('开始抓取角色语音，请稍等（约1-3分钟）')
-    const ret = await fetchVoiceAll(this.makeUpdateReporter('角色语音更新'))
-    if (!ret.updated) return this.reply('角色语音更新完成：当前没有检测到增量内容')
-    return this.reply(`角色语音更新完成：共 ${ret.total} 个角色。\n命令：#语音帮助`)
-  }
-
-  async voiceHelp() {
-    const idx = await loadVoiceIndex()
-    const roles = idx.roles || []
-    if (!roles.length) return this.reply('暂无角色语音数据，请先发送 #语音更新')
-
-    let session = this.saveSession({
-      type: 'voice-role',
-      roles
-    })
-
-    const lines = roles.map((r, i) => `${i + 1}. ${r.name}`)
-    session = await this.replyChunkedListWithSession([`🎙️ 角色语音列表（共 ${roles.length}）`, '命令：#角色名语音 / #角色名语音图片 / #语音搜索 关键词'], lines, 40, session)
-    return Boolean(session)
-  }
-
-  async voiceRead() {
-    const msg = this.e.msg.trim()
-    const m = msg.match(/^#(.+?)语音(?:文本|图片)?$/)
-    if (!m) return false
-    const raw = this.trimOutputSuffix((m[1] || '').trim())
-    const { wantImage } = this.outputMode(msg)
-    if (!raw) return false
-
-    const idx = await loadVoiceIndex()
-    const roles = idx.roles || []
-    if (!roles.length) return this.reply('暂无角色语音数据，请先发送 #语音更新')
-
-    const key = normalizeRoleName(raw)
-    const meta = roles.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
-      || roles.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
-    if (!meta) return false
-
-    const file = path.join(voiceRoot, `${slugify(meta.name)}.json`)
-    if (!fss.existsSync(file)) return this.reply(`未找到角色语音：${meta.name}`)
-    const voice = JSON.parse(await fs.readFile(file, 'utf8'))
-    const tab = pickDefaultVoiceTab(voice)
-
-    const session = this.saveSession({
-      at: Date.now(),
-      type: 'voice-entry',
-      role: voice.name,
-      lang: tab.lang,
-      entries: (tab.items || []).map(item => ({ role: voice.name, lang: tab.lang, ...item }))
-    })
-
-    const text = renderVoiceListText(voice, false)
-    return this.replyContent(`${voice.name}语音列表`, text, wantImage, session)
-  }
-
-
-  async updatePlots() {
-    await this.reply('开始抓取剧情文本，请稍等（首次可能需要几分钟）')
-    const ret = await fetchPlotAll(this.makeUpdateReporter('剧情文本更新', false, 100))
-    if (!ret.updated) return this.reply('剧情文本更新完成：当前没有检测到增量内容')
-    return this.reply(`剧情文本更新完成：共 ${ret.total} 条剧情。\n命令：#剧情帮助`)
-  }
-
-  async plotHelp() {
-    const idx = await loadPlotIndex()
-    const items = idx.items || []
-    if (!items.length) return this.reply('暂无剧情文本数据，请先发送 #剧情更新')
-
-    const order = ['魔神任务', '传说任务', '世界任务', '限时任务', '其他任务']
-    const grouped = new Map(order.map(k => [k, []]))
-    for (const item of items) {
-      const key = order.includes(item.category) ? item.category : '其他任务'
-      grouped.get(key).push(item)
-    }
-
-    const orderedPlots = []
-    let session = this.saveSession({
-      type: 'plot',
-      plots: orderedPlots
-    })
-
-    const blocks = []
-    let no = 1
-    for (const key of order) {
-      const arr = grouped.get(key) || []
-      if (!arr.length) continue
-      const entries = []
-      for (const item of arr) {
-        orderedPlots.push(item)
-        entries.push(`${no}. ${item.name}${item.subtitle ? `｜${item.subtitle}` : ''}`)
-        no++
-      }
-      const parts = chunkLines(entries, 25)
-      parts.forEach((part, idx) => {
-        const head = idx === 0 ? `【${key}｜${arr.length}】` : `【${key}｜续 ${idx + 1}】`
-        blocks.push([head, ...part].join('\n'))
-      })
-    }
-    session = await this.replyWithSession(`📜 剧情文本列表（共 ${items.length}）\n命令：#任务名剧情 / #任务名剧情图片 / #剧情搜索 关键词`, session)
-    if (blocks.length) session = await this.replyForwardBatchesWithSession(blocks, session, 10)
-    this.saveSession({ ...session, plots: orderedPlots })
-    return true
-  }
-
-  async plotRead() {
-    const msg = this.e.msg.trim()
-    const m = msg.match(/^#(.+?)剧情(?:文本|图片)?$/)
-    if (!m) return false
-    const raw = this.trimOutputSuffix((m[1] || '').trim())
-    const { wantImage } = this.outputMode(msg)
-    if (!raw) return false
-
-    const idx = await loadPlotIndex()
-    const items = idx.items || []
-    if (!items.length) return this.reply('暂无剧情文本数据，请先发送 #剧情更新')
-
-    const key = normalizeRoleName(raw)
-    const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
-      || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
-    if (!meta) return false
-
-    const file = resolvePlotFile(meta)
-    if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${meta.name}`)
-    const item = JSON.parse(await fs.readFile(file, 'utf8'))
-    return this.replyPlotContent(item, wantImage)
-  }
-
-  async updateMaps() {
-    await this.reply('开始抓取地图文本，请稍等（首次可能需要几分钟）')
-    const ret = await fetchMapAll(this.makeUpdateReporter('地图文本更新', false, 100))
-    if (!ret.updated) return this.reply('地图文本更新完成：当前没有检测到增量内容')
-    return this.reply(`地图文本更新完成：共 ${ret.total} 条地图交互文本。\n命令：#地图文本帮助`)
-  }
-
-  async mapHelp() {
-    const idx = await loadMapIndex()
-    const items = idx.items || []
-    if (!items.length) return this.reply('暂无地图文本数据，请先发送 #地图文本更新')
-
-    let session = this.saveSession({
-      type: 'map',
-      maps: items
-    })
-
-    const lines = items.map((item, i) => `${i + 1}. ${item.name}`)
-    session = await this.replyChunkedListWithSession(
-      [`🗺️ 地图文本列表（共 ${items.length}）`, '命令：#地图名地图文本 / #地图名地图文本图片 / #地图文本搜索 关键词'],
-      lines,
-      30,
-      session
-    )
-    return Boolean(session)
-  }
-
-  async mapRead() {
-    const msg = this.e.msg.trim()
-    const m = msg.match(/^#(.+?)地图文本(?:文本|图片)?$/)
-    if (!m) return false
-    const raw = this.trimOutputSuffix((m[1] || '').trim())
-    const { wantImage } = this.outputMode(msg)
-    if (!raw) return false
-
-    const idx = await loadMapIndex()
-    const items = idx.items || []
-    if (!items.length) return this.reply('暂无地图文本数据，请先发送 #地图文本更新')
-
-    const key = normalizeRoleName(raw)
-    const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
-      || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
-    if (!meta) return false
-
-    const file = resolveMapFile(meta)
-    if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${meta.name}`)
-    const item = JSON.parse(await fs.readFile(file, 'utf8'))
-    const text = renderMapText(item, 'full')
-    return this.replyRichItemContent(item, item.name, text, wantImage)
-  }
-
-  async updateAnecdotes() {
-    await this.reply('开始抓取角色逸闻，请稍等（首次可能需要几分钟）')
-    const ret = await fetchAnecdoteAll(this.makeUpdateReporter('角色逸闻更新', false, 100))
-    if (!ret.updated) return this.reply('角色逸闻更新完成：当前没有检测到增量内容')
-    return this.reply(`角色逸闻更新完成：共 ${ret.total} 条。\n命令：#角色逸闻帮助`)
-  }
-
-  async anecdoteHelp() {
-    const idx = await loadAnecdoteIndex()
-    const items = idx.items || []
-    if (!items.length) return this.reply('暂无角色逸闻数据，请先发送 #角色逸闻更新')
-
-    let session = this.saveSession({
-      type: 'anecdote',
-      anecdotes: items
-    })
-
-    const lines = items.map((item, i) => `${i + 1}. ${item.name}`)
-    session = await this.replyChunkedListWithSession(
-      [`📚 角色逸闻列表（共 ${items.length}）`, '命令：#角色名角色逸闻 / #角色名角色逸闻图片 / #角色逸闻搜索 关键词'],
-      lines,
-      30,
-      session
-    )
-    return Boolean(session)
-  }
-
-  async anecdoteRead() {
-    const msg = this.e.msg.trim()
-    const m = msg.match(/^#(.+?)角色逸闻(?:文本|图片)?$/)
-    if (!m) return false
-    const raw = this.trimOutputSuffix((m[1] || '').trim())
-    const { wantImage } = this.outputMode(msg)
-    if (!raw) return false
-
-    const idx = await loadAnecdoteIndex()
-    const items = idx.items || []
-    if (!items.length) return this.reply('暂无角色逸闻数据，请先发送 #角色逸闻更新')
-
-    const key = normalizeRoleName(raw)
-    const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
-      || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
-    if (!meta) return false
-
-    const file = resolveAnecdoteFile(meta)
-    if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${meta.name}`)
-    const item = JSON.parse(await fs.readFile(file, 'utf8'))
-    const text = renderAnecdoteText(item, 'full')
-    return this.replyRichItemContent(item, item.name, text, wantImage)
-  }
-
-  async updateCards() {
-    await this.reply('开始抓取月谕圣牌，请稍等（首次可能需要几分钟）')
-    const ret = await fetchCardAll(this.makeUpdateReporter('月谕圣牌更新', false, 100))
-    if (!ret.updated) return this.reply('月谕圣牌更新完成：当前没有检测到增量内容')
-    return this.reply(`月谕圣牌更新完成：共 ${ret.total} 条。\n命令：#月谕圣牌帮助`)
-  }
-
-  async cardHelp() {
-    const idx = await loadCardIndex()
-    const items = idx.items || []
-    if (!items.length) return this.reply('暂无月谕圣牌数据，请先发送 #月谕圣牌更新')
-
-    let session = this.saveSession({
-      type: 'card',
-      cards: items
-    })
-
-    const lines = items.map((item, i) => `${i + 1}. ${item.name}`)
-    session = await this.replyChunkedListWithSession(
-      [`🃏 月谕圣牌列表（共 ${items.length}）`, '命令：#圣牌名月谕圣牌 / #圣牌名月谕圣牌图片 / #月谕圣牌搜索 关键词'],
-      lines,
-      30,
-      session
-    )
-    return Boolean(session)
-  }
-
-  async cardRead() {
-    const msg = this.e.msg.trim()
-    const m = msg.match(/^#(.+?)月谕圣牌(?:文本|图片)?$/)
-    if (!m) return false
-    const raw = this.trimOutputSuffix((m[1] || '').trim())
-    const { wantImage } = this.outputMode(msg)
-    if (!raw) return false
-
-    const idx = await loadCardIndex()
-    const items = idx.items || []
-    if (!items.length) return this.reply('暂无月谕圣牌数据，请先发送 #月谕圣牌更新')
-
-    const key = normalizeRoleName(raw)
-    const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
-      || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
-    if (!meta) return false
-
-    const file = resolveCardFile(meta)
-    if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${meta.name}`)
-    const item = JSON.parse(await fs.readFile(file, 'utf8'))
-    const text = renderCardText(item, 'full')
-    return this.replyRichItemContent(item, item.name, text, wantImage)
-  }
-
-  async updateBackpacks() {
-    await this.reply('开始抓取背包文本，请稍等（首次可能需要几分钟）')
-    const ret = await fetchBackpackAll(this.makeUpdateReporter('背包更新', false, 100))
-    if (!ret.updated) return this.reply('背包更新完成：当前没有检测到增量内容')
-    return this.reply(`背包更新完成：共 ${ret.total} 条。\n命令：#背包帮助`)
-  }
-
-  async backpackHelp() {
-    const idx = await loadBackpackIndex()
-    const items = idx.items || []
-    if (!items.length) return this.reply('暂无背包数据，请先发送 #背包更新')
-
-    let session = this.saveSession({
-      type: 'backpack',
-      backpacks: items
-    })
-
-    const lines = items.map((item, i) => `${i + 1}. ${item.name}`)
-    session = await this.replyChunkedListWithSession(
-      [`🎒 背包列表（共 ${items.length}）`, '命令：#背包名背包 / #背包名背包图片 / #背包搜索 关键词'],
-      lines,
-      30,
-      session
-    )
-    return Boolean(session)
-  }
-
-  async backpackRead() {
-    const msg = this.e.msg.trim()
-    const m = msg.match(/^#(.+?)背包(?:文本|图片)?$/)
-    if (!m) return false
-    const raw = this.trimOutputSuffix((m[1] || '').trim())
-    const { wantImage } = this.outputMode(msg)
-    if (!raw) return false
-
-    const idx = await loadBackpackIndex()
-    const items = idx.items || []
-    if (!items.length) return this.reply('暂无背包数据，请先发送 #背包更新')
-
-    const key = normalizeRoleName(raw)
-    const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
-      || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
-    if (!meta) return false
-
-    const file = resolveBackpackFile(meta)
-    if (!file || !fss.existsSync(file)) return this.reply(`未找到背包：${meta.name}`)
-    const item = JSON.parse(await fs.readFile(file, 'utf8'))
-    return this.replyBackpackContent(item, wantImage)
-  }
-
-  async updateRelics() {
-    await this.reply('开始抓取圣遗物文本，请稍等（约1-2分钟）')
-    const ret = await fetchRelicAll(this.makeUpdateReporter('圣遗物更新'))
-    if (!ret.updated) return this.reply('圣遗物更新完成：当前没有检测到增量内容')
-    return this.reply(`圣遗物更新完成：共 ${ret.total} 套。\n命令：#圣遗物帮助`)
-  }
-
-  async relicHelp() {
-    const idx = await loadRelicIndex()
-    const sets = idx.sets || []
-    if (!sets.length) return this.reply('暂无圣遗物数据，请先发送 #圣遗物更新')
-    let session = this.saveSession({
-      type: 'relic',
-      relics: sets
-    })
-
-    const lines = sets.map((s, i) => `${i + 1}. ${s.name}`)
-    session = await this.replyChunkedListWithSession([`📗 圣遗物列表（共 ${sets.length} 套）`, '命令：#套装名圣遗物 / #套装名圣遗物图片；也可引用本条发序号'], lines, 40, session)
-    return Boolean(session)
-  }
-
-  async relicRead() {
-    const msg = this.e.msg.trim()
-    const m = msg.match(/^#(.+?)圣遗物(?:文本|图片)?$/)
-    if (!m) return false
-    const raw = this.trimOutputSuffix((m[1] || '').trim())
-    const { wantImage } = this.outputMode(msg)
-    if (!raw) return false
-
-    const idx = await loadRelicIndex()
-    const sets = idx.sets || []
-    if (!sets.length) return this.reply('暂无圣遗物数据，请先发送 #圣遗物更新')
-
-    const key = normalizeRoleName(raw)
-    const meta = sets.find(s => normalizeRoleName(s.name) === key || (s.alias || []).includes(key))
-      || sets.find(s => normalizeRoleName(s.name).includes(key) || key.includes(normalizeRoleName(s.name)))
-    if (!meta) return false
-
-    const file = path.join(relicRoot, `${slugify(meta.name)}.json`)
-    if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${meta.name}`)
-    const set = JSON.parse(await fs.readFile(file, 'utf8'))
-    const text = renderRelicText(set)
-    return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
-  }
-
-  async updateWeapons() {
-    await this.reply('开始抓取武器故事，请稍等（约1-2分钟）')
-    const ret = await fetchWeaponAll(this.makeUpdateReporter('武器故事更新', false, 100))
-    if (!ret.updated) return this.reply('武器故事更新完成：当前没有检测到增量内容')
-    return this.reply(`武器故事更新完成：共 ${ret.total} 把武器。\n命令：#武器帮助`)
-  }
-
-  async weaponHelp() {
-    const idx = await loadWeaponIndex()
-    const weapons = idx.weapons || []
-    if (!weapons.length) return this.reply('暂无武器故事数据，请先发送 #武器更新')
-
-    let session = this.saveSession({
-      type: 'weapon',
-      weapons
-    })
-
-    const lines = weapons.map((w, i) => `${i + 1}. ${w.name}`)
-    session = await this.replyChunkedListWithSession([`📘 武器列表（共 ${weapons.length}）`, '命令：#武器名武器故事 / #武器名武器故事图片'], lines, 40, session)
-    return Boolean(session)
-  }
-
-  async weaponRead() {
-    const msg = this.e.msg.trim()
-    const m = msg.match(/^#(.+?)武器故事(?:文本|图片)?$/)
-    if (!m) return false
-    const raw = this.trimOutputSuffix((m[1] || '').trim())
-    const { wantImage } = this.outputMode(msg)
-    if (!raw) return false
-
-    const idx = await loadWeaponIndex()
-    const weapons = idx.weapons || []
-    if (!weapons.length) return this.reply('暂无武器故事数据，请先发送 #武器更新')
-
-    const key = normalizeRoleName(raw)
-    const meta = weapons.find(w => normalizeRoleName(w.name) === key || (w.alias || []).includes(key))
-      || weapons.find(w => normalizeRoleName(w.name).includes(key) || key.includes(normalizeRoleName(w.name)))
-    if (!meta) return false
-
-    const file = path.join(weaponRoot, `${slugify(meta.name)}.json`)
-    if (!fss.existsSync(file)) return this.reply(`未找到武器：${meta.name}`)
-    const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
-    const text = renderWeaponText(weapon)
-    return this.replyRichItemContent(weapon, `${weapon.name}武器故事`, text, wantImage)
-  }
-
-  async updateBooksFromWiki() {
-    await this.reply('开始从原神图鉴抓取书籍，请稍等（约1-3分钟）')
-    const ret = await fetchBooksFromWiki(this.makeUpdateReporter('书籍更新'))
-    if (!ret.updated) return this.reply('书籍更新完成：当前没有检测到增量内容')
-    return this.reply(`书籍更新完成：共 ${ret.total} 本。\n命令：#书籍帮助`)
-  }
-
-  extractSingleUpdateTarget(suffix) {
-    const raw = String(this.e.msg || '').trim().replace(/^#/, '').trim()
-    if (!raw.endsWith(suffix)) return ''
-    return raw.slice(0, -suffix.length).trim()
-  }
-
-  async replySingleUpdateResult(label, target, updater) {
-    if (!target) return this.reply(`请输入要更新的${label}名称`)
-    await this.reply(`开始单条更新${label}：${target}`)
-    try {
-      const ret = await updater(target)
-      if (ret?.ok) return this.reply(`单条更新成功：${label}「${ret.name || target}」`)
-      if (ret?.reason === 'not_found') return this.reply(`未找到对应条目：${target}`)
-      if (ret?.reason === 'entry_missing') return this.reply(`更新失败：未拿到词条详情（${target}）`)
-      if (ret?.reason === 'empty') return this.reply(`更新失败：词条缺少可用文本（${target}）`)
-      return this.reply(`更新失败：${target}`)
-    } catch (err) {
-      logger.error(`[bookdex.singleUpdate.${label}]`, err)
-      return this.reply(`更新失败：${err?.message || err}`)
-    }
-  }
-
-  async updateOneBook() {
-    const target = this.extractSingleUpdateTarget('书籍更新')
-    return this.replySingleUpdateResult('书籍', target, updateOneBookByName)
-  }
-
-  async updateOneRoleStory() {
-    const target = this.extractSingleUpdateTarget('故事更新')
-    return this.replySingleUpdateResult('角色故事', target, updateOneRoleStoryByName)
-  }
-
-  async updateOneVoice() {
-    const target = this.extractSingleUpdateTarget('语音更新')
-    return this.replySingleUpdateResult('角色语音', target, updateOneVoiceByName)
-  }
-
-  async updateOnePlot() {
-    const target = this.extractSingleUpdateTarget('剧情更新')
-    return this.replySingleUpdateResult('剧情文本', target, updateOnePlotByName)
-  }
-
-  async updateOneMap() {
-    const target = this.extractSingleUpdateTarget('地图文本更新')
-    return this.replySingleUpdateResult('地图文本', target, updateOneMapByName)
-  }
-
-  async updateOneAnecdote() {
-    const target = this.extractSingleUpdateTarget('角色逸闻更新')
-    return this.replySingleUpdateResult('角色逸闻', target, updateOneAnecdoteByName)
-  }
-
-  async updateOneCard() {
-    const target = this.extractSingleUpdateTarget('月谕圣牌更新')
-    return this.replySingleUpdateResult('月谕圣牌', target, updateOneCardByName)
-  }
-
-  async updateOneBackpack() {
-    const target = this.extractSingleUpdateTarget('背包更新')
-    return this.replySingleUpdateResult('背包', target, updateOneBackpackByName)
-  }
-
-  async updateOneRelic() {
-    const target = this.extractSingleUpdateTarget('圣遗物更新')
-    return this.replySingleUpdateResult('圣遗物', target, updateOneRelicByName)
-  }
-
-  async updateOneWeapon() {
-    const target = this.extractSingleUpdateTarget('武器故事更新')
-    return this.replySingleUpdateResult('武器故事', target, updateOneWeaponByName)
-  }
-
-  async runTextSearch(keyword, types = ['book']) {
-    return runBookDexTextSearch(keyword, types)
-  }
-
-  async replySearch(keyword, types) {
-    await this.reply(`🔎 正在搜索：${keyword}`)
-    const rows = await this.runTextSearch(keyword, types)
-    if (!rows.length) return this.reply(`未找到关键词“${keyword}”`)
-
-    let session = this.saveSession({
-      type: 'search',
-      results: rows
-    })
-
-    const mapLabel = { book: '书籍', role: '角色', relic: '圣遗物', weapon: '武器', voice: '语音', plot: '剧情', map: '地图文本', anecdote: '角色逸闻', card: '月谕圣牌', backpack: '背包' }
-    const lines = rows.map((r, i) => `${i + 1}. [${mapLabel[r.type]}] ${r.name}${r.snippet ? `\n  ↳ ${r.snippet}` : ''}`)
-
-    session = await this.replyChunkedListWithSession([`🔎 关键词：${keyword}`, `共找到 ${rows.length} 条`, '可引用本搜索结果发序号查看详情（可加“图片”或“语音”）'], lines, 10, session)
-    return true
-  }
-
-  async searchRoleStories() {
-    const keyword = this.e.msg.replace(/^#角色故事搜索\s*/, '').trim()
-    if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['role'])
-  }
-
-  async searchRelics() {
-    const keyword = this.e.msg.replace(/^#圣遗物搜索\s*/, '').trim()
-    if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['relic'])
-  }
-
-  async searchWeapons() {
-    const keyword = this.e.msg.replace(/^#武器搜索\s*/, '').trim()
-    if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['weapon'])
-  }
-
-
-  async searchVoices() {
-    const keyword = this.e.msg.replace(/^#语音搜索\s*/, '').trim()
-    if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['voice'])
-  }
-
-  async searchPlots() {
-    const keyword = this.e.msg.replace(/^#剧情搜索\s*/, '').trim()
-    if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['plot'])
-  }
-
-  async searchMaps() {
-    const keyword = this.e.msg.replace(/^#地图文本搜索\s*/, '').trim()
-    if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['map'])
-  }
-
-  async searchAnecdotes() {
-    const keyword = this.e.msg.replace(/^#角色逸闻搜索\s*/, '').trim()
-    if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['anecdote'])
-  }
-
-  async searchCards() {
-    const keyword = this.e.msg.replace(/^#月谕圣牌搜索\s*/, '').trim()
-    if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['card'])
-  }
-
-  async searchBackpacks() {
-    const keyword = this.e.msg.replace(/^#背包搜索\s*/, '').trim()
-    if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['backpack'])
-  }
-
-  async searchAll() {
-    const keyword = this.e.msg.replace(/^#搜索\s*/, '').trim()
-    if (!keyword) return this.reply('请输入关键词')
-    return this.replySearch(keyword, ['book', 'role', 'relic', 'weapon', 'voice', 'plot', 'map', 'anecdote', 'card', 'backpack'])
-  }
-
-  async searchBooks() {
-    try {
-      const keyword = this.e.msg.replace(/^#(书籍搜索|搜书)\s*/, '').trim()
-      if (!keyword) return this.reply('请输入关键词，例如：#书籍搜索 稻妻')
-
-      await this.reply(`🔎 正在搜索：${keyword}`)
-
-      const index = await loadIndex()
-      const books = index.books || []
-
-      const hit = []
-      for (let i = 0; i < books.length; i++) {
-        const b = books[i]
-        const no = i + 1
-        const titleHit = b.title.includes(keyword)
-
-        let contentHit = false
-        let snippet = ''
-        const full = path.join(booksRoot, b.file)
-        if (fss.existsSync(full)) {
-          try {
-            const content = renderBookTextWithDescription(b.title, await fs.readFile(full, 'utf8'), b.desc)
-            const idx = content.indexOf(keyword)
-            if (idx >= 0) {
-              contentHit = true
-              const start = Math.max(0, idx - 36)
-              const end = Math.min(content.length, idx + keyword.length + 48)
-              snippet = content.slice(start, end).replace(/\s+/g, ' ').trim()
+    init() {
+        startBookDexWebUi({ logger }).catch(err => logger.error('[bookdex.webui.start]', err))
+        this.task = [
+            {
+                name: '文本库自动更新窗口检查',
+                cron: '0 0 0 * * ?',
+                fnc: this.autoUpdateWindowTick.bind(this)
             }
-          } catch {
-            contentHit = false
-          }
-        }
-
-        if (titleHit || contentHit) {
-          hit.push({ ...b, no, titleHit, contentHit, snippet })
-        }
-      }
-
-      if (!hit.length) return this.reply(`未找到关键词“${keyword}”相关书籍（已检索书名+正文）`)
-
-      let session = this.saveSession({
-        type: 'search',
-        results: hit.map(b => ({ type: 'book', name: b.title, snippet: b.snippet || '' }))
-      })
-
-      const lines = hit.map(b => {
-        const flag = b.titleHit && b.contentHit
-          ? '【书名+正文】'
-          : b.titleHit
-            ? '【书名】'
-            : '【正文】'
-        if (b.contentHit && b.snippet) {
-          return `${b.no}. ${b.title} ${flag}\n  ↳ ${b.snippet}`
-        }
-        return `${b.no}. ${b.title} ${flag}`
-      })
-
-      const header = [
-        `🔎 关键词：${keyword}`,
-        `共找到 ${hit.length} 本`,
-        '可直接发送 #书名 阅读；也可引用本搜索结果发送序号（可加“图片”）'
-      ]
-
-      // QQ 单条过长可能不下发，按块发送
-      session = await this.replyChunkedListWithSession(header, lines, 10, session)
-      return true
-    } catch (err) {
-      logger.error('[bookdex.searchBooks] ', err)
-      return this.reply(`搜索失败：${err?.message || err}`)
-    }
-  }
-
-  userKey() {
-    return `${this.e.self_id || 'bot'}:${this.e.group_id || this.e.user_id || 'u'}`
-  }
-
-  getUserSessions() {
-    loadHelpSessionCache()
-    const sessions = (helpSessionCache.get(this.userKey()) || []).filter(isValidTrackedSession)
-    if (sessions.length !== (helpSessionCache.get(this.userKey()) || []).length) {
-      helpSessionCache.set(this.userKey(), sessions)
-      persistHelpSessionCache()
-    }
-    return sessions
-  }
-
-  saveSession(session) {
-    loadHelpSessionCache()
-    if (!isValidTrackedSession(session)) return null
-    const normalized = {
-      ...session,
-      sid: session.sid || `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
-      at: Date.now(),
-      messageIds: [...new Set((session.messageIds || []).map(id => String(id)).filter(Boolean))]
+        ]
     }
 
-    const maxAge = 1 * 60 * 60 * 1000
-    const now = Date.now()
-    const sessions = this.getUserSessions().filter(item => item && now - Number(item.at || 0) < maxAge)
-    const idx = sessions.findIndex(item => item.sid === normalized.sid)
-    if (idx >= 0) sessions[idx] = normalized
-    else sessions.push(normalized)
-
-    sessions.sort((a, b) => Number(a.at || 0) - Number(b.at || 0))
-    const trimmed = sessions.slice(-60)
-    helpSessionCache.set(this.userKey(), trimmed)
-    persistHelpSessionCache()
-    return normalized
-  }
-
-  appendSessionMessageIds(session, replyRes) {
-    if (!isValidTrackedSession(session) || !replyRes) return session
-    if (isReplyError(replyRes)) return session
-
-    const ids = []
-    if (Array.isArray(replyRes.message_id)) ids.push(...replyRes.message_id)
-    else if (replyRes.message_id) ids.push(replyRes.message_id)
-    if (!ids.length) return session
-
-    return this.saveSession({
-      ...session,
-      messageIds: [...(session.messageIds || []), ...ids]
-    })
-  }
-
-  async replyWithSession(msg, session, quote = false, data = {}) {
-    const res = await this.reply(msg, quote, data)
-    if (isReplyError(res)) throw makeReplyError(res)
-    if (!isValidTrackedSession(session)) return res
-    return this.appendSessionMessageIds(session, res)
-  }
-
-  async replyAdaptiveForwardBatch(messages, session = null) {
-    const list = (messages || []).filter(Boolean)
-    if (!list.length) return session
-
-    try {
-      return await this.replyWithSession(await Bot.makeForwardArray(list), session)
-    } catch (err) {
-      if (list.length === 1) {
-        const only = list[0]
-        if (typeof only === 'string') {
-          const smaller = splitTextPages(only, Math.max(300, Math.floor(TEXT_PAGE_CHARS / 2)))
-          if (smaller.length > 1 && smaller.length < list.length + 2) return this.replyAdaptiveForwardBatch(smaller, session)
-        }
-        throw err
-      }
-      const mid = Math.ceil(list.length / 2)
-      session = await this.replyAdaptiveForwardBatch(list.slice(0, mid), session)
-      return this.replyAdaptiveForwardBatch(list.slice(mid), session)
+    getNowGmt8() {
+        const now = Date.now()
+        return new Date(now + 8 * 3600 * 1000)
     }
-  }
 
-  async replyForwardBatchesWithSession(messages, session = null, batchSize = 8) {
-    const list = (messages || []).filter(Boolean)
-    if (!list.length) return session
-    const tracked = isValidTrackedSession(session)
-
-    for (let i = 0; i < list.length; i += batchSize) {
-      const batch = list.slice(i, i + batchSize)
-      session = await this.replyAdaptiveForwardBatch(batch, session)
-    }
-    return tracked ? session : true
-  }
-
-  async replyChunkedListWithSession(headerLines, lines, size = 30, session = null) {
-    const header = (headerLines || []).filter(Boolean).join('\n')
-    const chunks = chunkLines(lines || [], size).map(part => part.join('\n'))
-
-    if (header) session = await this.replyWithSession(header, session)
-    if (!chunks.length) return session
-    return this.replyForwardBatchesWithSession(chunks, session)
-  }
-
-  async sendTxtFallback(text, fallbackTitle = '', session = null) {
-    const tracked = isValidTrackedSession(session)
-    const { title, body } = splitLeadingTitle(text, fallbackTitle)
-    const content = [title, body].filter(Boolean).join('\n\n') || String(text || '')
-    const base = slugify(title || fallbackTitle || 'bookdex')
-    const file = path.join(tmpRoot, `${base || 'bookdex'}-${Date.now()}.txt`)
-    await fs.writeFile(file, content, 'utf8')
-
-    const notice = '合并消息发送失败，已改为 txt 文件发送'
-    if (tracked) session = await this.replyWithSession(notice, session)
-    else await this.reply(notice)
-
-    if (tracked) session = await this.replyWithSession(segment.file(`file://${file}`, path.basename(file)), session)
-    else await this.reply(segment.file(`file://${file}`, path.basename(file)))
-    return tracked ? (session || true) : true
-  }
-
-  async replyStructuredText(text, fallbackTitle = '', session = null) {
-    const tracked = isValidTrackedSession(session)
-    const { title, body } = splitLeadingTitle(text, fallbackTitle)
-    if (title) session = await this.replyWithSession(title, session)
-    else if (!tracked) await this.reply(fallbackTitle || '')
-    if (!body) return tracked ? (session || true) : true
-    const chunks = splitTextPages(body, TEXT_PAGE_CHARS)
-    if (!title && chunks.length <= 1) {
-      if (!tracked) {
-        await this.reply(body)
+    shouldRunAutoUpdateWindow() {
         return true
-      }
-      return this.replyWithSession(body, session)
     }
-    try {
-      return await this.replyForwardBatchesWithSession(chunks, tracked ? session : null, TEXT_FORWARD_BATCH_SIZE)
-    } catch {
-      return this.sendTxtFallback(text, fallbackTitle, tracked ? session : null)
-    }
-  }
 
-  async replyContent(title, text, wantImage = false, session = null) {
-    const tracked = isValidTrackedSession(session)
-    if (wantImage) {
-      try {
-        const imgs = await renderTextAsImages(title, text)
-        if (imgs.length <= 1) {
-          for (const img of imgs) {
-            if (tracked) {
-              session = await this.replyWithSession(segment.image(`file://${img}`), session)
-            } else {
-              const res = await this.reply(segment.image(`file://${img}`))
-              if (isReplyError(res)) throw makeReplyError(res, 'image reply failed')
+    async showWebUi() {
+        const info = getBookDexWebUiInfo() || await startBookDexWebUi({ logger })
+        if (!info) return this.reply('原神文本助手网页未启用。')
+        return this.reply(`原神文本助手网页：${info.url}`)
+    }
+
+    makeUpdateReporter(label, silent = false, progressEvery = 0) {
+        return {
+            onProgress: async ({ done, total }) => {
+                if (silent || !done || !total) return
+                if (!progressEvery) return
+                if (done % progressEvery !== 0 && done !== total) return
+                await this.reply(`${label}进度：${done}/${total}`)
+            },
+            onError: async ({ done, total, name, error }) => {
+                if (silent) return
+                const at = done && total ? `（${done}/${total}）` : ''
+                const who = name ? `：${name}` : ''
+                await this.reply(`${label}报错${at}${who}\n${formatFetchError(error)}`)
             }
-          }
-          return tracked ? (session || true) : true
         }
+    }
 
-        const imageMsgs = imgs.map(img => segment.image(`file://${img}`))
-        if (title) {
-          if (tracked) session = await this.replyWithSession(title, session)
-          else {
-            const res = await this.reply(title)
-            if (isReplyError(res)) throw makeReplyError(res, 'title reply failed')
-          }
+    async updateAllTextsCommand() {
+        return this.updateAllTexts(false)
+    }
+
+    async updateAllTexts(silent = false) {
+        if (typeof silent !== 'boolean') silent = false
+        try {
+            const labelMap = {
+                book: '书籍',
+                role: '角色故事',
+                relic: '圣遗物',
+                weapon: '武器故事',
+                voice: '角色语音',
+                plot: '剧情文本',
+                map: '地图文本',
+                anecdote: '角色逸闻',
+                card: '月谕圣牌',
+                backpack: '背包'
+            }
+            const tasks = [
+                { key: 'book', label: '书籍数据', check: () => fetchBooksFromWiki({ dryRun: true }), exec: () => fetchBooksFromWiki(this.makeUpdateReporter('书籍更新', silent)) },
+                { key: 'role', label: '角色故事数据', check: () => fetchRoleStoryAll({ dryRun: true }), exec: () => fetchRoleStoryAll({ ...this.makeUpdateReporter('角色故事更新', silent), deepCompare: silent }) },
+                { key: 'relic', label: '圣遗物数据', check: () => fetchRelicAll({ dryRun: true }), exec: () => fetchRelicAll(this.makeUpdateReporter('圣遗物更新', silent)) },
+                { key: 'weapon', label: '武器故事数据', check: () => fetchWeaponAll({ dryRun: true }), exec: () => fetchWeaponAll(this.makeUpdateReporter('武器故事更新', silent, 500)) },
+                { key: 'voice', label: '角色语音数据', check: () => fetchVoiceAll({ dryRun: true }), exec: () => fetchVoiceAll({ ...this.makeUpdateReporter('角色语音更新', silent), deepCompare: silent }) },
+                { key: 'plot', label: '剧情文本数据', check: () => fetchPlotAll({ dryRun: true }), exec: () => fetchPlotAll(this.makeUpdateReporter('剧情文本更新', silent, 500)) },
+                { key: 'map', label: '地图文本数据', check: () => fetchMapAll({ dryRun: true }), exec: () => fetchMapAll(this.makeUpdateReporter('地图文本更新', silent, 500)) },
+                { key: 'anecdote', label: '角色逸闻数据', check: () => fetchAnecdoteAll({ dryRun: true }), exec: () => fetchAnecdoteAll(this.makeUpdateReporter('角色逸闻更新', silent, 500)) },
+                { key: 'card', label: '月谕圣牌数据', check: () => fetchCardAll({ dryRun: true }), exec: () => fetchCardAll(this.makeUpdateReporter('月谕圣牌更新', silent, 500)) },
+                { key: 'backpack', label: '背包数据', check: () => fetchBackpackAll({ dryRun: true }), exec: () => fetchBackpackAll(this.makeUpdateReporter('背包更新', silent, 500)) }
+            ]
+
+            const confirmCheck = async (item) => {
+                const first = await item.check()
+                if (Number(first?.updated || 0) <= 0) return first
+                const second = await item.check()
+                if (Number(second?.updated || 0) <= 0) return { ...first, updated: 0, unstableUpdated: first.updated }
+                return second
+            }
+
+            const checks = []
+            const failures = []
+            for (const item of tasks) {
+                try {
+                    const ret = await confirmCheck(item)
+                    checks.push({ ...item, checkResult: ret })
+                } catch (error) {
+                    failures.push({ ...item, stage: '检测', error })
+                    logger.error(`[bookdex.updateAllTexts] ${item.label} check failed`, error)
+                }
+            }
+
+            const active = checks.filter(item => Number(item.checkResult?.updated || 0) > 0)
+            if (!active.length) {
+                if (!silent) {
+                    const lines = ['统一更新完成：本次检测到 0 个分量有更新，当前没有增量内容']
+                    if (failures.length) {
+                        lines.push(`但有 ${failures.length} 个分量因网络或接口错误跳过检测，旧缓存已保留：`)
+                        for (const item of failures) lines.push(`${labelMap[item.key] || item.label}：${formatFetchError(item.error)}`)
+                    }
+                    return this.reply(lines.join('\n'))
+                }
+                logger.mark('[bookdex.autoUpdate] no incremental updates')
+                return true
+            }
+
+            const summaryLines = [`统一更新开始：本次检测到 ${active.length} 个分量有更新`]
+            for (const item of active) {
+                summaryLines.push(`${labelMap[item.key]}：预计变更 ${item.checkResult.updated}`)
+            }
+            if (failures.length) summaryLines.push(`另有 ${failures.length} 个分量检测失败，本轮将跳过并保留旧缓存`)
+            if (!silent) await this.reply(summaryLines.join('\n'))
+            else logger.mark('[bookdex.autoUpdate] ' + summaryLines.join(' | '))
+
+            const plan = []
+            for (const item of active) {
+                try {
+                    const ret = await item.exec()
+                    plan.push({ ...item, result: ret })
+                } catch (error) {
+                    failures.push({ ...item, stage: '执行', error })
+                    logger.error(`[bookdex.updateAllTexts] ${item.label} exec failed`, error)
+                }
+            }
+
+            const lines = ['统一更新执行完成']
+            for (const item of plan) lines.push(`${labelMap[item.key]}：${item.result.total} 条目（本次变更 ${item.result.updated}）`)
+            if (failures.length) {
+                lines.push(`有 ${failures.length} 个分量失败或跳过，旧缓存已保留，可稍后重试：`)
+                for (const item of failures) lines.push(`${labelMap[item.key] || item.label}${item.stage ? `（${item.stage}）` : ''}：${formatFetchError(item.error)}`)
+            }
+            const msg = lines.join('\n')
+
+            if (!silent) return this.reply(msg)
+            logger.mark('[bookdex.autoUpdate] ' + msg.replace(/\n/g, ' | '))
+            return true
+        } catch (err) {
+            logger.error('[bookdex.updateAllTexts] ', err)
+            if (!silent) return this.reply(`统一更新失败：${formatFetchError(err)}`)
+            throw err
         }
-        if (tracked) {
-          session = await this.replyForwardBatchesWithSession(imageMsgs, session, 4)
-          return session || true
+    }
+
+    async resetAndUpdate() {
+        await this.reply('开始重置 bookdex 数据（1/2）：正在清空本地缓存与文本库…')
+        await clearPluginData()
+        await this.reply('重置完成（2/2）：开始重新全量拉取数据…')
+        return this.updateAllTexts(false)
+    }
+
+    async autoUpdateWindowTick() {
+        if (!this.shouldRunAutoUpdateWindow()) return false
+        try {
+            await this.updateAllTexts(true)
+            await consumeCustomAutoRun()
+        } catch (err) {
+            logger.error('[bookdex.autoUpdateWindowTick]', err)
         }
-        await this.replyForwardBatchesWithSession(imageMsgs, null, 4)
         return true
-      } catch {
-        await this.reply('图片消息发送失败，已改为 txt 文件发送')
-        return this.sendTxtFallback(text, title, tracked ? session : null)
-      }
     }
-    return this.replyStructuredText(text, title, tracked ? session : null)
-  }
 
-  async replyPlotContent(item, wantImage = false, session = null) {
-    const text = renderPlotText(item, 'full')
-    if (!wantImage) return this.replyContent(item.name, text, false, session)
-
-    const tracked = isValidTrackedSession(session)
-    try {
-      const imgs = await renderPlotRichImages(item, text)
-      if (imgs.length <= 1) {
-        for (const img of imgs) {
-          if (tracked) {
-            session = await this.replyWithSession(segment.image(`file://${img}`), session)
-          } else {
-            const res = await this.reply(segment.image(`file://${img}`))
-            if (isReplyError(res)) throw makeReplyError(res, 'plot rich image reply failed')
-          }
+    async totalHelp() {
+        await ensureDirs()
+        const helpImg = path.join(pluginDir, 'resources', 'help-main.jpg')
+        if (fss.existsSync(helpImg)) {
+            await this.reply(segment.image(`file://${helpImg}`))
+            return true
         }
-        return tracked ? (session || true) : true
-      }
-
-      const imageMsgs = imgs.map(img => segment.image(`file://${img}`))
-      if (tracked) {
-        session = await this.replyForwardBatchesWithSession(imageMsgs, session, 4)
-        return session || true
-      }
-      await this.replyForwardBatchesWithSession(imageMsgs, null, 4)
-      return true
-    } catch {
-      await this.reply('剧情富文本图片发送失败，已改为 txt 文件发送')
-      return this.sendTxtFallback(text, item.name, tracked ? session : null)
+        return this.reply('总帮助图缺失，请先更新插件资源后重试。')
     }
-  }
 
-  async replyRichItemContent(item, title, text, wantImage = false, session = null, meta = []) {
-    if (!wantImage) return this.replyContent(title, text, false, session)
+    async bookHelp() {
+        await ensureDirs()
+        const index = await loadIndex()
+        const books = index.books || []
 
-    const tracked = isValidTrackedSession(session)
-    try {
-      const imgs = await renderRichItemImages(item, { title, fallbackText: text, meta })
-      if (imgs.length <= 1) {
-        for (const img of imgs) {
-          if (tracked) {
-            session = await this.replyWithSession(segment.image(`file://${img}`), session)
-          } else {
-            const res = await this.reply(segment.image(`file://${img}`))
-            if (isReplyError(res)) throw makeReplyError(res, 'rich image reply failed')
-          }
+        let session = this.saveSession({
+            type: 'book',
+            books
+        })
+
+        if (!books.length) {
+            return this.reply(`暂无书籍。请先将 txt/docx 放入 plugins/${pluginFolder}/data/inbox 后，发送 #书籍导入`)
         }
-        return tracked ? (session || true) : true
-      }
-      const imageMsgs = imgs.map(img => segment.image(`file://${img}`))
-      if (tracked) return this.replyForwardBatchesWithSession(imageMsgs, session, 4)
-      await this.replyForwardBatchesWithSession(imageMsgs, null, 4)
-      return true
-    } catch {
-      await this.reply('富文本图片发送失败，已改为 txt 文件发送')
-      return this.sendTxtFallback(text, title, tracked ? session : null)
-    }
-  }
 
-  getBackpackImageUrls(item = {}) {
-    return [...new Set([
-      ...(item.imageUrls || []),
-      ...(item.sections || []).flatMap(sec => sec.images || [])
-    ].map(url => String(url || '').trim()).filter(Boolean))]
-  }
-
-  async replyBackpackContent(item, wantImage = false, session = null) {
-    const text = renderBackpackText(item)
-    const imageUrls = this.getBackpackImageUrls(item)
-    if (!wantImage && !imageUrls.length) return this.replyContent(item.name, text, false, session)
-
-    const tracked = isValidTrackedSession(session)
-    try {
-      const messages = []
-      if (wantImage) {
-        const imgs = await renderRichItemImages(item, { title: item.name, fallbackText: text })
-        messages.push(...imgs.map(img => segment.image(`file://${img}`)))
-      } else {
-        messages.push(...splitTextPages(text, TEXT_PAGE_CHARS))
-      }
-      messages.push(...imageUrls.map(url => segment.image(url)))
-      return this.replyForwardBatchesWithSession(messages, tracked ? session : null, TEXT_FORWARD_BATCH_SIZE)
-    } catch {
-      if (!tracked) await this.reply('合并消息发送失败，已改为 txt 文件发送')
-      return this.sendTxtFallback(text, item.name, tracked ? session : null)
-    }
-  }
-
-  outputMode(raw = '') {
-    const text = String(raw || '').trim()
-    return {
-      wantImage: /图片$/.test(text),
-      wantVoice: /语音$/.test(text),
-      wantText: !/图片$/.test(text)
-    }
-  }
-
-  trimOutputSuffix(raw = '') {
-    return String(raw || '').replace(/(文本|图片|语音)$/, '').trim()
-  }
-
-  async getQuotedMessageId() {
-    if (this.e.reply_id) return String(this.e.reply_id)
-    if (this.e.quote?.id) return String(this.e.quote.id)
-
-    if (this.e.getReply) {
-      try {
-        const reply = await this.e.getReply()
-        if (reply?.message_id) return String(reply.message_id)
-      } catch {}
+        const lines = books.map((b, i) => `${i + 1}. ${b.title}`)
+        session = await this.replyChunkedListWithSession(
+            [`📚 书籍图鉴（共 ${books.length} 本）`, '发送：引用本条后输入序号，或 #书名；加“图片”返回图片'],
+            lines,
+            40,
+            session
+        )
+        return Boolean(session)
     }
 
-    return ''
-  }
-
-  hasReplyContext() {
-    if (this.e.reply_id || this.e.quote?.id) return true
-    return Array.isArray(this.e.message) && this.e.message.some(i => i?.type === 'reply')
-  }
-
-  async getMatchedSessionForIndex() {
-    const sessions = this.getUserSessions()
-    if (!sessions.length) return null
-
-    const quotedId = await this.getQuotedMessageId()
-    if (!quotedId) return null // 强制要求必须引用机器人发送的消息
-
-    // 匹配被引用的消息 ID
-    for (let i = sessions.length - 1; i >= 0; i--) {
-      const session = sessions[i]
-      const ids = (session.messageIds || []).map(String)
-      if (ids.includes(quotedId)) return session
+    async importBooks() {
+        const ret = await rebuildBooksFromInbox()
+        return this.reply(`导入完成：新增/重建 ${ret.created} 本，当前书库 ${ret.total} 本。\n命令：#书籍帮助`)
     }
 
-    return null
-  }
-
-  async pickByIndex() {
-    const raw = String(this.e.msg || '').trim()
-    const normalized = raw
-      .replace(/[＃#]/g, '')
-      .replace(/[０-９]/g, ch => String(ch.charCodeAt(0) - 65248))
-      .replace(/\s+/g, '')
-    const idx = Number(normalized.replace(/(文本|图片|语音)$/, ''))
-    if (!idx || idx < 1) return false
-
-    const { wantImage, wantVoice } = this.outputMode(normalized)
-    const session = await this.getMatchedSessionForIndex()
-
-    // 仅在“引用了 bookdex 自己发出的消息”时响应纯数字，否则静默
-    if (!session) return false
-
-    // 1) 优先按最近帮助类型分发
-
-    if (session?.type === 'role' && Array.isArray(session.roles)) {
-      const meta = session.roles[idx - 1]
-      if (!meta) return this.reply('序号超出范围，请先发送 #角色故事帮助')
-      const file = path.join(storyRoot, `${slugify(meta.name)}.json`)
-      if (!fss.existsSync(file)) return this.reply(`未找到角色故事：${meta.name}`)
-      const role = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderRoleStoryText(role, 'story')
-      return this.replyRichItemContent(role, `${role.name}故事`, text, wantImage)
+    async updateRoleStories() {
+        await this.reply('开始抓取角色故事，请稍等（首次可能1-3分钟）')
+        const ret = await fetchRoleStoryAll(this.makeUpdateReporter('角色故事更新'))
+        if (!ret.updated) return this.reply('角色故事更新完成：当前没有检测到增量内容')
+        return this.reply(`角色故事更新完成：共 ${ret.total} 个角色。\n命令：#角色故事帮助`)
     }
 
-    if (session?.type === 'relic' && Array.isArray(session.relics)) {
-      const meta = session.relics[idx - 1]
-      if (!meta) return this.reply('序号超出范围，请先发送 #圣遗物帮助')
-      const file = path.join(relicRoot, `${slugify(meta.name)}.json`)
-      if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${meta.name}`)
-      const set = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderRelicText(set)
-      return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
+    async roleStoryHelp() {
+        const idx = await loadStoryIndex()
+        const roles = idx.roles || []
+        if (!roles.length) {
+            return this.reply('暂无角色故事数据，请先发送 #角色故事更新')
+        }
+
+        let session = this.saveSession({
+            type: 'role',
+            roles
+        })
+
+        const lines = roles.map((r, i) => `${i + 1}. ${r.name}`)
+        const head = [
+            `📚 角色故事列表（共 ${roles.length}）`,
+            '命令：#角色名故事 / #角色名故事详情 / 可加“图片”'
+        ]
+        session = await this.replyChunkedListWithSession(head, lines, 40, session)
+        return Boolean(session)
     }
 
-    if (session?.type === 'voice-role' && Array.isArray(session.roles)) {
-      const meta = session.roles[idx - 1]
-      if (!meta) return this.reply('序号超出范围，请先发送 #语音帮助')
-      const file = path.join(voiceRoot, `${slugify(meta.name)}.json`)
-      if (!fss.existsSync(file)) return this.reply(`未找到角色语音：${meta.name}`)
-      const voice = JSON.parse(await fs.readFile(file, 'utf8'))
-      const tab = pickDefaultVoiceTab(voice)
-      const entries = (tab.items || []).map(item => ({ role: voice.name, lang: tab.lang, ...item }))
-      const nextSession = this.saveSession({ type: 'voice-entry', role: voice.name, lang: tab.lang, entries })
-      const text = renderVoiceListText(voice, false)
-      return this.replyContent(`${voice.name}语音列表`, text, wantImage, nextSession)
+    async roleStoryRead() {
+        const msg = this.e.msg.trim()
+        const m = msg.match(/^#(.+?)故事(详情)?(?:文本|图片)?$/)
+        if (!m) return false
+
+        const roleNameRaw = this.trimOutputSuffix((m[1] || '').trim())
+        const wantDetail = Boolean(m[2])
+        const { wantImage } = this.outputMode(msg)
+        if (!roleNameRaw) return false
+
+        const idx = await loadStoryIndex()
+        const roles = idx.roles || []
+        if (!roles.length) return this.reply('暂无角色故事数据，请先发送 #角色故事更新')
+
+        const key = normalizeRoleName(roleNameRaw)
+        const roleMeta = roles.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
+            || roles.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
+
+        if (!roleMeta) return false
+
+        const file = path.join(storyRoot, `${slugify(roleMeta.name)}.json`)
+        if (!fss.existsSync(file)) return this.reply(`未找到角色故事：${roleMeta.name}`)
+        const role = JSON.parse(await fs.readFile(file, 'utf8'))
+
+        const text = renderRoleStoryText(role, wantDetail ? 'detail' : 'story')
+        return this.replyRichItemContent(role, wantDetail ? `${role.name}故事详情` : `${role.name}故事`, text, wantImage)
     }
 
-    if (session?.type === 'plot' && Array.isArray(session.plots)) {
-      const meta = session.plots[idx - 1]
-      if (!meta) return this.reply('序号超出范围，请先发送 #剧情帮助')
-      const file = resolvePlotFile(meta)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${meta.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderPlotText(item, 'full')
-      return this.replyPlotContent(item, wantImage)
+
+    async updateVoices() {
+        await this.reply('开始抓取角色语音，请稍等（约1-3分钟）')
+        const ret = await fetchVoiceAll(this.makeUpdateReporter('角色语音更新'))
+        if (!ret.updated) return this.reply('角色语音更新完成：当前没有检测到增量内容')
+        return this.reply(`角色语音更新完成：共 ${ret.total} 个角色。\n命令：#语音帮助`)
     }
 
-    if (session?.type === 'map' && Array.isArray(session.maps)) {
-      const meta = session.maps[idx - 1]
-      if (!meta) return this.reply('序号超出范围，请先发送 #地图文本帮助')
-      const file = resolveMapFile(meta)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${meta.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderMapText(item, 'full')
-      return this.replyRichItemContent(item, item.name, text, wantImage)
+    async voiceHelp() {
+        const idx = await loadVoiceIndex()
+        const roles = idx.roles || []
+        if (!roles.length) return this.reply('暂无角色语音数据，请先发送 #语音更新')
+
+        let session = this.saveSession({
+            type: 'voice-role',
+            roles
+        })
+
+        const lines = roles.map((r, i) => `${i + 1}. ${r.name}`)
+        session = await this.replyChunkedListWithSession([`🎙️ 角色语音列表（共 ${roles.length}）`, '命令：#角色名语音 / #角色名语音图片 / #语音搜索 关键词'], lines, 40, session)
+        return Boolean(session)
     }
 
-    if (session?.type === 'anecdote' && Array.isArray(session.anecdotes)) {
-      const meta = session.anecdotes[idx - 1]
-      if (!meta) return this.reply('序号超出范围，请先发送 #角色逸闻帮助')
-      const file = resolveAnecdoteFile(meta)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${meta.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderAnecdoteText(item, 'full')
-      return this.replyRichItemContent(item, item.name, text, wantImage)
+    async voiceRead() {
+        const msg = this.e.msg.trim()
+        const m = msg.match(/^#(.+?)语音(?:文本|图片)?$/)
+        if (!m) return false
+        const raw = this.trimOutputSuffix((m[1] || '').trim())
+        const { wantImage } = this.outputMode(msg)
+        if (!raw) return false
+
+        const idx = await loadVoiceIndex()
+        const roles = idx.roles || []
+        if (!roles.length) return this.reply('暂无角色语音数据，请先发送 #语音更新')
+
+        const key = normalizeRoleName(raw)
+        const meta = roles.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
+            || roles.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
+        if (!meta) return false
+
+        const file = path.join(voiceRoot, `${slugify(meta.name)}.json`)
+        if (!fss.existsSync(file)) return this.reply(`未找到角色语音：${meta.name}`)
+        const voice = JSON.parse(await fs.readFile(file, 'utf8'))
+        const tab = pickDefaultVoiceTab(voice)
+
+        const session = this.saveSession({
+            at: Date.now(),
+            type: 'voice-entry',
+            role: voice.name,
+            lang: tab.lang,
+            entries: (tab.items || []).map(item => ({ role: voice.name, lang: tab.lang, ...item }))
+        })
+
+        const text = renderVoiceListText(voice, false)
+        return this.replyContent(`${voice.name}语音列表`, text, wantImage, session)
     }
 
-    if (session?.type === 'card' && Array.isArray(session.cards)) {
-      const meta = session.cards[idx - 1]
-      if (!meta) return this.reply('序号超出范围，请先发送 #月谕圣牌帮助')
-      const file = resolveCardFile(meta)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${meta.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderCardText(item, 'full')
-      return this.replyRichItemContent(item, item.name, text, wantImage)
+
+    async updatePlots() {
+        await this.reply('开始抓取剧情文本，请稍等（首次可能需要几分钟）')
+        const ret = await fetchPlotAll(this.makeUpdateReporter('剧情文本更新', false, 100))
+        if (!ret.updated) return this.reply('剧情文本更新完成：当前没有检测到增量内容')
+        return this.reply(`剧情文本更新完成：共 ${ret.total} 条剧情。\n命令：#剧情帮助`)
     }
 
-    if (session?.type === 'backpack' && Array.isArray(session.backpacks)) {
-      const meta = session.backpacks[idx - 1]
-      if (!meta) return this.reply('序号超出范围，请先发送 #背包帮助')
-      const file = resolveBackpackFile(meta)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到背包：${meta.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      return this.replyBackpackContent(item, wantImage)
+    async plotHelp() {
+        const idx = await loadPlotIndex()
+        const items = idx.items || []
+        if (!items.length) return this.reply('暂无剧情文本数据，请先发送 #剧情更新')
+
+        const order = ['魔神任务', '传说任务', '世界任务', '限时任务', '其他任务']
+        const grouped = new Map(order.map(k => [k, []]))
+        for (const item of items) {
+            const key = order.includes(item.category) ? item.category : '其他任务'
+            grouped.get(key).push(item)
+        }
+
+        const orderedPlots = []
+        let session = this.saveSession({
+            type: 'plot',
+            plots: orderedPlots
+        })
+
+        const blocks = []
+        let no = 1
+        for (const key of order) {
+            const arr = grouped.get(key) || []
+            if (!arr.length) continue
+            const entries = []
+            for (const item of arr) {
+                orderedPlots.push(item)
+                entries.push(`${no}. ${item.name}${item.subtitle ? `｜${item.subtitle}` : ''}`)
+                no++
+            }
+            const parts = chunkLines(entries, 25)
+            parts.forEach((part, idx) => {
+                const head = idx === 0 ? `【${key}｜${arr.length}】` : `【${key}｜续 ${idx + 1}】`
+                blocks.push([head, ...part].join('\n'))
+            })
+        }
+        session = await this.replyWithSession(`📜 剧情文本列表（共 ${items.length}）\n命令：#任务名剧情 / #任务名剧情图片 / #剧情搜索 关键词`, session)
+        if (blocks.length) session = await this.replyForwardBatchesWithSession(blocks, session, 10)
+        this.saveSession({ ...session, plots: orderedPlots })
+        return true
     }
 
-    if (session?.type === 'voice-entry' && Array.isArray(session.entries)) {
-      const entry = session.entries[idx - 1]
-      if (!entry) return this.reply('序号超出范围，请先重新打开语音列表')
-      if (wantVoice) return sendVoiceRecord(this.e, entry.audioUrl)
-      const text = renderVoiceEntryText(entry)
-      return this.replyContent(`${entry.role}语音`, text, wantImage)
+    async plotRead() {
+        const msg = this.e.msg.trim()
+        const m = msg.match(/^#(.+?)剧情(?:文本|图片)?$/)
+        if (!m) return false
+        const raw = this.trimOutputSuffix((m[1] || '').trim())
+        const { wantImage } = this.outputMode(msg)
+        if (!raw) return false
+
+        const idx = await loadPlotIndex()
+        const items = idx.items || []
+        if (!items.length) return this.reply('暂无剧情文本数据，请先发送 #剧情更新')
+
+        const key = normalizeRoleName(raw)
+        const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
+            || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
+        if (!meta) return false
+
+        const file = resolvePlotFile(meta)
+        if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${meta.name}`)
+        const item = JSON.parse(await fs.readFile(file, 'utf8'))
+        return this.replyPlotContent(item, wantImage)
     }
 
-    if (session?.type === 'weapon' && Array.isArray(session.weapons)) {
-      const meta = session.weapons[idx - 1]
-      if (!meta) return this.reply('序号超出范围，请先发送 #武器帮助')
-      const file = path.join(weaponRoot, `${slugify(meta.name)}.json`)
-      if (!fss.existsSync(file)) return this.reply(`未找到武器：${meta.name}`)
-      const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderWeaponText(weapon)
+    async updateMaps() {
+        await this.reply('开始抓取地图文本，请稍等（首次可能需要几分钟）')
+        const ret = await fetchMapAll(this.makeUpdateReporter('地图文本更新', false, 100))
+        if (!ret.updated) return this.reply('地图文本更新完成：当前没有检测到增量内容')
+        return this.reply(`地图文本更新完成：共 ${ret.total} 条地图交互文本。\n命令：#地图文本帮助`)
+    }
+
+    async mapHelp() {
+        const idx = await loadMapIndex()
+        const items = idx.items || []
+        if (!items.length) return this.reply('暂无地图文本数据，请先发送 #地图文本更新')
+
+        let session = this.saveSession({
+            type: 'map',
+            maps: items
+        })
+
+        const lines = items.map((item, i) => `${i + 1}. ${item.name}`)
+        session = await this.replyChunkedListWithSession(
+            [`🗺️ 地图文本列表（共 ${items.length}）`, '命令：#地图名地图文本 / #地图名地图文本图片 / #地图文本搜索 关键词'],
+            lines,
+            30,
+            session
+        )
+        return Boolean(session)
+    }
+
+    async mapRead() {
+        const msg = this.e.msg.trim()
+        const m = msg.match(/^#(.+?)地图文本(?:文本|图片)?$/)
+        if (!m) return false
+        const raw = this.trimOutputSuffix((m[1] || '').trim())
+        const { wantImage } = this.outputMode(msg)
+        if (!raw) return false
+
+        const idx = await loadMapIndex()
+        const items = idx.items || []
+        if (!items.length) return this.reply('暂无地图文本数据，请先发送 #地图文本更新')
+
+        const key = normalizeRoleName(raw)
+        const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
+            || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
+        if (!meta) return false
+
+        const file = resolveMapFile(meta)
+        if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${meta.name}`)
+        const item = JSON.parse(await fs.readFile(file, 'utf8'))
+        const text = renderMapText(item, 'full')
+        return this.replyRichItemContent(item, item.name, text, wantImage)
+    }
+
+    async updateAnecdotes() {
+        await this.reply('开始抓取角色逸闻，请稍等（首次可能需要几分钟）')
+        const ret = await fetchAnecdoteAll(this.makeUpdateReporter('角色逸闻更新', false, 100))
+        if (!ret.updated) return this.reply('角色逸闻更新完成：当前没有检测到增量内容')
+        return this.reply(`角色逸闻更新完成：共 ${ret.total} 条。\n命令：#角色逸闻帮助`)
+    }
+
+    async anecdoteHelp() {
+        const idx = await loadAnecdoteIndex()
+        const items = idx.items || []
+        if (!items.length) return this.reply('暂无角色逸闻数据，请先发送 #角色逸闻更新')
+
+        let session = this.saveSession({
+            type: 'anecdote',
+            anecdotes: items
+        })
+
+        const lines = items.map((item, i) => `${i + 1}. ${item.name}`)
+        session = await this.replyChunkedListWithSession(
+            [`📚 角色逸闻列表（共 ${items.length}）`, '命令：#角色名角色逸闻 / #角色名角色逸闻图片 / #角色逸闻搜索 关键词'],
+            lines,
+            30,
+            session
+        )
+        return Boolean(session)
+    }
+
+    async anecdoteRead() {
+        const msg = this.e.msg.trim()
+        const m = msg.match(/^#(.+?)角色逸闻(?:文本|图片)?$/)
+        if (!m) return false
+        const raw = this.trimOutputSuffix((m[1] || '').trim())
+        const { wantImage } = this.outputMode(msg)
+        if (!raw) return false
+
+        const idx = await loadAnecdoteIndex()
+        const items = idx.items || []
+        if (!items.length) return this.reply('暂无角色逸闻数据，请先发送 #角色逸闻更新')
+
+        const key = normalizeRoleName(raw)
+        const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
+            || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
+        if (!meta) return false
+
+        const file = resolveAnecdoteFile(meta)
+        if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${meta.name}`)
+        const item = JSON.parse(await fs.readFile(file, 'utf8'))
+        const text = renderAnecdoteText(item, 'full')
+        return this.replyRichItemContent(item, item.name, text, wantImage)
+    }
+
+    async updateCards() {
+        await this.reply('开始抓取月谕圣牌，请稍等（首次可能需要几分钟）')
+        const ret = await fetchCardAll(this.makeUpdateReporter('月谕圣牌更新', false, 100))
+        if (!ret.updated) return this.reply('月谕圣牌更新完成：当前没有检测到增量内容')
+        return this.reply(`月谕圣牌更新完成：共 ${ret.total} 条。\n命令：#月谕圣牌帮助`)
+    }
+
+    async cardHelp() {
+        const idx = await loadCardIndex()
+        const items = idx.items || []
+        if (!items.length) return this.reply('暂无月谕圣牌数据，请先发送 #月谕圣牌更新')
+
+        let session = this.saveSession({
+            type: 'card',
+            cards: items
+        })
+
+        const lines = items.map((item, i) => `${i + 1}. ${item.name}`)
+        session = await this.replyChunkedListWithSession(
+            [`🃏 月谕圣牌列表（共 ${items.length}）`, '命令：#圣牌名月谕圣牌 / #圣牌名月谕圣牌图片 / #月谕圣牌搜索 关键词'],
+            lines,
+            30,
+            session
+        )
+        return Boolean(session)
+    }
+
+    async cardRead() {
+        const msg = this.e.msg.trim()
+        const m = msg.match(/^#(.+?)月谕圣牌(?:文本|图片)?$/)
+        if (!m) return false
+        const raw = this.trimOutputSuffix((m[1] || '').trim())
+        const { wantImage } = this.outputMode(msg)
+        if (!raw) return false
+
+        const idx = await loadCardIndex()
+        const items = idx.items || []
+        if (!items.length) return this.reply('暂无月谕圣牌数据，请先发送 #月谕圣牌更新')
+
+        const key = normalizeRoleName(raw)
+        const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
+            || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
+        if (!meta) return false
+
+        const file = resolveCardFile(meta)
+        if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${meta.name}`)
+        const item = JSON.parse(await fs.readFile(file, 'utf8'))
+        const text = renderCardText(item, 'full')
+        return this.replyRichItemContent(item, item.name, text, wantImage)
+    }
+
+    async updateBackpacks() {
+        await this.reply('开始抓取背包文本，请稍等（首次可能需要几分钟）')
+        const ret = await fetchBackpackAll(this.makeUpdateReporter('背包更新', false, 100))
+        if (!ret.updated) return this.reply('背包更新完成：当前没有检测到增量内容')
+        return this.reply(`背包更新完成：共 ${ret.total} 条。\n命令：#背包帮助`)
+    }
+
+    async backpackHelp() {
+        const idx = await loadBackpackIndex()
+        const items = idx.items || []
+        if (!items.length) return this.reply('暂无背包数据，请先发送 #背包更新')
+
+        let session = this.saveSession({
+            type: 'backpack',
+            backpacks: items
+        })
+
+        const lines = items.map((item, i) => `${i + 1}. ${item.name}`)
+        session = await this.replyChunkedListWithSession(
+            [`🎒 背包列表（共 ${items.length}）`, '命令：#背包名背包 / #背包名背包图片 / #背包搜索 关键词'],
+            lines,
+            30,
+            session
+        )
+        return Boolean(session)
+    }
+
+    async backpackRead() {
+        const msg = this.e.msg.trim()
+        const m = msg.match(/^#(.+?)背包(?:文本|图片)?$/)
+        if (!m) return false
+        const raw = this.trimOutputSuffix((m[1] || '').trim())
+        const { wantImage } = this.outputMode(msg)
+        if (!raw) return false
+
+        const idx = await loadBackpackIndex()
+        const items = idx.items || []
+        if (!items.length) return this.reply('暂无背包数据，请先发送 #背包更新')
+
+        const key = normalizeRoleName(raw)
+        const meta = items.find(r => normalizeRoleName(r.name) === key || (r.alias || []).includes(key))
+            || items.find(r => normalizeRoleName(r.name).includes(key) || key.includes(normalizeRoleName(r.name)))
+        if (!meta) return false
+
+        const file = resolveBackpackFile(meta)
+        if (!file || !fss.existsSync(file)) return this.reply(`未找到背包：${meta.name}`)
+        const item = JSON.parse(await fs.readFile(file, 'utf8'))
+        return this.replyBackpackContent(item, wantImage)
+    }
+
+    async updateRelics() {
+        await this.reply('开始抓取圣遗物文本，请稍等（约1-2分钟）')
+        const ret = await fetchRelicAll(this.makeUpdateReporter('圣遗物更新'))
+        if (!ret.updated) return this.reply('圣遗物更新完成：当前没有检测到增量内容')
+        return this.reply(`圣遗物更新完成：共 ${ret.total} 套。\n命令：#圣遗物帮助`)
+    }
+
+    async relicHelp() {
+        const idx = await loadRelicIndex()
+        const sets = idx.sets || []
+        if (!sets.length) return this.reply('暂无圣遗物数据，请先发送 #圣遗物更新')
+        let session = this.saveSession({
+            type: 'relic',
+            relics: sets
+        })
+
+        const lines = sets.map((s, i) => `${i + 1}. ${s.name}`)
+        session = await this.replyChunkedListWithSession([`📗 圣遗物列表（共 ${sets.length} 套）`, '命令：#套装名圣遗物 / #套装名圣遗物图片；也可引用本条发序号'], lines, 40, session)
+        return Boolean(session)
+    }
+
+    async relicRead() {
+        const msg = this.e.msg.trim()
+        const m = msg.match(/^#(.+?)圣遗物(?:文本|图片)?$/)
+        if (!m) return false
+        const raw = this.trimOutputSuffix((m[1] || '').trim())
+        const { wantImage } = this.outputMode(msg)
+        if (!raw) return false
+
+        const idx = await loadRelicIndex()
+        const sets = idx.sets || []
+        if (!sets.length) return this.reply('暂无圣遗物数据，请先发送 #圣遗物更新')
+
+        const key = normalizeRoleName(raw)
+        const meta = sets.find(s => normalizeRoleName(s.name) === key || (s.alias || []).includes(key))
+            || sets.find(s => normalizeRoleName(s.name).includes(key) || key.includes(normalizeRoleName(s.name)))
+        if (!meta) return false
+
+        const file = path.join(relicRoot, `${slugify(meta.name)}.json`)
+        if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${meta.name}`)
+        const set = JSON.parse(await fs.readFile(file, 'utf8'))
+        const text = renderRelicText(set)
+        return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
+    }
+
+    async updateWeapons() {
+        await this.reply('开始抓取武器故事，请稍等（约1-2分钟）')
+        const ret = await fetchWeaponAll(this.makeUpdateReporter('武器故事更新', false, 100))
+        if (!ret.updated) return this.reply('武器故事更新完成：当前没有检测到增量内容')
+        return this.reply(`武器故事更新完成：共 ${ret.total} 把武器。\n命令：#武器帮助`)
+    }
+
+    async weaponHelp() {
+        const idx = await loadWeaponIndex()
+        const weapons = idx.weapons || []
+        if (!weapons.length) return this.reply('暂无武器故事数据，请先发送 #武器更新')
+
+        let session = this.saveSession({
+            type: 'weapon',
+            weapons
+        })
+
+        const lines = weapons.map((w, i) => `${i + 1}. ${w.name}`)
+        session = await this.replyChunkedListWithSession([`📘 武器列表（共 ${weapons.length}）`, '命令：#武器名武器故事 / #武器名武器故事图片'], lines, 40, session)
+        return Boolean(session)
+    }
+
+    async weaponRead() {
+        const msg = this.e.msg.trim()
+        const m = msg.match(/^#(.+?)武器故事(?:文本|图片)?$/)
+        if (!m) return false
+        const raw = this.trimOutputSuffix((m[1] || '').trim())
+        const { wantImage } = this.outputMode(msg)
+        if (!raw) return false
+
+        const idx = await loadWeaponIndex()
+        const weapons = idx.weapons || []
+        if (!weapons.length) return this.reply('暂无武器故事数据，请先发送 #武器更新')
+
+        const key = normalizeRoleName(raw)
+        const meta = weapons.find(w => normalizeRoleName(w.name) === key || (w.alias || []).includes(key))
+            || weapons.find(w => normalizeRoleName(w.name).includes(key) || key.includes(normalizeRoleName(w.name)))
+        if (!meta) return false
+
+        const file = path.join(weaponRoot, `${slugify(meta.name)}.json`)
+        if (!fss.existsSync(file)) return this.reply(`未找到武器：${meta.name}`)
+        const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
+        const text = renderWeaponText(weapon)
         return this.replyRichItemContent(weapon, `${weapon.name}武器故事`, text, wantImage)
     }
 
-    if (session?.type === 'search' && Array.isArray(session.results)) {
-      const row = session.results[idx - 1]
-      if (!row) return this.reply('序号超出范围，请重新搜索')
-      if (row.type === 'book') {
-        const bi = await loadIndex()
-        const b = (bi.books || []).find(x => x.title === row.name)
-        if (!b) return this.reply(`未找到书籍：${row.name}`)
-        const full = path.join(booksRoot, b.file)
+    async updateBooksFromWiki() {
+        await this.reply('开始从原神图鉴抓取书籍，请稍等（约1-3分钟）')
+        const ret = await fetchBooksFromWiki(this.makeUpdateReporter('书籍更新'))
+        if (!ret.updated) return this.reply('书籍更新完成：当前没有检测到增量内容')
+        return this.reply(`书籍更新完成：共 ${ret.total} 本。\n命令：#书籍帮助`)
+    }
+
+    extractSingleUpdateTarget(suffix) {
+        const raw = String(this.e.msg || '').trim().replace(/^#/, '').trim()
+        if (!raw.endsWith(suffix)) return ''
+        return raw.slice(0, -suffix.length).trim()
+    }
+
+    async replySingleUpdateResult(label, target, updater) {
+        if (!target) return this.reply(`请输入要更新的${label}名称`)
+        await this.reply(`开始单条更新${label}：${target}`)
+        try {
+            const ret = await updater(target)
+            if (ret?.ok) return this.reply(`单条更新成功：${label}「${ret.name || target}」`)
+            if (ret?.reason === 'not_found') return this.reply(`未找到对应条目：${target}`)
+            if (ret?.reason === 'entry_missing') return this.reply(`更新失败：未拿到词条详情（${target}）`)
+            if (ret?.reason === 'empty') return this.reply(`更新失败：词条缺少可用文本（${target}）`)
+            return this.reply(`更新失败：${target}`)
+        } catch (err) {
+            logger.error(`[bookdex.singleUpdate.${label}]`, err)
+            return this.reply(`更新失败：${err?.message || err}`)
+        }
+    }
+
+    async updateOneBook() {
+        const target = this.extractSingleUpdateTarget('书籍更新')
+        return this.replySingleUpdateResult('书籍', target, updateOneBookByName)
+    }
+
+    async updateOneRoleStory() {
+        const target = this.extractSingleUpdateTarget('故事更新')
+        return this.replySingleUpdateResult('角色故事', target, updateOneRoleStoryByName)
+    }
+
+    async updateOneVoice() {
+        const target = this.extractSingleUpdateTarget('语音更新')
+        return this.replySingleUpdateResult('角色语音', target, updateOneVoiceByName)
+    }
+
+    async updateOnePlot() {
+        const target = this.extractSingleUpdateTarget('剧情更新')
+        return this.replySingleUpdateResult('剧情文本', target, updateOnePlotByName)
+    }
+
+    async updateOneMap() {
+        const target = this.extractSingleUpdateTarget('地图文本更新')
+        return this.replySingleUpdateResult('地图文本', target, updateOneMapByName)
+    }
+
+    async updateOneAnecdote() {
+        const target = this.extractSingleUpdateTarget('角色逸闻更新')
+        return this.replySingleUpdateResult('角色逸闻', target, updateOneAnecdoteByName)
+    }
+
+    async updateOneCard() {
+        const target = this.extractSingleUpdateTarget('月谕圣牌更新')
+        return this.replySingleUpdateResult('月谕圣牌', target, updateOneCardByName)
+    }
+
+    async updateOneBackpack() {
+        const target = this.extractSingleUpdateTarget('背包更新')
+        return this.replySingleUpdateResult('背包', target, updateOneBackpackByName)
+    }
+
+    async updateOneRelic() {
+        const target = this.extractSingleUpdateTarget('圣遗物更新')
+        return this.replySingleUpdateResult('圣遗物', target, updateOneRelicByName)
+    }
+
+    async updateOneWeapon() {
+        const target = this.extractSingleUpdateTarget('武器故事更新')
+        return this.replySingleUpdateResult('武器故事', target, updateOneWeaponByName)
+    }
+
+    async runTextSearch(keyword, types = ['book']) {
+        return runBookDexTextSearch(keyword, types)
+    }
+
+    async replySearch(keyword, types) {
+        await this.reply(`🔎 正在搜索：${keyword}`)
+        const rows = await this.runTextSearch(keyword, types)
+        if (!rows.length) return this.reply(`未找到关键词“${keyword}”`)
+
+        let session = this.saveSession({
+            type: 'search',
+            results: rows
+        })
+
+        const mapLabel = { book: '书籍', role: '角色', relic: '圣遗物', weapon: '武器', voice: '语音', plot: '剧情', map: '地图文本', anecdote: '角色逸闻', card: '月谕圣牌', backpack: '背包' }
+        const lines = rows.map((r, i) => `${i + 1}. [${mapLabel[r.type]}] ${r.name}${r.snippet ? `\n  ↳ ${r.snippet}` : ''}`)
+
+        session = await this.replyChunkedListWithSession([`🔎 关键词：${keyword}`, `共找到 ${rows.length} 条`, '可引用本搜索结果发序号查看详情（可加“图片”或“语音”）'], lines, 10, session)
+        return true
+    }
+
+    async searchRoleStories() {
+        const keyword = this.e.msg.replace(/^#角色故事搜索\s*/, '').trim()
+        if (!keyword) return this.reply('请输入关键词')
+        return this.replySearch(keyword, ['role'])
+    }
+
+    async searchRelics() {
+        const keyword = this.e.msg.replace(/^#圣遗物搜索\s*/, '').trim()
+        if (!keyword) return this.reply('请输入关键词')
+        return this.replySearch(keyword, ['relic'])
+    }
+
+    async searchWeapons() {
+        const keyword = this.e.msg.replace(/^#武器搜索\s*/, '').trim()
+        if (!keyword) return this.reply('请输入关键词')
+        return this.replySearch(keyword, ['weapon'])
+    }
+
+
+    async searchVoices() {
+        const keyword = this.e.msg.replace(/^#语音搜索\s*/, '').trim()
+        if (!keyword) return this.reply('请输入关键词')
+        return this.replySearch(keyword, ['voice'])
+    }
+
+    async searchPlots() {
+        const keyword = this.e.msg.replace(/^#剧情搜索\s*/, '').trim()
+        if (!keyword) return this.reply('请输入关键词')
+        return this.replySearch(keyword, ['plot'])
+    }
+
+    async searchMaps() {
+        const keyword = this.e.msg.replace(/^#地图文本搜索\s*/, '').trim()
+        if (!keyword) return this.reply('请输入关键词')
+        return this.replySearch(keyword, ['map'])
+    }
+
+    async searchAnecdotes() {
+        const keyword = this.e.msg.replace(/^#角色逸闻搜索\s*/, '').trim()
+        if (!keyword) return this.reply('请输入关键词')
+        return this.replySearch(keyword, ['anecdote'])
+    }
+
+    async searchCards() {
+        const keyword = this.e.msg.replace(/^#月谕圣牌搜索\s*/, '').trim()
+        if (!keyword) return this.reply('请输入关键词')
+        return this.replySearch(keyword, ['card'])
+    }
+
+    async searchBackpacks() {
+        const keyword = this.e.msg.replace(/^#背包搜索\s*/, '').trim()
+        if (!keyword) return this.reply('请输入关键词')
+        return this.replySearch(keyword, ['backpack'])
+    }
+
+    async searchAll() {
+        const keyword = this.e.msg.replace(/^#搜索\s*/, '').trim()
+        if (!keyword) return this.reply('请输入关键词')
+        return this.replySearch(keyword, ['book', 'role', 'relic', 'weapon', 'voice', 'plot', 'map', 'anecdote', 'card', 'backpack'])
+    }
+
+    async searchBooks() {
+        try {
+            const keyword = this.e.msg.replace(/^#(书籍搜索|搜书)\s*/, '').trim()
+            if (!keyword) return this.reply('请输入关键词，例如：#书籍搜索 稻妻')
+
+            await this.reply(`🔎 正在搜索：${keyword}`)
+
+            const index = await loadIndex()
+            const books = index.books || []
+
+            const hit = []
+            for (let i = 0; i < books.length; i++) {
+                const b = books[i]
+                const no = i + 1
+                const titleHit = b.title.includes(keyword)
+
+                let contentHit = false
+                let snippet = ''
+                const full = path.join(booksRoot, b.file)
+                if (fss.existsSync(full)) {
+                    try {
+                        const content = renderBookTextWithDescription(b.title, await fs.readFile(full, 'utf8'), b.desc)
+                        const idx = content.indexOf(keyword)
+                        if (idx >= 0) {
+                            contentHit = true
+                            const start = Math.max(0, idx - 36)
+                            const end = Math.min(content.length, idx + keyword.length + 48)
+                            snippet = content.slice(start, end).replace(/\s+/g, ' ').trim()
+                        }
+                    } catch {
+                        contentHit = false
+                    }
+                }
+
+                if (titleHit || contentHit) {
+                    hit.push({ ...b, no, titleHit, contentHit, snippet })
+                }
+            }
+
+            if (!hit.length) return this.reply(`未找到关键词“${keyword}”相关书籍（已检索书名+正文）`)
+
+            let session = this.saveSession({
+                type: 'search',
+                results: hit.map(b => ({ type: 'book', name: b.title, snippet: b.snippet || '' }))
+            })
+
+            const lines = hit.map(b => {
+                const flag = b.titleHit && b.contentHit
+                    ? '【书名+正文】'
+                    : b.titleHit
+                        ? '【书名】'
+                        : '【正文】'
+                if (b.contentHit && b.snippet) {
+                    return `${b.no}. ${b.title} ${flag}\n  ↳ ${b.snippet}`
+                }
+                return `${b.no}. ${b.title} ${flag}`
+            })
+
+            const header = [
+                `🔎 关键词：${keyword}`,
+                `共找到 ${hit.length} 本`,
+                '可直接发送 #书名 阅读；也可引用本搜索结果发送序号（可加“图片”）'
+            ]
+
+            // QQ 单条过长可能不下发，按块发送
+            session = await this.replyChunkedListWithSession(header, lines, 10, session)
+            return true
+        } catch (err) {
+            logger.error('[bookdex.searchBooks] ', err)
+            return this.reply(`搜索失败：${err?.message || err}`)
+        }
+    }
+
+    userKey() {
+        return `${this.e.self_id || 'bot'}:${this.e.group_id || this.e.user_id || 'u'}`
+    }
+
+    getUserSessions() {
+        loadHelpSessionCache()
+        const sessions = (helpSessionCache.get(this.userKey()) || []).filter(isValidTrackedSession)
+        if (sessions.length !== (helpSessionCache.get(this.userKey()) || []).length) {
+            helpSessionCache.set(this.userKey(), sessions)
+            persistHelpSessionCache()
+        }
+        return sessions
+    }
+
+    saveSession(session) {
+        loadHelpSessionCache()
+        if (!isValidTrackedSession(session)) return null
+        const normalized = {
+            ...session,
+            sid: session.sid || `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+            at: Date.now(),
+            messageIds: [...new Set((session.messageIds || []).map(id => String(id)).filter(Boolean))]
+        }
+
+        const maxAge = 1 * 60 * 60 * 1000
+        const now = Date.now()
+        const sessions = this.getUserSessions().filter(item => item && now - Number(item.at || 0) < maxAge)
+        const idx = sessions.findIndex(item => item.sid === normalized.sid)
+        if (idx >= 0) sessions[idx] = normalized
+        else sessions.push(normalized)
+
+        sessions.sort((a, b) => Number(a.at || 0) - Number(b.at || 0))
+        const trimmed = sessions.slice(-60)
+        helpSessionCache.set(this.userKey(), trimmed)
+        persistHelpSessionCache()
+        return normalized
+    }
+
+    appendSessionMessageIds(session, replyRes) {
+        if (!isValidTrackedSession(session) || !replyRes) return session
+        if (isReplyError(replyRes)) return session
+
+        const ids = []
+        if (Array.isArray(replyRes.message_id)) ids.push(...replyRes.message_id)
+        else if (replyRes.message_id) ids.push(replyRes.message_id)
+        if (!ids.length) return session
+
+        return this.saveSession({
+            ...session,
+            messageIds: [...(session.messageIds || []), ...ids]
+        })
+    }
+
+    async replyWithSession(msg, session, quote = false, data = {}) {
+        const res = await this.reply(msg, quote, data)
+        if (isReplyError(res)) throw makeReplyError(res)
+        if (!isValidTrackedSession(session)) return res
+        return this.appendSessionMessageIds(session, res)
+    }
+
+    async replyAdaptiveForwardBatch(messages, session = null) {
+        const list = (messages || []).filter(Boolean)
+        if (!list.length) return session
+
+        try {
+            return await this.replyWithSession(await Bot.makeForwardArray(list), session)
+        } catch (err) {
+            if (list.length === 1) {
+                const only = list[0]
+                if (typeof only === 'string') {
+                    const smaller = splitTextPages(only, Math.max(300, Math.floor(TEXT_PAGE_CHARS / 2)))
+                    if (smaller.length > 1 && smaller.length < list.length + 2) return this.replyAdaptiveForwardBatch(smaller, session)
+                }
+                throw err
+            }
+            const mid = Math.ceil(list.length / 2)
+            session = await this.replyAdaptiveForwardBatch(list.slice(0, mid), session)
+            return this.replyAdaptiveForwardBatch(list.slice(mid), session)
+        }
+    }
+
+    async replyForwardBatchesWithSession(messages, session = null, batchSize = 8) {
+        const list = (messages || []).filter(Boolean)
+        if (!list.length) return session
+        const tracked = isValidTrackedSession(session)
+
+        for (let i = 0; i < list.length; i += batchSize) {
+            const batch = list.slice(i, i + batchSize)
+            session = await this.replyAdaptiveForwardBatch(batch, session)
+        }
+        return tracked ? session : true
+    }
+
+    async replyChunkedListWithSession(headerLines, lines, size = 30, session = null) {
+        const header = (headerLines || []).filter(Boolean).join('\n')
+        const chunks = chunkLines(lines || [], size).map(part => part.join('\n'))
+
+        if (header) session = await this.replyWithSession(header, session)
+        if (!chunks.length) return session
+        return this.replyForwardBatchesWithSession(chunks, session)
+    }
+
+    async sendTxtFallback(text, fallbackTitle = '', session = null) {
+        const tracked = isValidTrackedSession(session)
+        const { title, body } = splitLeadingTitle(text, fallbackTitle)
+        const content = [title, body].filter(Boolean).join('\n\n') || String(text || '')
+        const base = slugify(title || fallbackTitle || 'bookdex')
+        const file = path.join(tmpRoot, `${base || 'bookdex'}-${Date.now()}.txt`)
+        await fs.writeFile(file, content, 'utf8')
+
+        const notice = '合并消息发送失败，已改为 txt 文件发送'
+        if (tracked) session = await this.replyWithSession(notice, session)
+        else await this.reply(notice)
+
+        if (tracked) session = await this.replyWithSession(segment.file(`file://${file}`, path.basename(file)), session)
+        else await this.reply(segment.file(`file://${file}`, path.basename(file)))
+        return tracked ? (session || true) : true
+    }
+
+    async replyStructuredText(text, fallbackTitle = '', session = null) {
+        const tracked = isValidTrackedSession(session)
+        const { title, body } = splitLeadingTitle(text, fallbackTitle)
+        if (title) session = await this.replyWithSession(title, session)
+        else if (!tracked) await this.reply(fallbackTitle || '')
+        if (!body) return tracked ? (session || true) : true
+        const chunks = splitTextPages(body, TEXT_PAGE_CHARS)
+        if (!title && chunks.length <= 1) {
+            if (!tracked) {
+                await this.reply(body)
+                return true
+            }
+            return this.replyWithSession(body, session)
+        }
+        try {
+            return await this.replyForwardBatchesWithSession(chunks, tracked ? session : null, TEXT_FORWARD_BATCH_SIZE)
+        } catch {
+            return this.sendTxtFallback(text, fallbackTitle, tracked ? session : null)
+        }
+    }
+
+    // replyContent
+    async replyContent(title, text, wantImage = false, session = null, item = null) {
+        const tracked = isValidTrackedSession(session)
+        let rawText = String(text || "").trim()
+        let url = ""
+
+        // 1. 先把缓存带过来的链接从正文里拔出来，保证后续正则不受影响
+        const linkRegex = /(https:\/\/baike\.mihoyo\.com\/ys\/obc\/content\/\d+\/detail\?bbs_presentation_style=no_header&visit_device=pc)/i
+        const linkMatch = rawText.match(linkRegex)
+
+        if (linkMatch) {
+            url = linkMatch[1]
+            rawText = rawText.replace(linkMatch[0], "").trim()
+        } else if (item?.id || item?.pageId) {
+            const id = item.id || item.pageId
+            url = `https://baike.mihoyo.com/ys/obc/content/${id}/detail?bbs_presentation_style=no_header&visit_device=pc`
+        }
+
+        // 2. 核心分流：图片版不需要任何正文标题（渲染引擎自带），文字版保留一个正文标题
+        let textForText = rawText
+        let textForImage = rawText
+
+        // 2.5 处理《林间风》这类模块名等于书名导致的标题双黄蛋，用正则把正文里单独成行的【书名】全部吃掉，因为等下标题会单独在群聊气泡顶端发
+        if (title) {
+            const safeTitle = String(title).replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+            // 匹配独立成行的标题（允许带中括号，兼容可能存在的首尾空格）
+            const headingRegex = new RegExp(`^\\s*【?${safeTitle}】?\\s*$`, "gm")
+            
+            // 文字版：只保留第一次出现的标题，干掉后续重复的
+            let matchCount = 0
+            textForText = textForText.replace(headingRegex, (match) => {
+                matchCount++
+                return matchCount === 1 ? match.trim() : ""
+            })
+            textForText = textForText.replace(/\n{3,}/g, "\n\n").trim()
+            
+            // 图片版：无条件吃掉所有标题
+            textForImage = textForImage.replace(headingRegex, "")
+            textForImage = textForImage.replace(/\n{3,}/g, "\n\n").trim()
+        }
+
+        const chatTitle = url ? `【${title}】\n${url}` : `【${title}】`
+
+        if (wantImage) {
+            try {
+                // 发图片时，丢给渲染引擎的是 textForImage（绝对没有书名）
+                const imgs = await renderTextAsImages(title, textForImage)
+
+                if (chatTitle) {
+                    if (tracked) session = await this.replyWithSession(chatTitle, session)
+                    else {
+                        const res = await this.reply(chatTitle)
+                        if (isReplyError(res)) throw makeReplyError(res, "title reply failed")
+                    }
+                }
+
+                if (imgs.length <= 1) {
+                    for (const img of imgs) {
+                        if (tracked) {
+                            session = await this.replyWithSession(segment.image(`file://${img}`), session)
+                        } else {
+                            const res = await this.reply(segment.image(`file://${img}`))
+                            if (isReplyError(res)) throw makeReplyError(res, "image reply failed")
+                        }
+                    }
+                    return tracked ? (session || true) : true
+                }
+
+                const imageMsgs = imgs.map(img => segment.image(`file://${img}`))
+                if (tracked) {
+                    session = await this.replyForwardBatchesWithSession(imageMsgs, session, 4)
+                    return session || true
+                }
+                await this.replyForwardBatchesWithSession(imageMsgs, null, 4)
+                return true
+            } catch {
+                await this.reply("图片消息发送失败，已改为 txt 文件发送")
+                return this.sendTxtFallback(textForText, chatTitle, tracked ? session : null)
+            }
+        }
+        
+        // 发纯文字时，回复的是 textForText（保留了第一个书名）
+        return this.replyStructuredText(textForText, chatTitle, tracked ? session : null)
+    }
+
+    // replyPlotContent
+    async replyPlotContent(item, wantImage = false, session = null) {
+        const text = renderPlotText(item, "full")
+
+        if (!wantImage) return this.replyContent(item.name, text, false, session, item)
+
+        const id = item?.id || item?.pageId || ""
+        const url = id ? `https://baike.mihoyo.com/ys/obc/content/${id}/detail?bbs_presentation_style=no_header&visit_device=pc` : ""
+        const chatTitle = url ? `${item.name}\n${url}` : item.name
+
+        const tracked = isValidTrackedSession(session)
+        try {
+            if (chatTitle) {
+                if (tracked) session = await this.replyWithSession(chatTitle, session)
+                else {
+                    const res = await this.reply(chatTitle)
+                    if (isReplyError(res)) throw makeReplyError(res, "title reply failed")
+                }
+            }
+
+            const imgs = await renderPlotRichImages(item, text)
+            if (imgs.length <= 1) {
+                for (const img of imgs) {
+                    if (tracked) {
+                        session = await this.replyWithSession(segment.image(`file://${img}`), session)
+                    } else {
+                        const res = await this.reply(segment.image(`file://${img}`))
+                        if (isReplyError(res)) throw makeReplyError(res, "plot rich image reply failed")
+                    }
+                }
+                return tracked ? (session || true) : true
+            }
+
+            const imageMsgs = imgs.map(img => segment.image(`file://${img}`))
+            if (tracked) {
+                session = await this.replyForwardBatchesWithSession(imageMsgs, session, 4)
+                return session || true
+            }
+            await this.replyForwardBatchesWithSession(imageMsgs, null, 4)
+            return true
+        } catch {
+            await this.reply("剧情富文本图片发送失败，已改为 txt 文件发送")
+            return this.sendTxtFallback(text, chatTitle, tracked ? session : null)
+        }
+    }
+
+    // replyRichItemContent
+    async replyRichItemContent(item, title, text, wantImage = false, session = null, meta = []) {
+        if (!wantImage) return this.replyContent(title, text, false, session, item)
+
+        const id = item?.id || item?.pageId || ""
+        const url = id ? `https://baike.mihoyo.com/ys/obc/content/${id}/detail?bbs_presentation_style=no_header&visit_device=pc` : ""
+        const chatTitle = url ? `${title}\n${url}` : title
+
+        const tracked = isValidTrackedSession(session)
+        try {
+            if (chatTitle) {
+                if (tracked) session = await this.replyWithSession(chatTitle, session)
+                else {
+                    const res = await this.reply(chatTitle)
+                    if (isReplyError(res)) throw makeReplyError(res, "title reply failed")
+                }
+            }
+
+            const imgs = await renderRichItemImages(item, { title, fallbackText: text, meta })
+            if (imgs.length <= 1) {
+                for (const img of imgs) {
+                    if (tracked) {
+                        session = await this.replyWithSession(segment.image(`file://${img}`), session)
+                    } else {
+                        const res = await this.reply(segment.image(`file://${img}`))
+                        if (isReplyError(res)) throw makeReplyError(res, "rich image reply failed")
+                    }
+                }
+                return tracked ? (session || true) : true
+            }
+            const imageMsgs = imgs.map(img => segment.image(`file://${img}`))
+            if (tracked) return this.replyForwardBatchesWithSession(imageMsgs, session, 4)
+            await this.replyForwardBatchesWithSession(imageMsgs, null, 4)
+            return true
+        } catch {
+            await this.reply("富文本图片发送失败，已改为 txt 文件发送")
+            return this.sendTxtFallback(text, chatTitle, tracked ? session : null)
+        }
+    }
+
+    getBackpackImageUrls(item = {}) {
+        return [...new Set([
+            ...(item.imageUrls || []),
+            ...(item.sections || []).flatMap(sec => sec.images || [])
+        ].map(url => String(url || '').trim()).filter(Boolean))]
+    }
+
+
+    // replyBackpackContent
+    async replyBackpackContent(item, wantImage = false, session = null) {
+        const text = renderBackpackText(item)
+        const imageUrls = this.getBackpackImageUrls(item)
+
+        if (!wantImage && !imageUrls.length) return this.replyContent(item.name, text, false, session, item)
+
+        const id = item?.id || item?.pageId || ""
+        const url = id ? `https://baike.mihoyo.com/ys/obc/content/${id}/detail?bbs_presentation_style=no_header&visit_device=pc` : ""
+        const chatTitle = url ? `${item.name}\n${url}` : item.name
+
+        const tracked = isValidTrackedSession(session)
+        try {
+            if (chatTitle) {
+                if (tracked) session = await this.replyWithSession(chatTitle, session)
+                else {
+                    const res = await this.reply(chatTitle)
+                    if (isReplyError(res)) throw makeReplyError(res, "title reply failed")
+                }
+            }
+
+            const messages = []
+            if (wantImage) {
+                const imgs = await renderRichItemImages(item, { title: item.name, fallbackText: text })
+                messages.push(...imgs.map(img => segment.image(`file://${img}`)))
+            } else {
+                messages.push(...splitTextPages(text, TEXT_PAGE_CHARS))
+            }
+            messages.push(...imageUrls.map(url => segment.image(url)))
+            return this.replyForwardBatchesWithSession(messages, tracked ? session : null, TEXT_FORWARD_BATCH_SIZE)
+        } catch {
+            if (!tracked) await this.reply("合并消息发送失败，已改为 txt 文件发送")
+            return this.sendTxtFallback(text, chatTitle, tracked ? session : null)
+        }
+    }
+
+    outputMode(raw = '') {
+        const text = String(raw || '').trim()
+        return {
+            wantImage: /图片$/.test(text),
+            wantVoice: /语音$/.test(text),
+            wantText: !/图片$/.test(text)
+        }
+    }
+
+    trimOutputSuffix(raw = '') {
+        return String(raw || '').replace(/(文本|图片|语音)$/, '').trim()
+    }
+
+    async getQuotedMessageId() {
+        if (this.e.reply_id) return String(this.e.reply_id)
+        if (this.e.quote?.id) return String(this.e.quote.id)
+
+        if (this.e.getReply) {
+            try {
+                const reply = await this.e.getReply()
+                if (reply?.message_id) return String(reply.message_id)
+            } catch { }
+        }
+
+        return ''
+    }
+
+    hasReplyContext() {
+        if (this.e.reply_id || this.e.quote?.id) return true
+        return Array.isArray(this.e.message) && this.e.message.some(i => i?.type === 'reply')
+    }
+
+    async getMatchedSessionForIndex() {
+        const sessions = this.getUserSessions()
+        if (!sessions.length) return null
+
+        const quotedId = await this.getQuotedMessageId()
+        if (!quotedId) return null // 强制要求必须引用机器人发送的消息
+
+        // 匹配被引用的消息 ID
+        for (let i = sessions.length - 1; i >= 0; i--) {
+            const session = sessions[i]
+            const ids = (session.messageIds || []).map(String)
+            if (ids.includes(quotedId)) return session
+        }
+
+        return null
+    }
+
+    async pickByIndex() {
+        const raw = String(this.e.msg || '').trim()
+        const normalized = raw
+            .replace(/[＃#]/g, '')
+            .replace(/[０-９]/g, ch => String(ch.charCodeAt(0) - 65248))
+            .replace(/\s+/g, '')
+        const idx = Number(normalized.replace(/(文本|图片|语音)$/, ''))
+        if (!idx || idx < 1) return false
+
+        const { wantImage, wantVoice } = this.outputMode(normalized)
+        const session = await this.getMatchedSessionForIndex()
+
+        // 仅在“引用了 bookdex 自己发出的消息”时响应纯数字，否则静默
+        if (!session) return false
+
+        // 1) 优先按最近帮助类型分发
+
+        if (session?.type === 'role' && Array.isArray(session.roles)) {
+            const meta = session.roles[idx - 1]
+            if (!meta) return this.reply('序号超出范围，请先发送 #角色故事帮助')
+            const file = path.join(storyRoot, `${slugify(meta.name)}.json`)
+            if (!fss.existsSync(file)) return this.reply(`未找到角色故事：${meta.name}`)
+            const role = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderRoleStoryText(role, 'story')
+            return this.replyRichItemContent(role, `${role.name}故事`, text, wantImage)
+        }
+
+        if (session?.type === 'relic' && Array.isArray(session.relics)) {
+            const meta = session.relics[idx - 1]
+            if (!meta) return this.reply('序号超出范围，请先发送 #圣遗物帮助')
+            const file = path.join(relicRoot, `${slugify(meta.name)}.json`)
+            if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${meta.name}`)
+            const set = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderRelicText(set)
+            return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
+        }
+
+        if (session?.type === 'voice-role' && Array.isArray(session.roles)) {
+            const meta = session.roles[idx - 1]
+            if (!meta) return this.reply('序号超出范围，请先发送 #语音帮助')
+            const file = path.join(voiceRoot, `${slugify(meta.name)}.json`)
+            if (!fss.existsSync(file)) return this.reply(`未找到角色语音：${meta.name}`)
+            const voice = JSON.parse(await fs.readFile(file, 'utf8'))
+            const tab = pickDefaultVoiceTab(voice)
+            const entries = (tab.items || []).map(item => ({ role: voice.name, lang: tab.lang, ...item }))
+            const nextSession = this.saveSession({ type: 'voice-entry', role: voice.name, lang: tab.lang, entries })
+            const text = renderVoiceListText(voice, false)
+            return this.replyContent(`${voice.name}语音列表`, text, wantImage, nextSession)
+        }
+
+        if (session?.type === 'plot' && Array.isArray(session.plots)) {
+            const meta = session.plots[idx - 1]
+            if (!meta) return this.reply('序号超出范围，请先发送 #剧情帮助')
+            const file = resolvePlotFile(meta)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${meta.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderPlotText(item, 'full')
+            return this.replyPlotContent(item, wantImage)
+        }
+
+        if (session?.type === 'map' && Array.isArray(session.maps)) {
+            const meta = session.maps[idx - 1]
+            if (!meta) return this.reply('序号超出范围，请先发送 #地图文本帮助')
+            const file = resolveMapFile(meta)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${meta.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderMapText(item, 'full')
+            return this.replyRichItemContent(item, item.name, text, wantImage)
+        }
+
+        if (session?.type === 'anecdote' && Array.isArray(session.anecdotes)) {
+            const meta = session.anecdotes[idx - 1]
+            if (!meta) return this.reply('序号超出范围，请先发送 #角色逸闻帮助')
+            const file = resolveAnecdoteFile(meta)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${meta.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderAnecdoteText(item, 'full')
+            return this.replyRichItemContent(item, item.name, text, wantImage)
+        }
+
+        if (session?.type === 'card' && Array.isArray(session.cards)) {
+            const meta = session.cards[idx - 1]
+            if (!meta) return this.reply('序号超出范围，请先发送 #月谕圣牌帮助')
+            const file = resolveCardFile(meta)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${meta.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderCardText(item, 'full')
+            return this.replyRichItemContent(item, item.name, text, wantImage)
+        }
+
+        if (session?.type === 'backpack' && Array.isArray(session.backpacks)) {
+            const meta = session.backpacks[idx - 1]
+            if (!meta) return this.reply('序号超出范围，请先发送 #背包帮助')
+            const file = resolveBackpackFile(meta)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到背包：${meta.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            return this.replyBackpackContent(item, wantImage)
+        }
+
+        if (session?.type === 'voice-entry' && Array.isArray(session.entries)) {
+            const entry = session.entries[idx - 1]
+            if (!entry) return this.reply('序号超出范围，请先重新打开语音列表')
+            if (wantVoice) return sendVoiceRecord(this.e, entry.audioUrl)
+            const text = renderVoiceEntryText(entry)
+            return this.replyContent(`${entry.role}语音`, text, wantImage)
+        }
+
+        if (session?.type === 'weapon' && Array.isArray(session.weapons)) {
+            const meta = session.weapons[idx - 1]
+            if (!meta) return this.reply('序号超出范围，请先发送 #武器帮助')
+            const file = path.join(weaponRoot, `${slugify(meta.name)}.json`)
+            if (!fss.existsSync(file)) return this.reply(`未找到武器：${meta.name}`)
+            const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderWeaponText(weapon)
+            return this.replyRichItemContent(weapon, `${weapon.name}武器故事`, text, wantImage)
+        }
+
+        if (session?.type === 'search' && Array.isArray(session.results)) {
+            const row = session.results[idx - 1]
+            if (!row) return this.reply('序号超出范围，请重新搜索')
+            if (row.type === 'book') {
+                const bi = await loadIndex()
+                const b = (bi.books || []).find(x => x.title === row.name)
+                if (!b) return this.reply(`未找到书籍：${row.name}`)
+                const full = path.join(booksRoot, b.file)
+                const content = await fs.readFile(full, 'utf8')
+                return this.replyContent(b.title, renderBookTextWithDescription(b.title, content, b.desc), wantImage)
+            }
+            if (row.type === 'role') {
+                const f = path.join(storyRoot, `${slugify(row.name)}.json`)
+                if (!fss.existsSync(f)) return this.reply(`未找到角色故事：${row.name}`)
+                const role = JSON.parse(await fs.readFile(f, 'utf8'))
+                const text = renderRoleStoryText(role, 'story')
+                return this.replyRichItemContent(role, `${role.name}故事`, text, wantImage)
+            }
+            if (row.type === 'relic') {
+                const f = path.join(relicRoot, `${slugify(row.name)}.json`)
+                if (!fss.existsSync(f)) return this.reply(`未找到圣遗物：${row.name}`)
+                const set = JSON.parse(await fs.readFile(f, 'utf8'))
+                const text = renderRelicText(set)
+                return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
+            }
+            if (row.type === 'weapon') {
+                const f = path.join(weaponRoot, `${slugify(row.name)}.json`)
+                if (!fss.existsSync(f)) return this.reply(`未找到武器：${row.name}`)
+                const w = JSON.parse(await fs.readFile(f, 'utf8'))
+                const text = renderWeaponText(w)
+                return this.replyRichItemContent(w, `${w.name}武器故事`, text, wantImage)
+            }
+            if (row.type === 'voice') {
+                const entry = { role: row.role, lang: row.lang, name: row.voiceName, text: row.text, audioUrl: row.audioUrl }
+                if (wantVoice) return sendVoiceRecord(this.e, entry.audioUrl)
+                const text = renderVoiceEntryText(entry)
+                return this.replyContent(`${entry.role}语音`, text, wantImage)
+            }
+            if (row.type === 'plot') {
+                const f = resolvePlotFile(row)
+                if (!f || !fss.existsSync(f)) return this.reply(`未找到剧情文本：${row.name}`)
+                const item = JSON.parse(await fs.readFile(f, 'utf8'))
+                return this.replyPlotContent(item, wantImage)
+            }
+            if (row.type === 'map') {
+                const f = resolveMapFile(row)
+                if (!f || !fss.existsSync(f)) return this.reply(`未找到地图文本：${row.name}`)
+                const item = JSON.parse(await fs.readFile(f, 'utf8'))
+                const text = renderMapText(item, 'full')
+                return this.replyRichItemContent(item, item.name, text, wantImage)
+            }
+            if (row.type === 'anecdote') {
+                const f = resolveAnecdoteFile(row)
+                if (!f || !fss.existsSync(f)) return this.reply(`未找到角色逸闻：${row.name}`)
+                const item = JSON.parse(await fs.readFile(f, 'utf8'))
+                const text = renderAnecdoteText(item, 'full')
+                return this.replyRichItemContent(item, item.name, text, wantImage)
+            }
+            if (row.type === 'card') {
+                const f = resolveCardFile(row)
+                if (!f || !fss.existsSync(f)) return this.reply(`未找到月谕圣牌：${row.name}`)
+                const item = JSON.parse(await fs.readFile(f, 'utf8'))
+                const text = renderCardText(item, 'full')
+                return this.replyRichItemContent(item, item.name, text, wantImage)
+            }
+            if (row.type === 'backpack') {
+                const f = resolveBackpackFile(row)
+                if (!f || !fss.existsSync(f)) return this.reply(`未找到背包：${row.name}`)
+                const item = JSON.parse(await fs.readFile(f, 'utf8'))
+                return this.replyBackpackContent(item, wantImage)
+            }
+        }
+
+        // 2) 默认按书籍序号（仅限已有书籍帮助/搜索会话）
+        if (!session.books?.length) return false
+
+        const book = session.books[idx - 1]
+        if (!book) return this.reply('序号超出范围，请先发送 #书籍帮助')
+
+        const full = path.join(booksRoot, book.file)
+        if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${book.title}`)
         const content = await fs.readFile(full, 'utf8')
-        return this.replyContent(b.title, renderBookTextWithDescription(b.title, content, b.desc), wantImage)
-      }
-      if (row.type === 'role') {
-        const f = path.join(storyRoot, `${slugify(row.name)}.json`)
-        if (!fss.existsSync(f)) return this.reply(`未找到角色故事：${row.name}`)
-        const role = JSON.parse(await fs.readFile(f, 'utf8'))
-        const text = renderRoleStoryText(role, 'story')
-        return this.replyRichItemContent(role, `${role.name}故事`, text, wantImage)
-      }
-      if (row.type === 'relic') {
-        const f = path.join(relicRoot, `${slugify(row.name)}.json`)
-        if (!fss.existsSync(f)) return this.reply(`未找到圣遗物：${row.name}`)
-        const set = JSON.parse(await fs.readFile(f, 'utf8'))
-        const text = renderRelicText(set)
-        return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
-      }
-      if (row.type === 'weapon') {
-        const f = path.join(weaponRoot, `${slugify(row.name)}.json`)
-        if (!fss.existsSync(f)) return this.reply(`未找到武器：${row.name}`)
-        const w = JSON.parse(await fs.readFile(f, 'utf8'))
-        const text = renderWeaponText(w)
-        return this.replyRichItemContent(w, `${w.name}武器故事`, text, wantImage)
-      }
-      if (row.type === 'voice') {
-        const entry = { role: row.role, lang: row.lang, name: row.voiceName, text: row.text, audioUrl: row.audioUrl }
-        if (wantVoice) return sendVoiceRecord(this.e, entry.audioUrl)
-        const text = renderVoiceEntryText(entry)
-        return this.replyContent(`${entry.role}语音`, text, wantImage)
-      }
-      if (row.type === 'plot') {
-        const f = resolvePlotFile(row)
-        if (!f || !fss.existsSync(f)) return this.reply(`未找到剧情文本：${row.name}`)
-        const item = JSON.parse(await fs.readFile(f, 'utf8'))
-        return this.replyPlotContent(item, wantImage)
-      }
-      if (row.type === 'map') {
-        const f = resolveMapFile(row)
-        if (!f || !fss.existsSync(f)) return this.reply(`未找到地图文本：${row.name}`)
-        const item = JSON.parse(await fs.readFile(f, 'utf8'))
-        const text = renderMapText(item, 'full')
-        return this.replyRichItemContent(item, item.name, text, wantImage)
-      }
-      if (row.type === 'anecdote') {
-        const f = resolveAnecdoteFile(row)
-        if (!f || !fss.existsSync(f)) return this.reply(`未找到角色逸闻：${row.name}`)
-        const item = JSON.parse(await fs.readFile(f, 'utf8'))
-        const text = renderAnecdoteText(item, 'full')
-        return this.replyRichItemContent(item, item.name, text, wantImage)
-      }
-      if (row.type === 'card') {
-        const f = resolveCardFile(row)
-        if (!f || !fss.existsSync(f)) return this.reply(`未找到月谕圣牌：${row.name}`)
-        const item = JSON.parse(await fs.readFile(f, 'utf8'))
-        const text = renderCardText(item, 'full')
-        return this.replyRichItemContent(item, item.name, text, wantImage)
-      }
-      if (row.type === 'backpack') {
-        const f = resolveBackpackFile(row)
-        if (!f || !fss.existsSync(f)) return this.reply(`未找到背包：${row.name}`)
-        const item = JSON.parse(await fs.readFile(f, 'utf8'))
-        return this.replyBackpackContent(item, wantImage)
-      }
+        return this.replyContent(book.title, renderBookTextWithDescription(book.title, content, book.desc), wantImage)
     }
 
-    // 2) 默认按书籍序号（仅限已有书籍帮助/搜索会话）
-    if (!session.books?.length) return false
+    async pickByTitle() {
+        const raw = this.e.msg.replace(/^#/, '').trim()
+        if (!raw || raw.length < 2) return false
+        if (/^书籍(帮助\d*|导入)$/.test(raw)) return false
 
-    const book = session.books[idx - 1]
-    if (!book) return this.reply('序号超出范围，请先发送 #书籍帮助')
+        // 避免拦截喵喵面板变换类命令（如：#五郎面板换莉奈娅101010）
+        if (/(面板|面版).*[换变改]|[换变改].*(面板|面版)/.test(raw)) return false
 
-    const full = path.join(booksRoot, book.file)
-    if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${book.title}`)
-    const content = await fs.readFile(full, 'utf8')
-    return this.replyContent(book.title, renderBookTextWithDescription(book.title, content, book.desc), wantImage)
-  }
+        const { wantImage } = this.outputMode(raw)
+        const title = this.trimOutputSuffix(raw)
+        const norm = normalizeRoleName(title)
 
-  async pickByTitle() {
-    const raw = this.e.msg.replace(/^#/, '').trim()
-    if (!raw || raw.length < 2) return false
-    if (/^书籍(帮助\d*|导入)$/.test(raw)) return false
+        const index = await loadIndex()
+        const books = index.books || []
+        const exact = books.find(b => b.title === title)
+        const plotsIndex = await loadPlotIndex()
+        const plots = plotsIndex.items || []
+        const exactPlot = plots.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+        const mapsIndex = await loadMapIndex()
+        const maps = mapsIndex.items || []
+        const exactMap = maps.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+        const anecdotesIndex = await loadAnecdoteIndex()
+        const anecdotes = anecdotesIndex.items || []
+        const exactAnecdote = anecdotes.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+        const cardsIndex = await loadCardIndex()
+        const cards = cardsIndex.items || []
+        const exactCard = cards.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+        const backpacksIndex = await loadBackpackIndex()
+        const backpacks = backpacksIndex.items || []
+        const exactBackpack = backpacks.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+        const storyIndex = await loadStoryIndex()
+        const roles = storyIndex.roles || []
+        const exactRole = roles.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+        const voiceIndex = await loadVoiceIndex()
+        const voiceRoles = voiceIndex.roles || []
+        const exactVoice = voiceRoles.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+        const relicIndex = await loadRelicIndex()
+        const relics = relicIndex.sets || []
+        const exactRelic = relics.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+        const weaponIndex = await loadWeaponIndex()
+        const weapons = weaponIndex.weapons || []
+        const exactWeapon = weapons.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
 
-    // 避免拦截喵喵面板变换类命令（如：#五郎面板换莉奈娅101010）
-    if (/(面板|面版).*[换变改]|[换变改].*(面板|面版)/.test(raw)) return false
+        if (exact) {
+            const full = path.join(booksRoot, exact.file)
+            if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${exact.title}`)
+            const content = await fs.readFile(full, 'utf8')
+            return this.replyContent(exact.title, renderBookTextWithDescription(exact.title, content, exact.desc), wantImage)
+        }
 
-    const { wantImage } = this.outputMode(raw)
-    const title = this.trimOutputSuffix(raw)
-    const norm = normalizeRoleName(title)
+        if (exactPlot) {
+            const file = resolvePlotFile(exactPlot)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${exactPlot.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderPlotText(item, 'full')
+            return this.replyPlotContent(item, wantImage)
+        }
 
-    const index = await loadIndex()
-    const books = index.books || []
-    const exact = books.find(b => b.title === title)
-    const plotsIndex = await loadPlotIndex()
-    const plots = plotsIndex.items || []
-    const exactPlot = plots.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
-    const mapsIndex = await loadMapIndex()
-    const maps = mapsIndex.items || []
-    const exactMap = maps.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
-    const anecdotesIndex = await loadAnecdoteIndex()
-    const anecdotes = anecdotesIndex.items || []
-    const exactAnecdote = anecdotes.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
-    const cardsIndex = await loadCardIndex()
-    const cards = cardsIndex.items || []
-    const exactCard = cards.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
-    const backpacksIndex = await loadBackpackIndex()
-    const backpacks = backpacksIndex.items || []
-    const exactBackpack = backpacks.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
-    const storyIndex = await loadStoryIndex()
-    const roles = storyIndex.roles || []
-    const exactRole = roles.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
-    const voiceIndex = await loadVoiceIndex()
-    const voiceRoles = voiceIndex.roles || []
-    const exactVoice = voiceRoles.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
-    const relicIndex = await loadRelicIndex()
-    const relics = relicIndex.sets || []
-    const exactRelic = relics.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
-    const weaponIndex = await loadWeaponIndex()
-    const weapons = weaponIndex.weapons || []
-    const exactWeapon = weapons.find(item => normalizeRoleName(item.name) === norm || (item.alias || []).includes(norm))
+        if (exactMap) {
+            const file = resolveMapFile(exactMap)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${exactMap.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderMapText(item, 'full')
+            return this.replyRichItemContent(item, item.name, text, wantImage)
+        }
 
-    if (exact) {
-      const full = path.join(booksRoot, exact.file)
-      if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${exact.title}`)
-      const content = await fs.readFile(full, 'utf8')
-      return this.replyContent(exact.title, renderBookTextWithDescription(exact.title, content, exact.desc), wantImage)
+        if (exactAnecdote) {
+            const file = resolveAnecdoteFile(exactAnecdote)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${exactAnecdote.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderAnecdoteText(item, 'full')
+            return this.replyRichItemContent(item, item.name, text, wantImage)
+        }
+
+        if (exactCard) {
+            const file = resolveCardFile(exactCard)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${exactCard.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderCardText(item, 'full')
+            return this.replyRichItemContent(item, item.name, text, wantImage)
+        }
+
+        if (exactBackpack) {
+            const file = resolveBackpackFile(exactBackpack)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到背包：${exactBackpack.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            return this.replyBackpackContent(item, wantImage)
+        }
+
+        if (exactRole) {
+            const file = path.join(storyRoot, `${slugify(exactRole.name)}.json`)
+            if (!fss.existsSync(file)) return this.reply(`未找到角色故事：${exactRole.name}`)
+            const role = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderRoleStoryText(role, 'story')
+            return this.replyRichItemContent(role, `${role.name}故事`, text, wantImage)
+        }
+
+        if (exactVoice) {
+            const file = path.join(voiceRoot, `${slugify(exactVoice.name)}.json`)
+            if (!fss.existsSync(file)) return this.reply(`未找到角色语音：${exactVoice.name}`)
+            const voice = JSON.parse(await fs.readFile(file, 'utf8'))
+            const tab = pickDefaultVoiceTab(voice)
+            const session = this.saveSession({
+                at: Date.now(),
+                type: 'voice-entry',
+                role: voice.name,
+                lang: tab.lang,
+                entries: (tab.items || []).map(item => ({ role: voice.name, lang: tab.lang, ...item }))
+            })
+            const text = renderVoiceListText(voice, false)
+            return this.replyContent(`${voice.name}语音列表`, text, wantImage, session)
+        }
+
+        if (exactRelic) {
+            const file = path.join(relicRoot, `${slugify(exactRelic.name)}.json`)
+            if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${exactRelic.name}`)
+            const set = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderRelicText(set)
+            return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
+        }
+
+        if (exactWeapon) {
+            const file = path.join(weaponRoot, `${slugify(exactWeapon.name)}.json`)
+            if (!fss.existsSync(file)) return this.reply(`未找到武器：${exactWeapon.name}`)
+            const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderWeaponText(weapon)
+            return this.replyRichItemContent(weapon, `${weapon.name}武器故事`, text, wantImage)
+        }
+
+        const fuzzy = books.find(b => b.title.includes(title) || title.includes(b.title))
+        const fuzzyPlot = plots.find(item => {
+            const name = normalizeRoleName(item.name)
+            return name.includes(norm)
+        })
+        const fuzzyMap = maps.find(item => {
+            const name = normalizeRoleName(item.name)
+            return name.includes(norm)
+        })
+        const fuzzyAnecdote = anecdotes.find(item => {
+            const name = normalizeRoleName(item.name)
+            return name.includes(norm)
+        })
+        const fuzzyCard = cards.find(item => {
+            const name = normalizeRoleName(item.name)
+            return name.includes(norm)
+        })
+        const fuzzyBackpack = backpacks.find(item => {
+            const name = normalizeRoleName(item.name)
+            return name.includes(norm)
+        })
+        const fuzzyRole = roles.find(item => {
+            const name = normalizeRoleName(item.name)
+            return name.includes(norm)
+        })
+        const fuzzyVoice = voiceRoles.find(item => {
+            const name = normalizeRoleName(item.name)
+            return name.includes(norm)
+        })
+        const fuzzyRelic = relics.find(item => {
+            const name = normalizeRoleName(item.name)
+            return name.includes(norm)
+        })
+        const fuzzyWeapon = weapons.find(item => {
+            const name = normalizeRoleName(item.name)
+            return name.includes(norm)
+        })
+
+        if (fuzzy) {
+            const full = path.join(booksRoot, fuzzy.file)
+            if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${fuzzy.title}`)
+            const content = await fs.readFile(full, 'utf8')
+            return this.replyContent(fuzzy.title, renderBookTextWithDescription(fuzzy.title, content, fuzzy.desc), wantImage)
+        }
+
+        if (fuzzyPlot) {
+            const file = resolvePlotFile(fuzzyPlot)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${fuzzyPlot.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderPlotText(item, 'full')
+            return this.replyPlotContent(item, wantImage)
+        }
+
+        if (fuzzyMap) {
+            const file = resolveMapFile(fuzzyMap)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${fuzzyMap.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderMapText(item, 'full')
+            return this.replyRichItemContent(item, item.name, text, wantImage)
+        }
+
+        if (fuzzyAnecdote) {
+            const file = resolveAnecdoteFile(fuzzyAnecdote)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${fuzzyAnecdote.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderAnecdoteText(item, 'full')
+            return this.replyRichItemContent(item, item.name, text, wantImage)
+        }
+
+        if (fuzzyCard) {
+            const file = resolveCardFile(fuzzyCard)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${fuzzyCard.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderCardText(item, 'full')
+            return this.replyRichItemContent(item, item.name, text, wantImage)
+        }
+
+        if (fuzzyBackpack) {
+            const file = resolveBackpackFile(fuzzyBackpack)
+            if (!file || !fss.existsSync(file)) return this.reply(`未找到背包：${fuzzyBackpack.name}`)
+            const item = JSON.parse(await fs.readFile(file, 'utf8'))
+            return this.replyBackpackContent(item, wantImage)
+        }
+
+        if (fuzzyRole) {
+            const file = path.join(storyRoot, `${slugify(fuzzyRole.name)}.json`)
+            if (!fss.existsSync(file)) return this.reply(`未找到角色故事：${fuzzyRole.name}`)
+            const role = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderRoleStoryText(role, 'story')
+            return this.replyRichItemContent(role, `${role.name}故事`, text, wantImage)
+        }
+
+        if (fuzzyVoice) {
+            const file = path.join(voiceRoot, `${slugify(fuzzyVoice.name)}.json`)
+            if (!fss.existsSync(file)) return this.reply(`未找到角色语音：${fuzzyVoice.name}`)
+            const voice = JSON.parse(await fs.readFile(file, 'utf8'))
+            const tab = pickDefaultVoiceTab(voice)
+            const session = this.saveSession({
+                at: Date.now(),
+                type: 'voice-entry',
+                role: voice.name,
+                lang: tab.lang,
+                entries: (tab.items || []).map(item => ({ role: voice.name, lang: tab.lang, ...item }))
+            })
+            const text = renderVoiceListText(voice, false)
+            return this.replyContent(`${voice.name}语音列表`, text, wantImage, session)
+        }
+
+        if (fuzzyRelic) {
+            const file = path.join(relicRoot, `${slugify(fuzzyRelic.name)}.json`)
+            if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${fuzzyRelic.name}`)
+            const set = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderRelicText(set)
+            return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
+        }
+
+        if (fuzzyWeapon) {
+            const file = path.join(weaponRoot, `${slugify(fuzzyWeapon.name)}.json`)
+            if (!fss.existsSync(file)) return this.reply(`未找到武器：${fuzzyWeapon.name}`)
+            const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
+            const text = renderWeaponText(weapon)
+            return this.replyRichItemContent(weapon, `${weapon.name}武器故事`, text, wantImage)
+        }
+
+        return false
     }
-
-    if (exactPlot) {
-      const file = resolvePlotFile(exactPlot)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${exactPlot.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderPlotText(item, 'full')
-      return this.replyPlotContent(item, wantImage)
-    }
-
-    if (exactMap) {
-      const file = resolveMapFile(exactMap)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${exactMap.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderMapText(item, 'full')
-      return this.replyRichItemContent(item, item.name, text, wantImage)
-    }
-
-    if (exactAnecdote) {
-      const file = resolveAnecdoteFile(exactAnecdote)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${exactAnecdote.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderAnecdoteText(item, 'full')
-      return this.replyRichItemContent(item, item.name, text, wantImage)
-    }
-
-    if (exactCard) {
-      const file = resolveCardFile(exactCard)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${exactCard.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderCardText(item, 'full')
-      return this.replyRichItemContent(item, item.name, text, wantImage)
-    }
-
-    if (exactBackpack) {
-      const file = resolveBackpackFile(exactBackpack)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到背包：${exactBackpack.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      return this.replyBackpackContent(item, wantImage)
-    }
-
-    if (exactRole) {
-      const file = path.join(storyRoot, `${slugify(exactRole.name)}.json`)
-      if (!fss.existsSync(file)) return this.reply(`未找到角色故事：${exactRole.name}`)
-      const role = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderRoleStoryText(role, 'story')
-      return this.replyRichItemContent(role, `${role.name}故事`, text, wantImage)
-    }
-
-    if (exactVoice) {
-      const file = path.join(voiceRoot, `${slugify(exactVoice.name)}.json`)
-      if (!fss.existsSync(file)) return this.reply(`未找到角色语音：${exactVoice.name}`)
-      const voice = JSON.parse(await fs.readFile(file, 'utf8'))
-      const tab = pickDefaultVoiceTab(voice)
-      const session = this.saveSession({
-        at: Date.now(),
-        type: 'voice-entry',
-        role: voice.name,
-        lang: tab.lang,
-        entries: (tab.items || []).map(item => ({ role: voice.name, lang: tab.lang, ...item }))
-      })
-      const text = renderVoiceListText(voice, false)
-      return this.replyContent(`${voice.name}语音列表`, text, wantImage, session)
-    }
-
-    if (exactRelic) {
-      const file = path.join(relicRoot, `${slugify(exactRelic.name)}.json`)
-      if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${exactRelic.name}`)
-      const set = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderRelicText(set)
-      return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
-    }
-
-    if (exactWeapon) {
-      const file = path.join(weaponRoot, `${slugify(exactWeapon.name)}.json`)
-      if (!fss.existsSync(file)) return this.reply(`未找到武器：${exactWeapon.name}`)
-      const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderWeaponText(weapon)
-      return this.replyRichItemContent(weapon, `${weapon.name}武器故事`, text, wantImage)
-    }
-
-    const fuzzy = books.find(b => b.title.includes(title) || title.includes(b.title))
-    const fuzzyPlot = plots.find(item => {
-      const name = normalizeRoleName(item.name)
-      return name.includes(norm)
-    })
-    const fuzzyMap = maps.find(item => {
-      const name = normalizeRoleName(item.name)
-      return name.includes(norm)
-    })
-    const fuzzyAnecdote = anecdotes.find(item => {
-      const name = normalizeRoleName(item.name)
-      return name.includes(norm)
-    })
-    const fuzzyCard = cards.find(item => {
-      const name = normalizeRoleName(item.name)
-      return name.includes(norm)
-    })
-    const fuzzyBackpack = backpacks.find(item => {
-      const name = normalizeRoleName(item.name)
-      return name.includes(norm)
-    })
-    const fuzzyRole = roles.find(item => {
-      const name = normalizeRoleName(item.name)
-      return name.includes(norm)
-    })
-    const fuzzyVoice = voiceRoles.find(item => {
-      const name = normalizeRoleName(item.name)
-      return name.includes(norm)
-    })
-    const fuzzyRelic = relics.find(item => {
-      const name = normalizeRoleName(item.name)
-      return name.includes(norm)
-    })
-    const fuzzyWeapon = weapons.find(item => {
-      const name = normalizeRoleName(item.name)
-      return name.includes(norm)
-    })
-
-    if (fuzzy) {
-      const full = path.join(booksRoot, fuzzy.file)
-      if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${fuzzy.title}`)
-      const content = await fs.readFile(full, 'utf8')
-      return this.replyContent(fuzzy.title, renderBookTextWithDescription(fuzzy.title, content, fuzzy.desc), wantImage)
-    }
-
-    if (fuzzyPlot) {
-      const file = resolvePlotFile(fuzzyPlot)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${fuzzyPlot.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderPlotText(item, 'full')
-      return this.replyPlotContent(item, wantImage)
-    }
-
-    if (fuzzyMap) {
-      const file = resolveMapFile(fuzzyMap)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${fuzzyMap.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderMapText(item, 'full')
-      return this.replyRichItemContent(item, item.name, text, wantImage)
-    }
-
-    if (fuzzyAnecdote) {
-      const file = resolveAnecdoteFile(fuzzyAnecdote)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${fuzzyAnecdote.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderAnecdoteText(item, 'full')
-      return this.replyRichItemContent(item, item.name, text, wantImage)
-    }
-
-    if (fuzzyCard) {
-      const file = resolveCardFile(fuzzyCard)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${fuzzyCard.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderCardText(item, 'full')
-      return this.replyRichItemContent(item, item.name, text, wantImage)
-    }
-
-    if (fuzzyBackpack) {
-      const file = resolveBackpackFile(fuzzyBackpack)
-      if (!file || !fss.existsSync(file)) return this.reply(`未找到背包：${fuzzyBackpack.name}`)
-      const item = JSON.parse(await fs.readFile(file, 'utf8'))
-      return this.replyBackpackContent(item, wantImage)
-    }
-
-    if (fuzzyRole) {
-      const file = path.join(storyRoot, `${slugify(fuzzyRole.name)}.json`)
-      if (!fss.existsSync(file)) return this.reply(`未找到角色故事：${fuzzyRole.name}`)
-      const role = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderRoleStoryText(role, 'story')
-      return this.replyRichItemContent(role, `${role.name}故事`, text, wantImage)
-    }
-
-    if (fuzzyVoice) {
-      const file = path.join(voiceRoot, `${slugify(fuzzyVoice.name)}.json`)
-      if (!fss.existsSync(file)) return this.reply(`未找到角色语音：${fuzzyVoice.name}`)
-      const voice = JSON.parse(await fs.readFile(file, 'utf8'))
-      const tab = pickDefaultVoiceTab(voice)
-      const session = this.saveSession({
-        at: Date.now(),
-        type: 'voice-entry',
-        role: voice.name,
-        lang: tab.lang,
-        entries: (tab.items || []).map(item => ({ role: voice.name, lang: tab.lang, ...item }))
-      })
-      const text = renderVoiceListText(voice, false)
-      return this.replyContent(`${voice.name}语音列表`, text, wantImage, session)
-    }
-
-    if (fuzzyRelic) {
-      const file = path.join(relicRoot, `${slugify(fuzzyRelic.name)}.json`)
-      if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${fuzzyRelic.name}`)
-      const set = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderRelicText(set)
-      return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
-    }
-
-    if (fuzzyWeapon) {
-      const file = path.join(weaponRoot, `${slugify(fuzzyWeapon.name)}.json`)
-      if (!fss.existsSync(file)) return this.reply(`未找到武器：${fuzzyWeapon.name}`)
-      const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
-      const text = renderWeaponText(weapon)
-      return this.replyRichItemContent(weapon, `${weapon.name}武器故事`, text, wantImage)
-    }
-
-    return false
-  }
 }
 
 export default BookDex
