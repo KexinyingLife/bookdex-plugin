@@ -32,6 +32,8 @@ import {
 import {
   rebuildBooksFromInbox,
   renderTextAsImages,
+  renderRichItemImages,
+  renderPlotRichImages,
   pickDefaultVoiceTab,
   renderRoleStoryText,
   renderVoiceListText,
@@ -639,7 +641,7 @@ export class BookDex extends plugin {
     const role = JSON.parse(await fs.readFile(file, 'utf8'))
 
     const text = renderRoleStoryText(role, wantDetail ? 'detail' : 'story')
-    return this.replyContent(wantDetail ? `${role.name}故事详情` : `${role.name}故事`, text, wantImage)
+    return this.replyRichItemContent(role, wantDetail ? `${role.name}故事详情` : `${role.name}故事`, text, wantImage)
   }
 
 
@@ -768,8 +770,7 @@ export class BookDex extends plugin {
     const file = resolvePlotFile(meta)
     if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${meta.name}`)
     const item = JSON.parse(await fs.readFile(file, 'utf8'))
-    const text = renderPlotText(item, 'full')
-    return this.replyContent(item.name, text, wantImage)
+    return this.replyPlotContent(item, wantImage)
   }
 
   async updateMaps() {
@@ -820,7 +821,7 @@ export class BookDex extends plugin {
     if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${meta.name}`)
     const item = JSON.parse(await fs.readFile(file, 'utf8'))
     const text = renderMapText(item, 'full')
-    return this.replyContent(item.name, text, wantImage)
+    return this.replyRichItemContent(item, item.name, text, wantImage)
   }
 
   async updateAnecdotes() {
@@ -871,7 +872,7 @@ export class BookDex extends plugin {
     if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${meta.name}`)
     const item = JSON.parse(await fs.readFile(file, 'utf8'))
     const text = renderAnecdoteText(item, 'full')
-    return this.replyContent(item.name, text, wantImage)
+    return this.replyRichItemContent(item, item.name, text, wantImage)
   }
 
   async updateCards() {
@@ -922,7 +923,7 @@ export class BookDex extends plugin {
     if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${meta.name}`)
     const item = JSON.parse(await fs.readFile(file, 'utf8'))
     const text = renderCardText(item, 'full')
-    return this.replyContent(item.name, text, wantImage)
+    return this.replyRichItemContent(item, item.name, text, wantImage)
   }
 
   async updateBackpacks() {
@@ -1017,7 +1018,7 @@ export class BookDex extends plugin {
     if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${meta.name}`)
     const set = JSON.parse(await fs.readFile(file, 'utf8'))
     const text = renderRelicText(set)
-    return this.replyContent(`${set.name}圣遗物`, text, wantImage)
+    return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
   }
 
   async updateWeapons() {
@@ -1063,7 +1064,7 @@ export class BookDex extends plugin {
     if (!fss.existsSync(file)) return this.reply(`未找到武器：${meta.name}`)
     const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
     const text = renderWeaponText(weapon)
-    return this.replyContent(`${weapon.name}武器故事`, text, wantImage)
+    return this.replyRichItemContent(weapon, `${weapon.name}武器故事`, text, wantImage)
   }
 
   async updateBooksFromWiki() {
@@ -1479,6 +1480,65 @@ export class BookDex extends plugin {
     return this.replyStructuredText(text, title, tracked ? session : null)
   }
 
+  async replyPlotContent(item, wantImage = false, session = null) {
+    const text = renderPlotText(item, 'full')
+    if (!wantImage) return this.replyContent(item.name, text, false, session)
+
+    const tracked = isValidTrackedSession(session)
+    try {
+      const imgs = await renderPlotRichImages(item, text)
+      if (imgs.length <= 1) {
+        for (const img of imgs) {
+          if (tracked) {
+            session = await this.replyWithSession(segment.image(`file://${img}`), session)
+          } else {
+            const res = await this.reply(segment.image(`file://${img}`))
+            if (isReplyError(res)) throw makeReplyError(res, 'plot rich image reply failed')
+          }
+        }
+        return tracked ? (session || true) : true
+      }
+
+      const imageMsgs = imgs.map(img => segment.image(`file://${img}`))
+      if (tracked) {
+        session = await this.replyForwardBatchesWithSession(imageMsgs, session, 4)
+        return session || true
+      }
+      await this.replyForwardBatchesWithSession(imageMsgs, null, 4)
+      return true
+    } catch {
+      await this.reply('剧情富文本图片发送失败，已改为 txt 文件发送')
+      return this.sendTxtFallback(text, item.name, tracked ? session : null)
+    }
+  }
+
+  async replyRichItemContent(item, title, text, wantImage = false, session = null, meta = []) {
+    if (!wantImage) return this.replyContent(title, text, false, session)
+
+    const tracked = isValidTrackedSession(session)
+    try {
+      const imgs = await renderRichItemImages(item, { title, fallbackText: text, meta })
+      if (imgs.length <= 1) {
+        for (const img of imgs) {
+          if (tracked) {
+            session = await this.replyWithSession(segment.image(`file://${img}`), session)
+          } else {
+            const res = await this.reply(segment.image(`file://${img}`))
+            if (isReplyError(res)) throw makeReplyError(res, 'rich image reply failed')
+          }
+        }
+        return tracked ? (session || true) : true
+      }
+      const imageMsgs = imgs.map(img => segment.image(`file://${img}`))
+      if (tracked) return this.replyForwardBatchesWithSession(imageMsgs, session, 4)
+      await this.replyForwardBatchesWithSession(imageMsgs, null, 4)
+      return true
+    } catch {
+      await this.reply('富文本图片发送失败，已改为 txt 文件发送')
+      return this.sendTxtFallback(text, title, tracked ? session : null)
+    }
+  }
+
   getBackpackImageUrls(item = {}) {
     return [...new Set([
       ...(item.imageUrls || []),
@@ -1489,13 +1549,13 @@ export class BookDex extends plugin {
   async replyBackpackContent(item, wantImage = false, session = null) {
     const text = renderBackpackText(item)
     const imageUrls = this.getBackpackImageUrls(item)
-    if (!imageUrls.length) return this.replyContent(item.name, text, wantImage, session)
+    if (!wantImage && !imageUrls.length) return this.replyContent(item.name, text, false, session)
 
     const tracked = isValidTrackedSession(session)
     try {
       const messages = []
       if (wantImage) {
-        const imgs = await renderTextAsImages(item.name, text)
+        const imgs = await renderRichItemImages(item, { title: item.name, fallbackText: text })
         messages.push(...imgs.map(img => segment.image(`file://${img}`)))
       } else {
         messages.push(...splitTextPages(text, TEXT_PAGE_CHARS))
@@ -1581,7 +1641,7 @@ export class BookDex extends plugin {
       if (!fss.existsSync(file)) return this.reply(`未找到角色故事：${meta.name}`)
       const role = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderRoleStoryText(role, 'story')
-      return this.replyContent(`${role.name}故事`, text, wantImage)
+      return this.replyRichItemContent(role, `${role.name}故事`, text, wantImage)
     }
 
     if (session?.type === 'relic' && Array.isArray(session.relics)) {
@@ -1591,7 +1651,7 @@ export class BookDex extends plugin {
       if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${meta.name}`)
       const set = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderRelicText(set)
-      return this.replyContent(`${set.name}圣遗物`, text, wantImage)
+      return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
     }
 
     if (session?.type === 'voice-role' && Array.isArray(session.roles)) {
@@ -1614,7 +1674,7 @@ export class BookDex extends plugin {
       if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${meta.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderPlotText(item, 'full')
-      return this.replyContent(item.name, text, wantImage)
+      return this.replyPlotContent(item, wantImage)
     }
 
     if (session?.type === 'map' && Array.isArray(session.maps)) {
@@ -1624,7 +1684,7 @@ export class BookDex extends plugin {
       if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${meta.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderMapText(item, 'full')
-      return this.replyContent(item.name, text, wantImage)
+      return this.replyRichItemContent(item, item.name, text, wantImage)
     }
 
     if (session?.type === 'anecdote' && Array.isArray(session.anecdotes)) {
@@ -1634,7 +1694,7 @@ export class BookDex extends plugin {
       if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${meta.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderAnecdoteText(item, 'full')
-      return this.replyContent(item.name, text, wantImage)
+      return this.replyRichItemContent(item, item.name, text, wantImage)
     }
 
     if (session?.type === 'card' && Array.isArray(session.cards)) {
@@ -1644,7 +1704,7 @@ export class BookDex extends plugin {
       if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${meta.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderCardText(item, 'full')
-      return this.replyContent(item.name, text, wantImage)
+      return this.replyRichItemContent(item, item.name, text, wantImage)
     }
 
     if (session?.type === 'backpack' && Array.isArray(session.backpacks)) {
@@ -1671,7 +1731,7 @@ export class BookDex extends plugin {
       if (!fss.existsSync(file)) return this.reply(`未找到武器：${meta.name}`)
       const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderWeaponText(weapon)
-      return this.replyContent(`${weapon.name}武器故事`, text, wantImage)
+        return this.replyRichItemContent(weapon, `${weapon.name}武器故事`, text, wantImage)
     }
 
     if (session?.type === 'search' && Array.isArray(session.results)) {
@@ -1690,21 +1750,21 @@ export class BookDex extends plugin {
         if (!fss.existsSync(f)) return this.reply(`未找到角色故事：${row.name}`)
         const role = JSON.parse(await fs.readFile(f, 'utf8'))
         const text = renderRoleStoryText(role, 'story')
-        return this.replyContent(`${role.name}故事`, text, wantImage)
+        return this.replyRichItemContent(role, `${role.name}故事`, text, wantImage)
       }
       if (row.type === 'relic') {
         const f = path.join(relicRoot, `${slugify(row.name)}.json`)
         if (!fss.existsSync(f)) return this.reply(`未找到圣遗物：${row.name}`)
         const set = JSON.parse(await fs.readFile(f, 'utf8'))
         const text = renderRelicText(set)
-        return this.replyContent(`${set.name}圣遗物`, text, wantImage)
+        return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
       }
       if (row.type === 'weapon') {
         const f = path.join(weaponRoot, `${slugify(row.name)}.json`)
         if (!fss.existsSync(f)) return this.reply(`未找到武器：${row.name}`)
         const w = JSON.parse(await fs.readFile(f, 'utf8'))
         const text = renderWeaponText(w)
-        return this.replyContent(`${w.name}武器故事`, text, wantImage)
+        return this.replyRichItemContent(w, `${w.name}武器故事`, text, wantImage)
       }
       if (row.type === 'voice') {
         const entry = { role: row.role, lang: row.lang, name: row.voiceName, text: row.text, audioUrl: row.audioUrl }
@@ -1716,29 +1776,28 @@ export class BookDex extends plugin {
         const f = resolvePlotFile(row)
         if (!f || !fss.existsSync(f)) return this.reply(`未找到剧情文本：${row.name}`)
         const item = JSON.parse(await fs.readFile(f, 'utf8'))
-        const text = renderPlotText(item, 'full')
-        return this.replyContent(item.name, text, wantImage)
+        return this.replyPlotContent(item, wantImage)
       }
       if (row.type === 'map') {
         const f = resolveMapFile(row)
         if (!f || !fss.existsSync(f)) return this.reply(`未找到地图文本：${row.name}`)
         const item = JSON.parse(await fs.readFile(f, 'utf8'))
         const text = renderMapText(item, 'full')
-        return this.replyContent(item.name, text, wantImage)
+        return this.replyRichItemContent(item, item.name, text, wantImage)
       }
       if (row.type === 'anecdote') {
         const f = resolveAnecdoteFile(row)
         if (!f || !fss.existsSync(f)) return this.reply(`未找到角色逸闻：${row.name}`)
         const item = JSON.parse(await fs.readFile(f, 'utf8'))
         const text = renderAnecdoteText(item, 'full')
-        return this.replyContent(item.name, text, wantImage)
+        return this.replyRichItemContent(item, item.name, text, wantImage)
       }
       if (row.type === 'card') {
         const f = resolveCardFile(row)
         if (!f || !fss.existsSync(f)) return this.reply(`未找到月谕圣牌：${row.name}`)
         const item = JSON.parse(await fs.readFile(f, 'utf8'))
         const text = renderCardText(item, 'full')
-        return this.replyContent(item.name, text, wantImage)
+        return this.replyRichItemContent(item, item.name, text, wantImage)
       }
       if (row.type === 'backpack') {
         const f = resolveBackpackFile(row)
@@ -1815,7 +1874,7 @@ export class BookDex extends plugin {
       if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${exactPlot.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderPlotText(item, 'full')
-      return this.replyContent(item.name, text, wantImage)
+      return this.replyPlotContent(item, wantImage)
     }
 
     if (exactMap) {
@@ -1823,7 +1882,7 @@ export class BookDex extends plugin {
       if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${exactMap.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderMapText(item, 'full')
-      return this.replyContent(item.name, text, wantImage)
+      return this.replyRichItemContent(item, item.name, text, wantImage)
     }
 
     if (exactAnecdote) {
@@ -1831,7 +1890,7 @@ export class BookDex extends plugin {
       if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${exactAnecdote.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderAnecdoteText(item, 'full')
-      return this.replyContent(item.name, text, wantImage)
+      return this.replyRichItemContent(item, item.name, text, wantImage)
     }
 
     if (exactCard) {
@@ -1839,7 +1898,7 @@ export class BookDex extends plugin {
       if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${exactCard.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderCardText(item, 'full')
-      return this.replyContent(item.name, text, wantImage)
+      return this.replyRichItemContent(item, item.name, text, wantImage)
     }
 
     if (exactBackpack) {
@@ -1854,7 +1913,7 @@ export class BookDex extends plugin {
       if (!fss.existsSync(file)) return this.reply(`未找到角色故事：${exactRole.name}`)
       const role = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderRoleStoryText(role, 'story')
-      return this.replyContent(`${role.name}故事`, text, wantImage)
+      return this.replyRichItemContent(role, `${role.name}故事`, text, wantImage)
     }
 
     if (exactVoice) {
@@ -1878,7 +1937,7 @@ export class BookDex extends plugin {
       if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${exactRelic.name}`)
       const set = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderRelicText(set)
-      return this.replyContent(`${set.name}圣遗物`, text, wantImage)
+      return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
     }
 
     if (exactWeapon) {
@@ -1886,7 +1945,7 @@ export class BookDex extends plugin {
       if (!fss.existsSync(file)) return this.reply(`未找到武器：${exactWeapon.name}`)
       const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderWeaponText(weapon)
-      return this.replyContent(`${weapon.name}武器故事`, text, wantImage)
+      return this.replyRichItemContent(weapon, `${weapon.name}武器故事`, text, wantImage)
     }
 
     const fuzzy = books.find(b => b.title.includes(title) || title.includes(b.title))
@@ -1939,7 +1998,7 @@ export class BookDex extends plugin {
       if (!file || !fss.existsSync(file)) return this.reply(`未找到剧情文本：${fuzzyPlot.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderPlotText(item, 'full')
-      return this.replyContent(item.name, text, wantImage)
+      return this.replyPlotContent(item, wantImage)
     }
 
     if (fuzzyMap) {
@@ -1947,7 +2006,7 @@ export class BookDex extends plugin {
       if (!file || !fss.existsSync(file)) return this.reply(`未找到地图文本：${fuzzyMap.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderMapText(item, 'full')
-      return this.replyContent(item.name, text, wantImage)
+      return this.replyRichItemContent(item, item.name, text, wantImage)
     }
 
     if (fuzzyAnecdote) {
@@ -1955,7 +2014,7 @@ export class BookDex extends plugin {
       if (!file || !fss.existsSync(file)) return this.reply(`未找到角色逸闻：${fuzzyAnecdote.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderAnecdoteText(item, 'full')
-      return this.replyContent(item.name, text, wantImage)
+      return this.replyRichItemContent(item, item.name, text, wantImage)
     }
 
     if (fuzzyCard) {
@@ -1963,7 +2022,7 @@ export class BookDex extends plugin {
       if (!file || !fss.existsSync(file)) return this.reply(`未找到月谕圣牌：${fuzzyCard.name}`)
       const item = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderCardText(item, 'full')
-      return this.replyContent(item.name, text, wantImage)
+      return this.replyRichItemContent(item, item.name, text, wantImage)
     }
 
     if (fuzzyBackpack) {
@@ -1978,7 +2037,7 @@ export class BookDex extends plugin {
       if (!fss.existsSync(file)) return this.reply(`未找到角色故事：${fuzzyRole.name}`)
       const role = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderRoleStoryText(role, 'story')
-      return this.replyContent(`${role.name}故事`, text, wantImage)
+      return this.replyRichItemContent(role, `${role.name}故事`, text, wantImage)
     }
 
     if (fuzzyVoice) {
@@ -2002,7 +2061,7 @@ export class BookDex extends plugin {
       if (!fss.existsSync(file)) return this.reply(`未找到圣遗物：${fuzzyRelic.name}`)
       const set = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderRelicText(set)
-      return this.replyContent(`${set.name}圣遗物`, text, wantImage)
+      return this.replyRichItemContent(set, `${set.name}圣遗物`, text, wantImage)
     }
 
     if (fuzzyWeapon) {
@@ -2010,7 +2069,7 @@ export class BookDex extends plugin {
       if (!fss.existsSync(file)) return this.reply(`未找到武器：${fuzzyWeapon.name}`)
       const weapon = JSON.parse(await fs.readFile(file, 'utf8'))
       const text = renderWeaponText(weapon)
-      return this.replyContent(`${weapon.name}武器故事`, text, wantImage)
+      return this.replyRichItemContent(weapon, `${weapon.name}武器故事`, text, wantImage)
     }
 
     return false
