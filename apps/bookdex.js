@@ -1441,6 +1441,11 @@ export class BookDex extends plugin {
         }
     }
 
+    bookLinkItem(book = {}) {
+        const id = String(book.source || "").replace(/^wiki:/, "")
+        return id ? { id } : null
+    }
+
     // replyContent
     async replyContent(title, text, wantImage = false, session = null, item = null) {
         const tracked = isValidTrackedSession(session)
@@ -1831,7 +1836,7 @@ export class BookDex extends plugin {
                 if (!b) return this.reply(`未找到书籍：${row.name}`)
                 const full = path.join(booksRoot, b.file)
                 const content = await fs.readFile(full, 'utf8')
-                return this.replyContent(b.title, renderBookTextWithDescription(b.title, content, b.desc), wantImage)
+                return this.replyContent(b.title, renderBookTextWithDescription(b.title, content, b.desc), wantImage, null, this.bookLinkItem(b))
             }
             if (row.type === 'role') {
                 const f = path.join(storyRoot, `${slugify(row.name)}.json`)
@@ -1904,7 +1909,7 @@ export class BookDex extends plugin {
         const full = path.join(booksRoot, book.file)
         if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${book.title}`)
         const content = await fs.readFile(full, 'utf8')
-        return this.replyContent(book.title, renderBookTextWithDescription(book.title, content, book.desc), wantImage)
+        return this.replyContent(book.title, renderBookTextWithDescription(book.title, content, book.desc), wantImage, null, this.bookLinkItem(book))
     }
 
     async pickByTitle() {
@@ -1954,7 +1959,7 @@ export class BookDex extends plugin {
             const full = path.join(booksRoot, exact.file)
             if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${exact.title}`)
             const content = await fs.readFile(full, 'utf8')
-            return this.replyContent(exact.title, renderBookTextWithDescription(exact.title, content, exact.desc), wantImage)
+            return this.replyContent(exact.title, renderBookTextWithDescription(exact.title, content, exact.desc), wantImage, null, this.bookLinkItem(exact))
         }
 
         if (exactPlot) {
@@ -2078,7 +2083,7 @@ export class BookDex extends plugin {
             const full = path.join(booksRoot, fuzzy.file)
             if (!fss.existsSync(full)) return this.reply(`书籍文件不存在：${fuzzy.title}`)
             const content = await fs.readFile(full, 'utf8')
-            return this.replyContent(fuzzy.title, renderBookTextWithDescription(fuzzy.title, content, fuzzy.desc), wantImage)
+            return this.replyContent(fuzzy.title, renderBookTextWithDescription(fuzzy.title, content, fuzzy.desc), wantImage, null, this.bookLinkItem(fuzzy))
         }
 
         if (fuzzyPlot) {
